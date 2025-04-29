@@ -1,0 +1,901 @@
+[
+    {
+        "index": 1,
+        "title": "[ DAY1 R0 ] Opening",
+        "url": "https://www.youtube.com/watch?v=9eUyPSwLx_s",
+        "video_id": "9eUyPSwLx_s",
+        "uploader": "PyCon Taiwan",
+        "uploader_id": "@PyConTaiwanVideo",
+        "uploader_url": "https://www.youtube.com/@PyConTaiwanVideo",
+        "upload_date": "20241108",
+        "duration": 789,
+        "view_count": 335,
+        "like_count": 6,
+        "comment_count": null,
+        "tags": [
+            "pycontw",
+            "python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "Follow “PyCon Taiwan”\n⭐️ Official Website: https://tw.pycon.org\n⭐️ Facebook: https://www.facebook.com/pycontw\n⭐️ Instagram: https://www.instagram.com/pycontw\n⭐️ Twitter: https://twitter.com/PyConTW\n⭐️ LinkedIn: https://www.linkedin.com/company/pycontw\n⭐️ Blogger: https://pycontw.blogspot.com\n\n#python #pycontw2024",
+        "thumbnail": "https://i.ytimg.com/vi/9eUyPSwLx_s/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=9eUyPSwLx_s",
+        "original_url": "https://www.youtube.com/watch?v=9eUyPSwLx_s"
+    },
+    {
+        "index": 2,
+        "title": "[ DAY1 R0_Keynote ] 你的 code 充滿時間：使用 Python 進入聲音訊號的世界 Entering the World of Audio Signals with Python",
+        "url": "https://www.youtube.com/watch?v=8w5jx_BQ7sg",
+        "video_id": "8w5jx_BQ7sg",
+        "uploader": "PyCon Taiwan",
+        "uploader_id": "@PyConTaiwanVideo",
+        "uploader_url": "https://www.youtube.com/@PyConTaiwanVideo",
+        "upload_date": "20241123",
+        "duration": 3490,
+        "view_count": 152,
+        "like_count": 1,
+        "comment_count": null,
+        "tags": [
+            "pycontw",
+            "python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "聲音在我們的日常生活中無所不在，卻是那個常常被跳過的邊緣人。在這個演講中，我們將從資料科學的視角出發，與大家聊聊使用 Python 進行音訊處理的基本知識、時間維度資料的特性、重要的數學工具，以及跟聲音相關的一些人工智慧問題。此外，我們將特別討論如何運用這些工具處理複雜的音樂與生物訊號，例如音高、節奏與和聲等等。最後，我們希望從音樂生成、人機共演到音樂文化資產研究等應用議題，呈現當代音樂人工智慧研究的多重面貌。\n\n由於現階段大多數人工智慧的應用都是以文字與圖像的處理為主，因此在音訊處理上的應用以及原理相信大家會非常感興趣。我們希望透過這個演講跟大家介紹 Python 在音訊處理和音樂人工智慧技術可以做到的事，並跟大家分享個人在使用 Python 當做研究的工具的心得。\n\n講者介紹｜蘇黎\n我目前擔任中央研究院資訊科學研究所副研究員。個人的研究興趣跨足人工智慧技術、多媒體技術與音樂資訊檢索等領域。曾獲傑出人才發展基金會年輕學者創新獎、國際音樂資訊檢索會議（ISMIR）的最佳論文獎，並入圍 ACM 國際多媒體會議（ACM MM）的最佳論文獎候選。曾應邀成為第29屆金曲獎金曲國際音樂節國際論壇的與談人，參與的演出包括〈日新樂譯〉（於國家音樂廳演出，2017年）和〈夜之絮語〉（於高雄衛武營表演廳演出，2019年）等。\n個人網站：https://homepage.iis.sinica.edu.tw/pages/lisu/index_zh.html\n\n更多資訊｜https://tw.pycon.org/2024/zh-hant/conference/keynotes#SuLi  \n\nFollow “PyCon Taiwan”\n⭐️ Official Website: https://tw.pycon.org\n⭐️ Facebook: https://www.facebook.com/pycontw\n⭐️ Instagram: https://www.instagram.com/pycontw\n⭐️ Twitter: https://twitter.com/PyConTW\n⭐️ LinkedIn: https://www.linkedin.com/company/pycontw\n⭐️ Blogger: https://pycontw.blogspot.com\n\n#python #keynote #pycontw2024",
+        "thumbnail": "https://i.ytimg.com/vi/8w5jx_BQ7sg/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=8w5jx_BQ7sg",
+        "original_url": "https://www.youtube.com/watch?v=8w5jx_BQ7sg"
+    },
+    {
+        "index": 3,
+        "title": "[ DAY1 R0_Talk ] Topic Modeling with Python: What do Customers Care about Digital Banking Apps?",
+        "url": "https://www.youtube.com/watch?v=GKSqfNrVwPI",
+        "video_id": "GKSqfNrVwPI",
+        "uploader": "PyCon Taiwan",
+        "uploader_id": "@PyConTaiwanVideo",
+        "uploader_url": "https://www.youtube.com/@PyConTaiwanVideo",
+        "upload_date": "20241123",
+        "duration": 1837,
+        "view_count": 62,
+        "like_count": 0,
+        "comment_count": null,
+        "tags": [
+            "pycontw",
+            "python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "網路銀行App 的使用體驗是各間銀行在發展數位金融的一項成功關鍵，直接影響到客戶對於企業的忠誠度。然而要分析客戶的使用體驗並不是一件容易的事情，雖然 Google Play / Apple Store 的應用市集已經提供了 APP 的滿意度分數了，但是滿意度分數卻過度的簡化了使用體驗背後所包含的訊息。我們從滿意度分數就推敲出各 APP 獲得高/低分的原因，以及找出需要優化的方向。因此如何分析與應用非結構化的客戶留言資料就成為相當重要的課題 在這次的演講中我將以台灣 19 間銀行的 APP 在 Google Play 上共 31,474 筆評論，以真實的資料示範透過 Python 進行主題模型(Topic modeling)的方法以及過程中的成功與失敗的經驗。最終從文本中萃取出不同的討論話題，並為各個話題找出有意義的重要關鍵詞，讓公司能深入了解 APP 使用體驗與優缺點。也期望透過這次分享讓資料科學家、數據分析師在面對這類情境時能掌握透過 Python 進行 Topic Modeling 的流程以及成功關鍵。\n\n講者介紹｜游騰林\nI'm Teng-Lin Yu, a data scientist from Cathay Financial Holdings. I have over eight years of hands-on experience in data analysis and machine/deep learning models, having worked in the telecommunications and financial industries. I enjoy applying data science techniques to solve real-world problems rather than theoretical research. I also share my practical experience at technology conferences in my spare time. My ideal work style is to be a consultant, helping businesses improve operational performance by sharing my data science project experience and techniques. If you are interested in data science applications, please feel free to connect with me.\n\n更多資訊｜https://tw.pycon.org/2024/zh-hant/conference/talk/321 \n\nFollow “PyCon Taiwan”\n⭐️ Official Website: https://tw.pycon.org\n⭐️ Facebook: https://www.facebook.com/pycontw\n⭐️ Instagram: https://www.instagram.com/pycontw\n⭐️ Twitter: https://twitter.com/PyConTW\n⭐️ LinkedIn: https://www.linkedin.com/company/pycontw\n⭐️ Blogger: https://pycontw.blogspot.com\n\n#python #talk #pycontw2024",
+        "thumbnail": "https://i.ytimg.com/vi/GKSqfNrVwPI/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=GKSqfNrVwPI",
+        "original_url": "https://www.youtube.com/watch?v=GKSqfNrVwPI"
+    },
+    {
+        "index": 4,
+        "title": "[ DAY1 R0_Talk ] Data Morph: A Cautionary Tale of Summary Statistics",
+        "url": "https://www.youtube.com/watch?v=9TFQDEIjnT4",
+        "video_id": "9TFQDEIjnT4",
+        "uploader": "PyCon Taiwan",
+        "uploader_id": "@PyConTaiwanVideo",
+        "uploader_url": "https://www.youtube.com/@PyConTaiwanVideo",
+        "upload_date": "20241123",
+        "duration": 2450,
+        "view_count": 47,
+        "like_count": 0,
+        "comment_count": null,
+        "tags": [
+            "pycontw",
+            "python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "Statistics do not come intuitively to humans; they always try to find simple ways to describe complex things. Given a complex dataset, they may feel tempted to use simple summary statistics like the mean, median, or standard deviation to describe it. However, these numbers are not a replacement for visualizing the distribution. To illustrate this fact, researchers have generated many datasets that are very different visually, but share the same summary statistics. In this talk, I will discuss [Data Morph](https://github.com/stefmolin/data-morph), an open source package that builds on previous research using simulated annealing to perturb an arbitrary input dataset into a variety of shapes, while preserving the mean, standard deviation, and correlation to multiple decimal points. I will showcase how it works, discuss the challenges faced during development, and explore the limitations of this approach.\n\n講者介紹｜Stefanie Molin\nStefanie Molin is a software engineer at Bloomberg in New York City, where she tackles tough problems in information security, particularly those revolving around data wrangling/visualization, building tools for gathering data, and knowledge sharing. She is also the author of “Hands-On Data Analysis with Pandas: A Python data science handbook for data collection, wrangling, analysis, and visualization,” which is currently in its second edition and has been translated into Korean and Chinese. She holds a bachelor’s of science degree in operations research from Columbia University's Fu Foundation School of Engineering and Applied Science, as well as a master’s degree in computer science, with a specialization in machine learning, from Georgia Tech. In her free time, she enjoys traveling the world, inventing new recipes, and learning new languages spoken among both people and computers.\n\n更多資訊｜https://tw.pycon.org/2024/zh-hant/conference/talk/306\n  \nFollow “PyCon Taiwan”\n⭐️ Official Website: https://tw.pycon.org\n⭐️ Facebook: https://www.facebook.com/pycontw\n⭐️ Instagram: https://www.instagram.com/pycontw\n⭐️ Twitter: https://twitter.com/PyConTW\n⭐️ LinkedIn: https://www.linkedin.com/company/pycontw\n⭐️ Blogger: https://pycontw.blogspot.com\n\n#python #talk #pycontw2024",
+        "thumbnail": "https://i.ytimg.com/vi/9TFQDEIjnT4/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=9TFQDEIjnT4",
+        "original_url": "https://www.youtube.com/watch?v=9TFQDEIjnT4"
+    },
+    {
+        "index": 5,
+        "title": "[ DAY1 R0_Talk ] How to learn Japanese with Python",
+        "url": "https://www.youtube.com/watch?v=P8fOpEIKzzI",
+        "video_id": "P8fOpEIKzzI",
+        "uploader": "PyCon Taiwan",
+        "uploader_id": "@PyConTaiwanVideo",
+        "uploader_url": "https://www.youtube.com/@PyConTaiwanVideo",
+        "upload_date": "20241123",
+        "duration": 1818,
+        "view_count": 163,
+        "like_count": 5,
+        "comment_count": null,
+        "tags": [
+            "pycontw",
+            "python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "Japanese is reportedly one of the most difficult languages for English speakers to learn. (FSI language difficulty: https://www.fsi-language-courses.org/blog/fsi-language-difficulty/) There are many reasons for this, including the fact that there are three types of characters: hiragana, katakana, and kanji, and that words are not separated by spaces. In this talk, I will first introduce what makes Japanese different from many European languages. Then I will show how Python and natural language processing libraries can be used to support Japanese language learning.\n\n講者介紹｜Takanori Suzuki\nTakanori is the Chair of PyCon JP Association(www.pycon.jp) and Co-Chair of PyCon JP 2024. He is also a director of BeProud Inc.(www.beproud.jp), and his title is \"Python Climber\". Currently he teaches Python to beginners as a lecturer at Python Boot Camp(pycamp.pycon.jp) all over Japan. In addition, he published several Python books. He plays trumpet, climbs boulder, loves ferrets, beer and Lego.\n\n更多資訊｜https://tw.pycon.org/2024/zh-hant/conference/talk/309  \n\nFollow “PyCon Taiwan”\n⭐️ Official Website: https://tw.pycon.org\n⭐️ Facebook: https://www.facebook.com/pycontw\n⭐️ Instagram: https://www.instagram.com/pycontw\n⭐️ Twitter: https://twitter.com/PyConTW\n⭐️ LinkedIn: https://www.linkedin.com/company/pycontw\n⭐️ Blogger: https://pycontw.blogspot.com\n\n#python #talk #pycontw2024",
+        "thumbnail": "https://i.ytimg.com/vi/P8fOpEIKzzI/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=P8fOpEIKzzI",
+        "original_url": "https://www.youtube.com/watch?v=P8fOpEIKzzI"
+    },
+    {
+        "index": 6,
+        "title": "[ DAY1 R0_Talk ] Python can make robots easy",
+        "url": "https://www.youtube.com/watch?v=fyjt6wmi-BU",
+        "video_id": "fyjt6wmi-BU",
+        "uploader": "PyCon Taiwan",
+        "uploader_id": "@PyConTaiwanVideo",
+        "uploader_url": "https://www.youtube.com/@PyConTaiwanVideo",
+        "upload_date": "20241123",
+        "duration": 2720,
+        "view_count": 51,
+        "like_count": 0,
+        "comment_count": null,
+        "tags": [
+            "pycontw",
+            "python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "If you want to get started with robotics, and you don't have C/C++ knowledge, Python can be a good starting language to get you the experience of building software for robots. The toolchain for ROS supports Python by default, giving you all of the features, making it really simple to get started with building your own robots! If you are looking for a reason to learn Python, and robotics is exciting for you, I am hoping that you can get the introduction from this talk. It is easier to follow if you have a basic understanding of the Python language syntax.\n\n講者介紹｜Utkarsh Goel\nUtkarsh is the co-founder and CTO of Clearbot, a self-driving boat company that cleans trash from the oceans. He loves to solve problems, and works on machine learning, embedded systems, and robotics. He is also part of the Forbes 30 U 30 Asia list.\n\n更多資訊｜https://tw.pycon.org/2024/zh-hant/conference/talk/312  \n\nFollow “PyCon Taiwan”\n⭐️ Official Website: https://tw.pycon.org\n⭐️ Facebook: https://www.facebook.com/pycontw\n⭐️ Instagram: https://www.instagram.com/pycontw\n⭐️ Twitter: https://twitter.com/PyConTW\n⭐️ LinkedIn: https://www.linkedin.com/company/pycontw\n⭐️ Blogger: https://pycontw.blogspot.com\n\n#python #talk #pycontw2024",
+        "thumbnail": "https://i.ytimg.com/vi/fyjt6wmi-BU/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=fyjt6wmi-BU",
+        "original_url": "https://www.youtube.com/watch?v=fyjt6wmi-BU"
+    },
+    {
+        "index": 7,
+        "title": "[ DAY1 R1_Talk ] Duckiedrone - 一個基於 Raspberry Pi 與 Python 的小型無人機專案介紹",
+        "url": "https://www.youtube.com/watch?v=f21-Og-Zano",
+        "video_id": "f21-Og-Zano",
+        "uploader": "PyCon Taiwan",
+        "uploader_id": "@PyConTaiwanVideo",
+        "uploader_url": "https://www.youtube.com/@PyConTaiwanVideo",
+        "upload_date": "20241123",
+        "duration": 2062,
+        "view_count": 135,
+        "like_count": 3,
+        "comment_count": null,
+        "tags": [
+            "pycontw",
+            "python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "想要飛行是人類的夢想，使用 Raspberry Pi + Python 實現各種專案則是我們的目標。 這次我們將介紹如何使用 Raspberry Pi + Python 打造一台學習型的小型無人機專案 DuckieDrone，這專案從 MIT 2.166 課程小鴨城(Duckietown)延伸出來，將機器人技術從二維的平面道路延伸到三維的立體空間。 http://web.mit.edu/course/2/2.166/www/ 從這專案我們可以學習到建立無人機所需要的技術，包括認識和選擇適合的飛行器、飛控板的原理與控制、各種感測器包括 IMU、ToF、Camera 的使用，使用機器人作業系統(ROS)和 Python 控制所有的硬體，透過濾波演算法處理感測器的雜訊，並計算 PID 讓無人機穩定的停留在適合的高度，這一切都是使用 Python 和許多套件實現。 我們將分享專案的技術細節、實做上會遇到的問題與相關學習資源，希望有更多人能一起加入成為飛友。\n\n講者介紹｜sosorry\nHi, I'm sosorry.\n\n更多資訊｜https://tw.pycon.org/2024/zh-hant/conference/talk/304  \n\nFollow “PyCon Taiwan”\n⭐️ Official Website: https://tw.pycon.org\n⭐️ Facebook: https://www.facebook.com/pycontw\n⭐️ Instagram: https://www.instagram.com/pycontw\n⭐️ Twitter: https://twitter.com/PyConTW\n⭐️ LinkedIn: https://www.linkedin.com/company/pycontw\n⭐️ Blogger: https://pycontw.blogspot.com\n\n#python #talk #pycontw2024",
+        "thumbnail": "https://i.ytimg.com/vi/f21-Og-Zano/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=f21-Og-Zano",
+        "original_url": "https://www.youtube.com/watch?v=f21-Og-Zano"
+    },
+    {
+        "index": 8,
+        "title": "[ DAY1 R1_Talk ] 心跳天文學社課教我用 Ren'Py 重建獵星者旅店",
+        "url": "https://www.youtube.com/watch?v=V02fA8gx-NU",
+        "video_id": "V02fA8gx-NU",
+        "uploader": "PyCon Taiwan",
+        "uploader_id": "@PyConTaiwanVideo",
+        "uploader_url": "https://www.youtube.com/@PyConTaiwanVideo",
+        "upload_date": "20241123",
+        "duration": 2647,
+        "view_count": 85,
+        "like_count": 4,
+        "comment_count": null,
+        "tags": [
+            "pycontw",
+            "python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "歡迎來到獵星者旅店！我是老闆尼賀勒·瓦再達，關於你的問題…來，這杯是「星凍時刻」，喝起來像是在冬夜裡凝視無盡星空。你喝了，我再答。 《獵星者旅店》是一款在ChatGPT上建造的角色扮演遊戲，玩家憑藉著想像力，在旅店中探索各種能學習天文和Python的旅程。無論是向矮人獵星者詢問如何用Python查詢星體座標，或是在旅店舊書攤中翻閱紀載如何用Python製作全天空星圖的寶典，生成有趣體驗的魔法皆來自你的想像。 咦？不想在ChatGPT上遊玩啊？你可以參加社辦位於旅店頂樓的「心跳天文學社」社課，社長莫妮卡會教你用Python的視覺小說遊戲引擎Ren'Py，來重建獵星者旅店。 哇酷哇酷了嗎？現在，你有幾個選擇： 1. Just 莫妮卡。 2. Just 莫妮卡。 3. Just 莫妮卡。 4. Just 莫妮卡。\n\n講者介紹｜蘇羿豪\n「開放天文 拉近群眾與星空的距離」 透過創作故事、遊戲等有趣體驗來推動開放科學的公民天文學家/Astrohackers in Taiwan社群的共同創辦人/承接網站開發及資料科學相關案子的遠距工作者 https://astrobackhacker.tw\n\n更多資訊｜https://tw.pycon.org/2024/zh-hant/conference/talk/307  \n\nFollow “PyCon Taiwan”\n⭐️ Official Website: https://tw.pycon.org\n⭐️ Facebook: https://www.facebook.com/pycontw\n⭐️ Instagram: https://www.instagram.com/pycontw\n⭐️ Twitter: https://twitter.com/PyConTW\n⭐️ LinkedIn: https://www.linkedin.com/company/pycontw\n⭐️ Blogger: https://pycontw.blogspot.com\n\n#python #talk #pycontw2024",
+        "thumbnail": "https://i.ytimg.com/vi/V02fA8gx-NU/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=V02fA8gx-NU",
+        "original_url": "https://www.youtube.com/watch?v=V02fA8gx-NU"
+    },
+    {
+        "index": 9,
+        "title": "[ DAY1 R1_Talk ] 為醫療加裝Python的引擎",
+        "url": "https://www.youtube.com/watch?v=4bVNxfX8Ev0",
+        "video_id": "4bVNxfX8Ev0",
+        "uploader": "PyCon Taiwan",
+        "uploader_id": "@PyConTaiwanVideo",
+        "uploader_url": "https://www.youtube.com/@PyConTaiwanVideo",
+        "upload_date": "20241123",
+        "duration": 1861,
+        "view_count": 55,
+        "like_count": 0,
+        "comment_count": null,
+        "tags": [
+            "pycontw",
+            "python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "醫院中的醫療活動是24小時都在進行，因此在醫療資訊系統要增加新功能或是進行重構最大的挑戰在於： 1. 存在著許多既有系統，有些甚至是10多年前的技術(ex.Informix DB, Delphi)，新舊系統如何無縫介接 2. 如何在資訊服務不中斷太久的情況下進行改版，就如同為正在行進中的車子換輪胎一樣 過去七年來，我們在醫院已開發胸部X光-AI、護理資訊、個案管理、麻醉資訊、管路資訊、電子表單...等 Python based 應用服務並且與既有系統介接，這個過程中我們把握住二個大原則： 1. 新增加或欲重構的模組採用 Python 來開發 2. 跟現行既有系統介接，更新過程不中斷院內的醫療活動 本次演講將分享我們如何逐步地將這些新微服務與既有系統(Delphi, PHP, 4GL based)無縫串接的策略與技術手段。 歡迎對「想要新增微服務到單體式系統」或「想要重構單體式系統，抽取共用模組成為微服務」有興趣的資訊主管或工程師，一起來交流。\n\n講者介紹｜Max Lai\n- Taichung.py 組織者 - 在中部醫療機構擔任智慧醫療應用系統研發團隊之 Tech Lead - 研究領域是電腦視覺, 機器學習, Web程式開發, DDD 與敏捷軟體開發方法論\n\n更多資訊｜https://tw.pycon.org/2024/zh-hant/conference/talk/310  \n\nFollow “PyCon Taiwan”\n⭐️ Official Website: https://tw.pycon.org\n⭐️ Facebook: https://www.facebook.com/pycontw\n⭐️ Instagram: https://www.instagram.com/pycontw\n⭐️ Twitter: https://twitter.com/PyConTW\n⭐️ LinkedIn: https://www.linkedin.com/company/pycontw\n⭐️ Blogger: https://pycontw.blogspot.com\n\n#python #talk #pycontw2024",
+        "thumbnail": "https://i.ytimg.com/vi/4bVNxfX8Ev0/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=4bVNxfX8Ev0",
+        "original_url": "https://www.youtube.com/watch?v=4bVNxfX8Ev0"
+    },
+    {
+        "index": 10,
+        "title": "[ DAY1 R1_Talk ] 那些關於我開發碳排放量計算系統的經驗談",
+        "url": "https://www.youtube.com/watch?v=fzja2uSPb_E",
+        "video_id": "fzja2uSPb_E",
+        "uploader": "PyCon Taiwan",
+        "uploader_id": "@PyConTaiwanVideo",
+        "uploader_url": "https://www.youtube.com/@PyConTaiwanVideo",
+        "upload_date": "20241123",
+        "duration": 2822,
+        "view_count": 126,
+        "like_count": 6,
+        "comment_count": null,
+        "tags": [
+            "pycontw",
+            "python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "碳排放量，Carbon Emission是近期熱門的話題之一，緣起是由歐盟發起CBAM(Carbon Border Adjustment Mechanism, CBAM)的碳邊境調整機制計畫，旨要讓進口產品到歐盟國家的廠商與其相關的供應鏈都需要課徵碳排放量的稅，並從受管制的製造業開始進行。那要如何將做碳排放量進行量化與管理，且符合CBAM的計畫並將產品出口到歐盟國家，將會是重要的課題。在本議程中，旨要介紹講者所開發的一套以產線為基礎的碳排放量管理系統，透過參考ISO-14064與ISO-14067的標準，與搭配CBAM所揭露計算的方式，計算出工廠以產線為主的碳排放量，並讓工廠透過該碳排放量去參考與評估目前的產品製程有無改進與減少碳排放的地方，並分享講者與水五金製造業、手工具製造廠商與紡織纖維廠商合作與導入工具的甘苦談。\n\n講者介紹｜Peter\n喜歡專注在後端程式、資料庫與系統架構等領域，使用 PHP與Python 作為後端開發已經超過 6 年的時間，同時對於開放源始碼抱持著高度的熱情，有時遇到開源專案有 bug 時，就會嘗試動手來協助修正。截至目前為止，已經有超過 1000 個 PR 被 merge，也在貢獻開源專案的過程中，學到許多撰寫程式碼的技巧，同時也不吝在各大技術研討會進行技術的分享，如：COSCUP、MOPCON以及LaravelConf等。\n\n更多資訊｜https://tw.pycon.org/2024/zh-hant/conference/talk/313  \nFollow “PyCon Taiwan”\n⭐️ Official Website: https://tw.pycon.org\n⭐️ Facebook: https://www.facebook.com/pycontw\n⭐️ Instagram: https://www.instagram.com/pycontw\n⭐️ Twitter: https://twitter.com/PyConTW\n⭐️ LinkedIn: https://www.linkedin.com/company/pycontw\n⭐️ Blogger: https://pycontw.blogspot.com\n\n#python #talk #pycontw2024",
+        "thumbnail": "https://i.ytimg.com/vi/fzja2uSPb_E/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=fzja2uSPb_E",
+        "original_url": "https://www.youtube.com/watch?v=fzja2uSPb_E"
+    },
+    {
+        "index": 11,
+        "title": "[ DAY1 R2_Talk ] Demystifying GAI for Financial industry: Challenges, Implementation, and Management",
+        "url": "https://www.youtube.com/watch?v=Xhn7GVbhoAQ",
+        "video_id": "Xhn7GVbhoAQ",
+        "uploader": "PyCon Taiwan",
+        "uploader_id": "@PyConTaiwanVideo",
+        "uploader_url": "https://www.youtube.com/@PyConTaiwanVideo",
+        "upload_date": "20241123",
+        "duration": 1843,
+        "view_count": 53,
+        "like_count": 2,
+        "comment_count": null,
+        "tags": [
+            "pycontw",
+            "python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "This talk dives deep into the exciting world of GAI services within the financial industry. Whether you're already familiar with GAI or exploring its potential for your organization, this session will equip you with valuable knowledge. What you'll learn: The power of GAI in finance Challenges and considerations Building GAI services Managing GAI access Financial-world applications This talk goes beyond the basics. I'll delve into the specific challenges and risks associated with GAI in finance, and provide insights into the development process and technologies involved.\n\n講者介紹｜Kater\n### 自我介紹 - 玉山銀行智能金融處－副主任工程師\nDesign and develop GAI server related APIs to provide users with usage, management, and monitoring capabilities. - Designed and developed a recommendation system service, which includes API, ETL, monitoring, DB performance optimization, production reports, and data analysis. - Development of converting local projects into cloud projects - Research the performance of LLM in various financial scenarios - Research and promote the use of Apify crawler platform\n\n更多資訊｜https://tw.pycon.org/2024/zh-hant/conference/talk/305  \n\nFollow “PyCon Taiwan”\n⭐️ Official Website: https://tw.pycon.org\n⭐️ Facebook: https://www.facebook.com/pycontw\n⭐️ Instagram: https://www.instagram.com/pycontw\n⭐️ Twitter: https://twitter.com/PyConTW\n⭐️ LinkedIn: https://www.linkedin.com/company/pycontw\n⭐️ Blogger: https://pycontw.blogspot.com\n\n#python #talk #pycontw2024",
+        "thumbnail": "https://i.ytimg.com/vi/Xhn7GVbhoAQ/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=Xhn7GVbhoAQ",
+        "original_url": "https://www.youtube.com/watch?v=Xhn7GVbhoAQ"
+    },
+    {
+        "index": 12,
+        "title": "[ DAY1 R2_Talk ] Building Dynamic Knowledge Bases for Technical Documentation",
+        "url": "https://www.youtube.com/watch?v=_EZ6mpCaM1Y",
+        "video_id": "_EZ6mpCaM1Y",
+        "uploader": "PyCon Taiwan",
+        "uploader_id": "@PyConTaiwanVideo",
+        "uploader_url": "https://www.youtube.com/@PyConTaiwanVideo",
+        "upload_date": "20241123",
+        "duration": 2728,
+        "view_count": 38,
+        "like_count": 0,
+        "comment_count": null,
+        "tags": [
+            "pycontw",
+            "python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "In the continuously changing realm of technology, where updates are constant and rapid, maintaining accurate and up-to-date technical documentation is a challenge that is all to familiar by developers. This talk introduces an innovative approach to revolutionizing technical documentation through implementing Retrieval Augmented Generation (RAG) capabilities of Amazon Bedrock. We will explore how RAG can dynamically update knowledge bases by retrieving relevant information from a variety of data sources and walk through how to implement such a solution to ensure that technical documentation remains accurate, comprehensive, and reflective of the latest advancements within the codebase and the organization.\n\n講者介紹｜Renaldi Gondosubroto\nRenaldi Gondosubroto is the Director of Cloudetica Solutions, where he leads the building of both proprietary and open-source solutions on cloud platforms. He brings over a decade of software development experience and has been active within the research community; putting a lot of his research focus within IoT and virtual reality. Having spoken over 50 events and conferences, he has been an international speaker for the past six years, sharing his experiences and projects. He also currently is an AWS Subject Matter Expert (SME) for its Professional, Associate and Specialty Certifications and holds all 14 AWS certifications. He aims to build open-source solutions which can both help people achieve more value in what they do and promote best practices for fellow developers.\n\n更多資訊｜https://tw.pycon.org/2024/zh-hant/conference/talk/308 \n\nFollow “PyCon Taiwan”\n⭐️ Official Website: https://tw.pycon.org\n⭐️ Facebook: https://www.facebook.com/pycontw\n⭐️ Instagram: https://www.instagram.com/pycontw\n⭐️ Twitter: https://twitter.com/PyConTW\n⭐️ LinkedIn: https://www.linkedin.com/company/pycontw\n⭐️ Blogger: https://pycontw.blogspot.com\n\n#python #talk #pycontw2024",
+        "thumbnail": "https://i.ytimg.com/vi/_EZ6mpCaM1Y/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=_EZ6mpCaM1Y",
+        "original_url": "https://www.youtube.com/watch?v=_EZ6mpCaM1Y"
+    },
+    {
+        "index": 13,
+        "title": "[ DAY1 R2_Talk ] Unleash the Chaos: Developing a Linter for Un-Pythonic Code!",
+        "url": "https://www.youtube.com/watch?v=2jUd0o8VuE0",
+        "video_id": "2jUd0o8VuE0",
+        "uploader": "PyCon Taiwan",
+        "uploader_id": "@PyConTaiwanVideo",
+        "uploader_url": "https://www.youtube.com/@PyConTaiwanVideo",
+        "upload_date": "20241123",
+        "duration": 1755,
+        "view_count": 54,
+        "like_count": 1,
+        "comment_count": null,
+        "tags": [
+            "pycontw",
+            "python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "Before releasing the chaos, we will explore how the \"ast\" module can programmatically analyze and manipulate Python code at an abstract syntax level and how this abstract syntax tree concept helps existing tools like Black improve the Python world. Once we know the secret, we will guide you in building a custom linter using this module. This technique is particularly useful when configuring existing tools that cannot fix your style problems or if you want to make your Python code unpythonic. Join us to learn more and bring chaos to the Python world!\n\n講者介紹｜李唯 (Wei Lee)\nWei Lee is an open-source ethicist. He is currently an Apache Airflow committer, a maintainer of commitizen-tools, and a PyCon Taiwan volunteer. As a lazy engineer, Wei is passionate about automating tasks using Python. When he is not working, Wei enjoys exploring the world through travel. Attending PyCon events gives him the perfect opportunity to do so. Wei has already attended PyCon TW 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, Euro Python 🇪🇺 (remotely 🥲) and Remote Python Pizza 🍕 (remotely 🥲). \nPersonal Website: https://wei-lee.me/ \nTwitter: @clleew   \n\n更多資訊｜https://tw.pycon.org/2024/zh-hant/conference/talk/311\n\nFollow “PyCon Taiwan”\n⭐️ Official Website: https://tw.pycon.org\n⭐️ Facebook: https://www.facebook.com/pycontw\n⭐️ Instagram: https://www.instagram.com/pycontw\n⭐️ Twitter: https://twitter.com/PyConTW\n⭐️ LinkedIn: https://www.linkedin.com/company/pycontw\n⭐️ Blogger: https://pycontw.blogspot.com\n\n#python #talk #pycontw2024",
+        "thumbnail": "https://i.ytimg.com/vi/2jUd0o8VuE0/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=2jUd0o8VuE0",
+        "original_url": "https://www.youtube.com/watch?v=2jUd0o8VuE0"
+    },
+    {
+        "index": 14,
+        "title": "[ DAY1 R2_Talk ] Demystify Python Types for PEP 729",
+        "url": "https://www.youtube.com/watch?v=53iZ4t4IFow",
+        "video_id": "53iZ4t4IFow",
+        "uploader": "PyCon Taiwan",
+        "uploader_id": "@PyConTaiwanVideo",
+        "uploader_url": "https://www.youtube.com/@PyConTaiwanVideo",
+        "upload_date": "20241123",
+        "duration": 3056,
+        "view_count": 48,
+        "like_count": 0,
+        "comment_count": null,
+        "tags": [
+            "pycontw",
+            "python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "PEP 729 – Typing governance process proposes a new way to govern the Python type system. The PEP was endorsed by maintainers of all major type checkers. This talk aims to guide audience to understand the reason more deeply of this new process after demystifying Python types.\n\n講者介紹｜Kir Chou\nThis is Kir's 8th year presence in PyCon TW. 💼Kir's works: Geo and Search systems to solve i18n and l10n user experience. 💕Kir's hobby: 🍷🍶🍺🏂🧗⛰️🧑‍🌾🏃 See Kir's past PyCon talks in https://note35.github.io/about/talks\n\n更多資訊｜https://tw.pycon.org/2024/zh-hant/conference/talk/314\n\nFollow “PyCon Taiwan”\n⭐️ Official Website: https://tw.pycon.org\n⭐️ Facebook: https://www.facebook.com/pycontw\n⭐️ Instagram: https://www.instagram.com/pycontw\n⭐️ Twitter: https://twitter.com/PyConTW\n⭐️ LinkedIn: https://www.linkedin.com/company/pycontw\n⭐️ Blogger: https://pycontw.blogspot.com\n\n#python #talk #pycontw2024",
+        "thumbnail": "https://i.ytimg.com/vi/53iZ4t4IFow/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=53iZ4t4IFow",
+        "original_url": "https://www.youtube.com/watch?v=53iZ4t4IFow"
+    },
+    {
+        "index": 15,
+        "title": "[ DAY1 R0_Keynote ] From Local Roots to Global Impact: Why Your Presence Matters to the Community",
+        "url": "https://www.youtube.com/watch?v=XORDSqsN2n0",
+        "video_id": "XORDSqsN2n0",
+        "uploader": "PyCon Taiwan",
+        "uploader_id": "@PyConTaiwanVideo",
+        "uploader_url": "https://www.youtube.com/@PyConTaiwanVideo",
+        "upload_date": "20241123",
+        "duration": 3597,
+        "view_count": 35,
+        "like_count": 0,
+        "comment_count": null,
+        "tags": [
+            "pycontw",
+            "python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "In this talk, we will explore the profound impact that individual contributions can have on both local and global communities within the tech ecosystem. Drawing from my own journey—from grassroots involvement in local Python groups to significant roles in international conferences and the Python Software Foundation—I will illustrate how each step has shaped my understanding of community and collaboration.\n\nWe will delve into the significance of diversity and inclusion and why these elements are essential for fostering the growth of the community, particularly in the APAC region.\n\nThrough practical examples and actionable insights, this talk will provide guidance on how to leverage your unique skills and experiences to make a meaningful impact. Whether you're just starting out or are a seasoned community leader, you’ll come away with a deeper appreciation of why your presence matters, how you can contribute to building a stronger community, and how this can impact your life and career.\n\nBy highlighting stories of personal experiences, I aim to inspire attendees to recognize their potential to drive change, no matter the scale of their current involvement.\n\n講者介紹｜Georgi Ker\nGeorgi Ker is the Director and a Fellow of the Python Software Foundation. She is a co-organizer of PyLadiesCon and the co-founder of PyLadies Bangkok. A French citizen born and raised in Singapore, Georgi has also lived in Thailand and Indonesia before relocating to Amsterdam, the Netherlands. During her time in Thailand, she served as the conference lead for PyCon APAC and PyCon Thailand.\n\nGeorgi is an avid advocate for Diversity & Inclusion. She co-chairs the D&I Workgroup within the PSF and has launched the podcast series \"The Hidden Figures of Python\" alongside hosts Mariatta Wijaya, Cheuk Ting Ho, and Tereza Iofciu. The podcast aims to highlight stories from underrepresented groups within the Python community.\n\nAn autodidact polymath who speaks multiple languages, Georgi currently runs her own branding and visual studio. Some of the projects include TV series Strange Girl in Strange Land, PyCon US (2022-2024), Proof of Talk and PyData London.\n\n更多資訊｜https://tw.pycon.org/2024/zh-hant/conference/keynotes#Georgi_Ker\n\nFollow “PyCon Taiwan”\n⭐️ Official Website: https://tw.pycon.org\n⭐️ Facebook: https://www.facebook.com/pycontw\n⭐️ Instagram: https://www.instagram.com/pycontw\n⭐️ Twitter: https://twitter.com/PyConTW\n⭐️ LinkedIn: https://www.linkedin.com/company/pycontw\n⭐️ Blogger: https://pycontw.blogspot.com\n\n#python #keynote #pycontw2024",
+        "thumbnail": "https://i.ytimg.com/vi/XORDSqsN2n0/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=XORDSqsN2n0",
+        "original_url": "https://www.youtube.com/watch?v=XORDSqsN2n0"
+    },
+    {
+        "index": 16,
+        "title": "[ DAY1 R0 ] Job Fair",
+        "url": "https://www.youtube.com/watch?v=8VGSFfSMb1k",
+        "video_id": "8VGSFfSMb1k",
+        "uploader": "PyCon Taiwan",
+        "uploader_id": "@PyConTaiwanVideo",
+        "uploader_url": "https://www.youtube.com/@PyConTaiwanVideo",
+        "upload_date": "20241123",
+        "duration": 2999,
+        "view_count": 21,
+        "like_count": 1,
+        "comment_count": null,
+        "tags": [
+            "pycontw",
+            "python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "Follow “PyCon Taiwan”\n⭐️ Official Website: https://tw.pycon.org\n⭐️ Facebook: https://www.facebook.com/pycontw\n⭐️ Instagram: https://www.instagram.com/pycontw\n⭐️ Twitter: https://twitter.com/PyConTW\n⭐️ LinkedIn: https://www.linkedin.com/company/pycontw\n⭐️ Blogger: https://pycontw.blogspot.com\n\n#python #pycontw2024",
+        "thumbnail": "https://i.ytimg.com/vi/8VGSFfSMb1k/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=8VGSFfSMb1k",
+        "original_url": "https://www.youtube.com/watch?v=8VGSFfSMb1k"
+    },
+    {
+        "index": 17,
+        "title": "[ DAY1 R0 ] Lightning Talks",
+        "url": "https://www.youtube.com/watch?v=I8-puinjA6E",
+        "video_id": "I8-puinjA6E",
+        "uploader": "PyCon Taiwan",
+        "uploader_id": "@PyConTaiwanVideo",
+        "uploader_url": "https://www.youtube.com/@PyConTaiwanVideo",
+        "upload_date": "20241123",
+        "duration": 1041,
+        "view_count": 29,
+        "like_count": 1,
+        "comment_count": null,
+        "tags": [
+            "pycontw",
+            "python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "Lightning Talks 是一個開放給所有人現場報名，且每個演講包含設置投影片僅限 3 分鐘的刺激活動。所有講者都是當天報名、當天抽出中選名單！讓所有人都有機會盡情上台大鳴大放電爆所有人雙眼！\n\nFollow “PyCon Taiwan”\n⭐️ Official Website: https://tw.pycon.org\n⭐️ Facebook: https://www.facebook.com/pycontw\n⭐️ Instagram: https://www.instagram.com/pycontw\n⭐️ Twitter: https://twitter.com/PyConTW\n⭐️ LinkedIn: https://www.linkedin.com/company/pycontw\n⭐️ Blogger: https://pycontw.blogspot.com\n\n#python #talk #pycontw2024",
+        "thumbnail": "https://i.ytimg.com/vi/I8-puinjA6E/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=I8-puinjA6E",
+        "original_url": "https://www.youtube.com/watch?v=I8-puinjA6E"
+    },
+    {
+        "index": 18,
+        "title": "[ DAY2 R0 ]  Opening",
+        "url": "https://www.youtube.com/watch?v=f7LFuX9GNz8",
+        "video_id": "f7LFuX9GNz8",
+        "uploader": "PyCon Taiwan",
+        "uploader_id": "@PyConTaiwanVideo",
+        "uploader_url": "https://www.youtube.com/@PyConTaiwanVideo",
+        "upload_date": "20241123",
+        "duration": 539,
+        "view_count": 21,
+        "like_count": 0,
+        "comment_count": 1,
+        "tags": [
+            "pycontw",
+            "python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "Follow “PyCon Taiwan”\n⭐️ Official Website: https://tw.pycon.org\n⭐️ Facebook: https://www.facebook.com/pycontw\n⭐️ Instagram: https://www.instagram.com/pycontw\n⭐️ Twitter: https://twitter.com/PyConTW\n⭐️ LinkedIn: https://www.linkedin.com/company/pycontw\n⭐️ Blogger: https://pycontw.blogspot.com\n\n#python #pycontw2024",
+        "thumbnail": "https://i.ytimg.com/vi/f7LFuX9GNz8/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=f7LFuX9GNz8",
+        "original_url": "https://www.youtube.com/watch?v=f7LFuX9GNz8"
+    },
+    {
+        "index": 19,
+        "title": "[ DAY2 R0_Keynote ]  Bytes, Pipes, and People",
+        "url": "https://www.youtube.com/watch?v=-5b4xuM62gg",
+        "video_id": "-5b4xuM62gg",
+        "uploader": "PyCon Taiwan",
+        "uploader_id": "@PyConTaiwanVideo",
+        "uploader_url": "https://www.youtube.com/@PyConTaiwanVideo",
+        "upload_date": "20241123",
+        "duration": 3538,
+        "view_count": 50,
+        "like_count": 2,
+        "comment_count": null,
+        "tags": [
+            "pycontw",
+            "python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "The majority of software today uses open source components like Python and projects on the Python Package Index. The ubiquity of open source software hasn’t gone unnoticed, there are new threats looking to exploit open source projects to achieve their goals. In this talk we’ll learn about these threats to the software supply chain, the efforts to thwart them, and the steps we can take to keep the Python ecosystem safe for everyone.\n\nThe purpose of this talk is to describe the current threat landscape for open source projects like CPython and packages on the Python Package Index (PyPI), and what recent projects have done to mitigate these threats. My second year as Security Developer-in-Residence will be focusing on improving the security posture of the ecosystem of Python packages and the downstream users who consume those projects, so this keynote will cover that work along with any announcements, achievements, etc. I plan on weaving my background and experience with internet technology and security into the narrative of supply chain security.\n\n講者介紹｜Seth Michael Larson\nSeth Larson is the inaugural Security Developer-in-Residence at the Python Software Foundation. He works to secure the supply chain and improve the security posture of CPython and projects in the Python packaging ecosystem. Seth also maintains a handful of open source Python projects like urllib3, requests, truststore. Seth is a fellow of the Python Software Foundation.\n\nWebsite: https://sethmlarson.dev\nMastodon: https://fosstodon.org/@sethmlarson\n\n更多資訊｜https://tw.pycon.org/2024/zh-hant/conference/keynotes#Seth_Michael_Larson  \n\nFollow “PyCon Taiwan”\n⭐️ Official Website: https://tw.pycon.org\n⭐️ Facebook: https://www.facebook.com/pycontw\n⭐️ Instagram: https://www.instagram.com/pycontw\n⭐️ Twitter: https://twitter.com/PyConTW\n⭐️ LinkedIn: https://www.linkedin.com/company/pycontw\n⭐️ Blogger: https://pycontw.blogspot.com\n\n#python #keynote #pycontw2024",
+        "thumbnail": "https://i.ytimg.com/vi/-5b4xuM62gg/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=-5b4xuM62gg",
+        "original_url": "https://www.youtube.com/watch?v=-5b4xuM62gg"
+    },
+    {
+        "index": 20,
+        "title": "[ DAY2 R0_Talk ] 應用檢索增強生成技術於資安事件調查 - 以資安洩漏事件為例",
+        "url": "https://www.youtube.com/watch?v=FWWELaF67A8",
+        "video_id": "FWWELaF67A8",
+        "uploader": "PyCon Taiwan",
+        "uploader_id": "@PyConTaiwanVideo",
+        "uploader_url": "https://www.youtube.com/@PyConTaiwanVideo",
+        "upload_date": "20241123",
+        "duration": 1886,
+        "view_count": 145,
+        "like_count": 6,
+        "comment_count": null,
+        "tags": [
+            "pycontw",
+            "python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "當前的資安事件經常給企業或組織帶來巨大的損失，因此資安分析師需要快速利用洩露的資訊來獲取有價值的資訊。本研究結合大語言模型技術和Retrieval-Augmented Generation (RAG) 方法，應用於實際的資安分析事件。透過RAG技術，我們能夠從大量的對話紀錄中有效識別每段對話的關鍵點、參與者和討論主題等重要訊息，大幅節省資安事件調查的時間成本。 同時，考量到商業應用和資料隱私，我們使用LLaMA2和QLoRA微調的生成式模型，確保提示語（Prompt）資料保存在本地端環境中，並達到如GPT-4般精準的回應。最後，我們展示了如何利用RAG模型協助進行資安分析，突顯資安分析師關注的重點。\n\n講者介紹｜Sheng-Shan Chen\nSheng-Shan Chen (陳勝舢), a Ph.D. student in Computer Science and Information Engineering (CSIE) at the National Taipei University of Technology (NTUT). His research focuses primarily on applying artificial intelligence in cybersecurity, includes utilizing Large Language Models (LLMs) to analyze and extract threat entities and relationships from Cyber Threat Intelligence (CTI). Additionally, he is interested in fine-tuning large language models to address natural language processing challenges within the CTI. Sheng-Shan currently serves as an intern security researcher at Cycraft. His research has been published at the IEEE Globecom, ICMHI, IEA/AIE, and HITCON Hacking 101 conferences. Furthermore, Sheng-shan always shares his knowledge on https://sectools.tw.\n\n講者介紹｜Andy Yao\nLoving dogs more than cats.\n\n更多資訊｜https://tw.pycon.org/2024/zh-hant/conference/talk/315  \n\nFollow “PyCon Taiwan”\n⭐️ Official Website: https://tw.pycon.org\n⭐️ Facebook: https://www.facebook.com/pycontw\n⭐️ Instagram: https://www.instagram.com/pycontw\n⭐️ Twitter: https://twitter.com/PyConTW\n⭐️ LinkedIn: https://www.linkedin.com/company/pycontw\n⭐️ Blogger: https://pycontw.blogspot.com\n\n#python #talk #pycontw2024",
+        "thumbnail": "https://i.ytimg.com/vi/FWWELaF67A8/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=FWWELaF67A8",
+        "original_url": "https://www.youtube.com/watch?v=FWWELaF67A8"
+    },
+    {
+        "index": 21,
+        "title": "[ DAY2 R0_Talk ] 智能化勞動法律助手：RAG技術的妙用！",
+        "url": "https://www.youtube.com/watch?v=kJrF90-ErDE",
+        "video_id": "kJrF90-ErDE",
+        "uploader": "PyCon Taiwan",
+        "uploader_id": "@PyConTaiwanVideo",
+        "uploader_url": "https://www.youtube.com/@PyConTaiwanVideo",
+        "upload_date": "20241123",
+        "duration": 1895,
+        "view_count": 471,
+        "like_count": 13,
+        "comment_count": null,
+        "tags": [
+            "pycontw",
+            "python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "本演講聚焦於打造一個擁有勞動法律知識的問答系統，該系統採用檢索增強生成(RAG)架構，此方式是基於領域知識庫檢索結果，並透過大型語言模型產出答案，從而提升問答的正確性與專業度。選用合適的檢索方法和語言模型對於系統性能至關重要，因為檢索結果為答題之參考文本，而語言模型理解與生成能力更是影響輸出品質。為此，我們實驗多種詞嵌入方法(Embedding)以及LLM模型，並比較不同組合的效能，最終我們採用了OpenAI的詞嵌入模型進行文件前處理，在經過相似度檢索獲取相關訊息後，使用GPT-4生成答案。法律條文閱讀理解難度較高，因其用字精練且刻意維持模糊性，使得系統開發更具挑戰，例如：提問涉及多條法規、巢狀條文引用，因此我們在文本前處理、資訊檢索、生成的手法上進行了研究與優化，我們的知識庫是基於全國法規資料庫數據所構建，在這個演講，將探討系統關鍵參數選擇的trade off，包括chunk大小、文本切割策略；分享提升檢索正確率的技巧，例如結合標籤系統以定位特定範圍的知識搜尋、法律文本生成的Prompt Engineering、法條提示功能，並會比較開源與閉源模型的生成效能差異。最後將利用由Streamlit web建立的介面進行成果展示，並與既有開源RAG系統進行綜合分析。\n\n講者介紹｜簡郁庭\n嗨，我是郁庭 目前在中國信託擔任工程師。 對自然語言非常有興趣，喜歡研究相關技術並和大家分享!!\n\n更多資訊｜https://tw.pycon.org/2024/zh-hant/conference/talk/318\n\nFollow “PyCon Taiwan”\n⭐️ Official Website: https://tw.pycon.org\n⭐️ Facebook: https://www.facebook.com/pycontw\n⭐️ Instagram: https://www.instagram.com/pycontw\n⭐️ Twitter: https://twitter.com/PyConTW\n⭐️ LinkedIn: https://www.linkedin.com/company/pycontw\n⭐️ Blogger: https://pycontw.blogspot.com\n\n#python #talk #pycontw2024",
+        "thumbnail": "https://i.ytimg.com/vi/kJrF90-ErDE/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=kJrF90-ErDE",
+        "original_url": "https://www.youtube.com/watch?v=kJrF90-ErDE"
+    },
+    {
+        "index": 22,
+        "title": "[ DAY2 R0_Talk ] Ensuring Data Integrity with Validation and Pipeline Testing",
+        "url": "https://www.youtube.com/watch?v=f0hees4wQJY",
+        "video_id": "f0hees4wQJY",
+        "uploader": "PyCon Taiwan",
+        "uploader_id": "@PyConTaiwanVideo",
+        "uploader_url": "https://www.youtube.com/@PyConTaiwanVideo",
+        "upload_date": "20241123",
+        "duration": 1881,
+        "view_count": 40,
+        "like_count": 1,
+        "comment_count": null,
+        "tags": [
+            "pycontw",
+            "python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "In the dynamic world of artificial intelligence (AI), data serves as the backbone for decision-making and operational excellence. Ensuring the accuracy and reliability of data through effective validation and ETL data pipeline (Extract, Transform, Load) testing is paramount. I will introduce the essentials of data validation and ETL data pipeline testing, highlighting processes, types, and best practices. We'll explore frameworks like Great Expectations and dbt to automate and enhance data testing. This talk is designed to equip data engineers and scientists with the knowledge to implement robust data validation strategies, understand the nuances of ETL testing, and maintaining good data quality, and ensuring data pipelines are error-free and efficient.\n\n講者介紹｜Shuhsi Lin\nExperienced professional with a proven track record in designing scalable and robust data architectures and fostering a strong engineering culture. Skilled in leading high-performance teams to deliver effective data solutions using DataOps principles. Currently focused on enhancing developer experience in a smart manufacturing and AI department.\n\n更多資訊｜https://tw.pycon.org/2024/zh-hant/conference/talk/322 \n\nFollow “PyCon Taiwan”\n⭐️ Official Website: https://tw.pycon.org\n⭐️ Facebook: https://www.facebook.com/pycontw\n⭐️ Instagram: https://www.instagram.com/pycontw\n⭐️ Twitter: https://twitter.com/PyConTW\n⭐️ LinkedIn: https://www.linkedin.com/company/pycontw\n⭐️ Blogger: https://pycontw.blogspot.com\n\n#python #talk #pycontw2024",
+        "thumbnail": "https://i.ytimg.com/vi/f0hees4wQJY/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=f0hees4wQJY",
+        "original_url": "https://www.youtube.com/watch?v=f0hees4wQJY"
+    },
+    {
+        "index": 23,
+        "title": "[ DAY2 R0_Talk ] 利用LLM對抗不實資訊(disinformation)：以Agent嘗試自動化偵測",
+        "url": "https://www.youtube.com/watch?v=4PDPhPVOatU",
+        "video_id": "4PDPhPVOatU",
+        "uploader": "PyCon Taiwan",
+        "uploader_id": "@PyConTaiwanVideo",
+        "uploader_url": "https://www.youtube.com/@PyConTaiwanVideo",
+        "upload_date": "20241123",
+        "duration": 2779,
+        "view_count": 77,
+        "like_count": 3,
+        "comment_count": 1,
+        "tags": [
+            "pycontw",
+            "python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "不實資訊(disinformation)已滲入我們的資訊環境，在2024年的總統選舉期間當然也沒有缺席，我會透過這個案例，說明面對這種威脅，如何透過Python開發不實資訊偵測的工具。 本演講將聚焦如何運用Python，結合大型語言模型(LLM)和分析不實資訊的DISARM框架，建立可持續更新的自動化偵測流程。我將分享使用Python進行資料蒐集、處理與代理人(agent)來協助分析，並藉助LangChain架構串起整個流程。\n\n講者介紹｜Kevin Tseng\n專注於資訊操作(IO)的研究者，曾於資策會研究PTT上的異常操弄，開發辨識協同行為的模型，也任職過研究資訊操作的組織，帶領分析師於俄烏戰爭調查中文環境的異常行為，目前於政大在職碩士研究LLM自動化偵測IO的題目。我也樂於參與社群活動，曾於PyData Taipei演講，並在台灣資料科學社群(TWDS)擔任過導師與講者。\n\n更多資訊｜https://tw.pycon.org/2024/zh-hant/conference/talk/324  \n\nFollow “PyCon Taiwan”\n⭐️ Official Website: https://tw.pycon.org\n⭐️ Facebook: https://www.facebook.com/pycontw\n⭐️ Instagram: https://www.instagram.com/pycontw\n⭐️ Twitter: https://twitter.com/PyConTW\n⭐️ LinkedIn: https://www.linkedin.com/company/pycontw\n⭐️ Blogger: https://pycontw.blogspot.com\n\n#python #talk #pycontw2024",
+        "thumbnail": "https://i.ytimg.com/vi/4PDPhPVOatU/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=4PDPhPVOatU",
+        "original_url": "https://www.youtube.com/watch?v=4PDPhPVOatU"
+    },
+    {
+        "index": 24,
+        "title": "[ DAY2 R1_Talk ] 以 Python 應用來推進餐飲雲端 POS 系統：一個後端開發者的實戰分享",
+        "url": "https://www.youtube.com/watch?v=bmPXkJbqZe0",
+        "video_id": "bmPXkJbqZe0",
+        "uploader": "PyCon Taiwan",
+        "uploader_id": "@PyConTaiwanVideo",
+        "uploader_url": "https://www.youtube.com/@PyConTaiwanVideo",
+        "upload_date": "20241123",
+        "duration": 1891,
+        "view_count": 147,
+        "like_count": 4,
+        "comment_count": null,
+        "tags": [
+            "pycontw",
+            "python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "在服務超過一萬間餐廳的 POS 系統公司裡，有一個寫 Python 的工程師想跟大家分享，這些年與團隊夥伴一起看到與做到的成長，並笑說遇到的挑戰與災難；這一路上有太多的技術題目，這次會專注於與 Python 之道的精神相關的關鍵實作以及重大決擇，並在提及領域、團隊以及 Python 在不同的環境做到哪些事、遇到哪些哭笑不得的技術挑戰後，展示並演示幾個近年來使用的 Python 開發技巧如何解決後端工程師在開發與維運時系統所遇到的問題，最後以 AI 對組織內 Python 開發環境與文化的影響做結尾。\n\n講者介紹｜Keith Yang\nKeith 是台灣最大的 Python 使用者群組 Taipei.py 的共同創辦人、主辦人，也曾是 PyCon APAC 2015 的主席。從 2006 起，他的工作主要專注在 web／後端／雲端服務上。寫程式、爬山、旅行、打電動曾是他一半的生活，現在帶領團隊成為他 2023 的探索。滑板或圍巾是他的隨身配備。假如圍巾沒出現的話，有人會問說今天 Keith 沒來喔？ ●●● Keith is the co-founder and co-organizer of Taipei.py, the largest Python user group in Taiwan. He is a Lead Backend Engineer at iCHEF and served as Chairperson of PyCon APAC 2015. Since 2006, his work has mostly focused on web, backend, and cloud services. Coding, hiking, traveling, and video games were half of his life; now, team leading is his 2023 quest. A skateboard or a scarf are essential items in his life. If the scarf isn't present, someone could ask, \"Is Keith absent today?\"\n\n更多資訊｜https://tw.pycon.org/2024/zh-hant/conference/talk/316 \n\nFollow “PyCon Taiwan”\n⭐️ Official Website: https://tw.pycon.org\n⭐️ Facebook: https://www.facebook.com/pycontw\n⭐️ Instagram: https://www.instagram.com/pycontw\n⭐️ Twitter: https://twitter.com/PyConTW\n⭐️ LinkedIn: https://www.linkedin.com/company/pycontw\n⭐️ Blogger: https://pycontw.blogspot.com\n\n#python #talk #pycontw2024",
+        "thumbnail": "https://i.ytimg.com/vi/bmPXkJbqZe0/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=bmPXkJbqZe0",
+        "original_url": "https://www.youtube.com/watch?v=bmPXkJbqZe0"
+    },
+    {
+        "index": 25,
+        "title": "[ DAY2 R1_Talk ] 如何將 Python 程式碼的環境遷移到其他地方？",
+        "url": "https://www.youtube.com/watch?v=t_SUgfs709M",
+        "video_id": "t_SUgfs709M",
+        "uploader": "PyCon Taiwan",
+        "uploader_id": "@PyConTaiwanVideo",
+        "uploader_url": "https://www.youtube.com/@PyConTaiwanVideo",
+        "upload_date": "20241123",
+        "duration": 1740,
+        "view_count": 133,
+        "like_count": 1,
+        "comment_count": null,
+        "tags": [
+            "pycontw",
+            "python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "也許您已經聽說過如何建立 Python 虛擬環境，以及將 Python scripts 打包成單一執行檔的方法。但您可能對它們的運作原理、如何將虛擬環境的套件轉移到其他環境（如 Docker、虛擬機或其他電腦）感興趣，也可能疑惑過跨平台、需要編譯的函式庫如何處理。這個議程將介紹講者如何克服環境轉移的問題，以及可以加速或簡化環境轉移的工具。\n\n講者介紹｜Pan\n目前是大三學生、Zeabur 實習後端工程師、GDSC NKUST 的 Core team member。活躍在各大社群，並偶爾參與開放原始碼貢獻。目前專職 Go 後端開發，負責維護各種軟體的打包 (zbpack) 和後端系統的維護與開發。\n\n更多資訊｜https://tw.pycon.org/2024/zh-hant/conference/talk/319\n\nFollow “PyCon Taiwan”\n⭐️ Official Website: https://tw.pycon.org\n⭐️ Facebook: https://www.facebook.com/pycontw\n⭐️ Instagram: https://www.instagram.com/pycontw\n⭐️ Twitter: https://twitter.com/PyConTW\n⭐️ LinkedIn: https://www.linkedin.com/company/pycontw\n⭐️ Blogger: https://pycontw.blogspot.com\n\n#python #talk #pycontw2024",
+        "thumbnail": "https://i.ytimg.com/vi/t_SUgfs709M/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=t_SUgfs709M",
+        "original_url": "https://www.youtube.com/watch?v=t_SUgfs709M"
+    },
+    {
+        "index": 26,
+        "title": "[ DAY2 R1_Talk ] 全方位強化 Python 服務可觀測性：以 FastAPI 和 Grafana Stack 為例",
+        "url": "https://www.youtube.com/watch?v=y3sumuoDq4w",
+        "video_id": "y3sumuoDq4w",
+        "uploader": "PyCon Taiwan",
+        "uploader_id": "@PyConTaiwanVideo",
+        "uploader_url": "https://www.youtube.com/@PyConTaiwanVideo",
+        "upload_date": "20241123",
+        "duration": 1846,
+        "view_count": 483,
+        "like_count": 17,
+        "comment_count": null,
+        "tags": [
+            "pycontw",
+            "python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "當你的 Python 服務總是噤聲不語，並且輸出成為判斷服務狀態的唯一依據時，它就變成了一個極端的黑箱——非全好即全壞，中間沒有任何過渡地帶來警示潛在問題或進行事後分析。可觀測性（Observability）的目的是提升服務透明度，將黑箱轉變為白箱，讓我們不僅了解服務的當前狀態，還能在問題發生時迅速進行定位和解決。本次分享將簡介可觀測性概念，並以 FastAPI 為例介紹如何利用 Prometheus、OpenTelemetry 和 Grafana 等工具增強可觀測性。\n\n講者介紹｜劉義瑋 Blueswen\n目前擔任 DevOps Engineer，樂於分享與交流技術。 擔任開發人員時前端、後端、ML 服務都略有接觸，有感於問題排除與監控的不足，於是開始研究與推廣可觀測性。 個人網站：https://blueswen.github.io/\n\n更多資訊｜https://tw.pycon.org/2024/zh-hant/conference/talk/320  \n\nFollow “PyCon Taiwan”\n⭐️ Official Website: https://tw.pycon.org\n⭐️ Facebook: https://www.facebook.com/pycontw\n⭐️ Instagram: https://www.instagram.com/pycontw\n⭐️ Twitter: https://twitter.com/PyConTW\n⭐️ LinkedIn: https://www.linkedin.com/company/pycontw\n⭐️ Blogger: https://pycontw.blogspot.com\n\n#python #talk #pycontw2024",
+        "thumbnail": "https://i.ytimg.com/vi/y3sumuoDq4w/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=y3sumuoDq4w",
+        "original_url": "https://www.youtube.com/watch?v=y3sumuoDq4w"
+    },
+    {
+        "index": 27,
+        "title": "[ DAY2 R1_Talk ] What happens when you import a module?",
+        "url": "https://www.youtube.com/watch?v=RP-rlFcL8n4",
+        "video_id": "RP-rlFcL8n4",
+        "uploader": "PyCon Taiwan",
+        "uploader_id": "@PyConTaiwanVideo",
+        "uploader_url": "https://www.youtube.com/@PyConTaiwanVideo",
+        "upload_date": "20241123",
+        "duration": 2804,
+        "view_count": 107,
+        "like_count": 3,
+        "comment_count": null,
+        "tags": [
+            "pycontw",
+            "python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "We all \"import\" modules . But how does Python find and load modules, and making their definitions available? The answer is surprisingly complex. This talk walks you through the world of module importation, from the differences between \"import\" and \"from .. import\" to the load path, to finders and loaders. Even if you've been using Python for many years, you will likely discover quite a lot about what happens behind the `import` statement.\n\n講者介紹｜Reuven M. Lerner\nTeaching Python and data science around the world since 1995. Author of the books \"Python Workout\" and \"Pandas Workout\". Publisher of the \"Better developers\" and \"Bamboo Weekly\" newsletters. I spend each day trying to help people improve their Python skills.\n\n更多資訊｜https://tw.pycon.org/2024/zh-hant/conference/talk/325  \n\nFollow “PyCon Taiwan”\n⭐️ Official Website: https://tw.pycon.org\n⭐️ Facebook: https://www.facebook.com/pycontw\n⭐️ Instagram: https://www.instagram.com/pycontw\n⭐️ Twitter: https://twitter.com/PyConTW\n⭐️ LinkedIn: https://www.linkedin.com/company/pycontw\n⭐️ Blogger: https://pycontw.blogspot.com\n\n#python #talk #pycontw2024",
+        "thumbnail": "https://i.ytimg.com/vi/RP-rlFcL8n4/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=RP-rlFcL8n4",
+        "original_url": "https://www.youtube.com/watch?v=RP-rlFcL8n4"
+    },
+    {
+        "index": 28,
+        "title": "[ DAY2 R2_Talk ] Using Load Testing to Unveil Performance Differences Between Sync and Async",
+        "url": "https://www.youtube.com/watch?v=iIrn8bVnE1c",
+        "video_id": "iIrn8bVnE1c",
+        "uploader": "PyCon Taiwan",
+        "uploader_id": "@PyConTaiwanVideo",
+        "uploader_url": "https://www.youtube.com/@PyConTaiwanVideo",
+        "upload_date": "20241123",
+        "duration": 1795,
+        "view_count": 118,
+        "like_count": 5,
+        "comment_count": null,
+        "tags": [
+            "pycontw",
+            "python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "當應用的條件愈來愈嚴苛，你開始嘗試透過 Async 希望能提升效能。那要如何知道有正確的使用達到效能提升呢 ? 以及效能提升究竟多少呢 ? 我將以 Python Web Server FastAPI 為例，使用 Python Load Testing 工具 Locust，透過效能測試數據的角度展示 Sync、Async 處理 I/O Bound、CPU Bound 不同任務時的表現，希望讓大家更真實了解 Sync、Async 對於效能的影響。並搭配 Load Testing 探討最佳實踐方向，使在最佳化實作上能更有信心。\n\n講者介紹｜蕭庭易 Ting-Yi Xiao\nExperienced back-end engineer who enjoys pursuing efficiency. Developed several Python back-end systems for automated factories and introduced technologies to optimize team collaboration. Actively participates in communities and projects.\n\n更多資訊｜https://tw.pycon.org/2024/zh-hant/conference/talk/317\n\nFollow “PyCon Taiwan”\n⭐️ Official Website: https://tw.pycon.org\n⭐️ Facebook: https://www.facebook.com/pycontw\n⭐️ Instagram: https://www.instagram.com/pycontw\n⭐️ Twitter: https://twitter.com/PyConTW\n⭐️ LinkedIn: https://www.linkedin.com/company/pycontw\n⭐️ Blogger: https://pycontw.blogspot.com\n\n#python #talk #pycontw2024",
+        "thumbnail": "https://i.ytimg.com/vi/iIrn8bVnE1c/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=iIrn8bVnE1c",
+        "original_url": "https://www.youtube.com/watch?v=iIrn8bVnE1c"
+    },
+    {
+        "index": 29,
+        "title": "[ DAY2 R2_Talk ] Effectively memory profiling distributed PySpark code",
+        "url": "https://www.youtube.com/watch?v=yALf2RfNUn4",
+        "video_id": "yALf2RfNUn4",
+        "uploader": "PyCon Taiwan",
+        "uploader_id": "@PyConTaiwanVideo",
+        "uploader_url": "https://www.youtube.com/@PyConTaiwanVideo",
+        "upload_date": "20241123",
+        "duration": 2750,
+        "view_count": 115,
+        "like_count": 3,
+        "comment_count": null,
+        "tags": [
+            "pycontw",
+            "python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "When writing code using PySpark to run distributed computations, it can be difficult to understand and profile your code since PySpark code executes both Python and JVM processes, possibly also running native code. This model is very different to non-distributed code using something like pandas, which runs in the same process. This talk will arm you with the knowledge needed to understand the PySpark driver/worker model, demonstrate how the open source Memray memory profiler can be used to profile Python and native (C/C++/Rust) code across drivers and workers, and take a deep dive into some challenging data processing scenarios where memory usage comes from unexpected places.\n\n講者介紹｜Kaashif Hymabaccus\nKaashif Hymabaccus is a senior software engineer at Bloomberg. His team builds distributed systems to compute and store portfolio analytics, and he and his teammates are heavy users of Python, pandas, and PySpark.\n\n更多資訊｜https://tw.pycon.org/2024/zh-hant/conference/talk/326\n\nFollow “PyCon Taiwan”\n⭐️ Official Website: https://tw.pycon.org\n⭐️ Facebook: https://www.facebook.com/pycontw\n⭐️ Instagram: https://www.instagram.com/pycontw\n⭐️ Twitter: https://twitter.com/PyConTW\n⭐️ LinkedIn: https://www.linkedin.com/company/pycontw\n⭐️ Blogger: https://pycontw.blogspot.com\n\n#python #talk #pycontw2024",
+        "thumbnail": "https://i.ytimg.com/vi/yALf2RfNUn4/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=yALf2RfNUn4",
+        "original_url": "https://www.youtube.com/watch?v=yALf2RfNUn4"
+    },
+    {
+        "index": 30,
+        "title": "[ DAY2 R0 ] The Python Software Foundation: Supporting and Scaling the Python Community",
+        "url": "https://www.youtube.com/watch?v=G0lxQXDf2vw",
+        "video_id": "G0lxQXDf2vw",
+        "uploader": "PyCon Taiwan",
+        "uploader_id": "@PyConTaiwanVideo",
+        "uploader_url": "https://www.youtube.com/@PyConTaiwanVideo",
+        "upload_date": "20241123",
+        "duration": 1711,
+        "view_count": 37,
+        "like_count": 0,
+        "comment_count": null,
+        "tags": [
+            "pycontw",
+            "python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "Follow “PyCon Taiwan”\n⭐️ Official Website: https://tw.pycon.org\n⭐️ Facebook: https://www.facebook.com/pycontw\n⭐️ Instagram: https://www.instagram.com/pycontw\n⭐️ Twitter: https://twitter.com/PyConTW\n⭐️ LinkedIn: https://www.linkedin.com/company/pycontw\n⭐️ Blogger: https://pycontw.blogspot.com\n\n#python #psf #pycontw2024",
+        "thumbnail": "https://i.ytimg.com/vi/G0lxQXDf2vw/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=G0lxQXDf2vw",
+        "original_url": "https://www.youtube.com/watch?v=G0lxQXDf2vw"
+    },
+    {
+        "index": 31,
+        "title": "[ DAY2 R0 ] Lightning Talks & Closing",
+        "url": "https://www.youtube.com/watch?v=in-Y4C4R11E",
+        "video_id": "in-Y4C4R11E",
+        "uploader": "PyCon Taiwan",
+        "uploader_id": "@PyConTaiwanVideo",
+        "uploader_url": "https://www.youtube.com/@PyConTaiwanVideo",
+        "upload_date": "20241123",
+        "duration": 2819,
+        "view_count": 21,
+        "like_count": 0,
+        "comment_count": null,
+        "tags": [
+            "pycontw",
+            "python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "Lightning Talks 是一個開放給所有人現場報名，且每個演講包含設置投影片僅限 3 分鐘的刺激活動。所有講者都是當天報名、當天抽出中選名單！讓所有人都有機會盡情上台大鳴大放電爆所有人雙眼！\n\nFollow “PyCon Taiwan”\n⭐️ Official Website: https://tw.pycon.org\n⭐️ Facebook: https://www.facebook.com/pycontw\n⭐️ Instagram: https://www.instagram.com/pycontw\n⭐️ Twitter: https://twitter.com/PyConTW\n⭐️ LinkedIn: https://www.linkedin.com/company/pycontw\n⭐️ Blogger: https://pycontw.blogspot.com\n\n#python #talk #pycontw2024",
+        "thumbnail": "https://i.ytimg.com/vi/in-Y4C4R11E/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=in-Y4C4R11E",
+        "original_url": "https://www.youtube.com/watch?v=in-Y4C4R11E"
+    }
+]
