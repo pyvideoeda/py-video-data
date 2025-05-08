@@ -1,0 +1,1204 @@
+﻿index,title,url,video_id,uploader,uploader_id,uploader_url,upload_date,duration,view_count,like_count,comment_count,tags,categories,description,thumbnail,age_limit,is_live,was_live,availability,webpage_url,original_url
+1,Opening - PyCon Italia 2023,https://www.youtube.com/watch?v=eVeypBMKFoM,eVeypBMKFoM,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230729,1111,584,3,,,Entertainment,"Opening - PyCon Italia 2023
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it",https://i.ytimg.com/vi/eVeypBMKFoM/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=eVeypBMKFoM,https://www.youtube.com/watch?v=eVeypBMKFoM
+2,Q&A with ESA Astronaut Samantha Cristoforetti - Samantha Cristoforetti,https://www.youtube.com/watch?v=LIv-vcjXMJE,LIv-vcjXMJE,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1764,223,1,,,Entertainment,"Q&A with ESA Astronaut Samantha Cristoforetti - Samantha Cristoforetti - PyCon Italia 2023
+
+Samantha Cristoforetti is joining us remotely for a Q&A session where you can learn more about her career, life, and what inspired her to become the person we all know and love. 
+
+The session will be streamed online and can be watched for free online on our site pycon.it!
+
+Full Abstract: https://2023.pycon.it/event/qa-with-esa-astronaut-samantha-cristoforetti
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it",https://i.ytimg.com/vi/LIv-vcjXMJE/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=LIv-vcjXMJE,https://www.youtube.com/watch?v=LIv-vcjXMJE
+3,PEP 8: How to Avoid Being a Python Hooligan - Maciej Marzęta,https://www.youtube.com/watch?v=-ut9WuI3T2w,-ut9WuI3T2w,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1525,290,10,,"bestpractice,cleancode,codeanalysis",Entertainment,"PEP 8: How to Avoid Being a Python Hooligan - Maciej Marzęta - PyCon Italia 2023
+
+Unlock the secrets of writing elegant and professional Python code that will make your team's development process smoother! Learn the best practices and conventions of PEP 8 and elevate your coding game. Gain insights on how to write readable and maintainable code with the help of this talk.
+
+Full Abstract: https://2023.pycon.it/event/pep-8-how-to-avoid-being-a-python-hooligan
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#bestpractice #cleancode #codeanalysis",https://i.ytimg.com/vi/-ut9WuI3T2w/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=-ut9WuI3T2w,https://www.youtube.com/watch?v=-ut9WuI3T2w
+4,Let's do graph machine learning on Cloud - Alessandro Volpe,https://www.youtube.com/watch?v=09NK1nZEzPE,09NK1nZEzPE,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1854,137,2,,"googlecloud,graphdatabases,machinelearning",Entertainment,"Let's do graph machine learning on Cloud - Alessandro Volpe - PyCon Italia 2023
+
+Learn how to use graph machine learning to analyze and understand complex, connected data at scale on the cloud. We will cover the basics of graph machine learning and discuss how to apply it to real-world problems, using VertexAI on Google Cloud.
+
+Full Abstract: https://2023.pycon.it/event/lets-do-graph-machine-learning-on-cloud
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#machinelearning #googlecloud #graphdatabases",https://i.ytimg.com/vi/09NK1nZEzPE/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=09NK1nZEzPE,https://www.youtube.com/watch?v=09NK1nZEzPE
+5,Lightning Talks - PyCon Italia 2023,https://www.youtube.com/watch?v=2-d-iUne3EY,2-d-iUne3EY,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,3655,285,4,,,Entertainment,"Lightning Talks -  - PyCon Italia 2023
+
+Check our board near the registration desk to signup!
+
+Full Abstract: https://2023.pycon.it/event/lightning-talks
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it",https://i.ytimg.com/vi/2-d-iUne3EY/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=2-d-iUne3EY,https://www.youtube.com/watch?v=2-d-iUne3EY
+6,Decoding Binary Files  - a Primer (specifically optical spectra for analysis) - H. Josiah Raj,https://www.youtube.com/watch?v=25mEvh_2sPY,25mEvh_2sPY,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1630,122,3,2.0,"datastructures,functionalprogramming",Entertainment,"Decoding Binary Files  - a Primer (specifically optical spectra for analysis) - H. Josiah Raj - PyCon Italia 2023
+
+Each spectrophotometer has its own very limited software & file format. If you needed to analyze thousands of production spectra ᐸchoose your own swear wordsᐳ & if you had custom specs ᐸdont break the monitor...mouse=ok ᐳ I will show you how I decoded binary data & made production data readable.
+
+Full Abstract: https://2023.pycon.it/event/decoding-binary-files-a-primer-specifically-optical-spectra-for-analysis
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#functionalprogramming #datastructures",https://i.ytimg.com/vi/25mEvh_2sPY/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=25mEvh_2sPY,https://www.youtube.com/watch?v=25mEvh_2sPY
+7,"Pessimism, optimism, realism and Django database concurrency - Aivars Kalvāns",https://www.youtube.com/watch?v=48s29sSuol8,48s29sSuol8,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1678,195,10,,"databases,django,performance,postgresql",Entertainment,"Pessimism, optimism, realism and Django database concurrency - Aivars Kalvāns - PyCon Italia 2023
+
+In this talk, I will look at how pessimistic, optimistic and no (explicit) locking works with relational databases and the best ways to use it from Django ORM
+
+Full Abstract: https://2023.pycon.it/event/pessimism-optimism-realism-and-django-database-concurrency
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#django #postgresql #performance #databases",https://i.ytimg.com/vi/48s29sSuol8/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=48s29sSuol8,https://www.youtube.com/watch?v=48s29sSuol8
+8,How to Tune your Python Analysis Pipeline: A Profiler Guide - Jonathan Striebel,https://www.youtube.com/watch?v=4oKbnVVhUhc,4oKbnVVhUhc,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1776,96,1,,"codeanalysis,debugging,performance,scaling",Entertainment,"How to Tune your Python Analysis Pipeline: A Profiler Guide - Jonathan Striebel - PyCon Italia 2023
+
+In this talk, we present tools and strategies to identify and mitigate speed and cpu bottlenecks, demonstrating them in examples. We'll provide an overview and comparison over the landscape of both memory and timing profilers, covering usage examples, accuracy considerations, and UI features.
+
+Full Abstract: https://2023.pycon.it/event/how-to-tune-your-python-analysis-pipeline-a-profiler-guide
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#performance #debugging #codeanalysis #scaling",https://i.ytimg.com/vi/4oKbnVVhUhc/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=4oKbnVVhUhc,https://www.youtube.com/watch?v=4oKbnVVhUhc
+9,Cybersecurity in the semantic web with MITRE D3FEND - Roberto Polli,https://www.youtube.com/watch?v=5AQt_K8KZvM,5AQt_K8KZvM,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1775,207,4,,"casestudy,graphdatabases,security,visualization",Entertainment,"Cybersecurity in the semantic web with MITRE D3FEND - Roberto Polli - PyCon Italia 2023
+
+Semantic technologies can boost cybersecurity supporting a meaningful definition of infrastructural and software components and  the related offensive and defensive techniques.
+
+This talk presents D3FEND, a security knowledge base produced by MITRE and some of its possible uses.
+
+Full Abstract: https://2023.pycon.it/event/cybersecurity-in-the-semantic-web-with-mitre-d3fend
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#visualization #security #casestudy #graphdatabases",https://i.ytimg.com/vi/5AQt_K8KZvM/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=5AQt_K8KZvM,https://www.youtube.com/watch?v=5AQt_K8KZvM
+10,Ensembles of GANs as a Data Augmentation Technique for Alzheimer research - Raul Pino,https://www.youtube.com/watch?v=6M0lUv9poaw,6M0lUv9poaw,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1934,228,5,,"deeplearning,machinelearning",Entertainment,"Ensembles of GANs as a Data Augmentation Technique for Alzheimer research - Raul Pino - PyCon Italia 2023
+
+Data scarcity is a regular problem, and in medicine it’s especially difficult to find publicly available datasets, anomalies are scattered and not common. In this talk, you'll be introduced to GAN ensembles, and how to use it for improving generation of demented brains MRIs for Alzheimer research.
+
+Full Abstract: https://2023.pycon.it/event/ensembles-of-gans-as-a-data-augmentation-technique-for-alzheimer-research
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#machinelearning #deeplearning",https://i.ytimg.com/vi/6M0lUv9poaw/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=6M0lUv9poaw,https://www.youtube.com/watch?v=6M0lUv9poaw
+11,Transcendence: The Power of Representation - Marlene Mhangami,https://www.youtube.com/watch?v=8Asn_vmg7Tg,8Asn_vmg7Tg,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,3181,90,3,1.0,,Entertainment,"Transcendence: The Power of Representation - Marlene Mhangami - PyCon Italia 2023
+
+In this talk, I will be sharing about the power of representation and its ability to help us move beyond our present circumstances. 
+When we see an athlete perform at the Olympic games, particularly if we can identify a part of ourselves in them, this experience is transcendent. We feel their pain when they lose, reflect their joy when they win, and in many ways, we imagine that we can do what they do! 
+
+
+This presentation will reflect on how we can utilize these shared experiences to understand the significance of representation, especially for marginalized communities, in the world of technology today. 
+I will share my own experiences as a Zimbabwean woman working in tech and how representation, and in many cases the lack thereof, has affected me and others.
+
+Full Abstract: https://2023.pycon.it/event/transcendence-the-power-of-representation
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it",https://i.ytimg.com/vi/8Asn_vmg7Tg/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=8Asn_vmg7Tg,https://www.youtube.com/watch?v=8Asn_vmg7Tg
+12,Bias: ci influenzano più di quanto pensiamo - Sabrina Scoma,https://www.youtube.com/watch?v=98ljp3cfYXk,98ljp3cfYXk,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1552,113,2,2.0,"bestpractice,diversity",Entertainment,"Bias: ci influenzano più di quanto pensiamo - Sabrina Scoma - PyCon Italia 2023
+
+Un viaggio alla scoperta dei bias cognitivi per capire come il nostro cervello prende decisioni ed evitare di inciampare in errori inconsapevoli che possono compromettere l’inclusività delle soluzioni tecnologiche che sviluppiamo.
+
+Full Abstract: https://2023.pycon.it/event/bias-ci-influenzano-piu-di-quanto-pensiamo
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#bestpractice #diversity",https://i.ytimg.com/vi/98ljp3cfYXk/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=98ljp3cfYXk,https://www.youtube.com/watch?v=98ljp3cfYXk
+13,Decision sciences in Python - Mattia Ferrini,https://www.youtube.com/watch?v=Arai7T3kizw,Arai7T3kizw,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1740,286,10,,"bigdata,machinelearning",Entertainment,"Decision sciences in Python - Mattia Ferrini - PyCon Italia 2023
+
+Despite the availability of data and machine learning forecasts, making the right decisions is still hard: we have to weight pros and cons, manage trade-offs, cope with uncertainty, and devise plans B. This talk explains what decision science is and how to leverage it in Python.
+
+Full Abstract: https://2023.pycon.it/event/decision-sciences-in-python
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#bigdata #machinelearning",https://i.ytimg.com/vi/Arai7T3kizw/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=Arai7T3kizw,https://www.youtube.com/watch?v=Arai7T3kizw
+14,Altering lives with communities - Anwesha Das,https://www.youtube.com/watch?v=C2DEFVZ4PIo,C2DEFVZ4PIo,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,3078,148,2,,,Entertainment,"Altering lives with communities - Anwesha Das - PyCon Italia 2023
+
+This is not a talk but a journey. A journey of a corporate lawyer becoming an open source community member and enabler.
+Have you thought that the simple piece of software you write, a comment you make on a GitHub issue, or a small meetup you organize has the power to alter lives? The talk will explore our enormous ability to do good by progressing and learning together.
+
+We, PyLadies, are making small efforts to improve life for us and others in different parts of the world. 'Python for Everyone' is a program where we are helping immigrant women to transition their careers from non-tech to tech and become active members of the Python Open source community.
+
+ This is a story of endless possibilities. It will touch upon the different aspects of the community. The foundations on which open-source communities stand on technology, law, and humans.
+
+Full Abstract: https://2023.pycon.it/event/altering-lives-with-communities
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it",https://i.ytimg.com/vi/C2DEFVZ4PIo/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=C2DEFVZ4PIo,https://www.youtube.com/watch?v=C2DEFVZ4PIo
+15,Trace functions: Building a tiny debugger - Jonathan Oberländer,https://www.youtube.com/watch?v=Cl6U9VoPn_M,Cl6U9VoPn_M,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1405,340,10,,"cpython,debugging",Entertainment,"Trace functions: Building a tiny debugger - Jonathan Oberländer - PyCon Italia 2023
+
+I will give a brief introduction into trace functions: what they are for, and how they work, and how you can use them to build your own tiny pdb replacement.
+
+Full Abstract: https://2023.pycon.it/event/trace-functions-building-a-tiny-debugger
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#cpython #debugging",https://i.ytimg.com/vi/Cl6U9VoPn_M/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=Cl6U9VoPn_M,https://www.youtube.com/watch?v=Cl6U9VoPn_M
+16,Introduction to AI Safety. Let's be ready before it's too late! - Stefania Delprete,https://www.youtube.com/watch?v=GqlSIJYOpM0,GqlSIJYOpM0,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1815,105,2,,"community,deeplearning,machinelearning,science",Entertainment,"Introduction to AI Safety. Let's be ready before it's too late! - Stefania Delprete - PyCon Italia 2023
+
+What do you think AI will be capable of in 10 years? And in 20 or more? Should we start to be worried now and be prepared to prevent malicious behaviors?
+Let's discover a new discipline called AI Safety that addresses the potential risks of AI and how to prevent them.
+
+Full Abstract: https://2023.pycon.it/event/introduction-to-ai-safety-lets-be-ready-before-its-too-late
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#machinelearning #community #deeplearning #science",https://i.ytimg.com/vi/GqlSIJYOpM0/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=GqlSIJYOpM0,https://www.youtube.com/watch?v=GqlSIJYOpM0
+17,"Don't just test, my friend, test better - Cheuk Ho",https://www.youtube.com/watch?v=GqvAEj2Xw8o,GqvAEj2Xw8o,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1282,93,0,,"bestpractice,casestudy,testing,tooling",Entertainment,"Don't just test, my friend, test better - Cheuk Ho - PyCon Italia 2023
+
+We all know that we need to write tests, some of you may even practice test-driven development. Pytest provides lots of tools for you to write better tests, however, not all of them we are familiar with. Let's revisit them and see how they can be used to write better tests.
+
+Full Abstract: https://2023.pycon.it/event/dont-just-test-my-friend-test-better
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#tooling #bestpractice #casestudy #testing",https://i.ytimg.com/vi/GqvAEj2Xw8o/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=GqvAEj2Xw8o,https://www.youtube.com/watch?v=GqvAEj2Xw8o
+18,Serverless Computing for Mathematical Optimization - Fabbiani,https://www.youtube.com/watch?v=JAOK9Zut_R4,JAOK9Zut_R4,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1703,56,1,,scaling,Entertainment,"Serverless Computing for Mathematical Optimization - Fabbiani - PyCon Italia 2023
+
+This talk showcases the use of serverless computing to solve large-scale optimization problems efficiently.
+
+Starting from a real case study, we discuss different cloud-based architectures and we show how cloud functions enable a 96% reduction in elapsed time while keeping the cost low.
+
+Full Abstract: https://2023.pycon.it/event/serverless-computing-for-mathematical-optimization
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#scaling",https://i.ytimg.com/vi/JAOK9Zut_R4/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=JAOK9Zut_R4,https://www.youtube.com/watch?v=JAOK9Zut_R4
+19,Become a Better Pythonista by Abusing List Comprehensions and := - Niccolò Venerandi,https://www.youtube.com/watch?v=LgKFcdFc-YI,LgKFcdFc-YI,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1279,143,4,,cleancode,Entertainment,"Become a Better Pythonista by Abusing List Comprehensions and := - Niccolò Venerandi - PyCon Italia 2023
+
+The goal? Being able to replace any loop with comprehensions. Why?
+By talking non-stop about all the features of comprehension and the walrus operator, I'll (easily!) convince you that, by mastering some Python aspects to the extent of abusing them, you'll improve in your daily coding.
+
+Full Abstract: https://2023.pycon.it/event/become-a-better-pythonista-by-abusing-list-comprehensions-and
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#cleancode",https://i.ytimg.com/vi/LgKFcdFc-YI/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=LgKFcdFc-YI,https://www.youtube.com/watch?v=LgKFcdFc-YI
+20,Open Source Is Eating the World - Justin Mayer,https://www.youtube.com/watch?v=Lznz_Yb-VlU,Lznz_Yb-VlU,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1916,47,0,,"infrastructure,machinelearning,opensource,predictions,privacy",Entertainment,"Open Source Is Eating the World - Justin Mayer - PyCon Italia 2023
+
+Open source is eating the world, which has huge implications for machine learning, successful careers in open source, and exciting new open-source web & mobile applications for end users. You are at the center of this massive paradigm shift. What will *you* do with it?
+
+Full Abstract: https://2023.pycon.it/event/open-source-is-eating-the-world
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#predictions #privacy #machinelearning #opensource #infrastructure",https://i.ytimg.com/vi/Lznz_Yb-VlU/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=Lznz_Yb-VlU,https://www.youtube.com/watch?v=Lznz_Yb-VlU
+21,"How Not to Repeat Yourself - pydantic, YAML, Connexion and all the REST of it.",https://www.youtube.com/watch?v=M6mQpObzudM,M6mQpObzudM,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1422,444,6,,"bestpractice,documentation,rest",Entertainment,"How Not to Repeat Yourself - pydantic, YAML, Connexion and all the REST of it. - Dr. Patrick Schemitz - PyCon Italia 2023
+
+Let's face it: Writing YAML sucks! Have a nice decorator generate OpenAPI YAML specs for you, and instead write type hints, docstrings and pydantic schemas like you would have anyway, so you don't have to repeat yourself.
+
+Full Abstract: https://2023.pycon.it/event/how-not-to-repeat-yourself-pydantic-yaml-connexion-and-all-the-rest-of-it
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#documentation #rest #bestpractice",https://i.ytimg.com/vi/M6mQpObzudM/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=M6mQpObzudM,https://www.youtube.com/watch?v=M6mQpObzudM
+22,Help! I Need To UnSQLize My Application - Joel Lord,https://www.youtube.com/watch?v=MX9wg-W_6_U,MX9wg-W_6_U,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1773,84,0,,"databases,datastructures,mongodb",Entertainment,"Help! I Need To UnSQLize My Application - Joel Lord - PyCon Italia 2023
+
+NoSQL databases make big promises, but it can be really hard to get started with them. In this talk, you will learn how to take relational data, and convert it for use with a document database.
+
+Full Abstract: https://2023.pycon.it/event/help-i-need-to-unsqlize-my-application
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#mongodb #databases #datastructures",https://i.ytimg.com/vi/MX9wg-W_6_U/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=MX9wg-W_6_U,https://www.youtube.com/watch?v=MX9wg-W_6_U
+23,"Efficient Communication Between Python Microservices using LavinMQ - Christina Dahlén, Nyior Clement",https://www.youtube.com/watch?v=Mf0ThQS5tPU,Mf0ThQS5tPU,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1991,252,2,,"distributedsystems,fastapi,microservices",Entertainment,"Efficient Communication Between Python Microservices using LavinMQ - Christina Dahlén, Nyior Clement - PyCon Italia 2023
+
+Discover how LavinMQ, a lightweight and efficient message broker, can streamline communication between Python microservices. Our presentation covers beginner and intermediate concepts, making it fit for total beginners and those seeking to level up. Don't miss out!
+
+Full Abstract: https://2023.pycon.it/event/efficient-communication-between-python-microservices-using-lavinmq
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#distributedsystems #microservices #fastapi",https://i.ytimg.com/vi/Mf0ThQS5tPU/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=Mf0ThQS5tPU,https://www.youtube.com/watch?v=Mf0ThQS5tPU
+24,What we learned by writing and editing the 4th edition of Python in a Nutshell,https://www.youtube.com/watch?v=NY5rfqX6d28,NY5rfqX6d28,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,2667,100,3,,,Entertainment,"What we learned by writing and editing the 4th edition of Python in a Nutshell - Anna Martelli Ravenscroft, Alex Martelli - PyCon Italia 2023
+
+16 months, 6 editors, 5 Python releases, 4 PSF Fellows, 3 time zones, 2 continents…, 1 book!
+
+This talk covers the process of updating “Python in a Nutshell” to its 4th edition, addressing changes spanning 5 new releases of Python.
+We discuss how we coordinated with each other, several official and unofficial reviewers, and our publisher’s staff, to create the book. 
+(Hint: Google Spaces, Docs, and Spreadsheets, as well as Google Meets, were all invaluable.)
+
+We address some of the challenges we met in slimming down this “coconut shell” of a book, not just by removing Python 2 material, but also by moving two chapters entirely online and removing coverage of certain areas which deserve books of their own.
+
+We also share a few of the interesting and surprising Python features and corner cases that we discovered while working on the book (despite already being experts when we started).
+
+Full Abstract: https://2023.pycon.it/event/what-we-learned-by-writing-and-editing-the-4th-edition-of-python-in-a-nutshell
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it",https://i.ytimg.com/vi/NY5rfqX6d28/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=NY5rfqX6d28,https://www.youtube.com/watch?v=NY5rfqX6d28
+25,The bumps in the road: A retrospective on my data visualisation mistakes - Artem Kislovskiy,https://www.youtube.com/watch?v=QjaHXpzU5xg,QjaHXpzU5xg,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1667,68,1,,visualization,Entertainment,"The bumps in the road: A retrospective on my data visualisation mistakes - Artem Kislovskiy - PyCon Italia 2023
+
+Join me on a personal journey from data visualization hurdles to automated visualisation pipelines. Discover simple, universal strategies, illustrated with Matplotlib, that could streamline your data visualisation processes, reduce errors, save mental effort, and enhance productivity.
+
+Full Abstract: https://2023.pycon.it/event/the-bumps-in-the-road-a-retrospective-on-my-data-visualisation-mistakes
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#visualization",https://i.ytimg.com/vi/QjaHXpzU5xg/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=QjaHXpzU5xg,https://www.youtube.com/watch?v=QjaHXpzU5xg
+26,How to use Deep Learning to process audio data and classify sounds. - Serena Palazzo,https://www.youtube.com/watch?v=RGkBRLufCqs,RGkBRLufCqs,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1672,56,2,,"deeplearning,machinelearning,naturallanguageprocessing,predictions",Entertainment,"How to use Deep Learning to process audio data and classify sounds. - Serena Palazzo - PyCon Italia 2023
+
+Are you curious to know how audio classification works? Imagine you can automatically organize your music library by genre or be able to search for a specific word in a long audio recording. By leveraging Deep Learning algorithms power very accurate and efficient audio classification is possible!
+
+Full Abstract: https://2023.pycon.it/event/how-to-use-deep-learning-to-process-audio-data-and-classify-sounds
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#predictions #machinelearning #deeplearning #naturallanguageprocessing",https://i.ytimg.com/vi/RGkBRLufCqs/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=RGkBRLufCqs,https://www.youtube.com/watch?v=RGkBRLufCqs
+27,What does Starlette really do for FastAPI? - Marcelo Trylesinski,https://www.youtube.com/watch?v=SvQiSa7ua-Y,SvQiSa7ua-Y,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1835,5240,116,3.0,"apis,asyncio,fastapi,microservices,starlette",Entertainment,"What does Starlette really do for FastAPI? - Marcelo Trylesinski - PyCon Italia 2023
+
+FastAPI has been growing a lot lately, but people aren't really aware of the packages that were the basis for its foundation.
+
+On this talk, we are going to explore Starlette, the web framework on which FastAPI is built on top of. 🚀
+
+Full Abstract: https://2023.pycon.it/event/what-does-starlette-really-do-for-fastapi
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#asyncio #apis #microservices #fastapi #starlette",https://i.ytimg.com/vi/SvQiSa7ua-Y/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=SvQiSa7ua-Y,https://www.youtube.com/watch?v=SvQiSa7ua-Y
+28,Nessuno fa Continuous Delivery: dimostrami il contrario! - PyCon Italia 2023,https://www.youtube.com/watch?v=UcKwjcjpOyw,UcKwjcjpOyw,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1833,164,1,,"agile,bestpractice,deployment/continuousintegration,devops",Entertainment,"Nessuno fa Continuous Delivery: dimostrami il contrario! - Raffaele Colace, Peter Bittner, Michel Murabito, Francesco Sciuti - PyCon Italia 2023
+
+In questo panel provocatorio insieme a **Peter Bittner, Michel Murabito e Francesco Sciuti** parleremo di **Continuous Delivery**, lo stato dell'arte e cosa possiamo fare per migliorare il modo in cui rilasciamo il nostro codice.
+
+Full Abstract: https://2023.pycon.it/event/nessuno-fa-continuous-delivery-dimostrami-il-contrario
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#agile #bestpractice #devops #deployment/continuousintegration",https://i.ytimg.com/vi/UcKwjcjpOyw/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=UcKwjcjpOyw,https://www.youtube.com/watch?v=UcKwjcjpOyw
+29,Fact Checking Rocks! - How to build a fact checking system for rock music - Stefano Fiorucci,https://www.youtube.com/watch?v=VyjRp0-0Yb0,VyjRp0-0Yb0,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1822,74,0,,"deeplearning,machinelearning,naturallanguageprocessing,opensource,textmining",Entertainment,"Fact Checking Rocks! - How to build a fact checking system for rock music - Stefano Fiorucci - PyCon Italia 2023
+
+“Allan Williams was the manager of the Beatles” True or false? Let AI ​​answer!
+
+In this talk, we’ll discover how to build a simple fact-checking system for rock music.
+
+We will leverage the power of various Python open-source libraries, including Haystack, FAISS, Hugging Face Transformers...
+
+Full Abstract: https://2023.pycon.it/event/fact-checking-rocks-how-to-build-a-fact-checking-system-for-rock-music
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#machinelearning #opensource #deeplearning #naturallanguageprocessing #textmining",https://i.ytimg.com/vi/VyjRp0-0Yb0/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=VyjRp0-0Yb0,https://www.youtube.com/watch?v=VyjRp0-0Yb0
+30,Network analysis inside the Italian parliament - Mario Migliaccio,https://www.youtube.com/watch?v=W8CxMr2UoGI,W8CxMr2UoGI,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1665,68,0,,"analytics,casestudy,graphdatabases",Entertainment,"Network analysis inside the Italian parliament - Mario Migliaccio - PyCon Italia 2023
+
+Combining data and politics, that's the goal!
+Pick the Italian Parliamentarians, how they vote with a flake of Django, networkX and neo4j and try to prepare a network analysis that attempts at describing the web of the members of the chambers and uncover interesting paths among them.
+
+Full Abstract: https://2023.pycon.it/event/network-analysis-inside-the-italian-parliament
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#analytics #casestudy #graphdatabases",https://i.ytimg.com/vi/W8CxMr2UoGI/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=W8CxMr2UoGI,https://www.youtube.com/watch?v=W8CxMr2UoGI
+31,Teaching teachers to teach Python: what have I learned? - Marie Roald,https://www.youtube.com/watch?v=_QymVpgpOk4,_QymVpgpOk4,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1570,100,4,,"communication,education,teaching",Entertainment,"Teaching teachers to teach Python: what have I learned? - Marie Roald - PyCon Italia 2023
+
+Python code is a superb problem solving tool! Learning coding in school can help pupils tackle realistic problems earlier in a fun way. But this requires teachers that know code and how to use it effectively in the classroom. How can we help teachers with little coding experience reach this goal?
+
+Full Abstract: https://2023.pycon.it/event/teaching-teachers-to-teach-python-what-have-i-learned
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#communication #education #teaching",https://i.ytimg.com/vi/_QymVpgpOk4/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=_QymVpgpOk4,https://www.youtube.com/watch?v=_QymVpgpOk4
+32,"Stay Curious: Reflections on Passion, Risk-Taking, and Re-Invention - Emily Morehouse-Valcarcel",https://www.youtube.com/watch?v=lvAkN6v851Q,lvAkN6v851Q,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,3418,71,1,,,Entertainment,"Stay Curious: Reflections on Passion, Risk-Taking, and Re-Invention - Emily Morehouse-Valcarcel - PyCon Italia 2023
+
+Software engineering is more than just a technical skill. It is a way of thinking; a way of expressing our humanity, values, and identity. Over time, the sharpness of our skills increases, but the intensity and vibrance of our “passion” often dwindles. We’ll reflect on how fighting complacency to stay curious and take risks can help us re-invent our work and ourselves to discover what’s next.
+
+Full Abstract: https://2023.pycon.it/event/stay-curious-reflections-on-passion-risk-taking-and-re-invention
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it",https://i.ytimg.com/vi/lvAkN6v851Q/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=lvAkN6v851Q,https://www.youtube.com/watch?v=lvAkN6v851Q
+33,La mia prima esperienza di contribuzione ad un progetto Open Source,https://www.youtube.com/watch?v=c5u9B53FnT4,c5u9B53FnT4,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1272,158,3,,"community,django,opensource",Entertainment,"La mia prima esperienza di contribuzione ad un progetto Open Source - Juliana Nicacio Tiziotto da Silva - PyCon Italia 2023
+
+La mia PRIMA esperienza di contribuzioni in un progetto Open source è arrivata molto più velocemente di quanto me lo aspettassi.
+Vi racconterò cosa mi ha aiutata a compiere questo passo e come mi sono trovata nel mezzo all'invio di proposte di modifiche a Django framework.
+
+Full Abstract: https://2023.pycon.it/event/la-mia-prima-esperienza-di-contribuzione-ad-un-progetto-open-source
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#django #community #opensource",https://i.ytimg.com/vi/c5u9B53FnT4/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=c5u9B53FnT4,https://www.youtube.com/watch?v=c5u9B53FnT4
+34,Open Source for the long-haul - Carlton Gibson,https://www.youtube.com/watch?v=AHjnGtaWDjU,AHjnGtaWDjU,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,2681,394,18,,,Entertainment,"Open Source for the long-haul - Carlton Gibson - PyCon Italia 2023
+
+So you took the plunge and fixed that one issue. And now somehow you're an Open Source maintainer.
+
+That's all for the good, but how do you build healthy habits, and sustainable projects — so that you don't burnout, and they don't fall apart the second you walk away? Do we have a vision at-all of an approach to open source that isn't just built on the efforts of individual maintainers?
+
+Drawing on lessons from five years as a Django Fellow, and over a decade working on key projects in the Django ecosystem, let's find out!
+
+Full Abstract: https://2023.pycon.it/event/open-source-for-the-long-haul
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it",https://i.ytimg.com/vi/AHjnGtaWDjU/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=AHjnGtaWDjU,https://www.youtube.com/watch?v=AHjnGtaWDjU
+35,Come migliorare l’usabilità di un sito: il caso djangoproject.com,https://www.youtube.com/watch?v=-hq4MWDT6r4,-hq4MWDT6r4,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1465,108,3,,"casestudy,django",Entertainment,"Come migliorare l’usabilità di un sito: il caso djangoproject.com - Virginia Capoluongo, Laura Lezcano - PyCon Italia 2023
+
+Scommettiamo che conosci già il sito djangoproject.com.
+Pensi possa essere migliorato per un'esperienza utente più efficace? 
+Ti raccontiamo come abbiamo affrontato questa sfida e come vogliamo coinvolgere i veri utenti di Django per migliorare l'usabilità del sito. Vorresti dire la tua?
+
+Full Abstract: https://2023.pycon.it/event/come-migliorare-lusabilita-di-un-sito-il-caso-djangoprojectcom
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#django #casestudy",https://i.ytimg.com/vi/-hq4MWDT6r4/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=-hq4MWDT6r4,https://www.youtube.com/watch?v=-hq4MWDT6r4
+36,Using GUI Automation to Create APIs for API-less Desktop Apps - Albert Sweigart,https://www.youtube.com/watch?v=cvNI8X-wZNU,cvNI8X-wZNU,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1427,477,6,,apis,Entertainment,"Using GUI Automation to Create APIs for API-less Desktop Apps - Albert Sweigart - PyCon Italia 2023
+
+Learn how to control the mouse and keyboard from your Python scripts with PyAutoGUI. Using this library, you can also add automation to desktop apps that lack APIs. We do a case study of this with the Posterazor app.
+
+Full Abstract: https://2023.pycon.it/event/using-gui-automation-to-create-apis-for-api-less-desktop-apps
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#apis",https://i.ytimg.com/vi/cvNI8X-wZNU/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=cvNI8X-wZNU,https://www.youtube.com/watch?v=cvNI8X-wZNU
+37,"Creativity: How we lost it, why that’s bad, and how we get it back - Florian Haas",https://www.youtube.com/watch?v=dKuGRV0hlA0,dKuGRV0hlA0,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1578,188,6,,"bestpractice,communication",Entertainment,"Creativity: How we lost it, why that’s bad, and how we get it back - Florian Haas - PyCon Italia 2023
+
+Creativity is the process of having original ideas that have value. It is not limited to the arts, it is innate to us and indeed vital to our professional lives.
+
+And yet, many organizations do their very best to squelch, stifle, and suffocate creativity.
+
+Here are some suggestions for fixing that.
+
+Full Abstract: https://2023.pycon.it/event/creativity-how-we-lost-it-why-thats-bad-and-how-we-get-it-back
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#communication #bestpractice",https://i.ytimg.com/vi/dKuGRV0hlA0/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=dKuGRV0hlA0,https://www.youtube.com/watch?v=dKuGRV0hlA0
+38,Striving for simplicity: Creating software that is simple to use and easy to maintain,https://www.youtube.com/watch?v=evugMUNAqlk,evugMUNAqlk,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1628,70,0,,"abstractions,apis,bestpractice,cleancode",Entertainment,"Striving for simplicity: Creating software that is simple to use and easy to maintain - Flavio Percoco - PyCon Italia 2023
+
+Simplicity is a intrinsic part of software development and we all should strive for it. Learning the fundamentals of simplicity and striving for it should always be part of our craft. Let's dive into what to look for, and what to stay away from.
+
+Full Abstract: https://2023.pycon.it/event/striving-for-simplicity-creating-software-that-is-simple-to-use-and-easy-to-maintain
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#apis #bestpractice #cleancode #abstractions",https://i.ytimg.com/vi/evugMUNAqlk/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=evugMUNAqlk,https://www.youtube.com/watch?v=evugMUNAqlk
+39,Data Warehouses Meet Data Lakes - Pelucchi Mauro,https://www.youtube.com/watch?v=gzvrdzEhzOE,gzvrdzEhzOE,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1837,215,1,,"bigdata,databases,datastructures,nosql",Entertainment,"Data Warehouses Meet Data Lakes - Pelucchi Mauro - PyCon Italia 2023
+
+Many organizations have migrated their data warehouses to datalake solutions in recent years. With the convergence of the data warehouse and the data lake, a new data management paradigm has emerged that combines the best of 2 approaches: the botton-up of big data and the top-down of a classic data
+
+Full Abstract: https://2023.pycon.it/event/data-warehouses-meet-data-lakes
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#bigdata #nosql #databases #datastructures",https://i.ytimg.com/vi/gzvrdzEhzOE/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=gzvrdzEhzOE,https://www.youtube.com/watch?v=gzvrdzEhzOE
+40,Write portable CI/CD pipelines using Python - Filippo Pinton,https://www.youtube.com/watch?v=idO5iVEKvpw,idO5iVEKvpw,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1631,371,6,,"deployment/continuousintegration,devops,docker",Entertainment,"Write portable CI/CD pipelines using Python - Filippo Pinton - PyCon Italia 2023
+
+In this talk, you will learn how to write a CI/CD pipeline with Python and how to run it locally as well as on any CI/CD platform.
+
+Full Abstract: https://2023.pycon.it/event/write-portable-cicd-pipelines-using-python
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#docker #devops #deployment/continuousintegration",https://i.ytimg.com/vi/idO5iVEKvpw/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=idO5iVEKvpw,https://www.youtube.com/watch?v=idO5iVEKvpw
+41,The hitchhiker's guide to asyncio - Fabbiani,https://www.youtube.com/watch?v=k0fzfhRJ2UM,k0fzfhRJ2UM,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1476,1159,30,3.0,"asyncio,bestpractice,cleancode,performance",Entertainment,"The hitchhiker's guide to asyncio - Fabbiani - PyCon Italia 2023
+
+Want to improve your understanding of asyncio? This talk is for you. We present the event loop, coroutines, tasks, async loops and context manager, describing their implementation in python and asyncio. Then, we provide practical tips about how to use async primitives in python applications.
+
+Full Abstract: https://2023.pycon.it/event/the-hitchhikers-guide-to-asyncio
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#asyncio #performance #bestpractice #cleancode",https://i.ytimg.com/vi/k0fzfhRJ2UM/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=k0fzfhRJ2UM,https://www.youtube.com/watch?v=k0fzfhRJ2UM
+42,"Learning the Other ""Full Stack"": An epistle from business to the technical people.",https://www.youtube.com/watch?v=lOa-tOeU5zY,lOa-tOeU5zY,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,3448,121,3,,,Entertainment,"Learning the Other ""Full Stack"": An epistle from business to the technical people. - Donatella Taurasi - PyCon Italia 2023
+
+Within a company, business and technical people tend to be almost two different species. They have different languages, different priorities, different skills, different cultures, and different educational backgrounds. They often live separately despite being on the same team. The dividing line between the two is shrinking as the business world has been feeling pressure to become more technical. But what should we ask of the technical world? Let's look together at how to meet closer to the middle.
+
+Full Abstract: https://2023.pycon.it/event/learning-the-other-full-stack-an-epistle-from-business-to-the-technical-people
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it",https://i.ytimg.com/vi/lOa-tOeU5zY/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=lOa-tOeU5zY,https://www.youtube.com/watch?v=lOa-tOeU5zY
+43,Scraping o UI-Automation? Da livello scimmia a pro! - Nicola Landro,https://www.youtube.com/watch?v=mSABlydK3ps,mSABlydK3ps,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1563,110,2,,testing,Entertainment,"Scraping o UI-Automation? Da livello scimmia a pro! - Nicola Landro - PyCon Italia 2023
+
+Come fare crawling/scraping o test/ui automation? 
+Per rispondere a queste domande si partirà da webscraper.io per poi andare verso Beautiful Soup/Scrapy, Selenium e Sikulix; per ognuno dei quali vedremo piccoli esempi di codice.
+
+Full Abstract: https://2023.pycon.it/event/scraping-o-ui-automation-da-livello-scimmia-a-pro
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#testing",https://i.ytimg.com/vi/mSABlydK3ps/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=mSABlydK3ps,https://www.youtube.com/watch?v=mSABlydK3ps
+44,Closing - PyCon Italia 2023,https://www.youtube.com/watch?v=of8sqkSaU8k,of8sqkSaU8k,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,537,57,1,,,Entertainment,"Closing -  - PyCon Italia 2023
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it",https://i.ytimg.com/vi/of8sqkSaU8k/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=of8sqkSaU8k,https://www.youtube.com/watch?v=of8sqkSaU8k
+45,Pandas on Steroids - Fabio Lipreri,https://www.youtube.com/watch?v=oliZqv9yo1g,oliZqv9yo1g,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1439,234,8,,"bestpractice,pandas",Entertainment,"Pandas on Steroids - Fabio Lipreri - PyCon Italia 2023
+
+Every data scientist knows and uses pandas, but many struggle with its limitations on a daily basis. Slow data loading, extensive memory usage, and verbose syntax are but a few. In this talk, we dive deep into the library and its ecosystem to provide tips and tricks to improve your pandas code.
+
+Full Abstract: https://2023.pycon.it/event/pandas-on-steroids
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#pandas #bestpractice",https://i.ytimg.com/vi/oliZqv9yo1g/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=oliZqv9yo1g,https://www.youtube.com/watch?v=oliZqv9yo1g
+46,5 Things about fastAPI I wish we had known beforehand - Alexander Hendorf,https://www.youtube.com/watch?v=owdY-P-yAvQ,owdY-P-yAvQ,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1737,707,26,2.0,"apis,architecture,bestpractice,fastapi",Entertainment,"5 Things about fastAPI I wish we had known beforehand - Alexander Hendorf - PyCon Italia 2023
+
+An opinionated talk on fastAPI in practice.
+
+FastAPI is great, it helps many developers create REST APIs based on the OpenAPI standard and run them asynchronously. 
+
+This talk will point out some obstacles and dark spots that I wish we had known about before and show solutions.
+
+Full Abstract: https://2023.pycon.it/event/5-things-about-fastapi-i-wish-we-had-known-beforehand
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#apis #bestpractice #architecture #fastapi",https://i.ytimg.com/vi/owdY-P-yAvQ/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=owdY-P-yAvQ,https://www.youtube.com/watch?v=owdY-P-yAvQ
+47,"My first 90 days, kick starting a new team for long term success - Anastasiia Tymoshchuk",https://www.youtube.com/watch?v=oyRrtTQEisk,oyRrtTQEisk,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1808,84,1,,"agile,bestpractice",Entertainment,"My first 90 days, kick starting a new team for long term success - Anastasiia Tymoshchuk - PyCon Italia 2023
+
+As a new team member, new tech lead or engineering manager, you might be wondering how to start (at) a new team and which strategy to choose.
+Anastasiia will show you how to create your engineering and product strategy with a predictable roadmap and a more harmonious team to make your users happy.
+
+Full Abstract: https://2023.pycon.it/event/my-first-90-days-kick-starting-a-new-team-for-long-term-success
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#agile #bestpractice",https://i.ytimg.com/vi_webp/oyRrtTQEisk/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=oyRrtTQEisk,https://www.youtube.com/watch?v=oyRrtTQEisk
+48,No Holds Barred Web Framework Battle - Daniel Roy Greenfeld,https://www.youtube.com/watch?v=uKI5cPdnSnU,uKI5cPdnSnU,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1959,105,5,,"django,flask,graphql,postgresql,rest",Entertainment,"No Holds Barred Web Framework Battle - Daniel Roy Greenfeld - PyCon Italia 2023
+
+Which framework is better: Django, FastAPI, or Flask? What about the host of less well known options? Also, does full stack matter or are micro frameworks the way to go? This talk is a frank discussion of which frameworks you should consider using in 2023, and which frameworks should be avoided.
+
+Full Abstract: https://2023.pycon.it/event/no-holds-barred-web-framework-battle
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#flask #django #postgresql #graphql #rest",https://i.ytimg.com/vi/uKI5cPdnSnU/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=uKI5cPdnSnU,https://www.youtube.com/watch?v=uKI5cPdnSnU
+49,Celery on AWS ECS - Jan Giacomelli,https://www.youtube.com/watch?v=uitfkCbyGkU,uitfkCbyGkU,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1661,1869,31,3.0,aws,Entertainment,"Celery on AWS ECS - Jan Giacomelli - PyCon Italia 2023
+
+Running async tasks is challenging by itself. Require continuous zero-downtime deployment and it gets even harder.
+This talk presents battle-tested techniques and approaches to run your Celery workers on top of AWS ECS with Fargate while being able to deploy tens of times per day with zero downtime.
+
+Full Abstract: https://2023.pycon.it/event/celery-on-aws-ecs
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#aws",https://i.ytimg.com/vi/uitfkCbyGkU/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=uitfkCbyGkU,https://www.youtube.com/watch?v=uitfkCbyGkU
+50,Speed up Python with hardware accelerators - Marco Rossi,https://www.youtube.com/watch?v=vK3_uVPWUJQ,vK3_uVPWUJQ,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1647,169,0,,"hardware,numpy,performance,scaling,science",Entertainment,"Speed up Python with hardware accelerators - Marco Rossi - PyCon Italia 2023
+
+We investigate several strategies to speed up Python software by leveraging hardware acceleration. Numba and Tensorflow libraries allow gaining performance improvements without any domain knowledge requirements. We assess the two methods by showing examples in real use-case scenarios.
+
+Full Abstract: https://2023.pycon.it/event/speed-up-python-with-hardware-accelerators
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#numpy #hardware #performance #science #scaling",https://i.ytimg.com/vi/vK3_uVPWUJQ/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=vK3_uVPWUJQ,https://www.youtube.com/watch?v=vK3_uVPWUJQ
+51,Let's talk about transpilers! - Lorenzo Addazi,https://www.youtube.com/watch?v=xIWxlt9hmys,xIWxlt9hmys,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1777,89,3,,"architecture,compilerandinterpreters,datastructures,opensource",Entertainment,"Let's talk about transpilers! - Lorenzo Addazi - PyCon Italia 2023
+
+Do you wish that old piece of legacy code was written in Python? Search no more, transpilers to the rescue!
+
+We will first see how legacy software can be automatically migrated using transpilers. Then,  as an example, we will transpile some RPG code into our beloved Python.
+
+Full Abstract: https://2023.pycon.it/event/lets-talk-about-transpilers
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#opensource #architecture #compilerandinterpreters #datastructures",https://i.ytimg.com/vi/xIWxlt9hmys/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=xIWxlt9hmys,https://www.youtube.com/watch?v=xIWxlt9hmys
+52,Domare il pony: configurare django è difficile? - Iacopo Spalletti,https://www.youtube.com/watch?v=-RLwxLkaL8M,-RLwxLkaL8M,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1615,47,0,,"bestpractice,django",Entertainment,"Domare il pony: configurare django è difficile? - Iacopo Spalletti - PyCon Italia 2023
+
+Hai un'idea da realizzare, hai capito che django è la scelta giusta per realizzarla, e vuoi sfruttare l'ecosistema di applicazioni django. Ma ecco che comincia il faticoso percorso di capire come installarle e configurarle. Come si può affrontare questo percorso?
+
+Full Abstract: https://2023.pycon.it/event/domare-il-pony-configurare-django-e-difficile
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#django #bestpractice",https://i.ytimg.com/vi/-RLwxLkaL8M/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=-RLwxLkaL8M,https://www.youtube.com/watch?v=-RLwxLkaL8M
+53,Rust is easy - Luca Baggi,https://www.youtube.com/watch?v=09drs_8PJJM,09drs_8PJJM,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1711,151,3,,rust,Entertainment,"Rust is easy - Luca Baggi - PyCon Italia 2023
+
+You don't need to read a manual to learn Rust. Just trust the compiler!
+
+Full Abstract: https://2023.pycon.it/event/rust-is-easy
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#rust",https://i.ytimg.com/vi/09drs_8PJJM/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=09drs_8PJJM,https://www.youtube.com/watch?v=09drs_8PJJM
+54,Beyond Pandas: lightning fast in-memory dataframes with Polars - Alberto Danese,https://www.youtube.com/watch?v=0rKV-aghHuc,0rKV-aghHuc,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1865,763,21,1.0,"analytics,bigdata,datastructures,pandas",Entertainment,"Beyond Pandas: lightning fast in-memory dataframes with Polars - Alberto Danese - PyCon Italia 2023
+
+When you talk dataframe in Python, you talk Pandas. Many alternative libraries in the last decade have tried to dethrone it, with little or no success.
+Polars has all it takes to be pose a serious challenge: amazing speed, an intuitive API, a growing community. Time to give it a try!
+
+Full Abstract: https://2023.pycon.it/event/beyond-pandas-lightning-fast-in-memory-dataframes-with-polars
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#analytics #bigdata #pandas #datastructures",https://i.ytimg.com/vi/0rKV-aghHuc/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=0rKV-aghHuc,https://www.youtube.com/watch?v=0rKV-aghHuc
+55,Managing the code quality of your project. Leave the past behind: Focus on new code.,https://www.youtube.com/watch?v=2oz2oZwvOyw,2oz2oZwvOyw,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1765,97,5,,"bestpractice,cleancode,codeanalysis,staticanalysis,tooling",Entertainment,"Managing the code quality of your project. Leave the past behind: Focus on new code. - Andrea Guarino - PyCon Italia 2023
+
+If you try to run Pylint or Flake8 on a legacy project, the results are usually truly overwhelming: thousands of warnings, hundreds of errors and maybe even no unit tests.
+The usual emotional response to this is distress, exasperation... even despair. And then the question comes: *Where do I start?*
+
+Full Abstract: https://2023.pycon.it/event/managing-the-code-quality-of-your-project-leave-the-past-behind-focus-on-new-code
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#tooling #bestpractice #cleancode #staticanalysis #codeanalysis",https://i.ytimg.com/vi/2oz2oZwvOyw/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=2oz2oZwvOyw,https://www.youtube.com/watch?v=2oz2oZwvOyw
+56,Code Debugging and Refactoring with OpenBugger: a Python Library for Self-Supervised AI Debuggers,https://www.youtube.com/watch?v=3A0s0b_FAsY,3A0s0b_FAsY,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1818,104,3,,"abstractions,codeanalysis,debugging,deeplearning,machinelearning",Entertainment,"Code Debugging and Refactoring with OpenBugger: a Python Library for Self-Supervised AI Debuggers - Tommaso Furlanello - PyCon Italia 2023
+
+OpenBugger is an open-source library that uses the power of LibCST to automatically bug the syntax tree of Python code. We provide  a valuable tool for training AI models for code debugging and refactoring without direct human supervision.
+
+Full Abstract: https://2023.pycon.it/event/code-debugging-and-refactoring-with-openbugger-a-python-library-for-self-supervised-ai-debuggers
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#machinelearning #deeplearning #debugging #abstractions #codeanalysis",https://i.ytimg.com/vi/3A0s0b_FAsY/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=3A0s0b_FAsY,https://www.youtube.com/watch?v=3A0s0b_FAsY
+57,"Let’s exploit pickle, and `skops` to the rescue! - Adrin Jalali",https://www.youtube.com/watch?v=4WMnMGduG_E,4WMnMGduG_E,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1909,81,3,,"infrastructure,machinelearning,security",Entertainment,"Let’s exploit pickle, and `skops` to the rescue! - Adrin Jalali - PyCon Italia 2023
+
+Loading pickle files can run arbitrary code on your system. This talk presents how this can be exploited, and how `skops` is tackling the issue for scikit-learn/statistical ML models.
+
+Full Abstract: https://2023.pycon.it/event/lets-exploit-pickle-and-skops-to-the-rescue
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#security #machinelearning #infrastructure",https://i.ytimg.com/vi/4WMnMGduG_E/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=4WMnMGduG_E,https://www.youtube.com/watch?v=4WMnMGduG_E
+58,La community Django Girls in Italia e Fuzzy Brains: un connubio vitale! - Ambra Tonon,https://www.youtube.com/watch?v=5nCfqiBbeKA,5nCfqiBbeKA,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1113,28,2,,"community,djangogirls",Entertainment,"La community Django Girls in Italia e Fuzzy Brains: un connubio vitale! - Ambra Tonon - PyCon Italia 2023
+
+Qual è la storia di Django Girls in Italia?
+La community è cresciuta nel tempo andando di pari passo con l’associazione che la supporta: Fuzzy Brains.
+Porteremo obiettivi, esperienze e risultati degli ultimi anni, a testimonianza del progresso di queste due realtà legate tra loro.
+
+Full Abstract: https://2023.pycon.it/event/la-community-django-girls-in-italia-e-fuzzy-brains-un-connubio-vitale
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#djangogirls #community",https://i.ytimg.com/vi/5nCfqiBbeKA/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=5nCfqiBbeKA,https://www.youtube.com/watch?v=5nCfqiBbeKA
+59,From WSGI to ASGI - Django 3.0 - Hemangi Subodh Karchalkar,https://www.youtube.com/watch?v=5oWV6uHRtP8,5oWV6uHRtP8,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1095,478,10,1.0,"abstractions,asyncio,django,multiprocessing,multithreading",Entertainment,"From WSGI to ASGI - Django 3.0 - Hemangi Subodh Karchalkar - PyCon Italia 2023
+
+Earlier because of single threaded nature of Python, we used as Gunicorn or uWSGI to share a socket through multiple processes.  Andrew Godwin through Django Channels paved the way for a better way of creating web services with Python. This work landed in Django 3.0. Let's explore how it works!
+
+Full Abstract: https://2023.pycon.it/event/from-wsgi-to-asgi-django-30
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#asyncio #django #multiprocessing #multithreading #abstractions",https://i.ytimg.com/vi/5oWV6uHRtP8/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=5oWV6uHRtP8,https://www.youtube.com/watch?v=5oWV6uHRtP8
+60,HoloViz: Visualization and Interactive Dashboards in Python - Jean-Luc Stevens,https://www.youtube.com/watch?v=61uHwBlxRug,61uHwBlxRug,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1733,1024,24,1.0,visualization,Entertainment,"HoloViz: Visualization and Interactive Dashboards in Python - Jean-Luc Stevens - PyCon Italia 2023
+
+Do you use data visualization to understand data and tell stories? Do you need to visualize big data? Are you interested in leveling up your visualization skills and creating dashboards with HoloViz? This talk is for you!
+
+Full Abstract: https://2023.pycon.it/event/holoviz-visualization-and-interactive-dashboards-in-python
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#visualization",https://i.ytimg.com/vi/61uHwBlxRug/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=61uHwBlxRug,https://www.youtube.com/watch?v=61uHwBlxRug
+61,How to Build an Open-Source Machine Learning Platform in Biology? - Furkan M. Torun,https://www.youtube.com/watch?v=6RrxWH9qskY,6RrxWH9qskY,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1777,224,8,2.0,"community,machinelearning,opensource,science",Entertainment,"How to Build an Open-Source Machine Learning Platform in Biology? - Furkan M. Torun - PyCon Italia 2023
+
+Are you interested in building an open-source, web-based machine learning platform in biology to foster new discoveries? Or do you want to try ML algorithms on your omics data and share them in a reproducible and standard way without the need for code? You are more than welcome to OmicLearn talk!
+
+Full Abstract: https://2023.pycon.it/event/how-to-build-an-open-source-machine-learning-platform-in-biology
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#machinelearning #community #opensource #science",https://i.ytimg.com/vi/6RrxWH9qskY/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=6RrxWH9qskY,https://www.youtube.com/watch?v=6RrxWH9qskY
+62,What are you yield from? - Maxim Danilov,https://www.youtube.com/watch?v=7Q8WdGzcb-s,7Q8WdGzcb-s,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1822,151,3,,"abstractions,architecture,bestpractice,casestudy",Entertainment,"What are you yield from? - Maxim Danilov - PyCon Italia 2023
+
+Many developers avoid using generators in regular python code. For example, many well-known python libraries use lists instead of generators. The generators themselves are slower than normal list loops, but their use in code greatly increases the speed of the application. Let's discover why.
+
+Full Abstract: https://2023.pycon.it/event/what-are-you-yield-from
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#bestpractice #casestudy #architecture #abstractions",https://i.ytimg.com/vi/7Q8WdGzcb-s/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=7Q8WdGzcb-s,https://www.youtube.com/watch?v=7Q8WdGzcb-s
+63,Robyn: A fast async Python web framework with a Rust runtime - Sanskar Jethi,https://www.youtube.com/watch?v=8QSeo_q_hP4,8QSeo_q_hP4,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1315,561,15,1.0,"community,microservices,multithreading,rest",Entertainment,"Robyn: A fast async Python web framework with a Rust runtime - Sanskar Jethi - PyCon Italia 2023
+
+Robyn is a fast Python web framework with Rust runtime, growing quickly in popularity with over 500k installs and nearing 2k stars on GitHub. It showcases an architecture of Rust and Python confluence in production to achieve near-native speed, making it an exciting topic for developers.
+
+Full Abstract: https://2023.pycon.it/event/robyn-a-fast-async-python-web-framework-with-a-rust-runtime
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#community #rest #multithreading #microservices",https://i.ytimg.com/vi/8QSeo_q_hP4/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=8QSeo_q_hP4,https://www.youtube.com/watch?v=8QSeo_q_hP4
+64,Polyglot Library Development - Neel Shah,https://www.youtube.com/watch?v=AM3O6P5wV14,AM3O6P5wV14,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1520,64,2,,opensource,Entertainment,"Polyglot Library Development - Neel Shah - PyCon Italia 2023
+
+or How I Learned to Stop Worrying and Build Things in All The Languages
+
+Full Abstract: https://2023.pycon.it/event/polyglot-library-development
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#opensource",https://i.ytimg.com/vi/AM3O6P5wV14/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=AM3O6P5wV14,https://www.youtube.com/watch?v=AM3O6P5wV14
+65,GPT or how I learned to stop worrying and love the generative AI - Tommaso Radicioni,https://www.youtube.com/watch?v=ByborJli0bY,ByborJli0bY,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1661,99,3,,"deeplearning,naturallanguageprocessing",Entertainment,"GPT or how I learned to stop worrying and love the generative AI - Tommaso Radicioni - PyCon Italia 2023
+
+If the conversational skills of ChatGPT have left you speechless, it is time to dig deeper into how GPT models work. Through the use of the library transformers, we will discover how to use an open-source generative model to create original text starting from any prompt!
+
+Full Abstract: https://2023.pycon.it/event/gpt-or-how-i-learned-to-stop-worrying-and-love-the-generative-ai
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#deeplearning #naturallanguageprocessing",https://i.ytimg.com/vi/ByborJli0bY/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=ByborJli0bY,https://www.youtube.com/watch?v=ByborJli0bY
+66,Practical Pipelines: A Houseplant Alerting System with ksqlDB - Danica Fine,https://www.youtube.com/watch?v=BydtFmQJ098,BydtFmQJ098,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,2074,18,0,,"distributedsystems,internetofthings(iot),raspberrypi",Entertainment,"Practical Pipelines: A Houseplant Alerting System with ksqlDB - Danica Fine - PyCon Italia 2023
+
+Be a better plant parent and build a practical, event-driven pipeline with Raspberry Pi and Apache Kafka! Soil moisture readings are streamed into Kafka and transformed, driving real-time alerts. Learn how ksqlDB and Kafka Connect made this pipeline possible as we dive in and get our hands dirty!
+
+Full Abstract: https://2023.pycon.it/event/practical-pipelines-a-houseplant-alerting-system-with-ksqldb
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#internetofthings(iot) #distributedsystems #raspberrypi",https://i.ytimg.com/vi/BydtFmQJ098/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=BydtFmQJ098,https://www.youtube.com/watch?v=BydtFmQJ098
+67,Beyond Grid Search:  XGBoost and Optuna as the ultimate ML Optimization Combo - William Arias,https://www.youtube.com/watch?v=DYq6sCNttYE,DYq6sCNttYE,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1801,2290,48,2.0,"bigdata,machinelearning,predictions",Entertainment,"Beyond Grid Search:  XGBoost and Optuna as the ultimate ML Optimization Combo - William Arias - PyCon Italia 2023
+
+Tired of spending long hours and resources trying to find the best hyper-parameters? In this talk you will learn how to take your optimization to the next level with XGBoost and Optuna using a case study with a very imbalanced dataset.
+
+Full Abstract: https://2023.pycon.it/event/beyond-grid-search-xgboost-and-optuna-as-the-ultimate-ml-optimization-combo
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#bigdata #predictions #machinelearning",https://i.ytimg.com/vi/DYq6sCNttYE/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=DYq6sCNttYE,https://www.youtube.com/watch?v=DYq6sCNttYE
+68,"Do the magic with DevOps, Open Source and All-remote teams (with Python, of course)",https://www.youtube.com/watch?v=E0BvmnUDIVM,E0BvmnUDIVM,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1648,86,1,,"bigdata,databases,devops,googlecloud,opensource",Entertainment,"Do the magic with DevOps, Open Source and All-remote teams (with Python, of course) - Radovan Bacovic - PyCon Italia 2023
+
+From the GitLab Data Team member, a first-face story about how to do the magic with data in the biggest all-remote company in the world.
+
+This is a great chance to get the experience of DevOps and Data stories directly from producers of well know and trusted DevOps tools with more than 30m users.
+
+Full Abstract: https://2023.pycon.it/event/do-the-magic-with-devops-open-source-and-all-remote-teams-with-python-of-course
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#bigdata #opensource #googlecloud #databases #devops",https://i.ytimg.com/vi/E0BvmnUDIVM/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=E0BvmnUDIVM,https://www.youtube.com/watch?v=E0BvmnUDIVM
+69,Real-time Event Streaming with Python - Dave Klein,https://www.youtube.com/watch?v=ELRBaK40MLc,ELRBaK40MLc,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1592,534,8,,"analytics,bigdata,microservices",Entertainment,"Real-time Event Streaming with Python - Dave Klein - PyCon Italia 2023
+
+As real-time event streaming has become a necessity in many organizations, a plethora of libraries, frameworks, and applications have arisen to help meet that need. These different tools each have their own ways of making our jobs easier, but when starting out, it’s often best to start simple.
+
+Full Abstract: https://2023.pycon.it/event/real-time-event-streaming-with-python
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#analytics #bigdata #microservices",https://i.ytimg.com/vi/ELRBaK40MLc/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=ELRBaK40MLc,https://www.youtube.com/watch?v=ELRBaK40MLc
+70,Diving into Event-Driven Architectures (EDA) with Python - Solving complexity at scale,https://www.youtube.com/watch?v=ExzzUCyXwcU,ExzzUCyXwcU,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1813,435,6,,"architecture,asyncio,bestpractice,distributedsystems,infrastructure",Entertainment,"Diving into Event-Driven Architectures (EDA) with Python - Solving complexity at scale - Marc-André Lemburg - PyCon Italia 2023
+
+EDAs target a real need in today's application landscape, as systems grow more complex or need to scale organically.
+
+The talk will introduce the architecture and provide insights into different components which can be managed, connected and implemented with Python.
+
+Full Abstract: https://2023.pycon.it/event/diving-into-event-driven-architectures-eda-with-python-solving-complexity-at-scale
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#asyncio #bestpractice #distributedsystems #architecture #infrastructure",https://i.ytimg.com/vi/ExzzUCyXwcU/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=ExzzUCyXwcU,https://www.youtube.com/watch?v=ExzzUCyXwcU
+71,The `__magic__` of the Python Model for Magic™ data - Valerio Maggio,https://www.youtube.com/watch?v=EyFDGQ5UA8c,EyFDGQ5UA8c,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1761,64,0,,"abstractions,bestpractice,datastructures",Entertainment,"The `__magic__` of the Python Model for Magic™ data - Valerio Maggio - PyCon Italia 2023
+
+The Python Data Model is `__magic__` (like, literally!), and what a better use case than processing [Magic: The Gathering™](https://magic.wizards.com/en)   cards dataset to deep dive into the the power of the `__dunders__`  to create flexible data representations for complex pipelines ?
+
+Full Abstract: https://2023.pycon.it/event/the-__magic__-of-the-python-model-for-magictm-data
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#bestpractice #abstractions #datastructures",https://i.ytimg.com/vi/EyFDGQ5UA8c/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=EyFDGQ5UA8c,https://www.youtube.com/watch?v=EyFDGQ5UA8c
+72,Debugging that bugger : Cleanly handling the errors - Priyanshi Goel,https://www.youtube.com/watch?v=HKhX8-6vDkM,HKhX8-6vDkM,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1358,62,3,,"bestpractice,codeanalysis,debugging,education,performance",Entertainment,"Debugging that bugger : Cleanly handling the errors - Priyanshi Goel - PyCon Italia 2023
+
+As a newbie developer, what can be more annoying than staring at the screen for hours trying to figure out “what is going wrong ?” Yes, I am talking about errors and I have just the solution for budding developers to deal with this, helping them make their code more efficient, neat and readable.
+
+Full Abstract: https://2023.pycon.it/event/debugging-that-bugger-cleanly-handling-the-errors
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#performance #education #bestpractice #debugging #codeanalysis",https://i.ytimg.com/vi/HKhX8-6vDkM/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=HKhX8-6vDkM,https://www.youtube.com/watch?v=HKhX8-6vDkM
+73,Let's save the penguins with green computing - Elena Guidi,https://www.youtube.com/watch?v=JquPuvi-_IA,JquPuvi-_IA,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1837,38,1,,"computing,education,teaching",Entertainment,"Let's save the penguins with green computing - Elena Guidi - PyCon Italia 2023
+
+What can we do in our day to day to save the planet?
+
+We are going to see an introduction to Green Computing, and what we can do on a daily basis to contribute our bit to the environment.
+
+Full Abstract: https://2023.pycon.it/event/lets-save-the-penguins-with-green-computing
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#education #teaching #computing",https://i.ytimg.com/vi/JquPuvi-_IA/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=JquPuvi-_IA,https://www.youtube.com/watch?v=JquPuvi-_IA
+74,Serverless from scratch with CI/CD on AWS: it’s a lot easier than you think (and mostly free).,https://www.youtube.com/watch?v=KdwBwsZOdGc,KdwBwsZOdGc,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1741,55,0,,"apis,aws,microservices",Entertainment,"Serverless from scratch with CI/CD on AWS: it’s a lot easier than you think (and mostly free). - Dom Weldon - PyCon Italia 2023
+
+We'll cover the fundamentals of the Serverless approach to running code in AWS, deploying a FastAPI web application, with CI/CD, quickly, using the Infrastructure as Code tool Terraform. Crucially, we'll cover the fundamentals of Serverless AWS, and make comparisons to server-based approaches.
+
+Full Abstract: https://2023.pycon.it/event/serverless-from-scratch-with-cicd-on-aws-its-a-lot-easier-than-you-think-and-mostly-free
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#apis #aws #microservices",https://i.ytimg.com/vi/KdwBwsZOdGc/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=KdwBwsZOdGc,https://www.youtube.com/watch?v=KdwBwsZOdGc
+75,Remote teams are autistic - Miriam Perrone,https://www.youtube.com/watch?v=KyHZ5JjBO5Q,KyHZ5JjBO5Q,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1675,88,4,,"bestpractice,communication,diversity",Entertainment,"Remote teams are autistic - Miriam Perrone - PyCon Italia 2023
+
+Besides the benefits there are also some challenges that come with working together remotely. Miriam uses her expertise as an autism consultant to guide companies to obtain more efficient and productive collaboration! Come pick up some valuable insights you will want to bring to your (home)office.
+
+Full Abstract: https://2023.pycon.it/event/remote-teams-are-autistic
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#communication #bestpractice #diversity",https://i.ytimg.com/vi/KyHZ5JjBO5Q/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=KyHZ5JjBO5Q,https://www.youtube.com/watch?v=KyHZ5JjBO5Q
+76,"Kivy: Pythonistas can develop cross-platform (yes, even mobile) GUI Apps - Mirko Galimberti",https://www.youtube.com/watch?v=L5Zy3lX628A,L5Zy3lX628A,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1764,130,2,,opensource,Entertainment,"Kivy: Pythonistas can develop cross-platform (yes, even mobile) GUI Apps - Mirko Galimberti - PyCon Italia 2023
+
+Kivy makes Pythonistas happier. Why? Cause you'll drop any non-pythonic way to develop mobile and desktop apps, or it'll help you to start a new career in app development, with Python.
+Writing once and then deploying to Android, iOS, Linux, macOS, and Windows? Yes, thank you!
+
+Full Abstract: https://2023.pycon.it/event/kivy-pythonistas-can-develop-cross-platform-yes-even-mobile-gui-apps
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#opensource",https://i.ytimg.com/vi/L5Zy3lX628A/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=L5Zy3lX628A,https://www.youtube.com/watch?v=L5Zy3lX628A
+77,"You've got trust issues, we've got solutions: Differential Privacy",https://www.youtube.com/watch?v=OefuzbVmnkY,OefuzbVmnkY,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1618,50,1,,"predictions,privacy,databases,science",Entertainment,"You've got trust issues, we've got solutions: Differential Privacy - Vikram Waradpande, Sarthika Dhawan - PyCon Italia 2023
+
+What if I tell you I could answer everything about you without knowing you using Differential Privacy? How can we do so and at the same time make sure that your data is protected? Stay tuned to see it in action and get your questions answered!
+
+Full Abstract: https://2023.pycon.it/event/youve-got-trust-issues-weve-got-solutions-differential-privacy
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#predictions #privacy #databases #science",https://i.ytimg.com/vi/OefuzbVmnkY/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=OefuzbVmnkY,https://www.youtube.com/watch?v=OefuzbVmnkY
+78,Tests are docs and docs are tests: an introduction to great_expectations and data profiling,https://www.youtube.com/watch?v=PmJa92sfWVM,PmJa92sfWVM,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1365,63,2,,"bigdata,datastructures,documentation,pandas,testing",Entertainment,"Tests are docs and docs are tests: an introduction to great_expectations and data profiling - Luca Gilli - PyCon Italia 2023
+
+During this talk, we will introduce and showcase great_expectations, a Python library to write unit tests for data pipelines. We will also discuss what it means to make the creation of data tests more efficient through data profiling.
+
+Full Abstract: https://2023.pycon.it/event/tests-are-docs-and-docs-are-tests-an-introduction-to-great_expectations-and-data-profiling
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#bigdata #pandas #documentation #datastructures #testing",https://i.ytimg.com/vi/PmJa92sfWVM/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=PmJa92sfWVM,https://www.youtube.com/watch?v=PmJa92sfWVM
+79,Map transit systems on transportation networks using GTFS Data and Infomap - Fabio Lamanna,https://www.youtube.com/watch?v=QsocIwWFwX4,QsocIwWFwX4,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1492,578,15,,"casestudy,datastructures,pandas,visualization",Entertainment,"Map transit systems on transportation networks using GTFS Data and Infomap - Fabio Lamanna - PyCon Italia 2023
+
+In 2008 Martin Rosvall and Carl T. Bergstrom released Infomap, probably the most fascinating network community detection algorithm developed so far; in this talk we explore it and discover its power in finding patterns of services in transportation networks, using GTFS data and Python.
+
+Full Abstract: https://2023.pycon.it/event/map-transit-systems-on-transportation-networks-using-gtfs-data-and-infomap
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#visualization #pandas #casestudy #datastructures",https://i.ytimg.com/vi/QsocIwWFwX4/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=QsocIwWFwX4,https://www.youtube.com/watch?v=QsocIwWFwX4
+80,On scaling Machine Learning microservices - Duarte Carmo,https://www.youtube.com/watch?v=T1Je3UHkxVk,T1Je3UHkxVk,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1800,175,3,,"apis,machinelearning,performance",Entertainment,"On scaling Machine Learning microservices - Duarte Carmo - PyCon Italia 2023
+
+Machine learning is everywhere. The state-of-the art of the is advancing at an astronomical pace. But the industry is struggling to keep up.
+
+Often, we serve our ML models using micro services. 
+
+But when things get popular and start breaking, it's time to scale your API. How to go about it?
+
+Full Abstract: https://2023.pycon.it/event/on-scaling-machine-learning-microservices
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#machinelearning #apis #performance",https://i.ytimg.com/vi/T1Je3UHkxVk/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=T1Je3UHkxVk,https://www.youtube.com/watch?v=T1Je3UHkxVk
+81,Granian: a Rust HTTP server for Python applications - Giovanni Barillari,https://www.youtube.com/watch?v=VshGh5KLuOk,VshGh5KLuOk,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1632,1605,52,2.0,"asyncio,opensource,performance",Entertainment,"Granian: a Rust HTTP server for Python applications - Giovanni Barillari - PyCon Italia 2023
+
+You still use Gunicorn to serve your WSGI application? Still on Uvicorn for ASGI? There's a faster, modern alternative for you: Granian. Powered by Rust, it serves WSGI, ASGI and RSGI applications providing you SSL termination, HTTP/2 and websockets.
+
+Full Abstract: https://2023.pycon.it/event/granian-a-rust-http-server-for-python-applications
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#asyncio #opensource #performance",https://i.ytimg.com/vi/VshGh5KLuOk/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=VshGh5KLuOk,https://www.youtube.com/watch?v=VshGh5KLuOk
+82,restest - Il coltellino svizzero per i test di endpoint REST in Python - Fabio Rotondo,https://www.youtube.com/watch?v=W2xV3mGT2RA,W2xV3mGT2RA,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1793,183,6,,"apis,debugging,devops,rest",Entertainment,"restest - Il coltellino svizzero per i test di endpoint REST in Python - Fabio Rotondo - PyCon Italia 2023
+
+Ti piacerebbe avere un tool con la potenza di Postman per testare i tuoi endpoint REST, che puoi usare da linea di comando, inserire nei tuoi script e utilizzare nel tuo ambiente CI/CD?
+Vieni a conoscere `restest`, il tool sviluppato in Python che fa questo e molto di più.
+
+Full Abstract: https://2023.pycon.it/event/restest-il-coltellino-svizzero-per-i-test-di-endpoint-rest-in-python
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#apis #rest #debugging #devops",https://i.ytimg.com/vi/W2xV3mGT2RA/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=W2xV3mGT2RA,https://www.youtube.com/watch?v=W2xV3mGT2RA
+83,Is the great dataframe showdown finally over? Enter: polars - Luca Baggi,https://www.youtube.com/watch?v=XsxrhGlkyk0,XsxrhGlkyk0,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1772,362,10,,"bigdata,multithreading,pandas,performance",Entertainment,"Is the great dataframe showdown finally over? Enter: polars - Luca Baggi - PyCon Italia 2023
+
+Every dataframe library that came after `pandas` promised an expressive API _and_ better performance, yet none replaced the fluffy bamboo-eater 🐼 Or has it? Enter `polars`: will its multi-threaded, in-memory query engine be enough to dethrone the king? Come and learn to tame this new artic beast!
+
+Full Abstract: https://2023.pycon.it/event/is-the-great-dataframe-showdown-finally-over-enter-polars
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#bigdata #pandas #performance #multithreading",https://i.ytimg.com/vi/XsxrhGlkyk0/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=XsxrhGlkyk0,https://www.youtube.com/watch?v=XsxrhGlkyk0
+84,Dyndesign: Merging Classes Dynamically - Patrizio Gelosi,https://www.youtube.com/watch?v=at5cPkGeFoY,at5cPkGeFoY,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1754,55,3,,"abstractions,cleancode,opensource,tooling",Entertainment,"Dyndesign: Merging Classes Dynamically - Patrizio Gelosi - PyCon Italia 2023
+
+Frequent development scenarios involve working on scripts/applications with variety of options for customizing behavior. Dyndesign organizes & structures code for each option in specific classes, then dynamically merges with main class based on selected options for a clear and maintainable codebase.
+
+Full Abstract: https://2023.pycon.it/event/dyndesign-merging-classes-dynamically
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#opensource #tooling #cleancode #abstractions",https://i.ytimg.com/vi/at5cPkGeFoY/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=at5cPkGeFoY,https://www.youtube.com/watch?v=at5cPkGeFoY
+85,Tech and the Italy: spunti di management IT per il Belpaese - Alan Franzoni,https://www.youtube.com/watch?v=b9vW-Dcocg8,b9vW-Dcocg8,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1891,35,1,,"agile,communication",Entertainment,"Tech and the Italy: spunti di management IT per il Belpaese - Alan Franzoni - PyCon Italia 2023
+
+L'Italia rimane in coda nel panorama IT europeo.
+
+Perché?
+
+Il problema è accidentale e gestionale. Molti manager e imprenditori italiani non sanno come costruire e tenersi un team di esperti IT.
+
+Una guida ragionata (e non un'invettiva!) per migliorare il management italiano nel campo.
+
+Full Abstract: https://2023.pycon.it/event/tech-and-the-italy-spunti-di-management-it-per-il-belpaese
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#agile #communication",https://i.ytimg.com/vi/b9vW-Dcocg8/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=b9vW-Dcocg8,https://www.youtube.com/watch?v=b9vW-Dcocg8
+86,Workplace culture is not just a fashion trend! - Ester Beltrami,https://www.youtube.com/watch?v=dLq3U1OPvVg,dLq3U1OPvVg,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1603,42,1,,"bestpractice,community,education,teaching",Entertainment,"Workplace culture is not just a fashion trend! - Ester Beltrami - PyCon Italia 2023
+
+What is workplace culture? What it looks like? Why is important to have a positive one? Have you ever thought about why employees are leaving their workplace?
+
+Full Abstract: https://2023.pycon.it/event/workplace-culture-is-not-just-a-fashion-trend
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#community #education #bestpractice #teaching",https://i.ytimg.com/vi/dLq3U1OPvVg/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=dLq3U1OPvVg,https://www.youtube.com/watch?v=dLq3U1OPvVg
+87,Build a Frontend for Your Web App: From Basic HTML to JS Frameworks - Anastasia Samokhina,https://www.youtube.com/watch?v=fI6Xmbdu3dk,fI6Xmbdu3dk,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1164,53,2,,"apis,javascript",Entertainment,"Build a Frontend for Your Web App: From Basic HTML to JS Frameworks - Anastasia Samokhina - PyCon Italia 2023
+
+Learn how to create visually appealing frontends for your webapp using popular JS frameworks & integrate them with a Python webapp. Explore options from basic HTML to Svelte, and choose one that fits your project.
+
+Full Abstract: https://2023.pycon.it/event/build-a-frontend-for-your-web-app-from-basic-html-to-js-frameworks
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#apis #javascript",https://i.ytimg.com/vi/fI6Xmbdu3dk/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=fI6Xmbdu3dk,https://www.youtube.com/watch?v=fI6Xmbdu3dk
+88,Optimizing Your CI Pipelines - Sebastian Witowski,https://www.youtube.com/watch?v=fXJxucfuxaY,fXJxucfuxaY,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1546,43,0,,"deployment/continuousintegration,devops,performance,scaling,tooling",Entertainment,"Optimizing Your CI Pipelines - Sebastian Witowski - PyCon Italia 2023
+
+Take your CI to the next level! Learn how to optimize your pipelines for faster and more efficient builds through parallelization, caching, failing early, conditional runs, and more.
+
+Full Abstract: https://2023.pycon.it/event/optimizing-your-ci-pipelines
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#tooling #performance #scaling #devops #deployment/continuousintegration",https://i.ytimg.com/vi/fXJxucfuxaY/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=fXJxucfuxaY,https://www.youtube.com/watch?v=fXJxucfuxaY
+89,Costruire torri ed attraversare fiumi: una prospettiva diversa sui puzzle con Python - Juna Salviati,https://www.youtube.com/watch?v=gyNrHplrS80,gyNrHplrS80,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1544,69,1,,"machinelearning,science",Entertainment,"Costruire torri ed attraversare fiumi: una prospettiva diversa sui puzzle con Python - Juna Salviati - PyCon Italia 2023
+
+Puzzle e rompicapo sono un modo divertente di risolvere problemi mentre ci si esercita con il codice.
+La torre di Hanoi ed i problemi di attraversamento del fiume possono essere risolti con la ricorsione o con una semplice ricerca ma perchè non usare invece la matematica o il machine learning?
+
+Full Abstract: https://2023.pycon.it/event/costruire-torri-ed-attraversare-fiumi-una-prospettiva-diversa-sui-puzzle-con-python
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#machinelearning #science",https://i.ytimg.com/vi/gyNrHplrS80/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=gyNrHplrS80,https://www.youtube.com/watch?v=gyNrHplrS80
+90,Intelligent Documents Management System - Nicola Donelli,https://www.youtube.com/watch?v=hLtcaNT-2EU,hLtcaNT-2EU,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1834,77,0,,"casestudy,deeplearning,googlecloud,naturallanguageprocessing",Entertainment,"Intelligent Documents Management System - Nicola Donelli - PyCon Italia 2023
+
+We propose an innovative AI solution able to process, organize documents and extract relevant information in a structured way. This leads to a system that is accessible, efficient, quicker, and less error-prone, thus allowing businesses to focus their resources on core activities.
+
+Full Abstract: https://2023.pycon.it/event/intelligent-documents-management-system
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#deeplearning #casestudy #googlecloud #naturallanguageprocessing",https://i.ytimg.com/vi/hLtcaNT-2EU/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=hLtcaNT-2EU,https://www.youtube.com/watch?v=hLtcaNT-2EU
+91,Exploiting Leaked Credentials - How python code is leaking millions of secrets - Mackenzie Jackson,https://www.youtube.com/watch?v=jsjpsetphJo,jsjpsetphJo,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1838,81,1,,security,Entertainment,"Exploiting Leaked Credentials - How python code is leaking millions of secrets - Mackenzie Jackson - PyCon Italia 2023
+
+Secrets like API keys are constantly leaking through source code. The 2021 State of Secret Sprawl report found over 6 million secrets in public git repos. This presentation reviews the new, unreleased, 2022 State of Secrets Sprawl report focusing on how python apps specifically leak secrets.
+
+Full Abstract: https://2023.pycon.it/event/exploiting-leaked-credentials-how-python-code-is-leaking-millions-of-secrets
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#security",https://i.ytimg.com/vi/jsjpsetphJo/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=jsjpsetphJo,https://www.youtube.com/watch?v=jsjpsetphJo
+92,Location Intelligence and Spatial Data Science: from geographic coordinates to business insights,https://www.youtube.com/watch?v=nTHB1t6-eQY,nTHB1t6-eQY,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1792,344,18,,"analytics,geoandgis,machinelearning",Entertainment,"Location Intelligence and Spatial Data Science: from geographic coordinates to business insights - Piergiacomo Fonseca - PyCon Italia 2023
+
+Imagine you want to open a new store, and need to pick the right location for it. In order to minimize risk, you can select the right conditions analyzing multivariate geolocated data. Once there, you can train ML models to suggest to you the perfect spots. Let's check how to do all that in Python!
+
+Full Abstract: https://2023.pycon.it/event/location-intelligence-and-spatial-data-science-from-geographic-coordinates-to-business-insights
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#analytics #machinelearning #geoandgis",https://i.ytimg.com/vi/nTHB1t6-eQY/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=nTHB1t6-eQY,https://www.youtube.com/watch?v=nTHB1t6-eQY
+93,Data Discrimination - Fiorella De Luca,https://www.youtube.com/watch?v=ol3C7AZ_lLQ,ol3C7AZ_lLQ,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1846,55,1,,"bestpractice,datastructures,diversity",Entertainment,"Data Discrimination - Fiorella De Luca - PyCon Italia 2023
+
+Spesso si pensa che i modelli di AI siano più neutrali nel prendere determinate decisioni rispetto alle persone. Hai mai pensato che tutti i nostri pregiudizi e bias si riflettono nei dati? Hai mai sentito parlare dei casi Compas e PredPol? In questo talk, scoprirai quanto sono importanti i dati!
+
+Full Abstract: https://2023.pycon.it/event/data-discrimination
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#bestpractice #diversity #datastructures",https://i.ytimg.com/vi/ol3C7AZ_lLQ/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=ol3C7AZ_lLQ,https://www.youtube.com/watch?v=ol3C7AZ_lLQ
+94,"Una libreria al giorno, toglie il medico di torno - Serena Sensini",https://www.youtube.com/watch?v=ouwVNg8LIQU,ouwVNg8LIQU,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1809,83,4,,"deeplearning,machinelearning,naturallanguageprocessing",Entertainment,"Una libreria al giorno, toglie il medico di torno - Serena Sensini - PyCon Italia 2023
+
+NLP e healthcare: un settore estremamente interessante, quanto innovativo. Con un po’ di analisi del testo e di NLP, le possibilità per sfruttare al meglio i dati a disposizione sono infinite! Vediamo un’alternativa open source nel campo del NLP per il dominio clinico e come sfruttarla al meglio.
+
+Full Abstract: https://2023.pycon.it/event/one-library-a-day-keeps-the-doctor-away
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#machinelearning #deeplearning #naturallanguageprocessing",https://i.ytimg.com/vi/ouwVNg8LIQU/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=ouwVNg8LIQU,https://www.youtube.com/watch?v=ouwVNg8LIQU
+95,"Saving time, money and sanity by Pythonizing Google Slides - Giulio Piccolo",https://www.youtube.com/watch?v=uCkyusWpMbs,uCkyusWpMbs,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1390,107,2,,"casestudy,jupyter/ipythonnotebook,opensource,pypi,tooling",Entertainment,"Saving time, money and sanity by Pythonizing Google Slides - Giulio Piccolo - PyCon Italia 2023
+
+Unfortunately, there are people whose day-to-day job it is to create Slides from templates. Some of them are my friends and I could not stand them wasting so much time doing something that could be nicely automated. This talk will reveal the story of building a tool that can do just that!
+
+Full Abstract: https://2023.pycon.it/event/saving-time-money-and-sanity-by-pythonizing-google-slides
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#opensource #tooling #casestudy #jupyter/ipythonnotebook #pypi",https://i.ytimg.com/vi/uCkyusWpMbs/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=uCkyusWpMbs,https://www.youtube.com/watch?v=uCkyusWpMbs
+96,Working with multiple hands: Parallel and Distributed Programming,https://www.youtube.com/watch?v=uoMB9QNzUuM,uoMB9QNzUuM,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1671,96,0,,"performance,bestpractice,distributedsystems,multiprocessing,scaling",Entertainment,"Working with multiple hands: Parallel and Distributed Programming - Sarthika Dhawan, Vikram Waradpande - PyCon Italia 2023
+
+How to make the most out of your computing power with parallel and distributed programming? What if we tell you for most common cases, it is very easy to speed up your programs twice or thrice using just your machine and some code magic? Stay tuned to get your questions answered!
+
+Full Abstract: https://2023.pycon.it/event/working-with-multiple-hands-parallel-and-distributed-programming
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#performance #bestpractice #distributedsystems #multiprocessing #scaling",https://i.ytimg.com/vi/uoMB9QNzUuM/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=uoMB9QNzUuM,https://www.youtube.com/watch?v=uoMB9QNzUuM
+97,Building Data and Machine Learning Applications using Gradio - MERVE NOYAN,https://www.youtube.com/watch?v=vyvNr-kvwAY,vyvNr-kvwAY,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1575,77,1,1.0,"deeplearning,machinelearning,science",Entertainment,"Building Data and Machine Learning Applications using Gradio - MERVE NOYAN - PyCon Italia 2023
+
+It's often cumbersome for data or machine learning professionals to build good looking applications to their work and deploy them to showcase for stakeholders in their projects and clients. Libraries like Gradio reduce this workload from hours to minutes!
+
+Full Abstract: https://2023.pycon.it/event/building-data-and-machine-learning-applications-using-gradio
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#machinelearning #deeplearning #science",https://i.ytimg.com/vi/vyvNr-kvwAY/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=vyvNr-kvwAY,https://www.youtube.com/watch?v=vyvNr-kvwAY
+98,Smettiamola di scrivere script! Applicazioni CLI con TDD. - Peter Bittner,https://www.youtube.com/watch?v=wgVehmC148Q,wgVehmC148Q,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1886,71,1,,"cleancode,deployment/continuousintegration,devops,testdrivendevelopment(tdd),testing",Entertainment,"Smettiamola di scrivere script! Applicazioni CLI con TDD. - Peter Bittner - PyCon Italia 2023
+
+Python è beautiful perché rende facile ogni inizio. Ma se vuoi che funzioni a opera d’arte hai bisogno dei test. Test automatici, eseguiti da una pipeline, sempre. Ma non si può con i script! Perchè? Ve lo spiegherò. Impariamo a scrivere applicazioni CLI, con TDD. Ora è il momento, non mancare!
+
+Full Abstract: https://2023.pycon.it/event/smettiamola-di-scrivere-script-applicazioni-cli-con-tdd
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#testdrivendevelopment(tdd) #cleancode #testing #devops #deployment/continuousintegration",https://i.ytimg.com/vi/wgVehmC148Q/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=wgVehmC148Q,https://www.youtube.com/watch?v=wgVehmC148Q
+99,The CPU in your browser: WebAssembly demystified - Antonio Cuni,https://www.youtube.com/watch?v=x0nnY9cEzVI,x0nnY9cEzVI,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1881,37,1,,compilerandinterpreters,Entertainment,"The CPU in your browser: WebAssembly demystified - Antonio Cuni - PyCon Italia 2023
+
+In the recent years we saw an explosion of usage of Python in the browser:
+Pyodide, CPython on WASM, PyScript, etc. All of this is possible thanks to the
+powerful functionalities of the underlying platform, WebAssembly, which is essentially a virtual CPU
+inside the browser.
+
+Full Abstract: https://2023.pycon.it/event/the-cpu-in-your-browser-webassembly-demystified
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#compilerandinterpreters",https://i.ytimg.com/vi/x0nnY9cEzVI/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=x0nnY9cEzVI,https://www.youtube.com/watch?v=x0nnY9cEzVI
+100,Apache Arrow as a full stack data engineering solution - Alessandro Molina,https://www.youtube.com/watch?v=xdpHGffWVQM,xdpHGffWVQM,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,2028,107,2,,"bigdata,databases,pandas",Entertainment,"Apache Arrow as a full stack data engineering solution - Alessandro Molina - PyCon Italia 2023
+
+Apache Arrow si sta affermando come lo standard di fatto per l'interscambio di dati in ambito big data e data engineering. Ma PyArrow offre molto di più che un formato dati e ci permette in pratica di implementare una soluzione completa, dall'archiviazione, all'analisi, alla trasmissione via rete.
+
+Full Abstract: https://2023.pycon.it/event/apache-arrow-as-a-full-stack-data-engineering-solution
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#bigdata #pandas #databases",https://i.ytimg.com/vi/xdpHGffWVQM/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=xdpHGffWVQM,https://www.youtube.com/watch?v=xdpHGffWVQM
+101,Controlling the Chaos: Reproducible Deep Learning Experiments Using Lightning and Hydra,https://www.youtube.com/watch?v=y8HSwCUuDgg,y8HSwCUuDgg,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1647,530,12,,"bestpractice,deeplearning,machinelearning,tooling",Entertainment,"Controlling the Chaos: Reproducible Deep Learning Experiments Using Lightning and Hydra - REFIK CAN MALLI - PyCon Italia 2023
+
+Are you tired of spending hours managing and configuring deep learning projects? Do you want to simplify your workflow and make your experiments more efficient by writing less boilerplate code? Join our talk to learn how to integrate into your projects, leave with practical knowledge to apply.
+
+Full Abstract: https://2023.pycon.it/event/controlling-the-chaos-reproducible-deep-learning-experiments-using-lightning-and-hydra
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#machinelearning #tooling #bestpractice #deeplearning",https://i.ytimg.com/vi/y8HSwCUuDgg/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=y8HSwCUuDgg,https://www.youtube.com/watch?v=y8HSwCUuDgg
+102,Rust for Pythonistas - Aaron Bassett,https://www.youtube.com/watch?v=2uRBGAPQGeo,2uRBGAPQGeo,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230729,1676,167,1,,"cleancode,education",Entertainment,"Rust for Pythonistas - PyCon Italia 2023
+
+Rust is one of developers' most wanted languages, but Rust can feel like it requires a paradigm shift in how we code.
+
+We'll compare languages, strategies for learning Rust, investigate how we can use both languages effectively together, and what lessons we can bring from Rust into our Python code.
+
+Full Abstract: https://2023.pycon.it/event/rust-for-pythonistas
+Speakers: Aaron Bassett
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#education #cleancode",https://i.ytimg.com/vi/2uRBGAPQGeo/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=2uRBGAPQGeo,https://www.youtube.com/watch?v=2uRBGAPQGeo
+103,Creating an AI-Python Infrastructure that works with a reasonable scale - Andrea Guzzo,https://www.youtube.com/watch?v=80-XRCMMEFc,80-XRCMMEFc,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1819,187,4,,"architecture,casestudy,deeplearning,machinelearning,naturallanguageprocessing",Entertainment,"Creating an AI-Python Infrastructure that works with a reasonable scale - Andrea Guzzo - PyCon Italia 2023
+
+Since Python is one of the most loved and used programming languages in the world, is it possible to create a complete end-to-end infrastructure for some AI products that works at a reasonable scale? 
+How can this be done using modern, state-of-the-art tools?
+
+Full Abstract: https://2023.pycon.it/event/creating-an-ai-python-infrastructure-that-works-with-a-reasonable-scale
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#machinelearning #deeplearning #casestudy #architecture #naturallanguageprocessing",https://i.ytimg.com/vi/80-XRCMMEFc/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=80-XRCMMEFc,https://www.youtube.com/watch?v=80-XRCMMEFc
+104,Paradoxes in Data Science - Pier Paolo Ippolito,https://www.youtube.com/watch?v=9XqzL7QtE_I,9XqzL7QtE_I,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230730,1569,100,1,,"analytics,aws,machine-learning",Entertainment,"Paradoxes in Data Science - PyCon Italia 2023
+
+As Machine Learning models create knowledge from data, this makes them susceptible to possible cognitive paradoxes between training and testing. In this talk, I will walk you through some of the main paradoxes associated with Data Science and how they can be identified.
+
+Full Abstract: https://2023.pycon.it/event/paradoxes-in-data-science
+Speakers: Pier Paolo Ippolito
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#analytics #machine-learning #aws",https://i.ytimg.com/vi/9XqzL7QtE_I/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=9XqzL7QtE_I,https://www.youtube.com/watch?v=9XqzL7QtE_I
+105,ChatGPT and Minecraft's diamonds playing agents: Reinforcement Learning in a nutshell with sheeprl,https://www.youtube.com/watch?v=CF7YGbfurf4,CF7YGbfurf4,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230730,1578,147,1,,"deeplearning,distributedsystems,machinelearning,multiprocessing",Entertainment,"ChatGPT and Minecraft's diamonds playing agents: Reinforcement Learning in a nutshell with sheeprl - Federico Belotti - PyCon Italia 2023
+
+Autonomous driving cars, human-like NPCs in videogames, nuclear fusion controller, faster matrix multiplication and ChatGPT: Reinforcement Learning (RL) is nowadays ubiquitus. In Orobix we have built a Deep RL Framework that lets anyone learn and play with agents acting in complex environments.
+
+Full Abstract: https://2023.pycon.it/event/chatgpt-and-minecrafts-diamonds-playing-agents-reinforcement-learning-in-a-nutshell-with-sheeprl
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#machinelearning #deeplearning #distributedsystems #multiprocessing",https://i.ytimg.com/vi/CF7YGbfurf4/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=CF7YGbfurf4,https://www.youtube.com/watch?v=CF7YGbfurf4
+106,Maps with Django - Paolo Melchiorre,https://www.youtube.com/watch?v=CbSgXTwR-dk,CbSgXTwR-dk,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230730,1856,185,1,,"django,geoandgis,postgresql",Entertainment,"Maps with Django - PyCon Italia 2023
+
+Tenendo a mente il principio **Pythonico** che ""semplice è meglio che complesso"" vedremo come creare una **mappa** web con **Django**, il framework web basato su **Python**, utilizzando il suo modulo **GeoDjango**, memorizzando i dati geografici nel database locale su cui eseguire query geospaziali.
+
+Full Abstract: https://2023.pycon.it/event/maps-with-django
+Speakers: Paolo Melchiorre
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#django #postgresql #geoandgis",https://i.ytimg.com/vi/CbSgXTwR-dk/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=CbSgXTwR-dk,https://www.youtube.com/watch?v=CbSgXTwR-dk
+107,Robyn: A fast async Python web framework with a Rust runtime - Sanskar Jethi,https://www.youtube.com/watch?v=DQ_JZKMkjb8,DQ_JZKMkjb8,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1328,210,5,,"community,microservices,multithreading,rest",Entertainment,"Robyn: A fast async Python web framework with a Rust runtime - Sanskar Jethi - PyCon Italia 2023
+
+Robyn is a fast Python web framework with Rust runtime, growing quickly in popularity with over 500k installs and nearing 2k stars on GitHub. It showcases an architecture of Rust and Python confluence in production to achieve near-native speed, making it an exciting topic for developers.
+
+Full Abstract: https://2023.pycon.it/event/robyn-a-fast-async-python-web-framework-with-a-rust-runtime-2ri
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#community #rest #multithreading #microservices",https://i.ytimg.com/vi/DQ_JZKMkjb8/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=DQ_JZKMkjb8,https://www.youtube.com/watch?v=DQ_JZKMkjb8
+108,Unit-tests for machine learning pipelines - Alessandro Garavaglia,https://www.youtube.com/watch?v=PZcyWuvBvjg,PZcyWuvBvjg,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230730,1786,1174,28,1.0,"machinelearning,testdrivendevelopment(tdd)",Entertainment,"Unit-tests for machine learning pipelines - Alessandro Garavaglia - PyCon Italia 2023
+
+Data Scientists usually write code in notebooks, that is then converted to structured and robust modules. Testing your code is then fundamental to minimize disruptions and deploy new features in a more stable manner. How can Data Scientists write tests for their code efficiently?
+
+Full Abstract: https://2023.pycon.it/event/unit-tests-for-machine-learning-pipelines
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#machinelearning #testdrivendevelopment(tdd)",https://i.ytimg.com/vi/PZcyWuvBvjg/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=PZcyWuvBvjg,https://www.youtube.com/watch?v=PZcyWuvBvjg
+109,"Coding to interfaces: Structural Subtyping in Python - Francesco Panico, Carlo Bertini",https://www.youtube.com/watch?v=Xg-BxgvE7dg,Xg-BxgvE7dg,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1596,143,4,,"bestpractice,cleancode,staticanalysis,typehinting",Entertainment,"Coding to interfaces: Structural Subtyping in Python - Francesco Panico, Carlo Bertini - PyCon Italia 2023
+
+Separare l'interfaccia dall'implementazione, una delle regole d'oro dell'OOP. Come applicarla in un linguaggio tipizzato dinamicamente come Python? Un'introduzione allo Structural Subtyping e all'utilizzo dei Protocol
+
+Full Abstract: https://2023.pycon.it/event/coding-to-interfaces-structural-subtyping-in-python
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#bestpractice #cleancode #staticanalysis #typehinting",https://i.ytimg.com/vi/Xg-BxgvE7dg/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=Xg-BxgvE7dg,https://www.youtube.com/watch?v=Xg-BxgvE7dg
+110,A simple serverless data pipeline - Riccardo Magliocchetti,https://www.youtube.com/watch?v=YdF49KFVlnE,YdF49KFVlnE,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1474,94,0,,"analytics,aws,bigdata,visualization",Entertainment,"A simple serverless data pipeline - Riccardo Magliocchetti - PyCon Italia 2023
+
+Building and maintaining data pipelines when it's not your full time job is a pain! So better keep things simple without the need to manage the system yourself. In this talk I'll show a data pipeline architecture built leveraging some cloud offerings by AWS and Preset.
+
+Full Abstract: https://2023.pycon.it/event/a-simple-serverless-data-pipeline
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#analytics #visualization #bigdata #aws",https://i.ytimg.com/vi/YdF49KFVlnE/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=YdF49KFVlnE,https://www.youtube.com/watch?v=YdF49KFVlnE
+111,"Bringing life and motion to AI Explainability - Joao Nogueira, Pietro Mascolo",https://www.youtube.com/watch?v=aoO4ovi4H54,aoO4ovi4H54,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230730,1950,33,1,,"casestudy,deeplearning,machine-learning,science,visualization",Entertainment,"Bringing life and motion to AI Explainability - PyCon Italia 2023
+
+We will show how to extract information and details from ML/AI models, using SHAP and embeddings, in order to understand how they learn and how we can leverage this to ensure robustness and evaluate models before they are deployed and used.
+
+Full Abstract: https://2023.pycon.it/event/bringing-life-and-motion-to-ai-explainability
+Speakers: Joao Nogueira, Pietro Mascolo
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#visualization #machine-learning #deeplearning #casestudy #science",https://i.ytimg.com/vi/aoO4ovi4H54/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=aoO4ovi4H54,https://www.youtube.com/watch?v=aoO4ovi4H54
+112,"What's that smell? Monitoring air quality with Python, Raspberry Pi, and Redis - Justin Castilla",https://www.youtube.com/watch?v=kGH9K8JlduE,kGH9K8JlduE,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230731,1845,104,3,,"databases,datastructures,internetofthings(iot),raspberrypi,visualization",Entertainment,"What's that smell? Monitoring air quality with Python, Raspberry Pi, and Redis - Justin Castilla - PyCon Italia 2023
+
+With a little wiring and a few lines of code, one can create their own hyper-local air sensor grid to send alerts, activate smart-windows, and visualize data. A sensor measures air particulate density and sends the values to a Raspberry Pi unit. From there, the possibilities are endless!
+
+Full Abstract: https://2023.pycon.it/event/whats-that-smell-monitoring-air-quality-with-python-raspberry-pi-and-redis
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#visualization #internetofthings(iot) #raspberrypi #databases #datastructures",https://i.ytimg.com/vi/kGH9K8JlduE/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=kGH9K8JlduE,https://www.youtube.com/watch?v=kGH9K8JlduE
+113,Running your Django WebAuthN service - sagie shamay,https://www.youtube.com/watch?v=l8ztXBFP8C0,l8ztXBFP8C0,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230730,1744,409,4,1.0,"authentication,django,security",Entertainment,"Running your Django WebAuthN service - sagie shamay - PyCon Italia 2023
+
+Passkeys, passwordless, WebAuthN - Step into the future and learn how to easily implement those game-changing technologies with a simple Django app. Don't miss out on this opportunity to elevate your web security and authentication to the next level
+
+Full Abstract: https://2023.pycon.it/event/running-your-django-webauthn-service
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#django #security #authentication",https://i.ytimg.com/vi/l8ztXBFP8C0/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=l8ztXBFP8C0,https://www.youtube.com/watch?v=l8ztXBFP8C0
+114,Hack Your Own Code - Alexander Darby,https://www.youtube.com/watch?v=td4X_h85CSg,td4X_h85CSg,Python Italia,@PythonItalia,https://www.youtube.com/@PythonItalia,20230730,1715,100,1,,"apis,architecture,distributedsystems,security",Entertainment,"Hack Your Own Code - PyCon Italia 2023
+
+Is your code hard to hack? 
+
+Sure, code scans and lints are helpful but they don't guarantee that your code is secure. In fact, there is only one good way to answer that question: hack your own code.  
+
+But we're software engineers, not hackers. So how do we do that?
+
+Full Abstract: https://2023.pycon.it/event/hack-your-own-code
+Speakers: Alexander Darby
+
+Check the schedule: https://2023.pycon.it/schedule/2023-05-26
+Join us next year for PyCon Italia 2024! https://pycon.it
+
+#security #apis #distributedsystems #architecture",https://i.ytimg.com/vi/td4X_h85CSg/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=td4X_h85CSg,https://www.youtube.com/watch?v=td4X_h85CSg
