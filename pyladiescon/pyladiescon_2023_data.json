@@ -1,0 +1,1406 @@
+[
+    {
+        "index": 1,
+        "title": "PyLadiesCon opening - Mariatta Wijaya, Denny Perez (EN)",
+        "url": "https://www.youtube.com/watch?v=oYrk3OWaMYQ",
+        "video_id": "oYrk3OWaMYQ",
+        "uploader": "PyLadies",
+        "uploader_id": "@PyLadiesGlobal",
+        "uploader_url": "https://www.youtube.com/@PyLadiesGlobal",
+        "upload_date": "20240328",
+        "duration": 696,
+        "view_count": 124,
+        "like_count": 4,
+        "comment_count": null,
+        "tags": [
+            "Python",
+            "PyLadies",
+            "PyLadiesCon"
+        ],
+        "categories": [
+            "Nonprofits & Activism"
+        ],
+        "description": "",
+        "thumbnail": "https://i.ytimg.com/vi/oYrk3OWaMYQ/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=oYrk3OWaMYQ",
+        "original_url": "https://www.youtube.com/watch?v=oYrk3OWaMYQ"
+    },
+    {
+        "index": 2,
+        "title": "PyLadies Introduction : Lynn Root",
+        "url": "https://www.youtube.com/watch?v=y6_tDpFzVbQ",
+        "video_id": "y6_tDpFzVbQ",
+        "uploader": "PyLadies",
+        "uploader_id": "@PyLadiesGlobal",
+        "uploader_url": "https://www.youtube.com/@PyLadiesGlobal",
+        "upload_date": "20240328",
+        "duration": 473,
+        "view_count": 49,
+        "like_count": 4,
+        "comment_count": null,
+        "tags": [
+            "Python",
+            "PyLadies"
+        ],
+        "categories": [
+            "Nonprofits & Activism"
+        ],
+        "description": "",
+        "thumbnail": "https://i.ytimg.com/vi/y6_tDpFzVbQ/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=y6_tDpFzVbQ",
+        "original_url": "https://www.youtube.com/watch?v=y6_tDpFzVbQ"
+    },
+    {
+        "index": 3,
+        "title": "PyScript: Empowering Rich Python Applications in the Browser 在浏览器中运行Python - Sophia Yang (CN)",
+        "url": "https://www.youtube.com/watch?v=RnIdiy-11ag",
+        "video_id": "RnIdiy-11ag",
+        "uploader": "PyLadies",
+        "uploader_id": "@PyLadiesGlobal",
+        "uploader_url": "https://www.youtube.com/@PyLadiesGlobal",
+        "upload_date": "20240328",
+        "duration": 1757,
+        "view_count": 111,
+        "like_count": 1,
+        "comment_count": null,
+        "tags": [
+            "Python",
+            "PyLadies"
+        ],
+        "categories": [
+            "Nonprofits & Activism"
+        ],
+        "description": "Keynote Talk in Chinese",
+        "thumbnail": "https://i.ytimg.com/vi_webp/RnIdiy-11ag/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=RnIdiy-11ag",
+        "original_url": "https://www.youtube.com/watch?v=RnIdiy-11ag"
+    },
+    {
+        "index": 4,
+        "title": "Keynote: How can we tell if the search results are good ? - Thais Viana (PT)",
+        "url": "https://www.youtube.com/watch?v=qtQMLw_mpfg",
+        "video_id": "qtQMLw_mpfg",
+        "uploader": "PyLadies",
+        "uploader_id": "@PyLadiesGlobal",
+        "uploader_url": "https://www.youtube.com/@PyLadiesGlobal",
+        "upload_date": "20240328",
+        "duration": 2136,
+        "view_count": 28,
+        "like_count": 0,
+        "comment_count": null,
+        "tags": [
+            "Python",
+            "PyLadies"
+        ],
+        "categories": [
+            "Nonprofits & Activism"
+        ],
+        "description": "Keynote talk in Portuguese\n\"The following subjects will be addressed in this talk:\n* Implicit and explicit feedback\n* Online and offline evaluation metrics\n* Domain expert evaluation methodology\n* Creating an evaluation dataset\n* Continuous experimentation framework\n* Open-source tool\"",
+        "thumbnail": "https://i.ytimg.com/vi_webp/qtQMLw_mpfg/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=qtQMLw_mpfg",
+        "original_url": "https://www.youtube.com/watch?v=qtQMLw_mpfg"
+    },
+    {
+        "index": 5,
+        "title": "Keynote: Transcendence: The Power of Representation - Marlene Mhangami (EN)",
+        "url": "https://www.youtube.com/watch?v=8zTohRQ_E5I",
+        "video_id": "8zTohRQ_E5I",
+        "uploader": "PyLadies",
+        "uploader_id": "@PyLadiesGlobal",
+        "uploader_url": "https://www.youtube.com/@PyLadiesGlobal",
+        "upload_date": "20240328",
+        "duration": 1759,
+        "view_count": 45,
+        "like_count": 0,
+        "comment_count": null,
+        "tags": [
+            "Python",
+            "PyLadies",
+            "diversity"
+        ],
+        "categories": [
+            "Nonprofits & Activism"
+        ],
+        "description": "Keynote in English\nThis talk will cover representation in tech. It will have some code examples in it that show diversity statistics at some big tech companies and look at how these can affect women currently in the industry and women looking to join. I will share my own experiences being a woman in the Python community and how representation has helped and hurt in my journey.",
+        "thumbnail": "https://i.ytimg.com/vi_webp/8zTohRQ_E5I/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=8zTohRQ_E5I",
+        "original_url": "https://www.youtube.com/watch?v=8zTohRQ_E5I"
+    },
+    {
+        "index": 6,
+        "title": "Keynote: Tu voz en Python -  Jimena Bermúdez (ES)",
+        "url": "https://www.youtube.com/watch?v=6PiTk5GYZPQ",
+        "video_id": "6PiTk5GYZPQ",
+        "uploader": "PyLadies",
+        "uploader_id": "@PyLadiesGlobal",
+        "uploader_url": "https://www.youtube.com/@PyLadiesGlobal",
+        "upload_date": "20240328",
+        "duration": 2496,
+        "view_count": 94,
+        "like_count": 1,
+        "comment_count": 1,
+        "tags": [
+            "Python",
+            "PyLadies"
+        ],
+        "categories": [
+            "Nonprofits & Activism"
+        ],
+        "description": "Keynote talk in Spanish.\nNuestras voces importan.\n\nHablar en público y dar charlas técnicas es una forma de empoderarnos y hacernos presentes, por eso te quiero compartir mi experiencia exponiendiome y gestionando esas situaciones que nos pueden dar miedo o echar para atrás. \n\nPero entiendo que lo de hablar en público no está hecho para todo el mundo, por eso te quiero contar que alternativas existen para poder alzar tu voz y hacer que te escuchen en el mundo Python.\n\nSé que no es fácil elevar la voz en ningún medio, sea escrito o hablado, y menos en un entorno que nos empuja a sufrir el Síndrome de la impostora. Pero te voy a compartir los ases que guardo bajo la manga amiga 🃏😉",
+        "thumbnail": "https://i.ytimg.com/vi/6PiTk5GYZPQ/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=6PiTk5GYZPQ",
+        "original_url": "https://www.youtube.com/watch?v=6PiTk5GYZPQ"
+    },
+    {
+        "index": 7,
+        "title": "Créer une communauté de 5000 expertes en apprentissage automatique  - Caroline Therwath-Chavier (FR)",
+        "url": "https://www.youtube.com/watch?v=0pnEHxNJUPY",
+        "video_id": "0pnEHxNJUPY",
+        "uploader": "PyLadies",
+        "uploader_id": "@PyLadiesGlobal",
+        "uploader_url": "https://www.youtube.com/@PyLadiesGlobal",
+        "upload_date": "20240328",
+        "duration": 2271,
+        "view_count": 58,
+        "like_count": 0,
+        "comment_count": null,
+        "tags": [
+            "Python",
+            "PyLadies",
+            "WiMLDS Paris"
+        ],
+        "categories": [
+            "Nonprofits & Activism"
+        ],
+        "description": "Keynote talk in French",
+        "thumbnail": "https://i.ytimg.com/vi_webp/0pnEHxNJUPY/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=0pnEHxNJUPY",
+        "original_url": "https://www.youtube.com/watch?v=0pnEHxNJUPY"
+    },
+    {
+        "index": 8,
+        "title": "Keynote: Starting my career, the Open Source way - Abigail Mesrenyame Dogbe (EN)",
+        "url": "https://www.youtube.com/watch?v=WYhqC2QLyYw",
+        "video_id": "WYhqC2QLyYw",
+        "uploader": "PyLadies",
+        "uploader_id": "@PyLadiesGlobal",
+        "uploader_url": "https://www.youtube.com/@PyLadiesGlobal",
+        "upload_date": "20240328",
+        "duration": 2551,
+        "view_count": 58,
+        "like_count": 0,
+        "comment_count": null,
+        "tags": [
+            "Python",
+            "PyLadies",
+            "Open Source"
+        ],
+        "categories": [
+            "Nonprofits & Activism"
+        ],
+        "description": "Keynote in English",
+        "thumbnail": "https://i.ytimg.com/vi_webp/WYhqC2QLyYw/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=WYhqC2QLyYw",
+        "original_url": "https://www.youtube.com/watch?v=WYhqC2QLyYw"
+    },
+    {
+        "index": 9,
+        "title": "Panel Discussion: Challenges for Women Working in Technology - Panel Discussion (EN)",
+        "url": "https://www.youtube.com/watch?v=8YRFPvOOStU",
+        "video_id": "8YRFPvOOStU",
+        "uploader": "PyLadies",
+        "uploader_id": "@PyLadiesGlobal",
+        "uploader_url": "https://www.youtube.com/@PyLadiesGlobal",
+        "upload_date": "20240328",
+        "duration": 1991,
+        "view_count": 93,
+        "like_count": 2,
+        "comment_count": null,
+        "tags": [
+            "APAC",
+            "Python",
+            "Women in Tech"
+        ],
+        "categories": [
+            "Nonprofits & Activism"
+        ],
+        "description": "APAC Panel Discussion in English\nSpeakers:\nJoeun Park, Micaela Reyes, Sarah Huang (HOST), Maaya Ishida, Winnie Ke",
+        "thumbnail": "https://i.ytimg.com/vi_webp/8YRFPvOOStU/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=8YRFPvOOStU",
+        "original_url": "https://www.youtube.com/watch?v=8YRFPvOOStU"
+    },
+    {
+        "index": 10,
+        "title": "Panel Discussion: Vozes na Tecnologia: Contando Experiências na Indústria de Tecnologia (PT)",
+        "url": "https://www.youtube.com/watch?v=YxYhDiqOGP0",
+        "video_id": "YxYhDiqOGP0",
+        "uploader": "PyLadies",
+        "uploader_id": "@PyLadiesGlobal",
+        "uploader_url": "https://www.youtube.com/@PyLadiesGlobal",
+        "upload_date": "20240328",
+        "duration": 1934,
+        "view_count": 15,
+        "like_count": 0,
+        "comment_count": null,
+        "tags": [
+            "Python",
+            "PyLadies"
+        ],
+        "categories": [
+            "Nonprofits & Activism"
+        ],
+        "description": "Panel Discussion in Portuguese by Débora Azevedo (HOST), Jessica Temporal, Lidiane Monteiro, Ryllari Costa, Bianca Rosa",
+        "thumbnail": "https://i.ytimg.com/vi/YxYhDiqOGP0/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=YxYhDiqOGP0",
+        "original_url": "https://www.youtube.com/watch?v=YxYhDiqOGP0"
+    },
+    {
+        "index": 11,
+        "title": "Panel: Empoderando a las Mujeres en la Industria Tecnológica: Experiencias y Perspectivas (ES)",
+        "url": "https://www.youtube.com/watch?v=Uf7Nei4jQuw",
+        "video_id": "Uf7Nei4jQuw",
+        "uploader": "PyLadies",
+        "uploader_id": "@PyLadiesGlobal",
+        "uploader_url": "https://www.youtube.com/@PyLadiesGlobal",
+        "upload_date": "20240328",
+        "duration": 1731,
+        "view_count": 32,
+        "like_count": 1,
+        "comment_count": null,
+        "tags": [
+            "Python",
+            "PyLadies",
+            "Leadership"
+        ],
+        "categories": [
+            "Nonprofits & Activism"
+        ],
+        "description": "Panel Discussion in Spanish by Yodra López, Andrea Griffiths (HOST), Beatris Mendez Gandica, Stefanni Cavaletto, Marian Villa.",
+        "thumbnail": "https://i.ytimg.com/vi_webp/Uf7Nei4jQuw/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=Uf7Nei4jQuw",
+        "original_url": "https://www.youtube.com/watch?v=Uf7Nei4jQuw"
+    },
+    {
+        "index": 12,
+        "title": "Panel Discussion -  Unity in Diversity: The Voices of PyLadies Global Council (EN)",
+        "url": "https://www.youtube.com/watch?v=3Ulfmw04jqQ",
+        "video_id": "3Ulfmw04jqQ",
+        "uploader": "PyLadies",
+        "uploader_id": "@PyLadiesGlobal",
+        "uploader_url": "https://www.youtube.com/@PyLadiesGlobal",
+        "upload_date": "20240328",
+        "duration": 1421,
+        "view_count": 34,
+        "like_count": 2,
+        "comment_count": 1,
+        "tags": [
+            "Python",
+            "PyLadies"
+        ],
+        "categories": [
+            "Nonprofits & Activism"
+        ],
+        "description": "Panel Discussion in English by Lorena Mesa, Lynn Root, Tania Allard, Sarah Adigwe.",
+        "thumbnail": "https://i.ytimg.com/vi/3Ulfmw04jqQ/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=3Ulfmw04jqQ",
+        "original_url": "https://www.youtube.com/watch?v=3Ulfmw04jqQ"
+    },
+    {
+        "index": 13,
+        "title": "Django Ninja - uma excelente opção para o desenvolvimento web - Ana Dulce Padovan (PT)",
+        "url": "https://www.youtube.com/watch?v=Wc-ySRilMFk",
+        "video_id": "Wc-ySRilMFk",
+        "uploader": "PyLadies",
+        "uploader_id": "@PyLadiesGlobal",
+        "uploader_url": "https://www.youtube.com/@PyLadiesGlobal",
+        "upload_date": "20240328",
+        "duration": 1201,
+        "view_count": 219,
+        "like_count": 21,
+        "comment_count": 1,
+        "tags": [],
+        "categories": [
+            "Nonprofits & Activism"
+        ],
+        "description": "Django-ninja é um framework não muito popular nessa terra onde reina FastAPI, porém bastante útil ao se tratar de desenvolvimento web.\nAssim como o Django Rest Framework (DRF), ele opera sobre o consolidado framework web Django, provendo maneiras bastante simples de construir APIs REST, e sua grande vantagem é utilizar Schemas baseados em Pydantic, o que o torna infinitamente mais rápido que os Serializers do DRF, além também possuir suporte a async.\nPor operar sobre o Django, traz a grande vantagem de utilizar sua arquitetura bem organizada e intuitiva, todas as vantagens de já possuir um ORM simples e conhecido, e a interface do admin para lidar com o banco de dados.\nSuas views são function baseds, extremamente simples e intuitivas, e ele já gera automaticamente uma documentação de cada endpoint exposto no formato openapi, por isso a produtividade é muito boa!\nNessa palestra, vou mostrar um resumo de suas funcionalidades para que mais pessoas considerem utilizar Django-ninja em suas aplicações!",
+        "thumbnail": "https://i.ytimg.com/vi_webp/Wc-ySRilMFk/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=Wc-ySRilMFk",
+        "original_url": "https://www.youtube.com/watch?v=Wc-ySRilMFk"
+    },
+    {
+        "index": 14,
+        "title": "Exploring Generative AI through the lens of Open source - Aparna Soneja (EN)",
+        "url": "https://www.youtube.com/watch?v=pLbrwxSRjvE",
+        "video_id": "pLbrwxSRjvE",
+        "uploader": "PyLadies",
+        "uploader_id": "@PyLadiesGlobal",
+        "uploader_url": "https://www.youtube.com/@PyLadiesGlobal",
+        "upload_date": "20240328",
+        "duration": 1422,
+        "view_count": 37,
+        "like_count": 1,
+        "comment_count": null,
+        "tags": [
+            "ML",
+            "AI"
+        ],
+        "categories": [
+            "Nonprofits & Activism"
+        ],
+        "description": "Introduction to Generative AI (the technology behind AI tools like ChatGPT) & its applications.\n- Brief overview of Open source & its importance in software development, collaboration, knowledge sharing etc.\n-  How collaboration through open source will benefit Generative AI.\n- Showcasing popular Open source frameworks for Generative AI such as TensorFlow, PyTorch etc. & exploring some successful open source generative AI projects.\n- How to contribute to AI open source projects with some resources to learn & collaborate",
+        "thumbnail": "https://i.ytimg.com/vi_webp/pLbrwxSRjvE/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=pLbrwxSRjvE",
+        "original_url": "https://www.youtube.com/watch?v=pLbrwxSRjvE"
+    },
+    {
+        "index": 15,
+        "title": "Build Your First LLM-based Application with Haystack - Bilge Yücel (EN)",
+        "url": "https://www.youtube.com/watch?v=ayodTQdEerg",
+        "video_id": "ayodTQdEerg",
+        "uploader": "PyLadies",
+        "uploader_id": "@PyLadiesGlobal",
+        "uploader_url": "https://www.youtube.com/@PyLadiesGlobal",
+        "upload_date": "20240328",
+        "duration": 1039,
+        "view_count": 359,
+        "like_count": 6,
+        "comment_count": 2,
+        "tags": [
+            "ML",
+            "Open Source library",
+            "AI"
+        ],
+        "categories": [
+            "Nonprofits & Activism"
+        ],
+        "description": "Natural Language Processing (NLP) is advancing at an unprecedented pace, with new large language models (LLMs) emerging almost daily. These models, coupled with innovative ideas, revolutionize how we build applications. However, for software developers, entering the field of NLP can be overwhelming because of all new NLP concepts. \n\nHaystack is an open-source Python framework designed to empower developers in building LLM applications using the latest language models and state-of-the-art NLP approaches by providing all the tools you need. Haystack's composable pipeline system and LLM-based building components open up a world of possibilities, enabling generative question answering, document retrieval, chatbots, and much more!\n\nWe'll begin with a high-level overview of key NLP concepts, including vector databases, document preprocessing, word embeddings, LLMs, and prompting. This will lay the groundwork for understanding the core concepts required to develop applications powered by LLMs. Once we've explored these fundamental concepts, we’ll combine them together to create a generative question-answering application tailored for custom documents using Haystack. By end of this talk, you'll have a solid grasp of NLP basics and learn how to use it for your needs in your applications.",
+        "thumbnail": "https://i.ytimg.com/vi_webp/ayodTQdEerg/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=ayodTQdEerg",
+        "original_url": "https://www.youtube.com/watch?v=ayodTQdEerg"
+    },
+    {
+        "index": 16,
+        "title": "Pyladies Bioinfo Brasil - Pri Boyano (PT)",
+        "url": "https://www.youtube.com/watch?v=1A0Vn6gX9gM",
+        "video_id": "1A0Vn6gX9gM",
+        "uploader": "PyLadies",
+        "uploader_id": "@PyLadiesGlobal",
+        "uploader_url": "https://www.youtube.com/@PyLadiesGlobal",
+        "upload_date": "20240328",
+        "duration": 1362,
+        "view_count": 58,
+        "like_count": 3,
+        "comment_count": null,
+        "tags": [
+            "Community",
+            "Inclusivity",
+            "PyLadies",
+            "Python",
+            "PyLadies Brasil"
+        ],
+        "categories": [
+            "Nonprofits & Activism"
+        ],
+        "description": "Em meados do ano 2020, com o crescimento das PyLadies Brasil no Slack, algumas PyLadies se organizaram e criaram um canal com intuito de unir mais meninas e mulheres para estudar Bioinformática, a qual é a área em que utiliza os métodos computacionais para analisar e compreender os fenômenos biológicos, em especial, os moleculares.\nAssim como todas as áreas da computação, a Bioinformática ainda é predominantemente masculina. Logo, reunir as meninas para se apoiarem, estudarem e discutirem sobre Bioinformática, nos faz ver o quanto podemos juntas ser e fazer melhor. E, sabe-se que a diversidade promove mais inovação tecnológica e o céu é o limite para nossos sonhos.",
+        "thumbnail": "https://i.ytimg.com/vi_webp/1A0Vn6gX9gM/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=1A0Vn6gX9gM",
+        "original_url": "https://www.youtube.com/watch?v=1A0Vn6gX9gM"
+    },
+    {
+        "index": 17,
+        "title": "Sparkling Connections: Making PyLadies' Contributions Visible Thru Mastodon Bots - Cosima Meyer (EN)",
+        "url": "https://www.youtube.com/watch?v=3KXxk-GrRWo",
+        "video_id": "3KXxk-GrRWo",
+        "uploader": "PyLadies",
+        "uploader_id": "@PyLadiesGlobal",
+        "uploader_url": "https://www.youtube.com/@PyLadiesGlobal",
+        "upload_date": "20240328",
+        "duration": 1122,
+        "view_count": 43,
+        "like_count": 0,
+        "comment_count": null,
+        "tags": [
+            "Python",
+            "PyLadies",
+            "Mastodon",
+            "Community"
+        ],
+        "categories": [
+            "Nonprofits & Activism"
+        ],
+        "description": "Outline for the talk is as follows:\n\n- Introduction\n- Explaining the background of the project and why visibility is important\n- Showcasing of both the repository and the bot \n- Explanaining of the bot’s architecture and set-up \n- Providing a forward-looking perspective (upcoming features and future developments)\n\nI hope that the talk will inspire more PyLadies’ to share material publicly and to make the public perception of experts in the field more diverse.",
+        "thumbnail": "https://i.ytimg.com/vi_webp/3KXxk-GrRWo/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=3KXxk-GrRWo",
+        "original_url": "https://www.youtube.com/watch?v=3KXxk-GrRWo"
+    },
+    {
+        "index": 18,
+        "title": "Survival Guide to typing in Python - HanaPoulpe (EN)",
+        "url": "https://www.youtube.com/watch?v=Iy2fTZRqxV4",
+        "video_id": "Iy2fTZRqxV4",
+        "uploader": "PyLadies",
+        "uploader_id": "@PyLadiesGlobal",
+        "uploader_url": "https://www.youtube.com/@PyLadiesGlobal",
+        "upload_date": "20240328",
+        "duration": 1312,
+        "view_count": 22,
+        "like_count": 1,
+        "comment_count": null,
+        "tags": [
+            "Python",
+            "PyLadies",
+            "Core Python"
+        ],
+        "categories": [
+            "Nonprofits & Activism"
+        ],
+        "description": "\"The talk is split in 3 parts:\n1. Quick presentation of type annotation, typing module, collections, Protocols\n2. What is static typing, how to setup MyPy using pyproject.toml, quick tips on how to annotate functions to avoid anti-patterns\n3. When static typing isn't enough, good use of TypeGuards\"",
+        "thumbnail": "https://i.ytimg.com/vi_webp/Iy2fTZRqxV4/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=Iy2fTZRqxV4",
+        "original_url": "https://www.youtube.com/watch?v=Iy2fTZRqxV4"
+    },
+    {
+        "index": 19,
+        "title": "How to Make a Docs Site: Shortcuts for Busy Devs - Joanna Jablonski (EN)",
+        "url": "https://www.youtube.com/watch?v=N3mO4MEtpwA",
+        "video_id": "N3mO4MEtpwA",
+        "uploader": "PyLadies",
+        "uploader_id": "@PyLadiesGlobal",
+        "uploader_url": "https://www.youtube.com/@PyLadiesGlobal",
+        "upload_date": "20240328",
+        "duration": 1084,
+        "view_count": 81,
+        "like_count": 0,
+        "comment_count": null,
+        "tags": [
+            "Python",
+            "PyLadies",
+            "Documentation"
+        ],
+        "categories": [
+            "Nonprofits & Activism"
+        ],
+        "description": "",
+        "thumbnail": "https://i.ytimg.com/vi_webp/N3mO4MEtpwA/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=N3mO4MEtpwA",
+        "original_url": "https://www.youtube.com/watch?v=N3mO4MEtpwA"
+    },
+    {
+        "index": 20,
+        "title": "Mujeres en tecnología: experiencias de una Principal Data Scientist - Judit Guimera Busquets (ES)",
+        "url": "https://www.youtube.com/watch?v=fFOStPyi6vg",
+        "video_id": "fFOStPyi6vg",
+        "uploader": "PyLadies",
+        "uploader_id": "@PyLadiesGlobal",
+        "uploader_url": "https://www.youtube.com/@PyLadiesGlobal",
+        "upload_date": "20240328",
+        "duration": 1603,
+        "view_count": 31,
+        "like_count": 1,
+        "comment_count": null,
+        "tags": [
+            "Python",
+            "PyLadies",
+            "Data Science",
+            "Inclusivity",
+            "Career Growth"
+        ],
+        "categories": [
+            "Nonprofits & Activism"
+        ],
+        "description": "Talk in Spanish",
+        "thumbnail": "https://i.ytimg.com/vi_webp/fFOStPyi6vg/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=fFOStPyi6vg",
+        "original_url": "https://www.youtube.com/watch?v=fFOStPyi6vg"
+    },
+    {
+        "index": 21,
+        "title": "PyLadies Maputo - Construir uma comunidade que promove a diversidade, ... - Cecilia Tivir (PT)",
+        "url": "https://www.youtube.com/watch?v=LtCQMgOZVMU",
+        "video_id": "LtCQMgOZVMU",
+        "uploader": "PyLadies",
+        "uploader_id": "@PyLadiesGlobal",
+        "uploader_url": "https://www.youtube.com/@PyLadiesGlobal",
+        "upload_date": "20240328",
+        "duration": 1101,
+        "view_count": 32,
+        "like_count": 1,
+        "comment_count": null,
+        "tags": [
+            "Python",
+            "PyLadies"
+        ],
+        "categories": [
+            "Nonprofits & Activism"
+        ],
+        "description": "PyLadies Maputo - Construir uma comunidade que promove a diversidade, conecta, encoraja e desenvolve competências profissionais e humanas -  Cecilia Tivir\nTalk in Portuguese",
+        "thumbnail": "https://i.ytimg.com/vi_webp/LtCQMgOZVMU/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=LtCQMgOZVMU",
+        "original_url": "https://www.youtube.com/watch?v=LtCQMgOZVMU"
+    },
+    {
+        "index": 22,
+        "title": "Testing in Python - Jessie Newman (EN)",
+        "url": "https://www.youtube.com/watch?v=CJVsUPKenGU",
+        "video_id": "CJVsUPKenGU",
+        "uploader": "PyLadies",
+        "uploader_id": "@PyLadiesGlobal",
+        "uploader_url": "https://www.youtube.com/@PyLadiesGlobal",
+        "upload_date": "20240328",
+        "duration": 1155,
+        "view_count": 83,
+        "like_count": 1,
+        "comment_count": null,
+        "tags": [
+            "Python",
+            "PyLadies",
+            "Testing",
+            "Pytest"
+        ],
+        "categories": [
+            "Nonprofits & Activism"
+        ],
+        "description": "You'll leave this talk able to do the following:\n- use Pytest to run your tests\n- use unittest.mock to create mocks of objects and functions\n- use unittest.patch to replace functions outside of the scope of your test\n- inspect the arguments your mocked functions are called with and assert against them\n- write asynchronous mocks\n- use the parametrize library to run your tests on a variety of different inputs",
+        "thumbnail": "https://i.ytimg.com/vi/CJVsUPKenGU/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=CJVsUPKenGU",
+        "original_url": "https://www.youtube.com/watch?v=CJVsUPKenGU"
+    },
+    {
+        "index": 23,
+        "title": "How and why I built a PyLadies avatar generator in 2 days - Mariana Bocoi (EN)",
+        "url": "https://www.youtube.com/watch?v=nPvLkjqPsWU",
+        "video_id": "nPvLkjqPsWU",
+        "uploader": "PyLadies",
+        "uploader_id": "@PyLadiesGlobal",
+        "uploader_url": "https://www.youtube.com/@PyLadiesGlobal",
+        "upload_date": "20240328",
+        "duration": 1226,
+        "view_count": 40,
+        "like_count": 1,
+        "comment_count": null,
+        "tags": [
+            "Python",
+            "PyLadies",
+            "Community"
+        ],
+        "categories": [
+            "Nonprofits & Activism"
+        ],
+        "description": "",
+        "thumbnail": "https://i.ytimg.com/vi_webp/nPvLkjqPsWU/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=nPvLkjqPsWU",
+        "original_url": "https://www.youtube.com/watch?v=nPvLkjqPsWU"
+    },
+    {
+        "index": 24,
+        "title": "Drones : Do Software ao Hardware!  Utilizando  conhecimentos sobre Python .. - Mariana Oliveira (PT)",
+        "url": "https://www.youtube.com/watch?v=hm1nXL8ppyo",
+        "video_id": "hm1nXL8ppyo",
+        "uploader": "PyLadies",
+        "uploader_id": "@PyLadiesGlobal",
+        "uploader_url": "https://www.youtube.com/@PyLadiesGlobal",
+        "upload_date": "20240328",
+        "duration": 1086,
+        "view_count": 45,
+        "like_count": 5,
+        "comment_count": null,
+        "tags": [
+            "Python",
+            "PyLadies",
+            "drones",
+            "Electronics",
+            "IOT"
+        ],
+        "categories": [
+            "Nonprofits & Activism"
+        ],
+        "description": "Talk in Portuguese.\nNesta palestra será abordado como foi utilizado código em Python para programar a Raspberry Pi 4+ no objetivo de desenvolver um Drone de busca que tivesse sua trajetória determinada e seguida de forma automática sem a necessidade do rádio.",
+        "thumbnail": "https://i.ytimg.com/vi_webp/hm1nXL8ppyo/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=hm1nXL8ppyo",
+        "original_url": "https://www.youtube.com/watch?v=hm1nXL8ppyo"
+    },
+    {
+        "index": 25,
+        "title": "Project TEDDY (Text-based Early Distress Detector for Youth) - Mona Obedoza (EN)",
+        "url": "https://www.youtube.com/watch?v=DB7xxXHH-mo",
+        "video_id": "DB7xxXHH-mo",
+        "uploader": "PyLadies",
+        "uploader_id": "@PyLadiesGlobal",
+        "uploader_url": "https://www.youtube.com/@PyLadiesGlobal",
+        "upload_date": "20240328",
+        "duration": 1385,
+        "view_count": 117,
+        "like_count": 2,
+        "comment_count": null,
+        "tags": [
+            "Python",
+            "PyLadies"
+        ],
+        "categories": [
+            "Nonprofits & Activism"
+        ],
+        "description": "",
+        "thumbnail": "https://i.ytimg.com/vi_webp/DB7xxXHH-mo/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=DB7xxXHH-mo",
+        "original_url": "https://www.youtube.com/watch?v=DB7xxXHH-mo"
+    },
+    {
+        "index": 26,
+        "title": "Collaboration Infrastructure in Data Science: Tools, Challenges... - Pavithra Eswaramoorthy (EN)",
+        "url": "https://www.youtube.com/watch?v=OzcUQAiOKbY",
+        "video_id": "OzcUQAiOKbY",
+        "uploader": "PyLadies",
+        "uploader_id": "@PyLadiesGlobal",
+        "uploader_url": "https://www.youtube.com/@PyLadiesGlobal",
+        "upload_date": "20240328",
+        "duration": 1134,
+        "view_count": 34,
+        "like_count": 0,
+        "comment_count": null,
+        "tags": [
+            "Python",
+            "PyLadies"
+        ],
+        "categories": [
+            "Nonprofits & Activism"
+        ],
+        "description": "We have mature collaboration tools in the PyData ecosystem like JupyterHub for shared infrastructure, conda for package & environment management, and Dask for distributed computing. However, the process for setting-up and using a platform with all these tools requires in-depth knowledge of these tools. This talk hopes to discuss some friendly solutions for collaborative practices like:\n\n* **Sharing ongoing work**, visualizations, and dashboards **with reproducible environments**\n* Designing for **scalability (distributed compute) and productionization**\n* **Monitoring and managing team resources** to minimize cloud costs \n\n---\n\n**Pre-requisites:**  A basic understanding of Python-based data science tools (NumPy, pandas, matplotlib, etc.) and workflows (exploratory analysis, visualization, etc.) is required – if you have used Jupyter Notebooks, created environments using the conda package manager, and performed a `groupby` operation in pandas, you should be able to follow along with the talk comfortably. While not necessary, experiential knowledge of data workflows, previous experience working in a team, and familiarity with distributed computing principles will help you get the most value out of this talk.",
+        "thumbnail": "https://i.ytimg.com/vi_webp/OzcUQAiOKbY/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=OzcUQAiOKbY",
+        "original_url": "https://www.youtube.com/watch?v=OzcUQAiOKbY"
+    },
+    {
+        "index": 27,
+        "title": "Cache me if you can: Boosting performance with Data Caching in Python - Ria Bhatia (EN)",
+        "url": "https://www.youtube.com/watch?v=LkdGD7nMR88",
+        "video_id": "LkdGD7nMR88",
+        "uploader": "PyLadies",
+        "uploader_id": "@PyLadiesGlobal",
+        "uploader_url": "https://www.youtube.com/@PyLadiesGlobal",
+        "upload_date": "20240328",
+        "duration": 1283,
+        "view_count": 58,
+        "like_count": 3,
+        "comment_count": null,
+        "tags": [
+            "Python",
+            "PyLadies",
+            "Devops/Developer Productivity",
+            "Caching"
+        ],
+        "categories": [
+            "Nonprofits & Activism"
+        ],
+        "description": "In this talk, we will explore the joys of data caching in Python and how it can turbocharge your code's performance. We'll dive deep into caching, explaining what it is and why it's crucial for optimizing code performance. We'll discuss various caching techniques and approaches, so you can take away practical knowledge on how to implement caching in Python. \nAnd wait, there's more! We'll also cover bottlenecks and things to consider when implementing caching to ensure optimal performance. \nBy the end of this talk, you'll have a newfound appreciation for the power of caching and will be amazed at how easy it is to get started with caching. If you want to say \"goodbye\" to long load times and \"hello\" to efficient programming- this talk is for you.",
+        "thumbnail": "https://i.ytimg.com/vi_webp/LkdGD7nMR88/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=LkdGD7nMR88",
+        "original_url": "https://www.youtube.com/watch?v=LkdGD7nMR88"
+    },
+    {
+        "index": 28,
+        "title": "IAcelearando despliegues poderosos - Rossana Suarez (ES)",
+        "url": "https://www.youtube.com/watch?v=D21Ya415ty0",
+        "video_id": "D21Ya415ty0",
+        "uploader": "PyLadies",
+        "uploader_id": "@PyLadiesGlobal",
+        "uploader_url": "https://www.youtube.com/@PyLadiesGlobal",
+        "upload_date": "20240328",
+        "duration": 1048,
+        "view_count": 24,
+        "like_count": 0,
+        "comment_count": null,
+        "tags": [
+            "Python",
+            "PyLadies"
+        ],
+        "categories": [
+            "Nonprofits & Activism"
+        ],
+        "description": "Talk in Spanish \n¿La IA puede simplificar el flujo de trabajo de un DevOps? En esta apasionante charla, descubriremos cómo la IA puede acelerar las tareas de despliegue, que originalmente se basaron en scripts manuales, a través de una automatización rápida y segura. ¡Tan pronto como se haga una nueva release, es momento de desplegarla!",
+        "thumbnail": "https://i.ytimg.com/vi_webp/D21Ya415ty0/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=D21Ya415ty0",
+        "original_url": "https://www.youtube.com/watch?v=D21Ya415ty0"
+    },
+    {
+        "index": 29,
+        "title": "Djangonaut Space, how we organized a mentorship program - Sarah Abderemane (EN)",
+        "url": "https://www.youtube.com/watch?v=15ITa9E2dEs",
+        "video_id": "15ITa9E2dEs",
+        "uploader": "PyLadies",
+        "uploader_id": "@PyLadiesGlobal",
+        "uploader_url": "https://www.youtube.com/@PyLadiesGlobal",
+        "upload_date": "20240328",
+        "duration": 1023,
+        "view_count": 129,
+        "like_count": 9,
+        "comment_count": null,
+        "tags": [
+            "Python",
+            "PyLadies",
+            "Community",
+            "Open Source library"
+        ],
+        "categories": [
+            "Nonprofits & Activism"
+        ],
+        "description": "Starting to contribute to a big project might be scary or you just don’t know how to start. So it is not surprising that it is difficult to find new dedicated contributors to a project. This is something that Djangonaut Space organizers want to help with and make people feel that they are part of the community. \n\nWith that goal in mind, Djangonaut Space launched its first 3-month mentorship program in the Summer of 2023 mentoring 6 members of the Django community.\n\nMore information on Djangonaut Space here: https://djangonaut.space/\n\nWe will start with why the Django community felt there was a need for a mentorship program. This will include where this idea came from and how other communities might identify a similar need. Then we will go over how Djangonaut Space began. This will include the power of a pilot and what you will need to consider when organizing your own mentorship program.Finally we will see the outcomes of the Djangonaut Space program. This will cover our successes and what didn’t work as we expected.\n\nWhat can attendees learn:\n- How to organize a mentorship program for your own project community\n- Things to think about before you start one\n- All about Djangonaut Space",
+        "thumbnail": "https://i.ytimg.com/vi_webp/15ITa9E2dEs/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=15ITa9E2dEs",
+        "original_url": "https://www.youtube.com/watch?v=15ITa9E2dEs"
+    },
+    {
+        "index": 30,
+        "title": "The Genie is out of the Bottle -Generative AI - Sireesha Dhavali (EN)",
+        "url": "https://www.youtube.com/watch?v=p-5oT1qiZkI",
+        "video_id": "p-5oT1qiZkI",
+        "uploader": "PyLadies",
+        "uploader_id": "@PyLadiesGlobal",
+        "uploader_url": "https://www.youtube.com/@PyLadiesGlobal",
+        "upload_date": "20240328",
+        "duration": 1196,
+        "view_count": 23,
+        "like_count": 0,
+        "comment_count": null,
+        "tags": [
+            "Python",
+            "PyLadies",
+            "Core Python"
+        ],
+        "categories": [
+            "Nonprofits & Activism"
+        ],
+        "description": "Generative AI, emblematic of the phrase \"The Genie is out of the Bottle,\" is revolutionizing the digital realm by its ability to autonomously produce new content, be it textual narratives, visual arts, or auditory compositions. But, much like the unpredictable wishes granted by a freed genie, the consequences of Generative AI are multifaceted and bring forth a cascade of ethical quandaries.\n\nOne of the most prominent concerns is the proliferation of misinformation. Generative models can craft convincing, yet entirely fictitious narratives, enabling the spread of fake news and creating an environment where truth becomes nebulous. How do we maintain the integrity of information in an era where AI can fabricate seemingly authentic content?\n\nAnother profound dilemma is the creation of deepfakes. With the capability to manipulate video and audio seamlessly, Generative AI can produce content that portrays individuals saying or doing things they never did. This poses alarming threats to personal reputations, political landscapes, and societal trust in media.\n\nFurthermore, as Generative AI ventures into the realms of art and music, it beckons questions about creativity and ownership. Who owns AI-generated art? Is it the developer of the AI model, the user who generates the content, or does it remain unclaimed? \n\nLastly, with AI's potential to simulate personal attributes, issues of privacy and consent become paramount. If an AI model can mimic a person's voice or appearance without their knowledge or approval, where do we draw the line?\n\nIn essence, while Generative AI presents groundbreaking opportunities, it also unveils a Pandora's box of ethical challenges. As we stand at this new frontier, it becomes imperative to navigate with foresight, considering not just the technological marvels but also the moral implications intertwined with them.",
+        "thumbnail": "https://i.ytimg.com/vi_webp/p-5oT1qiZkI/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=p-5oT1qiZkI",
+        "original_url": "https://www.youtube.com/watch?v=p-5oT1qiZkI"
+    },
+    {
+        "index": 31,
+        "title": "Pythonic Principles: Best Practices for Clean Code - Swarooprani Manoor (EN)",
+        "url": "https://www.youtube.com/watch?v=r7cpEpruA44",
+        "video_id": "r7cpEpruA44",
+        "uploader": "PyLadies",
+        "uploader_id": "@PyLadiesGlobal",
+        "uploader_url": "https://www.youtube.com/@PyLadiesGlobal",
+        "upload_date": "20240328",
+        "duration": 1092,
+        "view_count": 74,
+        "like_count": 3,
+        "comment_count": null,
+        "tags": [
+            "Python",
+            "PyLadies",
+            "Core Python"
+        ],
+        "categories": [
+            "Nonprofits & Activism"
+        ],
+        "description": "Python's simplicity and readability make it a popular choice for developers. However, being Pythonic goes beyond writing functional code; it's about crafting elegant, maintainable, and collaborative code. This talk is designed for Python enthusiasts of all levels.\n\nWe'll explore the significance of Pythonic programming and its impact on code readability. \nOutcomes: By the end of this talk, participants will:\n1. Understand the significance of Pythonic programming and its benefits.\n2. Become familiar with style guidelines and best practices.\n3. Learn techniques to write clean, readable, and Pythonic code.\n4. Cultivate a Pythonic mindset for code development and maintenance.",
+        "thumbnail": "https://i.ytimg.com/vi_webp/r7cpEpruA44/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=r7cpEpruA44",
+        "original_url": "https://www.youtube.com/watch?v=r7cpEpruA44"
+    },
+    {
+        "index": 32,
+        "title": "Usando Python para curar enfermedades genéticas - Marina Moro López (ES)",
+        "url": "https://www.youtube.com/watch?v=JZvZU0T7RIY",
+        "video_id": "JZvZU0T7RIY",
+        "uploader": "PyLadies",
+        "uploader_id": "@PyLadiesGlobal",
+        "uploader_url": "https://www.youtube.com/@PyLadiesGlobal",
+        "upload_date": "20240328",
+        "duration": 1226,
+        "view_count": 69,
+        "like_count": 4,
+        "comment_count": null,
+        "tags": [
+            "Python",
+            "PyLadies",
+            "genetics"
+        ],
+        "categories": [
+            "Nonprofits & Activism"
+        ],
+        "description": "Talk in Spanish\nLa charla abrirá con una breve introducción a la enfermedad de Huntington y lo suficiente de genética para entender el caso práctico. Éste es el verdadero centro de la charla y consistirá en editar el ADN de unx paciente con CRISPR (una herramienta de corte y empalme biológico) y un script de Python (que diseñará las secuencias genéticas necesarias para el experimento) para tratarlo. Todo esto nos servirá para ver el tremendo potencial de la sinergia entre la ingeniería genética y Python en el ámbito sanitario.",
+        "thumbnail": "https://i.ytimg.com/vi/JZvZU0T7RIY/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=JZvZU0T7RIY",
+        "original_url": "https://www.youtube.com/watch?v=JZvZU0T7RIY"
+    },
+    {
+        "index": 33,
+        "title": "时间序列特征一键式提取神器-tsfresh - April (CN)",
+        "url": "https://www.youtube.com/watch?v=643noA9ICKg",
+        "video_id": "643noA9ICKg",
+        "uploader": "PyLadies",
+        "uploader_id": "@PyLadiesGlobal",
+        "uploader_url": "https://www.youtube.com/@PyLadiesGlobal",
+        "upload_date": "20240328",
+        "duration": 1173,
+        "view_count": 153,
+        "like_count": 3,
+        "comment_count": null,
+        "tags": [
+            "Python",
+            "PyLadies",
+            "Data Science",
+            "Open Source library"
+        ],
+        "categories": [
+            "Nonprofits & Activism"
+        ],
+        "description": "Talk in Chinese",
+        "thumbnail": "https://i.ytimg.com/vi/643noA9ICKg/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=643noA9ICKg",
+        "original_url": "https://www.youtube.com/watch?v=643noA9ICKg"
+    },
+    {
+        "index": 34,
+        "title": "Closing",
+        "url": "https://www.youtube.com/watch?v=dMoJs6lubFY",
+        "video_id": "dMoJs6lubFY",
+        "uploader": "PyLadies",
+        "uploader_id": "@PyLadiesGlobal",
+        "uploader_url": "https://www.youtube.com/@PyLadiesGlobal",
+        "upload_date": "20240328",
+        "duration": 1548,
+        "view_count": 12,
+        "like_count": 0,
+        "comment_count": null,
+        "tags": [
+            "Python",
+            "PyLadies",
+            "PyLadiesCon"
+        ],
+        "categories": [
+            "Nonprofits & Activism"
+        ],
+        "description": "PyLadies Closing",
+        "thumbnail": "https://i.ytimg.com/vi/dMoJs6lubFY/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=dMoJs6lubFY",
+        "original_url": "https://www.youtube.com/watch?v=dMoJs6lubFY"
+    },
+    {
+        "index": 35,
+        "title": "PyLadies Around the World - Tokyo",
+        "url": "https://www.youtube.com/watch?v=9prIe0h_3HU",
+        "video_id": "9prIe0h_3HU",
+        "uploader": "PyLadies",
+        "uploader_id": "@PyLadiesGlobal",
+        "uploader_url": "https://www.youtube.com/@PyLadiesGlobal",
+        "upload_date": "20241112",
+        "duration": 67,
+        "view_count": 30,
+        "like_count": 1,
+        "comment_count": null,
+        "tags": [
+            "Python",
+            "PyLadies",
+            "PyLadiesCon",
+            "PyLadies Tokyo"
+        ],
+        "categories": [
+            "Nonprofits & Activism"
+        ],
+        "description": "",
+        "thumbnail": "https://i.ytimg.com/vi/9prIe0h_3HU/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=9prIe0h_3HU",
+        "original_url": "https://www.youtube.com/watch?v=9prIe0h_3HU"
+    },
+    {
+        "index": 36,
+        "title": "PyLadies Around the World - São Carlos",
+        "url": "https://www.youtube.com/watch?v=Roh3Cw6pEjw",
+        "video_id": "Roh3Cw6pEjw",
+        "uploader": "PyLadies",
+        "uploader_id": "@PyLadiesGlobal",
+        "uploader_url": "https://www.youtube.com/@PyLadiesGlobal",
+        "upload_date": "20241112",
+        "duration": 95,
+        "view_count": 17,
+        "like_count": 1,
+        "comment_count": null,
+        "tags": [
+            "Python",
+            "PyLadies",
+            "PyLadiesCon"
+        ],
+        "categories": [
+            "Nonprofits & Activism"
+        ],
+        "description": "",
+        "thumbnail": "https://i.ytimg.com/vi/Roh3Cw6pEjw/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=Roh3Cw6pEjw",
+        "original_url": "https://www.youtube.com/watch?v=Roh3Cw6pEjw"
+    },
+    {
+        "index": 37,
+        "title": "PyLadies Around the World - Santo Domingo",
+        "url": "https://www.youtube.com/watch?v=AcuBYNiEGMY",
+        "video_id": "AcuBYNiEGMY",
+        "uploader": "PyLadies",
+        "uploader_id": "@PyLadiesGlobal",
+        "uploader_url": "https://www.youtube.com/@PyLadiesGlobal",
+        "upload_date": "20241113",
+        "duration": 79,
+        "view_count": 13,
+        "like_count": 0,
+        "comment_count": null,
+        "tags": [
+            "Python",
+            "PyLadies"
+        ],
+        "categories": [
+            "Nonprofits & Activism"
+        ],
+        "description": "",
+        "thumbnail": "https://i.ytimg.com/vi/AcuBYNiEGMY/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=AcuBYNiEGMY",
+        "original_url": "https://www.youtube.com/watch?v=AcuBYNiEGMY"
+    },
+    {
+        "index": 38,
+        "title": "PyLadies Around the World - PyLadies En Español",
+        "url": "https://www.youtube.com/watch?v=_7ZrVjpTNis",
+        "video_id": "_7ZrVjpTNis",
+        "uploader": "PyLadies",
+        "uploader_id": "@PyLadiesGlobal",
+        "uploader_url": "https://www.youtube.com/@PyLadiesGlobal",
+        "upload_date": "20241113",
+        "duration": 109,
+        "view_count": 11,
+        "like_count": 0,
+        "comment_count": null,
+        "tags": [
+            "Python",
+            "PyLadies",
+            "PyLadiesCon"
+        ],
+        "categories": [
+            "Nonprofits & Activism"
+        ],
+        "description": "",
+        "thumbnail": "https://i.ytimg.com/vi/_7ZrVjpTNis/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=_7ZrVjpTNis",
+        "original_url": "https://www.youtube.com/watch?v=_7ZrVjpTNis"
+    },
+    {
+        "index": 39,
+        "title": "PyLadies Around the World - MUNICH",
+        "url": "https://www.youtube.com/watch?v=EdWZOzBxpIA",
+        "video_id": "EdWZOzBxpIA",
+        "uploader": "PyLadies",
+        "uploader_id": "@PyLadiesGlobal",
+        "uploader_url": "https://www.youtube.com/@PyLadiesGlobal",
+        "upload_date": "20241113",
+        "duration": 151,
+        "view_count": 20,
+        "like_count": 1,
+        "comment_count": null,
+        "tags": [
+            "Python",
+            "PyLadies"
+        ],
+        "categories": [
+            "Nonprofits & Activism"
+        ],
+        "description": "",
+        "thumbnail": "https://i.ytimg.com/vi/EdWZOzBxpIA/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=EdWZOzBxpIA",
+        "original_url": "https://www.youtube.com/watch?v=EdWZOzBxpIA"
+    },
+    {
+        "index": 40,
+        "title": "PyLadies Around the World - La Paz",
+        "url": "https://www.youtube.com/watch?v=KhyW0h-Iy1o",
+        "video_id": "KhyW0h-Iy1o",
+        "uploader": "PyLadies",
+        "uploader_id": "@PyLadiesGlobal",
+        "uploader_url": "https://www.youtube.com/@PyLadiesGlobal",
+        "upload_date": "20241114",
+        "duration": 91,
+        "view_count": 8,
+        "like_count": 0,
+        "comment_count": null,
+        "tags": [
+            "Python",
+            "PyLadies",
+            "PyLadiesCon"
+        ],
+        "categories": [
+            "Nonprofits & Activism"
+        ],
+        "description": "",
+        "thumbnail": "https://i.ytimg.com/vi/KhyW0h-Iy1o/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=KhyW0h-Iy1o",
+        "original_url": "https://www.youtube.com/watch?v=KhyW0h-Iy1o"
+    },
+    {
+        "index": 41,
+        "title": "PyLadies Around the World - Maputo",
+        "url": "https://www.youtube.com/watch?v=cF36Iykfaf0",
+        "video_id": "cF36Iykfaf0",
+        "uploader": "PyLadies",
+        "uploader_id": "@PyLadiesGlobal",
+        "uploader_url": "https://www.youtube.com/@PyLadiesGlobal",
+        "upload_date": "20241114",
+        "duration": 121,
+        "view_count": 14,
+        "like_count": 0,
+        "comment_count": null,
+        "tags": [
+            "Python",
+            "PyLadies",
+            "PyLadiesCon"
+        ],
+        "categories": [
+            "Nonprofits & Activism"
+        ],
+        "description": "",
+        "thumbnail": "https://i.ytimg.com/vi/cF36Iykfaf0/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=cF36Iykfaf0",
+        "original_url": "https://www.youtube.com/watch?v=cF36Iykfaf0"
+    },
+    {
+        "index": 42,
+        "title": "PyLadies Around the World - Dublin",
+        "url": "https://www.youtube.com/watch?v=We6rqhhkFs4",
+        "video_id": "We6rqhhkFs4",
+        "uploader": "PyLadies",
+        "uploader_id": "@PyLadiesGlobal",
+        "uploader_url": "https://www.youtube.com/@PyLadiesGlobal",
+        "upload_date": "20241114",
+        "duration": 65,
+        "view_count": 8,
+        "like_count": 0,
+        "comment_count": null,
+        "tags": [
+            "Python",
+            "PyLadies",
+            "PyLadiesCon"
+        ],
+        "categories": [
+            "Nonprofits & Activism"
+        ],
+        "description": "",
+        "thumbnail": "https://i.ytimg.com/vi/We6rqhhkFs4/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=We6rqhhkFs4",
+        "original_url": "https://www.youtube.com/watch?v=We6rqhhkFs4"
+    },
+    {
+        "index": 43,
+        "title": "PyLadies Around the World - Kampala",
+        "url": "https://www.youtube.com/watch?v=hCRjCML6XDg",
+        "video_id": "hCRjCML6XDg",
+        "uploader": "PyLadies",
+        "uploader_id": "@PyLadiesGlobal",
+        "uploader_url": "https://www.youtube.com/@PyLadiesGlobal",
+        "upload_date": "20241114",
+        "duration": 88,
+        "view_count": 11,
+        "like_count": 1,
+        "comment_count": null,
+        "tags": [
+            "Python",
+            "PyLadies",
+            "PyLadiesCon"
+        ],
+        "categories": [
+            "Nonprofits & Activism"
+        ],
+        "description": "",
+        "thumbnail": "https://i.ytimg.com/vi/hCRjCML6XDg/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=hCRjCML6XDg",
+        "original_url": "https://www.youtube.com/watch?v=hCRjCML6XDg"
+    },
+    {
+        "index": 44,
+        "title": "PyLadies Around the World - COLOMBIA",
+        "url": "https://www.youtube.com/watch?v=yIXiLnoZw6Y",
+        "video_id": "yIXiLnoZw6Y",
+        "uploader": "PyLadies",
+        "uploader_id": "@PyLadiesGlobal",
+        "uploader_url": "https://www.youtube.com/@PyLadiesGlobal",
+        "upload_date": "20241114",
+        "duration": 118,
+        "view_count": 8,
+        "like_count": 1,
+        "comment_count": null,
+        "tags": [
+            "Python",
+            "PyLadies"
+        ],
+        "categories": [
+            "Nonprofits & Activism"
+        ],
+        "description": "",
+        "thumbnail": "https://i.ytimg.com/vi/yIXiLnoZw6Y/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=yIXiLnoZw6Y",
+        "original_url": "https://www.youtube.com/watch?v=yIXiLnoZw6Y"
+    },
+    {
+        "index": 45,
+        "title": "PyLadies Around the World - Cochabamba",
+        "url": "https://www.youtube.com/watch?v=dxgQoDxvYfo",
+        "video_id": "dxgQoDxvYfo",
+        "uploader": "PyLadies",
+        "uploader_id": "@PyLadiesGlobal",
+        "uploader_url": "https://www.youtube.com/@PyLadiesGlobal",
+        "upload_date": "20241114",
+        "duration": 110,
+        "view_count": 7,
+        "like_count": 0,
+        "comment_count": null,
+        "tags": [
+            "Python",
+            "PyLadies",
+            "PyLadiesCon"
+        ],
+        "categories": [
+            "Nonprofits & Activism"
+        ],
+        "description": "",
+        "thumbnail": "https://i.ytimg.com/vi/dxgQoDxvYfo/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=dxgQoDxvYfo",
+        "original_url": "https://www.youtube.com/watch?v=dxgQoDxvYfo"
+    },
+    {
+        "index": 46,
+        "title": "PyLadies Around the World - Cleveland",
+        "url": "https://www.youtube.com/watch?v=e0A2K_Jx3So",
+        "video_id": "e0A2K_Jx3So",
+        "uploader": "PyLadies",
+        "uploader_id": "@PyLadiesGlobal",
+        "uploader_url": "https://www.youtube.com/@PyLadiesGlobal",
+        "upload_date": "20241114",
+        "duration": 61,
+        "view_count": 6,
+        "like_count": 0,
+        "comment_count": null,
+        "tags": [
+            "Python",
+            "PyLadies",
+            "PyLadiesCon"
+        ],
+        "categories": [
+            "Nonprofits & Activism"
+        ],
+        "description": "",
+        "thumbnail": "https://i.ytimg.com/vi/e0A2K_Jx3So/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=e0A2K_Jx3So",
+        "original_url": "https://www.youtube.com/watch?v=e0A2K_Jx3So"
+    },
+    {
+        "index": 47,
+        "title": "PyLadies Around the World - BUDAPEST",
+        "url": "https://www.youtube.com/watch?v=pZFue-F8XTo",
+        "video_id": "pZFue-F8XTo",
+        "uploader": "PyLadies",
+        "uploader_id": "@PyLadiesGlobal",
+        "uploader_url": "https://www.youtube.com/@PyLadiesGlobal",
+        "upload_date": "20241114",
+        "duration": 133,
+        "view_count": 8,
+        "like_count": 0,
+        "comment_count": null,
+        "tags": [
+            "Python",
+            "PyLadies",
+            "PyLadiesCon"
+        ],
+        "categories": [
+            "Nonprofits & Activism"
+        ],
+        "description": "",
+        "thumbnail": "https://i.ytimg.com/vi/pZFue-F8XTo/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=pZFue-F8XTo",
+        "original_url": "https://www.youtube.com/watch?v=pZFue-F8XTo"
+    }
+]
