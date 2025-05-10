@@ -1,0 +1,562 @@
+[
+    {
+        "index": 1,
+        "title": "Friday Keynote: Robin McNeill, Chief Executive Officer of Space Operations New Zealand",
+        "url": "https://www.youtube.com/watch?v=1YiJLkE5ii8",
+        "video_id": "1YiJLkE5ii8",
+        "uploader": "Python New Zealand",
+        "uploader_id": "@PythonNewZealand",
+        "uploader_url": "https://www.youtube.com/@PythonNewZealand",
+        "upload_date": "20231009",
+        "duration": 3417,
+        "view_count": 233,
+        "like_count": 3,
+        "comment_count": null,
+        "tags": [
+            "Kiwi PyCon"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "Robin McNeill was appointed CEO of Space Operations New Zealand in October 2021. He began his career in 1981 as an engineer designing and building remote and rural telecommunications networks in Southland and, later, the Pacific region.\n\nHe has built satellite ground stations in Antarctica, the Equator and half-way between. Mr McNeill championed and developed the Awarua Satellite Ground Station, starting in 2004 to support the European Space Agency's ATV launch campaigns.\n\nMr McNeill is a Fellow of Engineering New Zealand, Senior Member of IEEE and is an Adjunct Fellow at the Department of Electrical and Computer Engineering at the University of Canterbury. He is an Expert on the International Astronautical Federation’s Space Operations Committee and was presented the Rabone Award for Engineering Excellence in 2016.\n\nHe was made a Member of the New Zealand Order of Merit in 2017.",
+        "thumbnail": "https://i.ytimg.com/vi/1YiJLkE5ii8/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=1YiJLkE5ii8",
+        "original_url": "https://www.youtube.com/watch?v=1YiJLkE5ii8"
+    },
+    {
+        "index": 2,
+        "title": "Python Code Organisation Without Tears by Grant Paton Simpson",
+        "url": "https://www.youtube.com/watch?v=0QmY2k4cD7k",
+        "video_id": "0QmY2k4cD7k",
+        "uploader": "Python New Zealand",
+        "uploader_id": "@PythonNewZealand",
+        "uploader_url": "https://www.youtube.com/@PythonNewZealand",
+        "upload_date": "20231009",
+        "duration": 1504,
+        "view_count": 324,
+        "like_count": 13,
+        "comment_count": null,
+        "tags": [
+            "Kiwi PyCon"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "You create a Python script – it runs. You split your code into modules – it still runs (unless you accidentally do circular importing). Python rocks! You organise everything into folders – now you have importing problems and your code stops running :-(. You try random “solutions” from Stack Overflow: add empty init.py files everywhere; swap back and forth between relative and absolute importing; hack sys.path; consider hacking package; read endless “explanations”, many of them out-of-date. Tears. This talk provides simple guidelines that always work. Never be anxious when considering code re-organisation again.",
+        "thumbnail": "https://i.ytimg.com/vi/0QmY2k4cD7k/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=0QmY2k4cD7k",
+        "original_url": "https://www.youtube.com/watch?v=0QmY2k4cD7k"
+    },
+    {
+        "index": 3,
+        "title": "A practical guide to using OpenTelemetry in Python by Tom Eastman.",
+        "url": "https://www.youtube.com/watch?v=R8BYnL-Yp1w",
+        "video_id": "R8BYnL-Yp1w",
+        "uploader": "Python New Zealand",
+        "uploader_id": "@PythonNewZealand",
+        "uploader_url": "https://www.youtube.com/@PythonNewZealand",
+        "upload_date": "20231010",
+        "duration": 1881,
+        "view_count": 10097,
+        "like_count": 166,
+        "comment_count": null,
+        "tags": [
+            "Kiwi PyCon"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "Modern development has definitely moved past \"logs\" these days. Structured logs are a great start, but nowadays there are frameworks that give you a vast amount of data about the internals of your application, in ways that remain usable even when your application gets... complex.\n\nOpenTelemetry is \"a collection of tools, APIs, and SDKs. Use it to instrument, generate, collect, and export telemetry data (metrics, logs, and traces) to help you analyze your software’s performance and behavior.\"\n\nOkay, so how do I use it?\n\nIn this talk, I'd like to present you with a practical guide to getting underway with using the Python OpenTelemetry SDKs and APIs. How to get them integrated into your application, and how to get the most out of them.",
+        "thumbnail": "https://i.ytimg.com/vi/R8BYnL-Yp1w/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=R8BYnL-Yp1w",
+        "original_url": "https://www.youtube.com/watch?v=R8BYnL-Yp1w"
+    },
+    {
+        "index": 4,
+        "title": "Moving from unittest to pytest by Tim Penhey",
+        "url": "https://www.youtube.com/watch?v=z1gh7GBuQZo",
+        "video_id": "z1gh7GBuQZo",
+        "uploader": "Python New Zealand",
+        "uploader_id": "@PythonNewZealand",
+        "uploader_url": "https://www.youtube.com/@PythonNewZealand",
+        "upload_date": "20231009",
+        "duration": 2504,
+        "view_count": 492,
+        "like_count": 12,
+        "comment_count": null,
+        "tags": [
+            "Kiwi PyCon"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "A long time python programmer. Was taught good testing practices by members of my team from a project in the distant past.\n\nHave taken these practices with me to new companies and teams.\n\nCurrently working at Stacklet aiming to improve companies security and compliance posture in public clouds.",
+        "thumbnail": "https://i.ytimg.com/vi/z1gh7GBuQZo/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=z1gh7GBuQZo",
+        "original_url": "https://www.youtube.com/watch?v=z1gh7GBuQZo"
+    },
+    {
+        "index": 5,
+        "title": "Using React as a template language in Flask by Paul Hallett",
+        "url": "https://www.youtube.com/watch?v=81LWuqHI23E",
+        "video_id": "81LWuqHI23E",
+        "uploader": "Python New Zealand",
+        "uploader_id": "@PythonNewZealand",
+        "uploader_url": "https://www.youtube.com/@PythonNewZealand",
+        "upload_date": "20231009",
+        "duration": 1646,
+        "view_count": 397,
+        "like_count": 7,
+        "comment_count": null,
+        "tags": [
+            "Kiwi PyCon"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "At Sharesies we build our retail app in React, with a Python API backend.\n\nBut our \"Operator Tools\" is a different story, and in late 2021 we were rapidly growing and needed an alternative way of delivering type-safe, quality features to meet the demands of our growing userbase. The result was a framework that was focused on developer productivity, and I'm going to show you how it works!",
+        "thumbnail": "https://i.ytimg.com/vi_webp/81LWuqHI23E/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=81LWuqHI23E",
+        "original_url": "https://www.youtube.com/watch?v=81LWuqHI23E"
+    },
+    {
+        "index": 6,
+        "title": "Automate business processes for all your companies with Odoo by Danny Adair & Graeme Gellatly",
+        "url": "https://www.youtube.com/watch?v=j2NKLNfdNBM",
+        "video_id": "j2NKLNfdNBM",
+        "uploader": "Python New Zealand",
+        "uploader_id": "@PythonNewZealand",
+        "uploader_url": "https://www.youtube.com/@PythonNewZealand",
+        "upload_date": "20231010",
+        "duration": 2668,
+        "view_count": 241,
+        "like_count": 8,
+        "comment_count": null,
+        "tags": [
+            "Kiwi PyCon"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "Graeme and Danny will present real life challenges and solutions for a multi-company group in manufacturing and trade, drawing on 12 years of professional experiences with the Python-based business management system Odoo.\n\nA focus will be on the automation of core business processes, and how to optimise such automations to save time and money.",
+        "thumbnail": "https://i.ytimg.com/vi/j2NKLNfdNBM/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=j2NKLNfdNBM",
+        "original_url": "https://www.youtube.com/watch?v=j2NKLNfdNBM"
+    },
+    {
+        "index": 7,
+        "title": "DuckDB: Supercharging Your Data Crunching  by Richard Wesley",
+        "url": "https://www.youtube.com/watch?v=3EcOJMDKB7Q",
+        "video_id": "3EcOJMDKB7Q",
+        "uploader": "Python New Zealand",
+        "uploader_id": "@PythonNewZealand",
+        "uploader_url": "https://www.youtube.com/@PythonNewZealand",
+        "upload_date": "20231010",
+        "duration": 1844,
+        "view_count": 5073,
+        "like_count": 151,
+        "comment_count": null,
+        "tags": [
+            "Kiwi PyCon"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "Until recently Richard was a Principal Software Engineer and then a Senior Research Scientist at data visualisation pioneer Tableau Software. After failing to retire, he now divides his time between working on temporal analytics for the DuckDB Project and supporting the energy transition.",
+        "thumbnail": "https://i.ytimg.com/vi/3EcOJMDKB7Q/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=3EcOJMDKB7Q",
+        "original_url": "https://www.youtube.com/watch?v=3EcOJMDKB7Q"
+    },
+    {
+        "index": 8,
+        "title": "Using Python to build gateways to space by Chris Bull",
+        "url": "https://www.youtube.com/watch?v=kKJXb9O20IQ",
+        "video_id": "kKJXb9O20IQ",
+        "uploader": "Python New Zealand",
+        "uploader_id": "@PythonNewZealand",
+        "uploader_url": "https://www.youtube.com/@PythonNewZealand",
+        "upload_date": "20231011",
+        "duration": 2102,
+        "view_count": 247,
+        "like_count": 3,
+        "comment_count": null,
+        "tags": [
+            "Kiwi PyCon"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "With recent innovation in the space sector rapidly improving both access to and utilisation of space, scalable and affordable solutions are needed for communicating with the ever-growing number of spacecraft in orbit. To tackle this problem, we at Space Operations New Zealand are leveraging our 15+ years of heritage in providing satellite telecommunications, to develop cutting-edge systems for connecting the increasingly diverse range of satellite operators with their spacecraft. We are also researching novel ways to rapidly identify and locate spacecraft during the most dangerous phase of their life cycle: immediately after launch.\n\nIn this talk, I will discuss our current research and development projects, and the central role Python plays in them. I will also explore the benefits of using Python for our core development and discuss the reasons we do not use it for all our applications.",
+        "thumbnail": "https://i.ytimg.com/vi/kKJXb9O20IQ/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=kKJXb9O20IQ",
+        "original_url": "https://www.youtube.com/watch?v=kKJXb9O20IQ"
+    },
+    {
+        "index": 9,
+        "title": "Sometimes this is a pipe, or close enough by David Hood.",
+        "url": "https://www.youtube.com/watch?v=R5GW3A7_aJ0",
+        "video_id": "R5GW3A7_aJ0",
+        "uploader": "Python New Zealand",
+        "uploader_id": "@PythonNewZealand",
+        "uploader_url": "https://www.youtube.com/@PythonNewZealand",
+        "upload_date": "20231011",
+        "duration": 1779,
+        "view_count": 109,
+        "like_count": 2,
+        "comment_count": null,
+        "tags": [
+            "Kiwi PyCon"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "With decades of experience in teaching people to use research software, and wide ranging topics of interest, I have particular expertise in analysing and explaining New Zealand public/ open data.",
+        "thumbnail": "https://i.ytimg.com/vi/R5GW3A7_aJ0/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=R5GW3A7_aJ0",
+        "original_url": "https://www.youtube.com/watch?v=R5GW3A7_aJ0"
+    },
+    {
+        "index": 10,
+        "title": "Saturday keynote: You're Doing Great! The underappreciated art of appreciation by  Loren Crary",
+        "url": "https://www.youtube.com/watch?v=z2uwEwsVguw",
+        "video_id": "z2uwEwsVguw",
+        "uploader": "Python New Zealand",
+        "uploader_id": "@PythonNewZealand",
+        "uploader_url": "https://www.youtube.com/@PythonNewZealand",
+        "upload_date": "20231011",
+        "duration": 3042,
+        "view_count": 92,
+        "like_count": 1,
+        "comment_count": null,
+        "tags": [
+            "Kiwi PyCon"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "Loren is the Director of Resource Development for the Python Software Foundation. She has previously worked/volunteered/made coffee at a variety of nonprofit and other organizations including a farm in Boston, a hotel in Uganda, and a public interest law office in Manhattan. Most recently, she spent seven years at a social enterprise that works with teenagers in East Africa to practice soft skills and entrepreneurship. She is a graduate of Stanford Law School. She lives in New York City with her wee rescue dog, Penny.",
+        "thumbnail": "https://i.ytimg.com/vi/z2uwEwsVguw/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgUihgMA8=&rs=AOn4CLAau50MnEvRJ7WhOaFRBbahudMdWQ",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=z2uwEwsVguw",
+        "original_url": "https://www.youtube.com/watch?v=z2uwEwsVguw"
+    },
+    {
+        "index": 11,
+        "title": "Python: from the perspective of an applied mathematician Indranil Ghosh",
+        "url": "https://www.youtube.com/watch?v=Svl3QBFN2nw",
+        "video_id": "Svl3QBFN2nw",
+        "uploader": "Python New Zealand",
+        "uploader_id": "@PythonNewZealand",
+        "uploader_url": "https://www.youtube.com/@PythonNewZealand",
+        "upload_date": "20231012",
+        "duration": 1820,
+        "view_count": 92,
+        "like_count": 4,
+        "comment_count": null,
+        "tags": [
+            "Kiwi PyCon"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "I spent my undergraduate days pursuing a major in Physics. I had no formal exposure to Python and all I understood during my first year were \"classical mechanics\" and \"laboratory practicals\". It was during the semester break that year when I accidentally bumped into a gold mine, a beautiful pedagogical introduction to Python. This talk tells the story of this unexpected encounter, and how eventually it made me fall in love with Python. This talk tells the story of how my mindset totally changed surrounding what I envisioned to be when I finished my degrees. Obviously, it wasn't easy. The journey comes with a lot of hurdles. This is a story of how a programming language inculcated in me the courage to take the road not usually taken. I think I am making Robert Frost proud!\n\nThe general issue that I plan to address through this talk is how in mainstream academia taking risks is not that simple. I somehow managed to take the leap of faith and Python has always been my anchor. I simply hope the audience can resonate with this story of mine.\n\nThe purpose of this talk is twofold:\n1. To convey that it is perfectly fine to break free and pursue whatever career one is comfortable with. Python made me realize my goals.\n2. To give an overview of how I, a mathematics Ph.D. student, have been using Python for several projects ever since.",
+        "thumbnail": "https://i.ytimg.com/vi/Svl3QBFN2nw/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=Svl3QBFN2nw",
+        "original_url": "https://www.youtube.com/watch?v=Svl3QBFN2nw"
+    },
+    {
+        "index": 12,
+        "title": "Refactoring for fun and profit by Evan Kohilas",
+        "url": "https://www.youtube.com/watch?v=fgUIsOOHR0M",
+        "video_id": "fgUIsOOHR0M",
+        "uploader": "Python New Zealand",
+        "uploader_id": "@PythonNewZealand",
+        "uploader_url": "https://www.youtube.com/@PythonNewZealand",
+        "upload_date": "20231013",
+        "duration": 2770,
+        "view_count": 152,
+        "like_count": 4,
+        "comment_count": null,
+        "tags": [
+            "Kiwi PyCon"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "Ever been in a situation where you've hastily written a bunch of code, just to make something \"work\"?\n\nHave you then trembled with fear, looking at your single, thousand line file, with global variables, multi parameter functions, and zero classes, not knowing where to start?\n\nOr do you question why changing your complex code and fixing bugs takes so long?\n\nThen come and learn about how refactoring can not only be fun and educational, but also profitable!\n\nOften in programming projects, we find ourselves building layers and layers on top of a starting idea, without having been able to think about the long term design.\n\nAnd that's fine! But unless push comes to shove, we often don't get the time or incentive to sit down and clean it up, especially if it all works.\n\nIn this talk, we'll discuss why you should care about good pythonic code, and how refactoring can not only be profitable, but also a fun and educational experience!\n\nWe'll look at easy to use tools and techniques that Python offers to make the process faster and future proof.\n\nAnd finally, we'll cover some design principles and methodologies to keep in mind, alongside understandable real world examples.\n0:00 - Start\n0:17 - What is refactoring?\n1:01 - Why refactor?\n3:00 - Formatting\n4:45 - Linting\n5:44 - Abstracting\n9:12 - Integrated Development Environments\n11:17 - Typing\n15:57 - Refactoring examples\n19:11 - Named arguments\n23:30 - Documentation of code\n24:34 - Refactoring examples\n25:29 - Logging\n26:10 - Documentation of structure\n27:23 - Single responsibility principle\n29:08 - Don't Repeat Yourself\n30:21 - Refactoring examples\n31:13 - Keep It Simple Stupid\n32:47 - You Ain't Gonna Need It\n33:17 - Testing\n35:09 - Profiling\n35:55 - Refactoring examples\n37:09 - Outro\n38:57 - Question: Have you looked into using AI tools for refactoring?\n40:47 - Question answered after session.\n42:21 - Question: How much object oriented programming did you use at the end given that you started with functional programming?\n43:56 - Question: Do you have comments on understanding the data you're working in relation to refactoring?",
+        "thumbnail": "https://i.ytimg.com/vi_webp/fgUIsOOHR0M/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=fgUIsOOHR0M",
+        "original_url": "https://www.youtube.com/watch?v=fgUIsOOHR0M"
+    },
+    {
+        "index": 13,
+        "title": "A conversation for inclusion in tech",
+        "url": "https://www.youtube.com/watch?v=dOLCuTG0390",
+        "video_id": "dOLCuTG0390",
+        "uploader": "Python New Zealand",
+        "uploader_id": "@PythonNewZealand",
+        "uploader_url": "https://www.youtube.com/@PythonNewZealand",
+        "upload_date": "20231014",
+        "duration": 2441,
+        "view_count": 67,
+        "like_count": 2,
+        "comment_count": null,
+        "tags": [
+            "Kiwi PyCon"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "Samantha Nickson (she/her) – NZPUG member & Kiwi PyCon Advisory Board member – moderates a panel with Daisy Brenecki (she/her), Carlos Cordero (he/him), Loren Crary (she/her), Tom Eastman (he/his), and Kelsey Vavasour (she/they) in it.\nA circle/panel/conversation that people can bring their lunches to and sit in for the discussion.\nThis will be awesome and you can't miss it.",
+        "thumbnail": "https://i.ytimg.com/vi/dOLCuTG0390/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgUyhgMA8=&rs=AOn4CLCmrXeRZRy7HfBQQzbvELkyUVulmw",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=dOLCuTG0390",
+        "original_url": "https://www.youtube.com/watch?v=dOLCuTG0390"
+    },
+    {
+        "index": 14,
+        "title": "Building Kubernetes Operators with Python and Kopf by Sam Bishop",
+        "url": "https://www.youtube.com/watch?v=zsA9h_Sc4kQ",
+        "video_id": "zsA9h_Sc4kQ",
+        "uploader": "Python New Zealand",
+        "uploader_id": "@PythonNewZealand",
+        "uploader_url": "https://www.youtube.com/@PythonNewZealand",
+        "upload_date": "20231015",
+        "duration": 1857,
+        "view_count": 2493,
+        "like_count": 53,
+        "comment_count": null,
+        "tags": [
+            "Kiwi PyCon"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "Kubernetes Operators help manage complex, stateful applications, encapsulating operations and management that doesn't map well to existing Kubernetes functionality. While the official Operator Framework SDKs are great, did you know that you can also use Python and a handy framework called Kopf to write your own Operators?\n\nCome with me on a journey through the world of Kubernetes Operators, what are they, why you might want one, and how you can write one using Python and the Kopf (Kubernetes Operators Framework). Kopf makes it easy to write a Kubernetes Operator using Python's simplicity and expressiveness to control Kubernetes' complex, stateful applications.\n\nI'll cover an overview of what Kubernetes Operators are for anyone unfamiliar with them or the Kubernetes mechanisms they use under the hood. Then its on to Kopf, exploring its architecture, advantages, and how it fits into the Kubernetes ecosystem, what it does and what it doesn't do. Finishing up with a walk through an example of a basic Kubernetes Operator using Kopf, discussing best practices along the way.\n\nWhether you're a Pythonista interested in Kubernetes, or a Kubernetes enthusiast eager to leverage Python's power, this talk is for you.",
+        "thumbnail": "https://i.ytimg.com/vi_webp/zsA9h_Sc4kQ/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=zsA9h_Sc4kQ",
+        "original_url": "https://www.youtube.com/watch?v=zsA9h_Sc4kQ"
+    },
+    {
+        "index": 15,
+        "title": "Delivering Customer Projects in a Rapidly Evolving Python Landscape by Romi Dexter & Benoit Chabord",
+        "url": "https://www.youtube.com/watch?v=IpRKY2dhGPM",
+        "video_id": "IpRKY2dhGPM",
+        "uploader": "Python New Zealand",
+        "uploader_id": "@PythonNewZealand",
+        "uploader_url": "https://www.youtube.com/@PythonNewZealand",
+        "upload_date": "20231014",
+        "duration": 2550,
+        "view_count": 146,
+        "like_count": 5,
+        "comment_count": null,
+        "tags": [
+            "Kiwi PyCon"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "This talk will explore practical strategies for managing and delivering customer projects amid strict budgets, timelines, and dynamic requirements. We will delve into best practices to ensure the client's expectations for security, maintainability, scalability, and availability are consistently met. Participants will learn how to effectively collaborate with less technical teams, extract the necessary information, and standardise development to reduce new project overhead.\n\nIn the context of Python development, we will discuss the differentiation between common and custom code, and how to judiciously use each to maintain project efficiency and uniqueness. The presentation will underscore the importance of peer reviews and a team-play approach, highlighting how these foster knowledge sharing, continuous improvement, and code quality.\n\nThe talk will also provide insights on conveying progress, risks, and challenges to the broader team, ensuring transparency and early mitigation of potential issues. We will explore strategies to meet increasing demand, including continuous hiring and effectively onboarding graduates. The challenges of rapid hiring will be addressed, along with strategies to quickly identify skill gaps.\n\nWe will delve into the importance of establishing a supportive, ego-free environment that encourages open communication, mutual respect, and continual learning.\n\nThe talk aims to empower Python developers and team leaders with the knowledge and tools to improve project delivery, team collaboration, and customer satisfaction in a challenging, fast-paced environment.",
+        "thumbnail": "https://i.ytimg.com/vi_webp/IpRKY2dhGPM/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=IpRKY2dhGPM",
+        "original_url": "https://www.youtube.com/watch?v=IpRKY2dhGPM"
+    },
+    {
+        "index": 16,
+        "title": "Building an OAuth2 Authorisation Server with Flask and Authlib by Sam Watson",
+        "url": "https://www.youtube.com/watch?v=zXKkDS_EYM0",
+        "video_id": "zXKkDS_EYM0",
+        "uploader": "Python New Zealand",
+        "uploader_id": "@PythonNewZealand",
+        "uploader_url": "https://www.youtube.com/@PythonNewZealand",
+        "upload_date": "20231016",
+        "duration": 1368,
+        "view_count": 1667,
+        "like_count": 19,
+        "comment_count": null,
+        "tags": [
+            "Kiwi PyCon"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "It’s pretty easy to implement an OAuth2 client, but not very straightforward to implement an authorisation server, the part that handles the actual authorising of users. In this talk I’ll go over what an authorisation server is and how I built one for a portfolio of mobile games.",
+        "thumbnail": "https://i.ytimg.com/vi/zXKkDS_EYM0/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=zXKkDS_EYM0",
+        "original_url": "https://www.youtube.com/watch?v=zXKkDS_EYM0"
+    },
+    {
+        "index": 17,
+        "title": "Automating Victory: Beating browser games with accessible Python by Jon Gaul",
+        "url": "https://www.youtube.com/watch?v=6LDu3oCkJn4",
+        "video_id": "6LDu3oCkJn4",
+        "uploader": "Python New Zealand",
+        "uploader_id": "@PythonNewZealand",
+        "uploader_url": "https://www.youtube.com/@PythonNewZealand",
+        "upload_date": "20231016",
+        "duration": 1796,
+        "view_count": 111,
+        "like_count": 4,
+        "comment_count": null,
+        "tags": [
+            "Kiwi PyCon"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "You might already know about how Python can automate tasks using data stored in files or by making API calls, but what about more when the task is more complex? In this talk we'll explore the power of intuitive Python libraries for I/O, then use them to automatically beat an in-browser video game using the same strategies and inputs as a human. We’ll also discuss applying project management skills to take personal projects from ideas to successes. Whether you want to help robots take over the world or a good reminder of why you have to prove you’re human online, this talk is for you!",
+        "thumbnail": "https://i.ytimg.com/vi_webp/6LDu3oCkJn4/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=6LDu3oCkJn4",
+        "original_url": "https://www.youtube.com/watch?v=6LDu3oCkJn4"
+    },
+    {
+        "index": 18,
+        "title": "The Complexity of Simplicity by Christopher Neugebauer",
+        "url": "https://www.youtube.com/watch?v=wQW-rauVVeo",
+        "video_id": "wQW-rauVVeo",
+        "uploader": "Python New Zealand",
+        "uploader_id": "@PythonNewZealand",
+        "uploader_url": "https://www.youtube.com/@PythonNewZealand",
+        "upload_date": "20231016",
+        "duration": 1738,
+        "view_count": 317,
+        "like_count": 5,
+        "comment_count": null,
+        "tags": [
+            "Kiwi PyCon"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "The Python community has long celebrated simplicity as a virtue. For people coming from more complicated languages, an expressive syntax makes it simpler to express complex ideas. For people new to programming, Python’s choice of program structure and built-ins make it simple to learn.\n\nBut Python has grown. Developers are using Python in more mission-critical places, Python codebases are getting bigger, and the features that make Python simple in small programs don’t matter as much.\n\nIt’s little wonder that the Python ecosystem’s relationship with simplicity has changed a lot since the first release of Python 3: Libraries like requests (and lately httpx) focused on simplifying common tasks that the standard library made complex, at the expense of a more complex architecture; type hints added complexity to writing code to prioritise simplicity or testing and maintenance; newer code quality tools like ruff have prioritised simplifying development workflows by using a single complex tool, instead of focusing on simpler tools that serve a single purpose.\n\nIn this talk, we’ll explore how the Python community used to think about simplicity, how we think about simplicity now that Python is used for ever more complex tasks, and consider whether “simple is better than complex” is advice that Pythonistas can meaningfully follow.",
+        "thumbnail": "https://i.ytimg.com/vi/wQW-rauVVeo/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgUihgMA8=&rs=AOn4CLAigCp4UgZGbT8zq-b2ZYyj6LrvXQ",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=wQW-rauVVeo",
+        "original_url": "https://www.youtube.com/watch?v=wQW-rauVVeo"
+    },
+    {
+        "index": 19,
+        "title": "Lightning Talks: Rapid fire five-minute talks hosted by Christopher Neugebauer",
+        "url": "https://www.youtube.com/watch?v=KpomfsPtuC4",
+        "video_id": "KpomfsPtuC4",
+        "uploader": "Python New Zealand",
+        "uploader_id": "@PythonNewZealand",
+        "uploader_url": "https://www.youtube.com/@PythonNewZealand",
+        "upload_date": "20231017",
+        "duration": 4851,
+        "view_count": 235,
+        "like_count": 6,
+        "comment_count": null,
+        "tags": [
+            "Kiwi PyCon"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "Christopher Neugebauer is an Australian developer, speaker, and serial community conference organiser, who presently lives in the United States.\n\nHe serves as a Director of the Python Software Foundation, and is co-organiser of the acclaimed North Bay Python conference, a boutique one-track conference run in unusual venues — include an old vaudeville theatre, and more recently a barn on a farm — in Petaluma, California.\n\nChristopher is also a contributor on the open source Pants build system, helping make Python’s testing, correctness, and style tools accessible and fast for developers, no matter how big their codebase.",
+        "thumbnail": "https://i.ytimg.com/vi_webp/KpomfsPtuC4/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=KpomfsPtuC4",
+        "original_url": "https://www.youtube.com/watch?v=KpomfsPtuC4"
+    },
+    {
+        "index": 20,
+        "title": "Robust Data Workflows Made Easy: Classes with Pandera and Pydantic by Nathan McDougall",
+        "url": "https://www.youtube.com/watch?v=zXsOcrsLk7g",
+        "video_id": "zXsOcrsLk7g",
+        "uploader": "Python New Zealand",
+        "uploader_id": "@PythonNewZealand",
+        "uploader_url": "https://www.youtube.com/@PythonNewZealand",
+        "upload_date": "20231015",
+        "duration": 1372,
+        "view_count": 3014,
+        "like_count": 120,
+        "comment_count": null,
+        "tags": [
+            "Kiwi PyCon"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "In this talk, we explore dataclass-style approaches to data validation and class design.\nLearn a way to keep your DataFrames under control, along with other complex data structures!\n\nSince Python 3.7, dataclasses have been a welcome addition to Python. In this talk, we explore similar options, turbocharged with data validation: DataFrameModel from the pandera package and BaseModel from the pydantic package. We will see how these can make your data pipelines simpler, more robust, as well as easier to document and test. The talk will feature plenty of examples, showing how you can avoid making \"pandas Bolognese\" out of your code.",
+        "thumbnail": "https://i.ytimg.com/vi/zXsOcrsLk7g/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=zXsOcrsLk7g",
+        "original_url": "https://www.youtube.com/watch?v=zXsOcrsLk7g"
+    }
+]
