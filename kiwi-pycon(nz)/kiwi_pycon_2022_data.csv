@@ -1,0 +1,429 @@
+﻿index,title,url,video_id,uploader,uploader_id,uploader_url,upload_date,duration,view_count,like_count,comment_count,tags,categories,description,thumbnail,age_limit,is_live,was_live,availability,webpage_url,original_url
+1,"""Friday Keynote: The team with 30 million players"" - Laura Bell (Kiwi Pycon XI)",https://www.youtube.com/watch?v=KZcHnbnp18Q,KZcHnbnp18Q,Python New Zealand,@PythonNewZealand,https://www.youtube.com/@PythonNewZealand,20220824,2269,443,7,,"LauraBell,kiwipycon,kiwipyconxi",Education,"(Laura Bell) Facing a global pandemic has been (and continues to be) an incredibly challenging period. There are very few people who have not seen dramatic impacts on their lives as a result.
+
+While we as humans have been facing this struggle, a similar problem has been emerging in our software development community. Not only are we finding more vulnerabilities in our software than ever, but those weaknesses have been affecting a larger proportion of our software ecosystem.Are there lessons we can take from the last few years and the changes we have made to protect people from a pandemic and apply them to our software ecosystem? I believe there are.
+
+In this talk, we will look at how the relationships between software projects improve our world whilst also making us vulnerable. We will do this by diving into the structures between codebases and looking at how these affect the risk faced by our people, data, and systems.
+
+We will then take a look at the harm that has been caused (and could yet be caused) by exploiting this ecosystem and the steps we can take to reduce this risk and increase the resilience of all our systems — steps that mirror the hard lessons we have learned as humans over the past few years. These steps include:
+
+Tracing: Awareness of our software coupling and interconnectivity
+Distancing: Architectural patterns for maintaining safe distances between components and systems
+Testing: Reduction of risk through the use of manual and automated tools
+Prevention:  Through the use of patches and updates
+Response: Preparing to respond when a problem happens.
+
+https://pretalx.com/kiwipycon-2021/talk/3L9QMN/
+
+kiwipycon kiwipyconxi kiwipycon22 kiwipycon2022 pycon python
+
+Kiwi PyCon is an annual conference aimed at promoting and educating people about the Python programming language.
+
+Licenced as CC BY-NC-SA
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Fri Aug 19 09:20:00 2022 at Great Hall",https://i.ytimg.com/vi/KZcHnbnp18Q/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=KZcHnbnp18Q,https://www.youtube.com/watch?v=KZcHnbnp18Q
+2,"""Saturday Keynote: Convention and Construction"" - Christopher Neugebauer (Kiwi Pycon XI)",https://www.youtube.com/watch?v=GCgzTWrwzxs,GCgzTWrwzxs,Python New Zealand,@PythonNewZealand,https://www.youtube.com/@PythonNewZealand,20220824,3670,387,9,,"ChristopherNeugebauer,kiwipycon,kiwipyconxi",Education,"(Christopher Neugebauer) Python is a language where there should be one (and preferably only one) obvious way to do things. But how does something become the obvious way to do a thing?
+
+Convention is the idea that most people agree on the right way to do things, and encourage other people to do things that way. Construction is the idea that providing the structures to do things in a particular way will cause people to do things that way. 
+
+Both Convention and Construction can be used to shape the norms of a programming language.
+
+Python, unusually amongst popular languages, prefers rigid structures as a way to extend the language. It prefers Construction over Convention. In this talk, I'm going to explore how Python's preference towards rigid structure has shaped its growth, and what role — if any — Convention has played in shaping Python.
+
+https://pretalx.com/kiwipycon-2021/talk/QJG97G/
+
+kiwipycon kiwipyconxi kiwipycon22 kiwipycon2022 pycon python
+
+Kiwi PyCon is an annual conference aimed at promoting and educating people about the Python programming language.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Sat Aug 20 09:20:00 2022 at Great Hall",https://i.ytimg.com/vi/GCgzTWrwzxs/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=GCgzTWrwzxs,https://www.youtube.com/watch?v=GCgzTWrwzxs
+3,"Sunday Keynote: Code Like a scientist: Free software and ""Good enough"" practice",https://www.youtube.com/watch?v=P2kriL0UfpU,P2kriL0UfpU,Python New Zealand,@PythonNewZealand,https://www.youtube.com/@PythonNewZealand,20220824,2821,197,5,,"HéloïseStevance,kiwipycon,kiwipyconxi",Education,"(Héloïse Stevance) As a researcher I am paid to do science, not to write good code... but bad code can put my science in jeopardy. 
+Beyond science there are more and more professions where coding is a means to an end - best practices and code sharing can then take a back seat, but this is not free of consequences.
+In this talk I will share my perspectives on how to find the right balance between minimising risk (e.g. bugs) whilst maximising impact (e.g. results that get you paid).
+
+https://pretalx.com/kiwipycon-2021/talk/XGP9E7/
+
+kiwipycon kiwipyconxi kiwipycon22 kiwipycon2022 pycon python
+
+Kiwi PyCon is an annual conference aimed at promoting and educating people about the Python programming language.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Sun Aug 21 09:00:00 2022 at Great Hall",https://i.ytimg.com/vi/P2kriL0UfpU/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=P2kriL0UfpU,https://www.youtube.com/watch?v=P2kriL0UfpU
+4,"""Middleware Patterns for your Applications"" - Amit Saha (Kiwi Pycon XI)",https://www.youtube.com/watch?v=93hv4JYMeYw,93hv4JYMeYw,Python New Zealand,@PythonNewZealand,https://www.youtube.com/@PythonNewZealand,20220824,1923,217,10,,"AmitSaha,kiwipycon,kiwipyconxi",Education,"(Amit Saha) Middleware components are super useful to implement various functionality in your applications ranging from authentication and monitoring to caching and rate limiting. In this talk, you will learn patterns to implement middleware for your Python applications. This talk will show you how to implement shared logic as middleware in your  synchronous and asynchronous web applications as well as RPC applications (using gRPC).
+
+https://pretalx.com/kiwipycon-2021/talk/X9R7Q8/
+
+kiwipycon kiwipyconxi kiwipycon22 kiwipycon2022 pycon python
+
+Kiwi PyCon is an annual conference aimed at promoting and educating people about the Python programming language.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Sat Aug 20 16:40:00 2022 at Great Hall",https://i.ytimg.com/vi/93hv4JYMeYw/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=93hv4JYMeYw,https://www.youtube.com/watch?v=93hv4JYMeYw
+5,"""Handling Physical Units"" - Clinton Roy (Kiwi Pycon XI)",https://www.youtube.com/watch?v=aw7ZADfwOOM,aw7ZADfwOOM,Python New Zealand,@PythonNewZealand,https://www.youtube.com/@PythonNewZealand,20220824,1822,148,4,,"ClintonRoy,kiwipycon,kiwipyconxi",Education,"(Clinton Roy) How to include physical units from calculations in code. A look at the
+advantages and disadvantages. Includes several libraries that can be
+used with plain Python as well as larger array containers like Numpy.
+
+https://pretalx.com/kiwipycon-2021/talk/R7SEGZ/
+
+kiwipycon kiwipyconxi kiwipycon22 kiwipycon2022 pycon python
+
+Kiwi PyCon is an annual conference aimed at promoting and educating people about the Python programming language.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Sat Aug 20 15:20:00 2022 at Great Hall",https://i.ytimg.com/vi/aw7ZADfwOOM/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=aw7ZADfwOOM,https://www.youtube.com/watch?v=aw7ZADfwOOM
+6,"""The When of Python"" - Grant Paton-Simpson & Ben Denham (Kiwi Pycon XI)",https://www.youtube.com/watch?v=JnY5MEiqG44,JnY5MEiqG44,Python New Zealand,@PythonNewZealand,https://www.youtube.com/@PythonNewZealand,20220824,1662,332,17,,"GrantPaton-Simpson&BenDenham,kiwipycon,kiwipyconxi",Education,"Presentation slides are at when-of-python.github.io/kiwipycon2022. We've also launched a When of Python community initiative - follow us on https://twitter.com/WhenOfPython to find out more. If you want to comment on particular Python language features check out the blog at when-of-python.github.io/blog
+
+(Grant Paton-Simpson & Ben Denham) In 2001, the theme of the Ninth Annual International Python Conference was “Python Fits Your Brain”, but is that still true two decades later? Is a language with type hinting, structural pattern matching, and at least three different concurrency paradigms still brain-sized? Faced with so many implementation alternatives, it is often difficult to recognise which is the ""one obvious way to do it"". In this talk, we will explore how to decide when or when not to use a particular Python language feature, paradigm, or tool. We will tackle what we consider to be the most challenging decisions routinely faced by Python developers.
+
+https://pretalx.com/kiwipycon-2021/talk/QBSWJQ/
+
+kiwipycon kiwipyconxi kiwipycon22 kiwipycon2022 pycon python
+
+Kiwi PyCon is an annual conference aimed at promoting and educating people about the Python programming language.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Sat Aug 20 11:30:00 2022 at Great Hall",https://i.ytimg.com/vi/JnY5MEiqG44/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=JnY5MEiqG44,https://www.youtube.com/watch?v=JnY5MEiqG44
+7,"""What is deployment, anyway?"" - Katie McLaughlin (Kiwi Pycon XI)",https://www.youtube.com/watch?v=b1CqSs_jWAc,b1CqSs_jWAc,Python New Zealand,@PythonNewZealand,https://www.youtube.com/@PythonNewZealand,20220824,1870,108,4,,"KatieMcLaughlin,kiwipycon,kiwipyconxi",Education,"(Katie McLaughlin) So you’ve finished the DjangoGirls tutorial, but now you want to share it with the outside world, but how do you go about that?
+
+In this presentation, we will discuss the basics beyond running a Django project locally, and discuss the concepts and strategies around how to host your project.
+
+https://pretalx.com/kiwipycon-2021/talk/JTMKJF/
+
+kiwipycon kiwipyconxi kiwipycon22 kiwipycon2022 pycon python
+
+Kiwi PyCon is an annual conference aimed at promoting and educating people about the Python programming language.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Sat Aug 20 13:40:00 2022 at Great Hall",https://i.ytimg.com/vi/b1CqSs_jWAc/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=b1CqSs_jWAc,https://www.youtube.com/watch?v=b1CqSs_jWAc
+8,"""From futons to functions: the principles of good API design"" - Daisy Leigh Brenecki (Kiwi Pycon XI)",https://www.youtube.com/watch?v=wVLWFbNa6T4,wVLWFbNa6T4,Python New Zealand,@PythonNewZealand,https://www.youtube.com/@PythonNewZealand,20220825,1588,204,6,,"DaisyLeighBrenecki,kiwipycon,kiwipyconxi",Education,"(Daisy Leigh Brenecki) What do the designers of sofas and clock radios have to teach us about API design? This talk explores the work of influential industrial designer Dieter Rams, and what it can teach us about the tools we build for each other.
+
+https://pretalx.com/kiwipycon-2021/talk/JD7XFW/
+
+kiwipycon kiwipyconxi kiwipycon22 kiwipycon2022 pycon python
+
+Kiwi PyCon is an annual conference aimed at promoting and educating people about the Python programming language.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Sat Aug 20 16:00:00 2022 at Great Hall",https://i.ytimg.com/vi/wVLWFbNa6T4/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=wVLWFbNa6T4,https://www.youtube.com/watch?v=wVLWFbNa6T4
+9,"""Dependency Injection with Python"" - Bernard O'Leary (Kiwi Pycon XI)",https://www.youtube.com/watch?v=bPsI9rREypg,bPsI9rREypg,Python New Zealand,@PythonNewZealand,https://www.youtube.com/@PythonNewZealand,20220825,1700,1945,25,,"BernardO'Leary,kiwipycon,kiwipyconxi",Education,"(Bernard O'Leary) A discussion covering what the Dependency Injection pattern is, why you might want to use DI with your Python codebase, and how to implement it.
+
+https://pretalx.com/kiwipycon-2021/talk/88VNAZ/
+
+kiwipycon kiwipyconxi kiwipycon22 kiwipycon2022 pycon python
+
+Kiwi PyCon is an annual conference aimed at promoting and educating people about the Python programming language.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Sat Aug 20 10:50:00 2022 at Great Hall",https://i.ytimg.com/vi/bPsI9rREypg/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=bPsI9rREypg,https://www.youtube.com/watch?v=bPsI9rREypg
+10,"""Unconstrained Numerical Optimization using Python"" - Indranil Ghosh (Kiwi Pycon XI)",https://www.youtube.com/watch?v=2RVEmQOwyVo,2RVEmQOwyVo,Python New Zealand,@PythonNewZealand,https://www.youtube.com/@PythonNewZealand,20220825,4958,264,5,,"IndranilGhosh,kiwipycon,kiwipyconxi",Education,"(Indranil Ghosh) This tutorial is meant to be a pedagogical introduction to **numerical optimization**, mainly **unconstrained numerical optimization** with the help of the Python programming language. This presentation will cover both the theoretical background along with hands-on implementations of the optimization algorithms with Python making use of the four following scientific computing libraries extensively used: **numpy**, **scipy**, **autograd** and **matplotlib**.
+
+https://pretalx.com/kiwipycon-2021/talk/EFXQDP/
+
+kiwipycon kiwipyconxi kiwipycon22 kiwipycon2022 pycon python
+
+Kiwi PyCon is an annual conference aimed at promoting and educating people about the Python programming language.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Fri Aug 19 10:40:00 2022 at Rutherford’s Den Lecture Theatre",https://i.ytimg.com/vi/2RVEmQOwyVo/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=2RVEmQOwyVo,https://www.youtube.com/watch?v=2RVEmQOwyVo
+11,"""Lightning Talks"" -  (Kiwi Pycon XI)",https://www.youtube.com/watch?v=cNUkS8wbHZw,cNUkS8wbHZw,Python New Zealand,@PythonNewZealand,https://www.youtube.com/@PythonNewZealand,20220825,3581,400,6,,"kiwipycon,kiwipyconxi",Education,"() Lightning Talks
+
+https://pretalx.com/kiwipycon-2021/talk/QBBQVH/
+
+kiwipycon kiwipyconxi kiwipycon22 kiwipycon2022 pycon python
+
+Kiwi PyCon is an annual conference aimed at promoting and educating people about the Python programming language.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Sun Aug 21 13:00:00 2022 at Great Hall",https://i.ytimg.com/vi/cNUkS8wbHZw/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=cNUkS8wbHZw,https://www.youtube.com/watch?v=cNUkS8wbHZw
+12,"Leveraging Python data visualization tools for software design, R&D and performance analysis",https://www.youtube.com/watch?v=5w-Nt9hZM-E,5w-Nt9hZM-E,Python New Zealand,@PythonNewZealand,https://www.youtube.com/@PythonNewZealand,20220825,1719,257,4,,"JulienPringot,kiwipycon,kiwipyconxi",Education,"(Julien Pringot) Python is used by scientists and researchers worldwide, to gather, process, and analyze data. Tools like numpy, pandas, plotly, and graphviz can be leveraged to quickly transform data into statistics and diagrams.
+Providing summarized data and visual insight can prove invaluable to support better understanding during the software development process.
+This talk will focus on providing concrete examples of applying this approach to the prototyping, documentation, implementation, and performance analysis phases of the software development lifecycle.
+
+https://pretalx.com/kiwipycon-2021/talk/FQ8L99/
+
+kiwipycon kiwipyconxi kiwipycon22 kiwipycon2022 pycon python
+
+Kiwi PyCon is an annual conference aimed at promoting and educating people about the Python programming language.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Sun Aug 21 10:50:00 2022 at Great Hall",https://i.ytimg.com/vi/5w-Nt9hZM-E/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=5w-Nt9hZM-E,https://www.youtube.com/watch?v=5w-Nt9hZM-E
+13,"""A Guided Tour of Dunder Methods"" - Tom Clark (Kiwi Pycon XI)",https://www.youtube.com/watch?v=RYe_6COjfLE,RYe_6COjfLE,Python New Zealand,@PythonNewZealand,https://www.youtube.com/@PythonNewZealand,20220826,6162,208,2,,"TomClark,kiwipycon,kiwipyconxi",Education,"(Tom Clark) A big part of Python's appeal is its clear, expressive nature that lets
+us easily work with collections, files and file-like objects, and use
+overloaded operators. These things ""just work"" with built in and standard
+library types. They can just work with your classes too. All that's required
+is implementing the right _dunder methods_. You've seen these before, like
+`__init__()`. We call them dunder methods because they have leading and trailing underscores in their names.
+
+In this tutorial we will see what dunder methods are already doing for you,
+and then see how you can leverage their power in your own classes to help
+write more beautiful and readable code. If you have a handle on the basics
+of classes and objects and are interested in making them more powerful and
+_Pythonic_, then this tutorial will help you.
+
+Bonus: If you've ever wondered why `__init__()` takes a `self` argument, you'll learn why.
+
+https://pretalx.com/kiwipycon-2021/talk/DGT7BF/
+
+kiwipycon kiwipyconxi kiwipycon22 kiwipycon2022 pycon python
+
+Kiwi PyCon is an annual conference aimed at promoting and educating people about the Python programming language.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Fri Aug 19 10:40:00 2022 at Great Hall",https://i.ytimg.com/vi/RYe_6COjfLE/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=RYe_6COjfLE,https://www.youtube.com/watch?v=RYe_6COjfLE
+14,Keeping It Simple and Scalable: quick production-scale data pipelines,https://www.youtube.com/watch?v=uGby553QRlw,uGby553QRlw,Python New Zealand,@PythonNewZealand,https://www.youtube.com/@PythonNewZealand,20220826,1451,579,15,,"JennySahng,kiwipycon,kiwipyconxi",Education,"(Jenny Sahng) There are a lot of stories in Big Data about how big and fancy (and, critically for startups, expensive) things can get. In this talk, I’ll share how our lean little startup team bootstrapped our pipeline as simply and cheaply as possible using the Python skills that we already had. This enabled us to quickly reach the next stage of our startup’s growth, without getting bogged down by steep learning curves.
+
+I will talk about the thinking behind our decision to use Python to build out our production data pipeline, which powers our culture analytics dashboard product. Mostly it was “oh heck, oh heck, okay, let’s just use Python”, but in hindsight, we’re stoked with that choice, and I’ll explain why. I’ll also show some examples of how we’ve iterated on the pipeline as we’ve grown, now that the product is out in the wild serving real beta customers. I hope that by sharing our experience of using Python in production, it might lower the barrier for people who want to bring their data product to life, by encouraging them to give their MVP a shot with the Python that they already know.
+
+https://pretalx.com/kiwipycon-2021/talk/YPVCJG/
+
+kiwipycon kiwipyconxi kiwipycon22 kiwipycon2022 pycon python
+
+Kiwi PyCon is an annual conference aimed at promoting and educating people about the Python programming language.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Sun Aug 21 11:30:00 2022 at Great Hall",https://i.ytimg.com/vi/uGby553QRlw/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=uGby553QRlw,https://www.youtube.com/watch?v=uGby553QRlw
+15,"""An Introduction to Distributed Computation in Python"" - Adam Green (Kiwi Pycon XI)",https://www.youtube.com/watch?v=x_NBHIi-Yf0,x_NBHIi-Yf0,Python New Zealand,@PythonNewZealand,https://www.youtube.com/@PythonNewZealand,20220826,7119,609,20,,"AdamGreen,kiwipycon,kiwipyconxi",Education,"(Adam Green) Course notes on Github - https://github.com/ADGEfficiency/intro-to-distributed-computation-in-python
+
+A 2 hour, beginner friendly tutorial on distributed computation in Python:
+
+1. functional programming - the foundation for writing distributed Python code,
+2. single machine distributed compute - threads & threading, processes & multiprocessing, asyncio,
+3. many machine distributed compute - a look at the distributed computation ecosystem in Python, with a demonstration of an EC2/Dask/Coiled/Prefect stack running a Dask cluster on EC2.
+
+What you will get out of this tutorial:
+
+- functional programming fundamentals,
+- concurrency, parallelism & asynchrony,
+- why & how to use `multiprocessing` and `asyncio`,
+- introduction to the ecosystem for distributing compute over many machines in Python,
+- demonstration of using an EC2/Dask/Coiled/Prefect stack to deploy a Dask cluster to EC2.
+
+https://pretalx.com/kiwipycon-2021/talk/THDN7G/
+
+kiwipycon kiwipyconxi kiwipycon22 kiwipycon2022 pycon python
+
+Kiwi PyCon is an annual conference aimed at promoting and educating people about the Python programming language.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Fri Aug 19 14:20:00 2022 at Rutherford’s Den Lecture Theatre",https://i.ytimg.com/vi/x_NBHIi-Yf0/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=x_NBHIi-Yf0,https://www.youtube.com/watch?v=x_NBHIi-Yf0
+16,"""ONE donation can help to save up to three lives"" - Atawhai Te Hau (Kiwi Pycon XI)",https://www.youtube.com/watch?v=FSZEU-Vz0oo,FSZEU-Vz0oo,Python New Zealand,@PythonNewZealand,https://www.youtube.com/@PythonNewZealand,20220827,1331,48,2,,"AtawhaiTeHau,kiwipycon,kiwipyconxi",Education,"(Atawhai Te Hau) If you had the chance to save a life, would you do it?
+For most people, their answer to this question is, “Yes!”…most people want to do good within their community – they want to help others.
+I will explain how you can easily help to save lives by donating blood or plasma to help sick patients in hospital.
+Your ONE donation can help to save up to three lives.
+
+https://pretalx.com/kiwipycon-2021/talk/MEFKUV/
+
+kiwipycon kiwipyconxi kiwipycon22 kiwipycon2022 pycon python
+
+Kiwi PyCon is an annual conference aimed at promoting and educating people about the Python programming language.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Fri Aug 19 13:40:00 2022 at Great Hall",https://i.ytimg.com/vi/FSZEU-Vz0oo/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=FSZEU-Vz0oo,https://www.youtube.com/watch?v=FSZEU-Vz0oo
+17,"""Generative Art with Python (using py5 and bpy)"" - Tristan Bunn, Taylor Carrasco (Kiwi Pycon XI)",https://www.youtube.com/watch?v=hLuaLegbKL0,hLuaLegbKL0,Python New Zealand,@PythonNewZealand,https://www.youtube.com/@PythonNewZealand,20220827,1695,2115,70,,"TaylorCarrasco,TristanBunn,kiwipycon,kiwipyconxi",Education,"(Tristan Bunn, Taylor Carrasco) This talk will introduce Python as a tool for generative art, which entails creating artistic multimedia output using computer code. Think: writing Python code that makes visual art, usually with some randomness thrown in for cool and unpredictable results. The presentation focuses primarily on two Python tools -- *py5* for 2D visuals and Blender's *bpy* module for 3D -- and includes an overview of generating artworks for NFTs, pen plotters, and other creative coding output.
+
+https://pretalx.com/kiwipycon-2021/talk/T3Q3HP/
+
+kiwipycon kiwipyconxi kiwipycon22 kiwipycon2022 pycon python
+
+Kiwi PyCon is an annual conference aimed at promoting and educating people about the Python programming language.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Sat Aug 20 13:00:00 2022 at Rutherford’s Den Lecture Theatre",https://i.ytimg.com/vi/hLuaLegbKL0/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=hLuaLegbKL0,https://www.youtube.com/watch?v=hLuaLegbKL0
+18,"""Detecting IoT device compromise using Python"" - Amith Murthy (Kiwi Pycon XI)",https://www.youtube.com/watch?v=qJAxYC4uu88,qJAxYC4uu88,Python New Zealand,@PythonNewZealand,https://www.youtube.com/@PythonNewZealand,20220827,1829,850,15,,"AmithMurthy,kiwipycon,kiwipyconxi",Education,"(Amith Murthy) Network security tools in the industry commonly rely on rulesets or signature-based detection for identifying attacks. A signature-based Intrusion Detection System (IDS) uses thousands of known attack traffic signatures to identify malicious traffic in a network, providing little protection against unknown or new (zero-day) attacks. While anomaly-based detection techniques hold the promise of detecting zero-day attacks by learning the normal traffic behaviour in the network to identify deviations that signal attack traffic behaviour. However, traditional computer networks have high variability of ‘normal’ traffic which results in legitimate behaviour being incorrectly identified as malicious or vice versa – garnering the reputation they have poor operational performance.
+IoT devices, on the other hand, have limited functions and capabilities resulting in predictable communication patterns. Applying anomaly-based techniques in IoT networks therefore holds some promise. State-of-the-art research in academia has shown the use of Machine Learning (ML) techniques to develop traffic classification systems for IoT networks to be an effective endeavour. 
+This talk will highlight the application of unsupervised IoT traffic classification systems in Python, trained and tested on IoT network traffic data stored in packet captures. You will learn:
+- How to build your own traffic classifiers, from parsing packet capture data to implementing a machine learning pipeline that classifies device traffic as either normal or malicious. 
+- How to build your own network analytics engine to investigate a devices’ traffic patterns from a packet capture, such as flow analysis 
+- How to use time-binning algorithms to fingerprint IoT device traffic based on its traffic rate
+- How K-Means clustering algorithm can be used for detecting anomalies that represent malicious traffic in a device. 
+
+The rapid deployment of IoT networks, without adequate security measures has already led to attacks. Notably smart vending machines in a university campus network being exploited to attack the university’s systems [1]. Thus, this talk aims to inspire beginners and experts to look into the rapidly evolving field of ML-based IoT security solutions and to go out and build their own!
+
+Reference
+
+[1] M. Smith, “University attacked by its own vending machines, smart light bulbs 5,000 IoT
+devices,” February 2017. [Online; posted 12-Feb-2017].
+
+https://pretalx.com/kiwipycon-2021/talk/GASJ7G/
+
+kiwipycon kiwipyconxi kiwipycon22 kiwipycon2022 pycon python
+
+Kiwi PyCon is an annual conference aimed at promoting and educating people about the Python programming language.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Sat Aug 20 14:20:00 2022 at Rutherford’s Den Lecture Theatre",https://i.ytimg.com/vi/qJAxYC4uu88/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=qJAxYC4uu88,https://www.youtube.com/watch?v=qJAxYC4uu88
+19,"""Securing Python Web Apps"" - Oliver Ewert (Kiwi Pycon XI)",https://www.youtube.com/watch?v=O7tn62mmFHc,O7tn62mmFHc,Python New Zealand,@PythonNewZealand,https://www.youtube.com/@PythonNewZealand,20220827,1489,114,6,,"OliverEwert,kiwipycon,kiwipyconxi",Education,"(Oliver Ewert) Let's take a look at some common web app vulnerabilities, how to prevent them in Django (and others) and some resources to help you in future.
+
+https://pretalx.com/kiwipycon-2021/talk/MED3ZQ/
+
+kiwipycon kiwipyconxi kiwipycon22 kiwipycon2022 pycon python
+
+Kiwi PyCon is an annual conference aimed at promoting and educating people about the Python programming language.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Sat Aug 20 13:00:00 2022 at Great Hall",https://i.ytimg.com/vi/O7tn62mmFHc/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=O7tn62mmFHc,https://www.youtube.com/watch?v=O7tn62mmFHc
+20,Improving Machine Learning Model Performance with a Data-Centric Approach,https://www.youtube.com/watch?v=RWSsaLky2wI,RWSsaLky2wI,Python New Zealand,@PythonNewZealand,https://www.youtube.com/@PythonNewZealand,20220827,1191,140,2,,"PrernaSingh,kiwipycon,kiwipyconxi",Education,"(Prerna Singh) Artificial intelligence (AI) relies on data and algorithms. Researchers continuously develop state-of-the-art (SOTA) AI algorithms to improve the performance of the AI system. But model-centric approaches are limited in the absence of quality data. Data-centric AI is an emerging approach towards solving machine learning (ML) problems. It is a collection of various data manipulation techniques that allow ML practitioners to systematically improve the quality of the data used in an ML pipeline. However, data-centric AI approaches are not well documented. Researchers/data practitioners develop various data experiments without any clear set of guidelines.
+
+https://pretalx.com/kiwipycon-2021/talk/PNHES7/
+
+kiwipycon kiwipyconxi kiwipycon22 kiwipycon2022 pycon python
+
+Kiwi PyCon is an annual conference aimed at promoting and educating people about the Python programming language.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Sat Aug 20 15:20:00 2022 at Rutherford’s Den Lecture Theatre",https://i.ytimg.com/vi/RWSsaLky2wI/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=RWSsaLky2wI,https://www.youtube.com/watch?v=RWSsaLky2wI
+21,"""Plain text accounting for fun and profit"" - Glenn Ramsey (Kiwi Pycon XI)",https://www.youtube.com/watch?v=lazZwTmAEHs,lazZwTmAEHs,Python New Zealand,@PythonNewZealand,https://www.youtube.com/@PythonNewZealand,20220827,1827,5339,61,,"GlennRamsey,kiwipycon,kiwipyconxi",Education,"(Glenn Ramsey) Accounting for very small businesses is an area not well served by open source tools. If you don't mind the command line and doing a bit of programming then plain text accounting is ideal for this use and gives you opportunity to flex your Python skills a little bit to automate and glue things together.
+
+https://pretalx.com/kiwipycon-2021/talk/XUMVKZ/
+
+kiwipycon kiwipyconxi kiwipycon22 kiwipycon2022 pycon python
+
+Kiwi PyCon is an annual conference aimed at promoting and educating people about the Python programming language.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Sat Aug 20 11:30:00 2022 at Rutherford’s Den Lecture Theatre",https://i.ytimg.com/vi/lazZwTmAEHs/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=lazZwTmAEHs,https://www.youtube.com/watch?v=lazZwTmAEHs
+22,"""Bulletproof testing for re-usable Django libraries"" - Sam Bishop (Kiwi Pycon XI)",https://www.youtube.com/watch?v=YAk7eDKvhys,YAk7eDKvhys,Python New Zealand,@PythonNewZealand,https://www.youtube.com/@PythonNewZealand,20220827,1683,147,4,,"SamBishop,kiwipycon,kiwipyconxi",Education,"(Sam Bishop) Testing a re-usable Django app can be challenging, but it doesn't have to be! From managing test matrices to getting more test coverage with less effort, there are good solutions available to help you face these challenges. Let me show you the tricks I use to keep my own reusable apps from getting out of hand.
+
+https://pretalx.com/kiwipycon-2021/talk/DP33GE/
+
+kiwipycon kiwipyconxi kiwipycon22 kiwipycon2022 pycon python
+
+Kiwi PyCon is an annual conference aimed at promoting and educating people about the Python programming language.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Sat Aug 20 16:00:00 2022 at Rutherford’s Den Lecture Theatre",https://i.ytimg.com/vi/YAk7eDKvhys/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=YAk7eDKvhys,https://www.youtube.com/watch?v=YAk7eDKvhys
+23,"""Machine Learning with Python and a Game Engine"" - Paris Buttfield-Addison (Kiwi Pycon XI)",https://www.youtube.com/watch?v=cCQSSNUlhZs,cCQSSNUlhZs,Python New Zealand,@PythonNewZealand,https://www.youtube.com/@PythonNewZealand,20220827,1559,219,6,,"ParisButtfield-Addison,kiwipycon,kiwipyconxi",Education,"(Paris Buttfield-Addison) Did you know that you can use a game engine, like the popular Unity engine, plus Python frameworks to train agents -- virtual robots -- using reinforcement learning, inside virtual worlds of your own creation? No? Well, come and learn how to! It's a fun combination of art and science, and no machine learning expertise is required.
+
+https://pretalx.com/kiwipycon-2021/talk/RJK9RY/
+
+kiwipycon kiwipyconxi kiwipycon22 kiwipycon2022 pycon python
+
+Kiwi PyCon is an annual conference aimed at promoting and educating people about the Python programming language.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Sat Aug 20 10:50:00 2022 at Rutherford’s Den Lecture Theatre",https://i.ytimg.com/vi/cCQSSNUlhZs/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=cCQSSNUlhZs,https://www.youtube.com/watch?v=cCQSSNUlhZs
+24,"""Operationalize Machine Learning Model with ease"" - Sudhir Rawat (Kiwi Pycon XI)",https://www.youtube.com/watch?v=oCpEQ1uVHtM,oCpEQ1uVHtM,Python New Zealand,@PythonNewZealand,https://www.youtube.com/@PythonNewZealand,20220827,1785,72,4,,"SudhirRawat,kiwipycon,kiwipyconxi",Education,"(Sudhir Rawat) AI benefits can only be realized when we can productize our machine learning models successfully, on time, and at scale. Operationalizing machine learning is a complex process that encompasses a number of other tasks. Setting up a manual framework is a time consuming and complicated efforts. Any miss will end up in system failure. In this session we'll explore how we can leverage Devops to operationalize python based ML model.
+
+https://pretalx.com/kiwipycon-2021/talk/SWE7DW/
+
+kiwipycon kiwipyconxi kiwipycon22 kiwipycon2022 pycon python
+
+Kiwi PyCon is an annual conference aimed at promoting and educating people about the Python programming language.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Sat Aug 20 13:40:00 2022 at Rutherford’s Den Lecture Theatre",https://i.ytimg.com/vi/oCpEQ1uVHtM/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=oCpEQ1uVHtM,https://www.youtube.com/watch?v=oCpEQ1uVHtM
+25,"""Pandas: librarian to the outer Solar System"" - Nicole Tan (Kiwi Pycon XI)",https://www.youtube.com/watch?v=vR0Jym1T42c,vR0Jym1T42c,Python New Zealand,@PythonNewZealand,https://www.youtube.com/@PythonNewZealand,20220827,1521,236,5,,"NicoleTan,kiwipycon,kiwipyconxi",Education,"(Nicole Tan) The outer Solar System contains small worlds leftover from the creation and migration of the giant planets; they are therefore some of the oldest and least altered material in the Solar System. These objects, known as trans-Neptunian objects (TNOs) have only been discovered, studied, and classified in recent decades. Studying TNOs is key to comprehending how our Solar System was formed, and a key part of the “how did we get here?” story. 
+
+My research involves a survey of over 160 individual TNOs; these images have been acquired over the span of five years using the 3.5-m Canada-France-Hawaii Telescope located on Maunakea, Hawai’i. But, before I can delve into analysing this rich dataset, I first have to collate the metadata associated with every TNO observation that was done. In this talk, I will detail how I use Pandas dataframes to maintain a “card catalog” of observations, and how it has been useful for my research—from figuring out exactly how many unique TNOs have been imaged to creating of a timeline that graphically shows all observations.
+
+https://pretalx.com/kiwipycon-2021/talk/RVWVST/
+
+kiwipycon kiwipyconxi kiwipycon22 kiwipycon2022 pycon python
+
+Kiwi PyCon is an annual conference aimed at promoting and educating people about the Python programming language.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Sat Aug 20 14:20:00 2022 at Great Hall",https://i.ytimg.com/vi/vR0Jym1T42c/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=vR0Jym1T42c,https://www.youtube.com/watch?v=vR0Jym1T42c
+26,"""Introduction to building a web app with Python, Flask and SQLite"" - Steve Dunford (Kiwi Pycon XI)",https://www.youtube.com/watch?v=DWoEhvyNIDM,DWoEhvyNIDM,Python New Zealand,@PythonNewZealand,https://www.youtube.com/@PythonNewZealand,20220827,7958,363,13,,"SteveDunford,kiwipycon,kiwipyconxi",Education,"(Steve Dunford) Cross-platform programming can be hard, but almost every computer platform we come in contact with today has a web browser (look up the Microsoft iLoo) - so a web app is often one reliable way to solve this problem.  Frameworks are a dime a dozen (https://youtu.be/Wm2h0cbvsw8), and often Python programmers will immediately think of Django, even if they've never used it.  Django is the proverbial sledgehammer to crack a walnut... it can do it, but it's probably overkill.  Flask, on the other hand, is more of a small, clever pocketknife that you can easily add a walnut cracking tool to if you need it.  They both do the same thing - they just do it from different directions.  In this tutorial we'll take a ground-up approach, only adding in things we need, as we need them.
+
+Requirements: Laptop, internet access, a repl.it account and SQLiteSudio (https://sqlitestudio.pl/) or your preferred SQLite editor.
+
+https://pretalx.com/kiwipycon-2021/talk/FWMGKF/
+
+kiwipycon kiwipyconxi kiwipycon22 kiwipycon2022 pycon python
+
+Kiwi PyCon is an annual conference aimed at promoting and educating people about the Python programming language.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Fri Aug 19 14:20:00 2022 at Great Hall",https://i.ytimg.com/vi/DWoEhvyNIDM/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=DWoEhvyNIDM,https://www.youtube.com/watch?v=DWoEhvyNIDM
+27,"""Conference closing session"" -  (Kiwi Pycon XI)",https://www.youtube.com/watch?v=5-ahIpYuhvc,5-ahIpYuhvc,Python New Zealand,@PythonNewZealand,https://www.youtube.com/@PythonNewZealand,20220826,1606,78,2,,"kiwipycon,kiwipyconxi",Education,"() ...
+
+https://pretalx.com/kiwipycon-2021/talk/8UGFDW/
+
+kiwipycon kiwipyconxi kiwipycon22 kiwipycon2022 pycon python
+
+Kiwi PyCon is an annual conference aimed at promoting and educating people about the Python programming language.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Sun Aug 21 14:10:00 2022 at Great Hall",https://i.ytimg.com/vi/5-ahIpYuhvc/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=5-ahIpYuhvc,https://www.youtube.com/watch?v=5-ahIpYuhvc
