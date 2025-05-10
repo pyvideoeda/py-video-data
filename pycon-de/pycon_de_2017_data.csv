@@ -1,0 +1,1237 @@
+﻿index,title,url,video_id,uploader,uploader_id,uploader_url,upload_date,duration,view_count,like_count,comment_count,tags,categories,description,thumbnail,age_limit,is_live,was_live,availability,webpage_url,original_url
+1,PyCon.DE 2017 Keynote Prof. Dr. Susanne Mertens - Neutrinos: who are you and if yes how many?,https://www.youtube.com/watch?v=3h-6GBBF4Hg,3h-6GBBF4Hg,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20171127,3442,2664,30,1.0,"PyCon.DE2017,Keynote,Python",Education,"Since 2008 Susanne Mertens is working on the experimental investigation of the elusive elementary particle, the Neutrino. With the two large-scale experiments, KATRIN and LEGEND, she explores their mass and the question of whether the neutrino is its own anti-particle. Beyond that, the group of Susanne Mertens is developing a novel detector system, to search for a new type of neutrino, the so-called sterile neutrino, which could make up a large part of the dark matter of our universe.
+Neutrinos: who are you and if yes how many?
+
+The neutrino is a strange particle: it it extremely light and flies through matter without leaving a trace. Nevertheless --due to its vast abundance-- it plays a key role as cosmological architect in the formation of galaxies in our universe. One of the missing puzzle pieces for the exact understanding of the evolution of the universe is the mass of the neutrino. The discovery of neutrino oscillations, awarded with the Nobel prize in 2015, proofs that neutrinos are not massless, but does not reveal its actual value. The Karlsruhe Tritium Neutrino (KATRIN) experiment aims at directly measuring the neutrino mass by investigating the radioactive decay of tritium with unprecedented precision. The talk will report on the mysterious neutrinos, how KATRIN will track down their mass, and which role computational methods play in the realization of such a large-scale experiment.
+
+    TU-Munich Susanne Mertens: https://www.ph.tum.de/about/people/vcard/8C819C16F9AF3575/?language=en
+    KATRIN and TRISTAN: Neutrinos and Dark Matter: https://www.mpp.mpg.de/forschung/astroteilchenphysik-und-kosmologie/katrin-und-tristan-neutrinos-und-dunkle-materie/
+
+Recorded at PyCon.DE 2017 Karlsruhe: pycon.de
+Video editing: Sebastian Neubauer & Andrei Dan
+Tools: Blender, Avidemux & Sonic Pi",https://i.ytimg.com/vi_webp/3h-6GBBF4Hg/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=3h-6GBBF4Hg,https://www.youtube.com/watch?v=3h-6GBBF4Hg
+2,PyCon.DE 2017 Keynote Matthew Rocklin - Dask: Next Steps in Parallel Python,https://www.youtube.com/watch?v=rZlshXJydgQ,rZlshXJydgQ,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20171128,3771,4558,68,2.0,"PyCon.DE2017,PyCon.DE,Python,Keynote",Education,"Matthew is an open source software developer focusing on efficient computation and parallel computing, primarily within the Python ecosystem. He has contributed to many of the PyData libraries and today works on Dask a framework for parallel computing. Matthew holds a PhD in computer science from the University of Chicago where he focused on numerical linear algebra, task scheduling, and computer algebra.
+
+Matthew lives in Brooklyn, NY and is employed by Anaconda Inc.
+
+    Website: http://matthewrocklin.com
+    Blog: http://matthewrocklin.com/blog
+    Dask: http://dask.pydata.org/
+
+Recorded at PyCon.DE 2017 Karlsruhe: pycon.de
+Video editing: Sebastian Neubauer & Andrei Dan
+Tools: Blender, Avidemux & Sonic Pi",https://i.ytimg.com/vi_webp/rZlshXJydgQ/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=rZlshXJydgQ,https://www.youtube.com/watch?v=rZlshXJydgQ
+3,PyCon.DE 2017 Keynote Prof. Dr. Michael Feindt - AI: Differentiating Hype and Real Value,https://www.youtube.com/watch?v=Ndi4hqSdBi4,Ndi4hqSdBi4,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20171128,4312,602,4,,"PyCon.DE2017,Python,PyCon.DE,Keynote,PyData",Education,"Prof. Dr. Michael Feindt is the brain behind Blue Yonder GmbH . His NeuroBayes algorithm was developed during his many years of scientific research at CERN. Michael is also a professor at the Karlsruhe Institute of Technology (KIT), Germany, and a lecturer at the Data Science Academy.
+Artificial Intelligence: Differentiating Hype and Real Value
+
+Starting from the evolution of biological and artificial life and intelligence examples of already existing superhuman performance of ""narrow“ AI are presented. The history of artificial neural networks nicely shows how wrong human experts can be. Conditions for and principles of predictive and prescriptive analytics, two important working horses of AI, are presented. It is explained why superhuman performance is especially possible in mass decisions under uncertainty. Their value is proven with examples from largely improved and automated public scientific research as well as decision making in enterprises.
+
+A personal view about the role of python and some selected topics that will gain much more attention like causality extraction from historic data and discrimination-free algorithms are given, before concluding on how we should face the challenges but especially the chances of AI to create a better world. 
+
+Recorded at PyCon.DE 2017 Karlsruhe: pycon.de
+Video editing: Sebastian Neubauer & Andrei Dan
+Tools: Blender, Avidemux & Sonic Pi",https://i.ytimg.com/vi_webp/Ndi4hqSdBi4/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=Ndi4hqSdBi4,https://www.youtube.com/watch?v=Ndi4hqSdBi4
+4,PyCon.DE 2017 Lightning Talks Wednesday,https://www.youtube.com/watch?v=wE2-jepEZ7k,wE2-jepEZ7k,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20171128,3265,272,6,,"PyCon.DE2017,Python,PyCon.DE,PyData",Education,"Recorded at PyCon.DE 2017 Karlsruhe: pycon.de
+Video editing: Sebastian Neubauer & Andrei Dan
+Tools: Blender, Avidemux & Sonic Pi",https://i.ytimg.com/vi_webp/wE2-jepEZ7k/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=wE2-jepEZ7k,https://www.youtube.com/watch?v=wE2-jepEZ7k
+5,PyCon.DE 2017 Lightning Talks Thursday,https://www.youtube.com/watch?v=j41vVlwFJrE,j41vVlwFJrE,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20171128,2891,141,1,,"PyCon.DE2017,Python,PyCon.DE,PyData,Lightning Talks",Education,"Recorded at PyCon.DE 2017 Karlsruhe: pycon.de 
+Video editing: Sebastian Neubauer & Andrei Dan 
+Tools: Blender, Avidemux & Sonic Pi",https://i.ytimg.com/vi_webp/j41vVlwFJrE/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=j41vVlwFJrE,https://www.youtube.com/watch?v=j41vVlwFJrE
+6,PyCon.DE 2017 Lightning Talks Friday,https://www.youtube.com/watch?v=ZRIPqa9asrU,ZRIPqa9asrU,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20171128,2522,94,0,,"PyCon.DE2017,Python,PyCon.DE,PyData,Lightning Talks",Education,"Recorded at PyCon.DE 2017 Karlsruhe: pycon.de
+Video editing: Sebastian Neubauer & Andrei Dan
+Tools: Blender, Avidemux & Sonic Pi",https://i.ytimg.com/vi_webp/ZRIPqa9asrU/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=ZRIPqa9asrU,https://www.youtube.com/watch?v=ZRIPqa9asrU
+7,PyCon.DE 2017 Daniel Jilg - Python in Space - The N Body Problem,https://www.youtube.com/watch?v=E1nx4ReTgps,E1nx4ReTgps,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20171128,2464,1754,37,1.0,"PyCon.DE2017,Python,PyCon.DE,PyData",Education,"Daniel Jilg (@breakthesystem)
+I've been an app developer, a CTO, and a Python developer, mostly at the same time. I've carried through it all a desire to learn, a love for data visualisation, and a knack to pass on what I learned. I want to learn, I want to mentor, and I want to create inclusive spaces for people to learn and mentor themselves. In my free time, I open tins for my cats (who have their own instagram account), visit various spaceports around the world, and occasionally dabble in some motor sports.
+
+Abstract
+
+Tags: complexity data structures algorithms space python
+
+The N Body Problem is a computationally complex problem that we use to predict how planets and galaxies – and everything in between – move through space. I'll show you some interesting ways to calculate it, and we'll have a look at what to do, should you find yourself in a space ship's pilot seat.
+Description
+
+The N Body Problem is one of those famously hard to solve problems in computer science. It describes the movement and interactions of n bodies in space (where n is usually greater 3). You need a lot of computational power to passably approximate the gravitational influences a group of celestial bodies exert on each other. Can Python do that?
+
+I'll give a super brief overview of the history of trying to predict the motion of moon, sun and the visible stars, and then we'll dive deep into the original N Body Problem, followed by creative ways to reduce the amount of calculation needed and still get a reasonable approximation. Doing this, we can see how to tackle some complex mathematic and algorithmic problems easily using Python.
+
+If you're a Python beginner or even very early in your career as a developer, you are going to get a first impression of efficient algorithms and complex data structures, and how to measure complexity using Big O notation. If you're more advanced, you'll be treated to a hopefully interesting way of implementing the Barnes-Hutt-algorithm, and some space nerdery.
+
+Once we have all the pieces in place, let's play with some orbits. We'll see how orbits actually behave, as opposed to what the untrained mind would expect. We can use our new algorithms to try out some manoeuvres often used by real space craft and help you be prepared for when that call from ESA or NASA finally comes, and you'll be invited to work on Python In Space!
+
+Recorded at PyCon.DE 2017 Karlsruhe: pycon.de
+Video editing: Sebastian Neubauer & Andrei Dan
+Tools: Blender, Avidemux & Sonic Pi",https://i.ytimg.com/vi_webp/E1nx4ReTgps/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=E1nx4ReTgps,https://www.youtube.com/watch?v=E1nx4ReTgps
+8,PyCon.DE 2017 Alex Conway - Deep Learning for Computer Vision,https://www.youtube.com/watch?v=X4Q6C915sUY,X4Q6C915sUY,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20171128,2490,1860,34,,"PyCon.DE2017,Python,PyCon.DE,PyData",Education,"Alex Conway (@alxcnwy)
+Alex is the founder & CTO of NumberBoost, a startup that builds deep learning applications. He previously worked as a quant for a hedge fund and as a data scientist for an e-commerce company. He has an honours degree in actuarial science and a MSc in statistics. He is one of the organizers of the Cape Town Deep Learning meet-up and has built numerous computer vision systems that run at scale in production predicting labels for millions of images per day.
+
+Abstract
+
+Tags: business data-science use-case deep learning ai machine learning
+
+The state-of-the-art in image classification has skyrocketed thanks to the development of deep convolutional neural networks and increases in the amount of data and computing power available to train them. The top-5 error rate in the ImageNet competition to predict which of 1000 classes an image belongs to has plummeted from 28% error in 2010 to just 2.25% in 2017 (human level error is around 5%).
+
+In addition to being able to classify objects in images (including not hotdogs), deep learning can be used to automatically generate captions for images, convert photos into paintings, detect cancer in pathology slide images, and help self-driving cars ‘see’.
+
+The talk will give an overview of the cutting edge and some of the core mathematical concepts and will also include a short code-first tutorial to show how easy it is to get started using deep learning for computer vision in python…
+Description
+
+This talk is a crash course on convolutional neural networks and how to use them to solve 2 real-world applications at scale. The first is an image moderation system and the second is a visual similarity system where a user uploads an image of an item and the system returns visually similar items.
+
+Recorded at PyCon.DE 2017 Karlsruhe: pycon.de
+Video editing: Sebastian Neubauer & Andrei Dan
+Tools: Blender, Avidemux & Sonic Pi",https://i.ytimg.com/vi/X4Q6C915sUY/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=X4Q6C915sUY,https://www.youtube.com/watch?v=X4Q6C915sUY
+9,PyCon.DE 2017 Tamara Mendt - Modern ETL-ing with Python and Airflow (and Spark),https://www.youtube.com/watch?v=tcJhSaowzUI,tcJhSaowzUI,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20171128,1595,22996,367,9.0,"PyCon.DE2017,Python,PyCon.DE,PyData",Education,"Tamara Mendt (@TamaraMendt)
+
+Tamara Mendt is a Data Engineer at HelloFresh, a meal kit delivery service headquartered in Berlin, and one of the top 3 tech startups to come out of Europe over the past 4 years. She devotes her time to building data pipelines and designing and maintaining the company's data infrastructure. Tamara has a computer engineering degree from her native country Venezuela, and an Erasmus Mundus Masters degree in IT for Business Intelligence. She wrote her Master thesis at the TU Berlin with the research group where Apache Flink was born. At HelloFresh she is continuing to work with distributed technologies such has Apache Hadoop, Apache Kafka and Apache Spark to cope with the scalability that the fast growing company requires for dealing with their data.
+
+Abstract
+
+Tags: data data-science pipeline
+
+The challenge of data integration is real. The sheer amount of tools that exist to address this problem is proof that organizations struggle with it. This talk will discuss the inherent challenges of data integration, and show how it can be tackled using Python and Apache Airflow and Apache Spark.
+Description
+
+The way organizations analyze their data has evolved very quickly since the beginning of the millennium. The development of Hadoop, and the explosion in the variety of data that companies are dealing with nowadays, has fostered the appearance of the concept of data lake, and the shift of traditional ETL (extract, transform, load), to ELT (extract, load, transform). Yet, the challenge of integrating data to obtain valuable insights still remains, and despite the hype and attention being focused on data, very few organizations have actually managed to become data driven. In this talk I will present insights into how we are currently building data pipelines using Python (as a replacement to high level ETL software), Apache Airflow as a scheduler to our coded transformations, and Apache Spark for achieve scalability. Though building data pipelines is not the only element required to become data driven, it is a crucial one, and I hope to encourage the audience to use these open source technologies in their own ETL-ing (or ELT-ing) efforts.
+
+Recorded at PyCon.DE 2017 Karlsruhe: pycon.de
+Video editing: Sebastian Neubauer & Andrei Dan
+Tools: Blender, Avidemux & Sonic Pi",https://i.ytimg.com/vi_webp/tcJhSaowzUI/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=tcJhSaowzUI,https://www.youtube.com/watch?v=tcJhSaowzUI
+10,PyCon.DE 2017 Uwe Korn - Connecting PyData to other Big Data Landscapes using Arrow and Parquet,https://www.youtube.com/watch?v=-IvLScEcoO8,-IvLScEcoO8,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20171128,1903,273,2,,"PyCon.DE,PyCon.DE2017,Python,PyData",Education,"Uwe L. Korn (@xhochy)
+
+Uwe Korn is a Data Scientist at the Karlsruhe-based RetailTec company Blue Yonder. His expertise is on building architectures for machine learning services that are scalably usable for multiple customers aiming at high service availability as well as rapid prototyping of solutions to evaluate the feasibility of his design decisions. As part of his work to provide an efficient data interchange he became a core committer to the Apache Parquet and Apache Arrow projects.
+
+Abstract
+
+Tags: data-science hadoop apache arrow parquet pandas pydata
+
+While Python itself hosts a wide range of machine learning and data tools, other ecosystems like the Hadoop world also provide beneficial tools that can be either connected via Apache Parquet files or in memory using Arrow. This talks shows recent developments that allow interoperation at speed.
+Description
+
+Python has a vast amount of libraries and tools in its machine learning and data analysis ecosystem. Although it is clearly in competition with R here about the leadership, the world that has sprung out of the Hadoop ecosystem has established itself in the space of data engineering and also tries to provide tools for distributed machine learning. As these stacks run in different environments and are mostly developed by distinct groups of people, using them together has been a pain. While Apache Parquet has already proven itself as the gold standard for the exchange of DataFrames serialized to files, Apache Arrow recently got traction as the in-memory format for DataFrame exchange between different ecosystems.
+
+This talk will outline how Apache Parquet files can be used in Python and how they are structured to provide efficient DataFrame exchange. In addition to small code sample, this also includes an explanation of some interesting details of the file format. Additionally, the idea of Apache Arrow will be presented and taking Apache Spark (2.3) as an example to showcase how performance increases once DataFrames can be efficiently shared between Python and JVM processes.
+
+Recorded at PyCon.DE 2017 Karlsruhe: pycon.de 
+Video editing: Sebastian Neubauer & Andrei Dan 
+Tools: Blender, Avidemux & Sonic Pi",https://i.ytimg.com/vi_webp/-IvLScEcoO8/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=-IvLScEcoO8,https://www.youtube.com/watch?v=-IvLScEcoO8
+11,"PyCon.DE 2017 Natalie Speiser, Jens Beyer - Data Science Project for Beginners",https://www.youtube.com/watch?v=4BBCqCgVDLI,4BBCqCgVDLI,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20171128,1848,417,4,,"PyCon.DE,PyCon.DE2017,Python,PyData",Education,"Natalie Speiser,Jens Beyer (@natalie_lavrio)
+
+Natalie is a psychologist focused on statistics and machine learning for predictions. Jens is a pyhsicist turned consultant for IBM and d-fine and helped big companies with statistical models since 2009. Together, we founded LAVRIO.solutions and help our clients to make the most out of their data. In our recent data science projects, we faced specific hurdles which seem to be typical.
+
+Abstract
+
+Tags: business data-science use-case python machine learning
+
+AI and Machine Learning are taking over the world - but how do you actually start with understanding your data and predicting events? And what kind of ""political"" trouble could you run into? With examples from real projects, we try to give you a feeling for data science projects.
+Description
+
+We will be talking about examples from projects we did as data science consultants. What should be organized before you go to a client (internal or external). How should the data look like. What are problems you have to face while working with the clients IT department. You get to see a rough draft of our code. It won't be a thorough manual, just our experiences and how we dealt with problems.
+
+Recorded at PyCon.DE 2017 Karlsruhe: pycon.de 
+Video editing: Sebastian Neubauer & Andrei Dan 
+Tools: Blender, Avidemux & Sonic Pi",https://i.ytimg.com/vi_webp/4BBCqCgVDLI/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=4BBCqCgVDLI,https://www.youtube.com/watch?v=4BBCqCgVDLI
+12,PyCon.DE 2017 Andreas Schilling - Master 2.5 GB of unstructured specification documents with ease,https://www.youtube.com/watch?v=g277gRcG84I,g277gRcG84I,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20171128,1824,274,0,,"PyCon.DE,PyCon.DE2017,Python,PyData",Education,"Dr. Andreas Schilling is Senior Software Engineer at eXXcellent solutions. In his job, he helps customers to develop software solutions from the early stage of defining the particular requirements to developing information systems which meet their needs.
+
+Before working at eXXcellent solutions Andreas Schilling studied Information Systems at the University of Bamberg focusing on distributed systems and information management. Thereafter, he pursued his PhD and studied collaboration dynamics in open source projects.
+
+Abstract
+
+Tags: networkx pandas visualization knowledge-management analytics use-case python business
+
+How Do you kick start a project which is based on 2.5 GB files of unstructured specification documents? To answer this question, we present our lessons learned from developing a Python based knowledge management tool which provides a lightweight and intuitive browser frontend.
+Description
+
+In this talk, we present lessons learned from and practical advice on how to deal with a large body of specification documents in your next project. We introduce our approach as well as code excerpts from our powerful toolset to transform a large set of unstructured and partially corrupt specification documents into structured JSON Files. Finally, we showcase a simple, yet powerful Javascript frontend which requires no additional infrastructure to present the compiled artefacts in an intuitive and responsive user interface.
+
+In particular this talk covers the following topics:
+
+    How to make use of pywin32 to access layout and content information from partially corrupt .doc and .docx files and create simple JSON files with UTF-8 encoding.
+
+    Identify and categorize signal words in your specification.
+
+    Use pandas to compile content based recommender functionality.
+
+    Use networkx and py2cytoscape to visualize call sequences and semantic relationships in your specification.
+
+    Present the compiled artefacts and identified relationships in an easy-to-use and lightweight Javascript browser interface without any additional infrastructure (i.e. no webserver and no database server).
+
+
+Recorded at PyCon.DE 2017 Karlsruhe: pycon.de 
+Video editing: Sebastian Neubauer & Andrei Dan 
+Tools: Blender, Avidemux & Sonic Pi",https://i.ytimg.com/vi_webp/g277gRcG84I/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=g277gRcG84I,https://www.youtube.com/watch?v=g277gRcG84I
+13,PyCon.DE 2017 Sefan Behnel - Lift your Speed Limits with Cython,https://www.youtube.com/watch?v=nTKQkm8U0zE,nTKQkm8U0zE,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20171129,2520,391,5,,"PyCon.DE2017,Python,PyCon.DE,PyData",Education,"Stefan has been using Python since the beginning of the century and is probably best known as core developer of Cython and lxml. He spends his time joyfully writing Python and Cython code and teaching people like you how to make the best out of these tools.
+
+Abstract
+
+Tags: compilation optimisation cython performance
+
+Think you can benefit from making your Python application run faster? Then come along and learn how to tune your code with Cython.
+Description
+
+Cython is not just a Python compiler or a native code wrapping tool, but also a programming language in its own right that mixes Python with C and C++. The fact that you can simply drop Python code into it and compile it gives a very low entry level into performance optimisation by statically compiling your critical code and then tuning it into fast C to make it run faster.
+
+In this talk, I will show a few use cases where the compilation of regular Python code leads to faster execution, and present ways how to make the code run much faster.
+
+Recorded at PyCon.DE 2017 Karlsruhe: pycon.de
+Video editing: Sebastian Neubauer & Andrei Dan
+Tools: Blender, Avidemux & Sonic Pi",https://i.ytimg.com/vi_webp/nTKQkm8U0zE/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=nTKQkm8U0zE,https://www.youtube.com/watch?v=nTKQkm8U0zE
+14,PyCon.DE 2017 Axel Arnold - And now to something ELSE: Real Time Data Processing @ billiger.de,https://www.youtube.com/watch?v=en7XcpYxLU4,en7XcpYxLU4,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20171129,1961,317,6,,"PyCon.DE2017,Python,PyCon.DE,PyData",Education,"Having started as a computational physicist, developing GPU-accelerated based molecular dynamics software for 14 years, I developed a passion for Python as scripting frontend and powerful numeric analysis tool. And NumPy makes teaching numerical math to 3rd year physics students so much easier! Eventually, I decided to make my living using Python and joined solute GmbH as Python developer. I still have a passion for high throughput systems, but now not only from developer's, but also the operations point of view.
+
+Abstract
+
+Tags: use-case python business
+
+billiger.de is one of the largest price comparison websites in Germany. In this talk, we want to share how we built the scalable, event-driven processing system which renders the products for our website using Python, Elasticsearch and redis.
+Description
+
+billiger.de is one of the largest price comparison websites in Germany. Tens of millions of offers need to be clustered into products, with a considerable amount of offers changing every few hours. In this talk, we want to share our experiences and the challenges we were facing on our way to building a scalable, event-driven processing system which renders the products you will eventually find on our website. We give an overview of that system, which consists of a number of services written in Python, a Redis based queueing system and an Elasticsearch cluster for storage. We tell the story of how all of this works together and how it allows us to scale storage and processing throughput according to our needs.
+
+Recorded at PyCon.DE 2017 Karlsruhe: pycon.de
+Video editing: Sebastian Neubauer & Andrei Dan
+Tools: Blender, Avidemux & Sonic Pi",https://i.ytimg.com/vi_webp/en7XcpYxLU4/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=en7XcpYxLU4,https://www.youtube.com/watch?v=en7XcpYxLU4
+15,PyCon.DE 2017 Suhas SG - Hacking the Python AST,https://www.youtube.com/watch?v=kaxAF542Cic,kaxAF542Cic,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20171129,2166,1388,36,,"PyCon.DE2017,Python,PyCon.DE,PyData",Education,"Suhas SG (@jargnar)
+
+Suhas is a data scientist, full stack engineer, and a design hacker originally from Bangalore, India. He is currently a data engineer at Zalando SE, Berlin. Earlier, he has designed and built big data solutions for some of the Fortune 500 companies.
+
+He is also the founder and curator of a data visualization and art museum called LifeWithData.
+
+Abstract
+
+Tags: python
+
+Computer languages are a remarkable feat of human scientific engineering. In this talk, we'll look at the innards of CPython, and specifically learn how to modify and hack Abstract Syntax Trees (for world peace, of course).
+Description
+Summary
+
+Computer languages are a remarkable feat of human scientific engineering. In this talk, we'll look at the innards of CPython, and specifically learn how to modify Abstract Syntax Trees (for world peace, of course).
+Rough agenda
+
+    [ 05 mins ] --- A brief intro to languages and compilers
+    [ 05 mins ] --- CPython and parsing grammars
+    [ 10 mins ] --- Everything about Python ASTs
+    [ 15 mins ] --- Let's write a flake8 plugin (to understand ASTs better)
+    [ 05 mins ] --- Metaprogramming, code as data, possibilities and more!
+
+What we'll learn
+
+    We'll learn the life of a python code, and how the CPython process works.
+    We'll understand and be able to participate in conversations that include words like LL(1) parser
+    We'll make our devious minds work towards hacking into source code and modifying it with the help of ast.NodeTransformer
+    We'll learn to write a Flake8 plugin
+    A treasure map to dive into deeper waters
+
+Prerequisites:
+
+    Basics of Python, must be comfortable with lists, functions, classes
+    Basic idea / understanding of data structures
+    A mischievous mind to get hands dirty for intercepting source code and parsing ASTs
+    A bottle of water to keep yourself hydrated
+
+
+Recorded at PyCon.DE 2017 Karlsruhe: pycon.de
+Video editing: Sebastian Neubauer & Andrei Dan
+Tools: Blender, Avidemux & Sonic Pi",https://i.ytimg.com/vi_webp/kaxAF542Cic/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=kaxAF542Cic,https://www.youtube.com/watch?v=kaxAF542Cic
+16,PyCon.DE 2017 Thomas Waldmann - The BorgBackup Project,https://www.youtube.com/watch?v=oLFMsP1GMa0,oLFMsP1GMa0,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20171129,1820,2718,47,1.0,"PyCon.DE2017,Python,PyCon.DE,PyData",Education,"Thomas Waldmann (@ThomasJWaldmann)
+
+Doing Python since 2001, Linux, FOSS.
+
+Projects: MoinMoin Wiki, nsupdate.info, bepasty, BorgBackup
+
+Abstract
+
+Tags: bestpractices crypto backup c cython python
+
+BorgBackup is a modern, deduplicating backup software written in Python 3.4+, Cython and C.
+
+The talk will start with a quick presentation about the software and why you may want to use it for your backups.
+
+Then, I will show how we run the software project: Tools, Services, Best Practices.
+Description
+
+Homepage: www.borgbackup.org
+
+About the software:
+
+    Feature set
+    Code
+    Security
+    Safety
+    Crypto
+    Compression
+    Deduplication
+    The Fork from attic-backup project (and what happened afterwards)
+    Now and Future
+    How you can help
+
+About the project:
+
+    Github
+    Sphinx and ReadTheDocs
+    Asciinema
+    Mailing list on python.org, IRC on freenode
+    Testing: pytest, tox, travis-ci, vagrant, pyenv
+    ""binary"" Releases with PyInstaller
+    Automatic versioning: setuptools_scm
+    Secure releasing with gpg signature
+    Python / Cython / C - when to use what
+
+Recorded at PyCon.DE 2017 Karlsruhe: pycon.de
+Video editing: Sebastian Neubauer & Andrei Dan
+Tools: Blender, Avidemux & Sonic Pi",https://i.ytimg.com/vi/oLFMsP1GMa0/hqdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=oLFMsP1GMa0,https://www.youtube.com/watch?v=oLFMsP1GMa0
+17,"PyCon.DE 2017 Miroslav Šedivý - Vim your Python, Python your Vim",https://www.youtube.com/watch?v=prnndyNV60w,prnndyNV60w,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20171129,1770,3701,36,3.0,"PyCon.DE2017,Python,PyCon.DE,PyData",Education,"Miroslav Šedivý (@eumiro)
+
+I'm bad at writing my bio. https://www.linkedin.com/in/šedivý/
+
+Abstract
+
+Tags: ide neovim vim editor python
+
+What do you use to write source code, docs, books or e-mails? Single brain, single pair of hands, single keyboard, but a different keyboard layout for each language and a different text editor for each purpose?
+Description
+
+Do you use an IDE to work on Python code, then switch to an e-mail client to write a message, then open a different editor to work on the documentation and finally ssh to a remote server to edit a configuration file? Do you switch languages frequently or are your colleagues named Müller, François, Muñoz or even Šedivý?
+
+I'll show you how I am happily typing in several languages on a single standard US keyboard layout and why my CapsLock became so useful.
+
+I'll show you how I use a single editor on all my machines to produce all sorts of text, especially Python code with a few useful plugins.
+
+I'll show you my own plugin written in Python to hack my e-mails far beyond imagination.
+
+
+Recorded at PyCon.DE 2017 Karlsruhe: pycon.de
+Video editing: Sebastian Neubauer & Andrei Dan
+Tools: Blender, Avidemux & Sonic Pi",https://i.ytimg.com/vi/prnndyNV60w/hqdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=prnndyNV60w,https://www.youtube.com/watch?v=prnndyNV60w
+18,PyCon.DE 2017 Raphael Michel - Plugin ecosystems for Python web-applications,https://www.youtube.com/watch?v=5NxRdzLTFik,5NxRdzLTFik,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20171129,1610,386,8,,"PyCon.DE2017,Python,PyCon.DE,PyData",Education,"Raphael Michel (@rami)
+
+I‘m a software developer working with the web for more than ten years and with Python and Django for over four years. I work as a freelancer and maintain multiple open source projects. The most notable Django-based one is pretix, a full-featured and free conference ticketing software.
+
+Abstract
+
+Tags: django python web
+
+The power of some popular web applications like WordPress comes from a flexible plugin system. This talk will show how to implement such plugin architectures for Python web applications including real-world examples. I'll give examples with Django, but the important bits aren't Django-specific.
+Description
+
+It is probably common sense by now that modular architectures win over monolithic architectures in a number of ways. Django gives us reusable apps, but just because they are reusable doesn’t mean they automatically integrate nicely with each other and a Python programmer is still required to glue them together. In this talk I will show how to build a rich Django application that provides a well-defined plugin API. The API will allow plugins to seamlessly integrate with the main application. The talk will show various patterns around URL routing, Django‘s signal system and the use of setuptools to provide auto-detection of installed plugins. Installing a plugin should not be much more complicated than a simple pip install.
+
+Django is only used as an example, most parts could be easily transferred to other web frameworks as well. The explained architecture has been in use for some years in the pretix open source project and made it possible to us to grow a rich plugin ecosystem.
+
+
+Recorded at PyCon.DE 2017 Karlsruhe: pycon.de
+Video editing: Sebastian Neubauer & Andrei Dan
+Tools: Blender, Avidemux & Sonic Pi",https://i.ytimg.com/vi_webp/5NxRdzLTFik/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=5NxRdzLTFik,https://www.youtube.com/watch?v=5NxRdzLTFik
+19,PyCon.DE 2017 Christian Staudt - The Python Ecosystem for Data Science: A Guided Tour,https://www.youtube.com/watch?v=BIWcciNeMm0,BIWcciNeMm0,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20171129,2243,251,2,,"PyCon.DE2017,Python,PyCon.DE,PyData",Education,"Christian Staudt (@C_L_Staudt)
+
+I am an independent data scientist with a background in computer science, in-depth in algorithms, data analysis, high-performance computing and software engineering. My current interests include machine learning and data visualization.
+
+Abstract
+
+Tags: use-case business ai analytics data-science python machine learning
+
+Pythonistas have access to an extensive collection of tools for data analysis. The space of tools is best understood as an ecosystem: Libraries build upon each other, and a good library fills an ecological niche by doing certain jobs well. This is a guided tour of the Python data science ecosystem.
+Description
+
+The Python Ecosystem for Data Science: A Guided Tour
+
+Python is on its way to becoming the lingua franca of data science, and Pythonistas have access to an impressive and extensive collection of tools for data analysis. Here, a data scientist needs to see the forest for the trees: The space of tools is best understood as an ecosystem, where libraries build upon each other, and where a good library fills an ecological niche by doing certain jobs well. This talk is a guided tour of the Python data science ecosystem. More than a list of libraries, it aims to provide some structure, classing tools by type of data, size of data, and type of analysis. In our tour, we visit a number of areas, including working with tabular data (numpy, pandas, dask, ...) and graph data (e.g. networkx), statistics (e.g. statsmodels), machine learning (scikit-learn, ...), data visualization (matplotlib, seaborn, bokeh, ...). Aspiring data scientists, and everyone else working with data, should find this useful for selecting the right tools for their next data-driven project.
+
+Recorded at PyCon.DE 2017 Karlsruhe: pycon.de
+Video editing: Sebastian Neubauer & Andrei Dan
+Tools: Blender, Avidemux & Sonic Pi",https://i.ytimg.com/vi_webp/BIWcciNeMm0/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=BIWcciNeMm0,https://www.youtube.com/watch?v=BIWcciNeMm0
+20,PyCon.DE 2017 Joey Faulkner - Rasa: open source conversational AI to build next generation chatbots,https://www.youtube.com/watch?v=LEFF7-_uh3M,LEFF7-_uh3M,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20171129,1832,1370,25,,"PyCon.DE2017,Python,PyCon.DE,PyData",Education,"Joey Faulkner (@JoeyMFaulkner)
+
+I am a PhD student in machine learning/astronomy, and an AI researcher at Rasa. We make open source libraries for conversational AI.
+
+Abstract
+
+Tags: python machine learning deep learning open source chatbot natural language ai business
+
+Soon you will primarily communicate with your computer through conversation. At Rasa, we believe that this revolution in user experience should be available to everyone. In this spirit we have developed open source tools that use machine learning to make chatbots in a developer-friendly interface.
+Description
+
+The revolution-in-waiting for user experience is conversational AI, and this revolution should be available to everyone. The ability to communicate with your computer via a fulfilling and useful conversation will change the way we approach user interaction. Recent advances in machine learning have made this goal not only possible to reach, but possible to bring to the developer community at large. At Rasa we have developed a set of open-source Python libraries which can comprehend natural language and handle complex, interesting conversations. We utilise deep learning to bypass existing rigid conversational norms (state machines, if/else statements, etc.) and allow developers to make awesome bots simply by talking to them.
+
+
+Recorded at PyCon.DE 2017 Karlsruhe: pycon.de
+Video editing: Sebastian Neubauer & Andrei Dan
+Tools: Blender, Avidemux & Sonic Pi",https://i.ytimg.com/vi/LEFF7-_uh3M/hqdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=LEFF7-_uh3M,https://www.youtube.com/watch?v=LEFF7-_uh3M
+21,PyCon.DE 2017 Hendrik Niemeyer - Synthetic Data for Machine Learning Applications,https://www.youtube.com/watch?v=riT9KTkBj0E,riT9KTkBj0E,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20171129,2710,1942,25,,"PyCon.DE2017,Python,PyCon.DE,PyData",Education,"Dr. Hendrik Niemeyer (@hniemeye)
+
+Data Scientist working on predictive analytics with data from pipeline inspection measurements.
+
+Abstract
+
+Tags: data-science python machine learning ai
+
+In this talk I will show how we use real and synthetic data to create successful models for risk assessing pipeline anomalies. The main focus is the estimation of the difference in the statistical properties of real and generated data by machine learning methods.
+Description
+
+ROSEN provides predictive analytics for pipelines by detecting and risk assessing anomalies from data gathered by inline inspection measurement devices. Due to budget reasons (pipelines need to be dug up to get acess) ground truth data for machine learning applications in this field are usually scarce, imbalanced and not available for all existing configurations of measurement devices. This creates the need for synthetic data (using FEM simulations and unsupervised learning algorithms) in order to be able to create successful models.
+
+But a naive mixture of real-world and synthetic samples in a model does not necessarily yield to an increased predictive performance because of differences in the statistical distributions in feature space. I will show how we evaluate the use of synthetic data besides simple visual inspection. Manifold learning (e.g. TSNE) can be used to gain an insight whether real and generated data are inherently different.
+Quantitative approaches like classifiers trained to discriminate between these types of data provide a non visual insight whether a ""synthetic gap"" in the feature distributions exists.
+
+If the synthetic data is useful for model building careful considerations have to be applied when constructing cross validation folds and test sets to prevent biased estimates of the model performance.
+
+
+Recorded at PyCon.DE 2017 Karlsruhe: pycon.de
+Video editing: Sebastian Neubauer & Andrei Dan
+Tools: Blender, Avidemux & Sonic Pi",https://i.ytimg.com/vi_webp/riT9KTkBj0E/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=riT9KTkBj0E,https://www.youtube.com/watch?v=riT9KTkBj0E
+22,PyCon.DE 2017 Thuy Le - Sport analysis with Python,https://www.youtube.com/watch?v=Fl6YFdf37IE,Fl6YFdf37IE,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20171129,1408,756,3,1.0,"PyCon.DE2017,Python,PyCon.DE,PyData",Education,"Thuy Le
+
+Abstract
+
+Tags: devops analytics data-science python
+
+Sport analysis with Python and visualize data with tableau. We have sample data of a team in football match (name of players, positions of players, velocities of players) which are recorded in every 20 millisecond. We use python to analysis and Tableau to visualize the activities of each player
+Description
+
+    Give an example data of the IoT sport case for instance the information of football match of a team (the positions, velocities of each player with are recorded in every 20 millisecond).
+    We use Python to analysis and processing data (calculate the match time, analyst the activities of each player such as time in the bench, time in the pitch, ... )
+    We use Tableau to visualize data
+
+
+
+Recorded at PyCon.DE 2017 Karlsruhe: pycon.de
+Video editing: Sebastian Neubauer & Andrei Dan
+Tools: Blender, Avidemux & Sonic Pi",https://i.ytimg.com/vi_webp/Fl6YFdf37IE/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=Fl6YFdf37IE,https://www.youtube.com/watch?v=Fl6YFdf37IE
+23,PyCon.DE 2017 Heidi Thorpe - The Mustache Movement,https://www.youtube.com/watch?v=9lVbpzd1hWk,9lVbpzd1hWk,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20171129,1714,137,3,,"PyCon.DE2017,Python,PyCon.DE,PyData",Education,"Heidi Thorpe
+
+Heidi graduated with Honors in Chemistry from the University of Leeds before taking up a position as an Industrial Chemist with ICI (ORICA). This led to a career in software development working in UK, Aus and USA. In 2000 she became an author by the publication by Addison Wesley of Oracle8i tuning and administration: the essential reference ASIN: B007EIZGOG this was a sales success and translated into German. In her spare time she uses python to write software that allows her to train object classifiers to steal mens' mustaches and put them on the face of Taylor Swift. For this talk she will give a simple introduction to Generative Adversarial Networks using learned ""mustache-ness"" as an example, implemented with existing python modules
+
+PyconAu 2016 and PyconHK 2016 is her speaking experience https://www.youtube.com/watch?v=70JAm03IBFI
+
+Abstract
+
+Tags: python machine learning torch scikit-learn numpy neural networks
+
+Generative Adversarial Networks (GANs) are a class of neural networks which are powerful and flexible tools. A common application is image generation. I would like to give a simple introduction to GANs using existing python modules and an example of how ""mustache-ness"" can be learned and applied.
+Description
+
+The objective is to showcase the power and flexibility of combining preexisting python modules and applying them to the field of image processing and machine learning. Learning what constitutes ""Mustache-ness"" in a straight forward and fun example of applying the technology in a 30 min presentation
+
+Attendees will learn tips on image processing, as well as training their own neural network.
+
+An analogy can be considered as a relation between forger and detective. The task of the forger is to create fake examples of original paintings by famous artists. If the fake can pass as an original the the forger can exchange the fake for money. The task of the detective is to catch the forgers. He does this by knowing what are the properties that set the original artist apart and what sort of picture he would create. The detective uses this knowledge to determine whether or not the image is real or fake. From an introduction of what a Generative Adversarial Network is, how they work and how they can be used to generate fake images of mustaches by determining what constitutes ""mustache-ness""
+
+You will learn that there are two main components of a GAN – Generator Neural Network and Discriminator Neural Network.
+
+The Generator Network takes an random input and tries to generate a sample of data.
+
+It then generates data which is subsequently fed into a discriminator network D(x). The task of Discriminator Network is to take input either from the real data or from the generator and try to predict whether the input is real or generated.
+
+D(x) solves a binary classification problem using sigmoid function giving output in the range 0 to 1.
+
+You will learn how to define the problem. Do you want to generate fake images or fake text. Having defined the problem you can then collect data for it. You will define how your GAN should look. In our example of ""mustache-ness"" you will choose a convolutional neural network.
+
+You will see the effect of training the Discriminator on real data for n epochs. Using examples of real mustaches we will generate fake ones. We will see generated fake inputs for the generator and the effect of training the discriminator on fake data. The discriminator will correctly predict them as fake. Subsequently we will see how to train the generator with the output of discriminator. Now we can see a trained generator that can fool the discriminator. Generating fake mustaches that are indistinguishable from real.
+
+Attendees will learn tips on image processing, as well as training your own convolutional neural network.
+
+Showcasing the power of python in a fun, lighthearted way. Hopefully, being informative and entertaining
+
+Recorded at PyCon.DE 2017 Karlsruhe: pycon.de
+Video editing: Sebastian Neubauer & Andrei Dan
+Tools: Blender, Avidemux & Sonic Pi",https://i.ytimg.com/vi_webp/9lVbpzd1hWk/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=9lVbpzd1hWk,https://www.youtube.com/watch?v=9lVbpzd1hWk
+24,PyCon.DE 2017 Florian Thole - Theoretical physics with sympy,https://www.youtube.com/watch?v=Ax0et1ZOOTc,Ax0et1ZOOTc,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20171129,1981,831,10,,"PyCon.DE2017,Python,PyCon.DE,PyData",Education,"Florian Thöle (@florian_thl)
+
+PhD student in Computational Materials Science. Enthusiastic about teaching. Instructor for Software Carpentry.
+
+Abstract
+
+Tags: physics science sympy
+
+In this talk, I will introduce the basics of sympy. Using a simple model system in magnetism, we'll play around with simplifications, then do a bit of numerical optimization and in the end make psychedelic-looking figures.
+Description
+
+I will introduce the basic functionalities of the sympy package to do symbolic computing, with a special focus on vector and matrix operations. Then, I'll briefly explain a real-world model from the description of 2D layered magnetic materials and use sympy to deal with the resulting expressions. We'll evaluate those expressions to visualize the results of the model and obtain a numerical estimate of a transition point.
+
+The aim of this talk is to give a light-hearted introduction into the world of symbolic computing to someone who has more fun working with computers than pen and paper.
+
+Recorded at PyCon.DE 2017 Karlsruhe: pycon.de
+Video editing: Sebastian Neubauer & Andrei Dan
+Tools: Blender, Avidemux & Sonic Pi",https://i.ytimg.com/vi_webp/Ax0et1ZOOTc/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=Ax0et1ZOOTc,https://www.youtube.com/watch?v=Ax0et1ZOOTc
+25,PyCon.DE 2017 Carsten Pohl - Platform intrusion detection with deep learning,https://www.youtube.com/watch?v=dXqBuZi7JOE,dXqBuZi7JOE,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20171201,2612,312,5,,"PyCon.DE2017,Python,PyCon.DE,PyData",Education,"Carsten Pohl (@carstenpohl)
+
+Before joining REWE digital I worked for Zalando, Fraunhofer IML. My first computer was a VIC-20. I develop professionally software since the 90ies. I am one of the main developers of the new Big data platform of REWE digital, and have deep knowledge about all aspects of the platform. And I have no favorite member of One Direction.
+
+Abstract
+
+Tags: python use-case deep learning e-commerce
+
+shop.rewe.de is not only visited by human customers, but also by machines. We have built a deep learning platform using python with Keras, Tensorflow, on the Google infrastructure. In this talk we would like to show you how python is used in practice, supporting 2,5 million visitors each day.
+Description
+
+shop.rewe.de is visited over 2 million times each day. Every visitor is producing thousands of requests in our micro service architecture. We are trying to give the best shopping experience for our customers, and try to keep our platform safe from bad bots. This is partly done by rule sets, and furthermore done by a platform that uses machine learning to classify bad behaviour. In this talk I would like to present our architecture that is not only able to fulfill this use case, but enables our data scientists in general to use our big data platform. the main scope will be the presentation of the use case. I will cover:
+
+    different microservices written in python using flask, google bigquery, tensorflow and keras
+    scaling this microservices with kubernetes, that automatically starts more predictors in case of higher load
+    implementation of quantifiers written in python, that generates data suitable for neural networks using numpy
+    examples from the real world behaviour of this plattform with lessons learned
+    examples how we feature engineered the data by analysing the data stored
+
+Recorded at PyCon.DE 2017 Karlsruhe: pycon.de
+Video editing: Sebastian Neubauer & Andrei Dan
+Tools: Blender, Avidemux & Sonic Pi",https://i.ytimg.com/vi_webp/dXqBuZi7JOE/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=dXqBuZi7JOE,https://www.youtube.com/watch?v=dXqBuZi7JOE
+26,PyCon.DE 2017 Yves Hilpisch - Why Python Has Taken Over Finance,https://www.youtube.com/watch?v=aXh7K6cFA8g,aXh7K6cFA8g,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20171201,1968,971,12,,"PyCon.DE2017,Python,PyCon.DE,PyData",Education,"Yves Hilpisch (@dyjh)
+
+The Python Quant http://hilpisch.com
+
+Abstract
+
+Tags: algorithms performance finance python
+
+Not too long ago, the finance field was dominated by compiled languages, such as C or C++, since they were considered to be the right choice for the implementation of computationally demanding algorithms. This talk explains why Python has become No 1 in the field.
+Description
+
+Not too long ago, the finance field was dominated by compiled languages, such as C or C++, since they were considered to be the right choice for the implementation of computationally demanding algorithms.
+
+Over the last couple of years, Python and its fast growing eco-system of (data analysis) packages have made it today's language of choice for the financial industry.
+
+This talk illustrates, based on some simple examples, the benefits of working with a high level programming language, such as Python, for the tasks at hand in finance. The examples illustrate that really concise Python code can achieve high performance results.
+
+
+Recorded at PyCon.DE 2017 Karlsruhe: pycon.de
+Video editing: Sebastian Neubauer & Andrei Dan
+Tools: Blender, Avidemux & Sonic Pi",https://i.ytimg.com/vi_webp/aXh7K6cFA8g/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=aXh7K6cFA8g,https://www.youtube.com/watch?v=aXh7K6cFA8g
+27,PyCon.DE 2017 Romain Dorgueil - Simple Data Engineering in python 3.5+ with Bonobo,https://www.youtube.com/watch?v=3agWJTRn2cc,3agWJTRn2cc,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20171201,1946,641,5,,"PyCon.DE2017,Python,PyCon.DE,PyData",Education,"Romain Dorgueil (@rdorgueil)
+
+Developer, sysadmin, technical team builder, founder of two companies), advisor.
+
+Currently helping start-ups to achieve more with less in our acceleration programs in Paris, and in charge of our product development activities.
+
+Sometimes, I play go and make music, but not at the same time.
+
+Abstract
+
+Tags: Python Business Data-Engineering ETL Simple Bonobo
+
+Simple is better than complex, and that's True for data pipelines, too.
+
+Bonobo is a python 3.5+ tool used to write and monitor data pipelines. It’s plain, simple, modern, and atomic python.
+
+This talk is a practical encounter, from zero to a complete data pipeline.
+
+Spoiler : no «big data» here.
+Description
+
+Simple is better than complex, right? That’s true for data pipelines too.
+
+For the last 5 years, I hacked together extract-transform-load (ETL) processes in various different positions (ETL is just a fancy term for «bunch of things that take data somewhere and put it elsewhere, eventually transformed»).
+
+I did it as a founder, as a consultant, as a technical co-founder, for some side projects, big corporates and small side projects.
+
+In each case, I felt frustrated with the tools available, and in some serious cases, I had to hack things myself to get the job done. Bonobo is the repackaging of my past experiences for python 3.5+, and grasping the basics should not take more than the length of the presentation.
+
+Outline (subject to small changes, for the greater good) :
+
+    INTRO : The ETL market, why a new tool, what it is, what it is not.
+    Basics and concepts.
+    Simple example.
+    Complete data pipeline example, using SQL, RDF and a small Django frontend.
+    OUTRO : A glimpse at the future.
+    Q&A
+
+Bonobo is the glue you need to tie together regular functions in a transformation graph (think unix pipes). Execution strategies are abstracted so you can focus on the real operations. As a result, you can engineer simple and testable systems, using the same good computer development practices as you use in .
+
+
+Recorded at PyCon.DE 2017 Karlsruhe: pycon.de
+Video editing: Sebastian Neubauer & Andrei Dan
+Tools: Blender, Avidemux & Sonic Pi",https://i.ytimg.com/vi_webp/3agWJTRn2cc/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=3agWJTRn2cc,https://www.youtube.com/watch?v=3agWJTRn2cc
+28,PyCon.DE 2017 Sebastian Dreßler - High-Performance Ingestion with Python and Swarm64DB,https://www.youtube.com/watch?v=L4EdHKLB_08,L4EdHKLB_08,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20171201,2459,239,3,,"PyCon.DE2017,Python,PyCon.DE,PyData",Education,"Sebastian Dreßler
+
+Abstract
+
+Tags: python
+
+Swarm64DB is a hardware-accelerated plugin for PostgreSQL and other RDBMS. By using Swarm64DB in combination with PostgreSQL, Python and the right scaling mechanism, we are able to push the ingestion throughput into areas where Python can easily compete with compiled languages. The talk highlights the architecture of our solution and showcases a real world use-case..
+Description
+
+In August 2016, a benchmark about asyncpg, a new PostgreSQL client library for Python was published. It highlighted ingestion speeds of up to 900k rows per second for a synthetic benchmark with a single byte per row. However, in realistic use-cases the ingestion speed is usually below that. Surprisingly it is not Python which is the limiting factor but rather the database itself. To make traditional RDBMS ready for Big Data, high performing OLAP and fast analysis on high speed data streams, Swarm64 created Swarm64DB, a hardware-accelerated plugin for PostgreSQL and other RDBMS. By using Swarm64DB in combination with PostgreSQL, Python and the right scaling mechanism, we are able to push the ingestion throughput into areas where Python can easily compete with compiled languages. The talk highlights the architecture of our solution and showcases a real world use-case.
+
+
+Recorded at PyCon.DE 2017 Karlsruhe: pycon.de
+Video editing: Sebastian Neubauer & Andrei Dan
+Tools: Blender, Avidemux & Sonic Pi",https://i.ytimg.com/vi_webp/L4EdHKLB_08/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=L4EdHKLB_08,https://www.youtube.com/watch?v=L4EdHKLB_08
+29,PyCon.DE 2017 Michael König - Turbodbc: Turbocharged database access for data scientists,https://www.youtube.com/watch?v=B-uj8EDcjLY,B-uj8EDcjLY,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20171201,1952,884,16,,"PyCon.DE2017,Python,PyCon.DE,PyData",Education,"Michael König (@turbodbc)
+
+Michael is a senior software engineer at Blue Yonder GmbH. He holds a PhD in physics, practices test-driven development, and digs Clean Code in C++ and Python. In the last five years, he invested more money in table tennis gear than in smartphones.
+
+Abstract
+
+Tags: numpy database python data-science analytics
+
+Python's database API 2.0 is well suited for transactional database workflows, but not so much for column-heavy data science. This talk explains how the ODBC-based turbodbc database module extends this API with first-class, efficient support for familiar NumPy and Apache Arrow data structures.
+Description
+
+This talk introduces the open source Python database module turbodbc. It uses standard ODBC drivers to connect with virtually any database and is a viable (and often faster) alternative to ""native"" Python drivers.
+
+Briefly recounting the painful story of how data scientists previously used our analytics database, I explain why turbodbc was created and what distinguishes it from other ODBC modules. Sketching the flow of data from databases via drivers and Python modules to consumable Python objects, I motivate a few extensions to the standard database API 2.0 that turbodbc has made. These extensions heavily use NumPy arrays and Apache Arrow tables to provide data scientists with both familiar and efficient binary data structures they can further work on. I conclude my talk with benchmark results for a few databases.
+
+
+Recorded at PyCon.DE 2017 Karlsruhe: pycon.de
+Video editing: Sebastian Neubauer & Andrei Dan
+Tools: Blender, Avidemux & Sonic Pi",https://i.ytimg.com/vi_webp/B-uj8EDcjLY/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=B-uj8EDcjLY,https://www.youtube.com/watch?v=B-uj8EDcjLY
+30,PyCon.DE 2017 Alexander Hendorf - Effective Data Analysis with Pandas Indexes,https://www.youtube.com/watch?v=-E2VTtdwT9U,-E2VTtdwT9U,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20171201,1851,285,1,,"PyCon.DE2017,Python,PyCon.DE,PyData",Education,"Alexander Hendorf
+
+Abstract
+
+Tags: machine learning analytics data-science business analytics
+
+Pandas is the Swiss-Multipurpose Knife for Data Analysis in Python. In this talk we will look deeper into how to gain productivity utilizing Pandas powerful indexing and make advanced analytics a piece of cake. Pandas features multiple index types. This talk will give you a deep insight into the Pandas indexes and showcase the handiness of special Indexes as the TimeSeriesIndex.
+
+
+Recorded at PyCon.DE 2017 Karlsruhe: pycon.de
+Video editing: Sebastian Neubauer & Andrei Dan
+Tools: Blender, Avidemux & Sonic Pi",https://i.ytimg.com/vi_webp/-E2VTtdwT9U/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=-E2VTtdwT9U,https://www.youtube.com/watch?v=-E2VTtdwT9U
+31,PyCon.DE 2017 Hardy Erlinger - Programming the Web of Things with Python and MicroPython,https://www.youtube.com/watch?v=JtsLlYvcRJI,JtsLlYvcRJI,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20171201,2782,216,1,,"PyCon.DE2017,Python,PyCon.DE,PyData",Education,"Hardy Erlinger is an experienced freelance developer from Munich. He has been writing web applications for 15 years using a lot of different technologies along the way. He has been actively involved with technical communities for most of his career and likes to experiment with electronic devices in his mad scientist lab.
+
+Abstract
+
+Tags: micropython python3
+
+In this session you will get a gentle introduction to the ever-expanding world of small programmable devices: learn to use single board computers and microcontrollers to connect to sensors and talk to APIs - all using Python or MicroPython, a subset of Python 3 for use in constrained environments.
+Description
+
+Small single board computers such as the Raspberry Pi have made physical computing available to interested makers around the world. It is highly affordable, runs Linux and can be programmed using Python. But if all you want is to read a few sensors, the Pi's specs are overkill; and once your sensors are out in the field (sometimes even literally), power consumption suddenly becomes an issue. Many specialized devices with very low power requirements are available but historically you were constrained to using C to develop for them. Enter MicroPython, a subset of Python 3 designed for use on tiny devices with very limited resources.
+
+In this session you will be introduced to the basics of physical computing and the joys (and some of the pains) of writing Python code for devices that weigh less than a piece of chewing gum but still have the power to communicate with web APIs, act as wireless access points, even host a small web server, and more.
+
+The purpose of this session is to share some of the fun and excitement that can be had doing physical computing with Python. No prior experience with electronics is assumed or required.
+
+
+Recorded at PyCon.DE 2017 Karlsruhe: pycon.de
+Video editing: Sebastian Neubauer & Andrei Dan
+Tools: Blender, Avidemux & Sonic Pi",https://i.ytimg.com/vi_webp/JtsLlYvcRJI/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=JtsLlYvcRJI,https://www.youtube.com/watch?v=JtsLlYvcRJI
+32,"PyCon.DE 2017 Jens Nie,Peer Wagner - Empowered by Python - A success story",https://www.youtube.com/watch?v=2Ku3tV3QQ3M,2Ku3tV3QQ3M,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20171201,1790,409,6,,"PyCon.DE2017,Python,PyCon.DE,PyData",Education,"Jens Nie,Peer Wagner (@jneines)
+
+Jens works primarily as a Technology Scout focusing on Big Data and Data Science at the ROSEN Technology & Research Center in Lingen, Germany. In this role he screens for latest developments in these areas and evaluates and demonstrates their possible use and benefit for the company. Looking back to more than 20 years in using Python and Linux, he considers him to be an Open Source enthusiast and committed Python advocate.
+
+Abstract
+
+Tags: use-case python business
+
+Introducing a new programming language in a company is always a daring task, usually involving a lot of effort and the will for change.
+
+We'd like to take you on a journey reflecting eight years of challenges, solutions and success ending in a best practice guide helping you to achieve the same.
+Description
+
+ROSEN is most recognized as a technology leader in the pipeline inspection business. To steadily achieve the best in class service for our customers, we are building and using the most sophisticated tools in the industry to perform the inspection services. This often results in very large volumes of data which have to be handled and analyzed.
+
+As a consequence, we were always out to search for the latest technology and state of the art tools to aid us.
+
+At a point where the most traditionally used tools for data analysis no longer scaled a handful of pioneers were brave enough to introduce a massive change in the scientific tool chain. This involved to address driving laboratory equipment, data processing, analysis and display, handling large volumes of data efficiently, building attractive graphical user interfaces, integrate with existing software applications and prepare for modern data analysis concepts based on machine learning to ensure both increasing result quality and faster data analysis.
+
+We've found Python to be the ideal foundation to achieve all this and started off with a few initial projects in order to prove. It turned out Python would be a real game changer for us.
+
+Recorded at PyCon.DE 2017 Karlsruhe: pycon.de
+Video editing: Sebastian Neubauer & Andrei Dan
+Tools: Blender, Avidemux & Sonic Pi",https://i.ytimg.com/vi_webp/2Ku3tV3QQ3M/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=2Ku3tV3QQ3M,https://www.youtube.com/watch?v=2Ku3tV3QQ3M
+33,PyCon.DE 2017 Anne Matthies - Keeping the grip on decoupled code using CLIs,https://www.youtube.com/watch?v=F20vrgQCFMs,F20vrgQCFMs,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20171201,1256,130,0,,"PyCon.DE2017,Python,PyCon.DE,PyData",Education,"Anne Matthies (@babeltron)
+
+Anne Matthies has been coding data stuff professionally since 1996. She switched to Python 2 in 2000, to Python 3 in 2015. Currently, she’s working at Babbel, Berlin, responsible for building and operating the data platform – and developing the next generation.
+
+Abstract
+
+Tags: pydata devops cli python
+
+So you’ve decoupled your code monolith into all those micro chunks. When someone asks „How can I…“ you want to answer: „That’s easy! We’ve built that.“ Actually, you’ve built all parts needed for that. Who plugs them together? And how?
+Description
+Keeping the grip on decoupled code using CLIs
+
+So you’ve decoupled your monolith spaghetti code into micro chunks. You’ve switched to infrastructure as code, and you’re confident that it scales horizontally. Your data pipelines are pretty resilient, your CI pipeline runs tests on every single git push.
+
+And then, you get a new team member. Or your CTO wants to plot data of his brandnew sandbox project that isn’t integrated into your pipelines. Or someone just asks „How can I…“ and you want to answer: „That’s easy! We’ve built that… – Well, actually, we’ve built all parts needed for that.“ Who plugs them together? And how?
+
+In my talk, I’d like to show how lightweight CLIs can be Ariadne Threads through the labyrinth of micro components. How at Babbel we use conda, setuptools entrypoints and simple CLI scripts to keep the grip on our data platform code chunks
+
+
+Recorded at PyCon.DE 2017 Karlsruhe: pycon.de
+Video editing: Sebastian Neubauer & Andrei Dan
+Tools: Blender, Avidemux & Sonic Pi",https://i.ytimg.com/vi_webp/F20vrgQCFMs/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=F20vrgQCFMs,https://www.youtube.com/watch?v=F20vrgQCFMs
+34,"PyCon.DE 2017 Maximilian Wilhelm - Building your own SDN with Debian Linux, Salt Stack and Python",https://www.youtube.com/watch?v=yH_0hptXL94,yH_0hptXL94,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20171201,2228,509,5,,"PyCon.DE2017,Python,PyCon.DE,PyData",Education,"Maximilian Wilhelm (@BarbarossaTM)
+
+By day Maximilian Wilhelm is working as a Senior Infrastructure Architect in the central computing department of the University of Paderborn, by night he's hacking on the infrastructure of the Freifunk Hochstift network and some Open Source projects. Since the early 2000s he has a heart for Linux and Open Source, developed a weaknes for networking, IPv6 and routing a long while a go and has beed a speaker and tutor at the #Routingdays. Lately he got his hands dirty with ifupdown2, VXLAN, Linux VRFs, infrastructure automation with Salt Stack and ""kommunistischen Frickelnetzen"" and is afraid of SDNs ever since. In his spare time he likes playing piano and the organ, taking pictures of natures and cute animals, and trying to stay on the board while Windsurfing.
+
+Abstract
+
+Tags: SDN SaltStack Linux Debian Networking devops use-case netops netdevops
+
+In this talk you will get an overview about some awesome features of comtemporary Linux networking, how to easily integrate them with some cool open source tools, and glueing all this together with Salt Stack and some Python to get your very own SDN controller for a service-provider style network.
+Description
+
+Topics like Infrastructure Automation / Orchestration, Cloud, and Software Defined Networks are on everyones tongue and nearly all network vendors who think highly of themselves provide products and maybe even solutions in this sphere of buzzwords.
+
+Within the last years there has been a paradigm shift towards host and segment routing – think »IP Fabric« – as well as a focus on open protocols and standards like OSPF, IS-IS, BGP & MPLS not only in the data center. This even brought us some new standards like VXLAN and a bunch of open source based “open networking” platforms. Now we aren't always locked to the operating systems of a networking vendor but can choose the control plane software from a variety of Linux based solutions which can be managed and orchestrated by lots of different means.
+
+Thanks to the Linux basis and the Open Source spirit of some vendors, some features (VRFs, MPLS forwarding plane, …) today are part of the upstream Linux kernel and available for everyone! Most notable are the contributions of the Debian Linux based platform from Cumulus Networks, which include the VRF support for Linux, some MPLS patches for FRR and ifupdown2 (which is written in Python :-)).
+
+Putting a bunch of these technologies and ideas together will open up a lot of powerful options for building low budget yet mighty networks. This talk will lay out how to build a SDN based service provide like infrastructure with the help of Salt Stack, some 1000 lines of Python and a bunch of affordable hardware where overlay networks and anycast aren't things to be scared of. The Freifunk Hochstift network and server infrastructure will be used as an example.
+
+The target audience mainly consists of (Linux-) system and network engineers / architects, who already have some experience with the other world. A positive attitude towards automation and magic is a plus.
+
+
+Recorded at PyCon.DE 2017 Karlsruhe: pycon.de
+Video editing: Sebastian Neubauer & Andrei Dan
+Tools: Blender, Avidemux & Sonic Pi",https://i.ytimg.com/vi_webp/yH_0hptXL94/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=yH_0hptXL94,https://www.youtube.com/watch?v=yH_0hptXL94
+35,PyCon.DE 2017 Björn Meier - No Compromise: Use Ansible properly or stick to your scripts,https://www.youtube.com/watch?v=7qipNlReXYg,7qipNlReXYg,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20171201,1692,290,1,,"PyCon.DE2017,Python,PyCon.DE,PyData",Education,"Bjoern Meier
+
+Bjoern is a software engineer at Blue Yonder GmbH since 2016 after graduating in Computer Science. More correctly you could say he is a DevOps engineer at Blue Yonder where he is developing and operating - among other things - the services for the external data interfaces, preprocessing and data storage to enable the data scientists to run their prediction models. He loves the versatility and ecosystem of python to write e.g. production web apps, data analysis tools or operational scripts. If there was more free time he would like to spent it to dive deeper into functional programming languages like elixir to have a different view on things.
+
+Abstract
+
+Tags: infrasturcture business devops
+
+What you do in Ansible should be clean an simple. What we did was not. So I will show what we did wrong but also what we have changed or still have to, to make our life easier again. But I will also show how we progressively utilize Ansible to deploy our Data Science infrastructure.
+Description
+
+Ansible should help you to orchestrate your systems, automate the deployments and set up well defined infrastructures. But if you want to make something work quickly in Ansible the chances are high that you fall back to shell/command tasks, the mother of all evil. Those tasks usually prevent you from running dry runs where you would see the upcoming changes and you prevent Ansible to shine. So, we went blindly into every deployment and hoped the best. But we wanted to see what would change, we wanted to make ansible --check work again and therefore in this talk I will show you what we did wrong and what we changed to get there.
+
+More precisely, I will show what you can do to replace the nasty shell tasks with proper modules, plugins and filters, how they are developed, tested and included in your project.
+
+
+Recorded at PyCon.DE 2017 Karlsruhe: pycon.de
+Video editing: Sebastian Neubauer & Andrei Dan
+Tools: Blender, Avidemux & Sonic Pi",https://i.ytimg.com/vi_webp/7qipNlReXYg/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=7qipNlReXYg,https://www.youtube.com/watch?v=7qipNlReXYg
+36,PyCon.DE 2017 Eberhard Hansis - Data Plumbing 101 - ETL Pipelines for Everyday Projects,https://www.youtube.com/watch?v=D7fYa0NrCuE,D7fYa0NrCuE,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20171201,1676,503,7,1.0,"PyCon.DE2017,Python,PyCon.DE,PyData",Education,"Eberhard Hansis
+
+I have been writing code for more than two thirds of my life, mostly for scientific computing and data analysis. In the past couple of years, I have worked on a range of different data science projects, all using Python at their core. During this time, I repeatedly was tasked with making data usable by joining multiple sources into a clearly defined data model. Once you have done that, it is amazing how much real-life value you can generate with little more than a bit of statistics and visualization. The world is full of underused data, let’s change that!
+
+Abstract
+
+Tags: data-science analytics python
+
+There is no data science without ETL! This presentation is about implementing maintainable data integration for your projects. We will have a first look a ‘Ozelot’, a library based on Luigi and SQLAlchemy that helps you get started with building ETL pipelines.
+Description
+ETL, the hard way
+
+You are starting a new data science project, and you can’t wait to perform some machine learning magic. However, before getting to ML, you have to deal with its ugly sibling: ETL. Extracting, transforming and loading data (or, more generally, data integration) is an indispensable first step in almost any data project.
+
+In your project you will, most likely, have to extract data from various sources, clean it, link it and prepare it to your needs. You will start writing a first data integration script for some part of the process, then a second, then a third. At some point you will write an ugly ‘master’ script to keep your 17 import scripts in check and run them in just the right order. When you come back to the code later, you will have a hard time deciphering what you did and why, and what format the output data is in.
+Pipelines to the rescue
+
+Implementing a proper data integration pipeline and a well-defined data model helps document your data flows and makes them traceable. More importantly, it simplifies the ETL development process, because it lets you easily re-run the whole process or parts of it. And you will have to modify and re-run your ETL, because your code changes, your output requirements change or the data changes.
+
+In this talk I propose a setup for building maintainable data integration pipelines for everyday projects. This setup is embodied by ‘Ozelot’, my brand-new Python library for ETL. It is based on Luigi for pipeline management and SQLAlchemy as ORM layer. Ozelot gives you core functionality to quickly start building your own solution, including an ORM base class, database connection management and Luigi task classes that play nice with the ORM. It comes with extensively documented examples that walk you through various aspects of data integration.
+
+The proposed setup works well for many small- to medium-sized projects -- projects, for which you previously might not have implemented a proper data integration pipeline. For big-data projects or those requiring live streaming data you probably want to consider alternative solutions.
+Core principles of data integration
+
+Taking one step back, I propose the following core principles for maintainable data integration:
+
+    Any and all data manipulation happens in the pipeline, in a single code base.
+    The pipeline represents all dependencies between data integration tasks.
+    Each task has a method for rolling back its operations.
+    Data is loaded into a single database, in a clearly defined, object-based data model that also encodes object relationships.
+    The whole process is fully automatic and thereby reproducible and traceable.
+
+I will discuss why I think that these principles are important, and how they are reflected in the proposed setup.
+
+
+Recorded at PyCon.DE 2017 Karlsruhe: pycon.de
+Video editing: Sebastian Neubauer & Andrei Dan
+Tools: Blender, Avidemux & Sonic Pi",https://i.ytimg.com/vi_webp/D7fYa0NrCuE/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=D7fYa0NrCuE,https://www.youtube.com/watch?v=D7fYa0NrCuE
+37,PyCon.DE 2017 Lauris Jullien - Verified fakes with OpenAPI,https://www.youtube.com/watch?v=NZqovz37Qcw,NZqovz37Qcw,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20171201,436,155,1,,"PyCon.DE2017,Python,PyCon.DE,PyData",Education,"Lauris Jullien (@herrbot_DE)
+
+I am a backend engineer @Yelp in Hamburg for 3 years. Before that I was working with robots @Aldebaran Robotics. And before that I was doing my own startup :) I like clean APIs, all you can do with data, and as a good French, wine.
+
+Abstract
+
+Tags: use-case python web
+
+It can be hard to test code that depends on external services. Often such services are mocked, but with time, it can be challenging to keep these mocks up to date. Verified fakes can solve this problem, and we will see how to set them up using OpenAPI and python.
+Description
+
+When your code depends on an external (third-party) service, testing it can be challenging. It may be expensive, slow or unreliable to call that service in tests. A classic approach is to mock such service or its network calls. But then the challenge becomes keeping the mocks up to date with the third-party services. Using verified fakes allows us to replace a service while guaranteeing that it stays up to date. This can be achieved in different ways: using recent network recordings (e.g. vcrpy), running a test suite against the mock and the real service to compare the results, or relying on an API contract like OpenAPI, or avro.
+
+OpenAPI* is a specification that documents how a service API works and enforces it by validating requests and responses for the service. We can then check the mocks against the OpenAPI specification to make sure they are up to date.
+
+In this talk, I will explain how to set up such verified fakes with OpenAPI, and present a new open-source library, pyramid_mock_server. Here are the 3 main focuses:
+
+    Quick introduction on OpenAPI and how to use it with bravado, the python OpenAPI client
+    How to set up Verified Fakes: using pyramid_mock_server
+    Usage @Yelp: usage of fakes and OpenAPI for unit tests, acceptance tests, and documentation
+
+The talk focuses on OpenAPI, but the learnings and methodology can be extended to any other API specification languages (or python web frameworks).
+
+* The OpenAPI initiative is a cross-vendor consortium focused on creating, evolving and promoting a vendor neutral description format for APIs. As an open governance structure under the Linux Foundation, its members include Google, IBM, Atlassian and PayPal.
+
+
+Recorded at PyCon.DE 2017 Karlsruhe: pycon.de
+Video editing: Sebastian Neubauer & Andrei Dan
+Tools: Blender, Avidemux & Sonic Pi",https://i.ytimg.com/vi_webp/NZqovz37Qcw/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=NZqovz37Qcw,https://www.youtube.com/watch?v=NZqovz37Qcw
+38,"PyCon.DE 2017 Samuel Muñoz Hidalgo - The eye of the Python, an eye tracking system. From zero to...",https://www.youtube.com/watch?v=JckAPb-HpME,JckAPb-HpME,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20171201,2394,135,0,,"PyCon.DE2017,Python,PyCon.DE,PyData",Education,"The eye of the Python, an eye tracking system. From zero to... what eye learned.
+
+Samuel Muñoz Hidalgo | BEEVA
+
+I am Samuel (Samu for friends). With a curious mind I studied computer science, then focused in machine learning and IoT as a professional career. I haven't given up on my plan to take over the world; that's why my coworkers know a crazy idea is coming out, when I can't hide any longer a mischievous smile. I like to meet people and understand other points of view, and in return I like to show what I can do and teach what I have mastered. But, what drives me crazy is rollerskating with disco music.
+
+Abstract
+
+Tags: data-science use-case python ai deep learning
+
+Is it possible to predict the point in the screen where a person is looking at? Easy to say but hard to do. An eye tracking system is the perfect project to learn the difficulties of applied machine learning. From gathering training data to building the final software with an acceptable performance.
+Description
+
+In this talk I will show how to build an eye tracking system from scratch.
+
+Once the approach (machine learning) and the tools (Python ecosystem) are set, the important tasks are:
+
+    Making users addicted to a game built with Pygame in order to generate data.
+    Unleashing the power of deep learning over GPU with Tensorflow to train an Artificial Neural Network.
+    Exploiting the training model in real time so as to control a computer with the eyes with PyAutoGUI.
+
+The path is full of pitfalls and every clear single step to the goal turns out to be a mountain of small but very important subtasks. Every iteration is a continuous struggle just to gain a bit of accuracy.
+
+Despite these efforts, at the very end we will see the difference between the theoretical and the real world. Our engineering skills will determine the usability of the new interface that allows us to move the mouse with our eyes; and we will learn that things don't need to be perfect, because humans are ...
+
+
+Recorded at PyCon.DE 2017 Karlsruhe: pycon.de
+Video editing: Sebastian Neubauer & Andrei Dan
+Tools: Blender, Avidemux & Sonic Pi",https://i.ytimg.com/vi_webp/JckAPb-HpME/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=JckAPb-HpME,https://www.youtube.com/watch?v=JckAPb-HpME
+39,"PyCon.DE 2017 Alexander Bauer - Large-scale machine learning pipelines using Luigi,...n",https://www.youtube.com/watch?v=VFB0rcfFCbg,VFB0rcfFCbg,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20171201,1948,535,4,,"PyCon.DE2017,Python,PyCon.DE,PyData",Education,"Large-scale machine learning pipelines using Luigi, PySpark and scikit-learn
+
+Alexander Bauer
+
+Alexander Bauer holds a Ph.D. in computer science. He has around 10 years industry experience, currently leading a team of data scientists at Lidl, one of the largest global discount supermarket chains. He is a Kaggle Master and regular speaker at the Frankfurt Predictive Analytics Meetup. He believes in agile software development practices and promotes Python as a primary language for data science applications in production.
+
+Abstract
+
+Tags: data-science analytics python machine learning
+
+For prescriptive analytics applications, data science teams need to design, build and maintain complex machine learning pipelines. In this talk, we demonstrate how such pipelines can be implemented in a robust, scalable and extensible manner using Python, Luigi, PySpark and scikit-learn.
+Description
+
+Data science teams working on real-world prescriptive analytics applications face the challenge to design, build and maintain considerably complex machine learning pipelines on a daily basis. Such pipelines include parsing data from multiple data sources, extracting relevant predictive features, executing training, validation, prediction steps and finally optimizing actions to meet desired business outcome so that they can be shared and visualized to business users. In this talk, we demonstrate how such pipelines can be implemented end-to- end in a robust, scalable and extensible manner using Python, Luigi, PySpark and scikit-learn. We will share our lessons learned from using this framework in a real-world demand forecasting use case.
+
+
+Recorded at PyCon.DE 2017 Karlsruhe: pycon.de
+Video editing: Sebastian Neubauer & Andrei Dan
+Tools: Blender, Avidemux & Sonic Pi",https://i.ytimg.com/vi_webp/VFB0rcfFCbg/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=VFB0rcfFCbg,https://www.youtube.com/watch?v=VFB0rcfFCbg
+40,PyCon.DE 2017 Nils Braun - Time series feature extraction with tsfresh - “get rich or die..,https://www.youtube.com/watch?v=Fm8zcOMJ-9E,Fm8zcOMJ-9E,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20171201,1631,16649,305,24.0,"PyCon.DE2017,Python,PyCon.DE,PyData",Education,"Time series feature extraction with tsfresh - “get rich or die overfitting”
+
+Nils Braun (@_nilsbraun)
+
+Currently I am doing my PhD in Particle Physics - which mainly involves development of software in a large collaboration. I love working with Python and C++ to process large amounts of data. Of course it needs to be processed as quickly as possible. I am working on the core reconstruction algorithms for our experiment, which are steered and controlled using Python. Apart from that, I was working as a Data Science Engineer for Blue Yonder, a leading machine learning company, where the idea for tsfresh was born. I am still heavily involved in the project. When I am not writing code, I am updating myself on the newest technical geek stuff (mostly cloud computing and deep learning) or play the guitar.
+
+Abstract
+
+Tags: pydata time series data-science machine learning python ai
+
+Have you ever thought about developing a time series model to predict stock prices? Or do you consider log time series from the operation of cloud resources as being more compelling? In this case you really should consider using the time series feature extraction package tsfresh for your project.
+Description
+
+Trends such as the Internet of Things (IoT), Industry 4.0, and precision medicine are driven by the availability of cheap sensors and advancing connectivity, which among others increases the availability of temporally annotated data. The resulting time series are the basis for manifold machine learning applications. Examples are the classification of hard drives into risk classes concerning specific defect, the log analysis of server farms for detecting intruders, or regression tasks like the prediction of the remaining lifespan of machinery. Tsfresh also allows to easily setup a machine learning pipeline that predicts stock prices, which we will demonstrate live during the presentation ;). The problem of extracting and selecting relevant features for classification or regression is these domains is especially hard to solve, if each label or regression target is associated with several time series and meta-information simultaneously – which is a common pattern in industrial applications. This talk introduces a distributed and parallel feature extraction and selection algorithm – the recently published Python library tsfresh. The fully automated extraction and importance selection does not only allow to reach better machine learning classification scores, but in combination with the speed of the package, also allows to incorporate tsfresh into automated AI-pipelines.
+
+
+Recorded at PyCon.DE 2017 Karlsruhe: pycon.de
+Video editing: Sebastian Neubauer & Andrei Dan
+Tools: Blender, Avidemux & Sonic Pi",https://i.ytimg.com/vi_webp/Fm8zcOMJ-9E/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=Fm8zcOMJ-9E,https://www.youtube.com/watch?v=Fm8zcOMJ-9E
+41,PyCon.DE 2017 Adrian Seyboldt - An introduction to PyMC3,https://www.youtube.com/watch?v=FKhivuCLIT0,FKhivuCLIT0,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20171201,2612,821,6,2.0,"PyCon.DE2017,Python,PyCon.DE,PyData",Education,"Adrian Seyboldt
+
+I studied Mathematics and Bioinformatics in Bonn and Tübingen and I am a core developer of pymc3 since Feb 2017. Currently, I work for Quantopian on the development of Bayesian Methods for portfolio allocation.
+
+Abstract
+
+Tags: python data-science machine learning analysis
+
+PyMC3 allows you to build statistical models for a wide range of datasets, use those models to estimate underlying parameters, and compute the uncertainty about those parameters. In this talk I will try to give a gentle introduction to PyMC3, and help avoid common pitfalls for new users.
+Description
+
+Some of the problems that are discussed in the context of the reproducibility crisis in science and statistics can be solved or alleviated by tools like PyMC3 or Stan. They allow users to build much more realistic models and get a full distribution of the possible values for parameters as output – instead of p-values that are often hard to interpret correctly. Thanks to Hamiltonian and Variational methods, they are more flexible and can be applied to larger problems than predecessors like JAGS and BUGS. However, these new methods also come with challenges. Writing good models isn't easy, and when inference algorithms cry out in pain, they need someone who listens to them. This talk uses some real-world applications to give an introduction to PyMC3, without requiring a lot of background in math, statistics or programming.
+
+
+Recorded at PyCon.DE 2017 Karlsruhe: pycon.de
+Video editing: Sebastian Neubauer & Andrei Dan
+Tools: Blender, Avidemux & Sonic Pi",https://i.ytimg.com/vi_webp/FKhivuCLIT0/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=FKhivuCLIT0,https://www.youtube.com/watch?v=FKhivuCLIT0
+42,PyCon.DE 2017 Yenny Cheung - Technical Lessons Learned from Pythonic Refactoring,https://www.youtube.com/watch?v=Yq9-b2JKUyU,Yq9-b2JKUyU,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20171201,1863,2152,42,2.0,"PyCon.DE2017,Python,PyCon.DE,PyData",Education,"Yenny Cheung (@yennycheung)
+
+Yenny Cheung, Software Engineer, Biz National, Yelp
+
+Originally from Hong Kong, Yenny moved to Pennsylvania in the US to study Computer Science at Swarthmore College. She attended the Grace Hopper Conference three times during her college years. After graduation, Yenny moved to Hamburg and joined Yelp as a full-stack software engineer. Yenny works on the Biz National team, where she is scaling advertising tools and reporting for multi-location businesses and franchises. She is a pioneer of the Awesome Women in Engineering Group at Yelp in Germany and she is active in Women in Engineering Meetups in Hamburg. Outside of work, Yenny enjoys yelping for good food and painting.
+
+Abstract
+
+Tags: code smell api refactoring python web
+
+Ever stumbled upon poorly-maintained codebases that suck away your productivity? Fear no more! This talk addresses how to identify code smell (from Brie to Bleu cheese) and go through examples to refactor code and APIs. You will learn the art of writing clean, maintainable and idiomatic Python code.
+Description
+
+This talk targets beginner software engineers yet also aims to provide interesting content for more advanced developers. You will leave knowing more about code smells and understanding the whys and hows of refactoring.
+
+Code smells refer to the symptoms of problematic code design. Identifying different types of code smells is the first step to successful refactoring. I will talk through some classic examples:
+
+    Unnecessarily complex code
+    Inappropriate naming
+    Duplicated code
+    Non-modularized code
+
+Knowing what to refactor, I will share a few learnings that lead to good quality code:
+
+    Good python practices (The Zen of Python & PEP8)
+    Good use of data structures (named tuples & sets)
+    The art of pythonic naming
+    DRY principle
+    Separation of concerns principle (modularity & encapsulation)
+
+Refactoring also makes testing easier. I will discuss how to write unit tests that cover all use cases. Finally I will talk about integration testing strategies that ensure that you and people who want to modify your API in the future are not breaking upstream code.
+
+
+Recorded at PyCon.DE 2017 Karlsruhe: pycon.de
+Video editing: Sebastian Neubauer & Andrei Dan
+Tools: Blender, Avidemux & Sonic Pi",https://i.ytimg.com/vi_webp/Yq9-b2JKUyU/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=Yq9-b2JKUyU,https://www.youtube.com/watch?v=Yq9-b2JKUyU
+43,PyCon.DE 2017 Patrick Schemitz - From Java to Python: Migrating Search Functionality at billiger.de,https://www.youtube.com/watch?v=2fuW9ITUXrU,2fuW9ITUXrU,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20171201,1758,592,6,,"PyCon.DE2017,Python,PyCon.DE,PyData",Education,"Patrick Schemitz
+
+Patrick is a Senior Scientist at solute GmbH. An avid Pythonista since 2003, his main responsibility is the billiger.de search functionality, which he (co-) wrote using first Lucene, later Solr and now SolrCloud. Besides that, he wrote the SVM-based offer categorization at billiger.de and has a keen interest in machine learning. Patrick holds a Ph.D. in particle physics from Karlsruhe university.
+
+Abstract
+
+Tags: solrcloud solr search python
+
+billiger.de is a German price comparison site. Search is handled by a heavily customized Solr setup. When switching to SolrCloud earlier this year, instead of porting our custom SolrComponents to SolrCloud, we ended up re-implementing them in a Python service layer. Here we show how, and why.
+Description
+
+The search on our price comparison site billiger.de is implemented using Solr and half a dozen custom SolrComponents. When switching from Solr to SolrCloud earlier this year, we had to go over all our custom components in order to make them cluster-ready. What we ended up doing instead was re-implementing the custom functionality in a Python service layer that in turn uses stock SolrCloud. This talk describes our journey, shows some code and advocates hiding implementation details like Solr v. SolrCloud behind a service layer. Ported functionality includes boosting more successful documents, identifying brands and categories in queries, ""minimum match"" search and facet ranking and alternatives.
+
+
+Recorded at PyCon.DE 2017 Karlsruhe: pycon.de
+Video editing: Sebastian Neubauer & Andrei Dan
+Tools: Blender, Avidemux & Sonic Pi",https://i.ytimg.com/vi_webp/2fuW9ITUXrU/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=2fuW9ITUXrU,https://www.youtube.com/watch?v=2fuW9ITUXrU
+44,PyCon.DE 2017 Nafiul Islam - Graphql in the Python World,https://www.youtube.com/watch?v=FpQpF0BTrJU,FpQpF0BTrJU,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20171208,1503,354,4,,,Education,"Nafiul Islam (@gamesbrainiac)
+
+I'm Nafiul. I am a Bangladeshi who got lucky and is now working in Amsterdam. I have a deep passion for teaching and learning; I spend a lot of time on StackOverflow, answering questions, and I also spend a lot of time mentoring people on hackhands. I've even written a book in PyCharm, to share all of my IDE secrets. I don't I have a right to have people listening to me, but I feel that what I have to say is worth a try listening to, and I'm also (I believe) a good guy to have a discussion with.
+
+I'm not a fan of One Direction, primarily because they seem like a bunch of overgrown teenage boys unable to come to terms with their own maturity. In case you want to hear some real music you might want to try out ""Fortunate Son"" by Creedence Clearwater Revival. I have more :)
+
+Abstract
+
+Tags: web python
+
+So you've heard about this new thing called Graphql. What is it all about? What problems does it solve, and most importantly, how can you leverage it the python ecosystem? This talk is a tell all on what what Graphql is and how you can start using it with Python.
+Description
+
+Graphql is a new way of communicating with your data sources. It will very likely replace RESTful APIs because it provides a better framework for dealing with your data. This talk is about what Graphql is, what problems it actually solves in comparison to RESTful APIs, and if you like it, how you can get started using the python graphene library, and how to use it with different ORMs like Django and SQLAlchemy.
+
+Recorded at PyCon.DE 2017 Karlsruhe: pycon.de 
+Video editing: Sebastian Neubauer & Andrei Dan 
+Tools: Blender, Avidemux & Sonic Pi",https://i.ytimg.com/vi_webp/FpQpF0BTrJU/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=FpQpF0BTrJU,https://www.youtube.com/watch?v=FpQpF0BTrJU
+45,PyCon.DE 2017 Stephan Erb - The Snake in the Tar Pit: Complex Systems with Python,https://www.youtube.com/watch?v=pee-e01DiyI,pee-e01DiyI,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20171208,2471,334,2,,,Education,"Stephan Erb (@ErbStephan)
+
+Stephan Erb is a software engineer driven by the goal to make Blue Yonder's data scientists more productive. Stephan holds a master's degree in computer science from the Karlsruhe Institute of Technology (KIT). He is a PMC member of the Apache Aurora project and tweets at @ErbStephan.
+
+Abstract
+
+Tags: system design complexity python
+
+The Zen of Python motivates us to build software that is easy to maintain and extend. In reality however, we often end up with systems that are quite the opposite: complex and hard to change. In this talk, we will have a look at why this happens and how we can try to prevent it.
+Description
+
+Beautiful is better than ugly. Explicit is better than implicit. Simple is better than complex. ...
+
+That is how the Zen of Python motivates us Python programmers to build software that is easy to maintain and extend. In reality however, after years of development, we often end up with systems that are quite the opposite: large code bases, slow turn around times, and brittle operations.
+
+In this talk we will explore software design methodologies that can help to prevent this from happening. We will have a closer look at seminal work by computer scientists that has proven to be useful in practice. This includes:
+
+    Out of the Tar Pit by Ben Moseley and Peter Marks
+    End-to-End Arguments in System Design by Saltzer et al.
+    Programming Pearls by Jon Bentley
+
+A conference talk is clearly not sufficient to cover the breath of the mentioned literature. Main goal of the talk is therefore to illustrate a few key messages using examples from real-world Python projects.
+
+
+Recorded at PyCon.DE 2017 Karlsruhe: pycon.de 
+Video editing: Sebastian Neubauer & Andrei Dan 
+Tools: Blender, Avidemux & Sonic Pi",https://i.ytimg.com/vi/pee-e01DiyI/hqdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=pee-e01DiyI,https://www.youtube.com/watch?v=pee-e01DiyI
+46,PyCon.DE 2017 Ami Tavory - Getting Scikit-Learn To Run On Top Of Pandas,https://www.youtube.com/watch?v=boXOVvu43ZI,boXOVvu43ZI,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20171208,1738,164,1,,,Education,"Ami Tavory
+
+Ami is a data scientist at Facebook Research's Core Data Science group. He previously worked as a machine learning researcher in the fields of bioinformatics and algorithmic trading. In 2010 he received a Ph.D in Electrical Engineering from Tel Aviv University, in the field of financial information theory. His bachelor's and master's are from Tel Aviv University too.
+
+Ami uses Python and C++ for data analysis. He contributed to various open source projects, and is the author of a libstd C++ extension shipped with g++ (pb_ds: policy-based data structures).
+
+Abstract
+
+Tags: code-introspection scikit-learn pandas data-science python machine learning
+
+Scikit-Learn is built directly over numpy, Python's numerical array library. Pandas adds to numpy metadata and higher-level munging capabilities. This talk describes how to intelligently auto-wrap Scikit-Learn for creating a version that can leverage pandas's added features.
+Description
+
+Scikit-Learn is the de-facto standard Python library for general-purpose machine learning. It operates over NumPy, an efficient, but low-level, homogeneic array library. Pandas adds to NumPy metadata, heterogeneity, and higher-leve munging capabilities.
+
+In the field of visualization, newer generation libraries, e.g., Seaborn and Bokeh, are providing safer, more readable, and higher-level functionality, by operating over Pandas data structures. Some of these are implemented using Matplotlib, a lower-level NumPy-based plotting library.
+
+This talk describes a library for a Pandas-based version of sickit-learn. Here, too, giving a Pandas interface to a machine-learning library, provides code which is safer to use, more readable, and allows direct integration with Pandas's higher-level munging capabilities.
+
+Due to the large-scale, and evolving nature, of sicikit-learn's codebase, it is infeasible to manually wrap it. Except for a small number of intentional deviations from sickit-learn, the library wraps Scikit-Learn modules lazily through module and class introspection, and dynamic module loading.
+
+Following a short review of the relevant points of Pandas and Scikit-Learn, the talk is roughly divided into two aspects:
+
+    Scikit-Learn And Pandas User Perspective
+        Safety Advantages Of Pandas-Based Estimators
+        Using Metadata For Inter-Instance Aggregated Features And Cross-Validation
+        Using Metadata For Advanced Meta-Algorithms: Stacking, Nested Labeled And Stratified Cross-Valdiation
+    Python Develop Perspective
+        Unique Challenges Of Scikit-Learn Introspection And Decoration
+        Two Approaches For Wrapping Scikit-Learn Estimators
+        Lazy Dynamic Module Loading
+
+Recorded at PyCon.DE 2017 Karlsruhe: pycon.de 
+Video editing: Sebastian Neubauer & Andrei Dan 
+Tools: Blender, Avidemux & Sonic Pi",https://i.ytimg.com/vi_webp/boXOVvu43ZI/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=boXOVvu43ZI,https://www.youtube.com/watch?v=boXOVvu43ZI
+47,PyCon.DE 2017 Yasir Khan - Data Science Best Practices : From Proof of Concepts to Production,https://www.youtube.com/watch?v=OPw0VrZdLdo,OPw0VrZdLdo,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20171208,1713,966,7,,,Education,"Yasir Khan
+
+Yasir Khan is working as a Data Science Manager. He has nearly 12 years of experience in consulting and R&D domains. He obtained his PhD in Applied Machine Learning and has been invited as a speaker at several leading international forums and conferences. He has nearly 12 research articles and journals to his credit and book chapters published by Cambridge University Press.
+
+In his spare time he loves flying WWII aircrafts at a local aeroclub and is an avid scuba diver. He is also an investor in 2 technology startups.
+
+Abstract
+
+Tags: use-case analytics python machine learning ai business
+
+This presentation will benefit the audience as it brings forward the practical issues in the industry today as we move towards industrializing data science algorithms. We will discuss the best practices around organization, methodology and tools to integrate a data science project into production.
+Description
+
+As the industry understands the importance of Data Science for transforming businesses an interesting trend is arising. We have started seeing a widening gap & increasing difficulty to move teams from Proof of Concepts to Production. Apart from searching for the best data scientists, the industry is now looking for answers to organize & federate the data teams around practical business use cases. In this talk, Yasir Khan will provide an overview of the bottlenecks, and hurdles involved in a practical data project. While citing lessons learned from industry, this presentation will focus on important aspects such as business centric, data culture, data pipelines, organization, methodology & tools all of which are important but seldom ignored in large corporations.
+
+Recorded at PyCon.DE 2017 Karlsruhe: pycon.de 
+Video editing: Sebastian Neubauer & Andrei Dan 
+Tools: Blender, Avidemux & Sonic Pi",https://i.ytimg.com/vi_webp/OPw0VrZdLdo/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=OPw0VrZdLdo,https://www.youtube.com/watch?v=OPw0VrZdLdo
+48,PyCon.DE 2017 David Dao - Really Deep Neural Networks with PyTorch,https://www.youtube.com/watch?v=ZUHhNuw9Tlc,ZUHhNuw9Tlc,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20171208,2438,908,13,,,Education,"David Dao (@dwddao)
+
+David is a PhD student at ETH Zurich, working on Deep Reinforcement Learning. Before joining ETH Zurich, he was an autonomous driving researcher at Mercedes-Benz Research in Silicon Valley and a graduate student at the Broad Institute of MIT and Harvard.
+
+David is a firm believer in open source and is organising Germany's largest deep learning meetup series, and Silicon Valley's self-driving AI series. He is a contributor to popular machine intelligence frameworks such as TensorFlow and PyTorch and speaks chinese with swabian accent.
+
+Abstract
+
+Tags: deep learning ai machine learning python autonomous-driving pytorch
+
+Modern neural networks have hundreds of layers! How can we train such deep networks? Simply stacking layers on top doesn't work! This talk introduces the deep learning library PyTorch by explaining the exciting math, cool ideas and simple code behind what makes really deep neural networks work.
+Description
+
+Modern neural networks consist of hundreds of computation layers! These very deep architectures consistently outperform shallower networks in a variety of tasks. However just simply stacking layers on top of each other won't work because the gradients are either vanishing or exploding during optimisation procedure. This talk explains the exciting math, cool ideas and elegant code that modern neural network architectures such as ResNets, HighwayNets and DenseNets are applying to circumvent the problem using PyTorch. PyTorch is a relatively new deep learning framework that is deeply integrated into Python. Unlike other frameworks such as TensorFlow and Theano, it uses tape-based automatic differentiation to run computation immediately, supports dynamic neural networks and provides a powerful GPU-accelerated Tensor library. The talk concludes with some real-world use-cases for very deep neural networks in chemical-genetic profiling and autonomous driving.
+
+Recorded at PyCon.DE 2017 Karlsruhe: pycon.de 
+Video editing: Sebastian Neubauer & Andrei Dan 
+Tools: Blender, Avidemux & Sonic Pi",https://i.ytimg.com/vi_webp/ZUHhNuw9Tlc/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=ZUHhNuw9Tlc,https://www.youtube.com/watch?v=ZUHhNuw9Tlc
+49,PyCon.DE 2017 Stephan Jeansch - Migrating existing codebases to using type annotations,https://www.youtube.com/watch?v=JKvtrb2GWMY,JKvtrb2GWMY,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20171201,2252,104,0,,"PyCon.DE2017,Python,PyCon.DE,PyData",Education,"Stephan Jaensch (@s_jaensch)
+
+I'm a backend developer and tech lead at Yelp, working on the core infrastructure of the Commerce group. I've worked and continue to work on our Business Owner App backend and am deeply involved in the service infrastructure at Yelp. My main focus area is inter-service development. I'm one of the maintainers of the Python stack for Swagger / OpenAPI (bravado etc). I also work on developer productivity, such as making integration and end-to-end testing faster and more reliable.
+
+Abstract
+
+Tags: python
+
+You have an existing codebase of tens or hundreds of thousands of lines of Python code? Learn how to get started with type annotations! Get your teammates (and yourself!) to always annotate your code. Find out what unexpected issues you might run into and how to solve them, all with this talk.
+Description
+
+You've heard about type annotations, you know they help reduce bugs and improve documentation especially for large codebases, and you've attended an introductory talk or read a tutorial about using them. But how do you get started using them with your big, existing codebase? How do you make sure your colleagues will be annotating new code they write - or existing code they're changing? And how do you get around some of the issues you might run into when using the still-beta type checker mypy on your codebase?
+
+This talk will start where the typical introductory Python type annotation talks end and discuss the real-world challenges when starting to annotate types with an existing codebase of tens or hundreds of thousands of lines of code. I'll walk you through best practices learned from doing just that at Yelp, telling you about some of the roadblocks we hit (and how we got past them). We'll also take a look at:
+
+    how you can get the most out of type annotations even with non-annotated third-party libraries
+    how to deal with decorators and other things that currently don't work well with annotations
+    when the only way to get proper type checking is through refactoring your code.
+
+Recorded at PyCon.DE 2017 Karlsruhe: pycon.de
+Video editing: Sebastian Neubauer & Andrei Dan
+Tools: Blender, Avidemux & Sonic Pi",https://i.ytimg.com/vi_webp/JKvtrb2GWMY/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=JKvtrb2GWMY,https://www.youtube.com/watch?v=JKvtrb2GWMY
+50,PyCon.DE 2017 Patrick Mühlbauer - Observing your applications with Sentry and Prometheus,https://www.youtube.com/watch?v=f3WO4bpLySs,f3WO4bpLySs,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20171222,1373,393,4,,,Education,"Patrick Mühlbauer
+
+Patrick's a Software Engineer from Karlsruhe, working in Blue Yonder's Platform team. He likes this devops thing and enjoys instrumenting code to collect metrics and create nice and shiny Grafana Dashboards. To look at them. For hours. He also likes beer. A lot. Let's have some at the Social Event!
+
+Abstract
+
+Tags: web monitoring observability
+
+If you have services running in production, something will fail sooner or later. We cannot avoid this completely, but we can prepare for it. In this talk we will have a look at how Sentry and Prometheus can help to get better insight into our systems to quickly track down the cause of failure.
+Description
+
+When your services start to behave in a strange way, for example due to bugs introduced in the newly deployed release, you want get informed about that as fast as possible. Preferably by your own monitoring and not by one of your customers. We will have a look at how Sentry and Prometheus can help with that.
+
+Sentry is a real-time error tracking system, which can notify you when exceptions in your application occur. Additionally, it provides lots of context so that crashes can be reproduced and fixed very quickly.
+
+Prometheus is a systems and service monitoring system, collecting metrics from all kinds of targets. The collected metrics can help to get insight in what's actually going on in your services.
+
+Rough outline for the talk:
+
+    What's observability and why should I care?
+    Erros and Exceptions in Python
+    How to track errors with Sentry
+    Introduction to Metrics and Prometheus
+    Instrumenting Python applications
+    Summary
+
+Recorded at PyCon.DE 2017 Karlsruhe: pycon.de 
+Video editing: Sebastian Neubauer & Andrei Dan 
+Tools: Blender, Avidemux & Sonic Pi",https://i.ytimg.com/vi_webp/f3WO4bpLySs/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=f3WO4bpLySs,https://www.youtube.com/watch?v=f3WO4bpLySs
+51,PyCon.DE 2017 Christian Theune - An Admin's Cornucopia - Python Is More Than Just A Better Bash,https://www.youtube.com/watch?v=CQ3qwmld5V8,CQ3qwmld5V8,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20171222,1782,181,0,,,Education,"Christian Theune (@theuni)
+
+Abstract
+
+Tags: python devops
+
+Python's versatility is known to admins - in this talk I'd like to show how it fits for many small and big challenges I meet regularly: from tiny scripts to large systems. Also, I'll show how using the languages' advanced and/or newer features makes scripts more compact and robust.
+Description
+
+DRAFT Unfortunately I got sick just a few days before the CFP date, so hopefully you can live with a draft description for now. I'll be happy to update this during or after the review as needed.
+
+I'd like to give a hands-on approach for how to use Python in a mixed environment where you may be writing very small standalone scripts, small integration programs and/or larger systems. As an admin bash is always a very close friend and one quickly uses it and then ends up with large scripts that should never have seen the day of light. Also, admins nowadays might be writing larger software bases that are actual software projects and the lines between ""ops"" and ""devs"" are - on purpose - more and more blurry. However, there are some differences in ""application development"" and ""system development"". Those are more of a mindset issue, however, and Python as a technology fits in both situations quite well and allows one to transition between those modes rather seamlessly.
+
+I'll be reviewing specific pieces of code from our infrastructure, ranging from smaller scripts to subsystems to a full-born Pyramid application that we use for inventory management. All of those will use different versions of Python, different libraries and different approaches how to solve certain problems. I will likely show how not to do things as well.
+
+Recorded at PyCon.DE 2017 Karlsruhe: pycon.de 
+Video editing: Sebastian Neubauer & Andrei Dan 
+Tools: Blender, Avidemux & Sonic Pi",https://i.ytimg.com/vi_webp/CQ3qwmld5V8/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=CQ3qwmld5V8,https://www.youtube.com/watch?v=CQ3qwmld5V8
+52,PyCon.DE 2017 Dominik Benz -  Flow is in the Air: Best Practices with Apache Airflow,https://www.youtube.com/watch?v=Ea3smcbnGxE,Ea3smcbnGxE,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20171222,2865,532,2,,,Education,"Flow is in the Air: Best Practices of Building Analytical Data Pipelines with Apache Airflow
+
+Dominik Benz (@john_maverick)
+
+Dominik Benz holds a PhD from the University of Kassel in the field of Data Mining on the Social Web. Since 2012 he is working as a Big Data Engineer at Inovex GmbH. In this time, he was involved in several projects concerned with establishing analytical data platforms in various companies. He is most experienced in tools around the Hadoop Ecosystem like Apache Hive and Spark, and has hands-on experience with productionizing analytical applications.
+
+Abstract
+
+Tags: workflow data pipeline data-science analytics
+
+Apache Airflow is an Open-Source python project which facilitates an intuitive programmatic definition of analytical data pipelines. Based on 2+ years of productive experience, we summarize its core concepts, detail on lessons learned and set it in context with the Big Data Analytics Ecosystem.
+Description
+Motivation & Outline
+
+Creating, orchestrating and running multiple data processing or analysis steps may cover a substantial portion of a Data Engineer and Data Scientist business. A widely adopted notion for this process is a ""data pipeline"" - which consists mainly of a set of ""operators"" which perform a particular action on data, with the possibility to specify dependencies among those. Real-Life examples may include:
+
+    Importing several files with different formats into a Hadoop platform, perform data cleansing, and training a machine learning model on the result
+    perform feature extraction on a given dataset, apply an existing deep learning model to it, and write the results in the backend of a microservice
+
+Apache Airflow is an open-source Python project developed by AirBnB which facilitates the programmatic definition of such pipelines. Features which differentiate Airflow from similar projects like Apache Oozie, Luigi or Azkaban include (i) its pluggable architecture with several extension points (ii) the programmatic approach of ""workflow is code"" and (iii) its tight relationship with the the Python as well as the Big Data Analytics Ecosystem. Based on several years of productive usage, we briefly summarize the core concepts of Airflow, and detail in-depth on lessons learned and best practices from our experience. These include hints for getting efficient quickly with Airflow, approaches to structure workflows, integrating it in an enterprise landscape, writing plugins and extentions, and maintaining it in productive environment. We conclude with a comparison with other analytical workflow engines and summarize why we have chosen Airflow.
+Questions answered by this talk
+
+    What are the core concepts of Apache Airflow?
+    How can Airflow help me with moving data pipelines from analytics to production?
+    Which concepts of Airflow make it more slim and more efficient compared to Apache Oozie?
+    How can I specify dynamic dependencies at runtime between my analytical data processing steps?
+    Which facilities does Airflow offer to enable automation and orchestration of analytical tasks?
+    How can I extend the built-in facilities of Airflow by writing Python plugins?
+
+People who benefit most from this talk
+
+    Data Scientists who are looking for a slim library to automate and control their data processing steps
+    Data Engineers who want to save time debugging static workflow definitions (e.g. in XML)
+    Project leaders interested in tools which lower the burden of moving from analytics to production
+    Hadoop Cluster administrators eager to save cluster resources
+
+Recorded at PyCon.DE 2017 Karlsruhe: pycon.de 
+Video editing: Sebastian Neubauer & Andrei Dan 
+Tools: Blender, Avidemux & Sonic Pi",https://i.ytimg.com/vi/Ea3smcbnGxE/hqdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=Ea3smcbnGxE,https://www.youtube.com/watch?v=Ea3smcbnGxE
+53,PyCon.DE 2017 Christine Spindler - Python on bare metal  Beginners tutorial with MicroPython,https://www.youtube.com/watch?v=MpRXnyFeEwg,MpRXnyFeEwg,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20171222,2424,1176,15,,,Education,"Christine Spindler
+
+Christine holds a degree in economics and electrical engineering. Since the beginning of 2016 she works with Damien P. George and takes care of logistics and production at George Robotics Ltd. – the company behind MicroPython.
+
+Abstract
+
+Tags: python
+
+MicroPython is a complete reimplementation of Python that runs on small devices like microcontrollers. In this hands-on workshop I'll show how easy it is to use MicroPython on a pyboard.
+Description
+
+Everybody that attends will get a MicroPython pyboards to follow all examples on their own machine. Bring a laptop and Micro USB cable along – make sure it has a data line.
+
+Recorded at PyCon.DE 2017 Karlsruhe: pycon.de 
+Video editing: Sebastian Neubauer & Andrei Dan 
+Tools: Blender, Avidemux & Sonic Pi",https://i.ytimg.com/vi_webp/MpRXnyFeEwg/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=MpRXnyFeEwg,https://www.youtube.com/watch?v=MpRXnyFeEwg
+54,PyCon.DE 2017 Florian Rhiem - Integrating Jupyter Notebooks into your Infrastructure,https://www.youtube.com/watch?v=xplmuHEFqCg,xplmuHEFqCg,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20171222,1969,381,0,,,Education,"Florian Rhiem (@FlorianRhiem)
+
+Florian Rhiem is a scientific software developer at Forschungszentrum Jülich in the Scientific IT-Systems department of Peter Grünberg Institute / Jülich Centre for Neutron Science. In 2014, he finished his master's thesis on visualization of multidimensional functions and graduated as Master of Science in Technomathematics. He works with Python and C, mostly focusing on 3D visualization software.
+
+Abstract
+
+Tags: jupyterhub jupyter use-case
+
+Jupyter Notebooks combine executable code and rich text elements in a web application. In this talk you will learn how a custom JupyterHub installation can be used to integrate Jupyter Notebooks into your infrastructure, including existing authentication methods and custom software distributions.
+Description
+
+Jupyter Notebooks allow you to create and share interactive documents containing both rich text and executable code. As researchers, you can write Notebooks that allow your readers to reproduce your results on their own. As data scientists, you can use interactive visualizations to explore and analyze data sets directly in your browser. With official support for Python, Julia and R and community support for programming languages ranging from Fortran to JavaScript, Jupyter can be used in a wide variety of workflows.
+
+In this talk, you will learn how a custom JupyterHub installation has been used to seamlessly integrate Jupyter Notebooks into the existing infrastructure at the Jülich Centre for Neutron Science and the Peter Grünberg Institute. After introducing JupyterHub and its components, the presentation will show how each can be customized to use already existing resources and services, such as LDAP authentication, NFS-based storage and custom software distributions.
+
+Recorded at PyCon.DE 2017 Karlsruhe: pycon.de 
+Video editing: Sebastian Neubauer & Andrei Dan 
+Tools: Blender, Avidemux & Sonic Pi",https://i.ytimg.com/vi/xplmuHEFqCg/hqdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=xplmuHEFqCg,https://www.youtube.com/watch?v=xplmuHEFqCg
+55,PYCON.DE 2017 Ansgar Schmidt - Python with Apache OpenWhisk,https://www.youtube.com/watch?v=E9Yj4g9LuJc,E9Yj4g9LuJc,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20171229,1805,320,6,,,Education,"Ansgar Schmidt (@ansi)
+
+I am a full time nerd. Really thrilled by technology and love to make and hack. From PCB design, soldering, embedded development to server- backend hacking. Beside way to many small projects I work on a mobile robot based on ROS and try to add human interaction to it.
+
+Abstract
+
+Tags: devops use-case python web business
+
+OpenWhisk is an opensource implementation of a so called serverless computing platform. At a live presentation I will show how to write an serverless application and how to deal with libraries and events. OpenWhisk is an open source alternative to AWS lambda or MS functions.
+Description
+
+Hi, I am a developer advocate working for IBM. Meaning I am a technician and geek not a salesman. In my talk I will give a live demo on how to use the open source implementation of a serverless compute platform called OpenWhisk and help python developers on how to use it and write serverless applications.",https://i.ytimg.com/vi_webp/E9Yj4g9LuJc/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=E9Yj4g9LuJc,https://www.youtube.com/watch?v=E9Yj4g9LuJc
+56,PYCON.DE 2017 David Wölfe - From 0 to Continuous Delivery in 30 minutes.,https://www.youtube.com/watch?v=yqpOrB0JDto,yqpOrB0JDto,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20171229,1851,250,1,,,Education,"David Wölfle
+
+Please find information to my person on https://www.linkedin.com/in/david-woelfle/
+
+Abstract
+
+Tags: hands on continuous delivery devops python gitlab conda
+
+An introduction and hands on example how to start Continuous Delivery for python (or whatever) projects with conda and gitlab, which are open source, free to use, and if you wish even available as a cloud service.
+Description
+
+So, you wrote this neat software, which uses one or two cool 3rd party packages and now you have to get it running on your test or prod servers. Now you could check out your code and install the dependencies manually but that seems like a lot of wasted time, right? Shouldn't there be a more convenient way of doing this?
+
+Yes! And it's easier than you think! In this talk you'll learn how to build a Continuous Delivery pipeline for your python (or whatever) projects in 30 Minutes.
+
+In the beginning you'll get a quick introduction into the topic and the used tools, which are open source and free to use. For those who know a little about the subject: We will use conda (https://conda.io) to build the software package and for the dependency handling. GitLab.com will process the actual pipeline for us and Anaconda.com serves us with a package distribution channel.
+
+After that it's ""hands on"" time. We will go step by step trough the process. Starting with the creation of a little dummy program. Then extending the dummy in such manner that it can be build into a package. Afterwards we will create the pipeline and finally do a demo deploy. And if the gods of conference internet are merciful, you see all this as a live demonstration.",https://i.ytimg.com/vi_webp/yqpOrB0JDto/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=yqpOrB0JDto,https://www.youtube.com/watch?v=yqpOrB0JDto
+57,PYCON.DE 2017 Dave Halter - Python is Weird,https://www.youtube.com/watch?v=zz9yLOXo2Qk,zz9yLOXo2Qk,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20171229,1594,625,5,,,Education,"Dave Halter (@jedidjah_ch)
+
+I'm an engineer for cloudscale.ch. We are serving cloud services (mostly IaaS) with a focus on simplicity. In my free time I work a lot on parsers/type inference for the Python world. Jedi is probably the project people would know me for.
+
+Abstract
+
+Tags: tokenizer parser python
+
+A lot of people think that Python is a really simple and straightforward language. Python hides a lot of peculiarities very well, but for the sake of this talk we will try to uncover them.
+
+Is ++4; valid Python? And what does it do? Let me give you an introduction into tokenizers/parsers.
+Description
+
+A lot of people think that Python is a really simple and straightforward language. Python hides a lot of peculiarities very well, but for the sake of this talk we will try to uncover them.
+
+I will be explaining how the whole process of tokenizing - parsing - ast creation - bytecode works and will use odd Python code to give you an insight on the internals. Do you think ++4; is valid Python? Or how about 0jif.1else-2? There are no spaces in it. Go figure! ""Edge cases"" will help us understand the inner workings of Python. These two cases are possible, because of the tokenizer. Other ""weird"" Python code is waiting as soon as you start looking at the grammar file. Have you for example heard about lambda generators?
+
+We will be looking into how modules, classes and instances are really just fancy dictionaries and how importing is really nothing else than storing a module into a dictionary (sys.modules).
+
+There are a lot of things we can learn from diving deep into the details of our beloved languages. This talk will give you a very small introduction in how languages are built and explain how Python itself is defined by its parser, tokenizer and bytecode generation. Knowing how those abstractions work makes you a better Python programmer, because you will know better how the language behaves.",https://i.ytimg.com/vi_webp/zz9yLOXo2Qk/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=zz9yLOXo2Qk,https://www.youtube.com/watch?v=zz9yLOXo2Qk
+58,PYCON.DE 2017 ChristophHeer - Automated testing with 400TB memory,https://www.youtube.com/watch?v=Lro5wC_HxhE,Lro5wC_HxhE,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20171229,1959,234,2,,,Education,"Christoph Heer (@ChristophHeer)
+
+I’m an Infrastructure Engineer in the team behind SAP’s huge test infrastructure for SAP HANA. In my spare time, I develop web applications with Django or playing around with new programming languages like Rust.
+
+Abstract
+
+Tags: python use-case devops business
+
+SAP operates a dedicated test infrastructure with more than 400TB main memory for its in-memory database SAP HANA. All custom implementations like improved scheduling, caching of artifacts and monitoring were implemented in our favorite programming language Python.
+Description
+
+SAP operates a large test infrastructure to test its in-memory database SAP HANA. In 2010, we started with a single Jenkins master with ten nodes. But to keep our testing time acceptable for the growing number of developers we had to scale up, which led to multiple different scaling challenges. The current test infrastructure is powered by more than thousand physical servers and provides different services like continuous integration, code coverage and code linting for a huge C++ project. These services are essential for developing and shipping new SAP HANA versions.
+
+This talk provides insights into how we scaled and improved our test infrastructure. All custom implementations like improved scheduling, expressive test configuration and caching of artifacts were implemented in our favorite programming language Python. With the flexibility and power of Python it has been easier to extend, optimize and adapt the infrastructure for new requirements like different CPU architectures and newer operating system versions.",https://i.ytimg.com/vi_webp/Lro5wC_HxhE/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=Lro5wC_HxhE,https://www.youtube.com/watch?v=Lro5wC_HxhE
+59,PYCON.DE 2017 Thomas Reifenberg - Project Avatar - Telepresence robotics with Nao and Kinect,https://www.youtube.com/watch?v=SGpdc-9QAWE,SGpdc-9QAWE,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20180111,2252,200,2,1.0,,Education,"Thomas Reifenberger,Martin Foertsch (@reifenbt)
+
+Martin Förtsch is an IT-consultant of TNG Technology Consulting GmbH (https://tngtech.com) based in Unterföhring near Munich who studied computer sciences. Workwise his focus areas are Agile Development (mainly) in Java, Search Engine Technologies, Information Retrieval and Databases. As an Intel Software Innovator and Intel Black Belt Software Developer he is strongly involved in the development of open-source software for gesture control with 3D-cameras like e.g. Intel RealSense and has built an Augmented Reality wearable prototype device with his team based on this technology. Furthermore, he gives many talks on national and international conferences about Internet of Things, 3D-camera technologies, Augmented Reality and Test Driven Development as well. He was awarded with the JavaOne Rockstar award and is an author for the technical blog ParrotsOnJava.com.
+
+Thomas Reifenberger works as an IT Consultant for the Munich based consulting company TNG Technology Consulting GmbH. Before joining the company in 2012 studied physics at the Technical University of Munich. Since then he worked for various customers in different sectors – with his technical focus areas being Java, Perl, Groovy & Python. Besides that he is involved in the company’s hardware hacking team, where he is mainly working with IoT projects. Besides other tasks, he is involved in deployment automation, Linux administration and networking for the team.
+
+Abstract
+
+Tags: vr telepresence gesture control 3d cameras python robotics hardware iot
+
+Using humanoid robots, VR glasses and 3D cameras you can experience the world through the eyes of a robot and control it via gestures. We built a telepresence robotics system based on a Nao robot, an Oculus Rift and a Kinect One to realize an immersive ""out-of-body experience"" as in ""Avatar"".
+Description
+
+Using humanoid robots, virtual reality glasses and 3D camera sensors you can experience the world through the eyes of a robot and control it via gestures. The hardware hacking team of TNG Technology Consulting has built a telepresence robotics system based on a Nao robot, an Oculus Rift and a Kinect One. Using these components you can realize an immersive ""out-of-body experience"" - similar to that of the film ""Avatar"".
+
+This talk shows how easy it is to program the robot using Python. We will do this by some live coding examples. Following a live demonstration of the showcase we will guide you through the complete program flow of the telepresence system. The speakers will share some insights about the challenges they faced during its implementation. The history of telepresence robotics, current trends and examples for real world fields of application will also be focused.",https://i.ytimg.com/vi_webp/SGpdc-9QAWE/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=SGpdc-9QAWE,https://www.youtube.com/watch?v=SGpdc-9QAWE
