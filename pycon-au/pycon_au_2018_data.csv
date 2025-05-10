@@ -1,0 +1,1403 @@
+﻿index,title,url,video_id,uploader,uploader_id,uploader_url,upload_date,duration,view_count,like_count,comment_count,tags,categories,description,thumbnail,age_limit,is_live,was_live,availability,webpage_url,original_url
+1,"PostgreSQL Indexing : How, why, and when.",https://www.youtube.com/watch?v=clrtT_4WBAw,clrtT_4WBAw,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20180825,1881,82605,2087,,"pyconau,pyconau_2018,Python,PyCon,PyConAU,CurtisMaloney",Education,"Curtis Maloney
+
+https://2018.pycon-au.org/talks/42913-postgresql-indexing-how-why-and-when/
+
+So many of the things we build depend on a DBMS to keep our data safe, and retrieve it quickly.
+We know indexes can make that faster, but... how do they work? When should you use them? What should I index?
+
+Python, PyCon, PyConAU, australia, programming, sydney
+
+This video is licensed under CC BY 3.0 AU ‹https://creativecommons.org/licenses/by/3.0/au/›.
+
+PyCon Australia (“PyCon AU”) is the national conference for the Python Programming Community, bringing together professional, student and enthusiast developers with a love for developing with Python.
+
+PyCon AU, the national Python Language conference, is on again this August in Sydney, at the International Convention Centre, Sydney, August 24 - 28 2018.
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/clrtT_4WBAw/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=clrtT_4WBAw,https://www.youtube.com/watch?v=clrtT_4WBAw
+2,Writing fast and efficient MicroPython,https://www.youtube.com/watch?v=hHec4qL00x0,hHec4qL00x0,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20180824,1902,72253,1555,,"pyconau,pyconau_2018,Python,PyCon,PyConAU,DamienGeorge",Education,"Damien George
+
+https://2018.pycon-au.org/talks/45358-writing-fast-and-efficient-micropython/
+
+MicroPython is an implementation of Python designed to run on microcontrollers and embedded systems. These devices don't have many resources (CPU, RAM) and so it's important to write efficient scripts. This talk shows how to make the most of your resources in MicroPython, and has some fun demos!
+
+Python, PyCon, PyConAU, australia, programming, sydney
+
+This video is licensed under CC BY 3.0 AU ‹https://creativecommons.org/licenses/by/3.0/au/›.
+
+PyCon Australia (“PyCon AU”) is the national conference for the Python Programming Community, bringing together professional, student and enthusiast developers with a love for developing with Python.
+
+PyCon AU, the national Python Language conference, is on again this August in Sydney, at the International Convention Centre, Sydney, August 24 - 28 2018.
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/hHec4qL00x0/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=hHec4qL00x0,https://www.youtube.com/watch?v=hHec4qL00x0
+3,A Beginner's Guide to WebSockets,https://www.youtube.com/watch?v=PjiXkJ6P9pQ,PjiXkJ6P9pQ,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20180825,1792,45545,975,,"pyconau,pyconau_2018,Python,PyCon,PyConAU,DionMisic",Education,"Dion Misic
+
+https://2018.pycon-au.org/talks/45211-a-beginners-guide-to-websockets/
+
+A gentle introduction to the web-socket protocol, how it works, it's intended usage and a number of examples where it can be used with Python and it's popular web frameworks - topped off with a rapid demonstration of the speed and ease of which it can be implemented with Python.
+
+Python, PyCon, PyConAU, australia, programming, sydney
+
+This video is licensed under CC BY 3.0 AU - https://creativecommons.org/licenses/by/3.0/au/
+
+PyCon Australia (“PyCon AU”) is the national conference for the Python Programming Community, bringing together professional, student and enthusiast developers with a love for developing with Python.
+
+PyCon AU, the national Python Language conference, is on again this August in Sydney, at the International Convention Centre, Sydney, August 24 - 28 2018.
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/PjiXkJ6P9pQ/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=PjiXkJ6P9pQ,https://www.youtube.com/watch?v=PjiXkJ6P9pQ
+4,Task Queues: A Celery Story,https://www.youtube.com/watch?v=ceJ-vy7fvus,ceJ-vy7fvus,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20180826,1779,39049,622,,"pyconau,pyconau_2018,Python,PyCon,PyConAU,TomManderson",Education,"Tom Manderson
+
+https://2018.pycon-au.org/talks/45392-task-queues-a-celery-story/
+
+Python has a surprisingly large number of task queue libraries, but Celery reigns supreme. Unfortunately, there are a few use cases where it's remarkably bad. Learn about why you might want a task queue (and when you definitely don't), when Celery is appropriate, and what you can do when it's not.
+
+Python, PyCon, PyConAU, australia, programming, sydney
+
+This video is licensed under CC BY 3.0 AU - https://creativecommons.org/licenses/by/3.0/au/
+
+PyCon Australia (“PyCon AU”) is the national conference for the Python Programming Community, bringing together professional, student and enthusiast developers with a love for developing with Python.
+
+PyCon AU, the national Python Language conference, is on again this August in Sydney, at the International Convention Centre, Sydney, August 24 - 28 2018.
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/ceJ-vy7fvus/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=ceJ-vy7fvus,https://www.youtube.com/watch?v=ceJ-vy7fvus
+5,A guided tour of Python logging,https://www.youtube.com/watch?v=DxZ5WEo4hvU,DxZ5WEo4hvU,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20180826,1721,18253,371,,"pyconau,pyconau_2018,Python,PyCon,PyConAU,CurtisMaloney",Education,"Curtis Maloney
+
+https://2018.pycon-au.org/talks/41793-a-guided-tour-of-python-logging/
+
+Logging is a tremendously powerful tool in monitoring and debugging, but many people avoid it in Python, feeling it's too complex.
+Come with me as we explore what's going on, and hopefully become better friends with this wonderful part of stdlib.
+
+Python, PyCon, PyConAU, australia, programming, sydney
+
+This video is licensed under CC BY 3.0 AU - https://creativecommons.org/licenses/by/3.0/au/
+
+PyCon Australia (“PyCon AU”) is the national conference for the Python Programming Community, bringing together professional, student and enthusiast developers with a love for developing with Python.
+
+PyCon AU, the national Python Language conference, is on again this August in Sydney, at the International Convention Centre, Sydney, August 24 - 28 2018.
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/DxZ5WEo4hvU/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=DxZ5WEo4hvU,https://www.youtube.com/watch?v=DxZ5WEo4hvU
+6,A Web without JavaScript,https://www.youtube.com/watch?v=2XSeNQyPlTY,2XSeNQyPlTY,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20180826,1803,16912,403,,"pyconau,pyconau_2018,Python,PyCon,PyConAU,RussellKeith-Magee",Education,"Russell Keith-Magee
+
+https://2018.pycon-au.org/talks/43077-a-web-without-javascript/
+
+In the browser, you can use any programming language you want... as long as it's JavaScript.
+
+But what if you want to use a different language? In this talk, you'll learn how you can break out of the monolingual environment provided by the browser, and use Python (or any other language) instead.
+
+Python, PyCon, PyConAU, australia, programming, sydney
+
+This video is licensed under CC BY 3.0 AU - https://creativecommons.org/licenses/by/3.0/au/
+
+PyCon Australia (“PyCon AU”) is the national conference for the Python Programming Community, bringing together professional, student and enthusiast developers with a love for developing with Python.
+
+PyCon AU, the national Python Language conference, is on again this August in Sydney, at the International Convention Centre, Sydney, August 24 - 28 2018.
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/2XSeNQyPlTY/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=2XSeNQyPlTY,https://www.youtube.com/watch?v=2XSeNQyPlTY
+7,Unicode and Python: the absolute minimum you need to know,https://www.youtube.com/watch?v=oXVmZGN6plY,oXVmZGN6plY,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20180826,1457,16747,296,,"pyconau,pyconau_2018,Python,PyCon,PyConAU,RaphaëlMerx",Education,"Raphaël Merx
+
+https://2018.pycon-au.org/talks/44562-unicode-and-python-the-absolute-minimum-you-need-to-know/
+
+Born from parents who don't mind string encoding, my name has an ""ë"". How can your code handle that character? How does Unicode handle it? If you see ""ë"" in a stack trace, does that mean your encoding is broken?
+
+Ignoring unicode often backfires. This talk is about preventing Unicode burns.
+
+Python, PyCon, PyConAU, australia, programming, sydney
+
+This video is licensed under CC BY 3.0 AU - https://creativecommons.org/licenses/by/3.0/au/
+
+PyCon Australia (“PyCon AU”) is the national conference for the Python Programming Community, bringing together professional, student and enthusiast developers with a love for developing with Python.
+
+PyCon AU, the national Python Language conference, is on again this August in Sydney, at the International Convention Centre, Sydney, August 24 - 28 2018.
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/oXVmZGN6plY/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=oXVmZGN6plY,https://www.youtube.com/watch?v=oXVmZGN6plY
+8,How To Publish A Package On PyPI,https://www.youtube.com/watch?v=QgZ7qv4Cd0Y,QgZ7qv4Cd0Y,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20180826,1699,12243,271,,"pyconau,pyconau_2018,Python,PyCon,PyConAU,MarkSmith",Education,"Mark Smith
+
+https://2018.pycon-au.org/talks/44349-how-to-publish-a-package-on-pypi/
+
+Starting with nothing, we'll build a package and publish it on PyPI using current best practices! Learn how to structure, document and test your project on different platforms. Discover the difference between `setup.py` and `Pipfile`. Finally, use CookieCutter to avoid doing it twice (or even once)!
+
+Python, PyCon, PyConAU, australia, programming, sydney
+
+This video is licensed under CC BY 3.0 AU - https://creativecommons.org/licenses/by/3.0/au/
+
+PyCon Australia (“PyCon AU”) is the national conference for the Python Programming Community, bringing together professional, student and enthusiast developers with a love for developing with Python.
+
+PyCon AU, the national Python Language conference, is on again this August in Sydney, at the International Convention Centre, Sydney, August 24 - 28 2018.
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/QgZ7qv4Cd0Y/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=QgZ7qv4Cd0Y,https://www.youtube.com/watch?v=QgZ7qv4Cd0Y
+9,Python coding on Chromebooks - our story.,https://www.youtube.com/watch?v=Aeo6IL3y7bA,Aeo6IL3y7bA,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20180825,1432,11816,119,,"pyconau,pyconau_2018,Python,PyCon,PyConAU,JohnParlas",Education,"John Parlas
+
+https://2018.pycon-au.org/talks/44876-python-coding-on-chromebooks-our-story/
+
+Purpose is to share how we implemented Python coding at our school for Yrs 7 and 8 on Chromebooks. Challenges, successes and failures.
+
+Python, PyCon, PyConAU, australia, programming, sydney
+
+This video is licensed under CC BY 3.0 AU ‹https://creativecommons.org/licenses/by/3.0/au/›.
+
+PyCon Australia (“PyCon AU”) is the national conference for the Python Programming Community, bringing together professional, student and enthusiast developers with a love for developing with Python.
+
+PyCon AU, the national Python Language conference, is on again this August in Sydney, at the International Convention Centre, Sydney, August 24 - 28 2018.
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/Aeo6IL3y7bA/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=Aeo6IL3y7bA,https://www.youtube.com/watch?v=Aeo6IL3y7bA
+10,"Automating Your Home with Python, Raspberry Pi and Homekit",https://www.youtube.com/watch?v=SiLtPgeTZLA,SiLtPgeTZLA,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20180826,1577,11724,135,,"pyconau,pyconau_2018,Python,PyCon,PyConAU,SeanJohnson",Education,"Sean Johnson
+
+https://2018.pycon-au.org/talks/45170-automating-your-home-with-python-raspberry-pi-and-homekit/
+
+It's forty degrees and you're on your way home in the sweltering Australian heat. Home awaits but it too has been baking in the sun all day. That's okay, though! You open your iPhone, tap a button and your air conditioner whirs into action, powered by your Python code and your trusty Raspberry Pi.
+
+Python, PyCon, PyConAU, australia, programming, sydney
+
+This video is licensed under CC BY 3.0 AU - https://creativecommons.org/licenses/by/3.0/au/
+
+PyCon Australia (“PyCon AU”) is the national conference for the Python Programming Community, bringing together professional, student and enthusiast developers with a love for developing with Python.
+
+PyCon AU, the national Python Language conference, is on again this August in Sydney, at the International Convention Centre, Sydney, August 24 - 28 2018.
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/SiLtPgeTZLA/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=SiLtPgeTZLA,https://www.youtube.com/watch?v=SiLtPgeTZLA
+11,Multiplayer 2D games with Python Arcade,https://www.youtube.com/watch?v=2SMkk63k6Ik,2SMkk63k6Ik,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20180826,1901,10800,217,,"pyconau,pyconau_2018,Python,PyCon,PyConAU,CalebHattingh",Education,"Caleb Hattingh
+
+https://2018.pycon-au.org/talks/45332-multiplayer-2d-games-with-python-arcade/
+
+The Python Arcade library makes it very easy to create 2D games--especially for beginners--and there are many examples provided with the package.  This talk will show how to make a multiplayer computer game using Python Arcade, both over a local network, and also on the internet.
+
+Python, PyCon, PyConAU, australia, programming, sydney
+
+This video is licensed under CC BY 3.0 AU - https://creativecommons.org/licenses/by/3.0/au/
+
+PyCon Australia (“PyCon AU”) is the national conference for the Python Programming Community, bringing together professional, student and enthusiast developers with a love for developing with Python.
+
+PyCon AU, the national Python Language conference, is on again this August in Sydney, at the International Convention Centre, Sydney, August 24 - 28 2018.
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/2SMkk63k6Ik/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=2SMkk63k6Ik,https://www.youtube.com/watch?v=2SMkk63k6Ik
+12,You Don't Need That!,https://www.youtube.com/watch?v=imW-trt0i9I,imW-trt0i9I,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20180826,1835,10491,207,,"pyconau,pyconau_2018,Python,PyCon,PyConAU,ChristopherNeugebauer",Education,"Christopher Neugebauer
+
+https://2018.pycon-au.org/talks/45184-you-dont-need-that/
+
+Not every design pattern makes sense in Python. This talk builds up design patterns commonly used in enterprise languages, and shows the features in Python that make these approaches unnecessary.
+
+Python, PyCon, PyConAU, australia, programming, sydney
+
+PyCon Australia (“PyCon AU”) is the national conference for the Python Programming Community, bringing together professional, student and enthusiast developers with a love for developing with Python.
+
+PyCon AU, the national Python Language conference, is on again this August in Sydney, at the International Convention Centre, Sydney, August 24 - 28 2018.
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/imW-trt0i9I/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=imW-trt0i9I,https://www.youtube.com/watch?v=imW-trt0i9I
+13,Running Python web applications in Docker,https://www.youtube.com/watch?v=9L6x2j-7eVQ,9L6x2j-7eVQ,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20180826,1714,9393,55,,"pyconau,pyconau_2018,Python,PyCon,PyConAU,TimHeap",Education,"Tim Heap
+
+https://2018.pycon-au.org/talks/45205-running-python-web-applications-in-docker/
+
+An introduction on running Python web applications in Docker, covering how to structure your project, running the project in both development and production, testing the project, and compiling static assets for your frontend.
+
+Python, PyCon, PyConAU, australia, programming, sydney
+
+This video is licensed under CC BY 3.0 AU - https://creativecommons.org/licenses/by/3.0/au/
+
+PyCon Australia (“PyCon AU”) is the national conference for the Python Programming Community, bringing together professional, student and enthusiast developers with a love for developing with Python.
+
+PyCon AU, the national Python Language conference, is on again this August in Sydney, at the International Convention Centre, Sydney, August 24 - 28 2018.
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/9L6x2j-7eVQ/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=9L6x2j-7eVQ,https://www.youtube.com/watch?v=9L6x2j-7eVQ
+14,Create and Watch Kubernetes Resources With Python,https://www.youtube.com/watch?v=ck-bB5tqZj4,ck-bB5tqZj4,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20180826,1394,9358,71,,"pyconau,pyconau_2018,Python,PyCon,PyConAU,OliverNagy",Education,"Oliver Nagy
+
+https://2018.pycon-au.org/talks/44310-create-and-watch-kubernetes-resources-with-python/
+
+A practical guide to using the Kubernetes API from Python in production.
+
+Batteries are included: Python code, service account manifests, Dockerfile and
+all commands to deploy directly to Google Kubernetes Engine (no affiliation).
+
+Python, PyCon, PyConAU, australia, programming, sydney
+
+This video is licensed under CC BY 3.0 AU - https://creativecommons.org/licenses/by/3.0/au/
+
+PyCon Australia (“PyCon AU”) is the national conference for the Python Programming Community, bringing together professional, student and enthusiast developers with a love for developing with Python.
+
+PyCon AU, the national Python Language conference, is on again this August in Sydney, at the International Convention Centre, Sydney, August 24 - 28 2018.
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/ck-bB5tqZj4/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=ck-bB5tqZj4,https://www.youtube.com/watch?v=ck-bB5tqZj4
+15,Taking Django Async,https://www.youtube.com/watch?v=cNbcHvRvJsg,cNbcHvRvJsg,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20180825,1807,8132,131,,"pyconau,pyconau_2018,Python,PyCon,PyConAU,AndrewGodwin",Education,"Andrew Godwin
+
+https://2018.pycon-au.org/talks/41797-taking-django-async/
+
+We take a look at Django and Channels 2.0 and the changes it brings by going fully async - Examining not only why the change makes things better, but also how it's managed to bridge between Django's synchronous world and the async world. Plus, what might the future hold for Django and Channels?
+
+Python, PyCon, PyConAU, australia, programming, sydney
+
+This video is licensed under CC BY 3.0 AU ‹https://creativecommons.org/licenses/by/3.0/au/›.
+
+PyCon Australia (“PyCon AU”) is the national conference for the Python Programming Community, bringing together professional, student and enthusiast developers with a love for developing with Python.
+
+PyCon AU, the national Python Language conference, is on again this August in Sydney, at the International Convention Centre, Sydney, August 24 - 28 2018.
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/cNbcHvRvJsg/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=cNbcHvRvJsg,https://www.youtube.com/watch?v=cNbcHvRvJsg
+16,Asyncio in (Micro)Python,https://www.youtube.com/watch?v=tIgu7q38bUw,tIgu7q38bUw,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20180824,1830,8056,146,,"pyconau,pyconau_2018,Python,PyCon,PyConAU,MattTrentini",Education,"Matt Trentini
+
+https://2018.pycon-au.org/talks/45338-asyncio-in-micropython/
+
+Asyncio is cool in Python. It's super cool in MicroPython!
+
+Asyncio provides a way to achieve concurrency in a relatively simplistic fashion. However, first-time users still struggle with the concepts so let's sort them out! Then we'll see why it's especially useful in an embedded environment.
+
+Python, PyCon, PyConAU, australia, programming, sydney
+
+This video is licensed under CC BY 3.0 AU ‹https://creativecommons.org/licenses/by/3.0/au/›.
+
+PyCon Australia (“PyCon AU”) is the national conference for the Python Programming Community, bringing together professional, student and enthusiast developers with a love for developing with Python.
+
+PyCon AU, the national Python Language conference, is on again this August in Sydney, at the International Convention Centre, Sydney, August 24 - 28 2018.
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/tIgu7q38bUw/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=tIgu7q38bUw,https://www.youtube.com/watch?v=tIgu7q38bUw
+17,WebAuthn: Multi-factor Auth For Everyone,https://www.youtube.com/watch?v=03sAfmCDjFg,03sAfmCDjFg,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20180825,1806,5743,79,,"pyconau,pyconau_2018,Python,PyCon,PyConAU,BennoRice",Education,"Benno Rice
+
+https://2018.pycon-au.org/talks/44258-webauthn-multifactor-auth-for-everyone/
+
+Everybody knows that passwords suck. Implementing better things, like multi-factor authentication, can be really tricky and require a bunch of specialist bits though.
+
+Or does it?
+
+The new WebAuthn standard makes it dead simple to add multi-factor authentication to your web app. Let's find out how!
+
+Python, PyCon, PyConAU, australia, programming, sydney
+
+This video is licensed under CC BY 3.0 AU ‹https://creativecommons.org/licenses/by/3.0/au/›.
+
+PyCon Australia (“PyCon AU”) is the national conference for the Python Programming Community, bringing together professional, student and enthusiast developers with a love for developing with Python.
+
+PyCon AU, the national Python Language conference, is on again this August in Sydney, at the International Convention Centre, Sydney, August 24 - 28 2018.
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/03sAfmCDjFg/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=03sAfmCDjFg,https://www.youtube.com/watch?v=03sAfmCDjFg
+18,Refactoring Code With the Standard Library,https://www.youtube.com/watch?v=9USGh4Uy-xQ,9USGh4Uy-xQ,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20180825,1796,5380,76,,"pyconau,pyconau_2018,Python,PyCon,PyConAU,JohnReese",Education,"John Reese
+
+https://2018.pycon-au.org/talks/45063-refactoring-code-with-the-standard-library/
+
+What if you could refactor your entire code base, safely and automatically? How much old code could you fix or replace if you didn't need to worry about updating every reference by hand? I'll show you how a concrete syntax tree (CST) can help you do just that using only the standard Python library.
+
+Python, PyCon, PyConAU, australia, programming, sydney
+
+This video is licensed under CC BY 3.0 AU - https://creativecommons.org/licenses/by/3.0/au/
+
+PyCon Australia (“PyCon AU”) is the national conference for the Python Programming Community, bringing together professional, student and enthusiast developers with a love for developing with Python.
+
+PyCon AU, the national Python Language conference, is on again this August in Sydney, at the International Convention Centre, Sydney, August 24 - 28 2018.
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/9USGh4Uy-xQ/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=9USGh4Uy-xQ,https://www.youtube.com/watch?v=9USGh4Uy-xQ
+19,Becoming a Multilingual SuperHero in Django,https://www.youtube.com/watch?v=go7JklZRtrs,go7JklZRtrs,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20180824,1812,5268,132,,"pyconau,pyconau_2018,Python,PyCon,PyConAU,SanyamKhurana",Education,"Sanyam Khurana
+
+https://2018.pycon-au.org/talks/44212-becoming-a-multilingual-superhero-in-django/
+
+In this talk, we'll see how we make a language agnostic backend, to serve our app in different languages, based on what language the client wants to communicate in.
+
+We'll see how to support translation for static data and dynamic data, using various third-party services.
+
+Python, PyCon, PyConAU, australia, programming, sydney
+
+This video is licensed under CC BY 3.0 AU ‹https://creativecommons.org/licenses/by/3.0/au/›.
+
+PyCon Australia (“PyCon AU”) is the national conference for the Python Programming Community, bringing together professional, student and enthusiast developers with a love for developing with Python.
+
+PyCon AU, the national Python Language conference, is on again this August in Sydney, at the International Convention Centre, Sydney, August 24 - 28 2018.
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/go7JklZRtrs/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=go7JklZRtrs,https://www.youtube.com/watch?v=go7JklZRtrs
+20,Pact in Python,https://www.youtube.com/watch?v=S-IwNuMiqd4,S-IwNuMiqd4,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20180826,1088,4662,57,,"pyconau,pyconau_2018,Python,PyCon,PyConAU,SylviaYap",Education,"Sylvia Yap
+
+https://2018.pycon-au.org/talks/44811-pact-in-python/
+
+Are you completely over those fragile and complicated integration test? There is another way!
+Pact is a contract testing tool used to ensure services can communicate with each other. May be used between an API server and web frontend but really shines in an environment with many services.
+
+Python, PyCon, PyConAU, australia, programming, sydney
+
+This video is licensed under CC BY 3.0 AU - https://creativecommons.org/licenses/by/3.0/au/
+
+PyCon Australia (“PyCon AU”) is the national conference for the Python Programming Community, bringing together professional, student and enthusiast developers with a love for developing with Python.
+
+PyCon AU, the national Python Language conference, is on again this August in Sydney, at the International Convention Centre, Sydney, August 24 - 28 2018.
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/S-IwNuMiqd4/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=S-IwNuMiqd4,https://www.youtube.com/watch?v=S-IwNuMiqd4
+21,Describing Descriptors,https://www.youtube.com/watch?v=lmcgtUw5djw,lmcgtUw5djw,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20180825,1463,4392,104,,"pyconau,pyconau_2018,Python,PyCon,PyConAU,MatthewEgan",Education,"Matthew Egan
+
+https://2018.pycon-au.org/talks/42582-describing-descriptors/
+
+Descriptors are a little known feature of Python. They provide a way for a programmer to customize the storage and retrieval of different instance variables. In this talk, you will learn about the descriptor protocol, what it can be used for, and how to implement a descriptor.
+
+Python, PyCon, PyConAU, australia, programming, sydney
+
+This video is licensed under CC BY 3.0 AU ‹https://creativecommons.org/licenses/by/3.0/au/›.
+
+PyCon Australia (“PyCon AU”) is the national conference for the Python Programming Community, bringing together professional, student and enthusiast developers with a love for developing with Python.
+
+PyCon AU, the national Python Language conference, is on again this August in Sydney, at the International Convention Centre, Sydney, August 24 - 28 2018.
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/lmcgtUw5djw/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=lmcgtUw5djw,https://www.youtube.com/watch?v=lmcgtUw5djw
+22,Dynamic web pages without Javascript,https://www.youtube.com/watch?v=eEVRapHQFKI,eEVRapHQFKI,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20180824,1756,3893,49,,"pyconau,pyconau_2018,Python,PyCon,PyConAU,TimBell",Education,"Tim Bell
+
+https://2018.pycon-au.org/talks/45351-dynamic-web-pages-without-javascript/
+
+Intercooler is a Javascript library that allows you to make dynamic web pages without writing any JS yourself. This talk demonstrates how to use Intercooler to add dynamic functionality to a Django app. It will also cover a number of apps that make using Intercooler with Django even easier.
+
+Python, PyCon, PyConAU, australia, programming, sydney
+
+This video is licensed under CC BY 3.0 AU ‹https://creativecommons.org/licenses/by/3.0/au/›.
+
+PyCon Australia (“PyCon AU”) is the national conference for the Python Programming Community, bringing together professional, student and enthusiast developers with a love for developing with Python.
+
+PyCon AU, the national Python Language conference, is on again this August in Sydney, at the International Convention Centre, Sydney, August 24 - 28 2018.
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/eEVRapHQFKI/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=eEVRapHQFKI,https://www.youtube.com/watch?v=eEVRapHQFKI
+23,Operation Luigi: How I hacked my friend without her noticing,https://www.youtube.com/watch?v=ZlNkIFipKZ4,ZlNkIFipKZ4,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20180825,1857,3387,119,,"pyconau,pyconau_2018,Python,PyCon,PyConAU,“Alex”",Education,"“Alex”
+
+https://2018.pycon-au.org/talks/41686-operation-luigi-how-i-hacked-my-friend-without-her-noticing/
+
+My friend gave me permission to ""hack all her stuff"" and this is my story. It's about what I tried, what worked, my many flubs, and how easy it is to compromise Non Paranoid People TM.
+
+Python, PyCon, PyConAU, australia, programming, sydney
+
+This video is licensed under CC BY 3.0 AU - https://creativecommons.org/licenses/by/3.0/au/
+
+PyCon Australia (“PyCon AU”) is the national conference for the Python Programming Community, bringing together professional, student and enthusiast developers with a love for developing with Python.
+
+PyCon AU, the national Python Language conference, is on again this August in Sydney, at the International Convention Centre, Sydney, August 24 - 28 2018.
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/ZlNkIFipKZ4/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=ZlNkIFipKZ4,https://www.youtube.com/watch?v=ZlNkIFipKZ4
+24,Embedded applications using Python and Debian,https://www.youtube.com/watch?v=dqp710ByGok,dqp710ByGok,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20180826,698,3162,47,,"pyconau,pyconau_2018,Python,PyCon,PyConAU,JaminyPrabaharan",Education,"Jaminy Prabaharan
+
+https://2018.pycon-au.org/talks/41830-embedded-applications-using-python-and-debian/
+
+Python is widely used in embedded applications due to its simplicity. Raspberry pi (pi came from the Python!) and Beagle Bone which are commonly used in embedded applications are  programmed using Python and run on Debian Linux platform.
+
+Python, PyCon, PyConAU, australia, programming, sydney
+
+This video is licensed under CC BY 3.0 AU - https://creativecommons.org/licenses/by/3.0/au/
+
+PyCon Australia (“PyCon AU”) is the national conference for the Python Programming Community, bringing together professional, student and enthusiast developers with a love for developing with Python.
+
+PyCon AU, the national Python Language conference, is on again this August in Sydney, at the International Convention Centre, Sydney, August 24 - 28 2018.
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/dqp710ByGok/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=dqp710ByGok,https://www.youtube.com/watch?v=dqp710ByGok
+25,Django Against the Dark Arts,https://www.youtube.com/watch?v=vbwb6zqjZ7o,vbwb6zqjZ7o,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20180825,2053,3121,67,,"pyconau,pyconau_2018,Python,PyCon,PyConAU,LillyRyan",Education,"Lilly Ryan
+
+https://2018.pycon-au.org/talks/45196-django-against-the-dark-arts/
+
+Django is a robust framework by design, and embodies many good security practices. But why and how do Django sites get hacked anyway? What can we do about it? And why are wizards involved?
+
+Python, PyCon, PyConAU, australia, programming, sydney
+
+This video is licensed under CC BY 3.0 AU ‹https://creativecommons.org/licenses/by/3.0/au/›.
+
+PyCon Australia (“PyCon AU”) is the national conference for the Python Programming Community, bringing together professional, student and enthusiast developers with a love for developing with Python.
+
+PyCon AU, the national Python Language conference, is on again this August in Sydney, at the International Convention Centre, Sydney, August 24 - 28 2018.
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/vbwb6zqjZ7o/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=vbwb6zqjZ7o,https://www.youtube.com/watch?v=vbwb6zqjZ7o
+26,Pi-thon: Teaching maths with python!,https://www.youtube.com/watch?v=YFts_TKJhus,YFts_TKJhus,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20180825,1708,2770,49,,"pyconau,pyconau_2018,Python,PyCon,PyConAU,LiamCallaway",Education,"Liam Callaway
+
+https://2018.pycon-au.org/talks/45012-pithon-teaching-maths-with-python/
+
+Mathematics and programming often go hand in hand, but aren't always equally loved by students. I believe that Python can be a fantastic tool for teaching mathematical concepts, but also that mathematical inquiry can be a starting point for developing a wider interest in programming.
+
+Python, PyCon, PyConAU, australia, programming, sydney
+
+This video is licensed under CC BY 3.0 AU ‹https://creativecommons.org/licenses/by/3.0/au/›.
+
+PyCon Australia (“PyCon AU”) is the national conference for the Python Programming Community, bringing together professional, student and enthusiast developers with a love for developing with Python.
+
+PyCon AU, the national Python Language conference, is on again this August in Sydney, at the International Convention Centre, Sydney, August 24 - 28 2018.
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/YFts_TKJhus/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=YFts_TKJhus,https://www.youtube.com/watch?v=YFts_TKJhus
+27,Context Managers: You Can Write Your Own!,https://www.youtube.com/watch?v=-tpn94V9vK4,-tpn94V9vK4,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20180825,1815,2123,61,,"pyconau,pyconau_2018,Python,PyCon,PyConAU,DanielPorteous",Education,"Daniel Porteous
+
+https://2018.pycon-au.org/talks/45062-context-managers-you-can-write-your-own/
+
+Did you know context managers go beyond `with open('myfile.txt', 'r') as f`? In fact, you can even write your own! Context managers are an amazing tool for managing resources safely. They make your code look great, and they're now easier to write than ever thanks to contextlib! Come get contextual!
+
+Python, PyCon, PyConAU, australia, programming, sydney
+
+This video is licensed under CC BY 3.0 AU ‹https://creativecommons.org/licenses/by/3.0/au/›.
+
+PyCon Australia (“PyCon AU”) is the national conference for the Python Programming Community, bringing together professional, student and enthusiast developers with a love for developing with Python.
+
+PyCon AU, the national Python Language conference, is on again this August in Sydney, at the International Convention Centre, Sydney, August 24 - 28 2018.
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/-tpn94V9vK4/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=-tpn94V9vK4,https://www.youtube.com/watch?v=-tpn94V9vK4
+28,FP demystified,https://www.youtube.com/watch?v=p9_r36fIrqc,p9_r36fIrqc,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20180826,1826,1716,46,,"pyconau,pyconau_2018,Python,PyCon,PyConAU,EugeneVandenBulke",Education,"Eugene Van den Bulke
+
+https://2018.pycon-au.org/talks/45075-fp-demystified/
+
+Have you ever eavesdropped on FP developers talking about programming and wondered which planet you landed on? I attended LambdaJam 2018 and felt your pain! Let's demystify Either, Semigroups, Monoids, Functors, Monads, Traversable, Natural transformations etc. by implementing them in Python.
+
+Python, PyCon, PyConAU, australia, programming, sydney
+
+This video is licensed under CC BY 3.0 AU - https://creativecommons.org/licenses/by/3.0/au/
+
+PyCon Australia (“PyCon AU”) is the national conference for the Python Programming Community, bringing together professional, student and enthusiast developers with a love for developing with Python.
+
+PyCon AU, the national Python Language conference, is on again this August in Sydney, at the International Convention Centre, Sydney, August 24 - 28 2018.
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/p9_r36fIrqc/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=p9_r36fIrqc,https://www.youtube.com/watch?v=p9_r36fIrqc
+29,"""Learning, and how we avoid it"" - Keynote: Tom Eastman",https://www.youtube.com/watch?v=9E3qhqWFJ2c,9E3qhqWFJ2c,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20180826,2194,1614,62,,"pyconau,pyconau_2018,Python,PyCon,PyConAU,TomEastman",Education,"Tom Eastman
+
+https://2018.pycon-au.org/talks/tom
+
+Tom will be speaking on Saturday afternoon, about how we learn to get better at our craft.
+
+Python, PyCon, PyConAU, australia, programming, sydney
+
+This video is licensed under CC BY 3.0 AU - https://creativecommons.org/licenses/by/3.0/au/
+
+PyCon Australia (“PyCon AU”) is the national conference for the Python Programming Community, bringing together professional, student and enthusiast developers with a love for developing with Python.
+
+PyCon AU, the national Python Language conference, is on again this August in Sydney, at the International Convention Centre, Sydney, August 24 - 28 2018.
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/9E3qhqWFJ2c/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=9E3qhqWFJ2c,https://www.youtube.com/watch?v=9E3qhqWFJ2c
+30,Demystifying LoRaWAN with PyCom,https://www.youtube.com/watch?v=L-fh7PSpPMc,L-fh7PSpPMc,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20180824,1770,1599,30,,"pyconau,pyconau_2018,Python,PyCon,PyConAU,BrianDanilko",Education,"Brian Danilko
+
+https://2018.pycon-au.org/talks/44704-demystifying-lorawan-with-pycom/
+
+Connecting IoT devices using low power over wide area wireless (LoRaWAN) makes sense. But how LoRaWAN works, duty cycles, frequency plans, receive windows, etc. doesn't.
+
+This talk will demystify how LoRaWAN works using PyCom devices.
+
+Python, PyCon, PyConAU, australia, programming, sydney
+
+This video is licensed under CC BY 3.0 AU ‹https://creativecommons.org/licenses/by/3.0/au/›.
+
+PyCon Australia (“PyCon AU”) is the national conference for the Python Programming Community, bringing together professional, student and enthusiast developers with a love for developing with Python.
+
+PyCon AU, the national Python Language conference, is on again this August in Sydney, at the International Convention Centre, Sydney, August 24 - 28 2018.
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/L-fh7PSpPMc/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=L-fh7PSpPMc,https://www.youtube.com/watch?v=L-fh7PSpPMc
+31,Saturday Lightning Talks,https://www.youtube.com/watch?v=BmWLhVMWC9I,BmWLhVMWC9I,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20180826,3906,1415,13,,"pyconau,pyconau_2018,Python,PyCon,PyConAU,LightningTalkTzar",Education,"02:47 - Bex Dunn - Using satellite data to look through space and time, and hopefully find useful stuff, with Python
+08:02 - Tim Ansell - Tim has too many open source projects (again again again)
+13:03 - Merrin McLeod - The Flip Flop Operator, in Ruby
+18:30 - Katrina MacDonald - Digitech in the Classroom
+23:55 - Adam Jacquier-Parr - DRF Model Pusher
+27:50 - Claire Krause - Watching water from SPACE
+32:58 - Felicity Robson - Cracking CAPTCHAs
+38:31 - Nick Moore - Rocket Surgery
+43:59 - Benno Rice - Picture if you will...
+47:50 - Peter Lovett - Noooo...?
+52:55 - Philip James - Giving Thanks
+
+58:19 - Self-Organised Dinner Introduction
+
+Lightning Talk Tzar
+
+https://2018.pycon-au.org/lightning-talks
+
+Lightning talks are 5 minute talks. You have 5 minutes. 5 shall be the number, and the number shall be 5. 6 is too much.
+
+Python, PyCon, PyConAU, australia, programming, sydney
+
+This video is licensed under CC BY 3.0 AU - https://creativecommons.org/licenses/by/3.0/au/
+
+PyCon Australia (“PyCon AU”) is the national conference for the Python Programming Community, bringing together professional, student and enthusiast developers with a love for developing with Python.
+
+PyCon AU, the national Python Language conference, is on again this August in Sydney, at the International Convention Centre, Sydney, August 24 - 28 2018.
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/BmWLhVMWC9I/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=BmWLhVMWC9I,https://www.youtube.com/watch?v=BmWLhVMWC9I
+32,Sunday Lightning Talks,https://www.youtube.com/watch?v=rNkbmu4e3MA,rNkbmu4e3MA,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20180826,3854,1342,26,,"pyconau,pyconau_2018,Python,PyCon,PyConAU,LightningTalkTzar",Education,"00:40 - Tim Heap - chucksof() - The Story of a generator
+06:07 - Nic James - PyO3
+08:27 - Tisham Dhar - Tracking trucks in East Africa using satellites and words 
+13:36 - Brett Swanson - Using Sphnix and Jira and Python to automate the creation of software release reports
+17:40 - Amber Brown - String encodings, and how we got into this mess
+23:15 - Cormac Kikkert - Building a 3D simulation (in PyGame)
+27:22 - Libby Berrie - python Bugs
+32:54 - Lewis Bobberman - Don't do this
+39:02 - Aden Pulford - Confessions of a GOTO user
+44:27 - Merrin Macleod - Flip Flop Face Offerator
+51:01 - Aaron Leech  - How to do embedded device development better with MicroPython and Jupyter
+56:39 - Nick Coghlan - Controversial PEPs you've (probably) never herad of
+
+
+Lightning Talk Tzar
+
+https://2018.pycon-au.org/lightning-talks
+
+Lightning talks are 5 minute talks. You have 5 minutes. 5 shall be the number, and the number shall be 5. 6 is too much.
+
+Python, PyCon, PyConAU, australia, programming, sydney
+
+This video is licensed under CC BY 3.0 AU - https://creativecommons.org/licenses/by/3.0/au/
+
+PyCon Australia (“PyCon AU”) is the national conference for the Python Programming Community, bringing together professional, student and enthusiast developers with a love for developing with Python.
+
+PyCon AU, the national Python Language conference, is on again this August in Sydney, at the International Convention Centre, Sydney, August 24 - 28 2018.
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/rNkbmu4e3MA/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=rNkbmu4e3MA,https://www.youtube.com/watch?v=rNkbmu4e3MA
+33,Agloe - What the map makers of the 1930s can teach us about protecting our data in 2018.,https://www.youtube.com/watch?v=dA_rwYoy81U,dA_rwYoy81U,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20180824,1913,1337,7,,"pyconau,pyconau_2018,Python,PyCon,PyConAU,errbufferoverfl",Education,"errbufferoverfl
+
+https://2018.pycon-au.org/talks/41799-agloe-what-the-map-makers-of-the-1930s-can-teach-us-about-protecting-our-data-in-2018/
+
+In this talk we are going to do the time warp back to the 1930's and see what the General Drafting Co. can teach us about securing data and breach notification and how to apply them in the modern day. Using free and OSS I show you that security isn't all about expensive 3rd-party products and SOCs.
+
+Python, PyCon, PyConAU, australia, programming, sydney
+
+This video is licensed under CC BY 3.0 AU (https://creativecommons.org/licenses/by/3.0/au/).
+
+PyCon Australia (“PyCon AU”) is the national conference for the Python Programming Community, bringing together professional, student and enthusiast developers with a love for developing with Python.
+
+PyCon AU, the national Python Language conference, is on again this August in Sydney, at the International Convention Centre, Sydney, August 24 - 28 2018.
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/dA_rwYoy81U/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=dA_rwYoy81U,https://www.youtube.com/watch?v=dA_rwYoy81U
+34,Danger Will Robinson! Warning! Warning! Warning!,https://www.youtube.com/watch?v=Rm4t_5uVqTU,Rm4t_5uVqTU,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20180825,1867,1269,3,,"pyconau,pyconau_2018,Python,PyCon,PyConAU,PeterLovett",Education,"Peter Lovett
+
+https://2018.pycon-au.org/talks/45066-danger-will-robinson-warning-warning-warning/
+
+Danger Will Robinson! Warning! Warning! Warning! (What Python warnings are, why you should turn them on and how to create your own)
+
+Python's warnings mechanism is an important part of creating robust, reliable, production grade code. Unfortunately, it's also one of the most under-used standard libraries. Help find the bugs and errors with warnings! Ignore them at your peril! Suitable for beginner to intermediate.
+
+Python, PyCon, PyConAU, australia, programming, sydney
+
+This video is licensed under CC BY 3.0 AU - https://creativecommons.org/licenses/by/3.0/au/
+
+PyCon Australia (“PyCon AU”) is the national conference for the Python Programming Community, bringing together professional, student and enthusiast developers with a love for developing with Python.
+
+PyCon AU, the national Python Language conference, is on again this August in Sydney, at the International Convention Centre, Sydney, August 24 - 28 2018.
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/Rm4t_5uVqTU/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=Rm4t_5uVqTU,https://www.youtube.com/watch?v=Rm4t_5uVqTU
+35,Running Python on your brain computer,https://www.youtube.com/watch?v=3elWlN0MzGw,3elWlN0MzGw,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20180825,1865,1266,15,,"pyconau,pyconau_2018,Python,PyCon,PyConAU,BenTaylor",Education,"Ben Taylor
+
+https://2018.pycon-au.org/talks/45039-running-python-on-your-brain-computer/
+
+Reading and predicting what code will do is a fundamental coding skill. But when students read code are they executing it on their brain computer? Or do they only read the words?
+
+This talk will explore learning to read and trace code, misconceptions and how to build a really good brain computer.
+
+Python, PyCon, PyConAU, australia, programming, sydney
+
+This video is licensed under CC BY 3.0 AU ‹https://creativecommons.org/licenses/by/3.0/au/›.
+
+PyCon Australia (“PyCon AU”) is the national conference for the Python Programming Community, bringing together professional, student and enthusiast developers with a love for developing with Python.
+
+PyCon AU, the national Python Language conference, is on again this August in Sydney, at the International Convention Centre, Sydney, August 24 - 28 2018.
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/3elWlN0MzGw/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=3elWlN0MzGw,https://www.youtube.com/watch?v=3elWlN0MzGw
+36,Privacy Preserving Record Linkage,https://www.youtube.com/watch?v=riskUqGPfcY,riskUqGPfcY,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20180824,1659,1207,13,,"pyconau,pyconau_2018,Python,PyCon,PyConAU,BrianThorne",Education,"Brian Thorne
+
+https://2018.pycon-au.org/talks/44892-privacy-preserving-record-linkage/
+
+Record linkage is essential for organizations to collaborate and carry out joint analysis. Instead of trusting someone with lots of personally identifiable information like name/address we can learn the entity matching in a privacy preserving way. Let's talk about a Python implementation of that!
+
+Python, PyCon, PyConAU, australia, programming, sydney
+
+This video is licensed under CC BY 3.0 AU ‹https://creativecommons.org/licenses/by/3.0/au/›.
+
+PyCon Australia (“PyCon AU”) is the national conference for the Python Programming Community, bringing together professional, student and enthusiast developers with a love for developing with Python.
+
+PyCon AU, the national Python Language conference, is on again this August in Sydney, at the International Convention Centre, Sydney, August 24 - 28 2018.
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/riskUqGPfcY/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=riskUqGPfcY,https://www.youtube.com/watch?v=riskUqGPfcY
+37,Teaching OOP using Python (Progressing from GameMaker to Pygame),https://www.youtube.com/watch?v=_tYPQPXb90k,_tYPQPXb90k,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20180825,1674,1157,26,,"pyconau,pyconau_2018,Python,PyCon,PyConAU,BradNielsen",Education,"Brad Nielsen
+
+https://2018.pycon-au.org/talks/42567-teaching-oop-using-python-progressing-from-gamemaker-to-pygame/
+
+Teaching students Object-Oriented Programming(OOP) is challenging but invaluable. Due to its abstract nature, OOP is best taught in a fun and practical context such as game design. This talk will examine the progression of teaching OOP using the drag-and-drop interface of Game Maker to using Pygame.
+
+Python, PyCon, PyConAU, australia, programming, sydney
+
+This video is licensed under CC BY 3.0 AU ‹https://creativecommons.org/licenses/by/3.0/au/›.
+
+PyCon Australia (“PyCon AU”) is the national conference for the Python Programming Community, bringing together professional, student and enthusiast developers with a love for developing with Python.
+
+PyCon AU, the national Python Language conference, is on again this August in Sydney, at the International Convention Centre, Sydney, August 24 - 28 2018.
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/_tYPQPXb90k/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=_tYPQPXb90k,https://www.youtube.com/watch?v=_tYPQPXb90k
+38,Escape from auto-manual testing with Hypothesis!,https://www.youtube.com/watch?v=U_KhEi2vRT8,U_KhEi2vRT8,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20180825,1642,1145,28,,"pyconau,pyconau_2018,Python,PyCon,PyConAU,ZacHatfield-Dodds",Education,"Zac Hatfield-Dodds
+
+https://2018.pycon-au.org/talks/44889-escape-from-automanual-testing-with-hypothesis/
+
+Have you ever wanted someone else to write your test cases? There’s a library for that!
+
+You declare a strategy for inputs - from ‘an integer’ to ‘matching this regex’ to ‘Django model’; Hypothesis finds bugs and reports minimal failing examples. Too good to be true? Come see for yourself!
+
+Python, PyCon, PyConAU, australia, programming, sydney
+
+This video is licensed under CC BY 3.0 AU - https://creativecommons.org/licenses/by/3.0/au/
+
+PyCon Australia (“PyCon AU”) is the national conference for the Python Programming Community, bringing together professional, student and enthusiast developers with a love for developing with Python.
+
+PyCon AU, the national Python Language conference, is on again this August in Sydney, at the International Convention Centre, Sydney, August 24 - 28 2018.
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/U_KhEi2vRT8/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=U_KhEi2vRT8,https://www.youtube.com/watch?v=U_KhEi2vRT8
+39,Education Seminar Student Showcase,https://www.youtube.com/watch?v=QNAgPjbn0Ws,QNAgPjbn0Ws,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20180825,6737,1079,22,,"pyconau,pyconau_2018,Python,PyCon,PyConAU,IsabellaHogan,AdenPulford,WilliamMeibusch,VictorHorvat,SophieMayPress,JasperChandler,DeclanZammit,SamHogan,AnhPham,JosephTey",Education,"Isabella Hogan, Aden Pulford, William Meibusch, Victor Horvat, Sophie May Press, Jasper Chandler, Declan Zammit, Sam Hogan, Anh Pham, Joseph Tey
+
+https://2018.pycon-au.org/education-showcase
+
+Eight short talks from high school students across Australia. They'll be talking about projects they've built with Python using machine learning, robotics, natural language processing, and more
+
+Python, PyCon, PyConAU, australia, programming, sydney
+
+This video is licensed under CC BY 3.0 AU - https://creativecommons.org/licenses/by/3.0/au/
+
+PyCon Australia (“PyCon AU”) is the national conference for the Python Programming Community, bringing together professional, student and enthusiast developers with a love for developing with Python.
+
+PyCon AU, the national Python Language conference, is on again this August in Sydney, at the International Convention Centre, Sydney, August 24 - 28 2018.
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/QNAgPjbn0Ws/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=QNAgPjbn0Ws,https://www.youtube.com/watch?v=QNAgPjbn0Ws
+40,A traveller's guide to mapping technologies in Django,https://www.youtube.com/watch?v=YsJPZnI2Liw,YsJPZnI2Liw,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20180824,1743,975,17,,"pyconau,pyconau_2018,Python,PyCon,PyConAU,AnthonyIJoseph",Education,"Anthony I Joseph
+
+https://2018.pycon-au.org/talks/44482-a-travellers-guide-to-mapping-technologies-in-django/
+
+Hahmann and Burghart estimate at least 60% of all information is geospatially referenced. Fortunately, Django includes a variety of spatial and mapping tools to help build spatially-aware services. This talk will give an overview of geospatial concepts for the Australian and Django communities.
+
+Python, PyCon, PyConAU, australia, programming, sydney
+
+This video is licensed under CC BY 3.0 AU ‹https://creativecommons.org/licenses/by/3.0/au/›.
+
+PyCon Australia (“PyCon AU”) is the national conference for the Python Programming Community, bringing together professional, student and enthusiast developers with a love for developing with Python.
+
+PyCon AU, the national Python Language conference, is on again this August in Sydney, at the International Convention Centre, Sydney, August 24 - 28 2018.
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/YsJPZnI2Liw/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=YsJPZnI2Liw,https://www.youtube.com/watch?v=YsJPZnI2Liw
+41,Scissors-Paper-Rock your classroom with differentiated projects,https://www.youtube.com/watch?v=4Y3PuTTH5ZQ,4Y3PuTTH5ZQ,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20180825,1675,955,8,,"pyconau,pyconau_2018,Python,PyCon,PyConAU,ReneeNoble",Education,"Renee Noble
+
+https://2018.pycon-au.org/talks/45115-scissorspaperrock-your-classroom-with-differentiated-projects/
+
+Kids need conquerable programming challenges. But creating a project that challenges a variety of skill levels is difficult! Using python and the game scissors paper rock we'll show you how we create all kinds of projects as part of a program designed for engaging kids at all levels in programming.
+
+Python, PyCon, PyConAU, australia, programming, sydney
+
+This video is licensed under CC BY 3.0 AU ‹https://creativecommons.org/licenses/by/3.0/au/›.
+
+PyCon Australia (“PyCon AU”) is the national conference for the Python Programming Community, bringing together professional, student and enthusiast developers with a love for developing with Python.
+
+PyCon AU, the national Python Language conference, is on again this August in Sydney, at the International Convention Centre, Sydney, August 24 - 28 2018.
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/4Y3PuTTH5ZQ/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=4Y3PuTTH5ZQ,https://www.youtube.com/watch?v=4Y3PuTTH5ZQ
+42,"Write Perfect* Code First Time, Every Time",https://www.youtube.com/watch?v=nopZ7ydl55k,nopZ7ydl55k,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20180826,1770,935,16,,"pyconau,pyconau_2018,Python,PyCon,PyConAU,IshaanVarshney",Education,"Ishaan Varshney
+
+https://2018.pycon-au.org/talks/45378-write-perfect-code-first-time-every-time/
+
+Wouldn’t it be nice to know if the line you just wrote actually works? In this talk, we look at a Python development environment that is tuned for situations where one has to explore a new code base, learn a new framework or is a new-comer to the Python language.
+
+*No code is perfect.
+
+Python, PyCon, PyConAU, australia, programming, sydney
+
+This video is licensed under CC BY 3.0 AU - https://creativecommons.org/licenses/by/3.0/au/
+
+PyCon Australia (“PyCon AU”) is the national conference for the Python Programming Community, bringing together professional, student and enthusiast developers with a love for developing with Python.
+
+PyCon AU, the national Python Language conference, is on again this August in Sydney, at the International Convention Centre, Sydney, August 24 - 28 2018.
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/nopZ7ydl55k/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=nopZ7ydl55k,https://www.youtube.com/watch?v=nopZ7ydl55k
+43,Guide to your own artificial intelligence application in 3 easy steps,https://www.youtube.com/watch?v=ymRr0AkMb5E,ymRr0AkMb5E,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20180826,931,906,20,,"pyconau,pyconau_2018,Python,PyCon,PyConAU,NorahKlintbergSakal",Education,"Norah Klintberg Sakal
+
+https://2018.pycon-au.org/talks/45386-guide-to-your-own-artificial-intelligence-application-in-3-easy-steps/
+
+What do you think of when you hear “artificial intelligence”? Perhaps self-driving cars, autonomous robots and Siri, Alexa or Google Home? But it doesn’t have to be that complex. You can build a powerful image classification model within a topic that inspires and interests you - with 3 easy steps.
+
+Python, PyCon, PyConAU, australia, programming, sydney
+
+This video is licensed under CC BY 3.0 AU - https://creativecommons.org/licenses/by/3.0/au/
+
+PyCon Australia (“PyCon AU”) is the national conference for the Python Programming Community, bringing together professional, student and enthusiast developers with a love for developing with Python.
+
+PyCon AU, the national Python Language conference, is on again this August in Sydney, at the International Convention Centre, Sydney, August 24 - 28 2018.
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/ymRr0AkMb5E/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=ymRr0AkMb5E,https://www.youtube.com/watch?v=ymRr0AkMb5E
+44,Why you should care about types: How Python typing helped my team scale,https://www.youtube.com/watch?v=h1cD3a7ys8Q,h1cD3a7ys8Q,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20180826,1866,901,23,,"pyconau,pyconau_2018,Python,PyCon,PyConAU,LukaSterbic",Education,"Luka Sterbic
+
+https://2018.pycon-au.org/talks/45224-why-you-should-care-about-types-how-python-typing-helped-my-team-scale/
+
+By now you have probably all heard about Python static typing. But why should you care? Are types in Python even Pythonic? Is Python turning into Java? In this talk I’ll try to answer these questions and explain how type annotations helped my team scale 4x and make developers happier.
+
+Python, PyCon, PyConAU, australia, programming, sydney
+
+This video is licensed under CC BY 3.0 AU - https://creativecommons.org/licenses/by/3.0/au/
+
+PyCon Australia (“PyCon AU”) is the national conference for the Python Programming Community, bringing together professional, student and enthusiast developers with a love for developing with Python.
+
+PyCon AU, the national Python Language conference, is on again this August in Sydney, at the International Convention Centre, Sydney, August 24 - 28 2018.
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/h1cD3a7ys8Q/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=h1cD3a7ys8Q,https://www.youtube.com/watch?v=h1cD3a7ys8Q
+45,You Have Control - Learning lessons from aviation,https://www.youtube.com/watch?v=LvEsdGu9DdQ,LvEsdGu9DdQ,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20180826,1759,815,17,,"pyconau,pyconau_2018,Python,PyCon,PyConAU,AndrewGodwin",Education,"Andrew Godwin
+
+https://2018.pycon-au.org/talks/41796-you-have-control-learning-lessons-from-aviation/
+
+Software (and Python) is growing to power ever more of the world, and it’s only getting more complex. How do we handle large distributed systems? Handle cascading failure? Prepare for emergencies and downtime? Aviation has been through it all, and we’ll look at how we can learn from them.
+
+Python, PyCon, PyConAU, australia, programming, sydney
+
+This video is licensed under CC BY 3.0 AU - https://creativecommons.org/licenses/by/3.0/au/
+
+PyCon Australia (“PyCon AU”) is the national conference for the Python Programming Community, bringing together professional, student and enthusiast developers with a love for developing with Python.
+
+PyCon AU, the national Python Language conference, is on again this August in Sydney, at the International Convention Centre, Sydney, August 24 - 28 2018.
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/LvEsdGu9DdQ/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=LvEsdGu9DdQ,https://www.youtube.com/watch?v=LvEsdGu9DdQ
+46,Implementing a decorator for thread synchronisation,https://www.youtube.com/watch?v=EB6AH-85zfY,EB6AH-85zfY,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20180826,1755,742,12,,"pyconau,pyconau_2018,Python,PyCon,PyConAU,GrahamDumpleton",Education,"Graham Dumpleton
+
+https://2018.pycon-au.org/talks/45018-implementing-a-decorator-for-thread-synchronisation/
+
+Using multithreading in Python applications? Interested in complex use cases for decorators and context managers? This talk will describe how the Java programming language ""synchronized"" keyword, for handling synchronisation in multithread applications, can be implemented in Python.
+
+Python, PyCon, PyConAU, australia, programming, sydney
+
+This video is licensed under CC BY 3.0 AU - https://creativecommons.org/licenses/by/3.0/au/
+
+PyCon Australia (“PyCon AU”) is the national conference for the Python Programming Community, bringing together professional, student and enthusiast developers with a love for developing with Python.
+
+PyCon AU, the national Python Language conference, is on again this August in Sydney, at the International Convention Centre, Sydney, August 24 - 28 2018.
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/EB6AH-85zfY/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=EB6AH-85zfY,https://www.youtube.com/watch?v=EB6AH-85zfY
+47,Design for Non-Designers,https://www.youtube.com/watch?v=21byk2WWz3k,21byk2WWz3k,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20180825,1756,682,19,,"pyconau,pyconau_2018,Python,PyCon,PyConAU,TracyOsborn",Education,"Tracy Osborn
+
+https://2018.pycon-au.org/talks/43052-design-for-nondesigners/
+
+Want to up your design skills? This presentation will give you the building blocks you need to make better designs for your websites and presentations. Aimed at design beginners and developers.
+
+Python, PyCon, PyConAU, australia, programming, sydney
+
+This video is licensed under CC BY 3.0 AU ‹https://creativecommons.org/licenses/by/3.0/au/›.
+
+PyCon Australia (“PyCon AU”) is the national conference for the Python Programming Community, bringing together professional, student and enthusiast developers with a love for developing with Python.
+
+PyCon AU, the national Python Language conference, is on again this August in Sydney, at the International Convention Centre, Sydney, August 24 - 28 2018.
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/21byk2WWz3k/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=21byk2WWz3k,https://www.youtube.com/watch?v=21byk2WWz3k
+48,Multi-Factor Authentication: How it works and why you need to be using it yesterday,https://www.youtube.com/watch?v=zIhB8LuBA6g,zIhB8LuBA6g,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20180824,1815,673,10,,"pyconau,pyconau_2018,Python,PyCon,PyConAU,ChristopherSwenson",Education,"Christopher Swenson
+
+https://2018.pycon-au.org/talks/45227-multifactor-authentication-how-it-works-and-why-you-need-to-be-using-it-yesterday/
+
+Multi-factor authentication (MFA) and two-factor auth (2FA) are becoming popular, but how do they work? What are the options, how secure are they, and how do you use them in your own applications?
+
+We'll answer all these and more, covering everything from Django integration to cryptography.
+
+Python, PyCon, PyConAU, australia, programming, sydney
+
+This video is licensed under CC BY 3.0 AU ‹https://creativecommons.org/licenses/by/3.0/au/›.
+
+PyCon Australia (“PyCon AU”) is the national conference for the Python Programming Community, bringing together professional, student and enthusiast developers with a love for developing with Python.
+
+PyCon AU, the national Python Language conference, is on again this August in Sydney, at the International Convention Centre, Sydney, August 24 - 28 2018.
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/zIhB8LuBA6g/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=zIhB8LuBA6g,https://www.youtube.com/watch?v=zIhB8LuBA6g
+49,All in the Timing: Side-Channel Attacks,https://www.youtube.com/watch?v=KBGNO-uzgVE,KBGNO-uzgVE,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20180825,1763,659,14,,"pyconau,pyconau_2018,Python,PyCon,PyConAU,PhilipJames",Education,"Philip James
+
+https://2018.pycon-au.org/talks/45261-all-in-the-timing-sidechannel-attacks/
+
+Here, you’ll learn about a category of security issue known as side channel attacks. You’ll be amused to see how features like automatic data compression, short-circuit execution, and deterministic hashing can be abused to bypass security systems. No security background knowledge is required.
+
+Python, PyCon, PyConAU, australia, programming, sydney
+
+This video is licensed under CC BY 3.0 AU ‹https://creativecommons.org/licenses/by/3.0/au/›.
+
+PyCon Australia (“PyCon AU”) is the national conference for the Python Programming Community, bringing together professional, student and enthusiast developers with a love for developing with Python.
+
+PyCon AU, the national Python Language conference, is on again this August in Sydney, at the International Convention Centre, Sydney, August 24 - 28 2018.
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/KBGNO-uzgVE/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=KBGNO-uzgVE,https://www.youtube.com/watch?v=KBGNO-uzgVE
+50,Accessing and analysing your own social media data,https://www.youtube.com/watch?v=JNZH95aXNXo,JNZH95aXNXo,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20180826,1847,643,22,,"pyconau,pyconau_2018,Python,PyCon,PyConAU,CaitlinMacleod",Education,"Caitlin Macleod
+
+https://2018.pycon-au.org/talks/45252-accessing-and-analysing-your-own-social-media-data/
+
+What information do social media websites really collect and store about you? I will show you how to access that data from a few different social media pages and analyse it for your own use, even if you've never used python data analytics tools before!
+
+Python, PyCon, PyConAU, australia, programming, sydney
+
+This video is licensed under CC BY 3.0 AU - https://creativecommons.org/licenses/by/3.0/au/
+
+PyCon Australia (“PyCon AU”) is the national conference for the Python Programming Community, bringing together professional, student and enthusiast developers with a love for developing with Python.
+
+PyCon AU, the national Python Language conference, is on again this August in Sydney, at the International Convention Centre, Sydney, August 24 - 28 2018.
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/JNZH95aXNXo/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=JNZH95aXNXo,https://www.youtube.com/watch?v=JNZH95aXNXo
+51,Security Architecture from Ancient Times,https://www.youtube.com/watch?v=PdmIwcJqRZw,PdmIwcJqRZw,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20180824,1823,621,12,,"pyconau,pyconau_2018,Python,PyCon,PyConAU,LiamO",Education,"Liam O
+
+https://2018.pycon-au.org/talks/42329-security-architecture-from-ancient-times/
+
+We all want the systems we design and build to be secure, but it can be hard to know where to start.
+Using historical fortifications as real-world examples, this talk will break down and demystify how security controls can be selected, evaluated and integrated to build architecturally secure systems
+
+Python, PyCon, PyConAU, australia, programming, sydney
+
+This video is licensed under CC BY 3.0 AU ‹https://creativecommons.org/licenses/by/3.0/au/›.
+
+PyCon Australia (“PyCon AU”) is the national conference for the Python Programming Community, bringing together professional, student and enthusiast developers with a love for developing with Python.
+
+PyCon AU, the national Python Language conference, is on again this August in Sydney, at the International Convention Centre, Sydney, August 24 - 28 2018.
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/PdmIwcJqRZw/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=PdmIwcJqRZw,https://www.youtube.com/watch?v=PdmIwcJqRZw
+52,Creating Solid APIs,https://www.youtube.com/watch?v=MEba95kL0eo,MEba95kL0eo,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20180825,1777,603,14,,"pyconau,pyconau_2018,Python,PyCon,PyConAU,RivoLaks",Education,"Rivo Laks
+
+https://2018.pycon-au.org/talks/45289-creating-solid-apis/
+
+Increasingly, our apps are used not by humans but by other apps - via their APIs. Thus your APIs need to be well-designed and easy to consume for other developers.
+I will share tips and good practices on authentication, versioning, documentation, response structure, and why it all matters.
+
+Python, PyCon, PyConAU, australia, programming, sydney
+
+This video is licensed under CC BY 3.0 AU ‹https://creativecommons.org/licenses/by/3.0/au/›.
+
+PyCon Australia (“PyCon AU”) is the national conference for the Python Programming Community, bringing together professional, student and enthusiast developers with a love for developing with Python.
+
+PyCon AU, the national Python Language conference, is on again this August in Sydney, at the International Convention Centre, Sydney, August 24 - 28 2018.
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/MEba95kL0eo/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=MEba95kL0eo,https://www.youtube.com/watch?v=MEba95kL0eo
+53,End-to-end Energy Monitoring in Python,https://www.youtube.com/watch?v=0pl0o5FhPwQ,0pl0o5FhPwQ,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20180826,1786,603,4,,"pyconau,pyconau_2018,Python,PyCon,PyConAU,TishamDhar",Education,"Tisham Dhar
+
+https://2018.pycon-au.org/talks/45073-endtoend-energy-monitoring-in-python/
+
+I built an energy monitoring hardware as a hobby. Firmware for configuring, reading metering data and pushing out to IoT platform is done in micropython. Server for holding the data is Graphite (also python) and analysis of the data is done in python ML framework, Keras. End-to-end energy in python.
+
+Python, PyCon, PyConAU, australia, programming, sydney
+
+This video is licensed under CC BY 3.0 AU - https://creativecommons.org/licenses/by/3.0/au/
+
+PyCon Australia (“PyCon AU”) is the national conference for the Python Programming Community, bringing together professional, student and enthusiast developers with a love for developing with Python.
+
+PyCon AU, the national Python Language conference, is on again this August in Sydney, at the International Convention Centre, Sydney, August 24 - 28 2018.
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/0pl0o5FhPwQ/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=0pl0o5FhPwQ,https://www.youtube.com/watch?v=0pl0o5FhPwQ
+54,Writing To Be Understood,https://www.youtube.com/watch?v=q9W4F6elTiw,q9W4F6elTiw,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20180825,2917,570,8,,"pyconau,pyconau_2018,Python,PyCon,PyConAU,MerrinMacleod",Education,"Merrin Macleod
+
+https://2018.pycon-au.org/talks/41002-writing-to-be-understood/
+
+As developers, we write a lot more than just code. We write commit messages; we
+review our colleagues’ code; we email collaborators; we tweet our hottest
+takes. 
+
+Good written communication can make your systems easier to use and maintain,
+encourage your colleagues to be more receptive to your suggestions, and make
+you more popular on the internet. I’ll share some practical ways to communicate
+more effectively, and some less practical theory about how people and language
+work.
+
+Python, PyCon, PyConAU, australia, programming, sydney
+
+This video is licensed under CC BY 3.0 AU ‹https://creativecommons.org/licenses/by/3.0/au/›.
+
+PyCon Australia (“PyCon AU”) is the national conference for the Python Programming Community, bringing together professional, student and enthusiast developers with a love for developing with Python.
+
+PyCon AU, the national Python Language conference, is on again this August in Sydney, at the International Convention Centre, Sydney, August 24 - 28 2018.
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/q9W4F6elTiw/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=q9W4F6elTiw,https://www.youtube.com/watch?v=q9W4F6elTiw
+55,What is the most common street name in Australia?,https://www.youtube.com/watch?v=eGgBU2Pl6iA,eGgBU2Pl6iA,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20180826,1840,548,8,,"pyconau,pyconau_2018,Python,PyCon,PyConAU,RachelBunder",Education,"Rachel Bunder
+
+https://2018.pycon-au.org/talks/45005-what-is-the-most-common-street-name-in-australia/
+
+Finding the most common street name in Australia may sound like a simple thing to do - but it quickly devolves into a scenic tour of all the things that go wrong when doing data analytics.  I'll be giving advice on how to avoid these speed bumps along with how to work with OpenStreetMaps in Python.
+
+Python, PyCon, PyConAU, australia, programming, sydney
+
+This video is licensed under CC BY 3.0 AU - https://creativecommons.org/licenses/by/3.0/au/
+
+PyCon Australia (“PyCon AU”) is the national conference for the Python Programming Community, bringing together professional, student and enthusiast developers with a love for developing with Python.
+
+PyCon AU, the national Python Language conference, is on again this August in Sydney, at the International Convention Centre, Sydney, August 24 - 28 2018.
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/eGgBU2Pl6iA/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=eGgBU2Pl6iA,https://www.youtube.com/watch?v=eGgBU2Pl6iA
+56,Reflections on the Creative Process - Illustrated with Watercolour Painting,https://www.youtube.com/watch?v=fujTKJnesXI,fujTKJnesXI,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20180826,1708,548,10,,"pyconau,pyconau_2018,Python,PyCon,PyConAU,GraceNolan",Education,"Grace Nolan
+
+https://2018.pycon-au.org/talks/45226-reflections-on-the-creative-process-illustrated-with-watercolour-painting/
+
+Coding is a creative process. But we don’t really learn about creativity, usually it's all exception handling and Big O complexity. This talk is about introspection and calm coding in the face of long stack traces. Also, I'll be doing a live watercolour painting at the same time.
+
+Python, PyCon, PyConAU, australia, programming, sydney
+
+This video is licensed under CC BY 3.0 AU - https://creativecommons.org/licenses/by/3.0/au/
+
+PyCon Australia (“PyCon AU”) is the national conference for the Python Programming Community, bringing together professional, student and enthusiast developers with a love for developing with Python.
+
+PyCon AU, the national Python Language conference, is on again this August in Sydney, at the International Convention Centre, Sydney, August 24 - 28 2018.
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/fujTKJnesXI/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=fujTKJnesXI,https://www.youtube.com/watch?v=fujTKJnesXI
+57,Colossal Cave Adventure in Python... in the browser!,https://www.youtube.com/watch?v=Z0ya8qhDEGw,Z0ya8qhDEGw,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20180826,1773,543,7,,"pyconau,pyconau_2018,Python,PyCon,PyConAU,ChristopherSwenson",Education,"Christopher Swenson
+
+https://2018.pycon-au.org/talks/45228-colossal-cave-adventure-in-python-in-the-browser/
+
+Learn about 36-bit integers and writing interpreters in Python!
+
+Colossal Cave (Adventure) is the original text adventure, written in FORTRAN IV. We explore using software archeology to write a Python interpreter for FORTRAN.  We use BeeWare's Batavia JS Python interpreter to run in the browser.
+
+Python, PyCon, PyConAU, australia, programming, sydney
+
+This video is licensed under CC BY 3.0 AU - https://creativecommons.org/licenses/by/3.0/au/
+
+PyCon Australia (“PyCon AU”) is the national conference for the Python Programming Community, bringing together professional, student and enthusiast developers with a love for developing with Python.
+
+PyCon AU, the national Python Language conference, is on again this August in Sydney, at the International Convention Centre, Sydney, August 24 - 28 2018.
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/Z0ya8qhDEGw/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=Z0ya8qhDEGw,https://www.youtube.com/watch?v=Z0ya8qhDEGw
+58,Stupid computer! Improving error messages for beginner programmers,https://www.youtube.com/watch?v=wwn6jDXG-VY,wwn6jDXG-VY,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20180826,1834,500,5,,"pyconau,pyconau_2018,Python,PyCon,PyConAU,TimDawborn",Education,"Tim Dawborn
+
+https://2018.pycon-au.org/talks/45178-stupid-computer-improving-error-messages-for-beginner-programmers/
+
+Python is a great beginners programming language. Unfortunately, many of the exception messages coming from the standard library and parser are very unhelpful to a newbie programmer. We identify some of these cases, make modifications to improve these messages, and assess their effectiveness.
+
+Python, PyCon, PyConAU, australia, programming, sydney
+
+This video is licensed under CC BY 3.0 AU - https://creativecommons.org/licenses/by/3.0/au/
+
+PyCon Australia (“PyCon AU”) is the national conference for the Python Programming Community, bringing together professional, student and enthusiast developers with a love for developing with Python.
+
+PyCon AU, the national Python Language conference, is on again this August in Sydney, at the International Convention Centre, Sydney, August 24 - 28 2018.
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/wwn6jDXG-VY/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=wwn6jDXG-VY,https://www.youtube.com/watch?v=wwn6jDXG-VY
+59,Lighting Macro Photographs with CircuitPython,https://www.youtube.com/watch?v=JAgCZ70Q3sg,JAgCZ70Q3sg,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20180825,1618,488,8,,"pyconau,pyconau_2018,Python,PyCon,PyConAU,StacyMorse",Education,"Stacy Morse
+
+https://2018.pycon-au.org/talks/45177-lighting-macro-photographs-with-circuitpython/
+
+LED lighting rigs are expensive. Worse, they have little to no controls aside from on/off. Most are not dimmable and changing colors requires the use of gels. In this talk I will discuss how CircuitPython was used in conjunction with LEDs and microcontrollers to make a custom LED photo lighting rig.
+
+Python, PyCon, PyConAU, australia, programming, sydney
+
+This video is licensed under CC BY 3.0 AU ‹https://creativecommons.org/licenses/by/3.0/au/›.
+
+PyCon Australia (“PyCon AU”) is the national conference for the Python Programming Community, bringing together professional, student and enthusiast developers with a love for developing with Python.
+
+PyCon AU, the national Python Language conference, is on again this August in Sydney, at the International Convention Centre, Sydney, August 24 - 28 2018.
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/JAgCZ70Q3sg/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=JAgCZ70Q3sg,https://www.youtube.com/watch?v=JAgCZ70Q3sg
+60,Python & Spreadsheets: Earth Dog Edition,https://www.youtube.com/watch?v=OICxlEzbF6E,OICxlEzbF6E,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20180825,1996,470,9,,"pyconau,pyconau_2018,Python,PyCon,PyConAU,KojoIdrissa",Education,"Kojo Idrissa
+
+https://2018.pycon-au.org/talks/45310-python-spreadsheets-earth-dog-edition/
+
+Spreadsheets files are great for sharing data. Spreadsheet applications can be a nightmare. In this updated talk, you'll see how OpenPyXL let's you work with those files in a way that's better than using the app OR a .csv. I'll also discuss common problems in working with spreadsheets via code.
+
+Python, PyCon, PyConAU, australia, programming, sydney
+
+This video is licensed under CC BY 3.0 AU ‹https://creativecommons.org/licenses/by/3.0/au/›.
+
+PyCon Australia (“PyCon AU”) is the national conference for the Python Programming Community, bringing together professional, student and enthusiast developers with a love for developing with Python.
+
+PyCon AU, the national Python Language conference, is on again this August in Sydney, at the International Convention Centre, Sydney, August 24 - 28 2018.
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/OICxlEzbF6E/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=OICxlEzbF6E,https://www.youtube.com/watch?v=OICxlEzbF6E
+61,Workplace Environment Sensing with Python,https://www.youtube.com/watch?v=u4rSKNX_spA,u4rSKNX_spA,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20180825,1762,415,3,,"pyconau,pyconau_2018,Python,PyCon,PyConAU,AidenRay",Education,"Aiden Ray
+
+https://2018.pycon-au.org/talks/45376-workplace-environment-sensing-with-python/
+
+Have you often wondered where the quietest spot in the office is right now? In this talk, we explain how we built a real-time system that does just that using CircuitPython.
+
+Python, PyCon, PyConAU, australia, programming, sydney
+
+This video is licensed under CC BY 3.0 AU ‹https://creativecommons.org/licenses/by/3.0/au/›.
+
+PyCon Australia (“PyCon AU”) is the national conference for the Python Programming Community, bringing together professional, student and enthusiast developers with a love for developing with Python.
+
+PyCon AU, the national Python Language conference, is on again this August in Sydney, at the International Convention Centre, Sydney, August 24 - 28 2018.
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/u4rSKNX_spA/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=u4rSKNX_spA,https://www.youtube.com/watch?v=u4rSKNX_spA
+62,When the Python Bites: A Survival Guide to Errors,https://www.youtube.com/watch?v=PTa9MMvvk-k,PTa9MMvvk-k,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20180826,1741,402,7,,"pyconau,pyconau_2018,Python,PyCon,PyConAU,EvanKohilas",Education,"Evan Kohilas
+
+https://2018.pycon-au.org/talks/44356-when-the-python-bites-a-survival-guide-to-errors/
+
+You can easily make them, you're afraid of them, and they'll ruin your day.
+I'm talking about Errors in Python. Why do they exist? Do we really need them? And how do we deal with them instead of panicking when they appear?
+
+Python, PyCon, PyConAU, australia, programming, sydney
+
+This video is licensed under CC BY 3.0 AU - https://creativecommons.org/licenses/by/3.0/au/
+
+PyCon Australia (“PyCon AU”) is the national conference for the Python Programming Community, bringing together professional, student and enthusiast developers with a love for developing with Python.
+
+PyCon AU, the national Python Language conference, is on again this August in Sydney, at the International Convention Centre, Sydney, August 24 - 28 2018.
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/PTa9MMvvk-k/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=PTa9MMvvk-k,https://www.youtube.com/watch?v=PTa9MMvvk-k
+63,Teaching Python to Design Students,https://www.youtube.com/watch?v=48OsOkm46b4,48OsOkm46b4,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20180825,1575,400,16,,"pyconau,pyconau_2018,Python,PyCon,PyConAU,BenDoherty,IshaanVarshney",Education,"Ben Doherty, Ishaan Varshney
+
+https://2018.pycon-au.org/talks/45328-teaching-python-to-design-students/
+
+“I’m a designer, why should I learn python?” We’ve been teaching a course to non-nerds for a couple of years and so we’re going to share some of the things we’ve discovered.
+
+Python, PyCon, PyConAU, australia, programming, sydney
+
+This video is licensed under CC BY 3.0 AU ‹https://creativecommons.org/licenses/by/3.0/au/›.
+
+PyCon Australia (“PyCon AU”) is the national conference for the Python Programming Community, bringing together professional, student and enthusiast developers with a love for developing with Python.
+
+PyCon AU, the national Python Language conference, is on again this August in Sydney, at the International Convention Centre, Sydney, August 24 - 28 2018.
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/48OsOkm46b4/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=48OsOkm46b4,https://www.youtube.com/watch?v=48OsOkm46b4
+64,Be a brilliant mentor,https://www.youtube.com/watch?v=vFfVUXB4QjE,vFfVUXB4QjE,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20180826,1828,378,2,,"pyconau,pyconau_2018,Python,PyCon,PyConAU,DonnaZhou",Education,"Donna Zhou
+
+https://2018.pycon-au.org/talks/45069-be-a-brilliant-mentor/
+
+You are ready to be a brilliant mentor.
+
+This talk is for anyone that wants to be great at supporting other developers. This talk also discusses how mentoring trains core skills such as communication and empathy.
+
+This talk provides actionable advice for effective mentoring and successful workshops.
+
+Python, PyCon, PyConAU, australia, programming, sydney
+
+This video is licensed under CC BY 3.0 AU - https://creativecommons.org/licenses/by/3.0/au/
+
+PyCon Australia (“PyCon AU”) is the national conference for the Python Programming Community, bringing together professional, student and enthusiast developers with a love for developing with Python.
+
+PyCon AU, the national Python Language conference, is on again this August in Sydney, at the International Convention Centre, Sydney, August 24 - 28 2018.
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/vFfVUXB4QjE/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=vFfVUXB4QjE,https://www.youtube.com/watch?v=vFfVUXB4QjE
+65,Don’t be a fail whale: secure your containers,https://www.youtube.com/watch?v=ioSbjXKpDOI,ioSbjXKpDOI,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20180825,1810,377,2,,"pyconau,pyconau_2018,Python,PyCon,PyConAU,SarahYoung",Education,"Sarah Young
+
+https://2018.pycon-au.org/talks/45055-dont-be-a-fail-whale-secure-your-containers/
+
+Containers are great technology, but they have specific security threats that need to be considered when implementing and running them. In this talk, I give an overview of how to effectively threat model for containers running python and some of the tools that you can use to counter them.
+
+Python, PyCon, PyConAU, australia, programming, sydney
+
+This video is licensed under CC BY 3.0 AU ‹https://creativecommons.org/licenses/by/3.0/au/›.
+
+PyCon Australia (“PyCon AU”) is the national conference for the Python Programming Community, bringing together professional, student and enthusiast developers with a love for developing with Python.
+
+PyCon AU, the national Python Language conference, is on again this August in Sydney, at the International Convention Centre, Sydney, August 24 - 28 2018.
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/ioSbjXKpDOI/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=ioSbjXKpDOI,https://www.youtube.com/watch?v=ioSbjXKpDOI
+66,Internet of Human Connectedness,https://www.youtube.com/watch?v=Yl-AawPAA_A,Yl-AawPAA_A,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20180825,1840,358,3,,"pyconau,pyconau_2018,Python,PyCon,PyConAU,MichelleEricaLo",Education,"Michelle Erica Lo
+
+https://2018.pycon-au.org/talks/44085-internet-of-human-connectedness-how-my-iot-project-increased-my-connectedness-with-the-world/
+
+Everything you need is out there, you just have to go out and get it. IoT has opened up a new world of connection for me - human connection. The keys? Some sensors, a slipper and a heap of passion.
+
+Python, PyCon, PyConAU, australia, programming, sydney
+
+This video is licensed under CC BY 3.0 AU ‹https://creativecommons.org/licenses/by/3.0/au/›.
+
+PyCon Australia (“PyCon AU”) is the national conference for the Python Programming Community, bringing together professional, student and enthusiast developers with a love for developing with Python.
+
+PyCon AU, the national Python Language conference, is on again this August in Sydney, at the International Convention Centre, Sydney, August 24 - 28 2018.
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/Yl-AawPAA_A/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=Yl-AawPAA_A,https://www.youtube.com/watch?v=Yl-AawPAA_A
+67,Watch out for Safety Bandits!,https://www.youtube.com/watch?v=Wa2pgDihWaw,Wa2pgDihWaw,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20180826,1395,340,2,,"pyconau,pyconau_2018,Python,PyCon,PyConAU,TennesseeLeeuwenburg",Education,"Tennessee Leeuwenburg
+
+https://2018.pycon-au.org/talks/43518-watch-out-for-safety-bandits/
+
+There are two key tools for assisting with vulnerability discovery in Python -- Safety and Bandit. Make sure they're turned on in your continuous integration. This talk will include the kinds of security problem these tools detect, how to get the most out of them, and what gaps still remain.
+
+Python, PyCon, PyConAU, australia, programming, sydney
+
+This video is licensed under CC BY 3.0 AU - https://creativecommons.org/licenses/by/3.0/au/
+
+PyCon Australia (“PyCon AU”) is the national conference for the Python Programming Community, bringing together professional, student and enthusiast developers with a love for developing with Python.
+
+PyCon AU, the national Python Language conference, is on again this August in Sydney, at the International Convention Centre, Sydney, August 24 - 28 2018.
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/Wa2pgDihWaw/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=Wa2pgDihWaw,https://www.youtube.com/watch?v=Wa2pgDihWaw
+68,"Hello to the World in 8 Web Frameworks (Micro, Batteries Included & Async)",https://www.youtube.com/watch?v=z9Ek6fefMYk,z9Ek6fefMYk,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20180826,1878,342,7,,"pyconau,pyconau_2018,Python,PyCon,PyConAU,AaronBassett",Education,"Aaron Bassett
+
+https://2018.pycon-au.org/talks/45282-hello-to-the-world-in-8-web-frameworks-micro-batteries-included-async/
+
+A Phileas Fogg inspired tour of 8 frameworks
+
+""Had he programmed? It was likely, for no one seemed to know web frameworks more familiarly; there was no framework so obscure that he did not appear to have an intimate acquaintance with it. He must have developed in everything, at least in the spirit.""
+
+Python, PyCon, PyConAU, australia, programming, sydney
+
+This video is licensed under CC BY 3.0 AU - https://creativecommons.org/licenses/by/3.0/au/
+
+PyCon Australia (“PyCon AU”) is the national conference for the Python Programming Community, bringing together professional, student and enthusiast developers with a love for developing with Python.
+
+PyCon AU, the national Python Language conference, is on again this August in Sydney, at the International Convention Centre, Sydney, August 24 - 28 2018.
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/z9Ek6fefMYk/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=z9Ek6fefMYk,https://www.youtube.com/watch?v=z9Ek6fefMYk
+69,Learning from the mistakes that even big projects make,https://www.youtube.com/watch?v=xVOk7G9Akak,xVOk7G9Akak,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20180824,1714,300,3,,"pyconau,pyconau_2018,Python,PyCon,PyConAU,MichaelStill",Education,"Michael Still
+
+https://2018.pycon-au.org/talks/41704-learning-from-the-mistakes-that-even-big-projects-make/
+
+Since 2011, I've worked on a large Open Source project in python. It kind of got out of hand -- 1000s of developers and millions of lines of code. Yet despite being well resourced, we made the same mistakes that those tiny scripts you whip up to solve a small problem make. Come learn from our fail.
+
+Python, PyCon, PyConAU, australia, programming, sydney
+
+This video is licensed under CC BY 3.0 AU ‹https://creativecommons.org/licenses/by/3.0/au/›.
+
+PyCon Australia (“PyCon AU”) is the national conference for the Python Programming Community, bringing together professional, student and enthusiast developers with a love for developing with Python.
+
+PyCon AU, the national Python Language conference, is on again this August in Sydney, at the International Convention Centre, Sydney, August 24 - 28 2018.
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/xVOk7G9Akak/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=xVOk7G9Akak,https://www.youtube.com/watch?v=xVOk7G9Akak
+70,The Case of the Mysteriously High System Load,https://www.youtube.com/watch?v=i5R2J8L6FWE,i5R2J8L6FWE,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20180825,1698,295,9,,"pyconau,pyconau_2018,Python,PyCon,PyConAU,BriannaLaugher",Education,"Brianna Laugher
+
+https://2018.pycon-au.org/talks/45116-the-case-of-the-mysteriously-high-system-load/
+
+The software system is struggling, and the logs won’t say why. To make the software run smoothly again, Detective Plum Bago must solve the mystery! This case study shows how to use metrics to identify performance bottlenecks in distributed systems, to ensure the right culprit is captured.
+
+Python, PyCon, PyConAU, australia, programming, sydney
+
+This video is licensed under CC BY 3.0 AU ‹https://creativecommons.org/licenses/by/3.0/au/›.
+
+PyCon Australia (“PyCon AU”) is the national conference for the Python Programming Community, bringing together professional, student and enthusiast developers with a love for developing with Python.
+
+PyCon AU, the national Python Language conference, is on again this August in Sydney, at the International Convention Centre, Sydney, August 24 - 28 2018.
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/i5R2J8L6FWE/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=i5R2J8L6FWE,https://www.youtube.com/watch?v=i5R2J8L6FWE
+71,How Python saved a rescue dog - a foster fail story,https://www.youtube.com/watch?v=EqQj5os3Mfw,EqQj5os3Mfw,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20180824,1433,287,9,,"pyconau,pyconau_2018,Python,PyCon,PyConAU,AndreasMoll",Education,"Andreas Moll
+
+https://2018.pycon-au.org/talks/45067-how-python-saved-a-rescue-dog-a-foster-fail-story/
+
+When we decided to foster a rescue dog last year, we had to deliver anti-anxiety medication to the dog while working. We built a drug delivery system using IoT boards, Python and cloud VMs. This talk tells the story how Python turned a crazy idea into a lifesaving DIY project and a foster fail.
+
+Python, PyCon, PyConAU, australia, programming, sydney
+
+This video is licensed under CC BY 3.0 AU ‹https://creativecommons.org/licenses/by/3.0/au/›.
+
+PyCon Australia (“PyCon AU”) is the national conference for the Python Programming Community, bringing together professional, student and enthusiast developers with a love for developing with Python.
+
+PyCon AU, the national Python Language conference, is on again this August in Sydney, at the International Convention Centre, Sydney, August 24 - 28 2018.
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/EqQj5os3Mfw/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=EqQj5os3Mfw,https://www.youtube.com/watch?v=EqQj5os3Mfw
+72,Keynote: Tracy Osborn,https://www.youtube.com/watch?v=fOzJ-OIZRZw,fOzJ-OIZRZw,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20180826,2959,284,9,,"pyconau,pyconau_2018,Python,PyCon,PyConAU,TracyOsborn",Education,"Tracy Osborn
+
+https://2018.pycon-au.org/talks/tracy
+
+Tracy will be speaking on Sunday morning, giving a presentation entitled: ""Clueless"".
+
+Python, PyCon, PyConAU, australia, programming, sydney
+
+This video is licensed under CC BY 3.0 AU - https://creativecommons.org/licenses/by/3.0/au/
+
+PyCon Australia (“PyCon AU”) is the national conference for the Python Programming Community, bringing together professional, student and enthusiast developers with a love for developing with Python.
+
+PyCon AU, the national Python Language conference, is on again this August in Sydney, at the International Convention Centre, Sydney, August 24 - 28 2018.
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/fOzJ-OIZRZw/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=fOzJ-OIZRZw,https://www.youtube.com/watch?v=fOzJ-OIZRZw
+73,Data is the new shiny thing,https://www.youtube.com/watch?v=Crq5zI_LsKQ,Crq5zI_LsKQ,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20180825,2841,279,5,,"pyconau,pyconau_2018,Python,PyCon,PyConAU,LindaMcIver",Education,"Linda McIver
+
+https://2018.pycon-au.org/talks/41003-education-invited-speaker/
+
+Data Science is the tag of choice for grant applications, project proposals,
+and media opportunities. It’s the latest shiny buzz word toy. But it turns
+out that data science is crucial to our lives and the future of the planet.
+It’s also a fun, easy, and motivating way to teach kids programming and give
+them the chance to make a real difference in the world. So let’s talk about
+using Python and real datasets to take over the world, and, incidentally,
+teach STEM.
+
+Python, PyCon, PyConAU, australia, programming, sydney
+
+This video is licensed under CC BY 3.0 AU ‹https://creativecommons.org/licenses/by/3.0/au/›.
+
+PyCon Australia (“PyCon AU”) is the national conference for the Python Programming Community, bringing together professional, student and enthusiast developers with a love for developing with Python.
+
+PyCon AU, the national Python Language conference, is on again this August in Sydney, at the International Convention Centre, Sydney, August 24 - 28 2018.
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/Crq5zI_LsKQ/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=Crq5zI_LsKQ,https://www.youtube.com/watch?v=Crq5zI_LsKQ
+74,"Securing Your Company's Data: Encryption, Deletion and Other Best Practices",https://www.youtube.com/watch?v=sTluS_O7-No,sTluS_O7-No,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20180824,1764,272,1,,"pyconau,pyconau_2018,Python,PyCon,PyConAU,ElissaShevinsky",Education,"Elissa Shevinsky
+
+https://2018.pycon-au.org/talks/41950-securing-your-companys-data-encryption-deletion-and-other-best-practices/
+
+Wouldn't you like to contribute to the development of secure applications? Perfect, you have come to the right place! We'll learn five security techniques and best practices that are accessible even to small teams and startups. And since this is Pycon, we'll focus on examples from Python projects.
+
+Python, PyCon, PyConAU, australia, programming, sydney
+
+This video is licensed under CC BY 3.0 AU ‹https://creativecommons.org/licenses/by/3.0/au/›.
+
+PyCon Australia (“PyCon AU”) is the national conference for the Python Programming Community, bringing together professional, student and enthusiast developers with a love for developing with Python.
+
+PyCon AU, the national Python Language conference, is on again this August in Sydney, at the International Convention Centre, Sydney, August 24 - 28 2018.
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/sTluS_O7-No/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=sTluS_O7-No,https://www.youtube.com/watch?v=sTluS_O7-No
+75,"Remote First, Not Second Best.",https://www.youtube.com/watch?v=Cg-xgpdTiUM,Cg-xgpdTiUM,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20180826,1403,271,7,,"pyconau,pyconau_2018,Python,PyCon,PyConAU,KelseyvanHaaster",Education,"Kelsey van Haaster
+
+https://2018.pycon-au.org/talks/45291-remote-first-not-second-best/
+
+Come to this presentation to learn how a team of seven people, working across 17 time zones, became one of the best performing cross-functional product teams in an organisation. We’ll share how we got here, what we learned and our key principles for building a high performing remote first team.
+
+Python, PyCon, PyConAU, australia, programming, sydney
+
+This video is licensed under CC BY 3.0 AU - https://creativecommons.org/licenses/by/3.0/au/
+
+PyCon Australia (“PyCon AU”) is the national conference for the Python Programming Community, bringing together professional, student and enthusiast developers with a love for developing with Python.
+
+PyCon AU, the national Python Language conference, is on again this August in Sydney, at the International Convention Centre, Sydney, August 24 - 28 2018.
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/Cg-xgpdTiUM/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=Cg-xgpdTiUM,https://www.youtube.com/watch?v=Cg-xgpdTiUM
+76,"International Cultural Bungles for Fun, Profit, and Sleeping At Night",https://www.youtube.com/watch?v=giVeTjdQzIY,giVeTjdQzIY,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20180826,1819,264,10,,"pyconau,pyconau_2018,Python,PyCon,PyConAU,maiasauren",Education,"maia sauren
+
+https://2018.pycon-au.org/talks/45199-international-cultural-bungles-for-fun-profit-and-sleeping-at-night/
+
+This talk is about how to overcome the basic conflict and malaise that naturally occur in software teams working across countries, timezones, languages, cultural assumptions, hierachies, and professional backgrounds.  Come for the war stories, stay for the one weird trick for avoiding meetings.
+
+Python, PyCon, PyConAU, australia, programming, sydney
+
+This video is licensed under CC BY 3.0 AU - https://creativecommons.org/licenses/by/3.0/au/
+
+PyCon Australia (“PyCon AU”) is the national conference for the Python Programming Community, bringing together professional, student and enthusiast developers with a love for developing with Python.
+
+PyCon AU, the national Python Language conference, is on again this August in Sydney, at the International Convention Centre, Sydney, August 24 - 28 2018.
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi/giVeTjdQzIY/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=giVeTjdQzIY,https://www.youtube.com/watch?v=giVeTjdQzIY
+77,"There is no ""now"" and sensor data's the worst",https://www.youtube.com/watch?v=uv-KQzjA08c,uv-KQzjA08c,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20180826,1355,240,2,,"pyconau,pyconau_2018,Python,PyCon,PyConAU,MikeLeonard",Education,"Mike Leonard
+
+https://2018.pycon-au.org/talks/45064-there-is-no-now-and-sensor-datas-the-worst/
+
+In this interactive presentation the audiences phones will be used as stand-in IoT devices streaming data back to the presentation. Using this data we will understand some of the complexities of receiving data from large numbers of distributed devices and techniques for managing this.
+
+Python, PyCon, PyConAU, australia, programming, sydney
+
+This video is licensed under CC BY 3.0 AU - https://creativecommons.org/licenses/by/3.0/au/
+
+PyCon Australia (“PyCon AU”) is the national conference for the Python Programming Community, bringing together professional, student and enthusiast developers with a love for developing with Python.
+
+PyCon AU, the national Python Language conference, is on again this August in Sydney, at the International Convention Centre, Sydney, August 24 - 28 2018.
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/uv-KQzjA08c/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=uv-KQzjA08c,https://www.youtube.com/watch?v=uv-KQzjA08c
+78,Python all the subjects!,https://www.youtube.com/watch?v=Bsv-PN2OLZA,Bsv-PN2OLZA,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20180825,1829,227,4,,"pyconau,pyconau_2018,Python,PyCon,PyConAU,DigitalK",Education,"Digital K
+
+https://2018.pycon-au.org/talks/45316-python-all-the-subjects/
+
+How can we fit teaching coding into an already crowded curriculum?
+Make it part of other subjects!  Find out how Python can go beyond the ICT room and be used for creative writing, geography, science, maths, art and more.  Example projects, games and tips for upper primary to middle school.
+
+Python, PyCon, PyConAU, australia, programming, sydney
+
+This video is licensed under CC BY 3.0 AU ‹https://creativecommons.org/licenses/by/3.0/au/›.
+
+PyCon Australia (“PyCon AU”) is the national conference for the Python Programming Community, bringing together professional, student and enthusiast developers with a love for developing with Python.
+
+PyCon AU, the national Python Language conference, is on again this August in Sydney, at the International Convention Centre, Sydney, August 24 - 28 2018.
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/Bsv-PN2OLZA/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=Bsv-PN2OLZA,https://www.youtube.com/watch?v=Bsv-PN2OLZA
+79,Think Globally; Internationalise Locally,https://www.youtube.com/watch?v=E59tCgykorI,E59tCgykorI,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20180826,1918,222,11,,"pyconau,pyconau_2018,Python,PyCon,PyConAU,PeterHall",Education,"Peter Hall
+
+https://2018.pycon-au.org/talks/45065-think-globally-internationalise-locally/
+
+Making software for a global audience is hard. This talk will show you the issues you will come across as you localise your software and which Python libraries provide the solutions.
+
+Python, PyCon, PyConAU, australia, programming, sydney
+
+This video is licensed under CC BY 3.0 AU - https://creativecommons.org/licenses/by/3.0/au/
+
+PyCon Australia (“PyCon AU”) is the national conference for the Python Programming Community, bringing together professional, student and enthusiast developers with a love for developing with Python.
+
+PyCon AU, the national Python Language conference, is on again this August in Sydney, at the International Convention Centre, Sydney, August 24 - 28 2018.
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/E59tCgykorI/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=E59tCgykorI,https://www.youtube.com/watch?v=E59tCgykorI
+80,"Creepy, frivolous and beautiful art made with machines (CW)",https://www.youtube.com/watch?v=Ldz6io2_pOE,Ldz6io2_pOE,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20180825,1825,204,7,,"pyconau,pyconau_2018,Python,PyCon,PyConAU,J.Rosenbaum",Education,"J. Rosenbaum
+
+https://2018.pycon-au.org/talks/45247-creepy-frivolous-and-beautiful-art-made-with-machines/
+
+An exploration of digital art looking at the uses of machine learning and how it impacts the future of art. What can we learn from art created using neural networks and what can we create? From the frivolous to the beautiful, what does art created by computers look like and where can it take us?
+
+Python, PyCon, PyConAU, australia, programming, sydney
+
+This video is licensed under CC BY 3.0 AU ‹https://creativecommons.org/licenses/by/3.0/au/›.
+
+PyCon Australia (“PyCon AU”) is the national conference for the Python Programming Community, bringing together professional, student and enthusiast developers with a love for developing with Python.
+
+PyCon AU, the national Python Language conference, is on again this August in Sydney, at the International Convention Centre, Sydney, August 24 - 28 2018.
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/Ldz6io2_pOE/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=Ldz6io2_pOE,https://www.youtube.com/watch?v=Ldz6io2_pOE
+81,Secret Histories: The Women of Python,https://www.youtube.com/watch?v=ts8Ypb257lo,ts8Ypb257lo,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20180826,1542,204,3,,"pyconau,pyconau_2018,Python,PyCon,PyConAU,ElissaShevinsky",Education,"Elissa Shevinsky
+
+https://2018.pycon-au.org/talks/41951-secret-histories-the-women-of-python/
+
+Did you know the role women and nonbinary people have played in the Python community? This talk aims to document the brilliant contributions of under-represented people in Python. We interviewed established and emerging leaders, and will share their insights on what’s exciting in Python in 2018.
+
+Python, PyCon, PyConAU, australia, programming, sydney
+
+This video is licensed under CC BY 3.0 AU - https://creativecommons.org/licenses/by/3.0/au/
+
+PyCon Australia (“PyCon AU”) is the national conference for the Python Programming Community, bringing together professional, student and enthusiast developers with a love for developing with Python.
+
+PyCon AU, the national Python Language conference, is on again this August in Sydney, at the International Convention Centre, Sydney, August 24 - 28 2018.
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/ts8Ypb257lo/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=ts8Ypb257lo,https://www.youtube.com/watch?v=ts8Ypb257lo
+82,Keynote: Annie Parker,https://www.youtube.com/watch?v=GlMVcZfFFGI,GlMVcZfFFGI,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20180825,2249,198,2,,"pyconau,pyconau_2018,Python,PyCon,PyConAU,AnnieParker",Education,"Annie Parker
+
+https://2018.pycon-au.org/talks/annie
+
+Annie is a co-founder of Techfugees Australia - a global movement
+connecting the technology ecosystem together with newly arrived refugees here
+in Australia to help them integrate into their new communities.  In this talk,
+Annie will be sharing her experience of how Techfugees works and some of the
+success stories they’ve had along the way
+
+Python, PyCon, PyConAU, australia, programming, sydney
+
+This video is licensed under CC BY 3.0 AU ‹https://creativecommons.org/licenses/by/3.0/au/›.
+
+PyCon Australia (“PyCon AU”) is the national conference for the Python Programming Community, bringing together professional, student and enthusiast developers with a love for developing with Python.
+
+PyCon AU, the national Python Language conference, is on again this August in Sydney, at the International Convention Centre, Sydney, August 24 - 28 2018.
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/GlMVcZfFFGI/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=GlMVcZfFFGI,https://www.youtube.com/watch?v=GlMVcZfFFGI
+83,Consumption is Fractal: Open Source Sustainability,https://www.youtube.com/watch?v=YzNDL71oG-Y,YzNDL71oG-Y,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20180826,1851,176,1,,"pyconau,pyconau_2018,Python,PyCon,PyConAU,NoahKantrowitz",Education,"Noah Kantrowitz
+
+https://2018.pycon-au.org/talks/43044-consumption-is-fractal-open-source-sustainability/
+
+We all rely on open-source for just about everything in tech, but the past few years have shown just how precarious most of the ecosystem is. More people need to know about how to both support projects they rely on and run their own projects more sustainably.
+
+Python, PyCon, PyConAU, australia, programming, sydney
+
+This video is licensed under CC BY 3.0 AU - https://creativecommons.org/licenses/by/3.0/au/
+
+PyCon Australia (“PyCon AU”) is the national conference for the Python Programming Community, bringing together professional, student and enthusiast developers with a love for developing with Python.
+
+PyCon AU, the national Python Language conference, is on again this August in Sydney, at the International Convention Centre, Sydney, August 24 - 28 2018.
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/YzNDL71oG-Y/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=YzNDL71oG-Y,https://www.youtube.com/watch?v=YzNDL71oG-Y
+84,Conference Close,https://www.youtube.com/watch?v=Nl52FlNifrc,Nl52FlNifrc,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20180826,1211,172,2,,"pyconau,pyconau_2018,Python,PyCon,PyConAU",Education,"https://2018.pycon-au.org/talks/1000-close/
+
+Python, PyCon, PyConAU, australia, programming, sydney
+
+This video is licensed under CC BY 3.0 AU - https://creativecommons.org/licenses/by/3.0/au/
+
+PyCon Australia (“PyCon AU”) is the national conference for the Python Programming Community, bringing together professional, student and enthusiast developers with a love for developing with Python.
+
+PyCon AU, the national Python Language conference, is on again this August in Sydney, at the International Convention Centre, Sydney, August 24 - 28 2018.
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/Nl52FlNifrc/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=Nl52FlNifrc,https://www.youtube.com/watch?v=Nl52FlNifrc
+85,Snakes in your Games,https://www.youtube.com/watch?v=WbnZqeLL1a8,WbnZqeLL1a8,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20180825,1439,172,4,,"pyconau,pyconau_2018,Python,PyCon,PyConAU,Ducky",Education,"Ducky
+
+https://2018.pycon-au.org/talks/45302-snakes-in-your-games/
+
+Samuel L Jackson might be sick of snakes on planes, but I can't get enough of them in my games! Come join this talk and you too may be saying ""I can't get enough of these monkey fighting snakes in my Monday through Friday games!""[TV edit]
+
+Python, PyCon, PyConAU, australia, programming, sydney
+
+This video is licensed under CC BY 3.0 AU ‹https://creativecommons.org/licenses/by/3.0/au/›.
+
+PyCon Australia (“PyCon AU”) is the national conference for the Python Programming Community, bringing together professional, student and enthusiast developers with a love for developing with Python.
+
+PyCon AU, the national Python Language conference, is on again this August in Sydney, at the International Convention Centre, Sydney, August 24 - 28 2018.
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/WbnZqeLL1a8/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=WbnZqeLL1a8,https://www.youtube.com/watch?v=WbnZqeLL1a8
+86,Security and Privacy Track - Panel,https://www.youtube.com/watch?v=sH6lJGQdSt8,sH6lJGQdSt8,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20180825,1421,160,1,,"pyconau,pyconau_2018,Python,PyCon,PyConAU,VariousSpeakers",Education,"Various Speakers
+
+https://2018.pycon-au.org/talks/45001-the-panel/
+
+Your questions answered by select speakers from the day!
+
+Python, PyCon, PyConAU, australia, programming, sydney
+
+This video is licensed under CC BY 3.0 AU ‹https://creativecommons.org/licenses/by/3.0/au/›.
+
+PyCon Australia (“PyCon AU”) is the national conference for the Python Programming Community, bringing together professional, student and enthusiast developers with a love for developing with Python.
+
+PyCon AU, the national Python Language conference, is on again this August in Sydney, at the International Convention Centre, Sydney, August 24 - 28 2018.
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/sH6lJGQdSt8/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=sH6lJGQdSt8,https://www.youtube.com/watch?v=sH6lJGQdSt8
+87,The DDoS is coming from inside the house,https://www.youtube.com/watch?v=a7ZOhxMiiv8,a7ZOhxMiiv8,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20180825,1430,142,4,,"pyconau,pyconau_2018,Python,PyCon,PyConAU,ChrisWiley",Education,"Chris Wiley
+
+https://2018.pycon-au.org/talks/45006-the-ddos-is-coming-from-inside-the-house/
+
+IoT provided a revolutionary leap in the scale DDoS attacks. I will talk about global IoT DDoS trends, tell some funny (probably not for the orgs) stories about people that had their IoT hacked, and go through some tooling that can assist you in finding your vulnerable IoT devices.
+
+Python, PyCon, PyConAU, australia, programming, sydney
+
+This video is licensed under CC BY 3.0 AU ‹https://creativecommons.org/licenses/by/3.0/au/›.
+
+PyCon Australia (“PyCon AU”) is the national conference for the Python Programming Community, bringing together professional, student and enthusiast developers with a love for developing with Python.
+
+PyCon AU, the national Python Language conference, is on again this August in Sydney, at the International Convention Centre, Sydney, August 24 - 28 2018.
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/a7ZOhxMiiv8/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=a7ZOhxMiiv8,https://www.youtube.com/watch?v=a7ZOhxMiiv8
+88,"People are coming to my workshop, now what?",https://www.youtube.com/watch?v=pbXwj_5sw78,pbXwj_5sw78,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20180826,1375,129,4,,"pyconau,pyconau_2018,Python,PyCon,PyConAU,NicholleJames",Education,"Nicholle James
+
+https://2018.pycon-au.org/talks/43832-people-are-coming-to-my-workshop-now-what/
+
+Volunteers love running beginning coding workshops/tutorials. We’ll look at how to make a tutorial more accessible for all attendees. The talk incorporates what I learned as a teacher and offers testing for your workshops/tutorials.
+
+Python, PyCon, PyConAU, australia, programming, sydney
+
+This video is licensed under CC BY 3.0 AU - https://creativecommons.org/licenses/by/3.0/au/
+
+PyCon Australia (“PyCon AU”) is the national conference for the Python Programming Community, bringing together professional, student and enthusiast developers with a love for developing with Python.
+
+PyCon AU, the national Python Language conference, is on again this August in Sydney, at the International Convention Centre, Sydney, August 24 - 28 2018.
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/pbXwj_5sw78/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=pbXwj_5sw78,https://www.youtube.com/watch?v=pbXwj_5sw78

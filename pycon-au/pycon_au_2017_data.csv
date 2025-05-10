@@ -1,0 +1,1232 @@
+﻿index,title,url,video_id,uploader,uploader_id,uploader_url,upload_date,duration,view_count,like_count,comment_count,tags,categories,description,thumbnail,age_limit,is_live,was_live,availability,webpage_url,original_url
+1,Tuning In with SDR & Python,https://www.youtube.com/watch?v=BlJSjRDSLu0,BlJSjRDSLu0,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170804,2414,8960,120,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU,JimMussared",Education,"Jim Mussared
+
+http://2017.pycon-au.org/schedule/presentation/66/
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/BlJSjRDSLu0/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=BlJSjRDSLu0,https://www.youtube.com/watch?v=BlJSjRDSLu0
+2,Loop better: a deeper look at iteration in Python,https://www.youtube.com/watch?v=JYuE8ZiDPl4,JYuE8ZiDPl4,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170804,1674,5485,135,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU,TreyHunner",Education,"Trey Hunner
+
+http://2017.pycon-au.org/schedule/presentation/55/
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/JYuE8ZiDPl4/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=JYuE8ZiDPl4,https://www.youtube.com/watch?v=JYuE8ZiDPl4
+3,"Oh, I Found a Security Issue",https://www.youtube.com/watch?v=hsJ475EZRog,hsJ475EZRog,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170804,1538,466,3,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU,MarkusHoltermann",Education,"Markus Holtermann
+
+http://2017.pycon-au.org/schedule/presentation/53/
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/hsJ475EZRog/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=hsJ475EZRog,https://www.youtube.com/watch?v=hsJ475EZRog
+4,Offline Django with Service Workers,https://www.youtube.com/watch?v=70L8saIq3uo,70L8saIq3uo,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170804,1512,5553,82,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU,RaphaelMerx",Education,"Raphael Merx
+
+http://2017.pycon-au.org/schedule/presentation/49/
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/70L8saIq3uo/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=70L8saIq3uo,https://www.youtube.com/watch?v=70L8saIq3uo
+5,Using MicroPython in the wild,https://www.youtube.com/watch?v=WI-nTf5iM84,WI-nTf5iM84,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170804,1915,35964,570,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU,DamienGeorge",Education,"Damien George
+
+http://2017.pycon-au.org/schedule/presentation/68/
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi/WI-nTf5iM84/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=WI-nTf5iM84,https://www.youtube.com/watch?v=WI-nTf5iM84
+6,Program all the things - How to develop IoT devices using MicroPython,https://www.youtube.com/watch?v=8Uw1UW0_nHE,8Uw1UW0_nHE,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170804,1885,11509,201,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU,AnnaGerber",Education,"Anna Gerber
+
+http://2017.pycon-au.org/schedule/presentation/93/
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi/8Uw1UW0_nHE/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=8Uw1UW0_nHE,https://www.youtube.com/watch?v=8Uw1UW0_nHE
+7,"Python to the (Little) People: teaching 300,000 students Python through the DT Curriculum",https://www.youtube.com/watch?v=IKW5BwrJc78,IKW5BwrJc78,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170804,2932,551,6,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU,AmandaHogan",Education,"Amanda Hogan
+
+http://2017.pycon-au.org/schedule/presentation/100/
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/IKW5BwrJc78/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=IKW5BwrJc78,https://www.youtube.com/watch?v=IKW5BwrJc78
+8,The Messaging of Things,https://www.youtube.com/watch?v=UfPhXhCjMpw,UfPhXhCjMpw,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170804,1819,693,7,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU,MikeLeonard",Education,"Mike Leonard
+
+http://2017.pycon-au.org/schedule/presentation/70/
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/UfPhXhCjMpw/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=UfPhXhCjMpw,https://www.youtube.com/watch?v=UfPhXhCjMpw
+9,Building the next-generation Conversational AI with Python and Deep Learning,https://www.youtube.com/watch?v=Xj036sOwvgM,Xj036sOwvgM,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170804,1967,1321,18,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU,DavidLowJiaWei",Education,"David Low Jia Wei
+
+http://2017.pycon-au.org/schedule/presentation/57/
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi/Xj036sOwvgM/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=Xj036sOwvgM,https://www.youtube.com/watch?v=Xj036sOwvgM
+10,MicroPython for ESP32,https://www.youtube.com/watch?v=6N1hNRDkm0o,6N1hNRDkm0o,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170804,1515,26705,303,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU,NickMoore",Education,"Nick Moore
+
+http://2017.pycon-au.org/schedule/presentation/67/
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/6N1hNRDkm0o/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=6N1hNRDkm0o,https://www.youtube.com/watch?v=6N1hNRDkm0o
+11,MicroPython Energy Monitoring,https://www.youtube.com/watch?v=k09HCpjL2cE,k09HCpjL2cE,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170805,1848,1326,11,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU,JoelStanley",Education,"Joel Stanley
+
+http://2017.pycon-au.org/schedule/presentation/69/
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/k09HCpjL2cE/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=k09HCpjL2cE,https://www.youtube.com/watch?v=k09HCpjL2cE
+12,Reflections on the Use of Python and Pygame in Senior IT,https://www.youtube.com/watch?v=g1OPuK02eRc,g1OPuK02eRc,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170805,1816,568,8,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU,JimLloyd",Education,"Jim Lloyd
+
+http://2017.pycon-au.org/schedule/presentation/78/
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/g1OPuK02eRc/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=g1OPuK02eRc,https://www.youtube.com/watch?v=g1OPuK02eRc
+13,Using Python For Creating Hardware To Record FOSS Conferences,https://www.youtube.com/watch?v=zdLiI-XLTcI,zdLiI-XLTcI,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170805,2038,399,9,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU,Tim'mithro'Ansell",Education,"Tim 'mithro' Ansell
+
+http://2017.pycon-au.org/schedule/presentation/72/
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/zdLiI-XLTcI/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=zdLiI-XLTcI,https://www.youtube.com/watch?v=zdLiI-XLTcI
+14,Teaching Object-Oriented Programming with Python,https://www.youtube.com/watch?v=qxOqZQ1fWNw,qxOqZQ1fWNw,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170805,2027,6930,80,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU,BruceFuda",Education,"Bruce Fuda
+
+http://2017.pycon-au.org/schedule/presentation/94/
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/qxOqZQ1fWNw/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=qxOqZQ1fWNw,https://www.youtube.com/watch?v=qxOqZQ1fWNw
+15,"Remote DNA Sequencing and Analysis; Nanopore sequencing, FPGA boards and a fortunate Epiphany",https://www.youtube.com/watch?v=FXDEycbWgqE,FXDEycbWgqE,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170805,1906,442,4,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU,AlexisLucattini",Education,"Alexis Lucattini
+
+http://2017.pycon-au.org/schedule/presentation/73/
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/FXDEycbWgqE/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=FXDEycbWgqE,https://www.youtube.com/watch?v=FXDEycbWgqE
+16,Learn You a PyTorch!,https://www.youtube.com/watch?v=ICMsWq7c5Z8,ICMsWq7c5Z8,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170805,1185,8680,143,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU,KendrickTan",Education,"Kendrick Tan
+
+http://2017.pycon-au.org/schedule/presentation/59/
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/ICMsWq7c5Z8/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=ICMsWq7c5Z8,https://www.youtube.com/watch?v=ICMsWq7c5Z8
+17,Python in Primary School,https://www.youtube.com/watch?v=D3ws6KpUQko,D3ws6KpUQko,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170805,1534,793,7,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU,EmilydelaPena",Education,"Emily de la Pena
+
+http://2017.pycon-au.org/schedule/presentation/63/
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/D3ws6KpUQko/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=D3ws6KpUQko,https://www.youtube.com/watch?v=D3ws6KpUQko
+18,Software for the Murchison Widefield Array radio telescope,https://www.youtube.com/watch?v=QKtXVpGwx3A,QKtXVpGwx3A,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170805,1773,800,25,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU,AndrewWilliams",Education,"Andrew Williams
+
+http://2017.pycon-au.org/schedule/presentation/82/
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi/QKtXVpGwx3A/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=QKtXVpGwx3A,https://www.youtube.com/watch?v=QKtXVpGwx3A
+19,Teaching MicroPython with the BBC micro:bit at NCSS,https://www.youtube.com/watch?v=KuA6KNu5r78,KuA6KNu5r78,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170805,1895,2480,28,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU,JimMussared,NickyRingland",Education,"Jim Mussared, Nicky Ringland
+
+http://2017.pycon-au.org/schedule/presentation/65/
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/KuA6KNu5r78/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=KuA6KNu5r78,https://www.youtube.com/watch?v=KuA6KNu5r78
+20,Finding Currajong - Fuzzy string searches in Python,https://www.youtube.com/watch?v=Bn0KcWklf_4,Bn0KcWklf_4,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170805,1705,1000,15,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU,MartinSchweitzer",Education,"Martin Schweitzer
+
+http://2017.pycon-au.org/schedule/presentation/91/
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/Bn0KcWklf_4/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=Bn0KcWklf_4,https://www.youtube.com/watch?v=Bn0KcWklf_4
+21,Using Python in a Data Hackathon,https://www.youtube.com/watch?v=Ck1Ns6D3rZc,Ck1Ns6D3rZc,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170805,1703,1186,13,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU,TennesseeLeeuwenburg",Education,"Tennessee Leeuwenburg
+
+http://2017.pycon-au.org/schedule/presentation/3/
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/Ck1Ns6D3rZc/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=Ck1Ns6D3rZc,https://www.youtube.com/watch?v=Ck1Ns6D3rZc
+22,Rapid GUI development for IOT systems,https://www.youtube.com/watch?v=_LBgIFPct-o,_LBgIFPct-o,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170805,1027,1131,4,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU,DavidTulloh",Education,"David Tulloh
+
+http://2017.pycon-au.org/schedule/presentation/71/
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/_LBgIFPct-o/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=_LBgIFPct-o,https://www.youtube.com/watch?v=_LBgIFPct-o
+23,Multitenant applications: how and why,https://www.youtube.com/watch?v=yyJonajA_jI,yyJonajA_jI,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170805,1494,8992,71,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU,FilipedeAlencarXimenes",Education,"Filipe de Alencar Ximenes
+
+http://2017.pycon-au.org/schedule/presentation/30/
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/yyJonajA_jI/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=yyJonajA_jI,https://www.youtube.com/watch?v=yyJonajA_jI
+24,Can they really do that? - You'll be amazed at what skills our future coders will bring to your team,https://www.youtube.com/watch?v=ib2yqGN6-A8,ib2yqGN6-A8,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170805,2804,349,2,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU,PipCleaves",Education,"Pip Cleaves
+
+http://2017.pycon-au.org/schedule/presentation/109/
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/ib2yqGN6-A8/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=ib2yqGN6-A8,https://www.youtube.com/watch?v=ib2yqGN6-A8
+25,Python: Ludicrous mode (with Django),https://www.youtube.com/watch?v=JCRkyqS3zxQ,JCRkyqS3zxQ,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170805,1663,518,6,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU,TysonClugg",Education,"Tyson Clugg
+
+http://2017.pycon-au.org/schedule/presentation/101/
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/JCRkyqS3zxQ/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=JCRkyqS3zxQ,https://www.youtube.com/watch?v=JCRkyqS3zxQ
+26,A Really Gentle Introduction to Asyncio,https://www.youtube.com/watch?v=3mb9jFAHRfw,3mb9jFAHRfw,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170805,1832,14399,217,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU,GregorySaunders",Education,"Gregory Saunders
+
+http://2017.pycon-au.org/schedule/presentation/36/
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/3mb9jFAHRfw/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=3mb9jFAHRfw,https://www.youtube.com/watch?v=3mb9jFAHRfw
+27,PEP 498: The Monologue,https://www.youtube.com/watch?v=M4w4wKveVo4,M4w4wKveVo4,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170805,1209,744,17,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU,MariattaWijaya",Education,"Mariatta Wijaya
+
+http://2017.pycon-au.org/schedule/presentation/24/
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi/M4w4wKveVo4/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=M4w4wKveVo4,https://www.youtube.com/watch?v=M4w4wKveVo4
+28,hunter2: A Symphony of Password Horror,https://www.youtube.com/watch?v=29ypmY-jd8w,29ypmY-jd8w,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170805,1826,1682,18,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU,LillyRyan",Education,"Lilly Ryan
+
+http://2017.pycon-au.org/schedule/presentation/50/
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/29ypmY-jd8w/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=29ypmY-jd8w,https://www.youtube.com/watch?v=29ypmY-jd8w
+29,iPad App Development with Python,https://www.youtube.com/watch?v=YR3a8f7vdqY,YR3a8f7vdqY,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170805,1810,13718,76,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU,ChrisRobinson",Education,"Chris Robinson
+
+http://2017.pycon-au.org/schedule/presentation/80/
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi/YR3a8f7vdqY/sddefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=YR3a8f7vdqY,https://www.youtube.com/watch?v=YR3a8f7vdqY
+30,Horrors of Distributed Systems,https://www.youtube.com/watch?v=jx1Hkxe64Xs,jx1Hkxe64Xs,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170805,1764,1533,23,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU,AndrewGodwin",Education,"Andrew Godwin
+
+http://2017.pycon-au.org/schedule/presentation/52/
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/jx1Hkxe64Xs/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=jx1Hkxe64Xs,https://www.youtube.com/watch?v=jx1Hkxe64Xs
+31,Tracking Land Conversion with the Eye in the Sky,https://www.youtube.com/watch?v=I-SiNCdpfQ8,I-SiNCdpfQ8,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170805,1592,530,5,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU,ByronAllen",Education,"Byron Allen
+
+http://2017.pycon-au.org/schedule/presentation/58/
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/I-SiNCdpfQ8/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=I-SiNCdpfQ8,https://www.youtube.com/watch?v=I-SiNCdpfQ8
+32,Django & JavaScript: A long and complicated friendship,https://www.youtube.com/watch?v=BDhdlgENJu0,BDhdlgENJu0,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170805,2370,2525,28,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU,JenZajac",Education,"Jen Zajac
+
+http://2017.pycon-au.org/schedule/presentation/84/
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/BDhdlgENJu0/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=BDhdlgENJu0,https://www.youtube.com/watch?v=BDhdlgENJu0
+33,"Red User, Blue User, MyUser, auth.User",https://www.youtube.com/watch?v=458KmAKq0bQ,458KmAKq0bQ,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170805,1819,1530,51,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU,RussellKeith-Magee",Education,"Russell Keith-Magee
+
+http://2017.pycon-au.org/schedule/presentation/51/
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/458KmAKq0bQ/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=458KmAKq0bQ,https://www.youtube.com/watch?v=458KmAKq0bQ
+34,"Programming, Python, and Student-Directed Projects",https://www.youtube.com/watch?v=mIiwo8Sp230,mIiwo8Sp230,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170805,1887,293,4,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU,EdwinGriffin",Education,"Edwin Griffin
+
+http://2017.pycon-au.org/schedule/presentation/64/
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/mIiwo8Sp230/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=mIiwo8Sp230,https://www.youtube.com/watch?v=mIiwo8Sp230
+35,Visualising data with Python,https://www.youtube.com/watch?v=6d3Yk7a2qYI,6d3Yk7a2qYI,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170805,1815,1994,26,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU,ClareSloggett",Education,"Clare Sloggett
+
+http://2017.pycon-au.org/schedule/presentation/1/
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/6d3Yk7a2qYI/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=6d3Yk7a2qYI,https://www.youtube.com/watch?v=6d3Yk7a2qYI
+36,Teaching Python Online to Primary Students,https://www.youtube.com/watch?v=JRtnIv8Gsoo,JRtnIv8Gsoo,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170805,1859,3213,17,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU,MargMeijers",Education,"Marg Meijers
+
+http://2017.pycon-au.org/schedule/presentation/79/
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/JRtnIv8Gsoo/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=JRtnIv8Gsoo,https://www.youtube.com/watch?v=JRtnIv8Gsoo
+37,Bowerbirds of Technology: Architecture and Operations at Less-Than-Facebook Scale,https://www.youtube.com/watch?v=1bApndiHBBw,1bApndiHBBw,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170805,1745,251,4,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU,SamKitajima-Kimbrel",Education,"Sam Kitajima-Kimbrel
+
+http://2017.pycon-au.org/schedule/presentation/54/
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi/1bApndiHBBw/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=1bApndiHBBw,https://www.youtube.com/watch?v=1bApndiHBBw
+38,Learn by Doing: Getting Students into FOSS,https://www.youtube.com/watch?v=3STyX6mEpe8,3STyX6mEpe8,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170805,1599,151,2,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU,JoshSimmons",Education,"Josh Simmons
+
+http://2017.pycon-au.org/schedule/presentation/89/
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/3STyX6mEpe8/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=3STyX6mEpe8,https://www.youtube.com/watch?v=3STyX6mEpe8
+39,Improving PySpark Performance: Spark performance beyond the JVM,https://www.youtube.com/watch?v=jGhju2bw3RQ,jGhju2bw3RQ,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170805,1798,3157,41,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU,HoldenKarau",Education,"Holden Karau
+
+http://2017.pycon-au.org/schedule/presentation/62/
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/jGhju2bw3RQ/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=jGhju2bw3RQ,https://www.youtube.com/watch?v=jGhju2bw3RQ
+40,How Django helped us make a better conference website,https://www.youtube.com/watch?v=eWjdZIyRgjE,eWjdZIyRgjE,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170805,1764,843,6,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU,ChristopherNeugebauer",Education,"Christopher Neugebauer
+
+http://2017.pycon-au.org/schedule/presentation/46/
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/eWjdZIyRgjE/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=eWjdZIyRgjE,https://www.youtube.com/watch?v=eWjdZIyRgjE
+41,Syntax Hijacking: Genius or Evil?,https://www.youtube.com/watch?v=Ej4Kh41VySc,Ej4Kh41VySc,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170805,1751,295,4,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU,TennesseeLeeuwenburg",Education,"Tennessee Leeuwenburg
+
+http://2017.pycon-au.org/schedule/presentation/2/
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/Ej4Kh41VySc/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=Ej4Kh41VySc,https://www.youtube.com/watch?v=Ej4Kh41VySc
+42,Concurrency and Parallelism From The Ground Up,https://www.youtube.com/watch?v=gJ6loj3nB4s,gJ6loj3nB4s,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170805,1767,936,13,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU,AmberBrown",Education,"Amber Brown
+
+http://2017.pycon-au.org/schedule/presentation/38/
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/gJ6loj3nB4s/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=gJ6loj3nB4s,https://www.youtube.com/watch?v=gJ6loj3nB4s
+43,Harnessing the APIs you didn't know existed,https://www.youtube.com/watch?v=_VmgEASsPBI,_VmgEASsPBI,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170805,1681,760,16,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU,KatieBell",Education,"Katie Bell
+
+http://2017.pycon-au.org/schedule/presentation/22/
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi/_VmgEASsPBI/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=_VmgEASsPBI,https://www.youtube.com/watch?v=_VmgEASsPBI
+44,One Data Pipeline to Rule Them All,https://www.youtube.com/watch?v=-BGrV5mB9G0,-BGrV5mB9G0,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170805,1831,1143,15,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU,SamKitajima-Kimbrel",Education,"Sam Kitajima-Kimbrel
+
+http://2017.pycon-au.org/schedule/presentation/35/
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/-BGrV5mB9G0/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=-BGrV5mB9G0,https://www.youtube.com/watch?v=-BGrV5mB9G0
+45,Introduction to profiling python performance with USDT,https://www.youtube.com/watch?v=Zv3--YaaIe0,Zv3--YaaIe0,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170805,1716,468,5,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU,ChrisMiceli",Education,"Chris Miceli
+
+http://2017.pycon-au.org/schedule/presentation/39/
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/Zv3--YaaIe0/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=Zv3--YaaIe0,https://www.youtube.com/watch?v=Zv3--YaaIe0
+46,Fighting the controls: madness and tragedy for programmers,https://www.youtube.com/watch?v=-hxBRSJEtco,-hxBRSJEtco,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170805,4068,548,13,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU,DanieleProcida",Education,"Daniele Procida
+
+http://2017.pycon-au.org/schedule/presentation/11/
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/-hxBRSJEtco/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=-hxBRSJEtco,https://www.youtube.com/watch?v=-hxBRSJEtco
+47,Call a C API from Python becomes more enjoyable with CFFI,https://www.youtube.com/watch?v=P6qvhoQGaSk,P6qvhoQGaSk,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170805,1691,1533,14,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU,Jean-SébastienBevilacqua",Education,"Jean-Sébastien Bevilacqua
+
+http://2017.pycon-au.org/schedule/presentation/40/
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/P6qvhoQGaSk/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=P6qvhoQGaSk,https://www.youtube.com/watch?v=P6qvhoQGaSk
+48,Scaling Down: Running Large Sites Locally,https://www.youtube.com/watch?v=3bnBY23TsIw,3bnBY23TsIw,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170805,1664,182,0,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU,AndrewGodwin",Education,"Andrew Godwin
+
+http://2017.pycon-au.org/schedule/presentation/25/
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/3bnBY23TsIw/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=3bnBY23TsIw,https://www.youtube.com/watch?v=3bnBY23TsIw
+49,We're no strangers to VoIP: Building the National Rick Astley Hotline,https://www.youtube.com/watch?v=S2FbzZiycsM,S2FbzZiycsM,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170805,1960,3566,79,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU,Paul'@pjf'Fenwick",Education,"Paul '@pjf' Fenwick
+
+http://2017.pycon-au.org/schedule/presentation/18/
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi/S2FbzZiycsM/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=S2FbzZiycsM,https://www.youtube.com/watch?v=S2FbzZiycsM
+50,"Analysing a TwitterBot using TextBlob, NLTK and Python",https://www.youtube.com/watch?v=AkcPLo_5NOI,AkcPLo_5NOI,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170805,1821,1072,8,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU,LachlanBlackhall",Education,"Lachlan Blackhall
+
+http://2017.pycon-au.org/schedule/presentation/5/
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/AkcPLo_5NOI/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=AkcPLo_5NOI,https://www.youtube.com/watch?v=AkcPLo_5NOI
+51,Wordsmiths - Operational Transformation in Python,https://www.youtube.com/watch?v=RO59n7rag2U,RO59n7rag2U,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170805,1212,1423,21,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU,DionMisic",Education,"Dion Misic
+
+http://2017.pycon-au.org/schedule/presentation/75/
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/RO59n7rag2U/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=RO59n7rag2U,https://www.youtube.com/watch?v=RO59n7rag2U
+52,The Importance of Design: maybe the users aren't wrong?,https://www.youtube.com/watch?v=Z2cM7Wkd3I0,Z2cM7Wkd3I0,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170805,1728,349,4,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU,CharelleCollett",Education,"Charelle Collett
+
+http://2017.pycon-au.org/schedule/presentation/12/
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/Z2cM7Wkd3I0/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=Z2cM7Wkd3I0,https://www.youtube.com/watch?v=Z2cM7Wkd3I0
+53,Front-end integration testing with splinter,https://www.youtube.com/watch?v=HY0_RtTUfUg,HY0_RtTUfUg,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170805,1799,549,5,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU,NickCoghlan",Education,"Nick Coghlan
+
+http://2017.pycon-au.org/schedule/presentation/42/
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/HY0_RtTUfUg/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=HY0_RtTUfUg,https://www.youtube.com/watch?v=HY0_RtTUfUg
+54,Organizing conferences for learners: How we made it work in Namibia,https://www.youtube.com/watch?v=C1GEKSKndUg,C1GEKSKndUg,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170806,1815,191,2,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU,JessicaUpani",Education,"Jessica Upani
+
+http://2017.pycon-au.org/schedule/presentation/14/
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/C1GEKSKndUg/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=C1GEKSKndUg,https://www.youtube.com/watch?v=C1GEKSKndUg
+55,Mocking: virtual reality for your Python tests,https://www.youtube.com/watch?v=gWXAgguBRIQ,gWXAgguBRIQ,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170806,1549,809,13,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU,RaphaelMerx",Education,"Raphael Merx
+
+http://2017.pycon-au.org/schedule/presentation/43/
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/gWXAgguBRIQ/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=gWXAgguBRIQ,https://www.youtube.com/watch?v=gWXAgguBRIQ
+56,"Identity 2.0: the what, why and how of social and federated login",https://www.youtube.com/watch?v=2Rzlk9l43VI,2Rzlk9l43VI,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170806,4334,512,3,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU,FraserTweedale",Education,"Fraser Tweedale
+
+http://2017.pycon-au.org/schedule/presentation/37/
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/2Rzlk9l43VI/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=2Rzlk9l43VI,https://www.youtube.com/watch?v=2Rzlk9l43VI
+57,Automated Python Powered Turret,https://www.youtube.com/watch?v=TnaiiAye7J8,TnaiiAye7J8,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170806,1626,1110,23,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU,IsaacMcClure,HailKim",Education,"Isaac McClure, Hail Kim
+
+http://2017.pycon-au.org/schedule/presentation/76/
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/TnaiiAye7J8/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=TnaiiAye7J8,https://www.youtube.com/watch?v=TnaiiAye7J8
+58,The Business of Community,https://www.youtube.com/watch?v=8m1qWafKtk8,8m1qWafKtk8,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170806,1936,50,0,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU,VM(Vicky)Brasseur",Education,"VM (Vicky) Brasseur
+
+http://2017.pycon-au.org/schedule/presentation/16/
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/8m1qWafKtk8/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=8m1qWafKtk8,https://www.youtube.com/watch?v=8m1qWafKtk8
+59,Covered in Bees! Deploying an app to 6 platforms in 20 minutes,https://www.youtube.com/watch?v=xezYYBL7nk0,xezYYBL7nk0,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170806,1915,42108,884,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU,RussellKeith-Magee",Education,"Russell Keith-Magee
+
+http://2017.pycon-au.org/schedule/presentation/45/
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/xezYYBL7nk0/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=xezYYBL7nk0,https://www.youtube.com/watch?v=xezYYBL7nk0
+60,GraphQL: how to make clients enjoy using your API,https://www.youtube.com/watch?v=rYKzO7y7elA,rYKzO7y7elA,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170806,1872,591,7,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU,TomaszModrzyński",Education,"Tomasz Modrzyński
+
+http://2017.pycon-au.org/schedule/presentation/81/
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/rYKzO7y7elA/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=rYKzO7y7elA,https://www.youtube.com/watch?v=rYKzO7y7elA
+61,How to write a container daemon in Python,https://www.youtube.com/watch?v=I326bpbdvJo,I326bpbdvJo,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170806,1743,4850,91,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU,AnthonyShaw",Education,"Anthony Shaw
+
+http://2017.pycon-au.org/schedule/presentation/34/
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/I326bpbdvJo/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=I326bpbdvJo,https://www.youtube.com/watch?v=I326bpbdvJo
+62,"How to handle abandoned projects, Take Two",https://www.youtube.com/watch?v=prFaJugC95Y,prFaJugC95Y,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170806,2204,544,5,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU,KatieMcLaughlin",Education,"Katie McLaughlin
+
+http://2017.pycon-au.org/schedule/presentation/108/
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/prFaJugC95Y/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=prFaJugC95Y,https://www.youtube.com/watch?v=prFaJugC95Y
+63,Hot reloading Python web-servers at scale,https://www.youtube.com/watch?v=FQ2PGIlmtJc,FQ2PGIlmtJc,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170806,1748,1157,18,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU,ChenyangWu",Education,"Chenyang Wu
+
+http://2017.pycon-au.org/schedule/presentation/26/
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi/FQ2PGIlmtJc/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=FQ2PGIlmtJc,https://www.youtube.com/watch?v=FQ2PGIlmtJc
+64,What nobody tells you about documentation,https://www.youtube.com/watch?v=t4vKPhjcMZg,t4vKPhjcMZg,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170806,1852,97317,1611,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU,DanieleProcida",Education,"Daniele Procida
+
+http://2017.pycon-au.org/schedule/presentation/15/
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/t4vKPhjcMZg/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=t4vKPhjcMZg,https://www.youtube.com/watch?v=t4vKPhjcMZg
+65,Passing the Baton: Succession planning for your project,https://www.youtube.com/watch?v=Jhkm2PA_Gf8,Jhkm2PA_Gf8,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170806,1855,230,4,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU,VM(Vicky)Brasseur",Education,"VM (Vicky) Brasseur
+
+http://2017.pycon-au.org/schedule/presentation/9/
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/Jhkm2PA_Gf8/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=Jhkm2PA_Gf8,https://www.youtube.com/watch?v=Jhkm2PA_Gf8
+66,Lessons from building serverless services in bleeding edge python,https://www.youtube.com/watch?v=R74GqYlEeuM,R74GqYlEeuM,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170806,1795,485,6,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU,developerjack",Education,"developerjack
+
+http://2017.pycon-au.org/schedule/presentation/28/
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/R74GqYlEeuM/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=R74GqYlEeuM,https://www.youtube.com/watch?v=R74GqYlEeuM
+67,Python 3 for People Who Haven't Been Paying Attention,https://www.youtube.com/watch?v=NKmLTW8DHWw,NKmLTW8DHWw,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170806,1844,829,23,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU,ChristopherNeugebauer",Education,"Christopher Neugebauer
+
+http://2017.pycon-au.org/schedule/presentation/21/
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/NKmLTW8DHWw/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=NKmLTW8DHWw,https://www.youtube.com/watch?v=NKmLTW8DHWw
+68,Gradual Typing in Python,https://www.youtube.com/watch?v=mXfsMDM3LwQ,mXfsMDM3LwQ,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170806,1690,1157,21,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU,TomManderson",Education,"Tom Manderson
+
+http://2017.pycon-au.org/schedule/presentation/23/
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/mXfsMDM3LwQ/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=mXfsMDM3LwQ,https://www.youtube.com/watch?v=mXfsMDM3LwQ
+69,Unit Testing with Requests,https://www.youtube.com/watch?v=t6MtEnw3Zww,t6MtEnw3Zww,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170806,1807,2342,35,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU,JamieLennox",Education,"Jamie Lennox
+
+http://2017.pycon-au.org/schedule/presentation/86/
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/t6MtEnw3Zww/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=t6MtEnw3Zww,https://www.youtube.com/watch?v=t6MtEnw3Zww
+70,State Machines,https://www.youtube.com/watch?v=TedUKXhu9kE,TedUKXhu9kE,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170806,1472,4477,72,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU,ClintonRoy",Education,"Clinton Roy
+
+http://2017.pycon-au.org/schedule/presentation/33/
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/TedUKXhu9kE/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=TedUKXhu9kE,https://www.youtube.com/watch?v=TedUKXhu9kE
+71,Time is an illusion,https://www.youtube.com/watch?v=0p2mxfEd4yk,0p2mxfEd4yk,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170806,1769,666,12,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU,DaveCollins",Education,"Dave Collins
+
+http://2017.pycon-au.org/schedule/presentation/44/
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi/0p2mxfEd4yk/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=0p2mxfEd4yk,https://www.youtube.com/watch?v=0p2mxfEd4yk
+72,Prototyping Python Microservices in Production,https://www.youtube.com/watch?v=5BjglFGp88o,5BjglFGp88o,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170806,1748,3444,42,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU,JustinAkers",Education,"Justin Akers
+
+http://2017.pycon-au.org/schedule/presentation/29/
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/5BjglFGp88o/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=5BjglFGp88o,https://www.youtube.com/watch?v=5BjglFGp88o
+73,"Lightflow - A lightweight, distributed workflow system",https://www.youtube.com/watch?v=GTNPpeA1lbo,GTNPpeA1lbo,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170806,1781,1422,12,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU,AndreasMoll",Education,"Andreas Moll
+
+http://2017.pycon-au.org/schedule/presentation/90/
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/GTNPpeA1lbo/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=GTNPpeA1lbo,https://www.youtube.com/watch?v=GTNPpeA1lbo
+74,Code Reviews Using Art Critique Principles,https://www.youtube.com/watch?v=xpqwuaCW6os,xpqwuaCW6os,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170806,1795,640,8,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU,StacyMorse",Education,"Stacy Morse
+
+http://2017.pycon-au.org/schedule/presentation/74/
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/xpqwuaCW6os/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=xpqwuaCW6os,https://www.youtube.com/watch?v=xpqwuaCW6os
+75,Programming Lego Mindstorms robots with Python,https://www.youtube.com/watch?v=kyfbYv6eZQQ,kyfbYv6eZQQ,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170806,1738,52726,334,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU,StoyanShopov",Education,"Stoyan Shopov
+
+http://2017.pycon-au.org/schedule/presentation/6/
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/kyfbYv6eZQQ/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=kyfbYv6eZQQ,https://www.youtube.com/watch?v=kyfbYv6eZQQ
+76,Improving Your Documentation: A talk for developers who want to write stuff good,https://www.youtube.com/watch?v=pc_YutQeI4E,pc_YutQeI4E,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170806,1670,1160,25,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU,CharelleCollett",Education,"Charelle Collett
+
+http://2017.pycon-au.org/schedule/presentation/10/
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi/pc_YutQeI4E/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=pc_YutQeI4E,https://www.youtube.com/watch?v=pc_YutQeI4E
+77,Comprehensible Comprehensions,https://www.youtube.com/watch?v=5_cJIcgM7rw,5_cJIcgM7rw,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170807,1748,6023,157,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU,TreyHunner",Education,"Trey Hunner
+
+http://2017.pycon-au.org/schedule/presentation/31/
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/5_cJIcgM7rw/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=5_cJIcgM7rw,https://www.youtube.com/watch?v=5_cJIcgM7rw
+78,Saturday PM Lightning Talks,https://www.youtube.com/watch?v=WywQ6a3uQ5I,WywQ6a3uQ5I,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170807,4220,514,5,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU",Education,"Pycon_au_2017 Lightning Talks
+Saturday, August 05 2017 04 PM
+
+Tim Ansell - Python on FPGAs 1:15
+Nicky Ringland and Jim Mussared - National Computer Science School 6:28
+Clinton McKinnon - The Amazing StarLAB 11:11
+Josh Simmons - Open Source in Education 13:32
+Paul Weipa - Systematic Problem Solving 18:34
+Tim Leslie - PEP-628 The world's oldest bug 23:50
+Nick Moore - OMNICODE 29:08
+Andrew Lonsdale - FASTQE 33:22
+Tisham Dhar - Energy Monitor 37:29
+Rhydwyn McGuire - R 42:11
+Josh Driver - Faster PostgreSQL Text Search 44:26
+Fraser Tweedale - On naming things 49:49
+Mike Leonard - High Risk Demo Episode 2 55:28
+Ned Letcher - PyEnv 59:11
+Luke Deller - Garbage Collection Live demo 1:04:25
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/WywQ6a3uQ5I/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=WywQ6a3uQ5I,https://www.youtube.com/watch?v=WywQ6a3uQ5I
+79,Secrets of a WSGI master.,https://www.youtube.com/watch?v=H6Q3l11fjU0,H6Q3l11fjU0,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170807,1899,15002,276,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU,GrahamDumpleton",Education,"Graham Dumpleton
+
+http://2017.pycon-au.org/schedule/presentation/47/
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/H6Q3l11fjU0/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=H6Q3l11fjU0,https://www.youtube.com/watch?v=H6Q3l11fjU0
+80,The Wizardry of Metaprogramming,https://www.youtube.com/watch?v=l8u8VENJhpM,l8u8VENJhpM,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170807,1822,9752,168,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU,MikeLeonard",Education,"Mike Leonard
+
+http://2017.pycon-au.org/schedule/presentation/32/
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/l8u8VENJhpM/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=l8u8VENJhpM,https://www.youtube.com/watch?v=l8u8VENJhpM
+81,Video recording conferences and user groups using Python,https://www.youtube.com/watch?v=vpoUA1fPbGk,vpoUA1fPbGk,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170807,1858,1345,12,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU,RyanVerner",Education,"Ryan Verner
+
+http://2017.pycon-au.org/schedule/presentation/102/
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/vpoUA1fPbGk/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=vpoUA1fPbGk,https://www.youtube.com/watch?v=vpoUA1fPbGk
+82,From PyPI to Production: Shipping Software Responsibly.,https://www.youtube.com/watch?v=JE6I8K1HPgI,JE6I8K1HPgI,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170807,1841,634,9,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU,ThomiRichards",Education,"Thomi Richards
+
+http://2017.pycon-au.org/schedule/presentation/105/
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/JE6I8K1HPgI/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=JE6I8K1HPgI,https://www.youtube.com/watch?v=JE6I8K1HPgI
+83,Decoding the Frustrations and Vulnerabilities of Modern Text Processing,https://www.youtube.com/watch?v=1pLhQIQelUw,1pLhQIQelUw,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170807,1477,543,14,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU,EvanKohilas",Education,"Evan Kohilas
+
+http://2017.pycon-au.org/schedule/presentation/20/
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi/1pLhQIQelUw/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=1pLhQIQelUw,https://www.youtube.com/watch?v=1pLhQIQelUw
+84,An introduction to nodepool,https://www.youtube.com/watch?v=1CfGLfHwY1I,1CfGLfHwY1I,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170807,1699,1410,5,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU,JoshuaHesketh",Education,"Joshua Hesketh
+
+http://2017.pycon-au.org/schedule/presentation/27/
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi/1CfGLfHwY1I/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=1CfGLfHwY1I,https://www.youtube.com/watch?v=1CfGLfHwY1I
+85,Let's Run Python on a Supercomputer!,https://www.youtube.com/watch?v=4lKcou1-3OY,4lKcou1-3OY,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170807,1987,6281,111,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU,DavidPerry",Education,"David Perry
+
+http://2017.pycon-au.org/schedule/presentation/61/
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/4lKcou1-3OY/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=4lKcou1-3OY,https://www.youtube.com/watch?v=4lKcou1-3OY
+86,StarLAB: Developing a hardware based learning platform for students,https://www.youtube.com/watch?v=TK39zB18kwA,TK39zB18kwA,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170807,1604,250,4,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU,ClintonMcKinnon",Education,"Clinton McKinnon
+
+http://2017.pycon-au.org/schedule/presentation/19/
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/TK39zB18kwA/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=TK39zB18kwA,https://www.youtube.com/watch?v=TK39zB18kwA
+87,Python vs Punch Out,https://www.youtube.com/watch?v=Yl9sDS7YqRo,Yl9sDS7YqRo,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170807,1988,450,4,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU,GregHahn",Education,"Greg Hahn
+
+http://2017.pycon-au.org/schedule/presentation/4/
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/Yl9sDS7YqRo/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=Yl9sDS7YqRo,https://www.youtube.com/watch?v=Yl9sDS7YqRo
+88,Messy Sensor Data: A Programmer’s Cleaning Guide,https://www.youtube.com/watch?v=-dfYdedNgr0,-dfYdedNgr0,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170807,1783,4270,69,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU,XavierHo",Education,"Xavier Ho
+
+http://2017.pycon-au.org/schedule/presentation/87/
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi/-dfYdedNgr0/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=-dfYdedNgr0,https://www.youtube.com/watch?v=-dfYdedNgr0
+89,Lightning Talks - Sunday,https://www.youtube.com/watch?v=bJmx0tcVubY,bJmx0tcVubY,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170807,3521,1189,9,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU",Education,"#pyconau
+
+These talks were given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+Sam Kitajima-Kimbrel - You Aren't Facebook, and That's OK 0:19
+Jason King - Don't do what I did 4:55
+Evan Kohilas - Rubber Snaek 9:55
+Russell Keith-McGee - Tools for Apiarists 12:13
+William Brown - Hard CPUs Make Multithreading 17:23
+Allen Rueben - Joining the dots 21:54
+Malcolm Ramsay - How I Reinvented Solarized 24:16
+Zac Hatfield-Dodds - From REPL to reliable 26:47
+Daniel McCarthy - Hexapod and MicroPython 31:55
+Lilly Ryan - Towns I Wish I Could Visit 35:35
+Jeremy Rothstein - I'm a mockoholic 41:00
+Nick Moore - ESP32 and MicroPython 45:54
+Katie Bell - Hello 48:38
+Peter Hall - A Brief History of 'What is the Time?' 53:37
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/bJmx0tcVubY/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=bJmx0tcVubY,https://www.youtube.com/watch?v=bJmx0tcVubY
+90,When Do We Belong?,https://www.youtube.com/watch?v=5RWBRrHxEhs,5RWBRrHxEhs,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170807,2071,926,28,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU,aurynnshaw",Education,"aurynn shaw
+
+http://2017.pycon-au.org/schedule/presentation/17/
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/5RWBRrHxEhs/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=5RWBRrHxEhs,https://www.youtube.com/watch?v=5RWBRrHxEhs
+91,Don't Look Back in Anger: Wildman Whitehouse and the Great Failure of 1858,https://www.youtube.com/watch?v=3o6EOnoxLbM,3o6EOnoxLbM,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170807,1908,330,13,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU,LillyRyan",Education,"Lilly Ryan
+
+http://2017.pycon-au.org/schedule/presentation/13/
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/3o6EOnoxLbM/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=3o6EOnoxLbM,https://www.youtube.com/watch?v=3o6EOnoxLbM
+92,Teaching Python: Adapting to Diversity,https://www.youtube.com/watch?v=x5MmyN5EDfQ,x5MmyN5EDfQ,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170807,1887,258,3,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU,MargotPhillipps",Education,"Margot Phillipps
+
+http://2017.pycon-au.org/schedule/presentation/77/
+
+#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/x5MmyN5EDfQ/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=x5MmyN5EDfQ,https://www.youtube.com/watch?v=x5MmyN5EDfQ
+93,Conference Closing,https://www.youtube.com/watch?v=GffouSrsHxg,GffouSrsHxg,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20170812,1610,205,4,,"pyconau,pycon_au_2017,Python,PyCon,PyConAU",Education,"#pyconau
+
+This talk was given at PyCon Australia 2017 which was held from 3-8 August, 2017 in Melbourne, Victoria.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2017, we're returning to Melbourne, bringing together students, enthusiasts, and professionals with a love of Python from around Australia, and from all over the World. 
+
+August 3-8 2017, Melbourne, Victoria
+
+Python, PyCon, PyConAU",https://i.ytimg.com/vi_webp/GffouSrsHxg/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=GffouSrsHxg,https://www.youtube.com/watch?v=GffouSrsHxg
