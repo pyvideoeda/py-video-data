@@ -1,0 +1,368 @@
+﻿index,title,url,video_id,uploader,uploader_id,uploader_url,upload_date,duration,view_count,like_count,comment_count,tags,categories,description,thumbnail,age_limit,is_live,was_live,availability,webpage_url,original_url
+1,PyCon Philippines 2024 - Opening Remarks (Day 1) by Zorex Salvo,https://www.youtube.com/watch?v=Cu9JIdlbnbc,Cu9JIdlbnbc,PythonPH,@PythonPH,https://www.youtube.com/@PythonPH,20240318,162,364,5,,,Nonprofits & Activism,"Welcome to the opening remarks of PyCon Philippines 2024, delivered by Zorex Salvo!
+
+We invite you to join us in celebrating PyCon Philippines 2024 - where ""Gabay"" (guide) steers our collective journey of growth and relentless improvement.
+
+#gabay #pyconph2024 #pyconph #pythonph
+
+For more details about PyCon Philippines 2024, please visit: https://pycon-2024.python.ph/
+
+
+About the Speaker:
+Zorex Salvo is the Chairperson for PyCon PH 2024, Board of Trustee at PythonPH, and Software Engineer at TotalRewards Software",https://i.ytimg.com/vi/Cu9JIdlbnbc/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=Cu9JIdlbnbc,https://www.youtube.com/watch?v=Cu9JIdlbnbc
+2,PyCon Philippines 2024 - Keynote 1: Simulating Disaster Relief...  by Reina Reyes and JC Peralta,https://www.youtube.com/watch?v=bljokMhUJzw,bljokMhUJzw,PythonPH,@PythonPH,https://www.youtube.com/@PythonPH,20240320,4314,214,2,,,Nonprofits & Activism,"Keynote 1: Simulating Disaster Relief Distribution and Transport Network Efficiency During Typhoons by Reina Reyes
+
+In this talk, the speakers presented a data-driven simulation and analysis of relief delivery efficiency in the Visayas transport network during Typhoon Haiyan and showcase an open-source decision support tool, developed using Python, which can simulate different typhoon paths and new food hub locations. 
+
+It's is their hope that policymakers will harness the potential from this data-driven tool for informed decision-making, strategic cost-benefit analysis for infrastructure investments, and effective data-driven transportation planning to enhance resilience in the face of future disasters. 
+
+About the Speakers:
+Reina Reyes is a Associate Professor at National Institute of Physics in UP Diliman, and Consultant at Z-Lift Solutions and WeSolve Foundation
+
+JC Peralta is a Data Scientist, Geospatial Machine Learning Consultant, and a Climate Scientist
+
+--
+
+We invite you to join us in celebrating PyCon Philippines 2024 - where ""Gabay"" (guide) steers our collective journey of growth and relentless improvement.
+
+#gabay #pyconph2024 #pyconph #pythonph
+
+For more details about PyCon Philippines 2024, please visit: https://pycon-2024.python.ph/",https://i.ytimg.com/vi/bljokMhUJzw/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGCAgNSh_MA8=&rs=AOn4CLB4pd-anqrscUO2j_x3I97NkR0PHw,0,False,False,public,https://www.youtube.com/watch?v=bljokMhUJzw,https://www.youtube.com/watch?v=bljokMhUJzw
+3,PyCon Philippines 2024 - Keynote 2: The State of Python in 2024 by Michael Kennedy,https://www.youtube.com/watch?v=coz1CGRxjQ0,coz1CGRxjQ0,PythonPH,@PythonPH,https://www.youtube.com/@PythonPH,20240318,3653,2842,66,3.0,,Nonprofits & Activism,"The State of Python in 2024
+
+In this talk, Michael Kennedy gave a look at the current-day broader Python ecosystem. Explored questions such as: What are the important trends to keep an eye one? How have the traditionally popular frameworks such as Flask and Django adapted to some of the latest modern Python trends (e.g. async/await). What new frameworks and libraries are (about to) take the Python scene by storm? How is Python getting faster, dropping or sidestepping the GIL, and more? Why Python web frameworks are better choices than ever.
+
+About the Speaker:
+Michael Kennedy is the founder of Talk Python Training, host of the Talk Python To Me podcast, Python Software Foundation Fellow, and an entrepreneur.
+
+---
+
+We invite you to join us in celebrating PyCon Philippines 2024 - where ""Gabay"" (guide) steers our collective journey of growth and relentless improvement.
+
+#gabay #pyconph2024 #pyconph #pythonph
+
+For more details about PyCon Philippines 2024, please visit: https://pycon-2024.python.ph/",https://i.ytimg.com/vi/coz1CGRxjQ0/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGCAgNSh_MA8=&rs=AOn4CLCxpEtbA3qWGELXLs9OVPCZwcNYUQ,0,False,False,public,https://www.youtube.com/watch?v=coz1CGRxjQ0,https://www.youtube.com/watch?v=coz1CGRxjQ0
+4,PyCon Philippines 2024 - How BillEase balances Python microservice by Alec Gerona,https://www.youtube.com/watch?v=T9oTqXxHA60,T9oTqXxHA60,PythonPH,@PythonPH,https://www.youtube.com/@PythonPH,20240319,2883,217,5,,,Nonprofits & Activism,"Developer Experience: How BillEase balances speed, quality, and usability of Python microservices by Alec Gerona
+
+We invite you to join us in celebrating PyCon Philippines 2024 - where ""Gabay"" (guide) steers our collective journey of growth and relentless improvement.
+
+#gabay #pyconph2024 #pyconph #pythonph
+
+For more details about PyCon Philippines 2024, please visit: https://pycon-2024.python.ph/
+
+
+About the Speaker:
+Alec Gerona is a VP of Engineering at BillEase",https://i.ytimg.com/vi/T9oTqXxHA60/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=T9oTqXxHA60,https://www.youtube.com/watch?v=T9oTqXxHA60
+5,PyCon Philippines 2024 - Addressing Industry Challenges through Community Collaboration,https://www.youtube.com/watch?v=goAK_mLYHik,goAK_mLYHik,PythonPH,@PythonPH,https://www.youtube.com/@PythonPH,20240319,3502,101,2,,,Nonprofits & Activism,"Title: [Panel Discussion] Python in APAC: Addressing Industry Challenges through Community Collaboration
+
+In PyCon PH 2024, we hosted a compelling panel discussion with PyCon organizers and leading industry figures. This session aimed to spotlight the dynamic relationship between the Python community and the industry across the Asia-Pacific. Through engaging discussions, our panelists examined and highlighted the impact of Python-driven initiatives on industry progress and the ways future collaborations could be developed for mutual benefit.
+
+Moderator: Ivy Fung, PyCon MY
+
+Panelists:
+- APAC PyCon Organizers: Discussing community trends, challenges, and Python’s impact. Featuring Ciara Bautista (PyLadies Manila), Matt Lebrun (PythonPH), and Iqbal Abdullah (PyCon JP).
+Industry Voices:
+
+- Insights from the field with Jasper Sibayan (Engineering Manager, BillEase) and Jan Aaron Angelo Lee (CTO, Swarm).
+
+We invite you to join us in celebrating PyCon Philippines 2024 - where ""Gabay"" (guide) steers our collective journey of growth and relentless improvement.
+
+#gabay #pyconph2024 #pyconph #pythonph
+
+For more details about PyCon Philippines 2024, please visit: https://pycon-2024.python.ph/",https://i.ytimg.com/vi/goAK_mLYHik/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGCAgNSh_MA8=&rs=AOn4CLCs-0NT6JKNChECRbamloJjAEWkUw,0,False,False,public,https://www.youtube.com/watch?v=goAK_mLYHik,https://www.youtube.com/watch?v=goAK_mLYHik
+6,PyCon Philippines 2024 - How Python and AI Propel the Philippine Space Agency by Lois Anne Leal,https://www.youtube.com/watch?v=92BsXPxmFu0,92BsXPxmFu0,PythonPH,@PythonPH,https://www.youtube.com/@PythonPH,20240318,1570,227,6,,,Nonprofits & Activism,"We invite you to join us in celebrating PyCon Philippines 2024 - where ""Gabay"" (guide) steers our collective journey of growth and relentless improvement.
+
+#gabay #pyconph2024 #pyconph #pythonph
+
+For more details about PyCon Philippines 2024, please visit: https://pycon-2024.python.ph/
+
+
+About the Speaker:
+Lois Anne Leal works on Data Science and Artificial Intelligence research, development, and innovation at the Philippine Space Agency",https://i.ytimg.com/vi/92BsXPxmFu0/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=92BsXPxmFu0,https://www.youtube.com/watch?v=92BsXPxmFu0
+7,PyCon Philippines 2024 - Exploring Python for Decentralized Apps... by Marc Jerome Tulali,https://www.youtube.com/watch?v=LFCzPCxruso,LFCzPCxruso,PythonPH,@PythonPH,https://www.youtube.com/@PythonPH,20240318,1542,97,1,,,Nonprofits & Activism,"Exploring Python for Decentralized Apps: An Introduction to Blockchain and DApp Development by Marc Jerome Tulali
+
+We invite you to join us in celebrating PyCon Philippines 2024 - where ""Gabay"" (guide) steers our collective journey of growth and relentless improvement.
+
+#gabay #pyconph2024 #pyconph #pythonph
+
+For more details about PyCon Philippines 2024, please visit: https://pycon-2024.python.ph/
+
+
+About the Speaker:
+Marc Jerome Tulali is a Science Research Specialist at the Department of Science & Technology - Advanced Science and Technology Institute and Mentor at The Block",https://i.ytimg.com/vi/LFCzPCxruso/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=LFCzPCxruso,https://www.youtube.com/watch?v=LFCzPCxruso
+8,PyCon Philippines 2024 - Hacking with Words... by Aniruddha Adhikary,https://www.youtube.com/watch?v=8ApgCLYY9BQ,8ApgCLYY9BQ,PythonPH,@PythonPH,https://www.youtube.com/@PythonPH,20240318,1854,90,1,,,Nonprofits & Activism,"Hacking with Words: Exploiting Vulnerabilities in LLMs by Aniruddha Adhikary
+
+We invite you to join us in celebrating PyCon Philippines 2024 - where ""Gabay"" (guide) steers our collective journey of growth and relentless improvement.
+
+#gabay #pyconph2024 #pyconph #pythonph
+
+For more details about PyCon Philippines 2024, please visit: https://pycon-2024.python.ph/
+
+
+About the Speaker:
+Aniruddha Adhikary is a Software Engineer at GovTech Singapore",https://i.ytimg.com/vi/8ApgCLYY9BQ/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=8ApgCLYY9BQ,https://www.youtube.com/watch?v=8ApgCLYY9BQ
+9,PyCon Philippines 2024 - Prediction Malnutrition with AI by Fidel Ivan Racines,https://www.youtube.com/watch?v=cza7wSlHICg,cza7wSlHICg,PythonPH,@PythonPH,https://www.youtube.com/@PythonPH,20240318,2170,131,0,,,Nonprofits & Activism,"We invite you to join us in celebrating PyCon Philippines 2024 - where ""Gabay"" (guide) steers our collective journey of growth and relentless improvement.
+
+#gabay #pyconph2024 #pyconph #pythonph
+
+For more details about PyCon Philippines 2024, please visit: https://pycon-2024.python.ph/
+
+
+About the Speaker:
+Fidel Ivan Racines is an AI Specialist at DOST FNRI",https://i.ytimg.com/vi/cza7wSlHICg/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=cza7wSlHICg,https://www.youtube.com/watch?v=cza7wSlHICg
+10,PyCon Philippines 2024 - Rapid Prototyping in AI Project using Colab and Streamlit by Mona Obedoza,https://www.youtube.com/watch?v=kY_sAbmVRzs,kY_sAbmVRzs,PythonPH,@PythonPH,https://www.youtube.com/@PythonPH,20240318,1090,234,4,,,Nonprofits & Activism,"We invite you to join us in celebrating PyCon Philippines 2024 - where ""Gabay"" (guide) steers our collective journey of growth and relentless improvement.
+
+#gabay #pyconph2024 #pyconph #pythonph
+
+For more details about PyCon Philippines 2024, please visit: https://pycon-2024.python.ph/
+
+
+About the Speaker:
+Mona Obedoza is a Student Ambassador for Women in AI PH, Co-leader of Girls Can Code club, and the Founder of The Purposeful Mochii",https://i.ytimg.com/vi_webp/kY_sAbmVRzs/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=kY_sAbmVRzs,https://www.youtube.com/watch?v=kY_sAbmVRzs
+11,PyCon Philippines 2024 - Site Reliability Engineering... by Paul de Paula,https://www.youtube.com/watch?v=1xUyhGKkGi8,1xUyhGKkGi8,PythonPH,@PythonPH,https://www.youtube.com/@PythonPH,20240318,2093,127,1,,,Nonprofits & Activism,"Site Reliability Engineering: A Python Developer's Perspective by Paul de Paula
+
+We invite you to join us in celebrating PyCon Philippines 2024 - where ""Gabay"" (guide) steers our collective journey of growth and relentless improvement.
+
+#gabay #pyconph2024 #pyconph #pythonph
+
+For more details about PyCon Philippines 2024, please visit: https://pycon-2024.python.ph/
+
+
+About the Speaker:
+Paul de Paula is an accomplished Software Engineer with more than 17 years experience in the IT industry",https://i.ytimg.com/vi/1xUyhGKkGi8/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=1xUyhGKkGi8,https://www.youtube.com/watch?v=1xUyhGKkGi8
+12,PyCon Philippines 2024 - Python for QKD... by Swastik Anupam,https://www.youtube.com/watch?v=1AFetuNyIx0,1AFetuNyIx0,PythonPH,@PythonPH,https://www.youtube.com/@PythonPH,20240318,1421,206,16,2.0,,Nonprofits & Activism,"Python for QKD: National Security Using Quantum Key Distribution by Swastik Anupam
+
+We invite you to join us in celebrating PyCon Philippines 2024 - where ""Gabay"" (guide) steers our collective journey of growth and relentless improvement.
+
+#gabay #pyconph2024 #pyconph #pythonph
+
+For more details about PyCon Philippines 2024, please visit: https://pycon-2024.python.ph/
+
+
+About the Speaker:
+Swastik Anupam is a researcher and active member of Institute of Electrical and Electronics Engineers",https://i.ytimg.com/vi/1AFetuNyIx0/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGCAgNSh_MA8=&rs=AOn4CLBLWHvq6xoNkmkqZ81u9lgD0DRQOg,0,False,False,public,https://www.youtube.com/watch?v=1AFetuNyIx0,https://www.youtube.com/watch?v=1AFetuNyIx0
+13,PyCon Philippines 2024 - Monoliths strikes back... by Kyle Shaun Aquino,https://www.youtube.com/watch?v=eXwHJkjC9is,eXwHJkjC9is,PythonPH,@PythonPH,https://www.youtube.com/@PythonPH,20240318,1754,125,4,,,Nonprofits & Activism,"Monoliths strikes back: The Resurgence of Django and Monolithic Frameworks in Modern Development by Kyle Shaun Aquino
+
+We invite you to join us in celebrating PyCon Philippines 2024 - where ""Gabay"" (guide) steers our collective journey of growth and relentless improvement.
+
+#gabay #pyconph2024 #pyconph #pythonph
+
+For more details about PyCon Philippines 2024, please visit: https://pycon-2024.python.ph/
+
+
+About the Speaker:
+Kyle Shaun Aquino is a tech software lead at 4Gives Finance",https://i.ytimg.com/vi/eXwHJkjC9is/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGCAgNyh_MA8=&rs=AOn4CLBKHTLRN4Vv5j4XqPU7HajMmF6sAw,0,False,False,public,https://www.youtube.com/watch?v=eXwHJkjC9is,https://www.youtube.com/watch?v=eXwHJkjC9is
+14,PyCon Philippines 2024 - PySecure: Your Security One Stop Shop using Python by Anton Raphael Orpilla,https://www.youtube.com/watch?v=7FU1HiooGP4,7FU1HiooGP4,PythonPH,@PythonPH,https://www.youtube.com/@PythonPH,20240318,1825,159,5,2.0,,Nonprofits & Activism,"We invite you to join us in celebrating PyCon Philippines 2024 - where ""Gabay"" (guide) steers our collective journey of growth and relentless improvement.
+
+#gabay #pyconph2024 #pyconph #pythonph
+
+For more details about PyCon Philippines 2024, please visit: https://pycon-2024.python.ph/
+
+
+About the Speaker:
+Anton Raphael Orpilla is an ICT Practitioner for 15+ years, Mentor for aspiring startups and students from different northern universities in the Philippines",https://i.ytimg.com/vi/7FU1HiooGP4/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGCAgNSh_MA8=&rs=AOn4CLD-Q_-vlc9rw-RggeU4q8TEVGiKxA,0,False,False,public,https://www.youtube.com/watch?v=7FU1HiooGP4,https://www.youtube.com/watch?v=7FU1HiooGP4
+15,PyCon Philippines 2024 - Mapping Made Easy: Map Layouting using PyQGIS by Noel Jerome Borlongan,https://www.youtube.com/watch?v=Y5_fBPQig2k,Y5_fBPQig2k,PythonPH,@PythonPH,https://www.youtube.com/@PythonPH,20240318,1526,75,3,,,Nonprofits & Activism,"We invite you to join us in celebrating PyCon Philippines 2024 - where ""Gabay"" (guide) steers our collective journey of growth and relentless improvement.
+
+#gabay #pyconph2024 #pyconph #pythonph
+
+For more details about PyCon Philippines 2024, please visit: https://pycon-2024.python.ph/
+
+
+About the Speaker:
+Noel Jerome Borlongan is a Senior Science Research Specialist at the Philippine Space Agency",https://i.ytimg.com/vi/Y5_fBPQig2k/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=Y5_fBPQig2k,https://www.youtube.com/watch?v=Y5_fBPQig2k
+16,PyCon Philippines 2024 - Workshop 1: Automate Your QA - Workshop on Behave a BDD by Lex Bryan Bangot,https://www.youtube.com/watch?v=LEiXYIQuahQ,LEiXYIQuahQ,PythonPH,@PythonPH,https://www.youtube.com/@PythonPH,20240318,1831,82,0,,,Nonprofits & Activism,"We invite you to join us in celebrating PyCon Philippines 2024 - where ""Gabay"" (guide) steers our collective journey of growth and relentless improvement.
+
+#gabay #pyconph2024 #pyconph #pythonph
+
+For more details about PyCon Philippines 2024, please visit: https://pycon-2024.python.ph/
+
+
+About the Speaker:
+Lex Bryan Bangot is a Senior Full Stack Engineer at Confide",https://i.ytimg.com/vi/LEiXYIQuahQ/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=LEiXYIQuahQ,https://www.youtube.com/watch?v=LEiXYIQuahQ
+17,PyCon Philippines 2024 - Opening Remarks (Day 2) by Zorex Salvo,https://www.youtube.com/watch?v=3WwYF2-KoYE,3WwYF2-KoYE,PythonPH,@PythonPH,https://www.youtube.com/@PythonPH,20240318,149,41,2,,,Nonprofits & Activism,"We invite you to join us in celebrating PyCon Philippines 2024 - where ""Gabay"" (guide) steers our collective journey of growth and relentless improvement.
+
+#gabay #pyconph2024 #pyconph #pythonph
+
+For more details about PyCon Philippines 2024, please visit: https://pycon-2024.python.ph/
+
+
+About the Speaker:
+Zorex Salvo is the Chairperson for PyCon PH 2024, Board of Trustee at PythonPH, and Software Engineer at TotalRewards Software",https://i.ytimg.com/vi/3WwYF2-KoYE/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=3WwYF2-KoYE,https://www.youtube.com/watch?v=3WwYF2-KoYE
+18,PyCon Philippines 2024 - Keynote 3: AI and Programmers - Partners or Rivals? by Matt Harrison,https://www.youtube.com/watch?v=kxFJ8bE141M,kxFJ8bE141M,PythonPH,@PythonPH,https://www.youtube.com/@PythonPH,20240318,3646,330,12,2.0,,Nonprofits & Activism,"AI and Programmers - Partners or Rivals?
+
+It is a time of uncertainty. Rumors and evidence of mass layoffs. Folks having a hard time getting employment. AI replacing employees. How do we evolve and adapt to the unprecedented progress that AI has made recently?
+
+This talk aims to encourage folks to progress and how to standout amidst peak AI.
+
+About the Speaker:
+Matt Harrison is the author of Effective XGBoost and Effective Pandas and he's a computer science expert
+--
+
+We invite you to join us in celebrating PyCon Philippines 2024 - where ""Gabay"" (guide) steers our collective journey of growth and relentless improvement.
+
+#gabay #pyconph2024 #pyconph #pythonph
+
+For more details about PyCon Philippines 2024, please visit: https://pycon-2024.python.ph/",https://i.ytimg.com/vi/kxFJ8bE141M/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=kxFJ8bE141M,https://www.youtube.com/watch?v=kxFJ8bE141M
+19,PyCon Philippines 2024 - Building a Scalable Network Service Assurance System... by Randy Dizon,https://www.youtube.com/watch?v=LAcqqeXMZiA,LAcqqeXMZiA,PythonPH,@PythonPH,https://www.youtube.com/@PythonPH,20240318,1350,52,0,,,Nonprofits & Activism,"Building a Scalable Network Service Assurance System with Microservices, Python, and ELK Stack by Randy Dizon
+
+We invite you to join us in celebrating PyCon Philippines 2024 - where ""Gabay"" (guide) steers our collective journey of growth and relentless improvement.
+
+#gabay #pyconph2024 #pyconph #pythonph
+
+For more details about PyCon Philippines 2024, please visit: https://pycon-2024.python.ph/
+
+
+About the Speaker:
+Randy Dizon is a Lead Software Developer at Quantrics",https://i.ytimg.com/vi_webp/LAcqqeXMZiA/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=LAcqqeXMZiA,https://www.youtube.com/watch?v=LAcqqeXMZiA
+20,"PyCon Philippines 2024 - A Python Journey: Code, Career, and Changes by Anthony Fox",https://www.youtube.com/watch?v=Ez5a9p7xhU0,Ez5a9p7xhU0,PythonPH,@PythonPH,https://www.youtube.com/@PythonPH,20240318,1638,114,1,,,Nonprofits & Activism,"We invite you to join us in celebrating PyCon Philippines 2024 - where ""Gabay"" (guide) steers our collective journey of growth and relentless improvement.
+
+#gabay #pyconph2024 #pyconph #pythonph
+
+For more details about PyCon Philippines 2024, please visit: https://pycon-2024.python.ph/
+
+
+About the Speaker:
+Anthony Fox is a Scrum Developer and Data Scientist at OpsWerks",https://i.ytimg.com/vi_webp/Ez5a9p7xhU0/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=Ez5a9p7xhU0,https://www.youtube.com/watch?v=Ez5a9p7xhU0
+21,PyCon Philippines 2024 - Gardening Python Community... by KwonHan Bae,https://www.youtube.com/watch?v=yOGrdDzdjmk,yOGrdDzdjmk,PythonPH,@PythonPH,https://www.youtube.com/@PythonPH,20240318,1821,34,0,,,Nonprofits & Activism,"Gardening Python Community - Local User Group to Regional PyCon by KwonHan Bae
+
+We invite you to join us in celebrating PyCon Philippines 2024 - where ""Gabay"" (guide) steers our collective journey of growth and relentless improvement.
+
+#gabay #pyconph2024 #pyconph #pythonph
+
+For more details about PyCon Philippines 2024, please visit: https://pycon-2024.python.ph/
+
+
+About the Speaker:
+KwonHan Bae has a 20 years experience as a Site Reliability Engineer, Board Member of the Python Software Foundation, Committee Member of PyCon APAC",https://i.ytimg.com/vi_webp/yOGrdDzdjmk/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=yOGrdDzdjmk,https://www.youtube.com/watch?v=yOGrdDzdjmk
+22,PyCon Philippines 2024 - Securing AI applications... by Joshua Arvin Lat and Sophia Soliven,https://www.youtube.com/watch?v=5v00baLonlQ,5v00baLonlQ,PythonPH,@PythonPH,https://www.youtube.com/@PythonPH,20240318,1486,169,2,,,Nonprofits & Activism,"Securing AI applications by building our own LLM Vulnerability Scanner in Python by Joshua Arvin Lat and Sophia Soliven
+
+We invite you to join us in celebrating PyCon Philippines 2024 - where ""Gabay"" (guide) steers our collective journey of growth and relentless improvement.
+
+#gabay #pyconph2024 #pyconph #pythonph
+
+For more details about PyCon Philippines 2024, please visit: https://pycon-2024.python.ph/
+
+
+About the Speaker:
+Joshua Arvin Lat is a Chief Technology Officer of NuWorks Interactive Labs and he's the author of the books ""Machine Learning with Amazon SageMaker Cookbook""
+
+Sophia Soliven is a Director of Operations for Edamama and she has 9+ years of experience in e-commerce, fintech, and retail",https://i.ytimg.com/vi/5v00baLonlQ/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=5v00baLonlQ,https://www.youtube.com/watch?v=5v00baLonlQ
+23,PyCon Philippines 2024 - More Energy Mas Happy... by Ian Panganiban,https://www.youtube.com/watch?v=zU90Z7xtKY4,zU90Z7xtKY4,PythonPH,@PythonPH,https://www.youtube.com/@PythonPH,20240318,1484,51,0,,,Nonprofits & Activism,"More Energy Mas Happy: Python to find and explore energy sources by Ian Panganiban
+
+We invite you to join us in celebrating PyCon Philippines 2024 - where ""Gabay"" (guide) steers our collective journey of growth and relentless improvement.
+
+#gabay #pyconph2024 #pyconph #pythonph
+
+For more details about PyCon Philippines 2024, please visit: https://pycon-2024.python.ph/
+
+
+About the Speaker:
+Ian Panganiban is a researcher for an ocean renewable energy project, Software Engineer in geospatial applications, and a Solutions Developer for digital transformation initiatives",https://i.ytimg.com/vi/zU90Z7xtKY4/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=zU90Z7xtKY4,https://www.youtube.com/watch?v=zU90Z7xtKY4
+24,PyCon Philippines 2024 - On Monte Carlo simulations and the statistics of love by Albert Yumol,https://www.youtube.com/watch?v=DEFZfLxvxoA,DEFZfLxvxoA,PythonPH,@PythonPH,https://www.youtube.com/@PythonPH,20240318,1719,67,0,,,Nonprofits & Activism,"We invite you to join us in celebrating PyCon Philippines 2024 - where ""Gabay"" (guide) steers our collective journey of growth and relentless improvement.
+
+#gabay #pyconph2024 #pyconph #pythonph
+
+For more details about PyCon Philippines 2024, please visit: https://pycon-2024.python.ph/
+
+
+About the Speaker:
+Albert Yumol is an Amsterdam-based data worker passionate in sharing his love for science, technology, and activism",https://i.ytimg.com/vi_webp/DEFZfLxvxoA/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=DEFZfLxvxoA,https://www.youtube.com/watch?v=DEFZfLxvxoA
+25,PyCon Philippines 2024 - Bite that future... by Athena Aliafe Abe,https://www.youtube.com/watch?v=Tj5LNV-BL34,Tj5LNV-BL34,PythonPH,@PythonPH,https://www.youtube.com/@PythonPH,20240318,1858,163,2,1.0,,Nonprofits & Activism,"Bite that future: Build your career and immerse yourself with the community by Athena Aliafe Abe
+
+We invite you to join us in celebrating PyCon Philippines 2024 - where ""Gabay"" (guide) steers our collective journey of growth and relentless improvement.
+
+#gabay #pyconph2024 #pyconph #pythonph
+
+For more details about PyCon Philippines 2024, please visit: https://pycon-2024.python.ph/
+
+
+About the Speaker:
+Athena Aliafe Abe is a Sustaining Engineer and a KCS Coach of PAR Tech Inc",https://i.ytimg.com/vi_webp/Tj5LNV-BL34/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=Tj5LNV-BL34,https://www.youtube.com/watch?v=Tj5LNV-BL34
+26,PyCon Philippines 2024 - Python Productivity Cookbook... by Neil,https://www.youtube.com/watch?v=8oiRHcZFKyo,8oiRHcZFKyo,PythonPH,@PythonPH,https://www.youtube.com/@PythonPH,20240318,1035,113,4,,,Nonprofits & Activism,"Python Productivity Cookbook: Automate your Life, Master Time, and Boost Your Finances by Neil Riego
+
+We invite you to join us in celebrating PyCon Philippines 2024 - where ""Gabay"" (guide) steers our collective journey of growth and relentless improvement.
+
+#gabay #pyconph2024 #pyconph #pythonph
+
+For more details about PyCon Philippines 2024, please visit: https://pycon-2024.python.ph/
+
+
+About the Speaker:
+Neil Riego is a Software Engineer at Enstack and a Career Coach at Kadakareer",https://i.ytimg.com/vi_webp/8oiRHcZFKyo/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=8oiRHcZFKyo,https://www.youtube.com/watch?v=8oiRHcZFKyo
+27,PyCon Philippines 2024 - Integrating Rust with Python... by John Patrick Laurel,https://www.youtube.com/watch?v=Rn-3h5DGnXY,Rn-3h5DGnXY,PythonPH,@PythonPH,https://www.youtube.com/@PythonPH,20240318,1472,95,1,1.0,,Nonprofits & Activism,"Integrating Rust with Python: A Guide to Module Development by John Patrick Laurel
+
+We invite you to join us in celebrating PyCon Philippines 2024 - where ""Gabay"" (guide) steers our collective journey of growth and relentless improvement.
+
+#gabay #pyconph2024 #pyconph #pythonph
+
+For more details about PyCon Philippines 2024, please visit: https://pycon-2024.python.ph/
+
+
+About the Speaker:
+John Patrick Laurel is the head of Data Science at Short Stay AI, Full-Stack Developer at NuWorks Interactive Labs, Data Science Mentor at Eskwelabs, and a Technical Writer at Tutorials Dojo",https://i.ytimg.com/vi/Rn-3h5DGnXY/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=Rn-3h5DGnXY,https://www.youtube.com/watch?v=Rn-3h5DGnXY
+28,PyCon Philippines 2024 - How does Python get the length with len() function? by Takayuki Shimizukawa,https://www.youtube.com/watch?v=a8nhzdes2es,a8nhzdes2es,PythonPH,@PythonPH,https://www.youtube.com/@PythonPH,20240318,1747,99,1,,,Nonprofits & Activism,"We invite you to join us in celebrating PyCon Philippines 2024 - where ""Gabay"" (guide) steers our collective journey of growth and relentless improvement.
+
+#gabay #pyconph2024 #pyconph #pythonph
+
+For more details about PyCon Philippines 2024, please visit: https://pycon-2024.python.ph/
+
+
+About the Speaker:
+Takayuki Shimizukawa is the director of PyCon JP Association",https://i.ytimg.com/vi/a8nhzdes2es/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=a8nhzdes2es,https://www.youtube.com/watch?v=a8nhzdes2es
+29,PyCon Philippines 2024 - Lightning Talks,https://www.youtube.com/watch?v=RMNx-JsPwVo,RMNx-JsPwVo,PythonPH,@PythonPH,https://www.youtube.com/@PythonPH,20240319,4219,180,10,,,Nonprofits & Activism,"Lightning Talks are impromptu presentations that offer a welcoming platform. This allowed participants to showcase projects, share tips, and express what makes Python enjoyable. This segment celebrated the diverse interests and ideas within our community, all within a few minutes. Whether for first-time speakers or seasoned presenters, it was all about the joy of sharing in a supportive environment.
+
+List of Lightning Talks and Presenters:
+- Torch Geo by Ian Panganiban
+- Python in Salmon (Fintech Startup) by Kirill Tribunskii
+- Decorate your life with Python by Jabez Emmanuel Borja
+- FIR Coefficients as Weights by Justin Garcia
+- UP Citizen Science Network by Chris
+- The print function by Marvin Tensuan
+- Computational Physics Class Project by Juan Eduardo Banzon
+- Python for Mobile Development by Mark Anthony Estospace
+- Understanding the Nature of Volunteer-Driven Organizations by Matt Lebrun
+- PSF and Python Community by KwonHan Bae
+- Remote code execution in a billion-dollar publicly traded company by Ted Mathew dela Cruz
+- Ortholinear Keyboard by Eman
+- Machine Learning by Christian Darvin 
+- Termux by Andresito de Guzman
+- 5 Projects of PCHRD
+- Impact-Based Food Forecasting System in the Philippines by Faye Andal
+- PyCon APAC Organizers Website (pycon.asia) by Micaela Reyes
+- Document Automation Pipeline by Arnel
+- Citizen data as mass mobilization
+
+We invite you to join us in celebrating PyCon Philippines 2024 - where ""Gabay"" (guide) steers our collective journey of growth and relentless improvement.
+
+#gabay #pyconph2024 #pyconph #pythonph
+
+For more details about PyCon Philippines 2024, please visit: https://pycon-2024.python.ph/",https://i.ytimg.com/vi/RMNx-JsPwVo/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGCAgNSh_MA8=&rs=AOn4CLDnkh4js_t8AiDKNd2oc-WOVDzxcg,0,False,False,public,https://www.youtube.com/watch?v=RMNx-JsPwVo,https://www.youtube.com/watch?v=RMNx-JsPwVo
+30,PyCon Philippines 2024 - Workshop 2: Making a visual novel with Ren'Py by Sony Valdez,https://www.youtube.com/watch?v=P6b6GpVt3gE,P6b6GpVt3gE,PythonPH,@PythonPH,https://www.youtube.com/@PythonPH,20240318,4642,102,3,,,Nonprofits & Activism,"We invite you to join us in celebrating PyCon Philippines 2024 - where ""Gabay"" (guide) steers our collective journey of growth and relentless improvement.
+
+#gabay #pyconph2024 #pyconph #pythonph
+
+For more details about PyCon Philippines 2024, please visit: https://pycon-2024.python.ph/
+
+
+About the Speaker:
+Sony Valdez has a 20 years experience as a programmer and he's one of the founders of Python Philippines",https://i.ytimg.com/vi/P6b6GpVt3gE/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGCAgNSh_MA8=&rs=AOn4CLDMLH2G24LIccMT2ro996_utZWdew,0,False,False,public,https://www.youtube.com/watch?v=P6b6GpVt3gE,https://www.youtube.com/watch?v=P6b6GpVt3gE
+31,PyCon Philippines 2024 - Enhance your Python application... by Yoshi Yamaguchi,https://www.youtube.com/watch?v=ho8byp5Yqs8,ho8byp5Yqs8,PythonPH,@PythonPH,https://www.youtube.com/@PythonPH,20240318,2254,127,2,1.0,,Nonprofits & Activism,"Enhance your Python application observability with OpenTelemetry by Yoshi Yamaguchi
+
+We invite you to join us in celebrating PyCon Philippines 2024 - where ""Gabay"" (guide) steers our collective journey of growth and relentless improvement.
+
+#gabay #pyconph2024 #pyconph #pythonph
+
+For more details about PyCon Philippines 2024, please visit: https://pycon-2024.python.ph/
+
+
+About the Speaker:
+Yoshi Yamaguchi is a Senior Developer Relations Engineer at Google Cloud",https://i.ytimg.com/vi/ho8byp5Yqs8/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=ho8byp5Yqs8,https://www.youtube.com/watch?v=ho8byp5Yqs8
+32,PyCon Philippines 2024 - PyNight Highlights,https://www.youtube.com/watch?v=NzhQ_Do2CG0,NzhQ_Do2CG0,PythonPH,@PythonPH,https://www.youtube.com/@PythonPH,20240325,171,146,3,,,Nonprofits & Activism,"PyNight (featuring PyTunes)
+
+Wrapped up a day of learning and coding with a relaxed evening. We chilled out, enjoyed serenading melodies, and shared stories from the day. This mix of music and open mic sessions allowed volunteers and guests to showcase their talents or simply share a laugh, offering the perfect way to unwind and bond with the community. 
+
+We invite you to join us in celebrating PyCon Philippines 2024 - where ""Gabay"" (guide) steers our collective journey of growth and relentless improvement.
+
+#gabay #pyconph2024 #pyconph #pythonph
+
+For more details about PyCon Philippines 2024, please visit: https://pycon-2024.python.ph/",https://i.ytimg.com/vi/NzhQ_Do2CG0/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=NzhQ_Do2CG0,https://www.youtube.com/watch?v=NzhQ_Do2CG0
