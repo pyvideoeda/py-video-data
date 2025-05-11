@@ -1,0 +1,784 @@
+﻿index,title,url,video_id,uploader,uploader_id,uploader_url,upload_date,duration,view_count,like_count,comment_count,tags,categories,description,thumbnail,age_limit,is_live,was_live,availability,webpage_url,original_url
+1,PyConZA 2021: Opening Ceremony,https://www.youtube.com/watch?v=RLpiYVvX3Sg,RLpiYVvX3Sg,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20211023,1580,212,7,,,Entertainment,"By: Sheena O'Connel & Kim van Wyk
+
+Event: PyConZA 2021
+URL: https://2021.za.pycon.org/news/welcome/
+
+The official start of PyCon ZA 2021.
+
+Reminders of how the conference will be run, where to find the talks and how to asks questions and other information for attendees.
+
+Room: Video Room 1
+Scheduled start: 2021-10-06 12:00:00
+Sponsors:
+
+  Gold:
+    SPAN Digital: https://spandigital.com/
+
+    Takealot: http://takealot.com/
+    Andela: https://www.andela.com/
+
+  Silver:
+    Python Software Foundation: https://www.python.org/psf/membership
+    OfferZen: https://www.offerzen.com/
+
+  Patron:
+    Thinkst Canary: https://canary.tools/
+    Afrolabs: http://www.afrolabs.co.za/",https://i.ytimg.com/vi/RLpiYVvX3Sg/maxresdefault.jpg,0,False,True,public,https://www.youtube.com/watch?v=RLpiYVvX3Sg,https://www.youtube.com/watch?v=RLpiYVvX3Sg
+2,You don't need AI; You need to know what your data is.,https://www.youtube.com/watch?v=VbxEexY0-0s,VbxEexY0-0s,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20211023,3680,1080,29,,,Entertainment,"By: Jade Abbott
+
+Event: PyConZA 2021
+URL: https://2021.za.pycon.org/talks/15-you-dont-need-ai-you-need-to-know-what-your-data-is/
+
+93% of data science projects never make it into production (MIT Sloan Management Review). Many of us in the field of AI feel the impact of this - the sheer futility of all our efforts.
+
+First we're going to talk about how we ended up in this mess: Spoiler Alert: We were misled. Next, we're going to figure out how to get OUT of it.
+
+It's time to put down those neural networks, and pick up some data governance tools. It's time to stop hiring data scientists and instead hire data engineers. Join me on a journey to go back and rework some of the foundations so that our Data Science efforts can begin to make impact.
+
+Audience: Anyone who works in data science or runs a data science team
+
+What will they get out of it:
+    - Increased Skepticism on what the tech zeitgeist proposes
+    - A list of many of the practices we follow in Data Science which are ill advised
+    - What we can change to ensure we actually make an impact
+
+Room: Video Room 1
+Scheduled start: 2021-10-06 12:30:00
+Sponsors:
+
+  Gold:
+    SPAN Digital: https://spandigital.com/
+    Takealot: http://takealot.com/
+    Andela: https://www.andela.com/
+
+  Silver:
+    Python Software Foundation: https://www.python.org/psf/membership
+    OfferZen: https://www.offerzen.com/
+
+  Patron:
+    Thinkst Canary: https://canary.tools/
+    Afrolabs: http://www.afrolabs.co.za/",https://i.ytimg.com/vi/VbxEexY0-0s/maxresdefault.jpg,0,False,True,public,https://www.youtube.com/watch?v=VbxEexY0-0s,https://www.youtube.com/watch?v=VbxEexY0-0s
+3,Efficient Data Handling Techniques in Python for Oracle Database,https://www.youtube.com/watch?v=S4vaAGrb-Jk,S4vaAGrb-Jk,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20211023,2538,151,2,,,Entertainment,"By: Christopher Jones 
+
+Event: PyConZA 2021
+URL: https://2021.za.pycon.org/talks/21-efficient-data-handling-techniques-in-python-for-oracle-database/
+
+The Python cx_Oracle interface for Oracle Database is used by a large number of Python applications across a wide range of industries. One common use case is data transfers. This session is full of Jupyter demos showing how to use cx_Oracle features for efficient data loading and access. See the benefits of array fetching, batch loading, and how to work with CSV files. This session assumes a basic knowledge of Python and an interest in databases.
+
+Room: Video Room 1
+Scheduled start: 2021-10-06 13:45:00
+Sponsors:
+
+  Gold:
+    SPAN Digital: https://spandigital.com/
+    Takealot: http://takealot.com/
+    Andela: https://www.andela.com/
+
+  Silver:
+    Python Software Foundation: https://www.python.org/psf/membership
+    OfferZen: https://www.offerzen.com/
+
+  Patron:
+    Thinkst Canary: https://canary.tools/
+    Afrolabs: http://www.afrolabs.co.za/",https://i.ytimg.com/vi/S4vaAGrb-Jk/maxresdefault.jpg,0,False,True,public,https://www.youtube.com/watch?v=S4vaAGrb-Jk,https://www.youtube.com/watch?v=S4vaAGrb-Jk
+4,Building Machine Learning demos with Python,https://www.youtube.com/watch?v=IINmkeUv4A8,IINmkeUv4A8,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20211023,1719,87,4,,,Entertainment,"By: Omar Sanseviero
+
+Event: PyConZA 2021
+Url: https://2021.za.pycon.org/talks/37-building-machine-learning-demos-with-python/
+
+About:
+
+How can you show what a Machine Learning model does once it's trained? In this talk, you're going to learn how to create Machine Learning apps and demos using Streamlit and Gradio, Python libraries for this purpose. Additionally, you'll see how to share them with the rest of the Open Source ecosystem. Learning to create graphic interfaces for models is extremely useful for sharing with other people interesting with them.",https://i.ytimg.com/vi/IINmkeUv4A8/maxresdefault.jpg,0,False,True,public,https://www.youtube.com/watch?v=IINmkeUv4A8,https://www.youtube.com/watch?v=IINmkeUv4A8
+5,Developing Feasible Scenarios for Bioenergy Production in South Africa with Python,https://www.youtube.com/watch?v=zE2SosS7kFA,zE2SosS7kFA,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20211023,2717,108,11,,,Entertainment,"By: Hayden Wilson
+
+Event: PyConZA 2021
+URL: https://2021.za.pycon.org/talks/34-developing-feasible-scenarios-for-bioenergy-production-in-south-africa-with-python/
+
+BioEnergy has been a hot topic for some time, however there are a lot of unknowns regarding costs of Sourcing and Processing Biomass, that prevent its wider adoption. The team behind the BioEnergy Atlas for South Africa have developed a methodology and toolset that address a number of these unknowns, allowing for modeled scenarios for bioenergy production to be developed and compared.
+
+This talk show cases how complex and computationally intensive spatial problems can be broken down into relatively simple components that are solvable using scientific compute methodologies and libraries in python.
+
+The components of the modelling process discussed in this talk include:
+
+1. Creation of a transport network where no roads exist using scikit-image
+
+2. Geolocation of optimal potential facility locations based on the road transport costs and BioEnergy feedstock spatial location using GDAL and NetworkX
+
+3. Calculation of BioEnergy Production costs per potential facility location (Pandas)
+
+ 4. Presentation of Model Outputs using dashboards that facilitate Nexus type comparisons (Dash and Plotly).
+
+Room: Video Room 1
+Scheduled start: 2021-10-06 14:30:00
+Sponsors:
+
+  Gold:
+    SPAN Digital: https://spandigital.com/
+    Takealot: http://takealot.com/
+    Andela: https://www.andela.com/
+
+  Silver:
+    Python Software Foundation: https://www.python.org/psf/membership
+    OfferZen: https://www.offerzen.com/
+
+  Patron:
+    Thinkst Canary: https://canary.tools/
+    Afrolabs: http://www.afrolabs.co.za/",https://i.ytimg.com/vi/zE2SosS7kFA/maxresdefault.jpg,0,False,True,public,https://www.youtube.com/watch?v=zE2SosS7kFA,https://www.youtube.com/watch?v=zE2SosS7kFA
+6,Shopyo: Your Mega Machine For Flask,https://www.youtube.com/watch?v=W4Gmc8q42YA,W4Gmc8q42YA,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20211023,1969,90,5,,,Entertainment,"By: Abdur-Rahmaan Janhangeer
+
+Event: PyConZA 2021
+URL: https://2021.za.pycon.org/talks/1-shopyo-your-mega-machine-for-flask/
+
+About
+This talk presents Shopyo. A framework to help Flask users get started quickly with a great architecture and features never seen before in the Flask world. It allows Flask people to have Django powers, and beyond. It allows the use of apps/modules with the addition of a concept called box. It also supports some Django commands like collectstatic. It comes with tests and docs ready to go. We also included a few touches of Masonite. It's much, much more than a Flask boilerplate project. In line with the Flask spirit it leaves much control of the wizardry in your hands, you the user.
+
+Outline
+The framework was designed to spin big, flexible and organised projects. The talk presents the features of the project as well as setting up a demo project.
+
+Requirements
+This talk is an advanced one. It requires the user to have knowledge of common packages like flask_login, sqlalchemy, alembic & flask_migrate, flask_wtf, sqlalchemy_wtf, of concepts like multi-profile configs and the app factory pattern etc. To be a well grounded Flask dev if you like. Just go over them if you are reading these lines as the talk needs at least a conceptual knowledge of those.
+
+Why should you waste your time attending this presentation?
+I decided to present the conclusion of years and years of Flask development as a framework which allows you to stand on the shoulders of giants from day one.
+
+Room: Video Room 1
+Scheduled start: 2021-10-07 14:30:00
+Sponsors:
+
+  Gold:
+    SPAN Digital: https://spandigital.com/
+    Takealot: http://takealot.com/
+    Andela: https://www.andela.com/
+
+  Silver:
+    Python Software Foundation: https://www.python.org/psf/membership
+    OfferZen: https://www.offerzen.com/
+
+  Patron:
+    Thinkst Canary: https://canary.tools/
+    Afrolabs: http://www.afrolabs.co.za/",https://i.ytimg.com/vi/W4Gmc8q42YA/maxresdefault.jpg,0,False,True,public,https://www.youtube.com/watch?v=W4Gmc8q42YA,https://www.youtube.com/watch?v=W4Gmc8q42YA
+7,Retries and Circuitbreakers in Takealot Microservices,https://www.youtube.com/watch?v=iHLA-4jSZJU,iHLA-4jSZJU,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20211023,381,113,4,,,Entertainment,"By: Johan Beyers
+
+Event: PyConZA 2021
+URL: https://2021.za.pycon.org/talks/40-retries-and-circuitbreakers-in-takealot-microservices/
+Sponsored talk by: Takealot
+
+At Takealot, we work with Python-based microservices. There are many moving parts and some services may be down at any time. To ensure that everything still works, we need to build in mechanisms to handle failure when requesting data from an upstream service.
+
+We developed some patterns using retries and circuit breakers to make sure that we can handle a service being slow or unavailable, as well as not overwhelming it when it becomes available again.
+
+I will take you through some of techniques that we use to achieve this, as well as a live demo of the techniques in action.
+
+Room: Video Room 1
+Scheduled start: 2021-10-06 15:15:00",https://i.ytimg.com/vi/iHLA-4jSZJU/maxresdefault.jpg,0,False,True,public,https://www.youtube.com/watch?v=iHLA-4jSZJU,https://www.youtube.com/watch?v=iHLA-4jSZJU
+8,Build Your First Cyber Forensic Application using Python,https://www.youtube.com/watch?v=apptwN2Gk9g,apptwN2Gk9g,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20211023,2022,1163,18,,,Entertainment,"By: Gajendra Deshpande
+
+Event: PyConZA 2021
+URL: https://2021.za.pycon.org/talks/5-build-your-first-cyber-forensic-application-using-python/
+
+A recent study by CheckPoint Research has recorded over 1,50,000 cyber-attacks every week during the COVID-19 pandemic. There has been an increase of 30% in cyber-attacks compared to previous weeks. The pandemic has been the main reason for job loss and pay cuts of people and has led to an increase in cybercrimes. Examples of cyber-attacks include phishing, ransomware, fake news, fake medicine, extortion, and insider frauds. Cyber forensics is a field that deals with the investigation of digital crimes by analyzing, examining, identifying, and recovering digital evidence from electronic devices and producing them in the court of law. Python has a great collection of built-in modules for digital forensics tasks. The talk begins with an introduction to digital crimes, digital forensics, the process of investigation, and the collection of evidence. Next, I will cover the various python modules and built-in functions required to build your first cyber forensic application. The modules covered in the discussion are pyscreenshot, PIL, secrets, argparse, hashlib, os,csv, logging, time, sys, stat and NLTK. Finally, I will demonstrate using code walk through the sample cyber forensic application.
+
+Outline:
+
+1. Introduction to digital crimes, digital forensics, the process of investigation, and the collection of evidence. (03 Minutes)
+
+2. Setting up Python for forensics application development (02 Minutes)
+
+3. Built-in functions and modules for forensic tasks (05 Minutes)
+
+4. Forensic Indexing and searching (03 Minutes)
+
+5. Forensic Evidence extraction (03 Minutes)
+
+6. Using Natural Language Tools in Forensics (05 Minutes)
+
+7. Code walkthrough of sample forensic application (08 Minutes)
+
+8. Conclusion and Next steps (01 Minutes)
+
+Room: Video Room 1
+Scheduled start: 2021-10-06 15:45:00
+Sponsors:
+
+  Gold:
+    SPAN Digital: https://spandigital.com/
+    Takealot: http://takealot.com/
+    Andela: https://www.andela.com/
+
+  Silver:
+    Python Software Foundation: https://www.python.org/psf/membership
+    OfferZen: https://www.offerzen.com/
+
+  Patron:
+    Thinkst Canary: https://canary.tools/
+    Afrolabs: http://www.afrolabs.co.za/",https://i.ytimg.com/vi/apptwN2Gk9g/maxresdefault.jpg,0,False,True,public,https://www.youtube.com/watch?v=apptwN2Gk9g,https://www.youtube.com/watch?v=apptwN2Gk9g
+9,The loop of Joy: helping kids (and grown-ups) enjoy code adventures,https://www.youtube.com/watch?v=sH4NvrxalWg,sH4NvrxalWg,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20211023,2656,166,12,,,Entertainment,"By: David Campey
+
+Event: PyConZA 2021
+URL: https://2021.za.pycon.org/talks/19-the-loop-of-joy-helping-kids-and-grown-ups-enjoy-code-adventures/
+
+The loop of joy:
+
+Ooh, I have an idea…
+struggle…
+it works!
+In my work at CoderDojo, I realised this is what we are aiming at helping kids discover (and also helps grown-ups too!).
+
+This talk will cover:
+
+Starter pathways to crank the creative joy engine in young learners
+The MIT Media Lab “Life-long Kindergarten” 4P’s:
+Passion, Peers, Projects and Play, and how they drive the creative learning pathway
+How to not lose connection to enjoying it (kids and adults)
+Come curious, with hope for joy!
+
+Room: Video Room 2
+Scheduled start: 2021-10-06 15:45:00
+Sponsors:
+
+  Gold:
+    SPAN Digital: https://spandigital.com/
+    Takealot: http://takealot.com/
+    Andela: https://www.andela.com/
+
+  Silver:
+    Python Software Foundation: https://www.python.org/psf/membership
+    OfferZen: https://www.offerzen.com/
+
+  Patron:
+    Thinkst Canary: https://canary.tools/
+    Afrolabs: http://www.afrolabs.co.za/",https://i.ytimg.com/vi/sH4NvrxalWg/maxresdefault.jpg,0,False,True,public,https://www.youtube.com/watch?v=sH4NvrxalWg,https://www.youtube.com/watch?v=sH4NvrxalWg
+10,Python & MariaDB: A Match?,https://www.youtube.com/watch?v=zo4HlSkPWKQ,zo4HlSkPWKQ,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20211023,2406,514,5,,,Entertainment,"By: Kaj Arnö
+
+Event: PyConZA 2021
+URL: https://2021.za.pycon.org/talks/30-python-mariadb-a-match/
+
+Preamble: A happy rant by a Python developer about the feeling of coming back home to programming after decades in management, and seeing 90 % of all pain points of programming being solved. How Python contributes to the mental sanity of an incurable geek.
+
+Main content: When is MariaDB Server the right choice for persistence of data in Python? Or, to split it:
+
+- why is picking a database sexy, to begin with?
+- why a relational database, not NoSQL?
+- why an open source relational database?
+- why MariaDB, not MySQL or Postgres?
+- when not to pick MariaDB?
+
+What MariaDB Server to pick?
+
+- which Server version
+- on cloud or on-prem
+- which Python connector
+- how often to upgrade
+- what other related software to pick
+
+MariaDB blog post: https://mariadb.org/pyconza/
+
+Room: Video Room 1
+Scheduled start: 2021-10-06 16:30:00
+Sponsors:
+
+  Gold:
+    SPAN Digital: https://spandigital.com/
+    Takealot: http://takealot.com/
+    Andela: https://www.andela.com/
+
+  Silver:
+    Python Software Foundation: https://www.python.org/psf/membership
+    OfferZen: https://www.offerzen.com/
+
+  Patron:
+    Thinkst Canary: https://canary.tools/
+    Afrolabs: http://www.afrolabs.co.za/",https://i.ytimg.com/vi/zo4HlSkPWKQ/maxresdefault.jpg,0,False,True,public,https://www.youtube.com/watch?v=zo4HlSkPWKQ,https://www.youtube.com/watch?v=zo4HlSkPWKQ
+11,Django Rest Framework + Redux,https://www.youtube.com/watch?v=qDQj5XTj8lQ,qDQj5XTj8lQ,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20211023,2286,100,10,,,Entertainment,"By: Sheena O'Connell
+
+Event: PyConZA 2021
+URL: https://2021.za.pycon.org/talks/24-django-rest-framework-3-redux/
+
+Django Rest Framework lets you rapidly create well behaved, increadibly consistent, REST api endpoints on your Django app. It's pretty great and its saved me personally a lot of time.
+
+A very common thing to do is take your Django app and treat that as a backend to a modern frontend built in something like Vue, React, Angular or one of their many many competitors.
+
+Now each of these frontend tools/frameworks have their own way of keeping trac of data or state. So when people plug their frontend tooling into Django certain wheels tend to get reinvented.
+
+Enter Redux. Redux is a teeny weeny and painfully elegent JavaScript library that works wonders with state managment. Redux is commonly associated with React, but it's not actually relient on React in any way. It's just JavaScript, it can actually be used just about anywhere that JS runs (yes, even a backend if you wanted to).
+
+I use Redux a lot and have built some web-frontend-framework agnostic tools that make it easy to manage your api data on any old js frontend and deal with forms that are backed by a DRF api. What's cool about this is that it's dead simple to useonce you have it set up, and it doesn't stop you fronm using other state managment tools for other parts of your application.
+
+I'm sure this tool has saved me weeks of pain and suffering. If you are into fullstack web dev and modern frontends then you might find this useful.
+
+Room: Video Room 2
+Scheduled start: 2021-10-06 16:30:00
+Sponsors:
+
+  Gold:
+    SPAN Digital: https://spandigital.com/
+    Takealot: http://takealot.com/
+    Andela: https://www.andela.com/
+
+  Silver:
+    Python Software Foundation: https://www.python.org/psf/membership
+    OfferZen: https://www.offerzen.com/
+
+  Patron:
+    Thinkst Canary: https://canary.tools/
+    Afrolabs: http://www.afrolabs.co.za/",https://i.ytimg.com/vi/qDQj5XTj8lQ/maxresdefault.jpg,0,False,True,public,https://www.youtube.com/watch?v=qDQj5XTj8lQ,https://www.youtube.com/watch?v=qDQj5XTj8lQ
+12,PyCon ZA 2021: Thursday Lightning Talks,https://www.youtube.com/watch?v=lwRB4NlhTg8,lwRB4NlhTg8,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20211023,1436,67,4,,,Entertainment,"By: Various speakers
+
+Event: PyConZA 2021
+URL: https://2021.za.pycon.org/talks/lightning-talks/
+
+Lightning talks are a space to give a short (strictly less than 5 minutes) talk to the whole conference. They're often funny, slightly strange, or informative -- and they're a great way to give a first talk at a conference.
+
+* Nicholas De Kock: ""autoESDA - a library for automated Exploratory Spatial Data Analysis""
+* Adrianna Pińska: ""Structural pattern matching: not just a switch statement""
+* Simon Cross: ""HPy: Taking the C API to the Next Level""
+
+Room: Video Room 1
+Scheduled start: 2021-10-06 17:25:00
+Sponsors:
+
+  Gold:
+    SPAN Digital: https://spandigital.com/
+    Takealot: http://takealot.com/
+    Andela: https://www.andela.com/
+
+  Silver:
+    Python Software Foundation: https://www.python.org/psf/membership
+    OfferZen: https://www.offerzen.com/
+
+  Patron:
+    Thinkst Canary: https://canary.tools/
+    Afrolabs: http://www.afrolabs.co.za/",https://i.ytimg.com/vi/lwRB4NlhTg8/maxresdefault.jpg,0,False,True,public,https://www.youtube.com/watch?v=lwRB4NlhTg8,https://www.youtube.com/watch?v=lwRB4NlhTg8
+13,PyConZA 2021: Welcome to Day 2,https://www.youtube.com/watch?v=dj5lOaXatYE,dj5lOaXatYE,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20211023,741,36,2,,,Entertainment,"By: Kim van Wyk & Sheena O'Connell
+
+Event: PyConZA 2021
+URL: https://2021.za.pycon.org/news/day-2-welcome/
+
+Announcements and news at the start of the second day of PyConZA 2021.
+
+Room: Video Room 1
+Scheduled start: 2021-10-08 11:30:00
+Sponsors:
+
+  Gold:
+    SPAN Digital: https://spandigital.com/
+    Takealot: http://takealot.com/
+    Andela: https://www.andela.com/
+
+  Silver:
+    Python Software Foundation: https://www.python.org/psf/membership
+    OfferZen: https://www.offerzen.com/
+
+  Patron:
+    Thinkst Canary: https://canary.tools/
+    Afrolabs: http://www.afrolabs.co.za/",https://i.ytimg.com/vi/dj5lOaXatYE/maxresdefault.jpg,0,False,True,public,https://www.youtube.com/watch?v=dj5lOaXatYE,https://www.youtube.com/watch?v=dj5lOaXatYE
+14,Learning to speak a common language with BDD and pickled cucumbers,https://www.youtube.com/watch?v=MFFZO4LxXXs,MFFZO4LxXXs,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20211023,2429,101,10,,,Entertainment,"By: Richard Landers
+
+Event: PyConZA 2021
+URL: https://2021.za.pycon.org/talks/25-learning-to-speak-a-common-language-with-bdd-and-pickled-cucumbers/
+
+This talk is a real-world account of how our team implemented BDD (Behavior-driven development) in a new platform built in Python and what we have managed to learn thus far.
+
+What this talk will cover:
+
+- our decision to use BDD
+- implementation with Gherkin and Python
+- the benefits of a shared context
+- going through changes and how we left BDD behind
+- rekindled excitement for BDD and what it means for the future of this project
+
+This talk is for everyone without any prior context or knowledge needed with regards to BDD.
+
+Behavior-driven development is a tool that helps define business requirements by encouraging meaningful discussions and collaboration from both technical and non-technical members of the team ensuring that the right features are built and their requirements are met.
+
+Room: Video Room 1
+Scheduled start: 2021-10-08 11:45:00
+Sponsors:
+
+  Gold:
+    SPAN Digital: https://spandigital.com/
+    Takealot: http://takealot.com/
+    Andela: https://www.andela.com/
+
+  Silver:
+    Python Software Foundation: https://www.python.org/psf/membership
+    OfferZen: https://www.offerzen.com/
+
+  Patron:
+    Thinkst Canary: https://canary.tools/
+    Afrolabs: http://www.afrolabs.co.za/",https://i.ytimg.com/vi/MFFZO4LxXXs/maxresdefault.jpg,0,False,True,public,https://www.youtube.com/watch?v=MFFZO4LxXXs,https://www.youtube.com/watch?v=MFFZO4LxXXs
+15,Panel Discussion: Educating Coders,https://www.youtube.com/watch?v=fAN59LnOnM8,fAN59LnOnM8,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20211023,3700,61,5,,,Entertainment,"By: Sheena O'Connell & Panelists (see below)
+
+Event: PyConZA 2021
+URL: https://2021.za.pycon.org/talks/32-panel-discussion-educating-coders/
+
+What does it take to effectively train a coder/developer? Well... it's complicated. There are a lot of opinions out there.
+
+This panel will include a few different voices. We'll have representation from industry, formal education and alt-education.
+
+Participants:
+
+Nhlanhla Lucky Nkosi is a Software Engineer in BBD’s dedicated Research and Development Unit (ATC) whose responsibilities include facilitating learning BBD's staff. He is a technical lecturer at Wits University's Digital Arts department and holds degrees in Engineering and Game Design. Lucky has experience in building and maintaining enterprise banking software with a vast range of technologies from VB6 and C# through to the modern web technologies which lie at the core of his current technical speciality and passion. Lucky hones this love for the web by also being a co-organiser of JoziJS.
+
+Lucky is also incredibly involved in BBD's graduate program. This means he works with grads from formal education as well as alternative systems. He takes junior devs and trains up to BBD's high standards.
+
+Sheena O'Connell is the CTO of Umuzi, a successful NPO that's all about launching high value digital careers. She designs curriculums in order to get people to a point where they can hit the ground running in various technical careers, does a lot of technical mentorship, and builds software and people processes to better facilitate and scale tech learning across Africa.
+
+Tim Flusk is Associate Lecturer in Digital Arts at Wits University. He lecturers second and third years in game design and game development.
+
+He was initially trained in game development and spent several years in the industry, and entered academia in an attempt to contribute to training of young developers and creating of knowledge and research within the media and technology space
+
+Miek Messerschmidt is a Senior Lecturer at The Department of Mathematics and Applied Mathematics at the University of Pretoria. He received a PhD in pure mathematics from Leiden University in The Netherlands in 2013. For a number of years Miek has taught introductory scientific computing using Python to first year science students at the University of Pretoria. With mixed success, he sometimes tries his hand at competitive gaming (ranked 1v1 Planetary Annihilation) and at arts and crafts (stereo photography, pottery, furniture design, bookbinding, crochet).
+
+Room: Video Room 1
+Scheduled start: 2021-10-08 12:30:00
+Sponsors:
+
+  Gold:
+    SPAN Digital: https://spandigital.com/
+    Takealot: http://takealot.com/
+    Andela: https://www.andela.com/
+
+  Silver:
+    Python Software Foundation: https://www.python.org/psf/membership
+    OfferZen: https://www.offerzen.com/
+
+  Patron:
+    Thinkst Canary: https://canary.tools/
+    Afrolabs: http://www.afrolabs.co.za/",https://i.ytimg.com/vi/fAN59LnOnM8/maxresdefault.jpg,0,False,True,public,https://www.youtube.com/watch?v=fAN59LnOnM8,https://www.youtube.com/watch?v=fAN59LnOnM8
+16,"Introducing PIP.Services, a new open-source toolkit for enterprise-level microservice creation",https://www.youtube.com/watch?v=e0izk4yeDy8,e0izk4yeDy8,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20211023,2012,108,4,,,Entertainment,"By: Eugenio Andrieu
+
+Event: PyConZA 2021
+URL: https://2021.za.pycon.org/talks/18-introducing-pipservices-a-new-open-source-toolkit-for-enterprise-level-microservice-creation/
+
+PIP.Services (https://www.pipservices.org/ ) is an open-source toolkit launched to the market by Enterprise Innovation Consulting LLC. This toolkit allows developers to create microservices using a cross-language, cross-platform architecture. It is currently available in six languages (Python, Golang, Node.js, Dart, .NET, and Java), and the idea behind it is to help create production-level long-living code.
+
+This presentation will focus on explaining the main advantages that this toolkit presents, together with its architecture and main components. Then, it will show an example that demonstrates how easy is to create different microservises, and how, once created in one language, they can be easily migrated to other languages.
+
+Room: Video Room 1
+Scheduled start: 2021-10-08 13:45:00
+Sponsors:
+
+  Gold:
+    SPAN Digital: https://spandigital.com/
+    Takealot: http://takealot.com/
+    Andela: https://www.andela.com/
+
+  Silver:
+    Python Software Foundation: https://www.python.org/psf/membership
+    OfferZen: https://www.offerzen.com/
+
+  Patron:
+    Thinkst Canary: https://canary.tools/
+    Afrolabs: http://www.afrolabs.co.za/",https://i.ytimg.com/vi/e0izk4yeDy8/maxresdefault.jpg,0,False,True,public,https://www.youtube.com/watch?v=e0izk4yeDy8,https://www.youtube.com/watch?v=e0izk4yeDy8
+17,Moving in Sync: Self-supervised learning of n-human interactions,https://www.youtube.com/watch?v=tWqnd3J_dqw,tWqnd3J_dqw,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20211023,2013,88,3,,,Entertainment,"By: Sonal Sannigrahi
+
+Event: PyConZA 2021
+URL: https://2021.za.pycon.org/talks/16-moving-in-sync-self-supervised-learning-of-n-human-interactions/
+
+When watching a tv show or movie, we are easily able to detect which interactions are taking place on screen and between whom. However this is not trivial for computers and remains to be a challenging task as it involves both tracking humans as well as learning the semantics of the interaction taking place. This is an important problem in computer vision as solving it would allow for easy annotations of videos (paving way for awesome unsupervised learning!), automated surveillance, and quick content-based video retrieval (just imagine finding a video by describing actions in one go!). Attendees would find the most benefit from this talk if they are interested in computer vision and/or have some prior knowledge of convolutional architectures in machine learning, an additional benefit would be knowledge about action recognition however this is not too important.
+
+In this talk, we introduce a novel self-supervised method (termed ""Sync-3D"") that learns spatio-temporal video embeddings to enable the detection of human interactions. Our work combines the I3D architecture used for action localisation and the siamese SyncNet architecture for video-audio synchronisation, casting the problem of human interaction detection as one of motion synchronisation both spatially and temporally. This talk will cover the motivations behind this architectural choice, our learning framework, a new data sampling strategy for curriculum learning, and lastly, how our architecture compares to others on the downstream task of interaction classification on the challenging TV-HID dataset. We will also be motivating some future research directions and pointing out certain improvements of this system.
+
+Room: Video Room 2
+Scheduled start: 2021-10-08 13:45:00
+Sponsors:
+
+  Gold:
+    SPAN Digital: https://spandigital.com/
+    Takealot: http://takealot.com/
+    Andela: https://www.andela.com/
+
+  Silver:
+    Python Software Foundation: https://www.python.org/psf/membership
+    OfferZen: https://www.offerzen.com/
+
+  Patron:
+    Thinkst Canary: https://canary.tools/
+    Afrolabs: http://www.afrolabs.co.za/",https://i.ytimg.com/vi/tWqnd3J_dqw/maxresdefault.jpg,0,False,True,public,https://www.youtube.com/watch?v=tWqnd3J_dqw,https://www.youtube.com/watch?v=tWqnd3J_dqw
+18,Optimize Your Database Operations with Asynchronous Processing,https://www.youtube.com/watch?v=LMawk5cBSUU,LMawk5cBSUU,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20211023,2382,124,5,,,Entertainment,"By: Radical Rakhman Wahid
+
+Event: PyConZA 2021
+URL: https://2021.za.pycon.org/talks/35-optimize-your-database-operations-with-asynchronous-processing/
+
+The bottleneck of a program can be caused by many reasons like bad data structure/logic/algorithm implementation, network connection, I/O bound operations, processor, etc. Database operations is kind of I/O bound operation which means, when it comes to the DB query program will waiting the result from another separate process. If the bottleneck is from the DB operations then you should try asynchronous processing :)
+
+In Python, asynchronous support first introduced in version 3.4. Now the asynchronous Python is getting better by increasing third party packages. In this talk I'll cover the explanation about asynchronous DB operations in Python and then hands-off to show the results of using the asynchronous code compare with the synchronous one.
+
+Postscript : Since I work day to day using the ORM (like SQLAlchemy) and PostgreSQL is our main DBMS (for product development), so the async in DB ops will be covered with SQLAlchemy and PsycoPG/AsyncPG as well.
+
+Audience:
+
+Anyone who work with database operations (data scientists, back-end engineers, students/researchers, etc.)
+
+What will they get out of it:
+
+- Clear concept and application of asynchronous DB operations that can be applied in production environment, as well.
+- A modern way to optimize query DB time with a minimum resource.
+
+Room: Video Room 1
+Scheduled start: 2021-10-08 14:30:00
+Sponsors:
+
+  Gold:
+    SPAN Digital: https://spandigital.com/
+    Takealot: http://takealot.com/
+    Andela: https://www.andela.com/
+
+  Silver:
+    Python Software Foundation: https://www.python.org/psf/membership
+    OfferZen: https://www.offerzen.com/
+
+  Patron:
+    Thinkst Canary: https://canary.tools/
+    Afrolabs: http://www.afrolabs.co.za/",https://i.ytimg.com/vi/LMawk5cBSUU/maxresdefault.jpg,0,False,True,public,https://www.youtube.com/watch?v=LMawk5cBSUU,https://www.youtube.com/watch?v=LMawk5cBSUU
+19,Machine Learning Lifecycle Made Easy with MLflow,https://www.youtube.com/watch?v=nZ0QB2hXALs,nZ0QB2hXALs,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20211023,2721,267,9,,,Entertainment,"By: Kalyan Munjuluri & Karishma Babbar
+
+Event: PyConZA 2021
+URL: https://2021.za.pycon.org/talks/23-machine-learning-lifecycle-made-easy-with-mlflow/
+
+ABSTRACT
+
+Beyond the usual concerns in software development, machine learning development comes with additional challenges. These include trying multiple algorithms and parameters to get the best results, tracking these runs for reproducibility, and moving the model to diverse deployment environments. This talk demonstrates the use of an open-source platform called MLflow for managing the complete machine learning lifecycle with Python. The talk requires a basic understanding of Python and Machine Learning concepts.
+
+DESCRIPTION
+
+In theory, the crux of machine learning (ML) development lies with data collection, model creation, model training, and deployment. In reality, machine learning projects are not so straightforward. They are a cycle iterating between improving the data, model, and evaluation that is never really finished. Unlike in traditional software development, ML developers experiment with multiple algorithms, tools, and parameters to optimize performance, and they need to track these experiments to reproduce work. Furthermore, developers need to use many distinct systems to productionize models.
+
+In this talk, we introduce MLflow, an open-source platform that aims at simplifying the entire ML lifecycle where we can use any ML library and development tool of our choice to reliably build and share ML applications. MLflow offers simple abstractions through lightweight APIs to package reproducible projects, track results, and encapsulate models that are compatible with existing tools, thereby, accelerating ML lifecycle of any size.
+
+With the help of an example, we will show how using MLflow can ease bookkeeping of experiment runs and results across frameworks, quickly reproducing runs on any platform (cloud or local execution), and productionizing models on diverse deployment tools.
+
+At the end of this talk, you will be familiar with –
+
+Key concepts, abstractions, and components of open-source MLflow
+How each component of MLflow addresses challenges of ML lifecycle
+How to use MLflow Tracking during model training to record experimental runs
+How to use MLflow Tracking User Interface to visualize experimental runs with different tuning parameters and evaluation metrics
+How to use MLflow Projects for packaging reusable and reproducible models
+How to use MLflow Models general format to serve models using MLflow REST API
+The purpose of the session is to introduce the audience to MLflow and give a taste of the ML development lifecycle. It is intended at providing a breadth than depth survey of MLflow platform, and we leave the audience to experiment with it further through takeaway exercises.
+
+PRE-REQUISITES
+
+Basic knowledge of Python programming language
+Basic understanding of machine learning concepts
+TRACK
+
+Data Science in Production, Machine Learning, Data Engineering or MLOps
+
+Room: Video Room 2
+Scheduled start: 2021-10-08 14:30:00
+Sponsors:
+
+  Gold:
+    SPAN Digital: https://spandigital.com/
+    Takealot: http://takealot.com/
+    Andela: https://www.andela.com/
+
+  Silver:
+    Python Software Foundation: https://www.python.org/psf/membership
+    OfferZen: https://www.offerzen.com/
+
+  Patron:
+    Thinkst Canary: https://canary.tools/
+    Afrolabs: http://www.afrolabs.co.za/",https://i.ytimg.com/vi/nZ0QB2hXALs/maxresdefault.jpg,0,False,True,public,https://www.youtube.com/watch?v=nZ0QB2hXALs,https://www.youtube.com/watch?v=nZ0QB2hXALs
+20,The Future of Work,https://www.youtube.com/watch?v=WFBrvlE588A,WFBrvlE588A,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20211023,313,80,0,,,Science & Technology,"By: Agnes Muthoni
+
+Event: PyConZA 2021
+URL: https://2021.za.pycon.org/talks/41-the-future-of-work/
+
+The way the world works is changing and Andela’s vision of the future of work from when we were founded is becoming a more obvious reality.
+
+Sponsor talk by Andela.
+
+Room: Video Room 1
+Scheduled start: 2021-10-08 15:15:00
+Sponsors:
+
+  Gold:
+    Andela: https://www.andela.com/",https://i.ytimg.com/vi/WFBrvlE588A/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=WFBrvlE588A,https://www.youtube.com/watch?v=WFBrvlE588A
+21,Building a self-watering plant using Micropython on a WiFi-enabled Arduino ESP8266,https://www.youtube.com/watch?v=_iBocbMduq0,_iBocbMduq0,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20211023,2661,269,1,,,Science & Technology,"By: Anele Makhaba & Mpho Mphego
+
+Event: PyConZA 2021
+URL: https://2021.za.pycon.org/talks/14-building-a-self-watering-plant-using-micropython-on-a-wifi-enabled-arduino-esp8266/
+
+Having attended a make event earlier this year run by OfferZen and Investec, in the event we built a self-watering plant using a WiFi-enabled Arduino ESP8266. The code and implementation were all in C and myself being accustomed to Python. I decided to migrate the Arduino project into MicroPython.
+
+This is a basic introduction to working with microcontrollers in Python.
+
+The automatic plant watering system runs on a WiFi-enabled Arduino ESP8266 running uPython, a capacitive soil moisture sensor reads the moisture content in the soil and uploads the data to ubidots which is a data collection, analysis, and visualization tool. A Slack message is sent to a specific channel when soil moisture reaches a threshold and a water pump notification is sent. The system operates 24/7.
+
+Every 15 minutes it checks sensors in the following order and acts based on this:
+
+- Soil Humidity sensors. If soil humidity is lower than 70% in a plant pot
+- the system activates a water pump for 3 seconds and,
+- Sends a slack notification
+- Upload data to ubidots.
+
+Room: Video Room 1
+Scheduled start: 2021-10-08 15:45:00
+Sponsors:
+
+  Gold:
+    SPAN Digital: https://spandigital.com/
+    Takealot: http://takealot.com/
+    Andela: https://www.andela.com/
+
+  Silver:
+    Python Software Foundation: https://www.python.org/psf/membership
+    OfferZen: https://www.offerzen.com/
+
+  Patron:
+    Thinkst Canary: https://canary.tools/
+    Afrolabs: http://www.afrolabs.co.za/",https://i.ytimg.com/vi_webp/_iBocbMduq0/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=_iBocbMduq0,https://www.youtube.com/watch?v=_iBocbMduq0
+22,Neural Prophet – A powerful AI framework for Time Series Models,https://www.youtube.com/watch?v=18uydaI3Z08,18uydaI3Z08,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20211023,2481,1808,21,,,Entertainment,"By: Kalyan Prasad
+
+Event: PyConZA 2021
+URL: https://2021.za.pycon.org/talks/42-neural-prophet-a-powerful-ai-framework-for-time-series-models/
+
+Neural Prophet, a new framework that extends on the original prophet framework, addresses pain points such as scale, customization and extensibility.it incorporates traditional statistical and neural network models for time series modeling, used in forecasting and anomaly detection. This is heavily inspired by Prophet, which is the popular forecasting tool developed by Facebook.
+
+The best thing is you can get started easily using Neural Prophet. Neural Prophet is a relatively new library that uses Facebooks Prophet time series forecasting package and a Pytorch AR-Net model to produce highly accurate time series forecasts quickly. This is heavily inspired by Prophet, which is the popular forecasting tool developed by Facebook. This framework is a decomposable time series model with the components, trend, seasonality, auto-regression, special events, future regressors and lagged regressors
+
+In this talk we are going to cover the following points:
+
+  * Quick intro about Time Series  
+  * What is Neural Prophet?
+  * Difference between Neural Prophet vs Prophet
+  * Why we need Neural Prophet?
+  * Hands on Case study (From analysis to generating forecast Models)
+  * Future opportunities with NP
+
+By the end of the talk, I will make sure, one should be able to understand this powerful framework, its usage, and benefits.
+Room: Video Room 2
+Scheduled start: 2021-10-08 15:45:00
+Sponsors:
+
+  Gold:
+    SPAN Digital: https://spandigital.com/
+    Takealot: http://takealot.com/
+    Andela: https://www.andela.com/
+
+  Silver:
+    Python Software Foundation: https://www.python.org/psf/membership
+    OfferZen: https://www.offerzen.com/
+
+  Patron:
+    Thinkst Canary: https://canary.tools/
+    Afrolabs: http://www.afrolabs.co.za/",https://i.ytimg.com/vi/18uydaI3Z08/maxresdefault.jpg,0,False,True,public,https://www.youtube.com/watch?v=18uydaI3Z08,https://www.youtube.com/watch?v=18uydaI3Z08
+23,Fishfingers and Custard: An OpenStack and K8s Story,https://www.youtube.com/watch?v=v3cbX2C4fdc,v3cbX2C4fdc,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20211023,2051,593,10,,,Entertainment,"By: Kendall Nelson
+
+Event: PyConZA 2021
+URL: https://2021.za.pycon.org/talks/27-fishfingers-and-custard-an-openstack-and-k8s-story/
+
+OpenStack and k8s are often pitted against one another as if they are incompatible and you have to choose between them which simply isn’t true. Not only that, there are numerous use cases where operators run Kubernetes on top of OpenStack, they run Kubernetes supplemented with OpenStack services, or they run a containerized OpenStack. In this talk, attendees will learn about how companies can and ARE using Kubernetes WITH OpenStack. Viewers will walk away with a better understanding of the configurations possible and that Kubernetes and OpenStack go together like fishfingers and custard- if you like Doctor Who references- or cookies and milk if you prefer :)
+
+Open Source projects like Kubernetes and OpenStack are successful and popular because they are open and compatible with other technologies. Open Source projects like OpenStack help supplement and provide underlying infrastructure to Kubernetes much to everyone’s surprise. Kubernetes isn’t a complete replacement for OpenStack like everyone seemed to think it was. Not only that, there are many companies that use the two technologies together in production and at scale. This talk will present several ways in which Kubernetes and OpenStack work together.
+
+Room: Video Room 2
+Scheduled start: 2021-10-08 16:30:00
+Sponsors:
+
+  Gold:
+    SPAN Digital: https://spandigital.com/
+    Takealot: http://takealot.com/
+    Andela: https://www.andela.com/
+
+  Silver:
+    Python Software Foundation: https://www.python.org/psf/membership
+    OfferZen: https://www.offerzen.com/
+
+  Patron:
+    Thinkst Canary: https://canary.tools/
+    Afrolabs: http://www.afrolabs.co.za/",https://i.ytimg.com/vi/v3cbX2C4fdc/maxresdefault.jpg,0,False,True,public,https://www.youtube.com/watch?v=v3cbX2C4fdc,https://www.youtube.com/watch?v=v3cbX2C4fdc
+24,Getting to Intermediate,https://www.youtube.com/watch?v=GMzgvpNyUL0,GMzgvpNyUL0,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20211023,2446,164,6,,,Entertainment,"By: John Ouellette
+
+Event: PyConZA 2021
+URL: https://2021.za.pycon.org/talks/20-getting-to-intermediate/
+
+Hello. My intended talk will be about pursuing an intermediate skill level with Python.
+
+My audience will be beginner pythonistas. They will leave feeling that an intermediate level of python does not have to be an obscure/secretive journey and will be excited to continue their Python journey.
+
+The talk is born out my attempt to broaden and deepening my Python skills a few years ago and wondering why there were really almost no intermediate Python books at all.
+
+i.e I am not 'a developer' but as a SysAdmin/scripter I created a minimally viable website powered by Flask/Python/Mongo on AWS to scratch my own itches, so if I can do it, you can too!
+
+I will cover ways to think about learning:
+
+- What does it mean to get to intermediate -- Mindset
+- Source of inspiration -- The learner will need a 'why'. Why pursue this goal?
+- Academic concepts -- Concepts needed to have fluency at an intermediate level.
+- Work product -- Things to think about when working with others
+- My project -- Breaking down how my project evolved
+- Resources -- Selected books/online resources that were not boring.
+
+Room: Video Room 1
+Scheduled start: 2021-10-08 16:30:00
+Sponsors:
+
+  Gold:
+    SPAN Digital: https://spandigital.com/
+    Takealot: http://takealot.com/
+    Andela: https://www.andela.com/
+
+  Silver:
+    Python Software Foundation: https://www.python.org/psf/membership
+    OfferZen: https://www.offerzen.com/
+
+  Patron:
+    Thinkst Canary: https://canary.tools/
+    Afrolabs: http://www.afrolabs.co.za/",https://i.ytimg.com/vi/GMzgvpNyUL0/maxresdefault.jpg,0,False,True,public,https://www.youtube.com/watch?v=GMzgvpNyUL0,https://www.youtube.com/watch?v=GMzgvpNyUL0
+25,PyCon ZA 2021: Friday Lightning Talks,https://www.youtube.com/watch?v=WQe6UJeChgM,WQe6UJeChgM,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20211023,2004,85,3,,,Entertainment,"Event: PyConZA 2021
+URL: https://2021.za.pycon.org/talks/lightning-talks/
+
+The Friday lightning Talk session, which replaced the closing keynote after the speaker had to pull out on short notice.
+
+* Bruce Merry: ""Infinitely fast event loops""
+* Lance Williams: ""The Fun and Interesting Challenges of Controlling and Monitoring a Radio Telescope""
+* Kim van Wyk: ""HTMX - AJAXy stuff for little effort""
+* Dirk Uys: ""Visualizing the Multiverse""
+* David Sharpe: ""How (not) to make a physics engine in Python""
+* Sheena O'Connell: ""A few tricks for overcoming impostor syndrome""
+
+Room: Video Room 1
+Scheduled start: 2021-10-07 17:25:00
+Sponsors:
+
+  Gold:
+    SPAN Digital: https://spandigital.com/
+    Takealot: http://takealot.com/
+    Andela: https://www.andela.com/
+
+  Silver:
+    Python Software Foundation: https://www.python.org/psf/membership
+    OfferZen: https://www.offerzen.com/
+
+  Patron:
+    Thinkst Canary: https://canary.tools/
+    Afrolabs: http://www.afrolabs.co.za/",https://i.ytimg.com/vi/WQe6UJeChgM/maxresdefault.jpg,0,False,True,public,https://www.youtube.com/watch?v=WQe6UJeChgM,https://www.youtube.com/watch?v=WQe6UJeChgM
+26,PyConZA 2021: Closing,https://www.youtube.com/watch?v=kvrxYupLVSs,kvrxYupLVSs,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20211023,776,32,2,,,Entertainment,"By: Kim van Wyk & Sheena O'Connell
+
+Event: PyConZA 2021
+URL: https://2021.za.pycon.org/news/closing/
+
+The official wrap up of the conference.
+
+Room: Video Room 1
+Scheduled start: 2021-10-08 18:15:00
+Sponsors:
+
+  Gold:
+    SPAN Digital: https://spandigital.com/
+    Takealot: http://takealot.com/
+    Andela: https://www.andela.com/
+
+  Silver:
+    Python Software Foundation: https://www.python.org/psf/membership
+    OfferZen: https://www.offerzen.com/
+
+  Patron:
+    Thinkst Canary: https://canary.tools/
+    Afrolabs: http://www.afrolabs.co.za/",https://i.ytimg.com/vi/kvrxYupLVSs/maxresdefault.jpg,0,False,True,public,https://www.youtube.com/watch?v=kvrxYupLVSs,https://www.youtube.com/watch?v=kvrxYupLVSs

@@ -1,0 +1,539 @@
+[
+    {
+        "index": 1,
+        "title": "PyConZA 2020 Opening Ceremony",
+        "url": "https://www.youtube.com/watch?v=fFr-7W6k5mw",
+        "video_id": "fFr-7W6k5mw",
+        "uploader": "PyCon South Africa",
+        "uploader_id": "@pyconza",
+        "uploader_url": "https://www.youtube.com/@pyconza",
+        "upload_date": "20201021",
+        "duration": 975,
+        "view_count": 149,
+        "like_count": 0,
+        "comment_count": null,
+        "tags": [
+            "PyConZA",
+            "PyConZA2020",
+            "Python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "by Whitney Tennant and Simon Cross\nAt: PyConZA 2020\nhttps://2020.za.pycon.org/opening/\nRoom: Video Room 1\nScheduled start: 2020-10-08 12:00:00",
+        "thumbnail": "https://i.ytimg.com/vi_webp/fFr-7W6k5mw/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=fFr-7W6k5mw",
+        "original_url": "https://www.youtube.com/watch?v=fFr-7W6k5mw"
+    },
+    {
+        "index": 2,
+        "title": "Beginning an open source journey - how we used Python to survive as a code school and help others",
+        "url": "https://www.youtube.com/watch?v=J1Eb_oMLVYE",
+        "video_id": "J1Eb_oMLVYE",
+        "uploader": "PyCon South Africa",
+        "uploader_id": "@pyconza",
+        "uploader_url": "https://www.youtube.com/@pyconza",
+        "upload_date": "20201102",
+        "duration": 3646,
+        "view_count": 119,
+        "like_count": 2,
+        "comment_count": null,
+        "tags": [
+            "PyConZA",
+            "PyConZA2020",
+            "Python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "by Sheena O'Connell\n\nAt: PyConZA 2020\n https://2020.za.pycon.org/talks/6-beginning-an-open-source-journey-how-we-used-python-to-survive-as-a-code-school-and-help-other-code-schools/\n\nUmuzi is an NGO dedicated to finding high potential youth, teaching them mad skillz, and placing them in good jobs. When the COVID hit the fan (wow, what a scary thought) we had to react quickly. Our training was orignally done in person, we had about 250 students sharing an office and kitchen, and our breakout rooms were cosy to say the least. \n\nWhen COVID landed in SA we acted quickly to get our students set up to work remotely. Simple things like checking attendance, runnning workshops, and making sure people's learning needs were met became non-trivial. What we needed was a learner managment system, but nothing out there fitted our needs.\n\nAnd so we built. \n\nOf course we built in Python, by leveraging well established tools like Django, DRF and Airflow we managed to do more than just stay afloat. We built a self-driven, collaboarative and agile to the core learning platform that helps our students stay on track, and learn like real dev-teams work. Our sweet-like-candy syllabus-as-code approach to course design let us unlock all sorts of efficiencies - and all the goodness of git of course.\n\nAnd it turns out we aren't unique in our needs. And so the African Coding Network was born.\n\nBasically, we want to help as many people as possible so we opened the flood gates. Our tooling and syllabus is now 100% open source, and we are actively working to recruit entire code schools across Africa to join our network. We want to let as many people as possible leverage our tools and hard won learnings. \n\nWe already have students from as far afield as Nigeria working through our courses and interacting with our local students. We've also managed to use the platform to run an end-to-end learner selection bootcamp in order to find geeklings worth investing in. We won the most scalable solutiuon prize in Ashoka Skills Innovation Challenge. And we have a growing list of schools ready to get onboard.\n\nIn this talk I'll share some tails from the trenches, and a few of our plans. \n\nAnd yes, we teach Python too ;)\n\nRoom: Video Room 1\nScheduled start: 2020-10-08 12:25:00",
+        "thumbnail": "https://i.ytimg.com/vi_webp/J1Eb_oMLVYE/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=J1Eb_oMLVYE",
+        "original_url": "https://www.youtube.com/watch?v=J1Eb_oMLVYE"
+    },
+    {
+        "index": 3,
+        "title": "Controlling your Angr : Techniques for improving Symbolic Execution with the Angr framework",
+        "url": "https://www.youtube.com/watch?v=4yPmdJj18to",
+        "video_id": "4yPmdJj18to",
+        "uploader": "PyCon South Africa",
+        "uploader_id": "@pyconza",
+        "uploader_url": "https://www.youtube.com/@pyconza",
+        "upload_date": "20201021",
+        "duration": 2755,
+        "view_count": 2493,
+        "like_count": 36,
+        "comment_count": null,
+        "tags": [
+            "PyConZA",
+            "PyConZA2020",
+            "Python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "by Keith Makan\n\nAt: PyConZA 2020\nhttps://2020.za.pycon.org/talks/18-controlling-your-angr-techniques-for-improving-symbolic-execution-with-the-angr-framework/\n\nAngr is a python framework for analyzing binary programs that comes jam packed with the power of symbolic execution. Angr can automate sophisticated reasoning about programs and facilitate creation of cutting edge symbolic execution strategies. Although some tricks and tips are required to ensure practical application doesn't get bogged down by state explosion and other spins offs of the halting problem. This talk is for anyone who would like an introduction to symbolic execution, learn a powerful tool for automating tasks related to reverse engineering, exploit development and vulnerability discovery and get to know Angr a little better. The presenter will walk through some basic symbolic execution concepts, discuss the internals of Angr and guide listeners through how to design state exploration strategies to make practical applications and analysis written in Angr work. \n\nTalk breakdown:\n❮ul❯\n    ❮li❯❮strong❯What is symbolic execution? (5 mins):❮/strong❯ Walk through a basic introduction to the concepts, why symbolic execution is cool and what kinds of problems we can solve with it.❮/li❯\n    ❮li❯❮strong❯What is Angr? How does it work? (5-10 mins): ❮/strong❯ Crash course in the components that make up Angr, how they work together and a demonstration of a simple CTF example with the framework.❮/li❯\n    ❮li❯❮strong❯How do I build a state exploration strategy? (10-15 mins): ❮/strong❯ Walk through of the built in state exploration algorithms that come with Angr, what makes them awesome and how to build one of your own to adapt to the binaries you analyze and reverse engineer.❮/li❯\n    ❮li❯❮strong❯Closing and other ideas (3-5 mins): ❮/strong❯ Summary of the discussion and mention of other things to explore with the framework.❮/li❯\n❮/ul❯\n\n❮strong❯Total running time❮/strong❯: ~30-35 mins❮/br❯\nMore about Angr at ❮a href=\"http://angr.io\"❯https://angr.io/❮/a❯.\n\nRoom: Video Room 1\nScheduled start: 2020-10-08 13:40:00",
+        "thumbnail": "https://i.ytimg.com/vi_webp/4yPmdJj18to/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=4yPmdJj18to",
+        "original_url": "https://www.youtube.com/watch?v=4yPmdJj18to"
+    },
+    {
+        "index": 4,
+        "title": "Laying some of the foundations so your fellow developers can start on the ground floor",
+        "url": "https://www.youtube.com/watch?v=l8WmOM5Pukc",
+        "video_id": "l8WmOM5Pukc",
+        "uploader": "PyCon South Africa",
+        "uploader_id": "@pyconza",
+        "uploader_url": "https://www.youtube.com/@pyconza",
+        "upload_date": "20201021",
+        "duration": 2739,
+        "view_count": 59,
+        "like_count": 0,
+        "comment_count": null,
+        "tags": [
+            "PyConZA",
+            "PyConZA2020",
+            "Python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "by Kim van Wyk\n\nAt: PyConZA 2020\nhttps://2020.za.pycon.org/talks/17-laying-some-of-the-foundations-so-your-fellow-developers-can-start-on-the-ground-floor/\n\nOne of the more significant aspects of DevOps work can be to make it as easy as possible for the rest of the company's developers to write programs and tools the business needs. This talk will explore some options to provide project templates, build tooling and additional infrastructure to enable other teams to rapidly develop programs in Python and other languages.\n\nThe talk includes:\n\n* Code and project templates to enable a project to hit the ground running as fast as possible and remain consistent with the rest of the company's code\n* Version control and build tooling integration to avoid repetitive setup for new projects\n* Creating and hosting in-house Python packages to provide company-specific or commonly-required utilities for new projects\n* Infrastructure integration so new tools and projects automatically play nicely with the company's systems\n\nThe talk will also explore some open-source tools that can assist with this kind of work:\n\n* [Cookiecutter](https://cookiecutter.readthedocs.io/) to take a bit of user input and generate a set of project files and directories\n* [Poetry](https://python-poetry.org/) for managing isolated virtual environments, package dependencies and package building and publishing\n* [etcd](https://etcd.io/) to track configuration across more than one build environment, such as local development and building through a Continuous Integration tool\n* [Gitlab](http://gitlab.com/) to provide Continuous Integration for automated package and Docker container building in a consistent way across projects\n\nThis aspect of DevOps work has been tackled many times in many ways - this talk is intended to provide some insight into one way to do some of these tasks, not to attempt to claim how best to do so.\n\nRoom: Video Room 1\nScheduled start: 2020-10-08 14:45:00",
+        "thumbnail": "https://i.ytimg.com/vi_webp/l8WmOM5Pukc/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=l8WmOM5Pukc",
+        "original_url": "https://www.youtube.com/watch?v=l8WmOM5Pukc"
+    },
+    {
+        "index": 5,
+        "title": "Threads vs Async: Has Asyncio Solved Concurrency?",
+        "url": "https://www.youtube.com/watch?v=NZq31Sg8R9E",
+        "video_id": "NZq31Sg8R9E",
+        "uploader": "PyCon South Africa",
+        "uploader_id": "@pyconza",
+        "uploader_url": "https://www.youtube.com/@pyconza",
+        "upload_date": "20201021",
+        "duration": 2068,
+        "view_count": 6772,
+        "like_count": 122,
+        "comment_count": null,
+        "tags": [
+            "PyConZA",
+            "PyConZA2020",
+            "Python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "by Jacob Unna\n\nAt: PyConZA 2020\nhttps://2020.za.pycon.org/talks/13-threads-vs-async-has-asyncio-solved-concurrency/\n\nIn recent years [asyncio](https://docs.python.org/3/library/asyncio.html) has garnered much attention as a faster and easier alternative to threads. So do threads still have a place in the world? And what of other concurrency tech such as [greenlets](https://greenlet.readthedocs.io/en/latest/)?\n\nThe fundamental problem solved by both async frameworks and threads is one of _scheduling_. This talk will put aside nitty gritty implementation details and go back to basics, examining how a _cooperative scheduler_ (used by async frameworks) differs from a _preemptive scheduler_ (used by threads). This basic understanding will clarify what is often considered a tricky subject and shed light on the pros and cons of each approach.\n\nWe will also see that even having decided on the async model, asyncio is not the only tool available. We will explore the pros and cons of  [greenlets](https://greenlet.readthedocs.io/en/latest/), [curio](https://curio.readthedocs.io/en/latest/) and [trio](https://trio.readthedocs.io/en/stable/) as alternatives to the standard library's solution.\n\nThis talk is suitable for all levels from beginner to expert. The format will be simple and intuitive, with basic live examples of how to use threads and asyncio to do everyday tasks. You will come away not with an encyclopaedic knowledge of a specific toolchain, but with a deeper appreciation of the core concepts that power concurrency.\n\nRoom: Video Room 2\nScheduled start: 2020-10-08 14:45:00",
+        "thumbnail": "https://i.ytimg.com/vi_webp/NZq31Sg8R9E/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=NZq31Sg8R9E",
+        "original_url": "https://www.youtube.com/watch?v=NZq31Sg8R9E"
+    },
+    {
+        "index": 6,
+        "title": "Bytes of Pi",
+        "url": "https://www.youtube.com/watch?v=RvLdHUnpzEk",
+        "video_id": "RvLdHUnpzEk",
+        "uploader": "PyCon South Africa",
+        "uploader_id": "@pyconza",
+        "uploader_url": "https://www.youtube.com/@pyconza",
+        "upload_date": "20201021",
+        "duration": 2273,
+        "view_count": 112,
+        "like_count": 1,
+        "comment_count": null,
+        "tags": [
+            "PyConZA",
+            "PyConZA2020",
+            "Python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "by David Fraser\n\nAt: PyConZA 2020\nhttps://2020.za.pycon.org/talks/26-bytes-of-pi/\n\nThis is a talk on how to calculate Pi. It was originally done for bright high school maths students - so it is also an example of an approach to interesting such students in a programming career. It includes a brief tour of the algorithm development behind calculating Pi to many decimal places, and an example of making a functioning web page that does this. And a mug. All with an iPython notebook to illustrate things along the way.\n\nRoom: Video Room 1\nScheduled start: 2020-10-08 15:45:00",
+        "thumbnail": "https://i.ytimg.com/vi_webp/RvLdHUnpzEk/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=RvLdHUnpzEk",
+        "original_url": "https://www.youtube.com/watch?v=RvLdHUnpzEk"
+    },
+    {
+        "index": 7,
+        "title": "High-bandwidth HTTP downloads: unpeeling the onion",
+        "url": "https://www.youtube.com/watch?v=UDR4vepCJ9Y",
+        "video_id": "UDR4vepCJ9Y",
+        "uploader": "PyCon South Africa",
+        "uploader_id": "@pyconza",
+        "uploader_url": "https://www.youtube.com/@pyconza",
+        "upload_date": "20201021",
+        "duration": 2162,
+        "view_count": 49,
+        "like_count": 0,
+        "comment_count": null,
+        "tags": [
+            "PyConZA",
+            "PyConZA2020",
+            "Python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "by Bruce Merry\n\nAt: PyConZA 2020\nhttps://2020.za.pycon.org/talks/2-high-bandwidth-http-downloads-unpeeling-the-onion/\n\nThe MeerKAT radio telescope produces massive volumes of data. We provide a data access library for scientists to retrieve the data, but our initial implementation using boto had disappointing performance when used on a high-speed (25 Gb/s) network. On investigation, we found that boto wraps requests wraps urllib3 wraps http.client, and these wrapping layers introduce a lot of overheads that limit bandwidth. I'll walk through all the steps involved in getting data from the socket into a final response, show how this reduces throughput, and describe our solution to achieve bandwidths of multiple gigabytes per second.\n\nRoom: Video Room 2\nScheduled start: 2020-10-08 15:45:00",
+        "thumbnail": "https://i.ytimg.com/vi_webp/UDR4vepCJ9Y/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=UDR4vepCJ9Y",
+        "original_url": "https://www.youtube.com/watch?v=UDR4vepCJ9Y"
+    },
+    {
+        "index": 8,
+        "title": "PyCon ZA 2020: Welcome to Day 2",
+        "url": "https://www.youtube.com/watch?v=_-Vz7WUcHPM",
+        "video_id": "_-Vz7WUcHPM",
+        "uploader": "PyCon South Africa",
+        "uploader_id": "@pyconza",
+        "uploader_url": "https://www.youtube.com/@pyconza",
+        "upload_date": "20201102",
+        "duration": 274,
+        "view_count": 67,
+        "like_count": 0,
+        "comment_count": null,
+        "tags": [
+            "PyConZA",
+            "PyConZA2020",
+            "Python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "by Whitney Tennant and Simon Cross\nAt: PyConZA 2020\nhttps://2020.za.pycon.org/day-2-welcome/\nRoom: Video Room 1\nScheduled start: 2020-10-09 12:00:00",
+        "thumbnail": "https://i.ytimg.com/vi_webp/_-Vz7WUcHPM/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=_-Vz7WUcHPM",
+        "original_url": "https://www.youtube.com/watch?v=_-Vz7WUcHPM"
+    },
+    {
+        "index": 9,
+        "title": "Trio: Structured Concurrency for Python",
+        "url": "https://www.youtube.com/watch?v=y408pjAoxes",
+        "video_id": "y408pjAoxes",
+        "uploader": "PyCon South Africa",
+        "uploader_id": "@pyconza",
+        "uploader_url": "https://www.youtube.com/@pyconza",
+        "upload_date": "20201102",
+        "duration": 2699,
+        "view_count": 830,
+        "like_count": 12,
+        "comment_count": null,
+        "tags": [
+            "PyConZA",
+            "PyConZA2020",
+            "Python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "by Jeremy Thurgood\n\nAt: PyConZA 2020\nhttps://2020.za.pycon.org/talks/23-trio-structured-concurrency-for-python/\n\nConcurrency has a reputation for being complicated and hard to get right, even\nin Python. Fortunately, by using the \"structured concurrency\" programming\nmodel, it's possible to avoid many of the pitfalls inherent in more traditional\nthread-based and callback-based models.\n\n[Trio](https://trio.readthedocs.io/) is an async I/O framework that brings the\nbenefits of structured concurrency to Python. Built from the ground up to use\nasync/await natively, Trio makes it possible to write async software that is\nrobust and easy to reason about.\n\nIn this talk I'll explain how Trio differs from its predecessors (such as\nTwisted and asyncio), show that it leads to simpler code with fewer bugs, and\nhopefully convince you to give it try.\n\nRoom: Video Room 1\nScheduled start: 2020-10-09 12:15:00",
+        "thumbnail": "https://i.ytimg.com/vi_webp/y408pjAoxes/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=y408pjAoxes",
+        "original_url": "https://www.youtube.com/watch?v=y408pjAoxes"
+    },
+    {
+        "index": 10,
+        "title": "A month in the life of people who sprinkle tech - WebFlow, Django, and Users",
+        "url": "https://www.youtube.com/watch?v=iIvc7Nk39no",
+        "video_id": "iIvc7Nk39no",
+        "uploader": "PyCon South Africa",
+        "uploader_id": "@pyconza",
+        "uploader_url": "https://www.youtube.com/@pyconza",
+        "upload_date": "20201102",
+        "duration": 2673,
+        "view_count": 691,
+        "like_count": 20,
+        "comment_count": null,
+        "tags": [
+            "PyConZA",
+            "PyConZA2020",
+            "Python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "by JD Bothma\n\nAt: PyConZA 2020\nhttps://2020.za.pycon.org/talks/25-a-month-in-the-life-of-people-who-sprinkle-tech-webflow-django-and-users/\n\nIn this talk I would like to share a couple of approaches and tools we at OpenUp use in our mission of empowering people and government through data, technology and innovative-thinking.\n\nUser-centered design is key to the technology and innovative thinking we offer this space. Implementing it in practice can be very challenging.\n\nTo minimise the gap between design and implementation on tiny budgets, we build frontends using WebFlow (a modern site-builder) and integrate that with (usually django-based) backends to help users get right to the story in the data. I will demonstrate our approaches for making this work sustainably on a range of projects.\n\nWe find it essential that project lead developers are able to help partners, clients, and the project designer connect the available data, where technology can offer help, and what users actually need. I would like to share what we believe is an accessible illustration of a process of exploring user needs and the opportunities to address them that ties directly into agile development. This has helped get everyone on the same page and facilitated these discussions.\n\nWe would love for others to use these approaches and tools where it might help them\n\nRoom: Video Room 2\nScheduled start: 2020-10-09 12:15:00",
+        "thumbnail": "https://i.ytimg.com/vi_webp/iIvc7Nk39no/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=iIvc7Nk39no",
+        "original_url": "https://www.youtube.com/watch?v=iIvc7Nk39no"
+    },
+    {
+        "index": 11,
+        "title": "Dolosse: Distributed Physics Data Acquisition System",
+        "url": "https://www.youtube.com/watch?v=rchlPFCpexk",
+        "video_id": "rchlPFCpexk",
+        "uploader": "PyCon South Africa",
+        "uploader_id": "@pyconza",
+        "uploader_url": "https://www.youtube.com/@pyconza",
+        "upload_date": "20201102",
+        "duration": 2070,
+        "view_count": 113,
+        "like_count": 2,
+        "comment_count": null,
+        "tags": [
+            "PyConZA",
+            "PyConZA2020",
+            "Python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "by Sehlabaka Qhobosheane\nby Bertram Losper\n\nAt: PyConZA 2020\nhttps://2020.za.pycon.org/talks/12-dolosse-distributed-physics-data-acquisition-system/\n\nIn this talk we will introduce key concepts and techniques of triggering and nuclear physics data acquisition. We will then discuss the development of a new distributed data acquisition software system developed for the subatomic and materials research experimental facilities at iThemba LABS, using python and open source streaming tools.\n\nThe discussion will show how we use Apache kafka to modernise our DAQ systems. Apache Kafka is a distributed messaging system which we use to build a DAQ system that has a multi-producer, multi-consumer model. This discussion will focus on how we use kafka to configure experimental runs, monitor and control the run and the data acquisition of real-time physics events.\n\nWe ingest time-series scientific data from dedicated spectroscopy hardware modules, filtering to determine if we have event coincidence between these different modules, build an interesting physics event from this data and exposing it for easy analysis and visualisation through the python ecosystem. By using kafka the need for heavy processing servers/PC’s are eliminated.\n\niThemba Laboratory for Accelerator-Based Sciences (LABS) is a national infrastructure platform of the National Research Foundation (NRF) specialising in particle accelerator-based sciences and engineering, with offices in Cape Town and Johannesburg. It has a number of particle accelerators used for basic research in material sciences, subatomic physics as well as production of radio-pharmaceuticals for local and international markets\n\nRoom: Video Room 1\nScheduled start: 2020-10-09 13:15:00",
+        "thumbnail": "https://i.ytimg.com/vi_webp/rchlPFCpexk/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=rchlPFCpexk",
+        "original_url": "https://www.youtube.com/watch?v=rchlPFCpexk"
+    },
+    {
+        "index": 12,
+        "title": "Building a Serverless Computation Environment with Python",
+        "url": "https://www.youtube.com/watch?v=hAo_Jd0Vrj8",
+        "video_id": "hAo_Jd0Vrj8",
+        "uploader": "PyCon South Africa",
+        "uploader_id": "@pyconza",
+        "uploader_url": "https://www.youtube.com/@pyconza",
+        "upload_date": "20201104",
+        "duration": 2054,
+        "view_count": 107,
+        "like_count": 3,
+        "comment_count": null,
+        "tags": [
+            "PyConZA",
+            "PyConZA2020",
+            "Python",
+            "yt:cc"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "Because of networking issues during the talk, the audio is choppy.  Ric da Silva kindly provided a transcript of the talk, so we suggest watching this with subtiles enabled.\n\nby Ric da Silva\nAt: PyConZA 2020\n\nhttps://2020.za.pycon.org/talks/11-building-a-serverless-computation-environment-with-python/\n\nThis talk will be a tour and demo of a virtual machine, compiler, and DSL called Teal (https://condense9.com), and is for anyone who builds data processing systems (or is interested in language design!).\n\nTeal is for when you need to run sequences of tasks on a serverless platform (e.g. AWS Lambda), but don't want the huge burden of all the glue-infrastructure. It's an alternative to AWS Step Functions or Apache Airflow for building workflows with many steps, branches and loops.\n\nThe goal is to be able to take existing Python code and get it running with as little complexity as possible, and without any long-running infrastructure. It’s easy to deploy one Lambda function (e.g. with the well known Serverless Framework), but it’s much harder to write several functions and pass data between them. The Teal project started as an experiment to see whether it’d be feasible to simplify this by using familiar programming constructs (async/await concurrency, variables, functions, etc) to describe the workflows.\n\nThere will be a live demo (via screen-share) of using Teal to build, test and deploy a non-trivial data pipeline, taking just a few minutes from start to finish. This might have taken several hours before, or longer if you didn’t have orchestrator or task-runner infrastructure set up already. Follow along with the code on GitHub: https://github.com/condense9/teal-demos.\n\nPrior knowledge of serverless is useful, but not essential - we'll briefly cover the necessary concepts.\n\nRoom: Video Room 2\nScheduled start: 2020-10-09 13:15:00",
+        "thumbnail": "https://i.ytimg.com/vi/hAo_Jd0Vrj8/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=hAo_Jd0Vrj8",
+        "original_url": "https://www.youtube.com/watch?v=hAo_Jd0Vrj8"
+    },
+    {
+        "index": 13,
+        "title": "Satellite Data and Super-Resolution to enhance a Slope Soaring Simulator",
+        "url": "https://www.youtube.com/watch?v=egT1XD_sZ4c",
+        "video_id": "egT1XD_sZ4c",
+        "uploader": "PyCon South Africa",
+        "uploader_id": "@pyconza",
+        "uploader_url": "https://www.youtube.com/@pyconza",
+        "upload_date": "20201102",
+        "duration": 2128,
+        "view_count": 69,
+        "like_count": 0,
+        "comment_count": null,
+        "tags": [
+            "PyConZA",
+            "PyConZA2020",
+            "Python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "by Schalk Heunis\n\nAt: PyConZA 2020\nhttps://2020.za.pycon.org/talks/19-satellite-data-and-super-resolution-to-enhance-a-slope-soaring-simulator/\n\nImagine soaring the slopes of el-Capitan in Yosemite, Rainbow mountain in Peru or even replicating the wingsuit glide path of Jeb Corliss!  And doing it under lockdown\n\nSlope soaring requires one to go outside and spend time with friends which was not possible during lockdown, so the next best thing is a simulator.  \n\nThis talk will cover how a 10 year old, abandoned open source simulator (SSS - http://www.rowlhouse.co.uk/sss/index.html) was enhanced using Python with:\n\n* Digital Elevation Models from Google Earth Engine\n* Enhancing Elevation Model Super Resolution using Deep Learning\n* Satellite imagery as scenery from anywhere in the world courtesy of Bing\n* Multi-player networking \n\nThe result is stunning scenery and the ability to fly any slope you can dream of.\n\nThe talk will cover:\n❮ul❯\n    ❮li❯Introduction to the slope soaring simulator (SSS) and motivation for the wanting to use this under COVID'19 lockdown❮/li❯\n    ❮li❯Multi-player networking using Python cstruct and socket libraries❮/li❯\n    ❮li❯Extracting digital elevation models (DEM) and satelite data using Google Earth Engine Python API❮/li❯\n    ❮li❯Downloading aerial photography from Bing using Python and mapping it to the DEM❮/li❯\n    ❮li❯Downloading Hi-res LIDAR point cloud data and processing as target for Super Resolution using PDAL Python API\n    ❮li❯Enhancing the elevation model using Deep Learning Super Resolution from 30m to 5m accuracy❮/li❯\n    ❮li❯Adding skybox scenery to complete the picture❮/li❯\n❮/ul❯\n\nThis talk is for anyone interested in working with satellite data, super-resolution and slope soaring simulations\n\nRoom: Video Room 1\nScheduled start: 2020-10-09 14:30:00",
+        "thumbnail": "https://i.ytimg.com/vi_webp/egT1XD_sZ4c/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=egT1XD_sZ4c",
+        "original_url": "https://www.youtube.com/watch?v=egT1XD_sZ4c"
+    },
+    {
+        "index": 14,
+        "title": "Modern JavaScript for Python Developers",
+        "url": "https://www.youtube.com/watch?v=hdAv2Fju5g8",
+        "video_id": "hdAv2Fju5g8",
+        "uploader": "PyCon South Africa",
+        "uploader_id": "@pyconza",
+        "uploader_url": "https://www.youtube.com/@pyconza",
+        "upload_date": "20201102",
+        "duration": 2445,
+        "view_count": 1838,
+        "like_count": 85,
+        "comment_count": null,
+        "tags": [
+            "PyConZA",
+            "PyConZA2020",
+            "Python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "by Cory Zue\n\nAt: PyConZA 2020\nhttps://2020.za.pycon.org/talks/8-modern-javascript-for-python-developers/\n\nJavaScript is the lifeblood of the modern web application. You need it to do anything remotely complex on the web.\n\nBut, for many Python developers, the modern JavaScript ecosystem is intimidating. The tools feel complex. There are often several ways to achieve the same goals. It's hard to choose a framework—and then once you do, it's hard to know exactly how to integrate it into a Flask or Django project.\n\nThis talk aims to demystify modern JavaScript for Python-minded developers. It will cover major advances that have been made to JavaScript in recent years and how you can use the JavaScript ecosystem - including tools like npm, webpack and babel - to write Python applications for the modern web.\n\nIt will be based on [this series of articles that I authored](https://www.saaspegasus.com/guides/modern-javascript-for-django-developers/) - though will be less Django-specific.\n\nRoom: Video Room 2\nScheduled start: 2020-10-09 14:30:00",
+        "thumbnail": "https://i.ytimg.com/vi_webp/hdAv2Fju5g8/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=hdAv2Fju5g8",
+        "original_url": "https://www.youtube.com/watch?v=hdAv2Fju5g8"
+    },
+    {
+        "index": 15,
+        "title": "Lightning Talks",
+        "url": "https://www.youtube.com/watch?v=KtuKLeRuOy0",
+        "video_id": "KtuKLeRuOy0",
+        "uploader": "PyCon South Africa",
+        "uploader_id": "@pyconza",
+        "uploader_url": "https://www.youtube.com/@pyconza",
+        "upload_date": "20201102",
+        "duration": 2164,
+        "view_count": 123,
+        "like_count": 0,
+        "comment_count": null,
+        "tags": [
+            "PyConZA",
+            "PyConZA2020",
+            "Python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "moderated by Adrianna Pińska\nAt: PyConZA 2020\nhttps://2020.za.pycon.org/talks/lightning-talks/\nRoom: Video Room 1\nScheduled start: 2020-10-09 15:30:00\n\nLightning Talks: \n* Johan Beyers: \"Building a label printer using Python, Arduino, duct tape and paperclips\"\n* Heather Williams: \"Preparing for the great snakes migration.\"\n* Kevin Colville: \"Posits: A proposed new floating point number format for ML\" \n* Billy Einkamerer: \"Building a simple Telegram bot using Python, Flask and Heroku\"\n* Adam Piskorski: \"regbot: I wish we could do this for physical conferences\"\n* Kim van Wyk: \"Should we just go home on the third Friday afternoon?\"",
+        "thumbnail": "https://i.ytimg.com/vi_webp/KtuKLeRuOy0/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=KtuKLeRuOy0",
+        "original_url": "https://www.youtube.com/watch?v=KtuKLeRuOy0"
+    },
+    {
+        "index": 16,
+        "title": "Making Art with Python",
+        "url": "https://www.youtube.com/watch?v=CAR5SoYu7Ec",
+        "video_id": "CAR5SoYu7Ec",
+        "uploader": "PyCon South Africa",
+        "uploader_id": "@pyconza",
+        "uploader_url": "https://www.youtube.com/@pyconza",
+        "upload_date": "20201102",
+        "duration": 3035,
+        "view_count": 185,
+        "like_count": 6,
+        "comment_count": null,
+        "tags": [
+            "PyConZA",
+            "PyConZA2020",
+            "Python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "by Kirk Kaiser\n\nAt: PyConZA 2020\nhttps://2020.za.pycon.org/talks/24-making-art-with-python/\n\nIs code a creative medium, or a tool for accomplishing business objectives?\n\nIn this talk, we'll explore code as a creative medium, and see how code can be used as a way to play with new ideas. \n\nWe'll showcase some Python libraries which can help us: build new robots, play music, detect  features of our faces, break glass, and more. \n\nWe'll see why Python is still the best language if you want to be able to play with ideas via code, and how this play can help you become a better programmer in the process.\n\nRoom: Video Room 1\nScheduled start: 2020-10-09 16:00:00",
+        "thumbnail": "https://i.ytimg.com/vi_webp/CAR5SoYu7Ec/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=CAR5SoYu7Ec",
+        "original_url": "https://www.youtube.com/watch?v=CAR5SoYu7Ec"
+    },
+    {
+        "index": 17,
+        "title": "PyCon ZA 2020 Closing Ceremony",
+        "url": "https://www.youtube.com/watch?v=JLOC8a0S07Q",
+        "video_id": "JLOC8a0S07Q",
+        "uploader": "PyCon South Africa",
+        "uploader_id": "@pyconza",
+        "uploader_url": "https://www.youtube.com/@pyconza",
+        "upload_date": "20201102",
+        "duration": 956,
+        "view_count": 35,
+        "like_count": 0,
+        "comment_count": null,
+        "tags": [
+            "PyConZA",
+            "PyConZA2020",
+            "Python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "by Whitney Tennant and Simon Cross\nAt: PyConZA 2020\nhttps://2020.za.pycon.org/closing/\nRoom: Video Room 1\nScheduled start: 2020-10-09 16:45:00",
+        "thumbnail": "https://i.ytimg.com/vi_webp/JLOC8a0S07Q/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=JLOC8a0S07Q",
+        "original_url": "https://www.youtube.com/watch?v=JLOC8a0S07Q"
+    },
+    {
+        "index": 18,
+        "title": "Labelling the Heavens – Using Astropy to bring the stars and planets a little closer",
+        "url": "https://www.youtube.com/watch?v=ebdZ60h5Oqw",
+        "video_id": "ebdZ60h5Oqw",
+        "uploader": "PyCon South Africa",
+        "uploader_id": "@pyconza",
+        "uploader_url": "https://www.youtube.com/@pyconza",
+        "upload_date": "20201208",
+        "duration": 3528,
+        "view_count": 363,
+        "like_count": 7,
+        "comment_count": null,
+        "tags": [],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "Due to networking issues, there are some problems with the audio at times.\n\nBy Stephen Hulme\nAt PyCon ZA 2020\nhttps://2020.za.pycon.org/talks/15-labelling-the-heavens-using-astropy-to-bring-the-stars-and-planets-a-little-closer/\n\nThe Southern African Large Telescope is a 10 m optical telescope in the Northern Cape Karoo. It operates every night when the weather is good and the sky is clear to observe stars and galaxies. The telescope is unable to see through all but the thinnest clouds and needs to avoid them on nights when the weather is marginal.\n\nThe primary requirement is to show the where the telescope is pointing on-sky relative to the surrounding clouds in an informative image. This is to be updated on a 30 seconds interval, with positions marked to an accuracy of half a degree - the diameter of a full moon. It was required that existing libraries and frameworks be used as there is little time to devote to developing and maintaining the script. An all-sky camera is used to capture a near-real-time image of the night sky and Python is used to mark the position of the telescope along with the Sun, Moon, planets, and brightest stars. The observing astronomer can then compare the telescope position to the surrounding environment allowing a suitable science target to be chosen. It is hoped that the increased awareness of the night sky will inspire and educate both amateur and professional astronomers alike.\n\nThis talk will look at how Astropy (https://www.astropy.org) greatly simplified a task that would have been significantly harder 10 years ago. The data-reduction algorithm, high-level implementation, deployment, and pitfalls experienced along the way will be highlighted, before concluding with some interesting images captured from the sky-cam over the years.",
+        "thumbnail": "https://i.ytimg.com/vi/ebdZ60h5Oqw/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=ebdZ60h5Oqw",
+        "original_url": "https://www.youtube.com/watch?v=ebdZ60h5Oqw"
+    }
+]

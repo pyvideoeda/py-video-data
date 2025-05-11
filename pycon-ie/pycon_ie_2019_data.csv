@@ -1,0 +1,269 @@
+﻿index,title,url,video_id,uploader,uploader_id,uploader_url,upload_date,duration,view_count,like_count,comment_count,tags,categories,description,thumbnail,age_limit,is_live,was_live,availability,webpage_url,original_url
+1,PyCon Ireland 2019 - Pragmatic Machine Learning Product Development - Fergal Reid,https://www.youtube.com/watch?v=vn_oFFs46Jg,vn_oFFs46Jg,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20200114,1743,664,1,,"python ireland,pycon2019,python,pycon,data,pycon dublin,Machine Learning Product Development,Machine Learning,data science",Science & Technology,"I would talk about how Intercom built an important machine learning product, the interplay between the technical and product side of delivering a successful ML product.
+
+Many people are interested in machine learning, but how do you build a ML product that actually ships? I'll discuss the complexities you run into when building ML products above normal software development. 
+
+I'll give some techniques and strategies for overcoming these, and take the audience through the timeline of how Intercom built a successful ML product. (& we built it in Python, even though Intercom is normally all Ruby!)
+  
+
+Track 1 Session 1,  Saturday",https://i.ytimg.com/vi_webp/vn_oFFs46Jg/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=vn_oFFs46Jg,https://www.youtube.com/watch?v=vn_oFFs46Jg
+2,PyCon Ireland 2019 - Object Oriented Data Science for Production - Bethany Kok,https://www.youtube.com/watch?v=rUGbf5Rym3s,rUGbf5Rym3s,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20200114,1523,203,8,1.0,,Science & Technology,"Track 1, Session 2 Saturday",https://i.ytimg.com/vi_webp/rUGbf5Rym3s/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=rUGbf5Rym3s,https://www.youtube.com/watch?v=rUGbf5Rym3s
+3,PyCon Ireland 2019 - Flask app with Twilio Programmable SMS API - Nahuel Sznajderhaus,https://www.youtube.com/watch?v=If7GquXp0HM,If7GquXp0HM,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20200114,1014,158,1,,"python ireland,pycon dublin,pycon2019,pycon,twilio,Programmable SMS API,Flask app",Science & Technology,"Flask app with Twilio Programmable SMS API - Nahuel Sznajderhaus (Track 1, Session 3 Saturday)",https://i.ytimg.com/vi_webp/If7GquXp0HM/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=If7GquXp0HM,https://www.youtube.com/watch?v=If7GquXp0HM
+4,PyCon Ireland 2019 - Adding data visualisation to Flask app with React Victory charts - Allyn Hunt,https://www.youtube.com/watch?v=YCWpOyAxoio,YCWpOyAxoio,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20200114,2297,132,3,,"pycon2019,python ireland,pycon dublin,pycon,JS frontend,JSON data,web server micro-framework,flask,React.js,victory",Science & Technology,"Flask is a web server micro-framework designed to make getting started quick and easy, with the ability to scale up to complex applications.
+
+
+
+Victory is a set of React.js components for modular charting and data visualization.
+This talk will focus on adding data visualisation to Flask applications by using the amazing React Victory library.
+
+
+
+Presenting data in web applications can be a daunting task, web applications make it very easy to store large amounts of data into your database of choice but many applications struggle with finding a way to display this data in a meaningful way. Server side rendering of charts can work but often lead to a slower and poor user experience.
+
+
+This talk proposes a solution by integrating a React frontend onto your Flask application, and taking advantage of the powerful and flexible React Victory library for data charting and visualisation.
+
+
+This talk will cover the following topics:
+Discussing the benefits of using a JS frontend.
+Integrate a React frontend into your Flask app.
+Installing and setting up the Webpack, Babel and Victory libraries.
+Creating an API endpoint to send JSON data.
+Fetching API data from your React frontend.
+Some security concerns and how to resolve them.
+Displaying chart data with Victory charts.
+
+How to customize the charts.
+
+
+Session 4 Track 1 Saturday",https://i.ytimg.com/vi_webp/YCWpOyAxoio/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=YCWpOyAxoio,https://www.youtube.com/watch?v=YCWpOyAxoio
+5,"PyCon Ireland 2019 - Python DevOps flows with Ansible, Packer & Kubernetes - Mihai Criveti",https://www.youtube.com/watch?v=lO884XAdddQ,lO884XAdddQ,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20200114,2948,300,7,,"ansible,python conference,python devops,python for devops,python packer,Vagrant,VirtualBox,VMware,KVM,Azure",Science & Technology,"""Automate Everything: Python DevOps flows with Ansible, Packer and Kubernetes""
+
+
+Infrastructure as Code and Image Build with Ansible, Packer and Vagrant:
+- Build and Automate your Image and Infrastructure pipeline
+- Build multiple OS images and containers from the same specification
+- Creating customized Kickstart/Automated installs with Python support
+- Build Vagrant, VirtualBox, VMware, KVM, Azure and AWS images at the same time
+Build your own Ansible Collection, roles and tasks to automate everything:
+- Install Anaconda Python and modules from conda and pip
+- Setup your Python development environment, SonarQube and toolset automatically
+- Setup portable shell profile and dotfiles and tools
+- Install VirtualBox, VMware or Docker from playbooks
+- Build OS images and cloud images
+- Build containers with buildah and podman
+GitOps with Python, Ansible and Kubernetes:
+- Build and deploy your python workloads on Kubernetes
+- Package applications as Helm Charts and integrate with databases such as PostgreSQL. Convert Docker Compose to Helm using kompose.
+
+- Automate static analysis, build, packaging and deployment of your application.
+
+
+Session 5 Track 1 Saturday",https://i.ytimg.com/vi_webp/lO884XAdddQ/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=lO884XAdddQ,https://www.youtube.com/watch?v=lO884XAdddQ
+6,PyCon Ireland 2019 - Keynote: What Are Magic Methods? - Nick Timkovich,https://www.youtube.com/watch?v=MphwbRGhvDI,MphwbRGhvDI,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20200114,2242,136,3,,,Science & Technology,Session 6 Track 1 Saturday,https://i.ytimg.com/vi_webp/MphwbRGhvDI/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=MphwbRGhvDI,https://www.youtube.com/watch?v=MphwbRGhvDI
+7,PyCon Ireland 2019 - How to Webpack your Django! - David Gibbons,https://www.youtube.com/watch?v=5svAVwW_ZyE,5svAVwW_ZyE,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20200114,2199,1265,19,4.0,"django-webpack-loader,django,django webapps,python",Science & Technology,"This talk is aimed at attendees who wish to integrate the latest JavaScript frameworks into their Django project but don't know where to start. I will give a brief introduction to Webpack and how it is used in client-side web development. Webpack is a static module bundler that can be configured to take your static files (.js, .css, .vue, etc) and generate a minimised and optimised bundle for the web browser. 
+
+I will then introduce a package called “django-webpack-loader” which can be used to seamlessly integrate Webpack into a Django application for both development purposes and deployment to the production site. This talk will introduce Webpack to Django developers to allow faster code development, improved debugging ability and better code performance. Using Webpack allows your Django project to soar!""
+
+
+
+
+Session 7 Track 1 Saturday",https://i.ytimg.com/vi_webp/5svAVwW_ZyE/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=5svAVwW_ZyE,https://www.youtube.com/watch?v=5svAVwW_ZyE
+8,PyCon Ireland 2019 - Will somebody please tell me what's going on? - Stephen Finucane,https://www.youtube.com/watch?v=2VEgZS3af4k,2VEgZS3af4k,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20200114,1330,47,1,,,Science & Technology,Session 8 Track 1 Saturday,https://i.ytimg.com/vi_webp/2VEgZS3af4k/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=2VEgZS3af4k,https://www.youtube.com/watch?v=2VEgZS3af4k
+9,PyCon Ireland 2019 - Serverless Scheduling using Python Step Functions - Ben Ellerby,https://www.youtube.com/watch?v=88Tz44mJaII,88Tz44mJaII,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20200114,1393,127,3,,,Science & Technology,Session 9 Track 1 Saturday,https://i.ytimg.com/vi_webp/88Tz44mJaII/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=88Tz44mJaII,https://www.youtube.com/watch?v=88Tz44mJaII
+10,PyCon Ireland 2019 - Lightning Talks,https://www.youtube.com/watch?v=q7PBYUWH6Lc,q7PBYUWH6Lc,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20200114,1238,56,3,,"pycon2019,pycon,data,python ireland,python,pycon dublin",Science & Technology,Session 10 Track 1 Saturday,https://i.ytimg.com/vi_webp/q7PBYUWH6Lc/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=q7PBYUWH6Lc,https://www.youtube.com/watch?v=q7PBYUWH6Lc
+11,PyCon Ireland 2019 - Dash: Interactive Data Visualization Web Apps with no Javascript - Dom Weldon,https://www.youtube.com/watch?v=LfsX-o2Ju2A,LfsX-o2Ju2A,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20200114,1844,86,2,,,Science & Technology,Session 1 Sunday,https://i.ytimg.com/vi_webp/LfsX-o2Ju2A/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=LfsX-o2Ju2A,https://www.youtube.com/watch?v=LfsX-o2Ju2A
+12,PyCon Ireland 2019 - Wrapping All Your Databases - Yiu Ming Huynh,https://www.youtube.com/watch?v=G4DDWgNRzEg,G4DDWgNRzEg,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20200114,1811,58,1,,"SqlAlchemy,Django,Gino,aiopg,object-relational mapping",Science & Technology,"There are many database libraries in the Python ecosystem that help developers generate SQL or provide an ORM (object-relational mapping) for accessing database records. In this talk, we will go through a cursory glance of common libraries including SqlAlchemy, Django, Gino, aiopg, and more, calling out their strengths, their restrictions, and what projects they might be suitable for. You will walk out of the talk knowing which of the database libraries suit you and how to evaluate new libraries when they come out.""
+
+
+
+
+Session 2 Sunday",https://i.ytimg.com/vi_webp/G4DDWgNRzEg/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=G4DDWgNRzEg,https://www.youtube.com/watch?v=G4DDWgNRzEg
+13,PyCon Ireland 2019 - PyMongo for Beginners - Joe Drumgoole,https://www.youtube.com/watch?v=x_OtlU6tSK0,x_OtlU6tSK0,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20200114,2537,53,3,,"python ireland,python,pycon dublin,pycon2019,PyMongo,Python MongoDB driver,nosql",Science & Technology,"PyMongo the Python MongoDB driver is one of our most popular and mature drivers. In this talk we will go into some detail on how to use the driver for real application development. From basic installation right up to building a somewhat sophisticated application.
+
+Session 3 Sunday",https://i.ytimg.com/vi_webp/x_OtlU6tSK0/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=x_OtlU6tSK0,https://www.youtube.com/watch?v=x_OtlU6tSK0
+14,PyCon Ireland 2019 - I am telling you 3 things about Chatbot - Cheuk Ting Ho,https://www.youtube.com/watch?v=I3WhgWkrq7k,I3WhgWkrq7k,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20200114,2294,30,0,1.0,"pycon2019,pycon,python ireland,chatbot,rasa,tensorflow,converstational AI chat bots,chai",Science & Technology,Session 5 Sunday,https://i.ytimg.com/vi_webp/I3WhgWkrq7k/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=I3WhgWkrq7k,https://www.youtube.com/watch?v=I3WhgWkrq7k
+15,PyCon Ireland 2019 - Planning Your Hackerspace With Python - Andrew Bolster,https://www.youtube.com/watch?v=hiXdxl6oJCY,hiXdxl6oJCY,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20200114,1921,42,0,,"pycon dublin,python ireland,pycon2019,python,python APIs,time series",Science & Technology,"""Farset Labs (Northern Irelands Hackerspace based in Belfast) is nearly 8 and undergoing a major expansion and renovation.
+
+
+In this talk, I'll be giving a gentle introduction to some of the tools (mostly python or python-accessible API's) that we've been using over the years to manage, coordinate, communicate and plan the space.
+
+A technical focus of the talk will be exploring and experimenting with the statsmodels module, particularly it's timeseries analysis capabilities, attempting to explain, characterise, and predict the charities cashflow and growth over the next 5 years.
+
+This talk will be practical, rather than academic, and does not require a deep knowledge of statistics, accounting, or system modeling""
+
+
+Session 7 Sunday",https://i.ytimg.com/vi_webp/hiXdxl6oJCY/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=hiXdxl6oJCY,https://www.youtube.com/watch?v=hiXdxl6oJCY
+16,PyCon Ireland 2019 - Turning the database inside-out with Oracle OCI Streaming - Igor De Souza,https://www.youtube.com/watch?v=Dvti5r9F_pE,Dvti5r9F_pE,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20200114,1625,78,0,,,Science & Technology,Session 8 Sunday,https://i.ytimg.com/vi_webp/Dvti5r9F_pE/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=Dvti5r9F_pE,https://www.youtube.com/watch?v=Dvti5r9F_pE
+17,PyCon Ireland 2019 - TOSS: Through Out Your Shell Scripts - Nick Timkovich,https://www.youtube.com/watch?v=o4FPohiAcKM,o4FPohiAcKM,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20200114,2141,38,1,,"pycon,pycon2019,pycon dublin,data,python,python ireland",Science & Technology,"Track 1, Session 6 Sunday",https://i.ytimg.com/vi_webp/o4FPohiAcKM/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=o4FPohiAcKM,https://www.youtube.com/watch?v=o4FPohiAcKM
+18,PyCon Ireland 2019 - Everybody Wants DATA!! - Olga Minguett,https://www.youtube.com/watch?v=WNuT_6SPNDw,WNuT_6SPNDw,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20200114,951,262,4,,"pycon2019,pycon dublin,python ireland,data science,pycon,data,Healthcare data,GDPR",Science & Technology,"Data is described as the new oil but what happens when that asset which belongs to millions and millions of people in the world who are not aware of the different ways that companies used their data to create products and services that will not necessarily will enhance their lives but could be doing the opposite
+
+
+
+*  What is behind the terms and conditions when you sign a contract?
+*  What is behind the terms and conditions when you tick that tiny box?
+*  How AI is changing the panoramic for Healthcare members(consumers maybe?)?
+*  Would you say yes to openly letting companies to use your Healthcare data?
+*  Would you say yes to openly letting companies to use your Healthcare data in other countries?
+*  Have you thought about the fitness watch that you are wearing and how it is harvesting your data?
+
+I don’t want to promote fear, just knowledge of the data-driven world as we have it now, our privacy and protection will shape the world of data-driven healthcare. This talk will describe Healthcare companies in a data driven world""
+
+
+Track 2, Session 1 Saturday",https://i.ytimg.com/vi_webp/WNuT_6SPNDw/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=WNuT_6SPNDw,https://www.youtube.com/watch?v=WNuT_6SPNDw
+19,PyCon Ireland 2019 - Robust and charming dataviz with RainCloud Plots - Davide Poggiali,https://www.youtube.com/watch?v=7nOGZrRPNuM,7nOGZrRPNuM,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20200114,963,127,2,,,Science & Technology,"Track 2, Session 2 Saturday",https://i.ytimg.com/vi_webp/7nOGZrRPNuM/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=7nOGZrRPNuM,https://www.youtube.com/watch?v=7nOGZrRPNuM
+20,PyCon Ireland 2019-Dissecting tf.function to discover AutoGraph strengths & subtleties-Paolo Galeone,https://www.youtube.com/watch?v=XWLm-GQ4z7I,XWLm-GQ4z7I,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20200114,1748,38,0,,"pycon dublin,pycon,data,python,pycon2019,python ireland",Science & Technology,"Track 2, Session 3 Saturday",https://i.ytimg.com/vi_webp/XWLm-GQ4z7I/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=XWLm-GQ4z7I,https://www.youtube.com/watch?v=XWLm-GQ4z7I
+21,PyCon Ireland 2019 - pflacs: Faster load cases and parameter studies - Stephen McEntee,https://www.youtube.com/watch?v=nUStcSwv-ZQ,nUStcSwv-ZQ,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20200114,1869,31,0,,"pycon2019,python,python ireland,pycon,data,pycon dublin",Science & Technology,"Track 2, Session 4  Saturday",https://i.ytimg.com/vi_webp/nUStcSwv-ZQ/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=nUStcSwv-ZQ,https://www.youtube.com/watch?v=nUStcSwv-ZQ
+22,PyCon Ireland 2019 - Python iterators as a tool for analysing a social network - Yoni Lavi,https://www.youtube.com/watch?v=LnegiIwV1Ww,LnegiIwV1Ww,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20200114,2371,24,2,,"iterator protocol,python iterators,SlackClient iterator",Science & Technology,"Learn how to use python iterators and generators through an example of analysing a Slack social network
+Slack social network code example
+
+    SlackClient iterator to get pages of data from Slack
+    A custom generator to extract the messages out of the response objects
+    A custom generator to extract the pairs of who mentioned whom out of the messages (flatMap)
+    Reducing the output via a counter
+    Visualisation via graphviz
+
+Bonus - intro to social network analysis?
+
+    https://en.wikipedia.org/wiki/The_Tipping_Point#The_Law_of_the_Few
+
+Finisher: Set the audience a Task - provide an anonymised data set and some code to get them started
+
+
+
+Track 2, Session 5 Saturday",https://i.ytimg.com/vi_webp/LnegiIwV1Ww/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=LnegiIwV1Ww,https://www.youtube.com/watch?v=LnegiIwV1Ww
+23,"PyCon Ireland 2019-Planning Vacation using Python, ML Google API & Cloud Database - Brendan Tierney",https://www.youtube.com/watch?v=BXJ_BVtOYT4,BXJ_BVtOYT4,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20200114,1999,90,0,,"pycon2019,pycon,python ireland,data,pycon dublin,Python,Machine Learning,Google API and Cloud Database,Google API,Cloud Database",Science & Technology,"""Planning my Summer Vacation using Python, Machine Learning, Google API and Cloud Database""
+
+I'm planning the family summer vacation. This year is going to be a little different. This year I'm going to use Python, Machine Learning, Google API and a Cloud Database to plan the vacation. It will be a driving holiday in Scotland, but what places do we visit and in what order? Using details of local landmarks and family personal interest, Python and machine learning are used to identify different groupings of local landmarks matching those interests. 
+
+Combining the outputs of the Python Machine Learning a driving route will be planned to optimise the number of landmarks to visit, where to stay and what else to visit and then saving the details to a Cloud Database. Do one thing for me!  Don't tell my family this is how our vacation is being planned.""
+  
+Track 2, Session 6 Saturday",https://i.ytimg.com/vi_webp/BXJ_BVtOYT4/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=BXJ_BVtOYT4,https://www.youtube.com/watch?v=BXJ_BVtOYT4
+24,"PyCon Ireland 2019 - Snakes on a (Control) Plane, Kubernetes Custom Resource - Karl O'Dwyer",https://www.youtube.com/watch?v=6iiLXu5eHOM,6iiLXu5eHOM,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20200114,1474,21,1,,,Science & Technology,"Track 2, Session 7 Saturday",https://i.ytimg.com/vi_webp/6iiLXu5eHOM/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=6iiLXu5eHOM,https://www.youtube.com/watch?v=6iiLXu5eHOM
+25,PyCon Ireland 2019 - Message Queue for Distributed Computing on Kubernetes - Selin Gungor,https://www.youtube.com/watch?v=HDjASkEtV0A,HDjASkEtV0A,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20200114,1410,51,1,1.0,"Distributed Computing on Kubernetes,Kubernetes,Redis queue,distributed hyperparameter search,python,python ireland,python kubernetes",Science & Technology,"Message Queue for Distributed Computing on Kubernetes
+
+
+Certain projects require a large number of combinations to be evaluated to learn more about
+the problem at hand. This could for example be a hyperparameter search, analyzing
+
+enormous sets of satellite images or simulations with different contexts. 
+
+Running these computations sequentially can be time consuming and these scenarios lend themselves well for parallelisation. One way of managing this type of distributed computing is using message queues. 
+
+By filling a queue with the work that needs to be done, workers can run next to each
+
+other and continuously request new tasks. 
+
+The message queue makes sure that every task
+is done exactly once, while it can also be used to store the results of each task again. In this
+talk I will showcase a system that performs distributed hyperparameter search by running a
+Redis queue together with a number of worker pods on Kubernetes. I will go over the
+necessary configuration, the queue filling task and the design of the worker processes. The
+aim of this talk is to show one of the approaches of distributed computing and to teach how
+to implement a system like this in Kubernetes.
+
+Description:
+Doing a large amount of computation distributed instead of sequentially can be very
+beneficial. One way to achieve this is by using message queues. Hyperparameter search is
+a good candidate for applying this concept. In this talk I will showcase a system that
+performs distributed hyperparameter search by running a Redis queue together with a
+number of worker pods on Kubernetes.
+
+
+Track 2, Session 8 Saturday",https://i.ytimg.com/vi_webp/HDjASkEtV0A/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=HDjASkEtV0A,https://www.youtube.com/watch?v=HDjASkEtV0A
+26,PyCon Ireland - Equip Your Performance Toolbox - Cython v.s. Pybind11 - Gavin Chan,https://www.youtube.com/watch?v=ZZtml4rvbs8,ZZtml4rvbs8,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20200114,1696,174,1,,"python,pycon,pybind11,cython,python conference,Cython v.s. Pybind11,Python applications",Science & Technology,"Equip Your Performance Toolbox - Cython v.s. Pybind11 - Gavin Chan
+
+
+Developing Python applications is handy and rapid, but its performance is always concerned, especially on the CPU bound problems. We will go through the common tricks and tips to archive the best performance on the Python level. Then the two reputable libraries, Cython and Pybind11, will be visited to archive the compiled language performance and compared with their implementation, flexibility and performance.
+
+Audience level: Intermediate
+
+Speaker: Gavin Chan, quantitative developer in AXA Investment Manager Chorus Ltd with 7+ years of experience in software development and finance industry.
+
+
+(Track 2, Session 1 Sunday)",https://i.ytimg.com/vi_webp/ZZtml4rvbs8/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=ZZtml4rvbs8,https://www.youtube.com/watch?v=ZZtml4rvbs8
+27,PyCon Ireland 2019 - Dynamically generating schemas from arbitrary objects - Jan van der Vegt,https://www.youtube.com/watch?v=mly2wX5Dldk,mly2wX5Dldk,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20200114,1143,19,1,,"pycon,pycon dublin,pycon2019,python,python ireland,data",Science & Technology,"Track 2, Session 2 Sunday
+Dynamically generating schemas from arbitrary objects",https://i.ytimg.com/vi_webp/mly2wX5Dldk/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=mly2wX5Dldk,https://www.youtube.com/watch?v=mly2wX5Dldk
+28,PyCon Ireland 2019-Irish Earth Observation Python Module for Satellite Data Management - Guy Serbin,https://www.youtube.com/watch?v=djz2lU-JQ8w,djz2lU-JQ8w,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20200114,1686,81,0,,"pycon dublin,data,python,pycon2019,python ireland,pycon",Science & Technology,"Track 2, Session 3 Sunday
+Irish Earth Observation Python Module for Satellite Data Management - Guy Serbin",https://i.ytimg.com/vi_webp/djz2lU-JQ8w/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=djz2lU-JQ8w,https://www.youtube.com/watch?v=djz2lU-JQ8w
+29,PyCon Ireland 2019 - TensorFlow 2.0: Tensorflow Strikes Back - Michele de Simoni,https://www.youtube.com/watch?v=Keim3MkGAgQ,Keim3MkGAgQ,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20200114,2558,37,1,,"python ireland,pycon2019,pycon dublin,python,data,pycon",Entertainment,"Track 2, Session 4 Sunday",https://i.ytimg.com/vi_webp/Keim3MkGAgQ/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=Keim3MkGAgQ,https://www.youtube.com/watch?v=Keim3MkGAgQ
+30,PyCon Ireland 2019 - Python for Computer Vision - Tatiana Habruseva,https://www.youtube.com/watch?v=9F0DgzuysHE,9F0DgzuysHE,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20200114,2499,264,9,,"python ireland,pycon dublin,pycon2019,data,pycon,python",Entertainment,"Track 2, Session 6 Sunday",https://i.ytimg.com/vi_webp/9F0DgzuysHE/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=9F0DgzuysHE,https://www.youtube.com/watch?v=9F0DgzuysHE
+31,PyCon Ireland 2019 - Push Over Pandas - Brian Carter,https://www.youtube.com/watch?v=jFO-eLlJP_g,jFO-eLlJP_g,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20200114,1517,31,1,,"pandas,vaex,modin,data.table,rapids Nivida,CUDA-X,pydata,python,data science",Science & Technology,"""Push Over Pandas""
+
+pandas  has been the default library of choice for data analysis / manipulation in the Python ML ecosystem.
+
+Recently there has a raft of new libraries/frameworks that are similar in design intent as pandas (easy & fast analysis and manipulation of mixed data types in a tabular structure) but take different implementation pathways, incorporating newer compute paradigms. Some of these include
+- Dask:  allowing you to scale from single computer to run on 1000+ clusters of machines using familiar pandas APIs.
+- data.table:  from h20.ai focusing on single machines, that can process moderately large amounts of data (100GB) - taking advantage of column-orientated data storage and native-c implementation of all datatypes (including strings unlike pandas)
+- modin: from the RiseLab, Berkely:  taking advantage of ray to seamlessly speed up existing pandas based notebooks, scripts, and libraries.
+- vaex: a python library for lazy out-of-core data-frames that can calculate statistics on an N-dimensional grid for more than a billion (10^9) objects/rows per second and has incredibly fast and memory efficient support for all common string manipulations.
+- rapids from Nivida:  a suite of software libraries, built on CUDA-X AI, allowing you build ML pipelines entirely on GPUs.
+
+In this talk myself and my colleague Barry will give an overview of some of emerging data-frame technologies and guide the listener to advantages, pitfalls and also considerations as to where some of these new libraries may be worthwhile considering as part of the ML practitioners toolkit.
+
+
+Track 2, Session 7 Sunday",https://i.ytimg.com/vi_webp/jFO-eLlJP_g/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=jFO-eLlJP_g,https://www.youtube.com/watch?v=jFO-eLlJP_g
+32,Atom Dynamics in 2 Dimensional Materials : Can Python Help?,https://www.youtube.com/watch?v=PDwJfNrLTSY,PDwJfNrLTSY,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20200114,1390,230,8,1.0,,Science & Technology,"Track 2, Session 8  Sunday",https://i.ytimg.com/vi_webp/PDwJfNrLTSY/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=PDwJfNrLTSY,https://www.youtube.com/watch?v=PDwJfNrLTSY
+33,PyCon Ireland 2019 - Automated Web-UI testing with behave-manners - Panos Christeas,https://www.youtube.com/watch?v=7iGB5Xkv1X4,7iGB5Xkv1X4,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20200114,1693,269,3,,"data,pycon dublin,pycon2019,python,pycon,python ireland",Science & Technology,"Track 3 Saturday, Session 1",https://i.ytimg.com/vi_webp/7iGB5Xkv1X4/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=7iGB5Xkv1X4,https://www.youtube.com/watch?v=7iGB5Xkv1X4
+34,PyCon Ireland 2019 - Chaos Engineering - Brian Neary & Vel Sailaja,https://www.youtube.com/watch?v=TY_72akfCR8,TY_72akfCR8,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20200114,1771,195,5,,"pycon,python ireland,pycon2019,python,pycon dublin,Chaos engineering,python conference,pycon ireland 2019 chaos",Science & Technology,"Track 3 Saturday, Session 2",https://i.ytimg.com/vi_webp/TY_72akfCR8/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=TY_72akfCR8,https://www.youtube.com/watch?v=TY_72akfCR8
+35,PyCon Ireland 2019 - How to Curate an NLP Dataset With Python - David Curran,https://www.youtube.com/watch?v=_WxmTGC9kqg,_WxmTGC9kqg,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20200114,1803,233,3,,"data science,pycon2019,python,pycon dublin,natural language processing,data,NLP,python ireland,pycon",Science & Technology,"How to Curate an NLP Dataset With Python - David Curran
+
+
+Track 3 Saturday, Session 3",https://i.ytimg.com/vi_webp/_WxmTGC9kqg/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=_WxmTGC9kqg,https://www.youtube.com/watch?v=_WxmTGC9kqg
+36,PyCon Ireland 2019 - Leveraging Public APIs for Machine Learning Datasets Johannes Ahlmann,https://www.youtube.com/watch?v=jSydevZgroc,jSydevZgroc,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20200114,2827,56,2,,"ML,python ireland,DS,datasets,data science,machine learning,data,pycon,pycon2019,pycon dublin,python,public API",Science & Technology,"Track 3 Saturday, Session 4
+
+Leveraging Public APIs for Machine Learning Datasets",https://i.ytimg.com/vi_webp/jSydevZgroc/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=jSydevZgroc,https://www.youtube.com/watch?v=jSydevZgroc
+37,PyCon Ireland 2019 - Recruitment Session,https://www.youtube.com/watch?v=fmNXFYohAVY,fmNXFYohAVY,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20200114,3406,64,0,,"pycon2019,python,pycon dublin,data,pycon,python ireland",Science & Technology,"Track 3, Session 5 Saturday",https://i.ytimg.com/vi_webp/fmNXFYohAVY/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=fmNXFYohAVY,https://www.youtube.com/watch?v=fmNXFYohAVY
+38,PyCon Ireland 2019 - MicroPython fun on €10 hardware - Sean Doherty,https://www.youtube.com/watch?v=FK_PpRP2Rss,FK_PpRP2Rss,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20200114,2355,393,5,1.0,"kids tech,pycon dublin,python,data,python ireland,pycon,hardware,micropython,inexpensive hardware,pycon2019",Science & Technology,"Track 3, Session 6 Saturday",https://i.ytimg.com/vi_webp/FK_PpRP2Rss/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=FK_PpRP2Rss,https://www.youtube.com/watch?v=FK_PpRP2Rss
+39,PyCon Ireland 2019 - Python & digital preservation of Ireland's moving image heritage Kieran O'Leary,https://www.youtube.com/watch?v=fMIrEWOcg4k,fMIrEWOcg4k,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20200114,1752,101,0,,"python,pycon,pycon2019,python ireland,pycon dublin,integrity checks,archival packaging,metadata extraction,digital preservation",Science & Technology,"This talk will look at how the Irish Film Institute began to create python scripts in order to facilitate the preservation of our digital objects. This largely stemmed from bad experiences with vendors providing proprietary GUIs, which led to me learning python my spare time and building a suite of tools that handle things like integrity checks, archival packaging, metadata extraction and transformation, auditing, file format normalisation and migration, the generation of access copies, and adhering to international standards
+
+It also will show how I ended up carving out a role and made python and open source tools an integral part of how we work in the Irish Film Institute - something that would have seemed impossible just a few years ago.
+
+We recently won an award from the Digital Preservation Coalition for these scripts, beating the White House and Uk national parliament archives in the process. https://github.com/kieranjol/IFIscripts
+
+The talk will focus on the approach we take to writing and using the scripts, as well as how we ended up adopting such a different approach - when a lot of memory instituions reach out for large, monolithic proprietary systems rather than bespoke microservices.
+
+Hopefully it will show that an 'amateur', self-taught developer can use python in a cultural institution for a huge variety of uses, as well as highlighting the flaws in the project the and deviations from best practise (lack of OOP and unittesting in particular)""
+ 
+
+
+Track 3 Saturday, Session 7",https://i.ytimg.com/vi_webp/fMIrEWOcg4k/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=fMIrEWOcg4k,https://www.youtube.com/watch?v=fMIrEWOcg4k
+40,PyCon Ireland 2019 - The Gender Data Gap - Louise O'Connor,https://www.youtube.com/watch?v=0IQcXbabChQ,0IQcXbabChQ,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20200114,1579,58,0,,"python,pycon2019,python ireland,data,pycon dublin,pycon",Science & Technology,"Track 3, Session 1 Sunday",https://i.ytimg.com/vi_webp/0IQcXbabChQ/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=0IQcXbabChQ,https://www.youtube.com/watch?v=0IQcXbabChQ
+41,PyCon Ireland 2019 - Unit & Integration Testing - Ignasi Bosch,https://www.youtube.com/watch?v=n6Xgfag-ylc,n6Xgfag-ylc,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20200114,1626,270,6,,"python,pycon2019,pycon dublin,python ireland,ignasi bosch,integration testing,pycon ireland,software development life cycle",Science & Technology,"Testing is an important part of the software development life cycle, however we don't always stress the importance of it. There are dozens of different types of testing and each one has its own purpose. In order to clarify/revisit two of the more common testing types used by developers, here are some concept definitions and best practices around them.
+
+This talk focuses on unit testing and integration testing, mainly narrow integration testing as Fowler point it out on his article https://martinfowler.com/bliki/IntegrationTest.html""
+
+
+Track 3 Sunday, Session 2",https://i.ytimg.com/vi_webp/n6Xgfag-ylc/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=n6Xgfag-ylc,https://www.youtube.com/watch?v=n6Xgfag-ylc
+42,PyCon Ireland 2019 - How I made a python program to beat the game I couldn't - Sanket Thakur,https://www.youtube.com/watch?v=nTJBXgPvOR8,nTJBXgPvOR8,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20200114,1676,182,6,1.0,"pycon,pycon dublin,pycon2019,python,python ireland,data",Science & Technology,"Track 3 Sunday, Session 3",https://i.ytimg.com/vi_webp/nTJBXgPvOR8/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=nTJBXgPvOR8,https://www.youtube.com/watch?v=nTJBXgPvOR8
+43,PyCon Ireland 2019 - Visualising Youtube video context (NLP pipeline) - Krunoslav Plecko,https://www.youtube.com/watch?v=ire1M5npxao,ire1M5npxao,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20200114,1074,182,1,,"python,data,pycon dublin,pycon,python ireland,visualizing pipeline data,IBM PaaS,Google IaaS,IBM Bluemix",Science & Technology,"Visualising Youtube video context (NLP pipeline)
+
+
+The talk is about group UCD project of 6 engineers. 
+
+The name of the project is Yousights. 
+
+
+
+Vision behind the project: Refine time consuming YouTube searches for skill enhancement. We had idea to reduce the time to find most useful Youtube video, and increase user confidence in right choice. For this purpose we build NLP pipeline in python, using 5 microservices deployed in multi-cloud environment (IBM PaaS, Google IaaS). 
+
+
+
+Core of the project is advanced sorting algorithm based per similarity with books, e.g how similar is python video with most ranked Safari books. Second part is sorting youtube video comments based on sentiment, and third part automatically generating table of content based per video transcript.
+
+
+Python is used for backend, to extract text from youtube video, process the text, and NLP machine learning part. All microservices on backend side use Python Flask, and our DB of choice is MongoDB. 
+
+
+
+My role was project management, architecture and development.
+Presentation will show advanced usage of Python and hardware like GPU for NLP in novel idea to visualise context on Youtube video.
+
+
+
+Website can be tested here: https://yousight.eu-gb.mybluemix.net/
+
+
+Track 3 Sunday, Session 4",https://i.ytimg.com/vi_webp/ire1M5npxao/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=ire1M5npxao,https://www.youtube.com/watch?v=ire1M5npxao
+44,PyCon Ireland 2019 - What's beyond Django Girls tutorial - Leticia Portella,https://www.youtube.com/watch?v=CAFOxnntH7U,CAFOxnntH7U,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20200114,873,504,15,1.0,"pycon dublin,data,pycon,pycon2019,python,python ireland",Science & Technology,"Track 3, Session 5 Sunday",https://i.ytimg.com/vi_webp/CAFOxnntH7U/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=CAFOxnntH7U,https://www.youtube.com/watch?v=CAFOxnntH7U
+45,PyCon Ireland 2019 - Zero to Blockchain in 30 minutes,https://www.youtube.com/watch?v=CdMcRbHsW0Q,CdMcRbHsW0Q,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20200114,1658,145,6,,"pycon,ethereum,cryptocurrency,data,blockchain,pycon dublin,python,python ireland,pycon2019,crypto",Science & Technology,"Track 3, Session 6 Sunday",https://i.ytimg.com/vi_webp/CdMcRbHsW0Q/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=CdMcRbHsW0Q,https://www.youtube.com/watch?v=CdMcRbHsW0Q

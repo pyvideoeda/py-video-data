@@ -1,0 +1,199 @@
+﻿index,title,url,video_id,uploader,uploader_id,uploader_url,upload_date,duration,view_count,like_count,comment_count,tags,categories,description,thumbnail,age_limit,is_live,was_live,availability,webpage_url,original_url
+1,Decoding FastStream: A Deeper Dive into the Event Streaming Library - Tvrtko Sternak,https://www.youtube.com/watch?v=mcUEwkvcnKw,mcUEwkvcnKw,PyCon SK,@pyconsk,https://www.youtube.com/@pyconsk,20240405,2088,990,29,,,Science & Technology,"FastStream simplifies the development of services communicating over event streams such as Apache Kafka, Redis and Nats. In our talk, we introduce its origin, basics, and delve into advanced features. Past talks raised awareness; this year, we are slowly shifting focus on technical nuances—implementation details and the development environment—to inspire developers and improve open source contributions.
+
+https://2024.pycon.sk/sk/speakers/tvrtko-sternak.html",https://i.ytimg.com/vi/mcUEwkvcnKw/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=mcUEwkvcnKw,https://www.youtube.com/watch?v=mcUEwkvcnKw
+2,Pyments: How To Design Payment Applications In Python - Alvaro Duran,https://www.youtube.com/watch?v=2o4RgvXcYVw,2o4RgvXcYVw,PyCon SK,@pyconsk,https://www.youtube.com/@pyconsk,20240405,1932,282,6,,,Science & Technology,"Payments are a massive part of how the world works. But most engineers know very little about it.
+
+That’s sad, because, as more and more of business happens online, there’s an increasing demand for payment applications that are scalable, and maintainable.
+
+Besides, Python is a great programming language to build payment applications!
+
+It is very interoperable, has a thriving open source community, and even non-engineers can contribute significantly to software built with it. In payments, readability counts, too!
+
+In this talk, we’re going to dive deep into how to build money software effectively. You’ll learn why Python and payments are a match made in heaven, and how to leverage the language to build your own payment applications, in-house, fast, and effectively.
+
+That way, you’ll cut some intermediaries in the process, saving your company a lot of money. It is no wonder why software engineers that can build payment applications are in high demand, they can point to their code and say “that prints money”.
+
+The outline of the talk is:
+Shut Up And Take My Money - Python is the Perfect Payments Language (5min)
+Data-classes, Composition and A Chain of Responsibility (5-10min)
+Unification, and the Anti-corruption Layer (5min)
+Hand over Fist - Debugging Payment Applications (5min)
+Outro - Every Company is a Payments Company (5min)
+
+https://2024.pycon.sk/sk/speakers/alvaro-duran.html",https://i.ytimg.com/vi/2o4RgvXcYVw/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=2o4RgvXcYVw,https://www.youtube.com/watch?v=2o4RgvXcYVw
+3,"Nix: know what you are running, testing and deploying - Matúš Ferech",https://www.youtube.com/watch?v=H_Ntm2x53Oo,H_Ntm2x53Oo,PyCon SK,@pyconsk,https://www.youtube.com/@pyconsk,20240405,2175,206,6,2.0,,Science & Technology,"Nix is a tool for declaring reproducible build and development environments. With Nix, you can be sure that every team member is running precisely the same application in the development, testing, and deployment environment.
+
+Do you know the issues when a new team member is trying to set up a local environment for a new project, but it just does not work? Even though you are on the same operating system, use the same application version, and all dependencies are pinned? Are some C-headers missing? Maybe you need to install some system package. Oh, and do you have the same version of the system package? Okay, let's hope we have wheels for this module. Oh no, we are building Alpine docker image, which uses musl libc instead of glibc, so no luck with wheels this time. We better include GCC. And also this and that one. What's the name of the OpenSSL for Alpine? Does it include the c headers? Great! Done! Now, let's do this dance one more time—this time in CI.
+
+This issue will be a thing of the past with Nix. Let me show you how at my talk!
+
+https://2024.pycon.sk/sk/speakers/mat%C3%BA%C5%A1-ferech.html",https://i.ytimg.com/vi/H_Ntm2x53Oo/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=H_Ntm2x53Oo,https://www.youtube.com/watch?v=H_Ntm2x53Oo
+4,Python pre DevOps - Mirek Biňas,https://www.youtube.com/watch?v=rPYZEUfbml4,rPYZEUfbml4,PyCon SK,@pyconsk,https://www.youtube.com/@pyconsk,20240405,2252,201,6,,,Science & Technology,"Hovorí sa, že tým najlepším lepidlom na lepenie Dev a Ops je bash. Používame ho na drobné skripty, na tvorbu vlastných nástrojov z príkazového riadku, na ľahkú automatizáciu pomocou cron-u alebo na písanie úloh pre CI/CD. Aj keď má bash v tejto oblasti svoje nezastupiteľné miesto, môžeme ho dnes na mnohých miestach nahradiť jazykom Python a ako bonus dostaneme celý jeho ekosystém. A v tomto príspevku si ukážeme, ako je možné jazyk Python použiť (nie len) pre DevOps pomocou nástroja Apache Airflow.
+
+https://2024.pycon.sk/sk/speakers/mirek-bi%C5%88as.html",https://i.ytimg.com/vi/rPYZEUfbml4/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=rPYZEUfbml4,https://www.youtube.com/watch?v=rPYZEUfbml4
+5,Python jako projekt - Petr Viktorin,https://www.youtube.com/watch?v=edczUK1v7nM,edczUK1v7nM,PyCon SK,@pyconsk,https://www.youtube.com/@pyconsk,20240408,2132,141,1,,,Science & Technology,"Většina z nás používá Python jako jako jazyk, ve kterém vyjádřit co je potřeba udělat, a jako nástroj který to pak udělá. Jak se ale stane, že takový Python existuje? Kdo se o něj stará? Kdo píše dokumentaci? Kde a jak se tihle lidi domlouvají? A kdyby ses chtěl/a nějakým způsobem zapojit i ty, jak na to?
+
+https://2024.pycon.sk/sk/speakers/Petr%20Viktorin.html",https://i.ytimg.com/vi/edczUK1v7nM/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=edczUK1v7nM,https://www.youtube.com/watch?v=edczUK1v7nM
+6,Naming: Why it's important and how to do it right - Daniel Hervás,https://www.youtube.com/watch?v=4_0nZfryank,4_0nZfryank,PyCon SK,@pyconsk,https://www.youtube.com/@pyconsk,20240405,2371,120,3,,,Science & Technology,"When reviewing PRs from junior devs, the most common issue I find isn't bad syntax or incorrect logic. It's imprecise variable names!
+
+This aspect of programming, which seems unimportant or inconsequential to new programmers, is actually of extreme importance and key in the maintainability of a project.
+
+In this talk, we'll go over some naming conventions, tips and best practices to make your variables and functions as self-descriptive as possible.
+
+https://2024.pycon.sk/sk/speakers/daniel-herv%C3%A1s.html",https://i.ytimg.com/vi/4_0nZfryank/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=4_0nZfryank,https://www.youtube.com/watch?v=4_0nZfryank
+7,Are you ready for MLOps? - Jeroen Overschie,https://www.youtube.com/watch?v=PWskUnAsxH4,PWskUnAsxH4,PyCon SK,@pyconsk,https://www.youtube.com/@pyconsk,20240405,2411,111,3,,,Science & Technology,"MLOps has survived the hype cycle and is gaining in maturity. But are we looking at MLOps for answers for the _right things_?
+
+No matter how valuable MLOps can be for you, without proper building blocks in place MLOps cannot live up to its full potential. What are the prerequisites for MLOps? What parts of MLOps should you focus on? When should you even start thinking about MLOps, or when is ‘plain’ DevOps wiser to focus on first? Join us in this session to learn more!
+
+https://2024.pycon.sk/sk/speakers/jeroen-overschie.html",https://i.ytimg.com/vi/PWskUnAsxH4/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=PWskUnAsxH4,https://www.youtube.com/watch?v=PWskUnAsxH4
+8,The different types of API authentications - Sara Jakša,https://www.youtube.com/watch?v=YZgKK6NjogM,YZgKK6NjogM,PyCon SK,@pyconsk,https://www.youtube.com/@pyconsk,20240405,1918,105,3,,,Science & Technology,"APIs are one of the way we are using to communicate between different systems and services. And one of the important components of this system is figuring out, if who is trying to access it and if they are allowed to do this. In this talk I want to talk about the different types of API authentications, that I had seen in the wild as part of my work. We will go through the standard ones, like basic authentication, API Keys and OAuth, but I will also did a quick mention of digest authentication, SOAP, documentation, bit-wise magic and security and legal considerations, all with a short anecdote.
+
+https://2024.pycon.sk/sk/speakers/sara-jak%C5%A1a.html",https://i.ytimg.com/vi/YZgKK6NjogM/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=YZgKK6NjogM,https://www.youtube.com/watch?v=YZgKK6NjogM
+9,Možnosti spracovania veľkých dát (HugeData/BigData) v jazyku Python - Tibor Kurina,https://www.youtube.com/watch?v=PM_W6XoEl5E,PM_W6XoEl5E,PyCon SK,@pyconsk,https://www.youtube.com/@pyconsk,20240405,2426,105,3,,,Science & Technology,"V súčasnom digitálnom veku sa veľké dáta (Big Data) stávajú kľúčovou súčasťou mnohých priemyselných a vedeckých aplikácií. Táto prednáška sa zameriava na možnosti, ktoré ponúka programovací jazyk Python pri spracovaní veľkých dát. Úvodná časť poskytne prehľad o veľkých dátach, ich význame a výzvach, a prečo je Python považovaný za jeden z najvhodnejších jazykov pre ich analýzu. Budeme sa venovať kľúčovým knižniciam ako Pandas, NumPy, Polars, Dask, Modin a Vaex, ktoré sú nevyhnutné pre efektívne spracovanie dát.
+
+Ďalšie sekcie sa budú zaoberať pokročilými témami ako distribuované spracovanie dát s využitím nástrojov ako Apache Spark, a integráciou Pythonu s inými platformami pre lepšiu škálovateľnosť a efektivitu. Významnú časť prednášky tvorí aplikácia Pythonu v oblasti strojového učenia a analýzy dát s praktickými ukážkami z rôznych oblastí.
+
+Prednáška tiež poukáže na najlepšie praktiky pri práci s veľkými dátami v Pythonu, ako aj na špecifické výzvy spojené so spracovaním veľkých objemov dát v reálnom čase, zabezpečením dát, a škálovateľnosťou. Na záver sa dotkneme najnovších trendov a budúceho vývoja v oblasti veľkých dát a Pythonu, čím poskytneme účastníkom prednášky ucelený pohľad na súčasný a budúci stav technológií spojených s veľkými dátami.
+
+Cieľová skupina: Prednáška je určená pre odborníkov v oblasti dátových vied, programátorov, analytikov a všetkých, ktorí majú záujem o využitie Pythonu pri spracovaní a analýze veľkých dát.
+
+https://2024.pycon.sk/sk/speakers/tibor-kurina.html",https://i.ytimg.com/vi/PM_W6XoEl5E/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=PM_W6XoEl5E,https://www.youtube.com/watch?v=PM_W6XoEl5E
+10,Ako v Pythone naprogramovať a natrénovať neurónovú sieť na generovanie textu - Luboslav Lacko,https://www.youtube.com/watch?v=eEBTqxx6Y8w,eEBTqxx6Y8w,PyCon SK,@pyconsk,https://www.youtube.com/@pyconsk,20240405,2033,86,2,,,Science & Technology,"Praktická ukážka ako naprogramovať neurónovú sieť, ktorá sa natrénuje na textoch kníh a následne dokáže generovať texty. Priebežne bude vysvetlené fungovanie neurónových sietí vrátane doprednej a spätnej propagácie, aktivačných funkcií, miznúceho gradientu a podobne.
+
+https://2024.pycon.sk/sk/speakers/luboslav-lacko.html",https://i.ytimg.com/vi/eEBTqxx6Y8w/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=eEBTqxx6Y8w,https://www.youtube.com/watch?v=eEBTqxx6Y8w
+11,"Saying Bye to the Keyboard, Hello to Alexa with Python AWS Lambda - Yuliia Barabash",https://www.youtube.com/watch?v=0P9xyXpcpq0,0P9xyXpcpq0,PyCon SK,@pyconsk,https://www.youtube.com/@pyconsk,20240405,2147,86,4,,,Science & Technology,"Sometimes, you sit at home and think about whether it would be possible to automate your tasks with voice instructions. For example, do I receive emails from person A, or can you summarize my day? How about doing this without opening the laptop? Thanks to Alexa you can use your voice and send commands to other applications to make it happen. The best thing is you can do this with Python!
+
+In this session, we will teach you about the main components of Alexa, how to get started with the Developer console, and how to customize Alexa using our favorite language, Python in a serverless way. We will also demonstrate how to incorporate Alexa into your daily developer life, and you might find that, after this talk, you won't even need your keyboard — you'll just need your voice for automation.
+
+Join us, if you are curious about constructing small and hilarious applications to break the monotony of your routine with Alexa. By the end of this session, you will learn how to do some development tricks with Alexa and how to grant your little friend Alexa's new personalized skills using Python.
+
+https://2024.pycon.sk/sk/speakers/yuliia-barabash.html",https://i.ytimg.com/vi/0P9xyXpcpq0/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=0P9xyXpcpq0,https://www.youtube.com/watch?v=0P9xyXpcpq0
+12,Large Language Models Across Languages - Pavel Král,https://www.youtube.com/watch?v=lDiHzVVvv5o,lDiHzVVvv5o,PyCon SK,@pyconsk,https://www.youtube.com/@pyconsk,20240405,2196,66,2,,,Science & Technology,"My presentation, titled ""Large Language Models Across Languages"" aims to explore the fascinating world of large language models (LLMs) and their varying efficiencies in different languages.
+
+My talk is grounded in extensive research publicly available on GitHub, providing a robust and transparent foundation for the insights shared.
+
+https://github.com/pavelkraleu/llm-language-tokens/tree/main
+
+Key Points of the Talk:
+
+* Token Economy Across Languages: An analysis of which languages require the most tokens to express the same content. This segment will dive into the tokenization process of LLMs and compare major languages on their token consumption for equivalent texts.
+
+* Cross-Lingual Embeddings Effectiveness: Evaluating how effectively LLMs' embeddings capture and express information across different languages. This part will focus on the quality of embeddings in bridging language gaps and maintaining semantic integrity.
+
+* Reasoning Abilities in Various Languages: Investigating the reasoning capabilities of LLMs when operating in multiple languages. The focus will be on comparing the models' performance across a spectrum of languages.
+
+https://2024.pycon.sk/sk/speakers/pavel-kr%C3%A1l.html",https://i.ytimg.com/vi/lDiHzVVvv5o/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=lDiHzVVvv5o,https://www.youtube.com/watch?v=lDiHzVVvv5o
+13,Build applications with generative AI on Google Cloud - Márton Kodok,https://www.youtube.com/watch?v=rOUz3B1jKEI,rOUz3B1jKEI,PyCon SK,@pyconsk,https://www.youtube.com/@pyconsk,20240405,2441,64,0,,,Science & Technology,"We will explore Vertex AI - Model Garden powered experiences, we are going to learn more about the integration of these generative AI APIs. We are going to see in action what the Gemini family of generative models are for developers to build and deploy AI-driven applications. Vertex AI includes a suite of foundation models, these are referred to as the PaLM and Gemini family of generative ai models, and they come in different versions.
+
+We are going to cover how to use via API to:
+- execute prompts in text and chat
+- cover multimodal use cases with image prompts.
+- finetune and distill to improve knowledge domains
+- run function calls with foundation models to optimize them for specific tasks.
+
+At the end of the session, developers will understand how to innovate with generative AI and develop apps using the generative ai industry trends.
+
+https://2024.pycon.sk/sk/speakers/m%C3%A1rton-kodok.html",https://i.ytimg.com/vi/rOUz3B1jKEI/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=rOUz3B1jKEI,https://www.youtube.com/watch?v=rOUz3B1jKEI
+14,Selecting tools to fight complexity in large Python projects - Maxim Danilov,https://www.youtube.com/watch?v=BjWF047qnP4,BjWF047qnP4,PyCon SK,@pyconsk,https://www.youtube.com/@pyconsk,20240405,2385,64,2,,,Science & Technology,"An overcomplicated project increases development and maintenance time.
+
+If a complete redesign is not possible, we can try to distribute the complexity across the existing codebase. The AI assistants cannot help us with this task yet, and we should discuss manual methods and tools that can help us. The effectiveness of the proposed ideas will be demonstrated by applying them to large projects from different business areas.
+
+https://2024.pycon.sk/sk/speakers/maxim-danilov.html",https://i.ytimg.com/vi/BjWF047qnP4/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=BjWF047qnP4,https://www.youtube.com/watch?v=BjWF047qnP4
+15,Teaching Children Python - What Works? - Mykalin Jones,https://www.youtube.com/watch?v=yjXieV-M1kA,yjXieV-M1kA,PyCon SK,@pyconsk,https://www.youtube.com/@pyconsk,20240405,2408,59,3,1.0,,Science & Technology,"Have you ever tried to teach your kids programming? Do you have friends trying to learn as an adult? Have you ever wondered if you would have been better off learning to code earlier in life? The push for more people to learn to code has caused an explosion in the educational industry. Boot camps and certification programs of dramatically varying quality have emerged in nearly every corner of the world. These programs are often accompanied by lofty claims and promises. Children have been no exception to this, as more and more companies attempt to capitalize on the claim that children should start learning early because it's ""like learning a language"". However, research suggests that this might not be the most solid argument. What benefits are there in teaching them early? How do children acquire programming knowledge? How does our language around the concepts affect their understanding? Can the answer to these questions inform how we teach adults coming in from non-STEM fields? This talk will focus on these questions by presenting the current data we have, in conjunction with anecdotal evidence from sessions with children who code in Python.
+
+https://2024.pycon.sk/sk/speakers/mykalin-jones.html",https://i.ytimg.com/vi/yjXieV-M1kA/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=yjXieV-M1kA,https://www.youtube.com/watch?v=yjXieV-M1kA
+16,GIL: What's the hassle and... should I care? - Jacek Kołodziej,https://www.youtube.com/watch?v=hQ-Fiw-a5X4,hQ-Fiw-a5X4,PyCon SK,@pyconsk,https://www.youtube.com/@pyconsk,20240405,2189,58,1,,,Science & Technology,"GIL often appears as a scary, obscure *gizmo*. Misunderstanding this aspect of Python may lead to *suboptimal architectural choices*. I invite you to see my attempt at explaining the GIL and its implications, as well as providing pointers for **how to deal with the GIL** in specific situations.
+
+There have been (and still are), of course, attempts to get around the GIL - or *get rid of it* altogether. I hope to give some light to these works.
+
+By providing a comprehensive overview of today's GIL in CPython, this presentation aims to help make **better design choices** - be it choosing a concurrency/parallelism model, Python implementation to use - or even whether or not to drop. Python entirely.
+
+https://2024.pycon.sk/sk/speakers/jacek-ko%C5%82odziej.html",https://i.ytimg.com/vi/hQ-Fiw-a5X4/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=hQ-Fiw-a5X4,https://www.youtube.com/watch?v=hQ-Fiw-a5X4
+17,"How do imports work, and why should I care? (and why should I use a tool like PDM?) - Dom Weldon",https://www.youtube.com/watch?v=sSuUCco_KPE,sSuUCco_KPE,PyCon SK,@pyconsk,https://www.youtube.com/@pyconsk,20240405,2578,57,1,,,Science & Technology,"I asked myself a question: “what happens when you import something in python?” The answer was not as simple as I thought. In this talk, I’ll share what I learnt, and discuss why this is vital for security, before sharing opinions on tooling, especially the use of the Poetry alternative PDM, in 2024.
+
+https://2024.pycon.sk/sk/speakers/dom-weldon.html",https://i.ytimg.com/vi/sSuUCco_KPE/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=sSuUCco_KPE,https://www.youtube.com/watch?v=sSuUCco_KPE
+18,Enabling communication for the hearing impaired through machine learning - Karel Boháček,https://www.youtube.com/watch?v=BlLkhsRmzA4,BlLkhsRmzA4,PyCon SK,@pyconsk,https://www.youtube.com/@pyconsk,20240405,2253,57,1,,,Science & Technology,"In this talk, our project on sign language recognition will be presented. The aim of the project is to create a prototype app that can facilitate communication between hearing-impaired individuals and those who do not know sign language. The challenges faced by hearing-impaired individuals in communicating with the general population will be discussed, and how technology can help bridge this gap will be explained.
+
+A Python code relying on Mediapipe library will be introduced, and its use in extracting key features from sign language gestures, such as hand and finger positions and movements, will be explained. The machine learning techniques used to recognize and classify these gestures will be delved into. The data preprocessing steps, model selection, and training process will be covered, as well as the evaluation metrics used to measure the accuracy of the model. Finally, the prototype will be showcased, and its operation in real-time will be
+
+demonstrated. The limitations of our current approach and potential future developments in the field will also be discussed.
+
+https://2024.pycon.sk/sk/speakers/karel-boh%C3%A1%C4%8Dek.html",https://i.ytimg.com/vi/BlLkhsRmzA4/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=BlLkhsRmzA4,https://www.youtube.com/watch?v=BlLkhsRmzA4
+19,"Simulate, Analyze, Learn: Python's Physics Simulation - Jan Margeta",https://www.youtube.com/watch?v=aGMcSkgFuUc,aGMcSkgFuUc,PyCon SK,@pyconsk,https://www.youtube.com/@pyconsk,20240405,2078,57,2,,,Science & Technology,"Join us on a journey through the world of physics simulators from Python. This talk will explore the power and versatility of various physics simulation libraries, shedding light on their applications and capabilities, in particular applied to robotics.
+
+Discover how these libraries enable scientists and enthusiasts to model and analyze real world systems. We'll delve into practical examples, simulating the world for analysis or as an environment for reinforcement learning.
+
+If you are intrigued by the marriage of code, physics and machine learning, and gain skills to simulate the wonders of the universe using Python, this talk is for you.
+
+https://2024.pycon.sk/sk/speakers/jan-margeta.html",https://i.ytimg.com/vi/aGMcSkgFuUc/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=aGMcSkgFuUc,https://www.youtube.com/watch?v=aGMcSkgFuUc
+20,Pointers? In My Python? It's More Likely Than You Think! - Eli Holderness,https://www.youtube.com/watch?v=b4Pf_JUUsjA,b4Pf_JUUsjA,PyCon SK,@pyconsk,https://www.youtube.com/@pyconsk,20240405,2503,55,1,1.0,,Science & Technology,"Python is a wonderful thing that takes all the complication of memory management away from us. We don’t have to worry about pre-allocating memory for our objects, or remember to free it once we’re done. So, given that we’re not doing it manually, how do these things happen? Do we have to care? Well, sometimes. Maybe.
+
+In this talk, we’ll discuss what a pointer is, where they crop in in Python, and what you need to know in order to avoid getting tripped up by them. We’ll also cover the id of an object, why it's implemented the way it is, and why 'equal' is different from 'identical'. Finally, we’ll talk about garbage collection, what reference counting is, and how CPython knows when it’s time to get rid of unused objects.
+
+Whether you just want to understand what’s going on under the hood without having to dive into the implementation, or you’re on the hunt for some new diabolical things to do with code (self-referential lists are only the beginning!), come along to this talk and learn about the pointers in your Python.
+
+This talk is aimed at anyone with an interest in how Python handles objects in memory, or who’s ever been confused by side-effects popping up in their code. Absolutely no knowledge of C is required, and Python beginners are extremely welcome.
+
+https://2024.pycon.sk/sk/speakers/eli-holderness.html",https://i.ytimg.com/vi/b4Pf_JUUsjA/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=b4Pf_JUUsjA,https://www.youtube.com/watch?v=b4Pf_JUUsjA
+21,"Analýza freelance trhu. Trendy, štatistiky a prehľad v IT projektoch - Michal Brandis",https://www.youtube.com/watch?v=OIf5O_6T1Q4,OIf5O_6T1Q4,PyCon SK,@pyconsk,https://www.youtube.com/@pyconsk,20240405,2667,54,2,,,Science & Technology,"Všimli ste si, ako často recruiteri nerozumejú IT? Nevedia vám poriadne vysvetliť, akú pracovnú pozíciu ponúkajú, spätná väzba po pohovore sa postupne stáva sci-fi fenoménom a keď už sa vám konečne podarí získať nový projekt, mnohí z vás zaň nedostanú ani férové finančné ohodnotenie? Alebo vám klienti dokonca nezaplatia včas?
+
+Pred takmer jedenástimi rokmi sa dvaja ostrieľaní ajťáci rozhodli vydláždiť pre IT špecialistov novú cestu, ktorá by sa odlišovala osobným a odborne fundovaným prístupom. Tú si do dnešného dňa zvolilo viac ako 29-tisíc freelancerov, od konzultantov cez programátorov, testerov, analytikov až po manažérov, ktorí získavajú špičkové projekty. Dá sa povedať, že značka TITANS ovládla trh outsourcingu IT špecialistov na Slovensku.
+
+Prieskumy uvádzajú, že IT oddelenia rozširuje čoraz menej úspešných firiem. Efektívnejší je pre ne dynamický prenájom tímu. Predstavím vám dôvody, pre ktoré toľkí ajťáci prechádzajú na breh freelancingu a faktory, ktoré vám pomôžu zistiť, či je to pre vás vhodná cesta. Dozviete sa viac o vývoji trhu, odvetviach s najväčším množstvom projektov, finančnom ohodnotení a tiež o špecializáciách, ktoré sú najžiadanejšie na IT projektoch. Na záver vám priblížim rozličné formy spolupráce s klientmi, priemerný čas, ktorí naši Titani strávia na projektoch, a praktický rozdiel medzi živnosťou a sro-čkou.
+
+https://2024.pycon.sk/sk/speakers/michal-brandis.html",https://i.ytimg.com/vi/OIf5O_6T1Q4/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=OIf5O_6T1Q4,https://www.youtube.com/watch?v=OIf5O_6T1Q4
+22,Knižnica Numba alebo ako zrýchliť Python? - Rudolf Starovský,https://www.youtube.com/watch?v=UCDb6BDTCR0,UCDb6BDTCR0,PyCon SK,@pyconsk,https://www.youtube.com/@pyconsk,20240405,2251,53,1,,,Science & Technology,"Programovací jazyk Python nepatrí z pohľadu výkonnosti medzi najrýchlejšie programovacie jazyky. Ak chceme zrýchliť naše výpočty v jazyku Python, môže nám pomôcť knižnica Numba, vďaka ktorej môžeme dosiahnuť výkonnosť podobnú kompilovaným jazykom C alebo C++.
+
+V prednáške vysvetlíme ako funguje Python interpreter a čo je Just in time kompilácia. Pozrieme sa aké možnosti ponúka knižnica Numba a na konkrétnych príkladoch uvedieme ako vieme zrýchliť Python kód.
+
+https://2024.pycon.sk/sk/speakers/rudolf-starovsk%C3%BD.html",https://i.ytimg.com/vi/UCDb6BDTCR0/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=UCDb6BDTCR0,https://www.youtube.com/watch?v=UCDb6BDTCR0
+23,Azure OpenAI for Python developers in enterprise organizations - Štěpán Bechynský,https://www.youtube.com/watch?v=VGK-XPv_6JI,VGK-XPv_6JI,PyCon SK,@pyconsk,https://www.youtube.com/@pyconsk,20240405,2312,51,2,,,Science & Technology,"You will see how to use OpenAI in enterprise organizations. How to deploy GPT model just for your organization, how to protect it from public internet access and how to work with Python OpenAI SDK.
+
+https://2024.pycon.sk/sk/speakers/%C5%A1t%C4%9Bp%C3%A1n-bechynsk%C3%BD.html",https://i.ytimg.com/vi/VGK-XPv_6JI/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=VGK-XPv_6JI,https://www.youtube.com/watch?v=VGK-XPv_6JI
+24,Data Engineering Story - Peter Steiner,https://www.youtube.com/watch?v=1yUt5NGwPoI,1yUt5NGwPoI,PyCon SK,@pyconsk,https://www.youtube.com/@pyconsk,20240405,2473,51,0,,,Science & Technology,"From Data Engineering at Takeda to Revolutionizing Real Estate Search: A Journey of Innovation and Impact.
+
+Join me on an inspiring journey that traces my evolution from a Data Engineer at Takeda to the founder of a successful real estate search startup ""Realitymap.sk"" with a thriving user base. In this presentation, I will share key milestones, challenges, and lessons learned during my transformational experience in the world of data engineering.
+
+We'll delve into the intricacies of my work at Takeda, where I honed my skills in data processing, integration, and analysis. Discover how these foundational experiences laid the groundwork for my entrepreneurial venture into the real estate tech landscape.
+
+The narrative will unfold as I navigate the dynamic landscape of data, engineering, and entrepreneurship. Learn about the pivotal moments that shaped my approach to problem-solving, innovation, and collaboration, ultimately leading to the creation of Realitymap.sk that has captured the attention of thousands of users.
+
+https://2024.pycon.sk/sk/speakers/peter-steiner.html",https://i.ytimg.com/vi/1yUt5NGwPoI/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=1yUt5NGwPoI,https://www.youtube.com/watch?v=1yUt5NGwPoI
+25,Data science education: The story of Data Science Academy - Jakub Hantabal a Laura Johanesová,https://www.youtube.com/watch?v=SKrM_BpNdcE,SKrM_BpNdcE,PyCon SK,@pyconsk,https://www.youtube.com/@pyconsk,20240405,2345,43,2,,,Science & Technology,"Taking the first step in learning data science in Python can be challenging. To help people overcome this fear, we co-founded Data Science Academy - an NGO providing accessible data science education focused on building a collaborative community of data enthusiasts. Over the past year, we organized two week-long bootcamps Winter Data School and Summer Data School, as well as five shorter workshops, where we show the magic of Python and inspire people to continue their programming journey.
+
+In this talk, we will share our story of how we set up Data Science Academy, what we do, and how we motivate people to take up data science. We will discuss why quality education and focus of attendees require a physical presence of multiple lecturers, and how to make transition to Python straightforward by drawing parallels with Excel and selecting the key concepts to explain. Lastly, we will demonstrate our unique teaching materials utilizing Jupyter Notebook, and how we use them in our workshops, and how participants on our events used them to advance their careers and set up new collaborations.
+
+https://2024.pycon.sk/sk/speakers/jakub-hantabal-a-laura-johanesov%C3%A1.html",https://i.ytimg.com/vi/SKrM_BpNdcE/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=SKrM_BpNdcE,https://www.youtube.com/watch?v=SKrM_BpNdcE
+26,Solving Two Hard Problems in Computer Science Using Pandas - Miroslav Šedivý,https://www.youtube.com/watch?v=0ellcRYU2-U,0ellcRYU2-U,PyCon SK,@pyconsk,https://www.youtube.com/@pyconsk,20240405,1749,43,1,,,Science & Technology,"There are 2 hard problems in computer science: cache invalidation, naming things, and off-by-1 errors. -- Leon Bambrick
+
+When working with timeseries representing the production data of power plants, the fundamental step is to define a good data structure. The shape of the dataframes must be a good balance between speed and memory usage to work with the right and up-to-date amount of data (cache invalidation). The parameters must have good names for fast and unambiguous identification (naming things). The time intervals must be the correct fit for observed physics to prevent mismatches (off-by-1 errors).
+
+I'll show you a few Python tricks and my experience with how I solved these problems in my projects.
+
+https://2024.pycon.sk/sk/speakers/miroslav-%C5%A1ediv%C3%BD.html",https://i.ytimg.com/vi/0ellcRYU2-U/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=0ellcRYU2-U,https://www.youtube.com/watch?v=0ellcRYU2-U
+27,The Beauty of Sinus And Cosinus: Hypotrochoid Curves as a Web App - Vojta Filipec,https://www.youtube.com/watch?v=zR2q_wvg4ro,zR2q_wvg4ro,PyCon SK,@pyconsk,https://www.youtube.com/@pyconsk,20240405,2088,38,0,,,Science & Technology,"This is a talk of a data scientist who loves to play with math, enjoys creating visualisations in Jupyter Notebook but has limited capabilities of sharing his notebooks online. I will explain what hypotrochoid curves are, how to plot them in Jupyter Notebook, then how remake a notebook into an interactive in-browser app (using ipython widgets and voila), and finally how to publish this app via Binder. I hope this will be useful for anyone who wants to share his/her notebooks with broad audience.
+
+https://2024.pycon.sk/sk/speakers/vojta-filipec.html",https://i.ytimg.com/vi/zR2q_wvg4ro/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=zR2q_wvg4ro,https://www.youtube.com/watch?v=zR2q_wvg4ro
+28,Pythonic Outliers: Mastering LOF Detection - Peter Bakonyi,https://www.youtube.com/watch?v=rx1-8o7Q6fI,rx1-8o7Q6fI,PyCon SK,@pyconsk,https://www.youtube.com/@pyconsk,20240405,2000,37,0,,,Science & Technology,"Join us for an insightful talk that delves into the fundamentals of leveraging the Local Outlier Factor (LOF) algorithm in Python for anomaly detection.
+
+Anomalies, or outliers, in datasets can hold crucial information yet often remain elusive without proper tools. This presentation aims to demystify the concept of LOF and equip attendees with the knowledge to effectively identify and interpret local outliers in their own datasets.
+
+The talk will commence with a brief overview of the theoretical underpinnings of LOF, shedding light on its ability to detect anomalies by comparing the local density of data points. We will explore the nuances of LOF, emphasizing its capacity to capture anomalies that might be overlooked by traditional methods.
+
+We'll provide an overview of the steps involved and share practical insights into integrating LOF into data analysis workflows.
+
+The talk will conclude by outlining considerations for parameter tuning and interpreting LOF results, providing attendees with a foundational understanding of how to apply LOF effectively in their data exploration endeavors.
+
+By the end of the talk, attendees will have a solid understanding of the basics of LOF, its significance in anomaly detection, and the proficiency to apply this algorithm in Python. Whether you are a beginner seeking an introduction to outlier detection or an experienced practitioner looking to enhance your toolkit, this presentation promises to be a valuable exploration into the realm of local outlier factors.
+
+https://2024.pycon.sk/sk/speakers/peter-bakonyi.html",https://i.ytimg.com/vi/rx1-8o7Q6fI/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=rx1-8o7Q6fI,https://www.youtube.com/watch?v=rx1-8o7Q6fI
+29,Lightning talks - Saturday,https://www.youtube.com/watch?v=jRaxeRxA6wo,jRaxeRxA6wo,PyCon SK,@pyconsk,https://www.youtube.com/@pyconsk,20240405,4131,26,0,,,Science & Technology,,https://i.ytimg.com/vi/jRaxeRxA6wo/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=jRaxeRxA6wo,https://www.youtube.com/watch?v=jRaxeRxA6wo
+30,How to not get crazy from information overload - Veronika Kabátová,https://www.youtube.com/watch?v=Dcx0F0vibKw,Dcx0F0vibKw,PyCon SK,@pyconsk,https://www.youtube.com/@pyconsk,20240405,1854,26,0,,,Science & Technology,"There's too many pieces of advice out there to keep them in mind and actually remember to apply them when it matters. It's tempting to become a genius overnight as the competition is harsh. But trying to become perfect and keep every piece of information in mind is overwhelming and stressful.
+
+Where's the line between what's realistic, both as a beginner and as experienced programmer? What are some good habits to adopt right away, and how do they relate to your typical programming memes?
+
+We'll take a look at some behaviors even experienced IT folks struggle with and how to do things instead and why, to get you a head start in your new journey.
+
+https://2024.pycon.sk/sk/speakers/veronika-kab%C3%A1tov%C3%A1.html",https://i.ytimg.com/vi/Dcx0F0vibKw/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=Dcx0F0vibKw,https://www.youtube.com/watch?v=Dcx0F0vibKw
+31,Lightning talks - Friday,https://www.youtube.com/watch?v=uUPiMb-5xlc,uUPiMb-5xlc,PyCon SK,@pyconsk,https://www.youtube.com/@pyconsk,20240405,1812,25,0,,,Science & Technology,,https://i.ytimg.com/vi/uUPiMb-5xlc/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=uUPiMb-5xlc,https://www.youtube.com/watch?v=uUPiMb-5xlc

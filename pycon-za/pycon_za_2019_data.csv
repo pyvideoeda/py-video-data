@@ -1,0 +1,429 @@
+﻿index,title,url,video_id,uploader,uploader_id,uploader_url,upload_date,duration,view_count,like_count,comment_count,tags,categories,description,thumbnail,age_limit,is_live,was_live,availability,webpage_url,original_url
+1,Principals of System Integration,https://www.youtube.com/watch?v=hSycD0aK1so,hSycD0aK1so,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20200213,2394,14502,185,3.0,"python,PyCon,PyConZA",Science & Technology,"by Matthew French
+
+At: PyConZA 2019
+
+Getting different IT systems to talk to each other doesn't need to be hard, but we often find ways to make it much more difficult than it needs to be. 
+
+This talk will discuss some of the common mistakes made when trying to move data between different systems, and ways to avoid them. The focus will be on the most common use case: real time communication in a single direction.
+
+The talk will have examples using Python and RabbitMQ, although the principals we will discuss could apply to many technologies and communication paradigms.
+
+Room: Boundary Room
+Scheduled start: 2019-10-11 09:45:00+02",https://i.ytimg.com/vi_webp/hSycD0aK1so/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=hSycD0aK1so,https://www.youtube.com/watch?v=hSycD0aK1so
+2,Anomaly Detection using Autoencoders,https://www.youtube.com/watch?v=Alkm-PJu9To,Alkm-PJu9To,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20200213,1653,5625,75,,"python,PyCon,PyConZA",Science & Technology,"by Naledi Modise and Angela Lai King
+
+At: PyConZA 2019
+
+Finding anomalous behaviour can be similar to finding a needle in a haystack. This information can be very useful for fraud detection or identifying unusual behavior. Machine Learning techniques such as autoencoders can assist in this process. 
+
+We will present a jupyter notebook followed by a visualisation which indicates anomalous activity using an open source credit card dataset. The anomalous activity will be compared to known fraudulent activity within the dataset. The technologies used for visualisation is Qliksense and the python implementation of autoencoders is the h2o deeplearning estimator package.
+
+Room: Boundary Room
+Scheduled start: 2019-10-11 09:00:00+02",https://i.ytimg.com/vi_webp/Alkm-PJu9To/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=Alkm-PJu9To,https://www.youtube.com/watch?v=Alkm-PJu9To
+3,Production-ready Flask & Django apps on Kubernetes,https://www.youtube.com/watch?v=rdjtPTV_WWo,rdjtPTV_WWo,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20200213,1973,1710,37,,"python,PyCon,PyConZA",Science & Technology,"by Jamie Hewland
+
+At: PyConZA 2019
+
+This talk will explain how to host Flask, Django, and other WSGI web applications on Kubernetes, making effective use of the available abstractions.
+
+Topics covered will include:
+
+- Some of the benefits of running Flask & Django applications as part of a Service-oriented architecture (SOA) on Kubernetes.
+- How the abstractions Kubernetes provides can be used to replace or integrate with existing well-known tools.
+- General best practices for running Python web applications on Kubernetes.
+- Reflections on some of the widely-used Python tools for running web applications and how well they suit modern containerised deployments.
+
+Some basic familiarity with Docker containers as well as either Flask, Django, or similar Python-based web frameworks will be helpful. The talk is aimed at people interested in migrating their existing applications to Kubernetes.
+
+Room: Marathon
+Scheduled start: 2019-10-11 14:15:00+02",https://i.ytimg.com/vi_webp/rdjtPTV_WWo/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=rdjtPTV_WWo,https://www.youtube.com/watch?v=rdjtPTV_WWo
+4,Making Sense of Python Virtual Environment Tools and Workflows,https://www.youtube.com/watch?v=YKfAwIItO7M,YKfAwIItO7M,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20200213,2192,791,16,,"python,PyCon,PyConZA",Science & Technology,"by Daniel Holmes
+
+At: PyConZA 2019
+
+One of the challenges developers at any level face is managing their dependencies and development environments. Python is no exception. In the Python ecosystem, there are a number of tools for managing dependencies and environments. However, many of these tools have similar names with slightly differing functions and workflows (e.g: `virtualenv`, `pyenv`, `venv`, `virtualenvwrapper`, `pipenv`, and so on...) Furthermore, a number of new tools in this space continue to surface each year. This often creates confusion and appears to contradict the adage: _“There should be one – and preferably only one – obvious way to do it.” -- The Zen of Python_
+
+In the absence of ""one obvious way"", the aim of this talk is to help developers at any level better understand the current tools available, what each achieves, and how they can potentially make the developer's life easier. It will cover Python dependency management and the importance of using virtual environments. An explanation and comparison of these different tools, including newer ones, will be also be presented.
+
+Room: Boundary Room
+Scheduled start: 2019-10-10 14:15:00+02",https://i.ytimg.com/vi_webp/YKfAwIItO7M/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=YKfAwIItO7M,https://www.youtube.com/watch?v=YKfAwIItO7M
+5,Sentry as a way not to be afraid,https://www.youtube.com/watch?v=aT5nX0J4XaQ,aT5nX0J4XaQ,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20200213,2253,792,6,,"python,PyCon,PyConZA",Science & Technology,"by Irina Grechikhina
+
+At: PyConZA 2019
+
+Sentry is an open-source error tracking software. It allows you to know exactly what's going on with your web application in real-time and get exact and detailed reports about occurred errors. Lot's of web developers used to rely only on app logs and generic monitoring software, but it's not enough. Multiple production servers, overwhelmed logging, lack of information about request content in case of error hinders problem investigation and produces permanent developer fear of changes. Sentry could ease the whole process and make you: stay calm during deployment, be sure your application works properly, solve problems before users report about it. 
+
+During my talk, I will compare Sentry to ordinary logging, show how to use Sentry, explain how to read Sentry reports and demonstrate that its deployment is very easy. The whole demo will be done using Sentry hosted on my laptop. I will describe the problems I have faced up during sentry.io usage and explain why I prefer self-hosting. Also, I will share a link to my Github with docker-compose and ansible files to deploy your self-hosted Sentry, run through the whole idea and demonstrate that everything is clear and easy. Then I will show how to adjust the first project in Sentry and connect it to a working application in both backend and frontend parts. For each backend and frontend cases, there will be its separate part with examples when Sentry is useful and cannot be replaced by other tools and recommendations on how to make Sentry as effective as possible.
+
+My talk will be useful for web developers of any level who wants to ease the process of problem investigation and finds application logs not handy.
+
+Room: Boundary Room
+Scheduled start: 2019-10-11 11:00:00+02",https://i.ytimg.com/vi_webp/aT5nX0J4XaQ/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=aT5nX0J4XaQ,https://www.youtube.com/watch?v=aT5nX0J4XaQ
+6,Detecting Propaganda in Fake News using Natural Language Processing,https://www.youtube.com/watch?v=gJ7KsLROxhY,gJ7KsLROxhY,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20200213,2279,488,14,,"python,PyCon,PyConZA",Science & Technology,"by Aroma Rodrigues
+
+At: PyConZA 2019
+
+❮strong❯Propaganda Detection in Fake News using Natural Language Processing❮/strong❯
+
+❮strong❯What is the real world basis for this problem?❮/strong❯
+
+Modern times have modern problems. And in India for the past few years we have seen a spike in mob incited violence and killings as a result of fake news spread through social media, messengers and even at times through legit news channels. Apart from educating the masses to identify fake and real news and not get carried away by propaganda, this problem also has a technology based solution. Fake news has already existed in the world, but social media, the fact that the world is so connected that it takes mere seconds for these to spread has exacerbated this issue. All the checks on a piece of news that can be done by a human, can be automated too. This paper aims at doing exactly that by checking with mainstream news agencies to verify the claims by extracting keywords and detecting propaganda using natural language processing libraries. 
+
+.
+
+❮strong❯Why attend this talk?❮/strong❯
+
+This is a technical talk, but the underlying idea is one that almost anyone could identify with. The implementations and the technical know-how’s would be suitable for those even in the Beginner stages in their understanding of machine learning and natural language processing. This talk is to be taken as an example of how some societal/civic problems can be considered technology problems and solved. It also serves as an example in translating almost any such problem into a tech one, dividing it into steps and solving every mini problem to solve the whole.
+
+
+
+❮strong❯The big idea!!!❮/strong❯
+
+What exactly is fake news? For the uninitiated, fake news is news that looks real, at times, and deludes people into believing it but is actually fake or modified to suit vested interests. Fake news has always existed in the world. Till the end of the cold war, fake news has existed, as either pro-Soviet or pro-America propaganda. Some fake news has political implications, affects trade deals and does result in affecting the life of the people living in the countries involved. This is an indirect effect though. In the 21st century with the widespread use of social media, instant messengers the effects are more dangerously direct. Fake news in the last few years have been used to slander communities, inciting violence, riots and even on occasion lynching and killing people. Fake news has also been used on social media to topple governments, swivel elections and build up mass perspective for and against individuals and organizations. This also means that for the modern world and democratic ideals to survive in today’s world the menace of fake news must be addressed.
+
+
+
+There are a few characteristics that help a human differentiate fake news from the rest. A lot of the “fake news” containing messages shared on social media handles, have bad spellings and wrong grammar. A properly researched news article that has been taken from a credible news channel, paper or any other media is less likely to have any of these. Secondly, there would be no legitimate sources mentioned. And the keywords from the article, if searched for would result in either the news not existing, or skillfully modified to the interest of the maker. Images and videos are also not spared from these modifications with the usage of photo editing and video editing software in today’s world. Propaganda based fake news also generally either praises or criticizes individuals, communities or organizations. These characteristics can translate into a technical module, to predict whether a particular article is fake news or not. 
+
+
+
+Based on these very steps this proposal now describes how two major steps are implemented and integrated to accomplish this. 
+
+
+
+The first is to find out reliable sources for the piece of news. Here we can use the Rapid Automatic Keyword Extraction algorithm. It is based on the frequency of a particular word and the co-occurrence of these words, basically a n- gram based approach. The nltk rake algorithm takes care of all the stop words in the English language which consists of prepositions, articles and such. The RAKE algorithm also gives us ranked phrases which makes it easier to use the first “n” ranked phrases to search in a neutral, well established and reputed news aggregator API to find if there are any articles corresponding to these phrases. The second step is to find the similarity of the articles retrieved if any, and the fake news. This  is done by comparing the fake news passage to the extract of sentences from the article containing the said keywords and using the SpaCy similarity feature to determine this.
+
+
+
+The second part is identifying propaganda and this is where I use the Path Model of Blame to determine if the news contains any propaganda both blame and praise. Apart from these propaganda can also be identified from the contents of the article. 
+
+
+
+❮…",https://i.ytimg.com/vi_webp/gJ7KsLROxhY/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=gJ7KsLROxhY,https://www.youtube.com/watch?v=gJ7KsLROxhY
+7,Using Python to visualize and analyze ion beam experiment data  at a particle accelerator facility,https://www.youtube.com/watch?v=AtQXriM5gl0,AtQXriM5gl0,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20200213,2217,407,5,,"python,PyCon,PyConZA",Science & Technology,"by Caswell Pieters
+
+At: PyConZA 2019
+
+The electrostatic Tandetron accelerator of the Materials Research Department at iThemba LABS is used primarily for conducting research in the field of Ion Beam Analysis. 
+
+The field comprises of several techniques, one of which is Real Time In-Situ Rutherford Backscattering Spectrometry. This technique studies elemental composition and depth profiling during the formation of metal silicides, in real time, while the sample material is thermally annealed. Data for these experiments must be acquired by reading out electronics modules, and visualized/analyzed both during the experiment, and offline.
+
+Data acquisition is done using largely in-house developed software built on top of open-source frameworks. The offline analysis, visualization and manipulation of this data, which includes the creation of contour and 3 dimensional plots of the backscattered particle histograms over time, is done using Python in combination with the [ROOT](https://root.cern.ch/) data analysis framework developed at CERN. ROOT has an extension module named PyRoot, that allows interaction with ROOT functions and data structures from Python. 
+
+This talks discusses how the software was developed to achieve that, as well as how Python is used during a live experiment to log information about the state of the experiment and display that data using an ELK stack. While this is a case study in creating specific software tools to handle data from a novel physics experiment, it would be of general interest to anybody wanting to visualize data or do logging using Python.
+
+Room: Marathon
+Scheduled start: 2019-10-11 11:00:00+02",https://i.ytimg.com/vi_webp/AtQXriM5gl0/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=AtQXriM5gl0,https://www.youtube.com/watch?v=AtQXriM5gl0
+8,Machine Learning Engineering principles with Python and MLFlow,https://www.youtube.com/watch?v=oIrnMdG4L0I,oIrnMdG4L0I,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20200213,2571,388,5,1.0,"python,PyCon,PyConZA",Science & Technology,"by Natu Lauchande
+
+At: PyConZA 2019
+
+Machine Learning is a very hyped topic of the moment. While a lot of the talks and presentations cover the data science component, very few cover the nity gritty details of a machine learning pipeline. This talk will focus on the engineering part of Machine Learning by covering different Machine Learning systems architecture best practices, strategies including design. We will delve into the essence of Uber's Michelangelo, Airbnbs s Bighead and Facebooks FB Learner. During the talk, I will use MLFlow and Python as platforms to create an open-source based solution similar to the ones from the big tech companies for the everyday tech startup. The entirety of the cycle of training, deployment, monitoring, champion/challenger testing, and serving layer will be addressed. Technical debt prevention is another topic that will be addressed in the end of the talk.
+
+Room: Ballroom
+Scheduled start: 2019-10-10 11:00:00+02",https://i.ytimg.com/vi_webp/oIrnMdG4L0I/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=oIrnMdG4L0I,https://www.youtube.com/watch?v=oIrnMdG4L0I
+9,"Managers, Diplomats & Gaskets: On Being the Seal That Holds Teams Together",https://www.youtube.com/watch?v=mn06eCDur2o,mn06eCDur2o,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20200213,2753,244,6,,"python,PyCon,PyConZA",Science & Technology,"by Petrus Theron
+
+At: PyConZA 2019
+
+“For important negotiations we don’t send telegrams; we send ambassadors.” — Alan Kay
+
+The problem with ambassadors is they only speak one language…typically French. But to negotiate between worlds, you need to speak two languages. You need a diplomat - or in mechanical terms, a gasket.
+
+This talk is about transmuting wealth between domains of knowledge. Electrical engineering, in particular, has been unreasonably effective at predicting phenomena in other domains. So let's explore some ideas for creating wealth in an increasingly specialised world by cultivating generalist skills.
+
+Room: Ballroom
+Scheduled start: 2019-10-11 16:00:00+02",https://i.ytimg.com/vi_webp/mn06eCDur2o/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=mn06eCDur2o,https://www.youtube.com/watch?v=mn06eCDur2o
+10,No more struggles with Apache Spark (PySpark) workloads in production,https://www.youtube.com/watch?v=I59f168hgS4,I59f168hgS4,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20200213,2159,173,1,,"python,PyCon,PyConZA",Science & Technology,"by Chetan Khatri
+
+At: PyConZA 2019
+
+Spark is a good tool for processing large amounts of data, but there are many pitfalls to avoid in order to build large scale systems in production, This talk will take you through fundamental concepts of Apache Spark for Python Developers. We'll examine some of the data serialization and interoperability issues specifically with Python libraries like Numpy, Pandas which are highly impacting PySpark performance. We will address this issue with Apache arrow (PyArrow API) which is a cross-language development platform for in-memory data. This talk will show what the challenges you may face while productionizing Spark for TB’s of data and their possible solutions.
+
+Room: Marathon
+Scheduled start: 2019-10-11 09:00:00+02",https://i.ytimg.com/vi_webp/I59f168hgS4/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=I59f168hgS4,https://www.youtube.com/watch?v=I59f168hgS4
+11,Automating infrastructure at SA Home Loans with Python (and friends),https://www.youtube.com/watch?v=BT8Pxayqh84,BT8Pxayqh84,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20200213,2023,173,4,,"python,PyCon,PyConZA",Science & Technology,"by Kim van Wyk
+
+At: PyConZA 2019
+
+SA Home Loans develops most of its business software in-house, with 5 agile teams of developers, database specialists and testers. Each team is provided with an isolated virtualised clone of the production environment, comprising more than 20 Windows servers, 5 Linux servers and various databases and supporting infrastructure. A combination of Python, Node.js, bash and Powershell is used to glue a variety of open-source apps together and spin up new labs in as automated a fashion as possible. One of the main focuses of this talk is an illustration of some of the tools and methods SAHL uses or has written to do this work, as opposed to previously creating each lab manually over a week of error-prone manual effort per lab. 
+
+This talk will aim to show that this kind of automation need not be complex or require a large team. The easy-to-learn nature of Python has allowed SAHL's existing developers and devops engineers to work on the above systems after about 2 days of internally-developed Python training and a bit of at-desk assistance when needed.
+
+The talk will also discuss some of the lessons learned while moving away from manual methods to an automated approach.
+
+Room: Marathon
+Scheduled start: 2019-10-10 14:15:00+02",https://i.ytimg.com/vi_webp/BT8Pxayqh84/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=BT8Pxayqh84,https://www.youtube.com/watch?v=BT8Pxayqh84
+12,Why You Should Care About Types,https://www.youtube.com/watch?v=iYjaXlmbaDM,iYjaXlmbaDM,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20200213,3436,156,4,,"python,PyCon,PyConZA",Science & Technology,"by Luka Sterbic
+
+At: PyConZA 2019
+
+By now you have probably all heard about Python static typing. But why should you care? Are types in Python even Pythonic? SPOILER: Guido says so. Is Python turning into Java? In this talk I’ll try to answer these questions and explain how type annotations helped my team scale, made our code more efficient and new hires happier.
+
+We will start with how the typing system in Python came to be, what is the motivation for it and how it looks today. I will demonstrate how to gradually add types to a pre-existing codebase and what benefits will your team get in the long run from a 100% typed project. I will also cover Facebook specific technologies that have now been open sourced like our runtime type collection system, MonkeyType, and the scalable type checker, Pyre!
+
+Room: Ballroom
+Scheduled start: 2019-10-10 09:30:00+02",https://i.ytimg.com/vi_webp/iYjaXlmbaDM/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=iYjaXlmbaDM,https://www.youtube.com/watch?v=iYjaXlmbaDM
+13,Getting Machine Learning Models Ready For Production Using Python,https://www.youtube.com/watch?v=oSOTKk3R6bM,oSOTKk3R6bM,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20200213,2126,151,4,,"python,PyCon,PyConZA",Science & Technology,"by Adit Mehta
+
+At: PyConZA 2019
+
+As a Scientist, it’s incredibly satisfying to be given the freedom to experiment by applying new research and rapidly prototyping. This satisfaction can be sustained quite well in a lab environment but can diminish quickly in a corporate environment. This is because of the underlying commercial value motive which science is driven by in a business setting — if it doesn’t add business value to employees or customers, there’s no place for it! Business value, however, goes beyond just being a nifty experiment which shows potential value to employees or customers. In the context of Machine Learning models, the only [business] valuable models, are models in Production!
+
+In this talk, I will take the audience through the steps involved in moving from experiments in Jupyter Notebooks to automated model training, serving and deployments for Production using an array of Python tools such as Numpy, Pandas, SciKit Learn and Docker.
+
+The intended audience for this talk includes Data Scientists, Software Engineers and any other Data practitioners who have or want to go through the journey of gaining real-time value from  Machine Learning models in Production. This talk will impart lessons learnt in moving from Jupyter experiments to writing production-ready Python code, as well as impart important Python tools, frameworks and libraries which can be used to accelerate such a transition.
+
+Room: Ballroom
+Scheduled start: 2019-10-11 14:15:00+02",https://i.ytimg.com/vi_webp/oSOTKk3R6bM/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=oSOTKk3R6bM,https://www.youtube.com/watch?v=oSOTKk3R6bM
+14,"Using QPython in smartphones as mobile computational laboratory anywhere, anytime and anyhow",https://www.youtube.com/watch?v=4lgIkhaTA98,4lgIkhaTA98,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20200213,1981,140,6,,"python,PyCon,PyConZA",Science & Technology,"by Godfrey Akpojotor
+
+At: PyConZA 2019
+
+The remarkably continuous penetration of smartphones into Africa and the availability of the free and open source Python programming capabilities as QPython (QP) in smartphones meets the accessibility requirement to make them mobile computational laboratory (MCL). We present here one of our current projects under the Python African Computational Science and Engineering Tour Project (PACSETPro) of using QP as MCL for teaching programming and development of smartphone Apps to students, new beginners as well as expert programmers anywhere, anytime and anyhow.
+
+Room: Boundary Room
+Scheduled start: 2019-10-10 11:45:00+02",https://i.ytimg.com/vi_webp/4lgIkhaTA98/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=4lgIkhaTA98,https://www.youtube.com/watch?v=4lgIkhaTA98
+15,Radio Astronomy Reduction Pipelines Using Python and Various Container Technologies,https://www.youtube.com/watch?v=O7ypn-0US08,O7ypn-0US08,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20200213,2660,133,7,,"python,PyCon,PyConZA",Science & Technology,"by Athanaseus Ramaila
+
+At: PyConZA 2019
+
+Modern-era radio interferometry software packages have improved enough to allow astronomers to start to address some of the calibration and imaging issues that are posed by the next generation radio interferometers, particularly the MeerKAT, LOFAR, ASKAP and Square Kilometre Array (SKA). I will present a framework that uses a platform-independent scripting tool called ❮a href=""https://github.com/SpheMakh/Stimela""❯Stimela❮/a❯ that allows the easy creation of astronomical data reduction pipelines using python and any of the supported (❮a href=""https://www.docker.com/""❯Docker❮/a❯, ❮a href=""https://podman.io/""❯Podman❮/a❯, ❮a href=""https://sylabs.io/docs/#singularity""❯Singularity❮/a❯ and ❮a href=""https://github.com/indigo-dc/udocker""❯uDocker❮/a❯) container technology of choice. In this framework, radio interferometry related tasks such as data synthesis, calibration and imaging are executed in containers. In fact, within this framework, the packages that perform these tasks are mostly Python modules. The primary aims are to provide the following services to the Radio Astronomy community: a) A user-friendly environment that gives general users easy access to novel radio interferometry packages. b) Simplified installation and production deployment. I will also discuss other great benefits to this deployment model such as providing a fixed production environment and reproducibility of scientific results.
+
+Room: Marathon
+Scheduled start: 2019-10-11 11:45:00+02",https://i.ytimg.com/vi_webp/O7ypn-0US08/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=O7ypn-0US08,https://www.youtube.com/watch?v=O7ypn-0US08
+16,Deep Neural Networks for Video Applications,https://www.youtube.com/watch?v=rV8e7jFB5pg,rV8e7jFB5pg,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20200213,3539,93,6,,"python,PyCon,PyConZA",Science & Technology,"by Alex Conway
+
+At: PyConZA 2019
+
+Most CCTV video cameras exist as a sort of time machine for insurance purposes. Deep neural networks make it easy to convert video into actionable data which can be used to trigger real-time anomaly alerts and optimize complex business processes. In addition to commercial applications, deep learning can be used to analyze large amounts of video recorded from the point of view of animals to study complex behavior patterns impossible to otherwise analyze. This talk will present some theory of deep neural networks for video applications as well as academic research and several applied real-world industrial examples, with code examples in python.
+
+Room: Ballroom
+Scheduled start: 2019-10-10 16:00:00+02",https://i.ytimg.com/vi_webp/rV8e7jFB5pg/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=rV8e7jFB5pg,https://www.youtube.com/watch?v=rV8e7jFB5pg
+17,Apache Airflow @ Umuzi.org,https://www.youtube.com/watch?v=IAmWKZDmvek,IAmWKZDmvek,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20200213,2177,81,1,,"python,PyCon,PyConZA",Science & Technology,"by Sheena O'Connell
+
+At: PyConZA 2019
+
+People don't want data - what they really want is insight. Or even better, actionable insight. Now the road from data to insights can be a bit of a beast. Take Airbnb as an example - it started as a scrappy social hack and grew into a large and data-driven company. When they were small so was their data, but as the company and technical architecture grew in scale and complexity leveraging that data became a challenge. It became more and more necessary to combine multiple messy data-sources in novel ways, in the right order and on a strict schedule... using distributed computing... with proper logging and error recovery... gosh. Batch jobs, cron, sticky tape and bits of string soon proved insufficient.
+
+Enter Airflow.
+
+Airflow is an Apache top-level project that was open-sourced by Airbnb. It's a seriously powerful tool that's all about defining, scheduling, running, monitoring and distributing complicated workflows.
+
+In this talk I'll give you a bit of a tour of airflow's moving parts. I'll also talk a little bit about how we are leveraging Airflow at Umuzi
+
+Room: Ballroom
+Scheduled start: 2019-10-10 14:15:00+02",https://i.ytimg.com/vi_webp/IAmWKZDmvek/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=IAmWKZDmvek,https://www.youtube.com/watch?v=IAmWKZDmvek
+18,Working with data in Python for the Aspiring Data Scientists,https://www.youtube.com/watch?v=lLbmAcjq2Zw,lLbmAcjq2Zw,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20200213,2102,77,0,,"python,PyCon,PyConZA",Science & Technology,"by Jean-Pierre Voogt
+
+At: PyConZA 2019
+
+Data Science is the latest data buzzword, but what does this mean for us, the analysts and developers? Well, this is just another opportunity to grow and learn a new skill. The great thing about the era we live in is that information is everywhere, but can be a little overwhelming for someone who is just starting off in a new field or wants to learn a new skill.
+
+In this session, we will use Python in an easy-to-understand layout by using Jupyter Notebooks as our interface and pandas as our data manipulation library. This session is for everyone that is just starting off in Python. We will learn how to import/export data into Python, as well as manipulate and analyze data. Finally, we will look at how to bring this back into our SQL Server world.
+
+Room: Marathon
+Scheduled start: 2019-10-10 11:00:00+02",https://i.ytimg.com/vi_webp/lLbmAcjq2Zw/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=lLbmAcjq2Zw,https://www.youtube.com/watch?v=lLbmAcjq2Zw
+19,Teaching kids to code 2.0,https://www.youtube.com/watch?v=W-YiQd5DgjQ,W-YiQd5DgjQ,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20200213,2072,72,0,,"python,PyCon,PyConZA",Science & Technology,"by Whitney Tennant and David Campey
+
+At: PyConZA 2019
+
+This is a joint talk featuring David Campey and Whitney Tennant
+
+In this talk (which is a new and improved version of ❮a href=""https://2018.za.pycon.org/talks/78-teach-kids-7-17-to-code-with-python-coderdojo/""❯David Campey's 2018 talk❮/a❯ on teaching kids to code) 
+we'll discuss:
+
+- Software and games available to teach kids how to code
+
+- Microcontrollers and other fun gadgets
+
+- How to get involved if you would like to mentor
+
+- Best practices for making sure it's fun and enjoyable for kids
+
+Having taught kids how to code in partnership with CoderDojo (a worldwide free community-driven coding education program) David Campey has created CoderLevelUp. CoderLevelUp is a for-purpose initiative which aims to expand the network for free coding education for kids in South Africa. 
+He heads up the dojo at the science center in CT for teaching kids to code. He has also recently started a class in Gugulethu. 
+
+Whitney Tennant met David through PyConZA because of last years talk on this topic. She has since volunteered, is an active mentor and excited to be part of growing CoderLevelUp.
+
+Room: Boundary Room
+Scheduled start: 2019-10-10 13:30:00+02",https://i.ytimg.com/vi_webp/W-YiQd5DgjQ/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=W-YiQd5DgjQ,https://www.youtube.com/watch?v=W-YiQd5DgjQ
+20,A gentle introduction on Building an intelligent Chatbot in Python,https://www.youtube.com/watch?v=1_bNWTd1wH0,1_bNWTd1wH0,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20200213,2111,70,1,,"python,PyCon,PyConZA",Science & Technology,"by Paulus M Shituna
+
+At: PyConZA 2019
+
+Chatbots have the potential to save any individual’s time, hassle, and tedium by automating mundane tasks. Today almost every company has a chatbot deployed to engage with the users. Some of the ways in which companies are using chatbots are: Information distribution & customers support.
+So In this talk, I am going to take you through step-by-step on how to develop a chatbot in python; by exploring some of the its attributes, Classes, Reflections, Instances, API integrations, database, Dictionaries and interfaces.
+Since this will be purely introduction talk, I expect the audiences to be intermediate and beginners.
+
+Room: Ballroom
+Scheduled start: 2019-10-11 09:45:00+02",https://i.ytimg.com/vi_webp/1_bNWTd1wH0/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=1_bNWTd1wH0,https://www.youtube.com/watch?v=1_bNWTd1wH0
+21,Programming for accessibility,https://www.youtube.com/watch?v=bhPpmvBCSOc,bhPpmvBCSOc,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20200213,2882,67,0,,"python,PyCon,PyConZA",Science & Technology,"by Rory Preddy
+
+At: PyConZA 2019
+
+My life is a hilarious roller coaster of miss-intended programming bugs because at 4 foot tall and 65 kilograms I completely fall off your radar.
+
+Why did my scale call me! Why does facial recognition see me as a child? These are all valid questions I often ask myself as I navigate my weird and different world. Have you heard the phrase “You have to be this tall for Micro-services”? well what about: “You have to be this tall to operate a mobile phone?”. I am finding it harder and harder to reach any button except for “#” and “9”.
+
+Building accessibility into the planning stages of programming can eliminate barriers for participation and create an inclusive environment for people with disabilities. Programming for diversity serves as an unquestionable indicator that your software embraces the diversity of your users and cares about their safety and comfort.
+
+Join me on a fascinating and thought-provoking look at how you can program for accessibility.
+
+Room: Marathon
+Scheduled start: 2019-10-10 11:45:00+02",https://i.ytimg.com/vi_webp/bhPpmvBCSOc/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=bhPpmvBCSOc,https://www.youtube.com/watch?v=bhPpmvBCSOc
+22,Rapsheet: Continuous HTTP and DNS monitoring,https://www.youtube.com/watch?v=dNKZ6nq2cZM,dNKZ6nq2cZM,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20200213,1600,63,1,,"python,PyCon,PyConZA",Science & Technology,"by Keagan Jarvis
+
+At: PyConZA 2019
+
+Our company runs hundreds of servers with thousands of clients connecting to them every minute. This translates to thousands of HTTP and DNS endpoints that need to be reachable at all times. In order to monitor these channels we developed Rapsheet a monitoring tool that performs continuous testing of all channels against a variety of third party infrastructure providers. Rapsheet uses asyncio libraries such as aiodns and aiohttp to manage bulk requests and queries.
+
+DNS queries are performed against separate DNS servers such as OpenDNS, CloudFlare and Google's DNS servers. HTTP requests check for availability and actual content correctness. (As a bonus, HTTP and Domains are also constantly checked against third party blacklist providers like Google's SafeBrowsing db).
+
+The other thing that’s different about Rapsheet is its philosophy. It doesn’t do fancy graphs or pretty world-map overlays (even though we do project it on an office wall). Rapsheet is built on the principle of preventing alarm deafness. (Alarm deafness comes from alarms being in an alert state for long periods of time). Rapsheet's chief goal was to strive towards a zero state measured, so any metric in a non-zero state would be an obvious call to action.
+
+A very basic understanding of DNS and HTTP would be useful for this talk. We also think that the general thinking on logging, alerting and alert blindness will be useful for all devs pushing out code that needs to be monitored at scale. Rapsheet is now publically available on Dockerhub and this talk is a crash course on its background thinking, design and functionality.
+
+Room: Marathon
+Scheduled start: 2019-10-11 13:30:00+02",https://i.ytimg.com/vi_webp/dNKZ6nq2cZM/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=dNKZ6nq2cZM,https://www.youtube.com/watch?v=dNKZ6nq2cZM
+23,Talk Data to Me - the art of storytelling,https://www.youtube.com/watch?v=F18nPVpmQTs,F18nPVpmQTs,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20200213,1454,62,2,,"python,PyCon,PyConZA",Science & Technology,"by Diana Pholo
+
+At: PyConZA 2019
+
+Collecting data is now seen as a very important aspect of business. Many companies therefore invest in solutions such as Business Intelligence tools, spreadsheets and dashboards in an attempt to extract useful information from their data. However, these tools still fail to present what is hidden in the data because they do not bring out their underlying significance. This is where data storytelling comes in. It helps to visualise information, understand the narrative behind it and share it.
+
+This talk is aimed at anyone who wishes to get started with storytelling using data. What do you look for? How do you present your findings to stakeholders? Together, we will have a look at common visualisation tools provided Matplotlib, Pandas and Seaborn (accompanied with code snippets and sample outputs). We will then look at the story behind the Harambee youth employment journey data. (Data provided by ❮a href=""https://harambee.co.za/""❯Harambee Youth Employment Accelerator❮/a❯)
+
+Room: Ballroom
+Scheduled start: 2019-10-11 11:45:00+02",https://i.ytimg.com/vi_webp/F18nPVpmQTs/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=F18nPVpmQTs,https://www.youtube.com/watch?v=F18nPVpmQTs
+24,Introduction to the PSSSA,https://www.youtube.com/watch?v=OfAlI1IkcdM,OfAlI1IkcdM,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20200213,282,60,1,1.0,"python,PyCon,PyConZA",Science & Technology,"by David Sharpe
+
+At: PyConZA 2019
+
+A brief introduction to the Python Software Society of South Africa, why it exists, what it does and what it can do.
+
+Room: Ballroom
+Scheduled start: 2019-10-10 09:25:00+02",https://i.ytimg.com/vi_webp/OfAlI1IkcdM/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=OfAlI1IkcdM,https://www.youtube.com/watch?v=OfAlI1IkcdM
+25,Friday Lightning Talks,https://www.youtube.com/watch?v=3nHHKghYDVs,3nHHKghYDVs,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20200213,4777,55,4,,"python,PyCon,PyConZA",Science & Technology,"by 
+
+At: PyConZA 2019
+Room: Ballroom
+Scheduled start: 2019-10-11 15:30:00+02",https://i.ytimg.com/vi_webp/3nHHKghYDVs/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=3nHHKghYDVs,https://www.youtube.com/watch?v=3nHHKghYDVs
+26,There will be Data: Scraping the Web with Python,https://www.youtube.com/watch?v=-HBUPOntr8g,-HBUPOntr8g,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20200213,2157,54,1,,"python,PyCon,PyConZA",Science & Technology,"by Andrew Collier
+
+At: PyConZA 2019
+
+Web scraping is an essential weapon for every Data Scientist to have in their arsenal. Whether you're creating a new dataset from scratch or augmenting an existing dataset, there are reams of data available to be harvested.
+
+In this practical talk I'll show how to use CSS to isolate the relevant portions of a web page and then demonstrate how to use BeautifulSoup to retrieve the associated data.
+
+Room: Marathon
+Scheduled start: 2019-10-11 09:45:00+02",https://i.ytimg.com/vi_webp/-HBUPOntr8g/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=-HBUPOntr8g,https://www.youtube.com/watch?v=-HBUPOntr8g
+27,Edge computing at the edge of the world,https://www.youtube.com/watch?v=sVgNhfAyWwM,sVgNhfAyWwM,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20200213,2237,54,0,,"python,PyCon,PyConZA",Science & Technology,"by Schalk Heunis
+
+At: PyConZA 2019
+
+Well, to be more accurate, running a context-aware machine learning based music recommendation system using Python on an embedded processor integrated into a RC remote control on mountains around South Africa.  The context is generated by sensors on a 1.2 m home-built slope glider, processed on the plane using Python, running on an even smaller embedded board built into the plane (was also thinking about 'Snakes on a plane' as a title) and being transmitted down to the music player while flying.
+
+The music recommendation uses reinforcement learning to map the current flying-style features (e.g. fast-and-reckless vs slow-and-relaxed) at time of recommendation to songs on an SD card. Songs are processed offline into mel-spectograms, features extracted using a convolutional neural network (VGG16) via Keras and then clustered into folders of similar songs.  The mapping of flying style to folders are discovered through reinforcement from skips or listens.  
+
+The purpose of the talk is to introduce the audience to CircuitPython (a flavour of Python for microcontrollers), song feature extraction using convnets and reinforcement learning based context aware realtime music recommendation. The audience for this would be Python enthusiasts, data scientist, tinkerers, those interested in edge computing and anyone frustrated with the lack of context aware music players (especially when flying their RC slope gliders).  The entire project with code, circuit board design, Jupyter notebook and videos with the system in action will be made available on Github.
+
+Room: Ballroom
+Scheduled start: 2019-10-10 13:30:00+02",https://i.ytimg.com/vi_webp/sVgNhfAyWwM/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=sVgNhfAyWwM,https://www.youtube.com/watch?v=sVgNhfAyWwM
+28,Migrating to Python 3 using Docker for your CI/CD pipeline (even if you can't use it in production),https://www.youtube.com/watch?v=VPar831Vhts,VPar831Vhts,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20200213,1942,54,0,,"python,PyCon,PyConZA",Science & Technology,"by Cobus Bernard
+
+At: PyConZA 2019
+
+When moving from Python 2 to 3, it is hard to make sure that you application will work as planned without having to also worry about your build and deployment pipeline. You may also be in a position where you are unable to run Docker in production. In this talk, I will show you how to use Docker for your CI/CD pipeline and how to approach the move to Python 3 using containers to minimise the risk and complexity of the move. We will look at how Docker simplifies the build and test process by running all the steps inside containers by starting with a Python 2 repo in Github, adding Dockerfiles, using CodePipeline to build/test and then deploy to an instance using Docker to transport the application, but not run it. We will then branch the project and start a mock conversion to Python 3 using the same containers, and ultimately deploy to the instance. In the middle of this, we will look at changing the build process to add virtual environments to the production instance as we need to be able to use different versions of Python. The session will include a demo of how to create all the infrastructure with code to help attendees automate their own workflows.
+
+Room: Marathon
+Scheduled start: 2019-10-10 13:30:00+02",https://i.ytimg.com/vi_webp/VPar831Vhts/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=VPar831Vhts,https://www.youtube.com/watch?v=VPar831Vhts
+29,My Journey into Buzzword Bingo,https://www.youtube.com/watch?v=C8sIbRTeAgg,C8sIbRTeAgg,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20200213,1542,43,0,,"python,PyCon,PyConZA",Science & Technology,"by Sibulele Hlongwane
+
+At: PyConZA 2019
+
+There has been quite a bit of buzz around being a Data Scientist lately, especially in the media. And because Data Science doesn't exist on its own. It is always followed by an influx of more buzzwords such as 4th industrial revolution, AI, Machine Learning, Augmented Reality, Digital Disruption, Big Data. And the list goes on and on (Yes. That is a buzzword counter of six).
+
+I studied Computer Science and decided to follow a Data Science route straight out of university. I unknowingly and voluntarily walked right into this world full of data and buzzwords at every turn.  I have managed to survive this long so far and I would like to share my journey about my path.
+
+This talk will cover:
+❮ul❯
+    ❮li❯Introduction to the world of Data Science❮/li❯
+❮/ul❯
+❮ul❯
+    ❮li❯My Expectations of the field❮/li❯
+❮/ul❯
+❮ul❯
+    ❮li❯Typical Data Science Life Cycle Process❮/li❯
+❮/ul❯
+❮ul❯
+    ❮li❯My Data Science Toolbox❮/li❯
+❮/ul❯
+❮ul❯
+    ❮li❯Skill sets & Learning Paths❮/li❯
+❮/ul❯
+❮ul❯
+    ❮li❯Ignoring the hype and busting some myths ❮/li❯
+❮/ul❯
+
+This talk is aimed at people who are interested in getting into Data Science,or are at an entry level and who would like to know about the journey of a fellow Data Scientist.
+
+Side note: Make sure to switch on your buzzword counters at the beginning of the talk.
+
+Room: Ballroom
+Scheduled start: 2019-10-10 11:45:00+02",https://i.ytimg.com/vi_webp/C8sIbRTeAgg/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=C8sIbRTeAgg,https://www.youtube.com/watch?v=C8sIbRTeAgg
+30,Launching a library(API client) in total darkness,https://www.youtube.com/watch?v=vS72A68kH_E,vS72A68kH_E,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20200213,2055,37,1,,"python,PyCon,PyConZA",Science & Technology,"by Ronald Maravanyika
+
+At: PyConZA 2019
+
+This talk will detail how one can create a python API client with limited resources.It's based on my personal experience of having to create an API client to be used by over a thousand users. The talk accommodates all levels of developers, final year students may also find this talk interesting.
+
+We will cover the basics from what is an API client, why we need it, then we will look at common methods of using APIs then l will quickly show you how to create the API client and then we will look at challenges that l faced in terms of shortage of resources as well as the solutions. We will lastly look at how to document the library while writing code.
+
+This talk isn't about the specific details of developing a client for a particular API, but a more general talk about the tools and techniques l used in developing an API client with limited resources.
+
+Room: Boundary Room
+Scheduled start: 2019-10-10 11:00:00+02",https://i.ytimg.com/vi_webp/vS72A68kH_E/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=vS72A68kH_E,https://www.youtube.com/watch?v=vS72A68kH_E
+31,Thursday Lightning Talks,https://www.youtube.com/watch?v=e1AzQWAvv3A,e1AzQWAvv3A,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20200213,1809,36,2,,"python,PyCon,PyConZA",Science & Technology,"by 
+
+At: PyConZA 2019
+Room: Ballroom
+Scheduled start: 2019-10-10 15:30:00+02",https://i.ytimg.com/vi_webp/e1AzQWAvv3A/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=e1AzQWAvv3A,https://www.youtube.com/watch?v=e1AzQWAvv3A
+32,Making sense of Cape Town using NLP,https://www.youtube.com/watch?v=wSlGEPt6gR4,wSlGEPt6gR4,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20200213,2337,34,0,,"python,PyCon,PyConZA",Science & Technology,"by Gordon Inggs
+
+At: PyConZA 2019
+
+In this talk, I will describe how Natural Language Processing helped the City of Cape Town understand itself better. By doing so, I will hopefully illustrate how Machine Learning can be applied in the context of a large organisation, with pre-existing formal structures.
+
+Several months ago, I was asked to help identify City employees who perform ""data-intensive"" work. After several fruitless keyword searches across the City's formal job description data, we turned to the excellent spaCy NLP library to help make sense of the data. And spaCy quickly yielded useful results: understanding of human resource gaps, audience segmentation for internal communication purpose, identification of potential beta testers for new tools, and more.
+
+I will first describe how we embedded the semi-structured formal job descriptions into a vector space using spaCy's large English language model; secondly, how we then embedded phrases of interest, such as ""data"", into that same vector space. Once everything was in the same vector space, we used various distance measures to assess the ""relevance"" of the search phrases to the job description. It is these relevance measures that we used to understand the dynamics within the HR dataset.
+
+This talk will appeal to anyone interested in how data science can find a place in a large public organisation. This talk also has practical value to anyone interested in doing a bit of NLP, but are unsure where to start.
+
+Room: Ballroom
+Scheduled start: 2019-10-11 11:00:00+02",https://i.ytimg.com/vi_webp/wSlGEPt6gR4/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=wSlGEPt6gR4,https://www.youtube.com/watch?v=wSlGEPt6gR4
+33,From data science to scalable NLU and vision cloud service.,https://www.youtube.com/watch?v=g5ax1RYy70w,g5ax1RYy70w,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20200213,2353,24,0,,"python,PyCon,PyConZA",Science & Technology,"by Bernardt Duvenhage
+
+At: PyConZA 2019
+
+The talk will show how (and why) we’ve built our own natural language understanding and machine vision cloud service. The service is used mostly for intelligent dialog agents and the production instances see 5M+ queries a month.
+
+The core of the service is built with Python, NumPy, PyTorch, TensorFlow, OpenCV, TorchVision, scikit-learn and SQLAlchemy. We're undertaking to also build a framework within which machine comprehension models can be developed in isolation and have their own unit tests. The service and deployment related aspects (like dataset management, multi-tenancy and even the database interaction) are handled in a service layer that is well isolated from model development.
+
+The cloud service is implemented with OpenAPI/Swagger & Connexion (Flask) to simplify development and maintenance. The connexion flask app is deployed using Gunicorn and we typically use NGINX as a reverse proxy and load balancer. The model DB is a shared PostgreSQL or Google CloudSQL DB. Everything is containerised and deployed on Kubernetes with Rancher.
+
+Room: Ballroom
+Scheduled start: 2019-10-11 13:30:00+02",https://i.ytimg.com/vi_webp/g5ax1RYy70w/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=g5ax1RYy70w,https://www.youtube.com/watch?v=g5ax1RYy70w
+34,Closing Ceremony,https://www.youtube.com/watch?v=LUoR2omk7gg,LUoR2omk7gg,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20200213,930,17,0,,"python,PyCon,PyConZA",Science & Technology,"by 
+
+At: PyConZA 2019
+Room: Ballroom
+Scheduled start: 2019-10-11 17:00:00+02",https://i.ytimg.com/vi_webp/LUoR2omk7gg/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=LUoR2omk7gg,https://www.youtube.com/watch?v=LUoR2omk7gg
+35,Opening Ceremony,https://www.youtube.com/watch?v=j2FLbABDtuk,j2FLbABDtuk,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20200213,730,13,0,,"python,PyCon,PyConZA",Science & Technology,"by 
+
+At: PyConZA 2019
+Room: Ballroom
+Scheduled start: 2019-10-10 09:00:00+02",https://i.ytimg.com/vi_webp/j2FLbABDtuk/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=j2FLbABDtuk,https://www.youtube.com/watch?v=j2FLbABDtuk

@@ -1,0 +1,340 @@
+﻿index,title,url,video_id,uploader,uploader_id,uploader_url,upload_date,duration,view_count,like_count,comment_count,tags,categories,description,thumbnail,age_limit,is_live,was_live,availability,webpage_url,original_url
+1,Resumen PyConES 2017,https://www.youtube.com/watch?v=8QYnf8EVoRc,8QYnf8EVoRc,Python España,@PythonES,https://www.youtube.com/@PythonES,20170930,400,1428,33,,,Science & Technology,"Vídeo resumen de la PyConES 2017 celebrada en Cáceres.
+http://2017.es.pycon.org/",https://i.ytimg.com/vi_webp/8QYnf8EVoRc/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=8QYnf8EVoRc,https://www.youtube.com/watch?v=8QYnf8EVoRc
+2,Luis Mesas - Machine Learning in production - PyConEs 2017,https://www.youtube.com/watch?v=LOIQ85q2ktM,LOIQ85q2ktM,Python España,@PythonES,https://www.youtube.com/@PythonES,20171006,1517,350,5,,"pycones,pycones 2017,python,machine learning,luis mesas",Science & Technology,"Una vez tenemos el modelo diseñado por los data scientists hay que ponerlo en pro, pero ninguna de las herramientas que han usado son viables en producción y tienen problemas de escalabilidad ¿Que hacemos ahora?. En esta charla veremos arquitecturas aplicadas a 2 casos de uso típicos: arquitectura de ejecución única reutilizable y arquitectura de uso contínuo con bucle de feedback.",https://i.ytimg.com/vi_webp/LOIQ85q2ktM/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=LOIQ85q2ktM,https://www.youtube.com/watch?v=LOIQ85q2ktM
+3,Oscar Ramírez - Usando Python y SocketIO para aplicaciones en tiempo real - PyConES 2017,https://www.youtube.com/watch?v=ejufw8Qrcpk,ejufw8Qrcpk,Python España,@PythonES,https://www.youtube.com/@PythonES,20171006,1282,1493,34,,"pycones,pycones 2017,python,socketio,tiempo real,óscar ramírez",Science & Technology,"Material de la charla en https://github.com/tuxskar/flask-socketio-grid-game
+
+La presentación se basa en explicar de forma sencilla y muy visual una aplicación basada en eventos e interacciones en tiempo real creada para la ocasión.
+
+Estructura de la presentación:
+
+    Vista preliminar de la aplicación en tiempo real y explicación de las partes principales.
+- Introducción a Socket.IO explicando los aspecto más importantes.
+- Explicar las partes de la aplicación que usan Socket.IO tanto en el lado del cliente como en el del servidor.
+- Explicación de como testear y desplegar este tipo de soluciones en entornos de producción.
+- Ejemplo en vivo de carga de usuarios para valorar el rendimiento de estas soluciones.
+
+https://2017.es.pycon.org/",https://i.ytimg.com/vi_webp/ejufw8Qrcpk/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=ejufw8Qrcpk,https://www.youtube.com/watch?v=ejufw8Qrcpk
+4,José Javier Merchante - Herramienta para lograr ser un experto en Python - PyConES 2017,https://www.youtube.com/watch?v=VWt6-qQLqfU,VWt6-qQLqfU,Python España,@PythonES,https://www.youtube.com/@PythonES,20171006,1426,1395,30,4.0,"pycones,pycones 2017,python,idioms,pythonista,josé javier merchante",Science & Technology,"Presentación disponible en https://2017.es.pycon.org/media/keynotes/Pycones.pdf
+
+     
+
+Los lenguajes de programación tienden a seguir unos convenios, o unas guías de estilo, que en el caso de Python es PEP8 y se han diseñado herramientas para comprobarlo y evaluarlo (Pylint, pep8, ...)
+
+Por otro lado, cada lenguaje de programación tiene unos determinados ""idioms"", es decir, unas determinadas palabras reservadas y expresiones que son propias de cada lenguaje.
+
+Aprender en profundidad un lenguaje de programación, y dichos ""idioms"", puede llevar meses o incluso años. Dicho aprendizaje se adquiere con la práctica, colaborando con expertos en el ámbito y documentándose a partir de libros y otros recursos.
+
+Existen muchos programadores, que aun teniendo experiencia, utilizan Python como si estuvieran programando en otro lenguaje, es decir, sin la utilización de los ""idioms"" que se hacen necesarios.
+
+Por todo ello, hemos creado una herramienta que analiza los proyectos de los usuarios, detecta la utilización de determinados ""idioms"", y de este modo, muestra el nivel de Pythonista y proporciona recursos que ayudan a perfeccionar los conocimientos en Python.
+
+https://2017.es.pycon.org/",https://i.ytimg.com/vi_webp/VWt6-qQLqfU/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=VWt6-qQLqfU,https://www.youtube.com/watch?v=VWt6-qQLqfU
+5,Pablo Galindo y Victor Terrón - Metaclases: exactamente qué y (sobre todo) por qué - PyConES 2017,https://www.youtube.com/watch?v=n2Ma5lT99pM,n2Ma5lT99pM,Python España,@PythonES,https://www.youtube.com/@PythonES,20171006,1476,917,20,3.0,"pycones,pycones 2017,python,metaclases,pablo galindo,victor terrón",Science & Technology,"El objetivo de estar charla es abordar un problema que parece ser desafortunadamente común entre el material disponible sobre las metaclases: por más que nos lo expliquen nos sigue sin quedar claro qué son las metaclases… o lo olvidamos a los diez minutos. Los ejemplos que se usan para ilustrar esa cosa tan arcana son casi inevitablemente crípticos, solucionando de forma compleja problemas demasiado rebuscados y que no nos hemos encontrado jamás en nuestro día a día. ¿Tienen realmente alguna utilidad práctica, o son sólo una excusa usada por ponentes para parecer r/iamverysmart? ¿Por qué deberían importarme a mí, con mi nivel medio de Python?
+
+Lo que vamos a hacer en esta charla es empezar describiendo un problema: queremos implementar el mismo comportamiento (por ejemplo, logging) en todos los métodos de mi clase. Para ello tenemos varias opciones, en creciente orden de complejidad: (a) copiar y pegar la misma línea de código en todos los métodos, (b) usar un decorador en cada método y (c) usar un decorador de clase. Pero ninguna solución es ideal, y la falta de elegancia provoca lamentos y lágrimas. Es ante un problema así cuando las metaclases tienen una función, y agradeceremos que se encuentren en nuestro repertorio de habilidades de Python.
+
+Entendiendo por qué nos hacen falta, procedereremos a explicar cómo crear una: primero repasando brevemente la función de __new__() e __init__() para clases normales, y a continuación mostrando cómo hacer lo mismo con las metaclases. Ilustraremos esto con varios ejemplos, usando metaclases para añadir funcionalidad de auto-logging o compilación just-in-time, como hace Numba, a nuestro código. Por último, y a modo de curiosidad, continuaremos hacia mayores niveles de abstracción, aprendiendo qué son los hooks de metaclases y para qué son útiles los ficheros .pth.
+
+https://2017.es.pycon.org/",https://i.ytimg.com/vi_webp/n2Ma5lT99pM/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=n2Ma5lT99pM,https://www.youtube.com/watch?v=n2Ma5lT99pM
+6,Charlas rápidas - PyConEs 2017,https://www.youtube.com/watch?v=Q7WYf-Gluqc,Q7WYf-Gluqc,Python España,@PythonES,https://www.youtube.com/@PythonES,20171006,1799,335,0,2.0,"pycones,pycones 2017,charlas rápidas",Science & Technology,,https://i.ytimg.com/vi_webp/Q7WYf-Gluqc/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=Q7WYf-Gluqc,https://www.youtube.com/watch?v=Q7WYf-Gluqc
+7,Yamila Moreno - Desplegando apliaciones Django en Swarm - PyConES 2017,https://www.youtube.com/watch?v=wQIRrPWyIfU,wQIRrPWyIfU,Python España,@PythonES,https://www.youtube.com/@PythonES,20171006,1474,259,5,,"pycones,pycones 2017,python,django,swarm,despliegues,yamila moreno",Science & Technology,"Presentación en https://yamila-moreno.github.io/django-swarm/#slide=1
+
+El mundo de los orquestadores está en un momento de auge; cada vez en más sitios reclaman conocimientos de devops, para atender a los nuevos retos, de escala global, a los que se enfrentan nuestros servicios.
+
+Junto al conocimiento de todo el ecosistema de nuevas herramientas (Docker, Kubernetes, Swarm...), hace falta también revisitar la forma que damos a nuestras aplicaciones, para que puedan ser fácilmente desplegables. La filosofía de los microservicios, con sus luces y sombras, ayuda a que hagamos aplicaciones bien encapsuladas y que se pueden poner en producción de forma más ágil y limpia.
+
+https://2017.es.pycon.org/",https://i.ytimg.com/vi/wQIRrPWyIfU/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=wQIRrPWyIfU,https://www.youtube.com/watch?v=wQIRrPWyIfU
+8,Juan Diego Godoy Robles - Sysadmin vs Django - PyConES 2017,https://www.youtube.com/watch?v=cWuFtTJt-5E,cWuFtTJt-5E,Python España,@PythonES,https://www.youtube.com/@PythonES,20171006,1600,488,11,,"pycones,pycones 2017,python,django,backend,frontend,juan diego godoy robles",Science & Technology,"Presentación disponible en https://klashxx.github.io/slides/django/#/
+Material de la charla disponible en https://github.com/klashxx/PyConES2017/
+
+Basado en una historia real xP … se mostrará como es posible desarrollar una webapp con Python afrontando un deadline ajustado y sin experiencia previa en desarrollo frontend.
+
+Este proyecto se convirtió en una experiencia altamente gratificante aunque no exenta de escollos, solventados con mayor o menor fortuna. Precisamente estos tips prácticos serán los que protagonicen la charla con un objetivo claro, intentar facilitar el transito del novato al mundo Django.
+
+Alguno de los puntos que trataremos:
+
+- La elección del framework con Django como opción natural.
+- ¿Cómo me monto mi entorno de desarrollo? (docker-compose)
+- ¿Qué motor de BBDD elijo?
+- Estructuración del proyecto
+- settings.py y .env
+- Esquema de urls
+- Autenticación / Registro
+- Modelos y Vistas ... tal para cual
+- Django Rest Framework o el Santo Grial de nuestro Backend
+- Cómo diseñar nuestro Frontend, el mundo de los templates
+- Gestión de permisos .. cada oveja con su pareja
+- JS, Bootstrap , ¿eso que es lo es?
+- Ya tengo mi web ¿ahora qué? Estrategias de despliegue
+
+Nos iremos con una app en el portátil y con suerte quedareis tan enganchados como yo al universo Django.
+
+https://2017.es.pycon.org/",https://i.ytimg.com/vi_webp/cWuFtTJt-5E/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=cWuFtTJt-5E,https://www.youtube.com/watch?v=cWuFtTJt-5E
+9,Javier Aceituno Lapido - Developing in a black hole - PyConES 2017,https://www.youtube.com/watch?v=cbE-nw9x-Aw,cbE-nw9x-Aw,Python España,@PythonES,https://www.youtube.com/@PythonES,20171006,1460,168,2,,,Science & Technology,"""La productividad depende del dominio que tengamos de las herramientas utilizadas"".
+
+¿Sientes que las herramientas de desarrollo que utilizas son pesadas?, ¿piensas que te hacen ser menos productivo?, ¿quieres tener la máxima productividad sin levantar las manos del teclado?. Si es así, esta charla es para tí.
+
+En esta charla mostraré cuales son las herramientas que utilizo día a día en el desarrollo de software, y como, integrando
+- el editor de texto, vim
+- el multiplexador de terminal, tmux
+- el cliente de HTTP, httpie
+- el procesador de json, jq
+Conseguimos un entorno de desarrollo muy productivo, todo ello corriendo sobre un simple terminal.",https://i.ytimg.com/vi_webp/cbE-nw9x-Aw/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=cbE-nw9x-Aw,https://www.youtube.com/watch?v=cbE-nw9x-Aw
+10,Javier Abadía - Fullstack Single Page Applications con Django + Webpack + Vue.js - PyConES 2017,https://www.youtube.com/watch?v=NUo6Fdqoers,NUo6Fdqoers,Python España,@PythonES,https://www.youtube.com/@PythonES,20171006,1804,1952,56,,,Science & Technology,"Presentación: https://www.slideshare.net/JavierAbada/django-vue-javascript-de-3-generacin-para-modernizar-django
+
+Veremos cómo montar una app fullstack usando Django y Vue.js con todos los ingredientes necesarios: 
+- cómo integrar webpack para empaquetar la parte de cliente (Javascript, CSS y otros recursos) a partir de los fuentes 
+- cómo configurar el entorno de desarrollo para disfrutar de la super productividad que aporta hot-module-reloading en el flujo de trabajo normal
+- cómo crear REST endpoints en Django 
+- cómo gestionar la autenticación de usuarios y las sesiones con Django.
+
+La charla será una demo de cómo crear una app de este estilo de principio a fin.",https://i.ytimg.com/vi_webp/NUo6Fdqoers/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=NUo6Fdqoers,https://www.youtube.com/watch?v=NUo6Fdqoers
+11,Héctor Pablos López - Exprimiendo el ORM de Django - PyConES 2017,https://www.youtube.com/watch?v=XZv7k_m9B-w,XZv7k_m9B-w,Python España,@PythonES,https://www.youtube.com/@PythonES,20171006,1321,1281,37,3.0,,Science & Technology,"Slides: https://www.slideshare.net/HctorPablosLpez/exprimiendo-el-orm-de-django
+
+Muchas veces nos resulta mucho más fácil escribir una consulta a base de datos en SQL plano que lidiar con las limitaciones del ORM de Django, perdiendo así la gran potencia y limpieza que este nos ofrece.
+
+Los operadores Q() y F() son, muchas veces, algo que copiamos de la documentación sin entender completamente. Hacer joins simples puede no ser posible, y no hablemos de joins con claves foráneas de más de una columna.
+
+Acabamos abusando del método extra() y la clase RawSQL cuando, en realidad, pueden no ser necesarios.
+
+La experiencia nos ha enseñado a sacar el máximo partido de esta funcionalidad y exprimir al máximo sus posiblidades, limitando al máximo la escritura de código SQL plano. Explicaremos cómo, mediante la definición de algunos elementos básicos e intermedios para manipular querysets y la presentación de algunos trucos útiles.
+
+Puede que te ahorre un par de consultas a la documentación y que descubras alguna cosa nueva, o simplemente que vuelvas a apreciar el ORM de Django.",https://i.ytimg.com/vi_webp/XZv7k_m9B-w/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=XZv7k_m9B-w,https://www.youtube.com/watch?v=XZv7k_m9B-w
+12,Alejandro León - Iniciación Open edX - PyConES 2017,https://www.youtube.com/watch?v=ZJcJUEYGcSc,ZJcJUEYGcSc,Python España,@PythonES,https://www.youtube.com/@PythonES,20171006,1635,809,11,6.0,,Science & Technology,"En esta charla expondremos qué es Open edX, el potencial que tiene, se explicará su arquitectura - montada en Python / Django - y las posibilidades de extensión que presenta (XBlocks).
+
+Explicaremos como montar un Open edX desde cero, haciendo uso de una máquina Full Stack de la versión más reciente y mostraremos cuales son los parámetros de configuración básicos para la personalización de la plataforma. Explicaremos a su vez la posibilidad de crear e instalar un tema que personalice los estilos de la plataforma a nuestro gusto, y de qué forma se crean e incorporan XBlocks a una plataforma Open edX.
+
+Esta charla va destinada a personas con cualquier nivel de Python / Django.",https://i.ytimg.com/vi_webp/ZJcJUEYGcSc/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=ZJcJUEYGcSc,https://www.youtube.com/watch?v=ZJcJUEYGcSc
+13,Valery Calderón - Utilizando BreakOut Detection para detección de anomalías en serie - PyConES 2017,https://www.youtube.com/watch?v=31aftp1K_gs,31aftp1K_gs,Python España,@PythonES,https://www.youtube.com/@PythonES,20171006,1635,179,4,,,Science & Technology,"Presentación: https://speakerdeck.com/valerybriz/breakout-detection-de-twitter
+
+La librería ""BreakOut Detection"" está desarrollada en R por lo que aprendemos a llamarla desde python y a utilizar correctamente los parámetros que condicionan el algoritmo y nos ayudan a tener una correcta detección de anomalías dependiendo del caso que se presente.
+
+El BreakOut Detection es muy útil para obtener una detección de anomalías en una serie de datos respecto al tiempo, está fue desarrollada por el equipo de Twitter y funciona correctamente sin necesidad de una gran complejidad o muchos recursos.",https://i.ytimg.com/vi_webp/31aftp1K_gs/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=31aftp1K_gs,https://www.youtube.com/watch?v=31aftp1K_gs
+14,Rodrigo Cabello - Machine Learning for developers - PyConES 2017,https://www.youtube.com/watch?v=nGVZraMeQmw,nGVZraMeQmw,Python España,@PythonES,https://www.youtube.com/@PythonES,20171006,1358,381,8,,,Science & Technology,"Siempre has escuchado el termino Machine learning y pones caras raras? En esta sesión explicaremos de una manera muy sencilla los principales conceptos. También veremos cómo Azure Machine Learning Studio nos ayudará a crear nuestros experimentos de una manera fácil y sencilla. Además veremos cómo Python nos puede echar una mano a la hora de ejecutar algunos scripts que puedan ser necesarios para pre-procesar nuestros datos.
+
+Introducción a Machine Learning ¿Qué es?
+• Principales conceptos:
+• Aprendizaje supervisado y no supervisado
+• Aprendizaje supervisado
+• Clasificación
+• Regresión
+• Detección de anomalías.
+• Algoritmos de aprendizaje automático
+• Tipos de algoritmos
+• ¿Cómo puedo elegir el algoritmo adecuado?
+• Python tools visual studio (¡Soporte para Python en VS!)
+• Probar nuestros scripts de python
+• Azure Machine Learning Studio
+• Obtener los datos
+• Preprocesar los datos
+• Definir las características
+• Elegir y aplicar un algoritmos de aprendizaje
+• Probar nuestro experimento y publicarlo
+• Ejemplos adicionales de experimentos
+
+Por último, veremos una aplicación desarrollada en Flask que realizará el proceso de cuantización de imágenes haciendo uso de los Web services creados con Azure Machine Learning.",https://i.ytimg.com/vi_webp/nGVZraMeQmw/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=nGVZraMeQmw,https://www.youtube.com/watch?v=nGVZraMeQmw
+15,Roberto Abdelkader Martínez Pérez - Sistemas Expertos en Python con PyKnow - PyConES 2017,https://www.youtube.com/watch?v=T7QzdVxRaOo,T7QzdVxRaOo,Python España,@PythonES,https://www.youtube.com/@PythonES,20171006,1561,4970,56,6.0,,Science & Technology,"Presentación de PyKnow, una librería para Python con la que es posible escribir nuestros propios sistemas expertos con Python de forma nativa.
+
+Iniciaremos la sesión con una introducción a las bases de la inteligencia artificial, en concreto en el área de los sistemas expertos con un breve repaso histórico, terminando con el estado actual general y particularmente en el ecosistema de Python.
+
+En esta sesión presentaré varios ejemplos para ilustrar en que tipo de problemas tiene sentido utilizar un sistema experto y en cuáles no.
+
+Veremos código real que se utiliza en producción donde PyKnow permite a los usuarios de la aplicación alterar el comportamiento de la misma sin tocar una sola línea de código.
+
+Para finalizar repasaremos el roadmap para próximas versiones y tendremos una ronda de preguntas y respuestas.",https://i.ytimg.com/vi_webp/T7QzdVxRaOo/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=T7QzdVxRaOo,https://www.youtube.com/watch?v=T7QzdVxRaOo
+16,"Ricardo Guerrero Gómez - Mi coche ya es mayor de edad, creo que puede conducir solito - PyConES 2017",https://www.youtube.com/watch?v=X2p1b4aNhxA,X2p1b4aNhxA,Python España,@PythonES,https://www.youtube.com/@PythonES,20171006,1565,139,2,,,Science & Technology,"Presentación: https://www.slideshare.net/RicardoGuerreroGmezO/pycones-2017-mi-coche-ya-es-mayor-de-edad-creo-que-puede-conducir-l-solito-ricardo-guerrero-gmezolmedo
+
+El contenido de esta charla se enfocará en todos los pasos necesarios para hacer que un coche sea capaz de aprender nuestro estilo de conducción en un simulador.
+
+El esquema aproximado de la charla es el siguiente (aunque puede haber ligeros cambios):
+
+1. Haremos una introducción a las 2 tendencias existentes en los coches autónomos: la perspectiva de la robótica y la perspectiva de la IA.
+2. Tras esa introducción entraremos de lleno en el problema viendo como es el simulador que vamos a utilizar, los datos que genera y como es la problemática que queremos afrontar.
+3. Pasaremos a describir como usaremos Pandas y Matplotlib para hacer una exploración de los datos generados.
+4. Dado que los datos generados no van a ser suficientes ni vamos a tenerlos distribuidos como queremos, aplicaremos técnicas de aumento de datos con Numpy y OpenCV para solucionar esto.
+5. Una vez que ya tenemos todo a punto, es el momento de pasar a Keras (con el Backend de Tensorflow) para crear nuestro modelo de Deep Learning.
+6. ¿Como testeamos el resultado? Veremos que a veces las métricas no lo son todo y es el momento de probar otras cosas.
+7. Por último aprenderemos la importancia de la calidad de los datos y se expondrán algunas de las problemáticas que pueden surgir a lo largo del proyecto.",https://i.ytimg.com/vi_webp/X2p1b4aNhxA/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=X2p1b4aNhxA,https://www.youtube.com/watch?v=X2p1b4aNhxA
+17,Modelo de Redes Neuronales Recurrentes para el Análisis y Predicción de Series Temporales -PyConES17,https://www.youtube.com/watch?v=hRkHsWhfmHw,hRkHsWhfmHw,Python España,@PythonES,https://www.youtube.com/@PythonES,20171006,1645,3764,75,8.0,,Science & Technology,"Por: J.C. González-Avella y J. M. Tuduri
+
+En está propuesta se introduce el uso de Redes Neuronales de tipo LSTM como nuevo enfoque para tratar el problema del análisis y predicción de series temporales. Como casos de estudio aplicamos esta metodología al estudio del consumo eléctrico en la población de Sóller (Mallorca) y en el estudio del consumo eléctrico en la isla de Tenerife. El objetivo es mostrar cómo, con este enfoque se puede predecir el consumo eléctrico de las poblaciones con un grado de precisión que ronda el 93%.
+
+https://2017.es.pycon.org/en/schedule/modelo-de-redes-neuronales-recurrentes-para-el-analisis-y-prediccion-de-series-temporales/",https://i.ytimg.com/vi_webp/hRkHsWhfmHw/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=hRkHsWhfmHw,https://www.youtube.com/watch?v=hRkHsWhfmHw
+18,"Beatriz González - Tu web está lista, ¿lo sabe Google? - PyConES17",https://www.youtube.com/watch?v=HVWQoDT_R1U,HVWQoDT_R1U,Python España,@PythonES,https://www.youtube.com/@PythonES,20171006,1396,70,2,,,Science & Technology,"Llevas meses peleándote con el código, luchando con bugs… Y por fin terminas el proyecto y lo haces público. Pero no entra nadie...
+
+¿Se te olvida algo? ¿Estás seguro de que has hecho todo lo posible en cada fase del desarrollo para que la web se posicione en Google? ¿Has elegido las URLs correctas o los títulos adecuados? ¿Te acordaste de bloquear la indexación de los entornos de prueba?
+
+https://2017.es.pycon.org/en/schedule/tu-web-esta-lista-lo-sabe-google/",https://i.ytimg.com/vi_webp/HVWQoDT_R1U/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=HVWQoDT_R1U,https://www.youtube.com/watch?v=HVWQoDT_R1U
+19,Andrés Rojano Ruiz - Ampliando la documentación de APIs con drf swagger customization - PyConES17,https://www.youtube.com/watch?v=2qUmpM3QgJ4,2qUmpM3QgJ4,Python España,@PythonES,https://www.youtube.com/@PythonES,20171006,1330,105,1,,,Science & Technology,"Presentación del paquete drf-swagger-customization, una extensión de django-swagger que nos permitirá añadir documentación adicional a la generada de forma automática por el django-swagger.
+
+Además, se hablará de la necesidad que llevó a su desarrollo y como se planteó la solución. Se mencionarán frameworks de desarrollo de APIs como djangorest-framework y swagger.
+
+https://2017.es.pycon.org/en/schedule/ampliando-la-documentacion-de-apis-con-drf-swagger-customization/",https://i.ytimg.com/vi_webp/2qUmpM3QgJ4/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=2qUmpM3QgJ4,https://www.youtube.com/watch?v=2qUmpM3QgJ4
+20,Adrián Matellanes - Introducción a GraphQL - PyConES17,https://www.youtube.com/watch?v=RtyxhWH58cA,RtyxhWH58cA,Python España,@PythonES,https://www.youtube.com/@PythonES,20171006,1522,290,4,,,Science & Technology,"En la actualidad, la mayoría de las APIs que usamos a diario son REST o SOAP. La necesidad de ofrecer productos más complejos que simples aplicaciones CRUD donde creamos, borramos, listamos y modificamos recursos ha empujado a cambiar la forma en la que interactuamos con las APIs. En 2012, Facebook desarrolló GraphQL y lo lanzó al público en 2015 como proyecto open source. GraphQL nace para solucionar la mayoría de los problemas que nos encontramos cuando interactuamos con una API REST.
+
+https://2017.es.pycon.org/en/schedule/introduccion-a-graphql/",https://i.ytimg.com/vi_webp/RtyxhWH58cA/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=RtyxhWH58cA,https://www.youtube.com/watch?v=RtyxhWH58cA
+21,Víctor Muñoz Berti - pytest más allá de la documentación - PyConES 2017,https://www.youtube.com/watch?v=Sbd0N8mP1PM,Sbd0N8mP1PM,Python España,@PythonES,https://www.youtube.com/@PythonES,20171006,1483,132,2,,,Science & Technology,"pytest es un framework de testing a la vez sencillo e increíblemente avanzado. Si bien las técnicas básicas son accesibles y están bien documentadas, dentro de pytest existe toda una familia de herramientas que nos permiten realizar operaciones tan exóticas como útiles con nuestras suites de tests.
+
+https://2017.es.pycon.org/en/schedule/pytest-mas-alla-de-la-documentacion/",https://i.ytimg.com/vi_webp/Sbd0N8mP1PM/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=Sbd0N8mP1PM,https://www.youtube.com/watch?v=Sbd0N8mP1PM
+22,Juan Luis Cano - Keynote - PyConES 2017,https://www.youtube.com/watch?v=i7l1g2oZq2E,i7l1g2oZq2E,Python España,@PythonES,https://www.youtube.com/@PythonES,20171006,3123,462,8,1.0,,Science & Technology,,https://i.ytimg.com/vi_webp/i7l1g2oZq2E/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=i7l1g2oZq2E,https://www.youtube.com/watch?v=i7l1g2oZq2E
+23,"José Antonio Perdiguero - Crea, empaqueta y distribuye tu propia aplicación - PyConES 2017",https://www.youtube.com/watch?v=DHCtsYni_Hk,DHCtsYni_Hk,Python España,@PythonES,https://www.youtube.com/@PythonES,20171006,1408,384,1,1.0,,Science & Technology,"¡Distribuye tu aplicación! Una guía sobre cómo usar las herramientas para empaquetado y distribución de Python. Entre otros aspectos se cubrirá la generación de una estructura básica para aplicaciones, cómo crear un fichero setup.py básico y algunas construcciones más avanzadas, y por último cómo registrar y subir tu aplicación a PyPI.
+
+https://2017.es.pycon.org/en/schedule/crea-empaqueta-y-distribuye-tu-propia-aplicacion/",https://i.ytimg.com/vi_webp/DHCtsYni_Hk/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=DHCtsYni_Hk,https://www.youtube.com/watch?v=DHCtsYni_Hk
+24,"A. Vallbona - Pytest recomendaciones, paquetes básicos para testing en Python y Django - PyConES17",https://www.youtube.com/watch?v=K20GeR-lXDk,K20GeR-lXDk,Python España,@PythonES,https://www.youtube.com/@PythonES,20171006,1657,676,7,,,Science & Technology,"Durante el desarrollo de software es vital el uso de test, bien sean unitarios, funcionales o de integración. Uno de los frameworks de testing disponibles de Python es pytest el cual es considerado prácticamente un estándar en la comunidad de Python debido a su sencillez y su extenso uso en la mayoría de proyectos de software de Python. Esta charla no trata sobre buenas prácticas de testing sino de la presentación y consejos de uso sobre una selección “curada” de plugins de pytest.
+
+https://2017.es.pycon.org/en/schedule/pytest-recomendaciones-paquetes-basicos-para-testing-en-python-y-django/",https://i.ytimg.com/vi_webp/K20GeR-lXDk/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=K20GeR-lXDk,https://www.youtube.com/watch?v=K20GeR-lXDk
+25,​Juan Francisco Huete Verdejo - OpenCV el ojo de la serpiente que todo lo ve - PyConES 2017,https://www.youtube.com/watch?v=GRAzLwMTsuc,GRAzLwMTsuc,Python España,@PythonES,https://www.youtube.com/@PythonES,20171006,1460,183,5,,,Science & Technology,"En esta charla vamos a ver las nociones básicas de OpenCV, conectaremos una webcam y veremos como en tiempo real se puede obtener información del entorno que nos rodea.
+Se explicará un poco de código sencillo con resultados sorprendentes y se mostrarán algunos ejemplos mas elaborados.
+
+https://2017.es.pycon.org/en/schedule/opencv-el-ojo-de-la-serpiente-que-todo-lo-ve/",https://i.ytimg.com/vi_webp/GRAzLwMTsuc/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=GRAzLwMTsuc,https://www.youtube.com/watch?v=GRAzLwMTsuc
+26,"Miguel Jiménez - Factories, what the hell? - PyConES 2017",https://www.youtube.com/watch?v=9RIUYeaKX1Q,9RIUYeaKX1Q,Python España,@PythonES,https://www.youtube.com/@PythonES,20171006,1324,179,6,,,Science & Technology,"¿Cuantas veces has tenido la base de datos de tu proyecto vacía y has necesitado poblarla para desarrollar?... 1... 2... 3... 4..... Seguro que miles de veces y esto es un problema porque necesitas poder poblar tu bd para así empezar a desarrollar cuanto antes. El objetivo de la charla será mostrar como poblar de forma genérica rápidamente nuestra base de datos para así conseguir replicar esto en todas las máquinas que necesitemos en menos de 1 minuto.
+
+https://2017.es.pycon.org/en/schedule/factories-what-the-hell/",https://i.ytimg.com/vi_webp/9RIUYeaKX1Q/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=9RIUYeaKX1Q,https://www.youtube.com/watch?v=9RIUYeaKX1Q
+27,Miguel González Álvarez - ¿DÃ³nde estÃ¡ mi Ã±? - PyConES 2017,https://www.youtube.com/watch?v=BLJl3x8JLOQ,BLJl3x8JLOQ,Python España,@PythonES,https://www.youtube.com/@PythonES,20171006,1471,161,3,,,Science & Technology,"Se hará un repaso histórico sobre como se ha ido afrontando el problema de la representación de caracteres por de medios electrónicos a lo largo de la historia desde el telégrafo hasta el estándar actual. 
+
+Seguidamente describiremos como se manejaba en Python 2 y qué cambios se produjeron con la llegada de Python 3.",https://i.ytimg.com/vi_webp/BLJl3x8JLOQ/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=BLJl3x8JLOQ,https://www.youtube.com/watch?v=BLJl3x8JLOQ
+28,"J.Romero - Logueando como un pro, porque llenar un script con prints sigue siendo cutre - PyConES17",https://www.youtube.com/watch?v=wSJzLaoDT88,wSJzLaoDT88,Python España,@PythonES,https://www.youtube.com/@PythonES,20171006,1169,149,3,,,Science & Technology,"A menudo necesitamos un cierto nivel de comunicación desde nuestros scripts y el candidato preferido por todos es `print()` para sacar mensajes en el intérprete... ¡hasta que conozcas `logging`!
+
+Vamos a conocer el módulo `logging` de la biblioteca estándar: ¿Para qué es útil? ¿Cuáles son sus componentes principales? ¿Cómo puedo aprovecharlo? Y veremos muchos ejemplos: entre ellos, entenderemos por fin el `LOGGING` de los ajustes de Django.",https://i.ytimg.com/vi_webp/wSJzLaoDT88/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=wSJzLaoDT88,https://www.youtube.com/watch?v=wSJzLaoDT88
+29,Diego Muñoz - High impact refactors while keeping the lights on - PyConES 2017,https://www.youtube.com/watch?v=KFjgXtZs6IY,KFjgXtZs6IY,Python España,@PythonES,https://www.youtube.com/@PythonES,20171006,1517,71,2,,,Science & Technology,"Presentación: https://speakerdeck.com/ticketeaeng/high-impact-refactors-keeping-the-lights-on
+
+Reemplazar, cambiar o incluso evolucionar una plataforma de software con años de desarrollo ya aplicados nunca es tarea fácil. A su vez, el software tiende a crecer y cambiar como si de un ser vivo se tratara, haciendo cada desarrollo un poco más complejo que el anterior, forzando a llevar documentaciones, wikis, seguir procesos, y ralentizando nuevos proyectos.
+
+En esta charla hablaremos de cómo en Ticketea, que lleva 7 años funcionando con éxito, estamos acometiendo importantes cambios internos, tanto reescrituras de componentes existentes como nuevas piezas intentando modificar lo menos posible los flujos de negocio actuales, aplicando patrones de diseño como parallel change, event bus, o event sourcing. Pondremos como ejemplo el desarrollo de nuestra nueva API de compras (usando Python 3), la cual escucha determinados sucesos o eventos que suceden en la plataforma principal (construida con PHP y Python 2), gestiona todo el flujo de compra y emite de vuelta los datos para reincorporarlos a dicha plataforma, permitiendo pensar un sistema diferente, tiene las mismas restricciones.
+
+También estamos intentando implantar como objetivos o metas para todo proyecto las siguientes ideas y principios:
+- Hacer software simple
+- Iterar, iterar, iterar
+- Paridad Desarrollo-Producción
+- Automatización de operaciones (Docker y AWS)",https://i.ytimg.com/vi_webp/KFjgXtZs6IY/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=KFjgXtZs6IY,https://www.youtube.com/watch?v=KFjgXtZs6IY
+30,Apertura Sabado - PyConES 2017,https://www.youtube.com/watch?v=xpmd0_PWZaw,xpmd0_PWZaw,Python España,@PythonES,https://www.youtube.com/@PythonES,20171006,802,18,0,,,Science & Technology,,https://i.ytimg.com/vi_webp/xpmd0_PWZaw/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=xpmd0_PWZaw,https://www.youtube.com/watch?v=xpmd0_PWZaw
+31,Álvaro León - Patrones de diseño Python boloñesa - PyConES 2017,https://www.youtube.com/watch?v=D8nZIT-am2Y,D8nZIT-am2Y,Python España,@PythonES,https://www.youtube.com/@PythonES,20171006,1653,638,11,2.0,,Science & Technology,"Cómo pasar de escribir código espaghetti a código claro, explícito reutilizable y mantenible, echando un vistazo a algunos patrones de diseño para sacar buen partido de las características más pythónicas del lenguaje.",https://i.ytimg.com/vi_webp/D8nZIT-am2Y/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=D8nZIT-am2Y,https://www.youtube.com/watch?v=D8nZIT-am2Y
+32,Antonio Hidalgo y Juan Luis Cano - ¡Atrapa ese asteroide con poliastro! - PyConES17,https://www.youtube.com/watch?v=PwpdHc1M66I,PwpdHc1M66I,Python España,@PythonES,https://www.youtube.com/@PythonES,20171006,1488,170,4,1.0,,Science & Technology,"poliastro es una biblioteca de código abierto escrita en Python puro utilizada para hacer cálculos orbitales. Este año participó en el Summer of Code de la Agencia Espacial Europea (SOCIS), un programa parecido al de Google que otorga becas a estudiantes para desarrollar código abierto en verano. En esta charla hablaremos de la API que se ha desarrollado durante el verano para descargar datos de asteroides, cometas y otros objetos ¡incluyendo alguna demo!
+
+https://2017.es.pycon.org/en/schedule/atrapa-ese-asteroide-con-poliastro/",https://i.ytimg.com/vi_webp/PwpdHc1M66I/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=PwpdHc1M66I,https://www.youtube.com/watch?v=PwpdHc1M66I
+33,Naomi Ceder - Keynote - PyConES 2017,https://www.youtube.com/watch?v=ayQK6app_wA,ayQK6app_wA,Python España,@PythonES,https://www.youtube.com/@PythonES,20171006,2514,227,2,,,Science & Technology,,https://i.ytimg.com/vi_webp/ayQK6app_wA/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=ayQK6app_wA,https://www.youtube.com/watch?v=ayQK6app_wA
+34,Clausura - PyConES 2017,https://www.youtube.com/watch?v=tC81vZKKT7M,tC81vZKKT7M,Python España,@PythonES,https://www.youtube.com/@PythonES,20171006,2319,96,0,,,Science & Technology,,https://i.ytimg.com/vi_webp/tC81vZKKT7M/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=tC81vZKKT7M,https://www.youtube.com/watch?v=tC81vZKKT7M
+35,Javier Torres - Cómo complicar innecesariamente tu vida programando una shell... - PyConES 2017,https://www.youtube.com/watch?v=vjLmxqBB1iE,vjLmxqBB1iE,Python España,@PythonES,https://www.youtube.com/@PythonES,20171006,1142,284,1,,"pycones,pycones 2017,python,shell,prompt_toolkit,asyncio,ply,javier torres niño",Science & Technology,"Presentación en https://2017.es.pycon.org/media/keynotes/PyConES_-_tosh.pdf
+
+Cómo complicar innecesariamente tu vida programando una shell asíncrona en Python (Javier Torres Niño).
+
+¿Harto de escribir siempre los mismos comandos en tu shell? ¿No estaría bien que los comandos fueran asíncronos? ¿Te gusta complicarte la vida innecesariamente?
+
+Si la respuesta a estas preguntas es sí, escribir tu propia shell puede ser la solución a tus ""problemas"".
+
+En esta charla hablaremos de cómo se puede utilizar Python, junto con prompt_toolkit, asyncio y ply para
+escribir tu propio intérprete de comandos avanzado, con interfaz gráfica en modo texto y ejecución asíncrona de tareas.
+
+http://2017.es.pycon.org/",https://i.ytimg.com/vi_webp/vjLmxqBB1iE/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=vjLmxqBB1iE,https://www.youtube.com/watch?v=vjLmxqBB1iE
+36,Maite Giménez - Deep Learning models in Python without gibberish - PyConES 2017,https://www.youtube.com/watch?v=5sWOFMQjks8,5sWOFMQjks8,Python España,@PythonES,https://www.youtube.com/@PythonES,20171006,1625,207,0,,,Science & Technology,"Las dos tecnologías más disruptivas actualmente en AI son el Deep Learning y el Reinforcement Learning. ¿Podemos hacernos ricos aplicando estas tecnologías al mundo de las finanzas? En esta charla daremos algunas claves sobre cómo usar Tensorflow para crear redes neuronales que aprenden a invertir en los mercados, y una introducción al Deep Q Learning, un algoritmo de aprendizaje con refuerzo que aprende el “juego” de la Bolsa como cualquier otro robot sometido a ciclos de acción + recompensa.
+
+https://2017.es.pycon.org/en/schedule/pythontensorflow-como-ganar-dinero-en-bolsa-aplicando-deep-learning/",https://i.ytimg.com/vi_webp/5sWOFMQjks8/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=5sWOFMQjks8,https://www.youtube.com/watch?v=5sWOFMQjks8
+37,Javier Arias - Why lazy developers write beautiful code - PyConES 2017,https://www.youtube.com/watch?v=tsYSFGNaFcU,tsYSFGNaFcU,Python España,@PythonES,https://www.youtube.com/@PythonES,20171006,1562,201,1,,,Science & Technology,"There has been a lot of discussion during the last 50 years about the nature of programming: Is it an art like poetry? Is it craftsmanship like pottery? Is it an exact science like physics? Or a non exact science like medicine? Is it engineering like bridge building?
+
+
+Whatever the nature of software development is: during this time, a lot of tools and techniques have appeared to make your lazy-developer life more difficult: Coding conventions, OOP, FP, SOLID, Design Patterns, Tests, TDD, UML, Use-cases, CASE tools, Refactoring, RUP, Agile, SCRUM, Continuous Integration, Code Complexity Metrics, Emergent Architecture, DevOps, SCM... and whatnot!
+But, sometimes, being a lazy developer makes you do things that seemed counterintuitive, in order to pursue your main objective: WORK LESS.
+
+https://2017.es.pycon.org/en/schedule/why-lazy-developers-write-beautiful-code/",https://i.ytimg.com/vi_webp/tsYSFGNaFcU/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=tsYSFGNaFcU,https://www.youtube.com/watch?v=tsYSFGNaFcU
+38,Dario Varotto y Diego Hueltes - Flask vs Django - PyConES17,https://www.youtube.com/watch?v=Cs1UEeOjJUE,Cs1UEeOjJUE,Python España,@PythonES,https://www.youtube.com/@PythonES,20171006,1231,463,1,,,Science & Technology,"Flask or Django? Which one is better? We know the answer: it depends!
+In RavenPack, we use both frameworks in big projects and for that, we have been dealing with its strengths and weaknesses in a real-world environment.
+
+https://2017.es.pycon.org/en/schedule/flask-vs-django/",https://i.ytimg.com/vi_webp/Cs1UEeOjJUE/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=Cs1UEeOjJUE,https://www.youtube.com/watch?v=Cs1UEeOjJUE
+39,"Santiago Saavedra - Cómo diseñar un programa CLI fácil de lanzar, con un Click - PyConES17",https://www.youtube.com/watch?v=QHHTI0bEpmA,QHHTI0bEpmA,Python España,@PythonES,https://www.youtube.com/@PythonES,20171006,1513,178,2,,,Science & Technology,"Estás construyendo un script o un pequeño frontend para probar tu biblioteca. ¿Como probar sus distintas opciones?
+
+Podrías usar argparse, pero cada vez los CLI tienen más parámetros que dependen del modo o del subcomando, así que necesitas algo modular. Esta charla presentará Click, una biblioteca diseñada para hacer sencillo exponer programas CLI, que incluso te permite interoperar argumentos con variables de entorno. Ejecuta tus scripts tanto en local como en un cluster sin ningún esfuerzo.
+
+https://2017.es.pycon.org/en/schedule/como-disenar-un-programa-cli-facil-de-lanzar-con-un-click/",https://i.ytimg.com/vi_webp/QHHTI0bEpmA/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=QHHTI0bEpmA,https://www.youtube.com/watch?v=QHHTI0bEpmA
+40,Naomi Ceder - Come learn about the Python Software Foundation! - PyConES17,https://www.youtube.com/watch?v=PXD7PJl2DTs,PXD7PJl2DTs,Python España,@PythonES,https://www.youtube.com/@PythonES,20171006,1578,129,0,,,Science & Technology,"The PSF plays a key role in fostering the Python community around the world. Come find out what the PSF does (and doesn't do), how it works, how the PSF can support your community, and how you can be part of the PSF. We'll describe the membership model and how everyone can be a member, and many people can be voting members. We will also talk about the PSF Grants program, and answer any questions you might have. Everyone is welcome, both non-members and members! PSF stickers will also be available
+
+https://2017.es.pycon.org/en/schedule/come-learn-about-the-python-software-foundation/",https://i.ytimg.com/vi_webp/PXD7PJl2DTs/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=PXD7PJl2DTs,https://www.youtube.com/watch?v=PXD7PJl2DTs
+41,Jose Miguel Leiva - Python+TensorFlow Cómo Ganar Dinero en Bolsa aplicando Deep Learning - PyConES17,https://www.youtube.com/watch?v=1MLsRk0d5Pw,1MLsRk0d5Pw,Python España,@PythonES,https://www.youtube.com/@PythonES,20171006,1710,2840,26,1.0,,Science & Technology,"Las dos tecnologías más disruptivas actualmente en AI son el Deep Learning y el Reinforcement Learning. ¿Podemos hacernos ricos aplicando estas tecnologías al mundo de las finanzas? En esta charla daremos algunas claves sobre cómo usar Tensorflow para crear redes neuronales que aprenden a invertir en los mercados, y una introducción al Deep Q Learning, un algoritmo de aprendizaje con refuerzo que aprende el “juego” de la Bolsa como cualquier otro robot sometido a ciclos de acción + recompensa.
+
+https://2017.es.pycon.org/en/schedule/pythontensorflow-como-ganar-dinero-en-bolsa-aplicando-deep-learning/",https://i.ytimg.com/vi_webp/1MLsRk0d5Pw/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=1MLsRk0d5Pw,https://www.youtube.com/watch?v=1MLsRk0d5Pw
+42,Jose Manuel Ortega - Discovering python search engine - PyConES17,https://www.youtube.com/watch?v=W-n_1IzU4eg,W-n_1IzU4eg,Python España,@PythonES,https://www.youtube.com/@PythonES,20171006,1475,168,2,,,Science & Technology,"Introducción a los principales motores de búsqueda que podemos encontrar en python comentando las principales características de cada uno de ellos.Se comentarán los principales motores de búsqueda que podemos integrar en nuestras aplicaciones como elasticsearch,Whoosh y PostGres Full text para aplicaciones web con django.
+
+https://2017.es.pycon.org/en/schedule/discovering-python-search-engine/",https://i.ytimg.com/vi_webp/W-n_1IzU4eg/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=W-n_1IzU4eg,https://www.youtube.com/watch?v=W-n_1IzU4eg
+43,Jose Luis Cercos Pita - NASAL Geom Salvando vidas con Python - PyConES17,https://www.youtube.com/watch?v=4nylHbP8T1U,4nylHbP8T1U,Python España,@PythonES,https://www.youtube.com/@PythonES,20171006,1238,176,3,,,Science & Technology,"NASAL-Geom es un reconstructor de geometrías 3D de cavidades nasales llamado a ayudar a reducir la nada despreciable tasa de fracaso del 25% al 30% que se da en cirugías en el contexto de la rinología. Durante la charla veremos como funciona este software de procesado de imágenes tomográficas.
+
+https://2017.es.pycon.org/en/schedule/nasal-geom-salvando-vidas-con-python/",https://i.ytimg.com/vi/4nylHbP8T1U/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=4nylHbP8T1U,https://www.youtube.com/watch?v=4nylHbP8T1U
+44,Siro Moreno - Corrigiendo 1000 exámenes con un pelín de OpenCV - PyConES 2017,https://www.youtube.com/watch?v=lnDx1WuS_ao,lnDx1WuS_ao,Python España,@PythonES,https://www.youtube.com/@PythonES,20171006,1434,253,6,,,Science & Technology,"El objetivo de la charla es hacer una pequeña demostración del uso de algunas de las bibliotecas más icónicas, hiladas a través del objetivo final de analizar fácilmente un examen tipo test.
+
+Numpy y Matplotlib son dos de las bibliotecas más importantes en el Python científico, usadas para trabajar con arrays y representaciones gráficas respectivamente.
+
+Como una imagen en escala de grises en el fondo no es más que una matriz, usaremos unas pocas manipulaciones básicas con imágenes para mostrar cómo trabajar con funciones de Numpy, hacer slicings, etc.
+
+La interfaz de Matplotlib más sencilla, Pyplot, es muy útil para realizar muchos gráficos sin hacer un gran esfuerzo. Podemos mostrar un ejemplo sencillo de estas capacidades representando los contornos que detectemos sobre la imagen original.
+
+También se presentarán algunas de las funciones más básicas de OpenCV, uno de los paquetes de software más importantes de visión artificial. Usaremos las funciones de desenfoque, umbral y detección de contornos.
+
+Si el tiempo fuera suficiente, echaremos también un vistazo a la librería openpyxl, que nos permitirá importar y exportar datos de tablas de Excel.
+
+Puede ser importante resaltar explícitamente que debido a las limitaciones de tiempo, las librerías no pueden ser mostradas en profundidad, y que probablemente no habrá nada o casi nada de live coding. Sin embargo, todo el código usado, incluso para las imágenes intermedias, será publicado en forma de Notebook de Jupyter a través de Github.
+
+Presentación:
+https://github.com/AunSiro/correct-1000-exams-with-opencv",https://i.ytimg.com/vi_webp/lnDx1WuS_ao/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=lnDx1WuS_ao,https://www.youtube.com/watch?v=lnDx1WuS_ao
+47,Jara Ramos - ¡Python a los 17 y en 3 meses! - PyConES17,https://www.youtube.com/watch?v=A0Tb3OOkigM,A0Tb3OOkigM,Python España,@PythonES,https://www.youtube.com/@PythonES,20171006,1242,772,10,2.0,,Science & Technology,"¿Para qué quiero yo saber Python en la adolescencia? ¿A qué retos me he enfrentado en esta aventura? ¿Con qué me quedo? Estas preguntas y otras resueltas por una chica de 17 años que se lanzó a aprender Pyhon para hacer su monografía.
+
+https://2017.es.pycon.org/en/schedule/python-a-los-17-y-en-3-meses/",https://i.ytimg.com/vi/A0Tb3OOkigM/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=A0Tb3OOkigM,https://www.youtube.com/watch?v=A0Tb3OOkigM
+48,Alicia Pérez - Aplicaciones Geográficas con Django - PyConES17,https://www.youtube.com/watch?v=KMUbg092mtw,KMUbg092mtw,Python España,@PythonES,https://www.youtube.com/@PythonES,20171006,1520,719,21,2.0,,Science & Technology,"La 'ubicación' es una de las variables más importantes en cualquier problema, y es una de las más complicadas de manejar.
+
+Django - sin ser un servidor geográfico de primera clase - proporciona una buena plataforma para incorporar el ""dónde"" en nuestras aplicaciones.
+
+Presentaremos - de forma práctica - las capacidades geográficas de Django (acceso a BB.DD espaciales, consultas geográficas) y sus limitaciones, indicando herramientas complementarias (p.ej. Leaflet) o stacks alternativos.
+
+https://2017.es.pycon.org/en/schedule/aplicaciones-geograficas-con-django-no-solo-de-javascript-viven-los-mapas/",https://i.ytimg.com/vi/KMUbg092mtw/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=KMUbg092mtw,https://www.youtube.com/watch?v=KMUbg092mtw
+49,David Saltares y Andy Almonte - Load test your backend with locust.io - PyConES17,https://www.youtube.com/watch?v=cuATUqwW6T8,cuATUqwW6T8,Python España,@PythonES,https://www.youtube.com/@PythonES,20171006,1597,627,7,,,Science & Technology,"What is your capacity? Does your backend scale? Are you on the edge of an outage? Find out with locust.io, a Python based load testing tool. Locust.io is open source, battle-tested, extensible and can help you sleep better at night ahead of a big product release.
+
+https://2017.es.pycon.org/en/schedule/load-test-your-backend-with-locustio/",https://i.ytimg.com/vi_webp/cuATUqwW6T8/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=cuATUqwW6T8,https://www.youtube.com/watch?v=cuATUqwW6T8
+50,Roberto Majadas - Ansible - PyConES17,https://www.youtube.com/watch?v=AdfS2sa_Ha8,AdfS2sa_Ha8,Python España,@PythonES,https://www.youtube.com/@PythonES,20171006,1575,104,2,1.0,,Science & Technology,"Ansible es un sistema de gestión de la configuración del software desarrollado en python que permite automatizar la configuración e instalación de software en ordenadores. Con este sistema es posible, a traves de ssh, instalar, configurar, cambiar ficheros, reiniciar servicios. Y al estar desarrollado en python permite a los programadores extenderlo y embeberlo con relativa facilidad.
+
+https://2017.es.pycon.org/en/schedule/ansible/",https://i.ytimg.com/vi/AdfS2sa_Ha8/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=AdfS2sa_Ha8,https://www.youtube.com/watch?v=AdfS2sa_Ha8
+53,Daniel Izquierdo - Beyond the 10%: analysis of the gender-diversity gap - PyConES 2017,https://www.youtube.com/watch?v=QIW2yJFcn_c,QIW2yJFcn_c,Python España,@PythonES,https://www.youtube.com/@PythonES,20171006,1550,82,0,,,Science & Technology,"Women represent half of the population. The technological industry claims that around 30% of their work force are women. And that percentage decreases down to 20% when focusing on the tech. teams.
+
+If we analyze open source communities, those hardly reach 10% of the population as this is the case of the OpenStack Foundation or the Linux Kernel.
+
+This talk will show previous analysis and data publicly available with this respect, and an analysis of the Python community to compare to
+
+https://2017.es.pycon.org/en/schedule/mas-alla-del-10-analizando-la-diversidad-de-genero/",https://i.ytimg.com/vi_webp/QIW2yJFcn_c/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=QIW2yJFcn_c,https://www.youtube.com/watch?v=QIW2yJFcn_c
+54,Eyad Tomeh - How to hug Pandas - PyConES 2017,https://www.youtube.com/watch?v=vLweXhIBO0E,vLweXhIBO0E,Python España,@PythonES,https://www.youtube.com/@PythonES,20171006,1247,229,3,1.0,,Science & Technology,"Una breve introducción al tratamiento de datos con Pandas. Hablaremos de: Cómo cargar datos para su procesado, tipos de datos básicos (DataFrame, Series...), información estadística sobre los datos, indexación de los datos, consulta a los datos: Slicing y filtering, operaciones vectoriales, agrupación y agregación de datos.
+
+https://2017.es.pycon.org/en/schedule/how-to-hug-pandas/",https://i.ytimg.com/vi_webp/vLweXhIBO0E/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=vLweXhIBO0E,https://www.youtube.com/watch?v=vLweXhIBO0E
+55,S. Saavedra - Codelab: ¿Podemos predecir quién muere en Juego de Tronos con TensorFlow? - PyConES17,https://www.youtube.com/watch?v=xrLYMk8kBZU,xrLYMk8kBZU,Python España,@PythonES,https://www.youtube.com/@PythonES,20171006,5068,314,5,2.0,,Science & Technology,"En este taller daremos un enfoque práctico al Deep Learning y
+exploraremos TensorFlow, un framework originalmente liberado por
+Google para construir modelos computacionales sobre grafos.
+
+Daremos un ejemplo, sobre el conjunto de datos de Juego de Tronos
+recopilado originalmente por la Universidad Politécnica de Munich,
+para, con los pequeños datos sociodemográficos que tenemos de los
+personajes, decidir cuánta vida puede quedarles a manos del escritor.
+
+https://2017.es.pycon.org/en/schedule/codelab-podemos-predecir-quien-muere-en-juego-de-tronos-con-tensorflow/",https://i.ytimg.com/vi_webp/xrLYMk8kBZU/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=xrLYMk8kBZU,https://www.youtube.com/watch?v=xrLYMk8kBZU
+56,"Irene Pérez Encinar, Javier Torres Niño - ¿Qué tiene en común Donald Trump ...? - PyConES 2017",https://www.youtube.com/watch?v=rqYI_BTVSl4,rqYI_BTVSl4,Python España,@PythonES,https://www.youtube.com/@PythonES,20171006,5082,481,6,1.0,,Science & Technology,"Es tan sólo una de las muchas preguntas que podemos responder mediante el análisis de datos aumentados con información geográfica.
+
+En este taller analizaremos algunos conjuntos de datos con información geográfica para intentar responder a este tipo de preguntas con unas pocas líneas de Python.
+
+https://2017.es.pycon.org/en/schedule/que-tiene-en-comun-donald-trump-con-los-tacones-en-las-oficinas-de-reino-unido/",https://i.ytimg.com/vi_webp/rqYI_BTVSl4/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=rqYI_BTVSl4,https://www.youtube.com/watch?v=rqYI_BTVSl4
+57,Ivan Robles - Open Sourceando en Orange - PyConES 2017,https://www.youtube.com/watch?v=9jZSSSxSH_E,9jZSSSxSH_E,Python España,@PythonES,https://www.youtube.com/@PythonES,20171006,1028,196,2,,,Science & Technology,https://2017.es.pycon.org/en/schedule/open-sourceando-en-orange/,https://i.ytimg.com/vi_webp/9jZSSSxSH_E/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=9jZSSSxSH_E,https://www.youtube.com/watch?v=9jZSSSxSH_E
+58,Jorge Coronado - Killo io el Google Español creado en Python - PyConES 2017,https://www.youtube.com/watch?v=G9dnE0uov4o,G9dnE0uov4o,Python España,@PythonES,https://www.youtube.com/@PythonES,20171006,1654,184,3,,,Science & Technology,"Killo.io es un motor de búsqueda que rankea los resultados de una búsqueda por el nivel de seguridad de la web. Realiza una función que ningún otro buscador ha desarrollado. Auditorias de seguridad de forma automatizada.
+
+https://2017.es.pycon.org/en/schedule/killoio-el-google-espanol-creado-en-python/",https://i.ytimg.com/vi_webp/G9dnE0uov4o/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=G9dnE0uov4o,https://www.youtube.com/watch?v=G9dnE0uov4o
+59,Pablo Galindo - Parallel and non parallel stuff - PyConES 2017,https://www.youtube.com/watch?v=0sgw0054KVY,0sgw0054KVY,Python España,@PythonES,https://www.youtube.com/@PythonES,20171006,7533,363,6,,,Science & Technology,"¡Oh no: otro tutorial de programación paralela y asíncrona en Python! ¿Cúando dejarán de insistir en el mismo asunto una y otra vez? Si alguna vez te has preguntado esto, este NO es tu taller. En cambio, si quieres volver a oir lo mismo de siempre acerca de hilos, procesos, el GIL, asyncio y demás amigos...¡Este es el taller de tus sueños! En este tutorial haremos un viaje através de todos estos conceptos desde la base, entendiendo en detalle los conceptos, los problemas y las soluciones.
+
+https://2017.es.pycon.org/en/schedule/parallel-and-non-parallel-stuff/",https://i.ytimg.com/vi_webp/0sgw0054KVY/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=0sgw0054KVY,https://www.youtube.com/watch?v=0sgw0054KVY
+60,Alejandro Guirao - Serverless with Python - PyConES 2017,https://www.youtube.com/watch?v=2FhVU9qIuhE,2FhVU9qIuhE,Python España,@PythonES,https://www.youtube.com/@PythonES,20171006,1235,417,1,,,Science & Technology,"*Serverless* es una innovadora manera de desarrollar aplicaciones que consiste en funciones que son invocadas puntualmente. A partir de ahora, olvídate de administrar servidores. Tan sólo concéntrate en tu código. En esta charla explicaré cómo comenzar a desarrollar aplicaciones *serverless* con Python en la plataforma más popular para ello ([AWS - Lambda](https://aws.amazon.com/es/lambda/)) así como en una alternativa *open source* ([IronFunctions](https://github.com/iron-io/functions)).
+
+https://2017.es.pycon.org/en/schedule/serverless-con-python/",https://i.ytimg.com/vi_webp/2FhVU9qIuhE/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=2FhVU9qIuhE,https://www.youtube.com/watch?v=2FhVU9qIuhE
+61,"Ana López Pérez, Víctor Muñoz Berti - Desplegando Python continuamente sin esfuerzo - PyConES 2017",https://www.youtube.com/watch?v=bL1TsJ1h9ek,bL1TsJ1h9ek,Python España,@PythonES,https://www.youtube.com/@PythonES,20171006,1515,102,0,,,Science & Technology,"Los términos ""despliegue continuo"" e ""integración continua"" están cada vez más presentes en el léxico del programador. Si bien Python es un lenguaje tremendamente apropiado para aplicar estas prácticas, la cantidad de herramientas, opciones o, simplemente, de conceptos hace que el recién llegado alcance un nivel de confusión tal que la tarea parezca imposible. Usando herramientas habituales en Python mostraremos que construir un sistema de despliegue continuo es cómodo y sencillo.
+
+https://2017.es.pycon.org/en/schedule/desplegando-python-continuamente-sin-esfuerzo/",https://i.ytimg.com/vi_webp/bL1TsJ1h9ek/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=bL1TsJ1h9ek,https://www.youtube.com/watch?v=bL1TsJ1h9ek
+62,Andros Fenollosa Hurtado - Vigilante de Wallapop - PyConES 2017,https://www.youtube.com/watch?v=mHqDmYypG1w,mHqDmYypG1w,Python España,@PythonES,https://www.youtube.com/@PythonES,20171006,5462,181,1,,,Science & Technology,"Construye una simple web para ser ¡el más rápido en Wallapop! Programaremos una aplicación sencilla en Flask para automatizar búsquedas. Cuando un nuevo artículo se ponga a la venta, con los filtros que nos interesan, nos llegará de forma automática un email con toda la información. E incluso con ¡un botón para comprarlo! Ahora ya sabes porque no encuentras buenas ofertas. ¡¡¡Las pillé yo!!!
+
+https://2017.es.pycon.org/en/schedule/vigilante-de-wallapop/",https://i.ytimg.com/vi_webp/mHqDmYypG1w/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=mHqDmYypG1w,https://www.youtube.com/watch?v=mHqDmYypG1w
+63,Antònia Tugores - City attractiveness seen through Twitter - PyConES 2017,https://www.youtube.com/watch?v=wpBCNkbismM,wpBCNkbismM,Python España,@PythonES,https://www.youtube.com/@PythonES,20171006,1400,42,0,,,Science & Technology,"How long would information originating from a given city require to reach any other city if were to pass from person to person only through face to face conversations? Or, what is the likelihood that information reaches a certain distance away after a given time period. We introduce a method to assess the attractiveness of cities using geolocated tweets as a proxy for human mobility.
+
+https://2017.es.pycon.org/en/schedule/city-attractiveness-seen-through-twitter/",https://i.ytimg.com/vi_webp/wpBCNkbismM/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=wpBCNkbismM,https://www.youtube.com/watch?v=wpBCNkbismM
+64,Apertura Domingo - PyConES 2017,https://www.youtube.com/watch?v=RWX0GSptkVc,RWX0GSptkVc,Python España,@PythonES,https://www.youtube.com/@PythonES,20171006,200,20,0,,,Science & Technology,,https://i.ytimg.com/vi_webp/RWX0GSptkVc/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=RWX0GSptkVc,https://www.youtube.com/watch?v=RWX0GSptkVc
+65,"Braulio Vargas López, Marta Gómez Macías - Haskell es mi pastor y Python, mi profeta - PyConES 2017",https://www.youtube.com/watch?v=_LfEuaHvofU,_LfEuaHvofU,Python España,@PythonES,https://www.youtube.com/@PythonES,20171006,1476,370,3,,,Science & Technology,"En esta charla se explicará el paradigma de programación funcional. Para ello, se utilizará como ejemplo el lenguaje puramente funcional Haskell y se explicará cómo hacer programación funcional en Python. Por último, se comparará la eficiencia y la elegancia del paradigma de programación funcional frente al imperativo.
+
+https://2017.es.pycon.org/en/schedule/haskell-es-mi-pastor-y-python-mi-profeta/",https://i.ytimg.com/vi_webp/_LfEuaHvofU/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=_LfEuaHvofU,https://www.youtube.com/watch?v=_LfEuaHvofU
