@@ -1,0 +1,118 @@
+﻿index,title,url,video_id,uploader,uploader_id,uploader_url,upload_date,duration,view_count,like_count,comment_count,tags,categories,description,thumbnail,age_limit,is_live,was_live,availability,webpage_url,original_url
+1,See New Things and Act,https://www.youtube.com/watch?v=ZnCBIUM7BdA,ZnCBIUM7BdA,Python New Zealand,@PythonNewZealand,https://www.youtube.com/@PythonNewZealand,20171207,2463,623,8,,"kiwipycon,kiwi_pycon_2017,JohnGraves",Education,"John Graves
+
+https://nz.pycon.org/schedule/presentation/171/
+
+Dr. John Graves of Qrious offers a handy way to help people understand how better algorithms yield better performance. This supports an exploration of big data's four ""super powers"" -- See New Things and Act -- and the conclusion that learning from big data is the ""new oil"".
+
+Kiwi PyCon is an annual conference aimed at promoting and educating people about the Python programming language.  The New Zealand Python User Group is proud to present the ninth national Python conference in New Zealand.",https://i.ytimg.com/vi_webp/ZnCBIUM7BdA/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=ZnCBIUM7BdA,https://www.youtube.com/watch?v=ZnCBIUM7BdA
+2,State Machines,https://www.youtube.com/watch?v=rLop6U8Pn9A,rLop6U8Pn9A,Python New Zealand,@PythonNewZealand,https://www.youtube.com/@PythonNewZealand,20171207,2810,1882,11,,"kiwipycon,kiwi_pycon_2017,ClintonRoy",Education,"Clinton Roy
+
+https://nz.pycon.org/schedule/presentation/158/
+
+The Automat project is a pythonic approach to state machines, in that the user describes all their states, inputs and outputs using standard python idioms. Automat encapsulates your use of a state machine, users of your state machine don't actually have to learn about state machines, or even know there's a state machine inside, all they call are standard Python methods on an instance.
+
+Kiwi PyCon is an annual conference aimed at promoting and educating people about the Python programming language.  The New Zealand Python User Group is proud to present the ninth national Python conference in New Zealand.",https://i.ytimg.com/vi_webp/rLop6U8Pn9A/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=rLop6U8Pn9A,https://www.youtube.com/watch?v=rLop6U8Pn9A
+3,Hunting real bugs with Python,https://www.youtube.com/watch?v=zAQtfYrYCSo,zAQtfYrYCSo,Python New Zealand,@PythonNewZealand,https://www.youtube.com/@PythonNewZealand,20171207,2380,362,5,,"kiwipycon,kiwi_pycon_2017,HolgerSpill",Education,"Holger Spill
+
+https://nz.pycon.org/schedule/presentation/166/
+
+Join us on a tour of an experimental tool we are building to detect Brown Marmorated Stinkbugs in images. Python is used in all stages from data acquisition to ‘under-the-hood’ for machine learning. After the talk you will prefer some software bugs to the real thing.
+
+Kiwi PyCon is an annual conference aimed at promoting and educating people about the Python programming language.  The New Zealand Python User Group is proud to present the ninth national Python conference in New Zealand.",https://i.ytimg.com/vi_webp/zAQtfYrYCSo/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=zAQtfYrYCSo,https://www.youtube.com/watch?v=zAQtfYrYCSo
+4,Client Server Model utilizing System D-Bus for communication and the pydbus library,https://www.youtube.com/watch?v=TMuFZwB_rmQ,TMuFZwB_rmQ,Python New Zealand,@PythonNewZealand,https://www.youtube.com/@PythonNewZealand,20171207,2631,3604,39,,"kiwipycon,kiwi_pycon_2017,IanStewart",Education,"Ian Stewart
+
+https://nz.pycon.org/schedule/presentation/165/
+
+The client server model of programming implemented by utilizing the System D-Bus as the path for communication.  The System D-Bus has the advantages that server processes will continue to run if the User logs out and systemd auto-starts the servers on booting. The method of communication over the D-Bus is through using the pydbus library. A Raspberry Pi will be used for a demonstration.
+
+Kiwi PyCon is an annual conference aimed at promoting and educating people about the Python programming language.  The New Zealand Python User Group is proud to present the ninth national Python conference in New Zealand.",https://i.ytimg.com/vi_webp/TMuFZwB_rmQ/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=TMuFZwB_rmQ,https://www.youtube.com/watch?v=TMuFZwB_rmQ
+5,Spatial Circumstances- Python use in government to extend GIS functionality,https://www.youtube.com/watch?v=UGiJoVqQRLE,UGiJoVqQRLE,Python New Zealand,@PythonNewZealand,https://www.youtube.com/@PythonNewZealand,20171207,1609,335,4,,"kiwipycon,kiwi_pycon_2017,PeterKing",Education,"Peter King
+
+https://nz.pycon.org/schedule/presentation/168/
+
+Python can be used to add functionality to QGIS (an open source GIS) and at Land Information New Zealand (LINZ) we have been using increasingly more complex and specialized scripts, tools, and plugins utilising the PyQGIS API to improve how we work. This talk will cover using python to enhance and extend QGIS, using examples of our plugins, and will cover the lessons learnt and useful resources.
+
+Kiwi PyCon is an annual conference aimed at promoting and educating people about the Python programming language.  The New Zealand Python User Group is proud to present the ninth national Python conference in New Zealand.",https://i.ytimg.com/vi_webp/UGiJoVqQRLE/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=UGiJoVqQRLE,https://www.youtube.com/watch?v=UGiJoVqQRLE
+6,Lightning Talks,https://www.youtube.com/watch?v=BFlrZnHYBYU,BFlrZnHYBYU,Python New Zealand,@PythonNewZealand,https://www.youtube.com/@PythonNewZealand,20171207,1916,144,3,,"kiwipycon,kiwi_pycon_2017",Education,Kiwi PyCon is an annual conference aimed at promoting and educating people about the Python programming language.  The New Zealand Python User Group is proud to present the ninth national Python conference in New Zealand.,https://i.ytimg.com/vi_webp/BFlrZnHYBYU/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=BFlrZnHYBYU,https://www.youtube.com/watch?v=BFlrZnHYBYU
+7,Rapid Development With Docker Compose,https://www.youtube.com/watch?v=o6SScget37w,o6SScget37w,Python New Zealand,@PythonNewZealand,https://www.youtube.com/@PythonNewZealand,20171207,1971,868,24,,"kiwipycon,kiwi_pycon_2017,JustinCrown",Education,"Justin Crown
+
+https://nz.pycon.org/schedule/presentation/156/
+
+Local development is easy, until you get down to the nitty gritty of dealing with your environment, backend services, reproducibility, and deployment. Developing with docker-compose provides an opportunity to get up and running quickly and to share your work with others, regardless of their operating system or tooling. This talk will take you through the process from start to finish.
+
+Kiwi PyCon is an annual conference aimed at promoting and educating people about the Python programming language.  The New Zealand Python User Group is proud to present the ninth national Python conference in New Zealand.",https://i.ytimg.com/vi_webp/o6SScget37w/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=o6SScget37w,https://www.youtube.com/watch?v=o6SScget37w
+8,Using Recombination to Distinguish Between Class IV Machines and Class III Machines.,https://www.youtube.com/watch?v=XcPP4cY03R4,XcPP4cY03R4,Python New Zealand,@PythonNewZealand,https://www.youtube.com/@PythonNewZealand,20171207,2507,212,2,,"kiwipycon,kiwi_pycon_2017,PhillipSmith",Education,"Phillip Smith
+
+https://nz.pycon.org/schedule/presentation/170/
+
+Steve wolfram asserted that all machines can be classified ito one of four classes. However classification has been shown to be undecidable.  I suggest we can separate complex machines into class III and class IV. I use this ability to analyse the role of recombination in resistance to ageing and the role of recombination in arms races
+
+Kiwi PyCon is an annual conference aimed at promoting and educating people about the Python programming language.  The New Zealand Python User Group is proud to present the ninth national Python conference in New Zealand.",https://i.ytimg.com/vi_webp/XcPP4cY03R4/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=XcPP4cY03R4,https://www.youtube.com/watch?v=XcPP4cY03R4
+9,Using Node.js/npm with Python/setuptools - a lesson on staying calm.,https://www.youtube.com/watch?v=yXlyDwZ15R4,yXlyDwZ15R4,Python New Zealand,@PythonNewZealand,https://www.youtube.com/@PythonNewZealand,20171207,1689,2322,16,,"kiwipycon,kiwi_pycon_2017,TommyYu",Education,"Tommy Yu
+
+https://nz.pycon.org/schedule/presentation/164/
+
+Python programmers are finding their web application development environment besieged by an invader: Node.js/npm. War against them seems like an enticing option, but it only brings discord and misery to the environment. This talk introduces a mediator that seeks to bring coexistence through enhancements of existing foundations and disarmament, so all Python packages can enjoy the resulting calm.
+
+Kiwi PyCon is an annual conference aimed at promoting and educating people about the Python programming language.  The New Zealand Python User Group is proud to present the ninth national Python conference in New Zealand.",https://i.ytimg.com/vi_webp/yXlyDwZ15R4/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=yXlyDwZ15R4,https://www.youtube.com/watch?v=yXlyDwZ15R4
+10,Analysing Data with Python and BigQuery,https://www.youtube.com/watch?v=UkvX3wvGTtU,UkvX3wvGTtU,Python New Zealand,@PythonNewZealand,https://www.youtube.com/@PythonNewZealand,20171207,2253,7509,67,,"kiwipycon,kiwi_pycon_2017,TomClark",Education,"Tom Clark
+
+https://nz.pycon.org/schedule/presentation/162/
+
+BigQuery is a Google tool to quickly analyse large sets of data. A web console and CLI tools are available, but we can also use BigQuery's remote API and Python libraries. In this talk we will introduce BigQuery and use Python to manage a project and analyse some data. Most of the examples found online are either too basic or very advanced. We hope to land somewhere between those extremes.
+
+Kiwi PyCon is an annual conference aimed at promoting and educating people about the Python programming language.  The New Zealand Python User Group is proud to present the ninth national Python conference in New Zealand.",https://i.ytimg.com/vi_webp/UkvX3wvGTtU/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=UkvX3wvGTtU,https://www.youtube.com/watch?v=UkvX3wvGTtU
+11,Demystefying Setuptools Entry Points,https://www.youtube.com/watch?v=0W0k6zP_Lto,0W0k6zP_Lto,Python New Zealand,@PythonNewZealand,https://www.youtube.com/@PythonNewZealand,20171207,2307,8753,174,,"kiwipycon,kiwi_pycon_2017,PhoenixZerin",Education,"Phoenix Zerin
+
+https://nz.pycon.org/schedule/presentation/180/
+
+Entry points are one of the most powerful, yet mysterious, ways to customise the behaviour of Python projects. With just a few lines of code in your `setup.py` file, you can install command-line applications, inject features into other libraries, create plugins, and more! During this session, we will explore what entry points are, how they work, and how to use them in your Python projects.
+
+Kiwi PyCon is an annual conference aimed at promoting and educating people about the Python programming language.  The New Zealand Python User Group is proud to present the ninth national Python conference in New Zealand.",https://i.ytimg.com/vi_webp/0W0k6zP_Lto/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=0W0k6zP_Lto,https://www.youtube.com/watch?v=0W0k6zP_Lto
+12,Nikola,https://www.youtube.com/watch?v=RzG_tageR64,RzG_tageR64,Python New Zealand,@PythonNewZealand,https://www.youtube.com/@PythonNewZealand,20171207,2378,1805,33,,"kiwipycon,kiwi_pycon_2017,WilliamMckee",Education,"William Mckee
+
+Nikola. Python library for static website generation.  Basic overall - creating a site, post, pages, galleries. Script to generate posts from my days artwork. 
+
+Kiwi PyCon is an annual conference aimed at promoting and educating people about the Python programming language.  The New Zealand Python User Group is proud to present the ninth national Python conference in New Zealand.",https://i.ytimg.com/vi_webp/RzG_tageR64/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=RzG_tageR64,https://www.youtube.com/watch?v=RzG_tageR64
+13,Introducing GeoPandas,https://www.youtube.com/watch?v=j_QS76uTIJQ,j_QS76uTIJQ,Python New Zealand,@PythonNewZealand,https://www.youtube.com/@PythonNewZealand,20171207,2427,5391,66,,"kiwipycon,kiwi_pycon_2017,AlexRaichev",Education,"Alex Raichev
+
+https://nz.pycon.org/schedule/presentation/172/
+
+I will give a short, example-driven introduction to GeoPandas, a Python library for manipulating spatial data without a spatial database.
+
+Repo: https://github.com/araichev/introducing_geopandas
+
+Kiwi PyCon is an annual conference aimed at promoting and educating people about the Python programming language.  The New Zealand Python User Group is proud to present the ninth national Python conference in New Zealand.",https://i.ytimg.com/vi_webp/j_QS76uTIJQ/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=j_QS76uTIJQ,https://www.youtube.com/watch?v=j_QS76uTIJQ
+14,Python powered game development with Unreal Engine 4,https://www.youtube.com/watch?v=7y25kDWIba4,7y25kDWIba4,Python New Zealand,@PythonNewZealand,https://www.youtube.com/@PythonNewZealand,20171207,1915,91410,761,,"kiwipycon,kiwi_pycon_2017,SamuelBishop",Education,"Samuel Bishop
+
+https://nz.pycon.org/schedule/presentation/174/
+
+Modern game development is dominated by C and C++, with the recent introduction of C# because of Unity. While Python may not be the best choice to write a 3d graphics engine, its completely capable of powering the rest of a game. This presentation is for aspiring game developers who want to discover how they can use Python in Unreal Engine 4 for game logic and more.
+
+Kiwi PyCon is an annual conference aimed at promoting and educating people about the Python programming language.  The New Zealand Python User Group is proud to present the ninth national Python conference in New Zealand.",https://i.ytimg.com/vi_webp/7y25kDWIba4/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=7y25kDWIba4,https://www.youtube.com/watch?v=7y25kDWIba4
+15,Rage Against The Learning Machine,https://www.youtube.com/watch?v=iXx7nJQJDd0,iXx7nJQJDd0,Python New Zealand,@PythonNewZealand,https://www.youtube.com/@PythonNewZealand,20171207,1524,158,1,,"kiwipycon,kiwi_pycon_2017,errazudinishak",Education,"errazudin ishak
+
+https://nz.pycon.org/schedule/presentation/175/
+
+Machine learning is ranked numero uno in Gartner’s Top 10 Strategic Technology Trends for 2017. In recent years, it has received a lot of attention and already revolutionized many areas from finance to image recognition to transportation. This talk, aims to make machine learning simple, fun and accessible to anyone with working examples covering couple of tools.
+
+Kiwi PyCon is an annual conference aimed at promoting and educating people about the Python programming language.  The New Zealand Python User Group is proud to present the ninth national Python conference in New Zealand.",https://i.ytimg.com/vi_webp/iXx7nJQJDd0/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=iXx7nJQJDd0,https://www.youtube.com/watch?v=iXx7nJQJDd0
+16,"Serverless APIs with Python, AWS Lambda & API Gateway",https://www.youtube.com/watch?v=AeR4DhHQ2C4,AeR4DhHQ2C4,Python New Zealand,@PythonNewZealand,https://www.youtube.com/@PythonNewZealand,20171207,2430,9651,63,,"kiwipycon,kiwi_pycon_2017,HamishCampbell",Education,"Hamish Campbell
+
+https://nz.pycon.org/schedule/presentation/176/
+
+TBC
+
+Kiwi PyCon is an annual conference aimed at promoting and educating people about the Python programming language.  The New Zealand Python User Group is proud to present the ninth national Python conference in New Zealand.",https://i.ytimg.com/vi_webp/AeR4DhHQ2C4/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=AeR4DhHQ2C4,https://www.youtube.com/watch?v=AeR4DhHQ2C4
+17,Python logging 101,https://www.youtube.com/watch?v=apLoTRE1B8c,apLoTRE1B8c,Python New Zealand,@PythonNewZealand,https://www.youtube.com/@PythonNewZealand,20171207,2600,2714,44,,"kiwipycon,kiwi_pycon_2017,MichaelSverdlik",Education,"Michael Sverdlik
+
+https://nz.pycon.org/schedule/presentation/163/
+
+Python includes a good logging library. However beginning to use it is not always straight forward. Eventually one ends up copy-pasting  Stackoverflow answers or going back to print(). 
+I would like to give you a brief introduction to the logging module, explain some of its core principals and share some knowledge that will allow you to use it without getting in your way.
+
+Kiwi PyCon is an annual conference aimed at promoting and educating people about the Python programming language.  The New Zealand Python User Group is proud to present the ninth national Python conference in New Zealand.",https://i.ytimg.com/vi_webp/apLoTRE1B8c/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=apLoTRE1B8c,https://www.youtube.com/watch?v=apLoTRE1B8c
+18,Keynote - How To Spy With Python,https://www.youtube.com/watch?v=zwz69GGx3i0,zwz69GGx3i0,Python New Zealand,@PythonNewZealand,https://www.youtube.com/@PythonNewZealand,20171207,2921,1765,46,,"kiwipycon,kiwi_pycon_2017,LynnRoot",Education,"Lynn Root
+
+Kiwi PyCon is an annual conference aimed at promoting and educating people about the Python programming language.  The New Zealand Python User Group is proud to present the ninth national Python conference in New Zealand.",https://i.ytimg.com/vi_webp/zwz69GGx3i0/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=zwz69GGx3i0,https://www.youtube.com/watch?v=zwz69GGx3i0

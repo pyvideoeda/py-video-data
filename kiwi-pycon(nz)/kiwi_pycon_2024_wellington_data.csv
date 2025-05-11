@@ -1,0 +1,437 @@
+﻿index,title,url,video_id,uploader,uploader_id,uploader_url,upload_date,duration,view_count,like_count,comment_count,tags,categories,description,thumbnail,age_limit,is_live,was_live,availability,webpage_url,original_url
+1,Keynote: Let's Future-Proof Python — Deb Nicholson,https://www.youtube.com/watch?v=q6Z5TXPnSzo,q6Z5TXPnSzo,Python New Zealand,@PythonNewZealand,https://www.youtube.com/@PythonNewZealand,20240902,3031,367,6,,Kiwi PyCon,Science & Technology,"Recorded at Kiwi PyCon 2024 - https://kiwipycon.nz/
+
+If you're lucky, you're part of a big important project (like Python) that is very likely to outlive you. That might make it feel like you have all the time in the world to do everything you want to do, but you never know how much time you have. That might sound a little grim, but it's important to accept that if we're going to plan for the future. Even though it feels very, very personal while you're doing it, community work is not entirely about you. It's about what we leave for the next generation of Pythonistas. I want us to start planning for the far future of the Python ecosystem today.
+
+In this talk, we'll discuss future-oriented leadership which means addressing issues as you find them, spearheading thorough solutions that don't leave a mess for the next person and always, always planning for someone else to take over your work one day. With a forward-looking mindset and some strategic planning, we can make sure that the next generation (and the one after that and the one after that) will always have a robust, open source Python eco-system to rely on. This talk is for all mortal Python contributors.
+
+Deb Nicholson is an open source software policy expert and a passionate community advocate. She is the Executive Director at the Python Software Foundation which serves as the non-profit steward of the Python programming language. She’s won the O’Reilly Open Source Award and the Award for the Advancement of Free Software for her efforts to broaden the free and open source software movement. She serves on the Board of Directors for the Spritely Institute and on the Advisory Board for Open@RIT. She lives with her husband and her lucky black cat in Cambridge, Massachusetts.
+
+This video is licensed under CC BY-SA 4.0 - https://creativecommons.org/licenses/by-sa/4.0/
+
+Recorded and produced by KIT LTD : https://www.linkedin.com/company/kitltdnz/",https://i.ytimg.com/vi/q6Z5TXPnSzo/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=q6Z5TXPnSzo,https://www.youtube.com/watch?v=q6Z5TXPnSzo
+2,"Using iNaturalist, eBird, and Python to become a community scientist — Richard Littauer",https://www.youtube.com/watch?v=-KkQEzmOOBY,-KkQEzmOOBY,Python New Zealand,@PythonNewZealand,https://www.youtube.com/@PythonNewZealand,20240902,1692,115,4,,Kiwi PyCon,Science & Technology,"Recorded at Kiwi PyCon 2024 - https://kiwipycon.nz/
+
+Aotearoa has a plethora of momo māori (native) and momo taketake (endemic) species. When I first arrived here, my goal was to identify as many as I could. To help, I used the sites iNaturalist (all life) and eBird (just manu). By logging photographs, recordings, and sightings, I was able to both enjoy exploring and also contribute to community science platforms that aggregate data to help scientists understand our world. Using Python, Javascript, and Bash, I was also able to access their APIs and to build some basic tools that helped me learn faster. I want to share those tools here, and explain how you can also learn more about all of the momo here.
+
+I'll also talk briefly about my nascent PhD work here in Wellington, looking at bioacoustics and automatic bird identification.
+
+About me: I am one of the organizers for SustainOSS, and one of the main hosts of the Sustain podcast (https://podcast.sustainoss.org/). I've worked on hundreds of open source projects as part of my freelance work with Maintainer.io, too.
+
+Richard Littauer is an organizer of SustainOSS and the host of the Sustain Podcast. As a full-stack developer and open source community consultant, he has interfaced with thousands of different projects in dozens of communities. He likes birds.
+
+
+This video is licensed under CC BY-SA 4.0 - https://creativecommons.org/licenses/by-sa/4.0/
+
+Recorded and produced by KIT LTD : https://www.linkedin.com/company/kitltdnz/",https://i.ytimg.com/vi/-KkQEzmOOBY/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=-KkQEzmOOBY,https://www.youtube.com/watch?v=-KkQEzmOOBY
+3,Modern Python - Better Python (the Horrors of My Earlier Code) — Grant Paton Simpson,https://www.youtube.com/watch?v=jGOlE8i5xmM,jGOlE8i5xmM,Python New Zealand,@PythonNewZealand,https://www.youtube.com/@PythonNewZealand,20240902,1765,361,11,,Kiwi PyCon,Science & Technology,"Recorded at Kiwi PyCon 2024 - https://kiwipycon.nz/
+
+Modern Python is better Python. Understanding my older Python code took much more brain power than understanding my newer code. Improvements in readability have been rapid in the last few years as new language features have been harnessed. Before they were incorporated, it often required intense concentration, and the loading of step-by-step details into my memory, to grasp what was happening as information flowed through the code. Using some of the newer Python features has reduced the mental load significantly. The key idea is readability - more of the code has names making it more semantic. It is also more restricted. For example, the inputs and outputs of functions commonly have defined and enforced structures (sometimes using pydantic). All of this makes it easier to work out what code is doing and make changes without getting confused. The main changes are:
+
+1) widespread use of dataclasses (3.6+) as name-rich data structures - especially for function input and output
+2) use of type hints (3.5+) as documentation for both input and output
+3) use of StrEnum (3.11+) instead of ordinary strings for programmer-defined things
+4) using the add_note (3.11+) method on exceptions - adding notes built from f-strings (3.6+) makes it easier to see what is happening when things go wrong.
+
+There has also been a greater emphasis on making the boundaries and interfaces between functions more logical and natural from a human point of view, a change encouraged by the greater use of type hinting and dataclasses. The result is code that is more relaxing to debug, modify, and extend. It is certainly much easier and safer to work on when tired or distracted. Learn how to improve your code using some of the newer features of modern Python.
+
+Grant has been an enthusiastic user of Python for many years and has delivered numerous conference talks, meetup presentations, and training sessions on the language. Grant's open source statistics application, SOFA Statistics (over 300,000 downloads to date) is completely written in Python as is the forthcoming replacement SOFA Lite. More recently, Grant has collaborated with Ben Denham to launch the Lean Python (When Of Python) initiative aimed at ensuring Python lives up to its original promise of simplicity and elegance. Grant currently works in the Tech Insights team at 2degrees and was part of the Data Science Team at Qrious where he processed hundreds of billions of records using PySpark and Python.
+
+This video is licensed under CC BY-SA 4.0 - https://creativecommons.org/licenses/by-sa/4.0/
+
+Recorded and produced by KIT LTD : https://www.linkedin.com/company/kitltdnz/",https://i.ytimg.com/vi/jGOlE8i5xmM/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=jGOlE8i5xmM,https://www.youtube.com/watch?v=jGOlE8i5xmM
+4,Data Stream AI — Anton Lee,https://www.youtube.com/watch?v=-4fC4eJypNI,-4fC4eJypNI,Python New Zealand,@PythonNewZealand,https://www.youtube.com/@PythonNewZealand,20240902,1704,116,4,,Kiwi PyCon,Science & Technology,"Recorded at Kiwi PyCon 2024 - https://kiwipycon.nz/
+
+Data stream learning is an artificial intelligence method of extracting knowledge from continuous, rapid and evolving “streams” of data. Our talk presents our new Python library, called CapyMOA, to close the gap between pioneering research and accessible tooling by providing a Python API that tightly integrates MOA (Java data stream mining), PyTorch (hardware accelerated deep learning), and sci-kit-learn (machine learning). Despite these advanced topics, the talk is intended for a broad audience. It will introduce the discipline of data streams for a wide audience, look at some practical examples, and discuss the technical novelty in constructing the Python CapyMOA project.
+
+This talk showcases our new data stream learning library: CapyMOA (https://capymoa.org/). The talk is structured into three sections:
+
+    An introduction of data stream learning to a general audience. We discuss the qualities of data stream learning that make it useful for practical machine learning tasks, like sensor data (IoT), marketing and e-commerce, and cyber-security.
+    A demonstration of CapyMOA. We give a practical demonstration of CapyMOA on data stream learning problems and compare it against its competitors.
+    A discussion of how we built CapyMOA. We share the story of creating a Python library that calls an extensive, older, and complex Java library running in a JVM. We discuss how we constructed CapyMOA to minimise the burden on Python users to understand this labyrinth of Java code and provide them with fast, familiar, minimalist Python interfaces.
+
+Anton Lee is a PhD student and research assistant at the University of Wellington, studying continual learning in artificial intelligence. As a research assistant, he is a maintainer of the CapyMOA open-source data-stream learning project.
+
+This video is licensed under CC BY-SA 4.0 - https://creativecommons.org/licenses/by-sa/4.0/
+
+Recorded and produced by KIT LTD : https://www.linkedin.com/company/kitltdnz/",https://i.ytimg.com/vi/-4fC4eJypNI/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=-4fC4eJypNI,https://www.youtube.com/watch?v=-4fC4eJypNI
+5,Better Grades with Python — Leon Bowie,https://www.youtube.com/watch?v=pro1Ju8oi8Y,pro1Ju8oi8Y,Python New Zealand,@PythonNewZealand,https://www.youtube.com/@PythonNewZealand,20240902,1808,85,1,,Kiwi PyCon,Science & Technology,"Recorded at Kiwi PyCon 2024 - https://kiwipycon.nz/
+
+Test tables, manual formatting, what are types and how could this be improved? For most, school is their introduction to programming, normally through Python but what sort of introduction is it if they are stuck making manual testing tables, manually doing PEP8 compliance and why can't an int and str be combined easily? What if there was a way to solve these problems using the tried and true solutions from industry?
+
+A look at modernising and updating secondary digitech using type hinting, automated testing, formatter and other tricks. Looking at existing approaches, feedback from students and teachers and new approaches from across Greater Wellington this talk looks at how digitech can be improved through modern tooling and features to increase learning and maybe get a better grade...
+
+A close look into upgrading improving the current state of digital technology education in secondary education across Aotearoa (New Zealand). Introducing Type Hinting, Automated Testing, Formatting and other approaches into the classroom and the benefits they can provide to students. This is based on current mahi being done by Tūhura Tech in collaboration with local Pōneke (Wellington) high schools. No prior knowledge in either Python or the education system are required with the talk accessible to the seasoned professional or someone new to Python.
+
+Looking at existing practices inside of the classroom they are redesigned to use tools from the Python ecosystem and new features of the language. Looking at how manual testing tables for flask web apps can be reworked to use pytest can provide advantages. Using Type Hints can reduce overall bugs and allow the teaching of what types are without moving outside of Python. Getting away from manual formatting to ensure compliance with PEP8 and instead using tools such as Ruff. This presents a better vision for how Python could be taught.
+
+Avid hacker, programmer and interested in all the weird and wacky things technology can do. With experience in industry in areas across software development, security and eventually ending up running DevOps Engineering at FNZ he has a passion and focus on improving technology education. Being involved in technology education for the past 7 years running code clubs and coaching robotics teams he now founded and runs Tūhura Tech which is a charitable trust focused on pre-tertiary technology education across the greater Wellington Region.
+
+
+This video is licensed under CC BY-SA 4.0 - https://creativecommons.org/licenses/by-sa/4.0/
+
+Recorded and produced by KIT LTD : https://www.linkedin.com/company/kitltdnz/",https://i.ytimg.com/vi/pro1Ju8oi8Y/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=pro1Ju8oi8Y,https://www.youtube.com/watch?v=pro1Ju8oi8Y
+6,Leveraging open source software for self-service analytics — Ash Templeton & Richard Roberts,https://www.youtube.com/watch?v=v0jpNThuEHk,v0jpNThuEHk,Python New Zealand,@PythonNewZealand,https://www.youtube.com/@PythonNewZealand,20240903,1816,153,3,,Kiwi PyCon,Science & Technology,"Recorded at Kiwi PyCon 2024 - https://kiwipycon.nz/
+
+We will detail how we built Sharesies’ self-service analytics tool, Theia, using Python, Dash and Snowflake, then how we further utilised similar infrastructure to build a portal that connects NZX and ASX listed companies to the retail investors that invest directly in them.
+
+Utilising Python, Dash and Snowflake, Sharesies have built a portal to connect NZX and ASX listed companies with the people who invest directly in them. As of today, over 20% of NZX listed companies have the ability to make data driven decisions based on retail investor data they self serve via dashboards.
+
+In this presentation, we cover the thinking and design that went into building this portal as a collaborative piece, while also underscoring how and why python tooling made it a lovable experience. In particular, we will
+- summarise the tech stack behind our setup (covering Dash and Snowflake);
+- provide reasoning behind our decision to move away from traditional Business Intelligence (BI) tools and utilise open source software for both internal and external audiences;
+- detail how our infrastructure is setup by describing specific tooling we have built to enable interactive performance, tighten security around access, and improve developer experience.;
+- and also give a walkthrough of the dashboards we have built for Sharesies Open
+
+Ash Templeton
+
+Ash is a Senior Data Analyst at Sharesies. With a strong background in SQL and deepening expertise in Python developed over the past two years, Ash is passionate about leveraging data to create impactful commercial use cases and drive those around him to be more data driven. He leads the development and maintenance of Sharesies self-service analytics tool, Theia, and collaborates across Sharesies and with external business customers to extract meaningful insights. Ash is dedicated to empowering users by making data accessible and actionable.
+
+Richard Roberts
+
+Richard is a platform developer at Sharesies, where he uses Python to enhance developer tools, implement self-service infrastructure, and assist teams in developing novel software solutions for business challenges. His background includes a PhD in computer graphics focused on editable motion capture solutions, a post-doctoral fellowship that delivered a self-optimising compiler eliminating dynamic type-checking overheads, and a stint developing navigation schemes for a VR film. Outside of work, Richard dedicates time to his young family, engages in occasional CodeWars challenges, and dreams up ideas for a future FinTech focused on tackling the struggle of budgeting.
+
+This video is licensed under CC BY-SA 4.0 - https://creativecommons.org/licenses/by-sa/4.0/
+
+Recorded and produced by KIT LTD : https://www.linkedin.com/company/kitltdnz/",https://i.ytimg.com/vi/v0jpNThuEHk/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=v0jpNThuEHk,https://www.youtube.com/watch?v=v0jpNThuEHk
+7,On the Use and Misuse of Decorators — Christopher Neugebauer,https://www.youtube.com/watch?v=r9LvJk0W8rk,r9LvJk0W8rk,Python New Zealand,@PythonNewZealand,https://www.youtube.com/@PythonNewZealand,20240903,1744,138,2,,Kiwi PyCon,Science & Technology,"Recorded at Kiwi PyCon 2024 - https://kiwipycon.nz/
+
+What is a decorator? You might say it's a function that accepts a function and returns a function. That's wrong.
+
+So what's the right answer?
+
+Join us for a deep (but standard talk-length) dive into decorators! You’ll learn what decorators actually are, how they work, how to write your own decorators, and how decorators enable you to do extremely weird things in Python. Most importantly, you’ll understand how to use decorators responsibly, and definitely not to confuse your friends and colleagues.
+
+One of the most fraught questions in Python is “What is a decorator?”
+
+To a new Python developer, it’s a thing with an @ symbol that changes the behaviour of a function or method. To people who want to understand how they work, decorators are functions that change the behaviours of functions by returning new functions.
+
+These definitions are simple, easy to understand, and wrong.
+
+Decorators like @wraps or @classmethod change the behaviour of a callable, and do so by returning a new callable. Other decorators, like @property accept a callable, but leave something completely different in their place.
+
+This flexibility isn’t just there for decorators that come with Python. You can use this flexibility in your own decorators, and it offers the potential for you to build interesting and unexpected new behaviour.
+
+In this talk, we’ll look at why Python has decorators, and how you can build them.
+
+We’ll look at how some more popular decorators in Python do what they do. Finally, we’ll look at how to harness decorators to do unexpected and potentially horrible things with Python.
+
+After this talk, you’ll know how decorators work, how to write your own decorators, and how decorators enable you to do extremely weird things in Python. Most importantly, you’ll understand how to use decorators responsibly, and definitely not to confuse your friends and colleagues.
+
+Christopher Neugebauer is an Australian developer, speaker, and serial community conference organiser, who presently lives in the United States.
+
+He serves as a Director of the Python Software Foundation, and is co-organiser of the acclaimed North Bay Python conference, a boutique one-track conference run in unusual venues — include an old vaudeville theatre, and more recently a barn on a farm — in Petaluma, California.
+
+Christopher is also a contributor on the open source Pants build system, helping make Python’s testing, correctness, and style tools accessible and fast for developers, no matter how big their codebase.
+
+This video is licensed under CC BY-SA 4.0 - https://creativecommons.org/licenses/by-sa/4.0/
+
+Recorded and produced by KIT LTD : https://www.linkedin.com/company/kitltdnz/",https://i.ytimg.com/vi/r9LvJk0W8rk/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=r9LvJk0W8rk,https://www.youtube.com/watch?v=r9LvJk0W8rk
+8,Python Package Management - Rye Is All You Need — Elliot Simpson,https://www.youtube.com/watch?v=ndz-tfCfsmw,ndz-tfCfsmw,Python New Zealand,@PythonNewZealand,https://www.youtube.com/@PythonNewZealand,20240903,1625,1018,28,,Kiwi PyCon,Science & Technology,"Recorded at Kiwi PyCon 2024 - https://kiwipycon.nz/
+
+Python the language is great - Python the package management experience, not so much.
+
+It's easy to get into also sorts of painful trouble as a beginner. You start pip installing libraries to your machine and everything works - until there is a conflict between the versions you need for different projects. Or maybe you want to share your code but don't have a good way of explaining what dependencies they need to install to get it working. Or an important library only works on a previous version of Python. It's time to learn some basic package management.
+
+Until recently it has been hard to know what to advise newcomers to use for package management - there are so many choices. The Lean Python project recommends rye for both beginner and advanced use cases so that's what we'll cover here. Rye can replace all the other tools you're using. In addition to showing off some of the main features of rye we'll discuss the purposes of package management and some of the specific tasks we want package management software to handle for us:
+
+    Dependency management for our code:
+    Creating and managing a virtual environment so our project is isolated from other projects - potentially using a different version of Python and different libraries and versions of those libraries from other projects. We also avoid breaking system Python. If you don't know what a virtual environment is, rye makes them much easier to use.
+    Pinning to a specific Python version
+    Building wheels so others can painlessly install your code
+
+At the end of this presentation you'll know how to use rye for package management with a few easy-to-remember commands. Even experienced developers will learn something useful.
+
+Elliot started attending PyCons in 2010 and has been using Python ever since, most recently in his role as Software Engineer at Crown Equipment (picking things up and putting them down). In his free time, he has written games, a vocabulary application, and translation tools.
+
+This video is licensed under CC BY-SA 4.0 - https://creativecommons.org/licenses/by-sa/4.0/
+
+Recorded and produced by KIT LTD : https://www.linkedin.com/company/kitltdnz/",https://i.ytimg.com/vi/ndz-tfCfsmw/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=ndz-tfCfsmw,https://www.youtube.com/watch?v=ndz-tfCfsmw
+9,Data Morph: A Cautionary Tale of Summary Statistics — Stefanie Molin,https://www.youtube.com/watch?v=1rAp9zbJmEo,1rAp9zbJmEo,Python New Zealand,@PythonNewZealand,https://www.youtube.com/@PythonNewZealand,20240903,1535,123,8,,Kiwi PyCon,Science & Technology,"Recorded at Kiwi PyCon 2024 - https://kiwipycon.nz/
+
+Statistics do not come intuitively to humans; they always try to find simple ways to describe complex things. Given a complex dataset, they may feel tempted to use simple summary statistics like the mean, median, or standard deviation to describe it. However, these numbers are not a replacement for visualizing the distribution.
+
+To illustrate this fact, researchers have generated many datasets that are very different visually, but share the same summary statistics. In this talk, I will discuss Data Morph, an open source package that builds on previous research using simulated annealing to perturb an arbitrary input dataset into a variety of shapes, while preserving the mean, standard deviation, and correlation to multiple decimal points. I will showcase how it works, discuss the challenges faced during development, and explore the limitations of this approach.
+
+This talk introduces Data Morph, a new open source Python package that can be used to morph an input dataset of 2D points into select shapes, while preserving the summary statistics to a given number of decimal points through simulated annealing. Data Morph extends research from Autodesk to create the Datasaurus Dozen, and is intended to be used as a teaching tool for illustrating why you can’t rely solely on summary statistics. Come learn how it works and what it takes to translate research into an open-source library.
+
+Stefanie Molin is a software engineer at Bloomberg in New York City, where she tackles tough problems in information security, particularly those revolving around data wrangling/visualization, building tools for gathering data, and knowledge sharing. She is also the author of “Hands-On Data Analysis with Pandas: A Python data science handbook for data collection, wrangling, analysis, and visualization,” which is currently in its second edition and has been translated into Korean and Chinese. She holds a bachelor’s of science degree in operations research from Columbia University's Fu Foundation School of Engineering and Applied Science, as well as a master’s degree in computer science, with a specialization in machine learning, from Georgia Tech. In her free time, she enjoys traveling the world, inventing new recipes, and learning new languages spoken among both people and computers.
+
+This video is licensed under CC BY-SA 4.0 - https://creativecommons.org/licenses/by-sa/4.0/
+
+Recorded and produced by KIT LTD : https://www.linkedin.com/company/kitltdnz/",https://i.ytimg.com/vi/1rAp9zbJmEo/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=1rAp9zbJmEo,https://www.youtube.com/watch?v=1rAp9zbJmEo
+10,Understanding PEG parsers with Parsimonious — Curtis Maloney,https://www.youtube.com/watch?v=M5g6MuTiIlE,M5g6MuTiIlE,Python New Zealand,@PythonNewZealand,https://www.youtube.com/@PythonNewZealand,20240903,1908,335,4,,Kiwi PyCon,Science & Technology,"Recorded at Kiwi PyCon 2024 - https://kiwipycon.nz/
+
+Since version 3.9, cPython has used a PEG parser, replacing the sort-of-LL(1) parser that had sustained it until then.
+
+Come and learn how you can use a PEG parser to solve problems in your projects, with an example using the parsimonious package.
+
+In this session we will build up a PEG grammar, and a matching compiler, learning some of the common patterns and pitfalls, and how sometimes a Domain Specific Language is the best tool for the job.
+
+Curtis first started using Python 1.4 back in 1998, and has never looked back.
+
+He first started using Django soon after it was made open source, and was invited onto the (now defunct) core team in 2014.
+
+This video is licensed under CC BY-SA 4.0 - https://creativecommons.org/licenses/by-sa/4.0/
+
+Recorded and produced by KIT LTD : https://www.linkedin.com/company/kitltdnz/",https://i.ytimg.com/vi/M5g6MuTiIlE/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=M5g6MuTiIlE,https://www.youtube.com/watch?v=M5g6MuTiIlE
+11,Mistakes Programmers Believe About Gender — Sam Bishop,https://www.youtube.com/watch?v=N53-UkXJkzw,N53-UkXJkzw,Python New Zealand,@PythonNewZealand,https://www.youtube.com/@PythonNewZealand,20240903,1652,144,2,,Kiwi PyCon,Science & Technology,"Recorded at Kiwi PyCon 2024 - https://kiwipycon.nz/
+
+Gender is a complex and multifaceted concept that goes beyond simple binary classifications. This talk will shed some light on common misconceptions about gender that arise in software development, and provide practical advice on creating more inclusive and respectful software for everyone. By sharing exploring these ideas, we can build a better understanding and foster greater inclusivity in our work.
+
+Understanding gender is crucial for creating inclusive software that respects and accommodates all users. This talk will address common misunderstandings about gender in the programming community, such as viewing gender as strictly binary or overlooking the diversity of gender identities. We will explore how these misconceptions can impact software design and development, and offer strategies for fostering greater inclusivity. Attendees will learn about best practices for handling data related to gender, including when and how to request it, how to use it responsibly, and how to protect it. This knowledge will empower them to create software that honors the diverse identities of all users.
+
+Professional software developer, Amateur rocket scientist and astronomer. Loves Python, Django, cats, working on their personal software and hardware projects, everything space, playing games of all kinds, and tinkering with 3D Printers.
+
+
+This video is licensed under CC BY-SA 4.0 - https://creativecommons.org/licenses/by-sa/4.0/
+
+Recorded and produced by KIT LTD : https://www.linkedin.com/company/kitltdnz/",https://i.ytimg.com/vi/N53-UkXJkzw/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=N53-UkXJkzw,https://www.youtube.com/watch?v=N53-UkXJkzw
+12,Weaving algorithms: the threads that bind the python and textile communities — Kelsey Vavasour,https://www.youtube.com/watch?v=0py74O38Ta8,0py74O38Ta8,Python New Zealand,@PythonNewZealand,https://www.youtube.com/@PythonNewZealand,20240903,1684,117,7,,Kiwi PyCon,Science & Technology,"Recorded at Kiwi PyCon 2024 - https://kiwipycon.nz/
+
+There are a lot of curious crossovers between programming and fiber arts, from the origins of punch cards to borrowed terminology and shared cultural mores. Computing drew a surprising amount from fiber arts, and as I began programming and knitting around the same time I was fascinated to consider things such as how knitting patterns can be viewed with the same conceptual framework as programs, and that understanding how to modify one can provide interesting insights to the other. Both the Python and textile communities are also wonderfully diverse and put some very important efforts in place to encourage inclusivity, which has helped lead me to feel comfortable sharing these insights with such a large audience. This talk aims to get people thinking a bit outside the box and understanding connections with communities they might not have interacted with before.
+
+This talk has three main sections to it, starting by looking at some of the shared history between computing and fiber arts. This will be followed by a dive into how knitting patterns are like programs, with some Python code examples to help you follow along - no prior understanding of knitting will be required! The final section looks at an important similarity that much of both communities share in the current day - a focus on being inclusive and welcoming towards a diverse range of people, ensuring they can be enabled to and feel comfortable participating.
+
+Senior Software Engineer with a background in backend for SaaS products from Christchurch, New Zealand with a focus on inclusivity and diversity in both the programming and wider communities. Enjoys knitting and other forms of crafting in their downtime.
+
+
+This video is licensed under CC BY-SA 4.0 - https://creativecommons.org/licenses/by-sa/4.0/
+
+Recorded and produced by KIT LTD : https://www.linkedin.com/company/kitltdnz/",https://i.ytimg.com/vi/0py74O38Ta8/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=0py74O38Ta8,https://www.youtube.com/watch?v=0py74O38Ta8
+13,Labtech: Concurrency and caching in Python for busy scientists — Ben Denham,https://www.youtube.com/watch?v=LX5kFOVLwaQ,LX5kFOVLwaQ,Python New Zealand,@PythonNewZealand,https://www.youtube.com/@PythonNewZealand,20240904,1498,131,0,,Kiwi PyCon,Science & Technology,"Recorded at Kiwi PyCon 2024 - https://kiwipycon.nz/
+
+Python has made it easier than ever for scientists and analysts to design and run computation-heavy experiments. However, as a project grows and experiment variants multiply, your experimentation loop can grind to a halt: your experiments take longer and longer to run and you spend most of your time managing their results.
+
+Faced with these problems, I developed labtech (https://pypi.org/project/labtech/), an open-source library that makes it easy for you to manage your experiment variants, run them as concurrently as possible on your hardware, and cache intermediate results to be reused across experiments. All you need to do is pip install labtech and reformat your existing experiment code as labtech tasks!
+
+Labtech simplifies the experimentation loop for many fields, including:
+
+    Data scientists evaluating alternative machine learning models
+    Researchers running simulations and data processing pipelines
+    Business analysts scraping many websites or documents over time while only re-scraping as needed
+    Any use case where you want to concurrently run interdependent tasks with result caching and re-use
+
+You'll walk away from this talk with:
+
+    A picture of how labtech fits into the landscape of tools for parallelising Python code and managing experiments.
+    An understanding of how labtech works and the features it provides for managing experiments.
+    The practical knowledge to get your experiment loop running at light speed with labtech!
+
+Ben loves using Python every day in his work as a data scientist to help organisations get more from their data, and he has a passion for teaching others how to get stuff done with Python.
+
+He recently co-delivered the first-ever PyNoon lunchtime Python training course, and has presented at KiwiPycon and other conferences on a range of technologies.
+
+Ben has over 12 years experience in software development and he previously worked as the original software architect for NZ security software startup DataMasque.
+
+For his recently completed PhD thesis, Ben developed machine learning algorithms that can be applied despite common data deficiencies in collaboration with Fisher & Paykel Appliances.
+This video is licensed under CC BY-SA 4.0 - https://creativecommons.org/licenses/by-sa/4.0/
+
+Recorded and produced by KIT LTD : https://www.linkedin.com/company/kitltdnz/",https://i.ytimg.com/vi/LX5kFOVLwaQ/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=LX5kFOVLwaQ,https://www.youtube.com/watch?v=LX5kFOVLwaQ
+14,Failsafes & Safety Fails: How to crash a train & other lessons for software engineers — Jack Skinner,https://www.youtube.com/watch?v=6WxfhVha-gk,6WxfhVha-gk,Python New Zealand,@PythonNewZealand,https://www.youtube.com/@PythonNewZealand,20240904,1809,309,12,,Kiwi PyCon,Science & Technology,"Recorded at Kiwi PyCon 2024 - https://kiwipycon.nz/
+
+Software builders and operators have long looked to transport and aviation for lessons in engineering practices and safety. Today, we’ll turn our attention to the railways as we take 20 years of hindsight to look at the ‘Broady runaway’ and what it can teach us. This talk will dive into the Australian Transport Safety Bureau's (ATSB) subsequent safety investigation, recommendations and parallels in the software world, offering us critical lessons in complex system design and incident management.
+
+For software developers, architects, managers and executives this is an opportunity for us to reflect and learn from the past so that we can build more resilient and easier to operate platforms in the future.
+
+Our runaway train is a 3 car electrical multiple unit (EMU) that, in 2003, did the full 17km Broadmeadows to Spencer st run in just 16 minutes, famously without a driver on board. The cause of the runaway and resulting collision with a stationary diesel locomotive has been the talk of many rail enthusiasts ever since, especially since there were no fatalities or serious injuries.
+
+Jack is a consultant CTO For Hire, specialising in all things web and APIs. He consults to small and growing software companies on patterns and practices for scaling teams and technology. He’s spent the past decade growing technical communities as a speaker, organiser, facilitator and coach.
+
+This video is licensed under CC BY-SA 4.0 - https://creativecommons.org/licenses/by-sa/4.0/
+
+Recorded and produced by KIT LTD : https://www.linkedin.com/company/kitltdnz/",https://i.ytimg.com/vi/6WxfhVha-gk/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=6WxfhVha-gk,https://www.youtube.com/watch?v=6WxfhVha-gk
+15,Learnings and Challenges with Competitive Programming in Python: NZPC and ICPC — Cameron Wu,https://www.youtube.com/watch?v=R_s0WshJLKM,R_s0WshJLKM,Python New Zealand,@PythonNewZealand,https://www.youtube.com/@PythonNewZealand,20240904,1753,146,5,,Kiwi PyCon,Science & Technology,"Recorded at Kiwi PyCon 2024 - https://kiwipycon.nz/
+
+Python is not known for being the fastest language, however it's versatility and succinct code makes it a viable option for competitive programming contests (such as PyCon's Race Condition). I will discuss how I've used Python to compete over the last 4 years, winning the NZ Programming Contest (NZPC) and being a ICPC Regional Finalist. This includes the unique challenges that come with using a interpreted language, and how they are overcome to create a equal playing field. I'll also cover how using Python has given us an advantage in other parts of the contest, and some lessons that I've encountered between Python in contests compared to Python in a professional environment.
+
+I'm a developer at Catalyst .NET and Master of Artificial Intelligence student at the University of Canterbury. I've been heavily involved with participating, and planning, programming contests since 2021. I won the New Zealand Programming Contest in 2022, as well as placing 3rd and 2nd in 2021 and 2023. Internationally, I competed in the ICPC Regionals Contest last year in Sydney, obtaining a Silver Award. I'm interested in mathematical problem solving and algorithmic optimization.
+
+This video is licensed under CC BY-SA 4.0 - https://creativecommons.org/licenses/by-sa/4.0/
+
+Recorded and produced by KIT LTD : https://www.linkedin.com/company/kitltdnz/",https://i.ytimg.com/vi/R_s0WshJLKM/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=R_s0WshJLKM,https://www.youtube.com/watch?v=R_s0WshJLKM
+16,Foundational Skills — Panel,https://www.youtube.com/watch?v=oHn7RP80Ei4,oHn7RP80Ei4,Python New Zealand,@PythonNewZealand,https://www.youtube.com/@PythonNewZealand,20240904,3676,62,2,,Kiwi PyCon,Science & Technology,"Recorded at Kiwi PyCon 2024 - https://kiwipycon.nz/
+Join us in a panel discussion from current and former members across a number of open source non-profits, where we will cover why foundations exist, how they help stabilise and grow communities, and how you can be involved. 
+
+As communities grow and start requiring financial and legal oversight, non-profits form. These foundations help provide the stability to help a community grow, and the work required to keep them working is often underrecognised. 
+
+In this panel, we will discuss how a number of foundations help sustain and preserve open source in New Zealand, Australia, and beyond. We will also include valuable insights from current and former members of these groups, and include discussions around pathways for inclusion into these groups.
+
+These videos are licensed under CC BY-SA 4.0 - https://creativecommons.org/licenses/by-sa/4.0/
+
+Recorded and produced by KIT LTD : https://www.linkedin.com/company/kitltdnz/",https://i.ytimg.com/vi/oHn7RP80Ei4/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=oHn7RP80Ei4,https://www.youtube.com/watch?v=oHn7RP80Ei4
+17,Keynote: Whither Python? — Dr Russell Keith-Magee,https://www.youtube.com/watch?v=J6VVXFKOoyM,J6VVXFKOoyM,Python New Zealand,@PythonNewZealand,https://www.youtube.com/@PythonNewZealand,20240904,3628,178,10,,Kiwi PyCon,Science & Technology,"Recorded at Kiwi PyCon 2024 - https://kiwipycon.nz/
+
+The first version of the Python programming language was released 33 years ago. The computing world that existed then is radically different to the world that exists today - and as a result, the language, community and users of Python have changed as well.
+
+In this keynote, Dr Keith-Magee will reflect on how Python, and computing as a whole, has changed over the years. He will also look at what hasn’t changed - and make some predictions about what the future may hold for Python.
+
+Dr Keith-Magee is the founder of the BeeWare project, a project developing GUI tools and libraries to support the development of Python software on desktop and mobile platforms. He joined the Django core team in 2006, and was President of the Django Software Foundation for five years. He is a frequent speaker at Python and Django conferences around the globe, sharing his experience as a FLOSS developer, community maintainer, and (unsuccessful) startup founder. In his day job, he is a Principal Engineer at Anaconda, working on BeeWare in the OSS team.
+“Whither Python?”
+
+The first version of the Python programming language was released 33 years ago. The computing world that existed then is radically different to the world that exists today - and as a result, the language, community and users of Python have changed as well.
+
+In this keynote, Dr Keith-Magee will reflect on how Python, and computing as a whole, has changed over the years. He will also look at what hasn’t changed - and make some predictions about what the future may hold for Python.
+
+These videos are licensed under CC BY-SA 4.0 - https://creativecommons.org/licenses/by-sa/4.0/
+
+Recorded and produced by KIT LTD : https://www.linkedin.com/company/kitltdnz/",https://i.ytimg.com/vi/J6VVXFKOoyM/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=J6VVXFKOoyM,https://www.youtube.com/watch?v=J6VVXFKOoyM
+18,Introducing Immortal Objects: building block towards a multi-core Python runtime.  — Aditya Mehra,https://www.youtube.com/watch?v=AidFIu_0PRg,AidFIu_0PRg,Python New Zealand,@PythonNewZealand,https://www.youtube.com/@PythonNewZealand,20240905,1633,134,2,,Kiwi PyCon,Science & Technology,"Recorded at Kiwi PyCon 2024 - https://kiwipycon.nz/
+
+In this presentation, I'll cover memory management in Python starting from the fundamentals. I'll explain the rationale behind the need for PEP 683: ""– Immortal Objects, Using a Fixed Refcount"" , discussing about this change may be unlocking exciting avenues for true parallelism in python.
+
+The takeaway of this presentation would be :
+a) Refresher on Life cycle of a python object.
+b) Refresher on python memory management with garbage collection
+c) How overcoming with pseudo immutable object will be unlocking exciting avenues for true parallelism in Python.
+
+The target audience would be intermediate and advanced pythonistas. However I will present the information in simple and subtle manner for better understanding of python newbies .
+
+The key take of the talk would be :
+a) Refresher on object(mutable vs immutable and their significance)
+b) Refresher on a Life cycle of a python object.
+b) Refresher on python memory management with garbage collection
+c) Overview on implementation and motivation for PEP-683 and its impact on further affect on work for removing GIL for getting true parallelism while performing CPU-intensive tasks
+
+Aditya Mehra is a Senior Software Architect. Graduated in Computer Science Engineering, he has a rich experience in IT of over 17 years . He has already presented several talks at Python conferences throughout the world.
+He is publishing weekly newsletter on python and technology and writes in medium and other public platforms.
+Aditya actively supports python community with mentorship and teaching and has volunteered in multiple Python events in India and the USA
+
+These videos are licensed under CC BY-SA 4.0 - https://creativecommons.org/licenses/by-sa/4.0/
+
+Recorded and produced by KIT LTD : https://www.linkedin.com/company/kitltdnz/",https://i.ytimg.com/vi_webp/AidFIu_0PRg/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=AidFIu_0PRg,https://www.youtube.com/watch?v=AidFIu_0PRg
+19,Mechatronics as code — Seth Fischer,https://www.youtube.com/watch?v=s4Hu9Ls0914,s4Hu9Ls0914,Python New Zealand,@PythonNewZealand,https://www.youtube.com/@PythonNewZealand,20240905,1770,281,9,,Kiwi PyCon,Science & Technology,"Recorded at Kiwi PyCon 2024 - https://kiwipycon.nz/
+
+Software Developers have some fantastic tools at their disposal including version control, test suites, continuous integration, and documentation generators. This talk will be an introduction outlining how traditional software development practices can be applied to mechanical and electronic design.
+
+Mechatronics blends the disciplines of Electronics, Software, and Mechanical Engineering. The application of mechatronics ranges from smart appliances in the home to planetary rovers sent to Mars. A number of tools will be introduced which enable engineers to define mechanical and electronic designs as code, including:
+
+    CadQuery: a Python library for building parametric 3D CAD models.
+    Atopile: a language (implemented in Python) for defining electronic circuits.
+
+These and other tools used to design a quarter-scale Mars rover will be discussed.
+
+Seth is a Software Developer based in Wellington, New Zealand. Seth has a background in electronics and interest in embedded systems.
+
+These videos are licensed under CC BY-SA 4.0 - https://creativecommons.org/licenses/by-sa/4.0/
+
+Recorded and produced by KIT LTD : https://www.linkedin.com/company/kitltdnz/",https://i.ytimg.com/vi/s4Hu9Ls0914/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=s4Hu9Ls0914,https://www.youtube.com/watch?v=s4Hu9Ls0914
+20,Pipelines for Securing your Python Development Lifecycle — Simon Merrick,https://www.youtube.com/watch?v=ED_99L7trdg,ED_99L7trdg,Python New Zealand,@PythonNewZealand,https://www.youtube.com/@PythonNewZealand,20240905,1801,98,2,,Kiwi PyCon,Science & Technology,"Recorded at Kiwi PyCon 2024 - https://kiwipycon.nz/
+
+Python tooling and practices that can help us find and resolve security issues with our code early. Why its important and how to build a CI pipeline around them.
+
+Simon is a Senior Cloud Engineer at Trade Me with a background in software development with Python. Previously Simon was a contributor to OpenStack, an open source cloud platform written in Python which sparked his joy for Cloud and DevOps. Coming from a software development background Simon approached his cloud Journey like learning python - through writing code to build and automate cloud infrastructure.
+
+These videos are licensed under CC BY-SA 4.0 - https://creativecommons.org/licenses/by-sa/4.0/
+
+Recorded and produced by KIT LTD : https://www.linkedin.com/company/kitltdnz/",https://i.ytimg.com/vi/ED_99L7trdg/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=ED_99L7trdg,https://www.youtube.com/watch?v=ED_99L7trdg
+21,I love templating and you should too! — Chelsea Finnie,https://www.youtube.com/watch?v=UFFAZzVhUgE,UFFAZzVhUgE,Python New Zealand,@PythonNewZealand,https://www.youtube.com/@PythonNewZealand,20240905,1700,148,1,,Kiwi PyCon,Science & Technology,"Recorded at Kiwi PyCon 2024 - https://kiwipycon.nz/
+
+Templating is awesome! I love it. I just think it's neat. You ever want to do a thing but like do it multiple times but not have to tediously change things around manually? Yeah, same! Templating is really good for that. In this talk I will give a brief overview of templating, my background with it, what the use cases are for it, and how Python (using Jinja2) makes it easy.
+
+Chelsea is a Network DevOps Engineer working at REANNZ. She is also a committee member of Python New Zealand (NZPUG) and is heavily involved with this year's Kiwi PyCon. She's passionate about automation, just making things easy for yourself, and thinks Python is just great in a lot of ways for so many different things. She also likes singing sea shanties so if we're lucky she might sing one for us.
+
+These videos are licensed under CC BY-SA 4.0 - https://creativecommons.org/licenses/by-sa/4.0/
+
+Recorded and produced by KIT LTD : https://www.linkedin.com/company/kitltdnz/",https://i.ytimg.com/vi_webp/UFFAZzVhUgE/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=UFFAZzVhUgE,https://www.youtube.com/watch?v=UFFAZzVhUgE
+22,import rust — Tim McNamara,https://www.youtube.com/watch?v=0sp7P2cUoVQ,0sp7P2cUoVQ,Python New Zealand,@PythonNewZealand,https://www.youtube.com/@PythonNewZealand,20240905,1805,654,24,,Kiwi PyCon,Science & Technology,"Recorded at Kiwi PyCon 2024 - https://kiwipycon.nz/
+
+An informative guide to using the Rust programming language to support Python projects. This talk has two aims. Its first is to demystify Rust and show you a subset of the language that's far less intimidating that you may have been lead to believe. The second is to guide you through a set of decision criteria for considering supplementing your Python project with the language.
+Motivation
+
+One of Rust's most celebrated aspects is that makes it practical to create high-performance tools. They run fast, have low resource requirements and are easy to distribute.
+
+But is that enough to justify learning a new programming language and bolt that on to your existing stack?
+Agenda
+
+In the first section of the talk, we'll learn some of Rust's more confusing concepts, such as ownership, lifetimes and borrowing as well as its answer to exceptions, with code examples written in Python.
+
+We'll then create a small extension module and show how easy it is to distribute Rust as a wheel.
+
+The final section will be a discussion of how to decide whether learning Rust is worth it. Rust isn't the only way to write extension modules, and some alternatives are much closer to Python than Rust is.
+
+Tim McNamara is one of the world's leading Rust educators and runs a consultancy specialising in training customers how to use the language called accelerant.dev. Previously the global head of Rust language education at AWS, he has helped introduce hundreds of thousands of developers to Rust as author of the world-renowned textbook Rust in Action, host of a popular YouTube channel and international speaker. He has held positions in his career, spanning AWS, Canonical, the New Zealand eScience Infrastructure, and a number of data science consultancies.
+
+These videos are licensed under CC BY-SA 4.0 - https://creativecommons.org/licenses/by-sa/4.0/
+
+Recorded and produced by KIT LTD : https://www.linkedin.com/company/kitltdnz/",https://i.ytimg.com/vi/0sp7P2cUoVQ/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=0sp7P2cUoVQ,https://www.youtube.com/watch?v=0sp7P2cUoVQ
+23,Present like a pro — Katie McLaughlin,https://www.youtube.com/watch?v=gPT23TUhYSQ,gPT23TUhYSQ,Python New Zealand,@PythonNewZealand,https://www.youtube.com/@PythonNewZealand,20240905,1811,104,2,,Kiwi PyCon,Science & Technology,"Recorded at Kiwi PyCon 2024 - https://kiwipycon.nz/
+
+So you want to -- or have to -- present a talk.
+On stage.
+In front of people.
+
+Don't panic!
+
+In this talk, we will discuss why talks are great for both teaching and learning, some of the basic do's and don'ts, and an easy 8 step plan to get you writing your (first? next?!) presentation.
+
+Public speaking is a professional skill. It takes a lot to be able to get in front of people, speak about a technical topic within a specific amount of time, field questions from the audience, and do it well.
+
+Spoiler: Even the most experienced speakers get nervous before a talk.
+
+This presentation will take you through some of the basics of public speaking, but also some tricks of the trade that may not be as obvious.
+
+Presented by a recurring Kiwi PyCon speaker who has (as of this event) just shy of a decade of public speaking experience at open source conferences, and who teaches these skills as part of their role in developer relations, learn how you can present like a pro.
+
+Katie McLaughlin (@glasnt) is a Developer Relations Engineer at Google Cloud. They are a Director of the Django Software Foundation, and an Honorary lifetime member of the New Zealand Python User’s Group, and were awarded the O'Reilly Open Source Award in 2017. When they're not changing the world, they enjoy cooking, running, making tapestries, and seeing just how well various application stacks handle emoji.
+
+These videos are licensed under CC BY-SA 4.0 - https://creativecommons.org/licenses/by-sa/4.0/
+
+Recorded and produced by KIT LTD : https://www.linkedin.com/company/kitltdnz/",https://i.ytimg.com/vi/gPT23TUhYSQ/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=gPT23TUhYSQ,https://www.youtube.com/watch?v=gPT23TUhYSQ
+24,Lightning Talks,https://www.youtube.com/watch?v=JDm2bY9EnRQ,JDm2bY9EnRQ,Python New Zealand,@PythonNewZealand,https://www.youtube.com/@PythonNewZealand,20240906,4405,343,9,,Kiwi PyCon,Science & Technology,"Recorded at Kiwi PyCon 2024 - https://kiwipycon.nz/
+
+Lightning talks are a highlight of many conferences and Kiwi PyCon is no exception.
+
+Lightning talks are a rapid-fire series of talks by different presenters, no more than five minutes in length. Lightning talk proposals are collected and selected at the conference. An attendee will often find themselves inspired by a topic of discussion at the conference and choose to present a lightning talk about it.
+
+This year, as has become a mini-tradition, our host and emcee for the lightning talks will be our dear friend Christopher Neugebauer. Details of the talk submission process and required format will be communicated before the conference.
+
+The Kiwi PyCon Lightning talks are an event not to be missed!
+
+These videos are licensed under CC BY-SA 4.0 - https://creativecommons.org/licenses/by-sa/4.0/
+
+Recorded and produced by KIT LTD : https://www.linkedin.com/company/kitltdnz/
+
+Chapters 
+00:00 Intro
+00:37 Ben Denham: Sharing Python Scripts with your Co-Workers in an Enterprise
+05:28 Leon Matthews: One Trillion Games of Snakes and Ladders
+10:20 Chelsea Finnie: My Election Promise - Kiwi PyCon Sea Shanty
+13:30 Zachary Spector: SimLife Time Travel
+17:47 Max Clarke: Graceful shutdown (How to clean up your shit asynchronously)
+23:08 Ryan Wilson: Metlink Dashboard from a Raspberry Pi Pico
+28:28 Aditya Mehra: Bridging gaps: Success for All
+32:34 Asher Foster: Why is [Utility Co]'s game offline?
+36:31 Aurynn Shaw: Cool packages
+42:26 Ben Bradshaw: Domain names are not toys
+46:08 Jonathan Harker: Documenting horns
+51:43 Daisy Brenecki: Falsehoods Programmers Believe About Colour
+57:10 Suzannah Cooper: Adventures in Databases Indexes
+1:02:02 Katie McLaughlin: The guide to containers
+1:07:03 Adrian Turjak: An unexpected adventure in notification systems",https://i.ytimg.com/vi/JDm2bY9EnRQ/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=JDm2bY9EnRQ,https://www.youtube.com/watch?v=JDm2bY9EnRQ
+25,Testing Everything* Everywhere** All at once*** — David Thompson,https://www.youtube.com/watch?v=P5CtvkNypYI,P5CtvkNypYI,Python New Zealand,@PythonNewZealand,https://www.youtube.com/@PythonNewZealand,20240906,2349,152,4,,Kiwi PyCon,Science & Technology,"Recorded at Kiwi PyCon 2024 - https://kiwipycon.nz/
+
+Making sure that code does what it's supposed to - and will keep doing what it's supposed to - can be an ongoing struggle. Especially when you're dealing with large codebases, strange edge cases, multiple applications, external APIs, and collecting your technical debt along the way. This talk aims to survey a few techniques for writing and maintaining good tests.
+
+I am expecting to touch on a few topics including: mocking, fixtures and test data factories, subtests / parameterized tests, exceptions, verifying logging and warnings, HTTP request replays.
+
+This will be opinionated; I have ways that have worked well for me and my projects, and some of you will undoubtedly have your own preferred tools and techniques, so I look forward to you telling me all about them :-)
+
+Dr. David Thompson is a senior software developer at Catalyst in Ōtautahi Christchurch, and has been using Python for fun, academia and profit since the late '90s. Recent problem domains include: elections, earthquakes, enrolments, education and some other things that do not begin the the letter E.
+
+These videos are licensed under CC BY-SA 4.0 - https://creativecommons.org/licenses/by-sa/4.0/
+
+Recorded and produced by KIT LTD : https://www.linkedin.com/company/kitltdnz/",https://i.ytimg.com/vi_webp/P5CtvkNypYI/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=P5CtvkNypYI,https://www.youtube.com/watch?v=P5CtvkNypYI
+26,Teaching Programming in Python in West African Secondary Schools — De-Graft Nana Baisie Affail,https://www.youtube.com/watch?v=ZlWI_14eYCI,ZlWI_14eYCI,Python New Zealand,@PythonNewZealand,https://www.youtube.com/@PythonNewZealand,20240906,2347,118,2,,Kiwi PyCon,Science & Technology,"Recorded at Kiwi PyCon 2024 - https://kiwipycon.nz/
+
+We will look at Python's suitability as a programming language for secondary school education in West African nations.
+We will look at programming topics that are taught, and how Python is used for that.
+We will also discuss useful examples that are complemented with methodical guidance for teachers.
+
+I will Elaborate on how to Integrate Programming language specifically Python programming language into the West African Secondary Schools Educational Curriculum. In addition, I will demonstrate on how to practically implement a set of programs to teach high school students the principles and methodologies of algorithm designs and programming in Python. The individual programs will be accompanied by methodological guidelines for teachers.
+
+My name is De-Graft Nana Baisie Affail. Born and Raised in Ghana in the Western Part of Africa. I completed my Bachelors degree in the field of Information Technology at the University of Cape Coast which was the best University in west Africa in the year 2021. I am now studying my masters in the field of Software systems at Masaryk University which is one of the best Universities in the world and currently in my 4th semester. After my education, I will like to go back to my country Ghana to teach Programming in the secondary schools and tertiary to.
+
+These videos are licensed under CC BY-SA 4.0 - https://creativecommons.org/licenses/by-sa/4.0/
+
+Recorded and produced by KIT LTD : https://www.linkedin.com/company/kitltdnz/",https://i.ytimg.com/vi/ZlWI_14eYCI/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=ZlWI_14eYCI,https://www.youtube.com/watch?v=ZlWI_14eYCI
