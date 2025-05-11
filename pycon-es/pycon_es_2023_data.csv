@@ -1,0 +1,874 @@
+﻿index,title,url,video_id,uploader,uploader_id,uploader_url,upload_date,duration,view_count,like_count,comment_count,tags,categories,description,thumbnail,age_limit,is_live,was_live,availability,webpage_url,original_url
+1,Jesús Armando Anaya - Explicando el sistema de un vehículo autónomo con Python,https://www.youtube.com/watch?v=OZqXeCk3-ow,OZqXeCk3-ow,Python España,@PythonES,https://www.youtube.com/@PythonES,20231219,2073,434,12,,,Entertainment,"Ponente
+Nombre: Jesus Armando Anaya
+Título: Explicando el sistema de un vehículo autónomo con Python
+Sala: Tejita
+————————
+En los últimos años, hemos visto el crecimiento de compañías enfocadas al desarrollo de vehículos autónomos, desde coches comerciales, como es el caso de Tesla, hasta pequeños robots de entrega de alimentos. Al ver estos grandes proyectos podría pensarse que la lógica detrás de un sistema informático para controlar este tipo de robots es muy complicada. En esta charla vamos a desmitificar un poco el funcionamiento de esta clase de sistemas, aprenderemos sobre algunas tendencias en cuanto a frameworks de robótica como ROS2, y como es que se comunican los distintos sensores del vehículo para lograr la conducción autónoma. Todo desde un punto de vista de ingeniería de software enfocada a trabajar con nodos de comunicación en tiempo real. Y por supuesto, todos los ejemplos escritos en Python.
+
+—
+Python España: https://es.python.org/
+Python Canarias: https://pythoncanarias.es/
+Twitter/X: @PyConES
+Mastodon: https://fosstodon.org/@pycones",https://i.ytimg.com/vi/OZqXeCk3-ow/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=OZqXeCk3-ow,https://www.youtube.com/watch?v=OZqXeCk3-ow
+2,Miguel Sánchez - Generación sintética de imágenes para detección y segmentación,https://www.youtube.com/watch?v=7J4CgB6bfpA,7J4CgB6bfpA,Python España,@PythonES,https://www.youtube.com/@PythonES,20231219,2302,374,7,,,Entertainment,"Ponente
+Nombre: Miguel Sánchez Novo
+Título: Generación sintética de imágenes para detección y segmentación
+Sala: Tejita
+————————
+La generación sintética de imágenes es un campo en rápido crecimiento en el mundo de la inteligencia artificial, que juega un papel crucial en la detección y segmentación de imágenes. A medida que los conjuntos de datos naturales se vuelven cada vez más difíciles de obtener debido a problemas de privacidad, costos y tiempo, la generación sintética de imágenes proporciona una solución prometedora, generando datos realistas y ricos en variedad para el entrenamiento de modelos de aprendizaje profundo.
+
+El desafío principal en la detección y segmentación de imágenes radica en la escasez de datos de entrenamiento anotados de alta calidad. Aquí es donde la generación sintética de imágenes juega un papel crucial, ya que puede generar un número infinito de imágenes de entrenamiento etiquetadas automáticamente, evitando los costes y el tiempo asociados a la anotación manual.
+
+Estas imágenes generadas sintéticamente pueden cubrir una amplia gama de escenarios, objetos y condiciones que podrían no estar presentes en los conjuntos de datos de entrenamiento existentes. Esta diversidad mejora la robustez de los modelos de detección y segmentación de imágenes, permitiéndoles manejar situaciones más variadas y complejas.
+
+Además, las imágenes generadas sintéticamente pueden ser utilizadas para la detección y segmentación de objetos raros o anómalos, situaciones en las que los datos reales podrían ser excepcionalmente escasos. Por lo tanto, la generación sintética de imágenes puede ser un recurso invaluable para mejorar el rendimiento de los modelos de computer vision en una variedad de aplicaciones.
+
+En conclusión, la generación sintética de imágenes abre nuevas vías para superar los desafíos en la detección y segmentación de imágenes, principalmente en términos de escasez de datos y diversidad de situaciones.
+
+—
+Python España: https://es.python.org/
+Python Canarias: https://pythoncanarias.es/
+Twitter/X: @PyConES
+Mastodon: https://fosstodon.org/@pycones",https://i.ytimg.com/vi/7J4CgB6bfpA/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=7J4CgB6bfpA,https://www.youtube.com/watch?v=7J4CgB6bfpA
+3,"Mario Montes - Yo me lo guiso, yo me lo como",https://www.youtube.com/watch?v=JW3M4vwLtS8,JW3M4vwLtS8,Python España,@PythonES,https://www.youtube.com/@PythonES,20231219,2256,370,13,,,Entertainment,"Ponente
+Nombre: Mario Montes
+Título: Yo me lo guiso, yo me lo como: creando software para gestionar y realizar un evento de 2000 personas
+Sala: Tejita
+————————
+8 ediciones de T3chFest (https://t3chfest.es/) (el evento sobre tecnología gratuito celebrado en la UC3M) dan para mucho: montar un evento para +2000 asistentes presenciales, +100 ponentes internacionales y +15000 reproducciones en streaming no es tarea sencilla.
+
+Como ingenieros con los años hemos ido desarrollando sistemas para automatizar todo lo posible: la gestión de ponentes y la agenda en nuestra web, bots de Telegram para organizar a voluntarios, sistemas de información serverless en pantallas repartidas por el evento, automatización de los rótulos del streaming, bots de Slack, posts en redes sociales con Lambdas, etc.
+
+En esta charla os contaré algunas de estas ideas que tanto nos facilitan el trabajo mencionando también las tecnologías implicadas (sí, usamos Python :D).
+
+—
+Python España: https://es.python.org/
+Python Canarias: https://pythoncanarias.es/
+Twitter/X: @PyConES
+Mastodon: https://fosstodon.org/@pycones",https://i.ytimg.com/vi_webp/JW3M4vwLtS8/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=JW3M4vwLtS8,https://www.youtube.com/watch?v=JW3M4vwLtS8
+4,Luis San Román - Generative AI = Huge Opportunities,https://www.youtube.com/watch?v=GAwgIx_sqnc,GAwgIx_sqnc,Python España,@PythonES,https://www.youtube.com/@PythonES,20231219,2444,198,3,,,Entertainment,"Ponente
+Nombre: Luis San Roman
+Título: Generative AI = Huge Opportunities. ¡Desarrolladores, es la hora de brillar!. Aprende a construir un modelo especializado Llama-2 para resolver tareas reales.
+Sala: Tejita
+————————
+Generative AI está viviendo un ""momento iPhone"". Las grandes empresas, gobiernos e inversores quieren sacar partido de esta tecnología. Para los desarrolladores esto supone un océano de oportunidades.
+
+En esta sesión técnica en PyConES, exploraremos los entresijos de la construcción de un modelo especializado basado en Llama-2 utilizando las técnicas avanzadas y metodologías necesarias.
+- Cómo enfocar la resolución de tareas con modelos como Llama-2.
+- Ofrecer un tutorial avanzado sobre cómo hacer un fine-tuning de un modelo Llama-2 utilizando optimizadores que hacen viable la construcción del modelo especializado.
+- Profundizar en la naturaleza empírica de Generative AI. Diseñar pruebas y métricas, y convertir el proceso de construcción en un proceso iterativo.
+
+La presentación está dirigida a profesionales, desarrolladores, investigadores y entusiastas en Inteligencia Artificial (AI).
+
+—
+Python España: https://es.python.org/
+Python Canarias: https://pythoncanarias.es/
+Twitter/X: @PyConES
+Mastodon: https://fosstodon.org/@pycones",https://i.ytimg.com/vi/GAwgIx_sqnc/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=GAwgIx_sqnc,https://www.youtube.com/watch?v=GAwgIx_sqnc
+5,Víctor Suárez - Durango: Hablamos de hardware retro usando Python,https://www.youtube.com/watch?v=XbeCMB0H8_w,XbeCMB0H8_w,Python España,@PythonES,https://www.youtube.com/@PythonES,20231219,2277,187,8,,,Entertainment,"Ponente
+Nombre: Victor Suarez
+Título: Durango: Hablamos de hardware retro usando Python
+Sala: Tejita
+————————
+Muchos recordamos la revolución del home computer con ordenadores como el famoso comodore 64 o Spectrum. Pero... qué ocurre si usamos python en un ordenador de estas características.
+
+Presentaremos el proyecto Durango un ordenador de 8 bits con tecnología actual; ayudándonos con herramientas actuales pero basándonos en la tecnología de la época; y sobre todo veremos como hemos podido crear un pequeño intérprete de Python, que llamamos nanopython. Acércate a esta charla con sabor retro pero con un toque moderno.
+
+No te preocupes si quizás no eres experto ya que esta charla está pensada para que cualquiera pueda aportar a un proyecto libre y colaborativo.
+
+—
+Python España: https://es.python.org/
+Python Canarias: https://pythoncanarias.es/
+Twitter/X: @PyConES
+Mastodon: https://fosstodon.org/@pycones",https://i.ytimg.com/vi/XbeCMB0H8_w/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=XbeCMB0H8_w,https://www.youtube.com/watch?v=XbeCMB0H8_w
+6,Murilo Cunha - Faster Python with friends,https://www.youtube.com/watch?v=3ZyrqflNIvo,3ZyrqflNIvo,Python España,@PythonES,https://www.youtube.com/@PythonES,20231219,2458,154,6,,,Entertainment,"Ponente
+Nombre: Murilo Cunha
+Título: Faster Python with friends
+Sala: Tejita
+————————
+ About the talk
+
+Python's flexible and intuitive syntax enables developers to quickly build applications. But on the other hand, it may be slow during runtime. There have been different attempts into making Python faster. In recent years, Python 3.11 was released and popularized as the ""faster Python"" and Mojo programming language was recently announced, advertised as having ""usability of Python with the performance of C"". Going back further, we see languages such as Cython, Just In Time (JIT) compilers and bindings.
+
+In this talk, we'll go over the different approaches to increasing the speed of a Python application. We'll briefly explain how they work, compare the performance through a simple use case, and look at the limitations, tooling, trade-offs, and ease of use.
+
+ Outline
+
+Introduction and setup (3min)
+Baseline - Python 3.9 (3min)
+Alternatives (20min):
+Python 3.11
+Cython & Mypyc
+Pypy3
+PyO3
+Mojo
+Recap and takeaways (4min)
+
+—
+Python España: https://es.python.org/
+Python Canarias: https://pythoncanarias.es/
+Twitter/X: @PyConES
+Mastodon: https://fosstodon.org/@pycones",https://i.ytimg.com/vi/3ZyrqflNIvo/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=3ZyrqflNIvo,https://www.youtube.com/watch?v=3ZyrqflNIvo
+7,Pablo Rodríguez - Cómo adaptar un programa Python para tus amigos no-programadores,https://www.youtube.com/watch?v=LNPFpq1IVVQ,LNPFpq1IVVQ,Python España,@PythonES,https://www.youtube.com/@PythonES,20231219,2340,194,5,,,Entertainment,"Ponente
+Nombre: Pablo Rodríguez Pérez
+Título: Cómo adaptar un programa Python para tus amigos no-programadores
+Sala: Tejita
+————————
+Esta charla trata sobre distintas formas de conseguir que nuestro código Python funcione en otros ordenadores de forma local y ejecutados directamente por un usuario no técnico, al que no se le puede pedir que instale dependencias, use la terminal, ejecute celdas de Jupyter, etc...
+
+En primer lugar presentaré frameworks con los que utilizar Python a través de una interfaz gráfica (PyQT, Dash, Streamlit, ...), después la forma de crear ejecutables para Windows, macOS y Linux (Pynstaller, Pynsist, ...) y finalmente paquetes basados en Pyodide que simplemente con un doble clic se ejecuten correctamente a través de nuestro navegador.
+
+Todo esto contado desde una perspectiva de un data scientist con experiencia en el procesado de datos pero sin práctica con herramientas de frontend. La idea es conseguir una forma rápida de crear herramientas para compartir con compañeros, clientes, amigos, familia, etc...
+
+—
+Python España: https://es.python.org/
+Python Canarias: https://pythoncanarias.es/
+Twitter/X: @PyConES
+Mastodon: https://fosstodon.org/@pycones",https://i.ytimg.com/vi/LNPFpq1IVVQ/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=LNPFpq1IVVQ,https://www.youtube.com/watch?v=LNPFpq1IVVQ
+8,Maialen - Cómo montar un sistema de experimentación con mlflow,https://www.youtube.com/watch?v=R_bYKCJZH4o,R_bYKCJZH4o,Python España,@PythonES,https://www.youtube.com/@PythonES,20231219,2165,1726,59,2.0,,Entertainment,"Ponente
+Nombre: Maialen Berrondo
+Título: ¿Cómo montar un sistema de experimentación con mlflow?
+Sala: Tejita
+————————
+En el campo del Machine Learning, la gestión y seguimiento de experimentos es fundamental para obtener resultados confiables y reproducibles. Sin embargo, muchos equipos se enfrentan al desafío de implementar un sistema efectivo de experimentación. En esta charla, abordaremos el problema y presentaremos MLflow como una solución para montar un sistema de experimentación robusto.
+
+Exploraremos la importancia de buscar una solución a este problema, destacando cómo un sistema de experimentación bien implementado puede mejorar la reproducibilidad de resultados, facilitar la colaboración entre equipos y permitir un control de versiones adecuado de los modelos de Machine Learning.
+
+Durante la charla, discutiremos los pasos necesarios para montar un sistema de experimentación utilizando MLflow. Cubriremos la instalación de MLflow, la configuración del entorno de trabajo, la integración con sistemas de almacenamiento en la nube, la creación de experimentos, el registro de parámetros y métricas, el seguimiento del rendimiento, la gestión de modelos y el despliegue en diferentes entornos.
+
+Los asistentes aprenderán cómo utilizar MLflow para montar un sistema de experimentación efectivo y obtendrán conocimientos prácticos sobre cómo registrar, rastrear y comparar experimentos. Además, discutiremos casos de uso y ejemplos prácticos que ilustrarán cómo MLflow puede ser aplicado en diferentes industrias y proyectos de Machine Learning.
+
+No se requieren conocimientos previos específicos, pero es recomendable tener familiaridad con los conceptos básicos de Machine Learning y la experimentación con modelos. Esta charla proporcionará a los asistentes las herramientas y el conocimiento necesario para implementar un sistema de experimentación con MLflow de manera exitosa en sus proyectos.
+
+—
+Python España: https://es.python.org/
+Python Canarias: https://pythoncanarias.es/
+Twitter/X: @PyConES
+Mastodon: https://fosstodon.org/@pycones",https://i.ytimg.com/vi/R_bYKCJZH4o/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=R_bYKCJZH4o,https://www.youtube.com/watch?v=R_bYKCJZH4o
+9,Laszlo Kiss - The wheelhouse of horrors,https://www.youtube.com/watch?v=dfocsJAcRfo,dfocsJAcRfo,Python España,@PythonES,https://www.youtube.com/@PythonES,20231219,2231,71,1,,,Entertainment,"Ponente
+Nombre: Laszlo Kiss Kollar
+Título: The wheelhouse of horrors
+Sala: Antequera
+————————
+You might be surprised to learn that, besides naming and cache invalidation problems, building a binary wheel for a Python extension is one of the hardest problems in computer science. Or more precisely, building that binary wheel correctly. Lucky for us, a few amazing community-led projects hide all that complexity from us, so we can instead focus on shipping and using Python code.
+
+One of Python's strong suits is its ability to use native C and C++ code, which is a big reason why it’s the number one language for date science and machine learning applications. However, distributing native code in Python libraries is far from trivial: subtle issues in the build process can result in runtime issues that are extremely difficult to track down.
+
+This talk will showcase some notable examples of how things can go wrong, while also helping users and maintainers recognise these typical error scenarios. We will learn how to avoid these issues and what users can do when they encounter such issues when using a library.
+
+The audience will learn about the manylinux standard and its role in standardizing Linux platform wheels. We will also take a look at the cibuildwheel project, which offers library authors a simple solution to automate the building and distribution of manylinux wheels.
+
+—
+Python España: https://es.python.org/
+Python Canarias: https://pythoncanarias.es/
+Twitter/X: @PyConES
+Mastodon: https://fosstodon.org/@pycones",https://i.ytimg.com/vi/dfocsJAcRfo/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=dfocsJAcRfo,https://www.youtube.com/watch?v=dfocsJAcRfo
+10,Çağıl Uluşahin Sönmez - The coding conventions that makes our lives easier,https://www.youtube.com/watch?v=8E8J8gHV564,8E8J8gHV564,Python España,@PythonES,https://www.youtube.com/@PythonES,20231219,2535,193,5,1.0,,Entertainment,"Ponente
+Nombre: Çağıl Uluşahin Sönmez
+Título: The coding conventions that makes our lives easier
+Sala: Antequera
+————————
+Engineers review code as often as they write it and use a lot of tools to improve this process, such as linters and auto-formatters. One tool that is also very useful is coding conventions. It is a collection of references that can be used during code reviews while also serving as a valuable day-to-day reference and guide for the entire team.
+
+This talk will explore several different conventions from the open-source conventions repository, offering an in-depth exploration of how they improve the quality of the codebase and serve as a tool for knowledge transfer among engineering teams.
+
+The structure of the talk will follow:
+
+What are coding conventions, and why do we use them?
+Examples of some of the most useful coding conventions and how they enhance code quality.
+How to establish your own coding conventions?
+How to uphold your coding conventions with the help of linters?
+
+Attendees will leave with a comprehensive understanding of the concept of coding conventions and how to implement them within their own team.
+
+—
+Python España: https://es.python.org/
+Python Canarias: https://pythoncanarias.es/
+Twitter/X: @PyConES
+Mastodon: https://fosstodon.org/@pycones",https://i.ytimg.com/vi/8E8J8gHV564/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=8E8J8gHV564,https://www.youtube.com/watch?v=8E8J8gHV564
+11,Marcelo Trylesinski - The validation evolution: Pydantic V2tronger,https://www.youtube.com/watch?v=Z_G1h6YxiT8,Z_G1h6YxiT8,Python España,@PythonES,https://www.youtube.com/@PythonES,20231219,2252,194,6,,,Entertainment,"Ponente
+Nombre: Marcelo Trylesinski
+Título: The validation evolution: Pydantic V2tronger
+Sala: Antequera
+————————
+The Pydantic library has become an essential tool for Python developers who want to easily validate and parse data. However, with the release of version 2, Pydantic has undergone significant changes that make it even more powerful and efficient. In this talk, we will explore the evolution of Pydantic and the new features that make version 2 stronger, faster performance, and better support for custom types. We will also discuss how Pydantic can help developers build more robust and maintainable applications by ensuring data consistency and reducing the risk of errors. Whether you are new to Pydantic or a seasoned user, this talk will provide valuable insights into the latest advancements in data validation and parsing.
+
+
+—
+Python España: https://es.python.org/
+Python Canarias: https://pythoncanarias.es/
+Twitter/X: @PyConES
+Mastodon: https://fosstodon.org/@pycones",https://i.ytimg.com/vi/Z_G1h6YxiT8/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=Z_G1h6YxiT8,https://www.youtube.com/watch?v=Z_G1h6YxiT8
+12,Ben Lomax - The Art of the Pull Request,https://www.youtube.com/watch?v=YLnj9iTbrA8,YLnj9iTbrA8,Python España,@PythonES,https://www.youtube.com/@PythonES,20231219,2567,261,8,,,Entertainment,"Ponente
+Nombre: Ben Lomax
+Título: The Art of the Pull Request
+Sala: Antequera
+————————
+Want to be a better teammate? Want to get your work merged faster?
+
+For a lot of devs (especially newer ones) the important part of a PR is the code, not the PR itself. However, the way commits in a PR are put together to guide another dev through the review can be massively impactful. This talk looks at how to effectively craft that review experience.
+
+Aims of a PR
+
+At a superficial level, the aims of a PR are to get code checked for bugs, and to allow it to get merged and deployed. On a deeper level, it's also where a lot of mentoring and learning happens. I will make the argument that both of these are massively improved by ensuring one thing: the PR is crafted for the convenience of the reviewer.
+
+Specific tips
+
+I'll then look at some of the specific processes and tips that I've found most useful when putting together PRs. These include creating modular commits, laying the groundwork at the start of the PR, how to best comment the code, using conventions and automatic formatters, and reviewing your own PRs.
+
+Dealing with feedback
+
+Finally I'll look at how to deal with feedback. This will touch on both the human aspect of getting feedback, as well as how to best show changes made in response to comments.
+
+—
+Python España: https://es.python.org/
+Python Canarias: https://pythoncanarias.es/
+Twitter/X: @PyConES
+Mastodon: https://fosstodon.org/@pycones",https://i.ytimg.com/vi/YLnj9iTbrA8/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=YLnj9iTbrA8,https://www.youtube.com/watch?v=YLnj9iTbrA8
+13,Cheuk Ting Ho - Untangle Python Spaghetti - Deep dive into environments and dependencies management,https://www.youtube.com/watch?v=vuQA9aQPs8U,vuQA9aQPs8U,Python España,@PythonES,https://www.youtube.com/@PythonES,20231219,2688,82,1,,,Entertainment,"Ponente
+Nombre: Cheuk Ting Ho
+Título: Untangle Python Spaghetti - Deep dive into environments and dependencies management
+Sala: Antequera
+————————
+After learning doing in Python, we started multiple Python or Data Science projects. Dependency management becomes a skill that we need to avoid requirement conflicts amount projects. In this talk, we will learn how dependencies management tools work and how to choose the right one to use.
+
+In this talk, we will use venv, the environment managing tool that come with CPython, and conda, the tool that is popular among data science partitioners to decipher how environment and dependency management works. First, we will go through some basic knowledge of how Python """"sees"""" your package and know where to import them when needed. Then, we will make the audience aware that, to avoid the requirement conflict amount different projects, we need a new set of environments for each project.
+
+Then, we will see how tools like venv and conda can create a new set of environments. We will cover both the practical aspect - how to use the tools and which one to use, and the theoretical aspect - the inner working of the tools and why they are different. This will make the audience get familiar with some tools that are at their disposal and inspire them to start using them for their work.
+
+This talk is for beginner Pythonistas or data scientists who started to use Python professionally and those who are curious to know how the environment and dependency management tools work.
+
+—
+Python España: https://es.python.org/
+Python Canarias: https://pythoncanarias.es/
+Twitter/X: @PyConES
+Mastodon: https://fosstodon.org/@pycones",https://i.ytimg.com/vi/vuQA9aQPs8U/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=vuQA9aQPs8U,https://www.youtube.com/watch?v=vuQA9aQPs8U
+14,Marina Moro López y Helena Gómez Pozo - Diseño de vacunas contra el cáncer con Python,https://www.youtube.com/watch?v=axky2xs_eR0,axky2xs_eR0,Python España,@PythonES,https://www.youtube.com/@PythonES,20231219,2084,135,3,,,Entertainment,"Ponente
+Nombre: Marina Moro López y Helena Gómez Pozo
+Título: Diseño de vacunas contra el cáncer con Python
+Sala: Antequera
+————————
+El cáncer es uno de los mayores problemas de salud a nivel mundial, pero aún no tiene una cura definitiva. Por otra parte, Python es tremendamente versátil y potente. Así que, ¿por qué no juntar ambas cosas? Eso es exactamente lo que haremos en esta charla. Empezaremos con una breve introducción a los mecanismos básicos del cáncer y un repaso de genética, abarcando lo justo y necesario para entender a la perfección el caso práctico. Éste consistirá en plantear algunos de los innumerables tipos de vacunas contra el cáncer y diseñar un par de ellas con un script de Python para el tratamiento de un tumor específico. Finalmente, revisaremos asuntos esenciales de la regulación y control de calidad de estas vacunas. Todo esto nos servirá para ver el tremendo potencial de la sinergia entre la biotecnología y Python en el ámbito sanitario como diagnóstico y tratamiento de enfermedades como el cáncer.
+
+—
+Python España: https://es.python.org/
+Python Canarias: https://pythoncanarias.es/
+Twitter/X: @PyConES
+Mastodon: https://fosstodon.org/@pycones",https://i.ytimg.com/vi/axky2xs_eR0/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=axky2xs_eR0,https://www.youtube.com/watch?v=axky2xs_eR0
+15,Adrian Herrmann - Asynchronous programming with asyncio and Qt,https://www.youtube.com/watch?v=XuqdTvisqkQ,XuqdTvisqkQ,Python España,@PythonES,https://www.youtube.com/@PythonES,20231219,2287,1028,16,2.0,,Entertainment,"Ponente
+Nombre: Adrian Herrmann
+Título: Asynchronous programming with asyncio and Qt
+Sala: Antequera
+————————
+Python is a powerful language with a vast ecosystem of libraries for all imaginable use cases, yet developing GUI applications is perhaps a less widespread one. Writing first-class GUI applications in Python is certainly possible, and if you've ever tried to write one and researched GUI frameworks, chances are you've come across PySide, the bridge between Python and the popular C++ based GUI framework Qt. Qt for Python combines the best of both worlds, but the world of Python is more than just a language, and users expect wide interoperability within the ecosystem. Python developers deserve a first-class experience combining a powerful GUI framework with all their favorite and trusted Python libraries.
+
+When it comes to asynchronous programming, asyncio is a household name. It is an established library for Python applications with concurrency and asynchronous I/O, and the de facto standard that multiple other asynchronous frameworks build upon. Like Qt, it is based on an event loop, and it offers an extensive API to implement a custom event loop that applications using asyncio can then leverage. Therefore, it is perhaps natural to combine Qt and asyncio and to leverage their respective strengths, but enabling this in Qt for Python posed some unique challenges - some stemming from asyncio, some from Qt.
+
+This talk explains the principles of event loop-based asynchronous programming and dives into the steps and challenges encountered during the work to enable interoperability of these libraries: Implementing asyncio’s interface for event loops and related classes like Future and Task, based on Qt.
+
+—
+Python España: https://es.python.org/
+Python Canarias: https://pythoncanarias.es/
+Twitter/X: @PyConES
+Mastodon: https://fosstodon.org/@pycones",https://i.ytimg.com/vi/XuqdTvisqkQ/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=XuqdTvisqkQ,https://www.youtube.com/watch?v=XuqdTvisqkQ
+16,Jesús R. Nieto - Geppetto: Python en la creación de personajes en películas de animación,https://www.youtube.com/watch?v=I4hRztqUtXM,I4hRztqUtXM,Python España,@PythonES,https://www.youtube.com/@PythonES,20231219,2625,79,3,,,Entertainment,"Ponente
+Nombre: Jesús R. Nieto
+Título: Geppetto: Python en la creación de personajes en películas de animación
+Sala: 
+————————
+Siendo la creación de personajes un proceso muy complejo y técnico, es realizado por artistas
+que necesitan herramientas intuitivas que potencien su creatividad y faciliten el proceso con tal
+de no frustrar sus esfuerzos. Geppetto es una herramienta python clave en nuestro arsenal de
+creación de personajes en Skydance que hemos diseñado siguiendo algunos de los patrones clásicos
+de programación para hacer que este proceso sea más eficiente y creativo.
+Los personajes son una parte esencial en las películas de animación. Dan vida a la historia y nos
+transportan a lugares increíbles donde vivir experiencias únicas. Una película puede tener del orden
+de 5 a 10 personajes primarios, otros tantos secundarios y muchos extras para dar más credibilidad al
+mundo en el que ocurre la historia.
+En la creación de cada personaje intervienen muchos departamentos. Los creadores del modelo 3D a
+partir de los diseños, el departamento que prepara el personaje para ser animado (rigging), animación,
+efectos de personaje (pelo, ropa, plumas...), multitudes...
+En definitiva, un personaje está compuesto por muchas piezas elaboradas por varios artistas que
+trabajan en paralelo la mayoría del tiempo. Este proceso puede ser muy complejo y sobre todo muy
+técnico, limitando el número de personas capaces de dominarlo. En skydance hemos canalizado todo
+el ensamblaje de personajes y la gestión de sus variaciones a travé de un software propietario llamado
+Geppetto, escrito en python, que pretende simplificar todo este proceso y hacerlo más artístico.
+
+—
+Python España: https://es.python.org/
+Python Canarias: https://pythoncanarias.es/
+Twitter/X: @PyConES
+Mastodon: https://fosstodon.org/@pycones",https://i.ytimg.com/vi/I4hRztqUtXM/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=I4hRztqUtXM,https://www.youtube.com/watch?v=I4hRztqUtXM
+17,Santiago Cárdenas - ¿De verdad GPT le va a quitar el trabajo a Developers y Data Scientists?,https://www.youtube.com/watch?v=qpSM6SFkVJQ,qpSM6SFkVJQ,Python España,@PythonES,https://www.youtube.com/@PythonES,20231219,2672,313,6,,,Entertainment,"Ponente
+Nombre: Santiago Cárdenas Martin
+Título: ¿De verdad GPT le va a quitar el trabajo a Developers y Data Scientists?. Lo que diferencia a un DS que no puede ser sustituido por inteligencia generativa.
+Sala: Antequera
+————————
+Estamos viendo cómo las nuevas herramientas de IA generan código y modelos de ML de manera automática. Hay quien llega a afirmar que dentro de poco se podrá prescindir de los Data Scientists, porque cualquier usuario le podrá pedir a una IA que le genere los modelos que necesita.
+¿Es esto así? La (aparentemente) mala noticia es que la generación básica de modelos sin valor añadido va a ser sustituida por sistemas automáticos, así que no necesitaremos a Data Scientists que solo hacen eso.
+Pero vamos a ver qué es lo que distingue la labor de un Data Scientist de alto nivel que hace que no pueda ser sustituida por una IA y por qué cada vez vamos a necesitar más de estos Data Scientists de alto nivel.
+
+—
+Python España: https://es.python.org/
+Python Canarias: https://pythoncanarias.es/
+Twitter/X: @PyConES
+Mastodon: https://fosstodon.org/@pycones",https://i.ytimg.com/vi/qpSM6SFkVJQ/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=qpSM6SFkVJQ,https://www.youtube.com/watch?v=qpSM6SFkVJQ
+18,"Simone Giacomelli - Seamless Server and in-Browser web programming with wwwpy, Pyodide and WASM.",https://www.youtube.com/watch?v=zGYVIbeUWUg,zGYVIbeUWUg,Python España,@PythonES,https://www.youtube.com/@PythonES,20231219,2390,234,7,,,Entertainment,"Ponente
+Nombre: Simone Giacomelli
+Título: Python all the way down: Seamless Server and in-Browser web programming with wwwpy, Pyodide and WASM.
+Sala: Antequera
+————————
+Slides for this talk: http://tiny.cc/wwwpy-pycones23
+
+In this talk, we'll venture into a new frontier of web development by introducing an innovative method that seamlessly integrates server-side and in-browser programming. This transformative approach leverages the flexibility and power of Python and is made possible by Pyodide, a Python distribution operating on WebAssembly, and wwwpy, a pioneering library (authored by the speaker) that seamlessly integrates Python server-side operations with Pyodide.
+
+The disconnect between server-side and client-side programming is a prevalent challenge in web development: diverse languages and data structures in play at each end reduce the seamless communication and code reusability.
+
+The solution lies in Python's versatility, bridging this gap through Pyodide and wwwpy. By utilizing Python on both server and client (browser), a myriad of benefits is brought forth:
+
+The reuse of Python knowledge for client-side code which leverages the developer’s existing Python expertise and past experiences.
+The lower impedance between server and client is made possible by employing identical data structures (datetime, integer, float, list, set, dict, etc.) on both ends.
+The transparent interaction between client and server through secure RPC (Remote Procedure Call).
+The intrinsic development efficiency of sharing code between the two programming environments.
+The possibility to perform DOM manipulation and Web API usage directly with Python.
+The empowering capability to directly access and use JavaScript/TypeScript libraries from within Python, harmoniously blending diverse coding ecosystems and extending Python's functionality.
+In this context, Pyodide enables Python code execution directly within browsers and Node.js environments, effectively harnessing Python's potential to redefine the web development paradigm, and wwwpy provides a transparent way to invoke server functions from the browser and a Widget class to interact effortlessly with HTML5 elements.
+
+An additional highlight is Pyodide's support for a variety of packages, including pure Python wheels from PyPI, and pure Python and binary wasm32/emscripten wheels, featuring more than 150 packages such as numpy, scikit-learn, matplotlib, scipy, beautifulsoup4, and networkx.
+
+This talk will fundamentally change the way you perceive web development by introducing an integrated approach, reducing friction between server and client-side and elevating code reuse to new heights.
+
+Join us to explore the future of web programming, where Python reigns, from the server to the browser. Your web development journey will never be the same again!
+
+—
+Python España: https://es.python.org/
+Python Canarias: https://pythoncanarias.es/
+Twitter/X: @PyConES
+Mastodon: https://fosstodon.org/@pycones",https://i.ytimg.com/vi_webp/zGYVIbeUWUg/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=zGYVIbeUWUg,https://www.youtube.com/watch?v=zGYVIbeUWUg
+19,"Raquel Lainde - Prosperar en entornos homogéneos siendo ""diversidad""",https://www.youtube.com/watch?v=TEVcCH0IgR0,TEVcCH0IgR0,Python España,@PythonES,https://www.youtube.com/@PythonES,20231219,2713,87,2,,,Entertainment,"Ponente
+Nombre: Raquel Lainde
+Título: Prosperar en entornos homogéneos siendo ""diversidad""
+Sala: Fañabé
+————————
+En esta charla práctico y vivencial trabajaremos estrategias, tácticas y herramientas concretas que permitan a personas que habitualmente son minusvaloradas en el entorno laboral crecer profesionalmente con el menos costo personal posible.
+También son bienvenidos a la charla quienes deseen construir equipos y empresas más inclusivas. Podrán entender mejor qué obstáculos enfrenta ""la diversidad"" y así colaborar eficazmente en hacer menos discriminatorios algunos de los procesos clave en sus áreas de influencia.
+Se ofrecerá un marco teórico introductorio, trabajaremos de forma grupal y, finalmente, ofreceremos recursos específicos para la reflexión individual y para la modificación estructural de conductas y patrones ""en el mundo real"" que puedan implementarse de forma inmediata.
+
+—
+Python España: https://es.python.org/
+Python Canarias: https://pythoncanarias.es/
+Twitter/X: @PyConES
+Mastodon: https://fosstodon.org/@pycones",https://i.ytimg.com/vi/TEVcCH0IgR0/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=TEVcCH0IgR0,https://www.youtube.com/watch?v=TEVcCH0IgR0
+20,Dácil Hernández - Trascendiendo el Hype: La realidad de la IA en las empresas,https://www.youtube.com/watch?v=3oAsR9BQXuE,3oAsR9BQXuE,Python España,@PythonES,https://www.youtube.com/@PythonES,20231219,2166,156,2,,,Entertainment,"Ponente
+Nombre: Dácil Hernández
+Título: Trascendiendo el Hype: La realidad de la IA en las empresas
+Sala: Fañabé
+————————
+Está por todas partes, la inteligencia artificial aquí y allá. Para muchos la IA se considera la última revolución industrial y su impacto potencial se compara con avances tecnológicos históricamente significativos como la rueda, el motor a vapor, el ordenador e Internet.
+
+En los negocios, ¿se trata de un campo de juego nivelado?
+
+Los gigantes globales (Meta, Google, Microsoft) tienen los recursos para construir una plataforma tecnológica sólida y aprovechar el poder del Big Data para liberar todo el potencial de la IA. Para mantener el ritmo, organizaciones de menor tamaño deben ser creativas, trabajar dentro de sus limitaciones y planificar cuidadosamente cómo implementar proyectos de Inteligencia Artificial.
+
+Dacil Hernández, Directora de Data e IA en Nagarro compartirá su experiencia y la ecuación del éxito para que una empresa pueda sobrevivir en este nuevo escenario.
+
+—
+Python España: https://es.python.org/
+Python Canarias: https://pythoncanarias.es/
+Twitter/X: @PyConES
+Mastodon: https://fosstodon.org/@pycones",https://i.ytimg.com/vi/3oAsR9BQXuE/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=3oAsR9BQXuE,https://www.youtube.com/watch?v=3oAsR9BQXuE
+21,Justo Ruiz - Real Time Vectorized DataSets under 30 minutes,https://www.youtube.com/watch?v=LXZ-c6ITqI0,LXZ-c6ITqI0,Python España,@PythonES,https://www.youtube.com/@PythonES,20231219,2560,58,0,,,Entertainment,"Ponente
+Nombre: Justo Ruiz Ferrer
+Título: Real Time Vectorized DataSets under 30 minutes
+Sala: Fañabé
+————————
+In our roles as Data Scientists or Data Engineers, we are delivering complex solutions for searching, recommendation engines or data extraction pipelines over complex data sets that expands the traditional data formats, as we incorporate all sorts of information generated by our clients and businesses.
+
+This is a Show and Tell session where you would learn how to construct an AI powered database with real time ingestion capabilities under 30 minutes using Python and your own or public AI models.
+
+The session will use Shapelets REC software stack and public AI models hosted in HuggingFace to create a real time repository of complex data (images, recordings, text, etc...) and an example of an application querying the repository with millisecond response times.
+
+—
+Python España: https://es.python.org/
+Python Canarias: https://pythoncanarias.es/
+Twitter/X: @PyConES
+Mastodon: https://fosstodon.org/@pycones",https://i.ytimg.com/vi_webp/LXZ-c6ITqI0/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=LXZ-c6ITqI0,https://www.youtube.com/watch?v=LXZ-c6ITqI0
+22,Adriana  y Jesús: ASM: La revolución del modelo de mantenimiento de productos tradicional,https://www.youtube.com/watch?v=r0RaM7ICfws,r0RaM7ICfws,Python España,@PythonES,https://www.youtube.com/@PythonES,20231219,1948,106,1,,,Entertainment,"Ponente
+Nombre: Adriana Mendoza Rodriguez y Jesús Genil
+Título: ASM: La revolución del modelo de mantenimiento de productos tradicional y uso de Python para asegurar la excelencia
+Sala: Fañabé
+————————
+¿Alguna vez te has parado a pensar que el modelo o formato habitual de equipos de mantenimiento de aplicaciones no funciona correctamente? ¿Equipos deslocalizados, desacoplados y poco integrados con los equipos de producto? ¿Cómo puede afectar eso al éxito y el funcionamiento de los productos?
+En Cepsa hemos creado un equipo de mantenimiento multidisciplinar (formado por científicos de datos, ingenieros de datos, desarrolladores, arquitectos…) que trabajan en equipo para analizar y resolver los problemas asociados a los productos. El equipo ASM tiene mucho que decir (y decidir) ya que están presentes e integrados con todos los equipos desde la fase de ideación del producto. Ellos son los responsables de asegurar un estándar, y guían en cada iteración a los equipos técnicos para asegurar que estos cumplen con el “production ready”.
+Un equipo dedicado además a investigar y definir nuevos procedimientos centrándose en la eficiencia y en la agilidad. Con ese enfoque, se ha construido una herramienta desarrollada en Python para asegurarnos de una manera efectiva y rápida de que todos los productos estén en perfecto estado.
+
+—
+Python España: https://es.python.org/
+Python Canarias: https://pythoncanarias.es/
+Twitter/X: @PyConES
+Mastodon: https://fosstodon.org/@pycones",https://i.ytimg.com/vi_webp/r0RaM7ICfws/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=r0RaM7ICfws,https://www.youtube.com/watch?v=r0RaM7ICfws
+23,Artur Costa - Monadas en Python: Menos Excepciones y Más Tipado en Nuestro Código,https://www.youtube.com/watch?v=8KT165QWxJc,8KT165QWxJc,Python España,@PythonES,https://www.youtube.com/@PythonES,20231219,2080,244,10,,,Entertainment,"Ponente
+Nombre: Artur Costa Pazo
+Título: Monadas en Python: Menos Excepciones y Más Tipado en Nuestro Código
+Sala: Fañabé
+————————
+La gestión de los errores es una parte muy importante de nuestros sistemas. En Python, como en muchos lenguajes de programación, tenemos disponibles las excepciones. Pero, ¿existen formas más elegantes para encapsular los resultados de nuestras funciones?
+
+En esta charla, se presentará un concepto muy interesante con origen en la programación funcional, las Monadas o también llamadas Either, Result, etc. Este patrón nos puede ayudar a mejorar nuestro código, y por suerte, en el ecosistema de Python tenemos disponible bibliotecas que nos pueden ayudar a introducirnos en este mundo. El uso de estas herramientas nos permitirá mejorar mucho el tipado de nuestro código y reducir el ruido visual que pueden añadir los try except infernales en algunos casos de uso.
+
+Para ilustrar los ejemplos, se utilizará la biblioteca meiga, y casos de usos reales (lo llevamos utilizando en producción casi 4 años). :)
+
+—
+Python España: https://es.python.org/
+Python Canarias: https://pythoncanarias.es/
+Twitter/X: @PyConES
+Mastodon: https://fosstodon.org/@pycones",https://i.ytimg.com/vi_webp/8KT165QWxJc/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=8KT165QWxJc,https://www.youtube.com/watch?v=8KT165QWxJc
+24,Sergio Gil - De píxeles a predicciones: la magia detrás de la clasificación de imágenes con RN,https://www.youtube.com/watch?v=FyVc0JaTAPk,FyVc0JaTAPk,Python España,@PythonES,https://www.youtube.com/@PythonES,20231219,1928,126,1,,,Entertainment,"Ponente
+Nombre: Sergio Gil Gavela
+Título: De píxeles a predicciones: la magia detrás de la clasificación de imágenes con redes neuronales
+Sala: Fañabé
+————————
+ Visión general
+
+La clasificación de imágenes es una rama de la inteligencia artificial con numerosas aplicaciones. En Python existen algunas librerías como Pytorch y Tensorflow que ofrecen herramientas para entrenar redes neuronales para visión artificial.
+
+Actualmente algunas de las aplicaciones más relevantes de la clasificación de imágenes son:
+
+Conducción autónoma.
+
+Aplicaciones médicas, como el análisis de imágenes de resonancia magnética o tomografías computarizadas.
+
+Reconocimiento facial.
+
+Automatización industrial, como por ejemplo la detección automática de desperfectos en cadenas de montaje.
+
+ Contenido
+
+En esta charla exploraremos cómo entrenar este tipo de redes neuronales para detectar los objetos que aparecen en una imagen. Para ello cubriremos técnicas imprescindibles como data augmentation, fine-tuning y el uso de redes preentrenadas del Estado del Arte para mejorar la precisión de nuestros modelos. Concretamente trataremos los siguientes puntos:
+
+Introducción a los métodos actuales para clasificación de imágenes.
+
+Introducción a las librerías de Python PyTorch y huggingface 🤗 timm para entrenar modelos de clasificación de imágenes y usar redes neuronales ya entrenadas del Estado del Arte que permiten resolver tú problema sin apenas esfuerzo.
+
+Cómo utilizar AISee, una librería de Python que permite aplicar todas estas técnicas avanzadas de clasificación de imágenes en muy pocas líneas de código.
+
+Al final de la charla, los asistentes habrán aprendido cómo funcionan las redes neuronales para clasificación de imágenes y serán capaces de usar modelos del Estado del Arte en sus proyectos.
+
+ Público objetivo
+
+La charla está dirigida a todos los públicos, aquellas personas sin conocimientos previos en clasificación de imágenes o redes neuronales podrán disfrutar de una introducción desde cero a estos conceptos. Por otra parte, aquellas personas con experiencia previa en visión artificial podrán aprender cuál es el Estado del Arte en este campo y las técnicas más avanzadas que existen en la actualidad.
+
+—
+Python España: https://es.python.org/
+Python Canarias: https://pythoncanarias.es/
+Twitter/X: @PyConES
+Mastodon: https://fosstodon.org/@pycones",https://i.ytimg.com/vi_webp/FyVc0JaTAPk/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=FyVc0JaTAPk,https://www.youtube.com/watch?v=FyVc0JaTAPk
+25,Carlos López y Juan Álvarez - X-men al rescate,https://www.youtube.com/watch?v=CxkvIUjE8dc,CxkvIUjE8dc,Python España,@PythonES,https://www.youtube.com/@PythonES,20231219,2107,36,0,,,Entertainment,"Ponente
+Nombre: Carlos López Pérez y Juan Miguel Álvarez
+Título: X-men al rescate: ¿cómo un puñado de mutantes puede ayudarte a mejorar tus tests?
+Sala: Fañabé
+————————
+Contexto de la charla o problema:
+Usar la técnica de mutation testing para mejorar la calidad de los tests y el código.
+Definición del problema:
+Dispones de una base de código con tests pero no tienes el nivel de confianza en ellos para realizar cambios sin riesgo a introducir bugs en producción.
+¿Por qué es importante buscar una solución a ese problema?
+Disponer de buenos tests permite realizar cambios con mayor rapidez y reduciendo los errores en producción, pero mejorar la calidad de los tests es una tarea complicada y que consume bastante tiempo. Utilizando una técnica como mutation testing puede ayudar a encontrar defectos en los tests con un mecanismo sencillo y abordable de forma incremental.
+¿Qué se hablará y qué aprenderá la gente que asista?
+Del testing, la calidad de los tests y la importancia relativa del nivel de cobertura. Los asistentes tendrán una nueva herramienta para mejorar la calidad de su tests y en consecuencia del código.
+Requerimientos previos o comentarios adicionales de tu charla:
+Conocimientos básicos sobre testing, no se requieren conocimientos específicos de ningún framework.
+
+—
+Python España: https://es.python.org/
+Python Canarias: https://pythoncanarias.es/
+Twitter/X: @PyConES
+Mastodon: https://fosstodon.org/@pycones",https://i.ytimg.com/vi_webp/CxkvIUjE8dc/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=CxkvIUjE8dc,https://www.youtube.com/watch?v=CxkvIUjE8dc
+26,Javier y Miguel: Cómo ejecutar miles de VM en paralelo y no morir en el intento - Orcha 🐳,https://www.youtube.com/watch?v=ooPboULiYGU,ooPboULiYGU,Python España,@PythonES,https://www.youtube.com/@PythonES,20231219,1699,53,3,,,Entertainment,"Ponente
+Nombre: Javier Alonso
+Título: Cómo ejecutar miles de VM en paralelo y no morir en el intento - Orcha 🐳
+Sala: Patos
+————————
+El CI es fundamental en el desarrollo de productos hoy en día y uno de sus pilares básicos es la ejecución de tests. Sin embargo, a medida que el producto madura la cantidad de tests aumenta y con ello el tiempo que tardan en completarse. Para tener feedback lo antes posible, ¿cómo se maquetan las pruebas de forma eficiente?
+
+El problema es aún más acusado cuando se cuenta con multitud de dispositivos y versiones en desarrollo. En particular, con dos servidores distriubyéndose carga de tests, el tiempo total de ejecución alcanzaba las 15 horas probando únicamente dos versiones.
+
+Es imperativo contar con una herramienta que permita paralelizar las pruebas de forma masiva, aprovechando al máximo los recursos disponibles. Además, es necesario que dicha herramienta sea lo suficientemente flexible como para soportar la infraestructura actual y permita expandir el tipo de infraestrucuras de tests.
+
+En esta charla vamos a explorar el diseño de Orcha (la herramienta de orquestración), la API para extender su funcionalidad y la necesidad de tener un usuario dedicado.
+
+La charla está orientada a usuarios intermedio-avanzados con familiaridad con el módulo multiprocessing.
+
+—
+Python España: https://es.python.org/
+Python Canarias: https://pythoncanarias.es/
+Twitter/X: @PyConES
+Mastodon: https://fosstodon.org/@pycones",https://i.ytimg.com/vi/ooPboULiYGU/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=ooPboULiYGU,https://www.youtube.com/watch?v=ooPboULiYGU
+27,"David Carrasco - Make it Easier, Make it Powerful: A Pythonic solution for IoT in the Rusty Way",https://www.youtube.com/watch?v=0o-RJRtiOBQ,0o-RJRtiOBQ,Python España,@PythonES,https://www.youtube.com/@PythonES,20231219,2196,76,1,,,Entertainment,"Ponente
+Nombre: David Carrasco Cano
+Título: Make it Easier, Make it Powerful: A Pythonic solution for IoT in the Rusty Way
+Sala: Patos
+————————
+La charla se mostrara una solución sencilla hecha en Python para interactuar mediante protocolo MQTT con un dispositivo esp32 y un xiaomi Mi Plant y que usa pequeña librería escrita en Rust para la securización, se mostrara el uso del producto escrito en Python esphome para la programación del esp32, se dejaran en la sala 10 dispositivos IoT programados para que puedan ver su interacción en pantalla.
+
+Entrando en ese concepto de IoT se escucha mucho de ello y cada vez hay soluciones mas manejables como esphome, NodeRED o PlatformIO, sin embargo tampoco esta muy extendido en cuanto a perfiles técnico como podría parecer, de algún modo se hace inaccesible o es difícil verlo.
+
+En lo que respecta a la seguridad, siempre queda mucho por hacer, en esta charla se abordara un poco esta parte para concienciar, usando una securización sencilla en Rust que se integrara en la solución que se ha desarrollado con Python mediante un binding, la idea de darle visibilidad a Rust es por su cada vez mayor presencia en librerías de Python, así como su enfoque a la optimización y seguridad que justamente puede potenciar a Python donde palidece o es mas débil, hay una sinergia entre ambos lenguajes que cada vez esta siendo una realidad.
+
+En cuanto a asistentes, la charla dada la limitación de tiempo, se busca es romper el miedo o la inseguridad ante el IoT, que se vaya conociendo lo que es el lenguaje de programación Rust y hacia que va enfocado, hacer hincapié en la seguridad y por supuesto mostrar que Python pueda ser una estupenda apuesta para integrar dispositivos IoT.
+
+—
+Python España: https://es.python.org/
+Python Canarias: https://pythoncanarias.es/
+Twitter/X: @PyConES
+Mastodon: https://fosstodon.org/@pycones",https://i.ytimg.com/vi/0o-RJRtiOBQ/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=0o-RJRtiOBQ,https://www.youtube.com/watch?v=0o-RJRtiOBQ
+28,Mireya y Jorge - Cómo abordar tus problemas de predicción de series temp sin morir en el intento,https://www.youtube.com/watch?v=edcCT0U9u7g,edcCT0U9u7g,Python España,@PythonES,https://www.youtube.com/@PythonES,20231219,2077,187,5,,,Entertainment,"Ponente
+Nombre: Mireya Gutiérrez Castro y Jorge Raúl Gómez
+Título: Dominando el Tiempo: Cómo abordar tus problemas de predicción de series temporales sin morir en el intento
+Sala: Patos
+————————
+Hay dos tipos de Data Scientists: los que se han atascado alguna vez en un problema de previsión de series temporales y los que se atascarán en algún momento en un problema de series temporales. Las series temporales son omnipresentes en nuestra realidad, y el interés por explotarlas es algo muy común. El uso de datos de ventas diarias, ingresos del BCE, el tiempo meteorológico de cada día puede transformarse en conocimiento: previsión de la demanda, saber el crecimiento de un país, conocer si tengo que sacar las botas de agua mañana, etc.
+
+Esta capacidad de inferir es fruto de construir un modelo, pero ¿cuál se ajusta mejor a cada caso? ¿Necesitas predecir una única serie temporal o varias?, ¿el conjunto de series temporales a predecir están relacionadas entre sí? ¿Dispones de información futura? Conocer qué modelo es el adecuado para cada caso impactará en la calidad de las predicciones y en el tiempo necesario de desarrollo.
+
+En esta charla aprenderás a reconocer y afrontar estos desafíos ayudándote de Python y las librerías más potentes de hoy en día. Se explorarán diferentes modelos y criterios de selección, con el objetivo de equiparte con las habilidades necesarias para escoger el modelo que mejor se adapte a tus necesidades particulares.
+
+—
+Python España: https://es.python.org/
+Python Canarias: https://pythoncanarias.es/
+Twitter/X: @PyConES
+Mastodon: https://fosstodon.org/@pycones",https://i.ytimg.com/vi/edcCT0U9u7g/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=edcCT0U9u7g,https://www.youtube.com/watch?v=edcCT0U9u7g
+29,Vídeo resumen PyConES23,https://www.youtube.com/watch?v=HoMcuYvzUec,HoMcuYvzUec,Python España,@PythonES,https://www.youtube.com/@PythonES,20231219,204,283,9,1.0,,Entertainment,"Vídeo resumen de los 3 días que duró la Conferencia Nacional de Python 2023 celebrada en Tenerife (Canarias)
+
+—
+Python España: https://es.python.org/
+Python Canarias: https://pythoncanarias.es/
+Twitter/X: @PyConES
+Mastodon: https://fosstodon.org/@pycones",https://i.ytimg.com/vi_webp/HoMcuYvzUec/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=HoMcuYvzUec,https://www.youtube.com/watch?v=HoMcuYvzUec
+30,Maria Vicenta - Maintaining High Code Std in a Globally Shared Codebase with 80+ Daily Deployments,https://www.youtube.com/watch?v=nlQy2xV_y-Q,nlQy2xV_y-Q,Python España,@PythonES,https://www.youtube.com/@PythonES,20231219,1983,116,11,,,Entertainment,"Ponente
+Nombre: Maria Vicenta Vivo
+Título: Maintaining High Code Standards in a Globally Shared Codebase with Over 80 Daily Deployments
+Sala: Patos
+————————
+Working on a codebase that is shared among multiple clients, with over 80 daily deployments per client, poses significant challenges in upholding code standards. Given the potential for a single bug to disrupt an entire deployment pipeline, it becomes essential to adopt some precautions and best practices when sharing code across numerous clients engaged in frequent deployments.
+
+During this presentation, we will explore a selection of best practices for code development within a repository used by more than 400 developers across multiple countries. Furthermore, we will engage in a comprehensive discussion addressing the inherent challenges and limitations encountered in this context.
+
+—
+Python España: https://es.python.org/
+Python Canarias: https://pythoncanarias.es/
+Twitter/X: @PyConES
+Mastodon: https://fosstodon.org/@pycones",https://i.ytimg.com/vi_webp/nlQy2xV_y-Q/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=nlQy2xV_y-Q,https://www.youtube.com/watch?v=nlQy2xV_y-Q
+31,Ricardo Fernández / Carlos Alberto - GAN’s and Roses – redes generativas para iniciados,https://www.youtube.com/watch?v=xdfX4zb3KE0,xdfX4zb3KE0,Python España,@PythonES,https://www.youtube.com/@PythonES,20231219,1834,90,7,,,Entertainment,"Ponente
+Nombre: Ricardo Fernández Jiménez y Carlos Alberto Gomez Gonzalez
+Título: GAN’s and Roses – redes generativas para iniciados
+Sala: Bollullo
+————————
+¿Te suena la palabra “deepfake” o modelos como Midjourney y DALLE-2 entre otros? Si en estos últimos años no has vivido en una cueva, seguramente te suenen, ¿pero sabes realmente que son? Si eres de los curiosos que buscan ir un paso más allá, esta es tu charla.
+
+Durante los últimos años, la popularidad de los modelos generativos, especialmente las Redes Generativas Adversarias (GANs) ha crecido exponencialmente, despertando tanto interés como temor. A parte de para calmar nuestra curiosidad por esta nueva tecnología ¿Cómo podemos aprovechar los datos sintéticos generados por estos modelos?
+
+En esta charla, exploraremos las bases de las GANs y revisaremos los diferentes tipos que existen según el caso de uso y los datos disponibles. Utilizando ejemplos reales, te mostraremos cómo estas potentes herramientas pueden sustituir (hasta cierto punto) datos reales en situaciones donde la privacidad sea clave o la obtención de nuevas muestras sea costosa en términos económicos o de otros recursos. Finalmente, hablaremos sobre los modelos de difusión y el futuro de los modelos generativos.
+
+—
+Python España: https://es.python.org/
+Python Canarias: https://pythoncanarias.es/
+Twitter/X: @PyConES
+Mastodon: https://fosstodon.org/@pycones",https://i.ytimg.com/vi/xdfX4zb3KE0/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=xdfX4zb3KE0,https://www.youtube.com/watch?v=xdfX4zb3KE0
+32,PyConES 2023 - ⚡ Lightning talks [1],https://www.youtube.com/watch?v=6jDp1NqFf9U,6jDp1NqFf9U,Python España,@PythonES,https://www.youtube.com/@PythonES,20231219,3177,90,2,,,Entertainment,"Charlas relámpago - primera sesión
+—
+Python España: https://es.python.org/
+Python Canarias: https://pythoncanarias.es/
+Twitter/X: @PyConES
+Mastodon: https://fosstodon.org/@pycones",https://i.ytimg.com/vi/6jDp1NqFf9U/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=6jDp1NqFf9U,https://www.youtube.com/watch?v=6jDp1NqFf9U
+33,PyConES 2023 - Apertura,https://www.youtube.com/watch?v=611DnBdO3sc,611DnBdO3sc,Python España,@PythonES,https://www.youtube.com/@PythonES,20231219,1942,52,1,,,Entertainment,"Apertura del evento
+—
+Python España: https://es.python.org/
+Python Canarias: https://pythoncanarias.es/
+Twitter/X: @PyConES
+Mastodon: https://fosstodon.org/@pycones",https://i.ytimg.com/vi/611DnBdO3sc/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=611DnBdO3sc,https://www.youtube.com/watch?v=611DnBdO3sc
+34,Marta Gómez - Malware en Pypi,https://www.youtube.com/watch?v=Nz1jHekJ1dk,Nz1jHekJ1dk,Python España,@PythonES,https://www.youtube.com/@PythonES,20231219,1634,198,6,1.0,,Entertainment,"Ponente
+Nombre: Marta Gomez
+Título: Malware en Pypi
+Sala: Bollullo
+————————
+La presencia de paquetes maliciosos en Pypi se ha incrementado desde hace un tiempo, hasta el punto en el que Pypi tuvo que suspender la subida de nuevos paquetes durante un día y ha habido numerosas noticias y charlas en conferencias al respecto.
+
+En esta charla haremos un repaso de varios de estos paquetes maliciosos, analizando cómo se ofuscan para que sea más difícil detectarlos, qué funcionalidad maliciosa implementan (robo de credenciales, miners, robo de cookies, meter direcciones de bitcoin en el clipboard de la víctima...), cómo lo hacen para evitar ser detectados por analistas de seguridad y herramientas de análisis dinámico y cómo podemos detectarlos automáticamente con YARA.
+
+—
+Python España: https://es.python.org/
+Python Canarias: https://pythoncanarias.es/
+Twitter/X: @PyConES
+Mastodon: https://fosstodon.org/@pycones",https://i.ytimg.com/vi/Nz1jHekJ1dk/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=Nz1jHekJ1dk,https://www.youtube.com/watch?v=Nz1jHekJ1dk
+35,Keynote - Gema Parreño - El Señor de las Palabras: los Dos Frameworks,https://www.youtube.com/watch?v=KKGI-tfXG0k,KKGI-tfXG0k,Python España,@PythonES,https://www.youtube.com/@PythonES,20231219,2534,128,6,,,Entertainment,"Keynote
+Nombre: Gema Parreño
+Título: El Señor de las Palabras: los Dos Frameworks
+Sala: Bollullo
+————————
+La charla titulada ""El Señor de las Palabras"" es un fascinante viaje al corazón de la arquitectura de Transformers, uno de los avances más significativos en el campo del procesamiento del lenguaje natural (NLP) en los últimos años. Aprenderemos a traves de la comparación entre los dos principales frameworks de aprendizaje profundo, TensorFlow y PyTorch, en el contexto de la implementación de la librería de Transformers de HuggingFace . Ademas, nos sumergimos en el viaje que ha llevado esta exploración a traves de contribuciones Open Source. ¿Te gusta el Señor de los Anillos? No te pierdas esta charla con un montón de Lore!
+
+—
+Python España: https://es.python.org/
+Python Canarias: https://pythoncanarias.es/
+Twitter/X: @PyConES
+Mastodon: https://fosstodon.org/@pycones",https://i.ytimg.com/vi/KKGI-tfXG0k/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=KKGI-tfXG0k,https://www.youtube.com/watch?v=KKGI-tfXG0k
+36,Xoel López - Scraping sin hacer scraping,https://www.youtube.com/watch?v=fkiUveVgX_s,fkiUveVgX_s,Python España,@PythonES,https://www.youtube.com/@PythonES,20231219,2076,192,6,,,Entertainment,"Ponente
+Nombre: Xoel López Barata
+Título: Scraping sin hacer scraping
+Sala: Bollullo
+————————
+El scraping ""bueno"" tiene más de reverse engineering que de selectores CSS. En esta charla veremos técnicas para hacer scraping y evitar ser detectados que uso o he usado en mi actual trabajo en theirstack.com o en anteriores trabajos. Por ejemplo:
+- Por dónde empezar. Ética, robots.txt y sitemaps
+- Cómo encontrar la documentación de una API que no es pública.
+- Cómo obtener datos de motores de búsqueda
+- Por qué ponernos contentos cuando vemos un scroll infinito
+- Cómo seguir usando la API de Twitter sin pagar
+- Cómo evitar que bloqueen nuestra IP
+- Cómo saltarnos sistemas antibot como Datadome y similares
+- Qué tipos de proxies existen
+- Cómo obtener API keys descompilando aplicaciones móviles
+- Por qué sistemas como Algolia son muy interesantes
+- Cómo usar GraphQL introspection para ver qué datos podemos sacar
+- Cómo montar nuestro propio proxy móvil
+
+—
+Python España: https://es.python.org/
+Python Canarias: https://pythoncanarias.es/
+Twitter/X: @PyConES
+Mastodon: https://fosstodon.org/@pycones",https://i.ytimg.com/vi/fkiUveVgX_s/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=fkiUveVgX_s,https://www.youtube.com/watch?v=fkiUveVgX_s
+37,Manuel Díaz / Pedro Quilles - En mi dataset funcionaba - monitorizando modelos de machine learning,https://www.youtube.com/watch?v=Sy2Z-4O4ICw,Sy2Z-4O4ICw,Python España,@PythonES,https://www.youtube.com/@PythonES,20231219,1600,112,2,,,Entertainment,"Ponente
+Nombre: Manuel Díaz y Pedro Quilles Campo
+Título: En mi dataset funcionaba - monitorizando modelos de machine learning
+Sala: Bollullo
+————————
+En la actualidad los modelos de machine learning se han consolidado como parte clave de la toma de decisiones en diversas industrias. Aunque la evaluación de estos modelos en datos no vistos es un paso esencial antes de su implementación, esto no es suficiente para desplegar un modelo y olvidarse de él. Una vez desplegados, fenómenos como el data drift pueden deteriorar la calidad de las predicciones, ocasionando posibles pérdidas de negocio. Por ello, la monitorización de los modelos es fundamental.
+
+En esta charla abordaremos las diferentes causas del deterioro de los modelos y las implicaciones de no abordar el problema a tiempo. Explicaremos los diferentes tipos de data drift, las técnicas para detectarlo y la importancia de monitorizar tanto los datos de entrada como la calidad de las predicciones, incluyendo sus distribuciones. También discutiremos como la monitorización nos permite tomar mejores decisiones a la hora de reentrenar.
+
+Utilizando Python y una variedad de herramientas de código abierto, mostraremos ejemplos prácticos de cómo implementar una estrategia de monitoreo de modelos en producción, asegurando que los modelos de ML se mantengan confiables, precisos y valiosos para la toma de decisiones en cualquier entorno empresarial.
+
+—
+Python España: https://es.python.org/
+Python Canarias: https://pythoncanarias.es/
+Twitter/X: @PyConES
+Mastodon: https://fosstodon.org/@pycones",https://i.ytimg.com/vi_webp/Sy2Z-4O4ICw/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=Sy2Z-4O4ICw,https://www.youtube.com/watch?v=Sy2Z-4O4ICw
+38,Jaime Crespo / Roc Massaguer - Cómo Outconsumer y yo domamos a la IA machista de la Kings League,https://www.youtube.com/watch?v=tbkTK2PTCyU,tbkTK2PTCyU,Python España,@PythonES,https://www.youtube.com/@PythonES,20231219,2417,56,2,,,Entertainment,"Ponente
+Nombre: Jaime Crespo y Roc Massaguer
+Título: Cómo Outconsumer y yo domamos a la IA machista de la Kings League
+Sala: Bollullo
+————————
+A principios de 2023, el famoso YouTuber y streamer Outconsumer tuvo la idea de usar ChatGPT para constuir, simplemente como aprendizaje y divertimento, algunos bots que publicaran cosas graciosas en Twitter de manera autónoma. Yo le ayudé a escribir un bot en Python usando las APIs de la NBA, Twitter y OpenAI, así como web scrapping para obtener prompts. El bot tuvo una primera recepción bastante positiva y fue un proyecto muy divertido en el que colaborar. El problema vino cuando el bot comenzó a decir cosas machistas y xenófobas de forma totalmente inesperada...
+
+Una mirada a las nuevas tecnologías teniendo en cuenta aspectos sociales, y de cómo la diversidad, la ética y la responsabilidad son más importantes que nunca para hacer más humano un mundo dominado por las IAs.
+
+En esta charla contaremos cómo surgió la idea, detalles técnicos de cómo se construyó, el problema que tuvimos y cómo decidimos solucionarlo, haciendo al final una reflexión y dando consejos sobre cómo usar las IAs generativas, abierta a todos los públicos.
+
+—
+Python España: https://es.python.org/
+Python Canarias: https://pythoncanarias.es/
+Twitter/X: @PyConES
+Mastodon: https://fosstodon.org/@pycones",https://i.ytimg.com/vi/tbkTK2PTCyU/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=tbkTK2PTCyU,https://www.youtube.com/watch?v=tbkTK2PTCyU
+39,PyConES 2023 - ⚡ Lightning talks [2],https://www.youtube.com/watch?v=EmH1SnmOLrw,EmH1SnmOLrw,Python España,@PythonES,https://www.youtube.com/@PythonES,20231219,1898,64,1,,,Entertainment,"Segunda sesión de lightning talks de la PyConES 2023.
+—
+Python España: https://es.python.org/
+Python Canarias: https://pythoncanarias.es/
+Twitter/X: @PyConES
+Mastodon: https://fosstodon.org/@pycones",https://i.ytimg.com/vi/EmH1SnmOLrw/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=EmH1SnmOLrw,https://www.youtube.com/watch?v=EmH1SnmOLrw
+40,PyConES 2023 - Cierre,https://www.youtube.com/watch?v=lxMrGstUT7Y,lxMrGstUT7Y,Python España,@PythonES,https://www.youtube.com/@PythonES,20231219,2352,68,0,,,Entertainment,"Cierre de la PyConES 2023
+—
+Python España: https://es.python.org/
+Python Canarias: https://pythoncanarias.es/
+Twitter/X: @PyConES
+Mastodon: https://fosstodon.org/@pycones",https://i.ytimg.com/vi/lxMrGstUT7Y/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=lxMrGstUT7Y,https://www.youtube.com/watch?v=lxMrGstUT7Y
+41,Naomi Ceder - Dos rompecabezas de Python - buscando el porqué,https://www.youtube.com/watch?v=rJVIAQ7r78k,rJVIAQ7r78k,Python España,@PythonES,https://www.youtube.com/@PythonES,20231219,2209,60,2,,,Entertainment,"Ponente
+Nombre: Naomi Ceder
+Título: Dos rompecabezas de Python - buscando el porqué
+Sala: Bollullo
+————————
+¿Por qué los parámetros predeterminados mutables de funciones a veces salen mal? ¿Y qué pasa realmente cuando importamos/reimportamos un elemento de un módulo (o un módulo entero) y a veces parece no funcionar?
+
+Estos dos casos a menudo sorprenden tanto a los Pythonistas principiantes como a los más experimentados, y todos nos hemos preguntado “¿Por qué pasó eso?” Aunque los dos casos parecen distintos, ambos pueden explicarse por dos principios muy fundamentales sobre cuándo se ejecuta el código y qué se crea.
+
+Esta charla de código en vivo responderá ambas preguntas, ilustrando los comportamientos sorprendentes y explicando lo que se espera frente a lo que pasa. Luego exploraremos cómo funciona Python - cuándo se ejecuta el código y cómo todo en Python es un objeto - hasta que lleguemos a un modelo mental más claro y más correcto que nos ayudará a no engañarnos nunca más.
+
+—
+Python España: https://es.python.org/
+Python Canarias: https://pythoncanarias.es/
+Twitter/X: @PyConES
+Mastodon: https://fosstodon.org/@pycones",https://i.ytimg.com/vi/rJVIAQ7r78k/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=rJVIAQ7r78k,https://www.youtube.com/watch?v=rJVIAQ7r78k
+42,Keynote - Nerea Luis - El futuro del trabajo,https://www.youtube.com/watch?v=IJYHUk49b8Y,IJYHUk49b8Y,Python España,@PythonES,https://www.youtube.com/@PythonES,20231219,2581,84,1,,,Entertainment,"Keynote
+Nombre: Nerea Luis
+Título: El futuro del trabajo
+Sala: Bollullo
+————————
+Desde que llegase a nuestras vidas ChatGPT el pasado noviembre de 2022, la palabra Inteligencia Artificial está en boca de todos. Este año se ha popularizado el uso de modelos de IA como herramienta, mediante modelos de suscripción (Github Copilot, ChatGPT Plus, Midjourney..) o mediante despliegues en la nube de modelos open-source liderado por el repositorio de modelos HuggingFace. Parece que la inteligencia artificial ha alcanzado un nuevo grado de madurez y así lo tienen en cuenta regulaciones incipientes de Europa y Estados Unidos. ¿Te has planteado cómo será tu trabajo en unos años? Vamos a hacer un viaje al centro de los modelos fundacionales de la IA y sus capacidades para reflexionar y perfilar qué tareas probablemente nos va a facilitar la IA y cuáles seguiremos haciendo los trabajadores. Tomaré como ejemplo los departamentos existentes en una empresa típica de consultoría de software: desarrollo, sistemas, comunicación, marketing, negocio y dirección.
+
+—
+Python España: https://es.python.org/
+Python Canarias: https://pythoncanarias.es/
+Twitter/X: @PyConES
+Mastodon: https://fosstodon.org/@pycones",https://i.ytimg.com/vi/IJYHUk49b8Y/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=IJYHUk49b8Y,https://www.youtube.com/watch?v=IJYHUk49b8Y
+43,Pablo Galindo - Profiling a la velocidad de la luz,https://www.youtube.com/watch?v=YJWQ0hHfajs,YJWQ0hHfajs,Python España,@PythonES,https://www.youtube.com/@PythonES,20231219,1855,440,14,,,Entertainment,"Ponente
+Nombre: Pablo Galindo Salgado
+Título: Profiling a la velocidad de la luz
+Sala: Bollullo
+————————
+¿Sabías que Python 3.12 incluirá uno de los compiladores ""just-in-time"" (JIT) más pequeños del mundo? Además, te sorprenderá saber que no sirve para lo que probablemente estás pensando.
+
+Poder comprender dónde nuestras aplicaciones de Python están gastando su tiempo es crucial para poder mejorar las características de rendimiento de nuestras aplicaciones. Ya existen varias herramientas para ayudar con esta tarea, pero todas tienen sus propias limitaciones, especialmente cuando está involucrado código nativo escrito en C, C++, Rust, etc. Poder recopilar y correlacionar información de rendimiento con otros marcadores relacionados con el rendimiento, como branch predictions, fallos de caché, cambios de contexto y otros eventos, tener un buen profiler que soporte obtener estos datos puede ser clave para comprender algunas de las situaciones más desafiantes.
+
+Para ayudar con esto, Python 3.12 incluirá soporte para el profiler ""perf"" de Linux. El profiler perf de Linux es una herramienta muy potente que te permite obtener información sobre el rendimiento de aplicaciones. ""perf"" también cuenta con un ecosistema muy activo de herramientas que ayudan con el análisis de los datos que produce.
+
+En esta charla, hablaremos sobre cómo se implementó soporte para esta nueva funcionalidad en Python 3.12, cómo difiere el soporte para ""perf"" de otros profilers orientados al rendimiento para Python, y cómo se puede utilizar de manera efectiva, incluida la activación dinámica para habilitar el profiling en producción. También cubriremos algunos de los requisitos necesarios para obtener los mejores resultados, así como algunas de las limitaciones de la implementación y cómo pueden afectar a nuestras métricas.
+
+—
+Python España: https://es.python.org/
+Python Canarias: https://pythoncanarias.es/
+Twitter/X: @PyConES
+Mastodon: https://fosstodon.org/@pycones",https://i.ytimg.com/vi_webp/YJWQ0hHfajs/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=YJWQ0hHfajs,https://www.youtube.com/watch?v=YJWQ0hHfajs
+44,Mai Giménez - Arquitectura de software para investigadoras,https://www.youtube.com/watch?v=chksKNxoRvM,chksKNxoRvM,Python España,@PythonES,https://www.youtube.com/@PythonES,20231219,2351,82,1,,,Entertainment,"Ponente
+Nombre: Mai Giménez
+Título: Arquitectura de software para investigadoras
+Sala: Bollullo
+————————
+Cualquiera que haya navegado un repositorio científico es consciente de lo caótico que puede ser, y es, el método científico con variables globales, secciones de código comentadas, millones de flags muchas incompatibles entre si y una larga ristra de parámetros.
+
+Por sus características, Python es el lenguaje ideal para prototipar experimentos rápidamente pero afortunadamente también nos proporciona herramientas para simplificar las configuraciones y evitar algunos de los problemas más comunes en el código de investigación.
+En esta charla exploraremos como usar dataclasses, TypedDict y Protocolos para reducir escribir código repetitivo, mejorar la legibilidad y detectar errores simples a través de la anotación de tipos.
+
+—
+Python España: https://es.python.org/
+Python Canarias: https://pythoncanarias.es/
+Twitter/X: @PyConES
+Mastodon: https://fosstodon.org/@pycones",https://i.ytimg.com/vi_webp/chksKNxoRvM/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=chksKNxoRvM,https://www.youtube.com/watch?v=chksKNxoRvM
+45,Juan Luis Cano - Python para un mundo mejor: informe desde la trinchera,https://www.youtube.com/watch?v=teVqkugbBDI,teVqkugbBDI,Python España,@PythonES,https://www.youtube.com/@PythonES,20231219,2433,152,3,,,Entertainment,"Ponente
+Nombre: Juan Luis Cano Rodríguez
+Título: Python para un mundo mejor: informe desde la trinchera
+Sala: Bollullo
+————————
+Equidad, trabajo digno, cooperación, sostenibilidad ecológica, reparto justo de la riqueza, compromiso con el entorno. No es ficción, sueño, ni utopía: es un sector que representa el 10 % del PIB en España, que ha sido recientemente impulsado por la ONU, y del que puedes formar parte. Hablamos de la Economía Social y Solidaria.
+
+¿Y qué tiene que ver Python en todo esto? Alerta spoiler: la madurez tecnológica de la ESS madrileña y más allá deja mucho que desear, así que no vas a escuchar sobre metaversos, blockchains, ni ""inteligencias artificiales"" en esta charla. Lo que sí vas a escuchar es un resumen sobre el estado actual de la cuestión, el papel que juega el software libre, y sobre todo nuestra experiencia utilizando Python para gestionar cientos de entidades y socias, automatizar tareas, y en definitiva ayudar a crear un mundo mejor.
+
+Comenzaremos haciendo una breve introducción de la carta de principios de la Economía Social y Solidaria, contaremos cómo estaba el panorama tecnológico cuando llegamos (prepárate para llevarte las manos a la cabeza), desmenuzaremos los avances que hemos hecho en el último año gracias a Python (desde Django hasta reportlab pasando por Odoo e incluso una alternativa a Mastodon llamada Takahē), y cerraremos la charla con una nota de esperanza, una hoja de ruta muy ambiciosa, y una invitación a colaborar.
+
+—
+Python España: https://es.python.org/
+Python Canarias: https://pythoncanarias.es/
+Twitter/X: @PyConES
+Mastodon: https://fosstodon.org/@pycones",https://i.ytimg.com/vi_webp/teVqkugbBDI/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=teVqkugbBDI,https://www.youtube.com/watch?v=teVqkugbBDI
+46,Israel Blancas - Instrumentando aplicaciones Python con OpenTelemetry,https://www.youtube.com/watch?v=TboavqDRL60,TboavqDRL60,Python España,@PythonES,https://www.youtube.com/@PythonES,20231219,2209,209,3,,,Entertainment,"Ponente
+Nombre: Israel Blancas
+Título: Instrumentando aplicaciones Python con OpenTelemetry
+Sala: Bollullo
+————————
+OpenTelemetry proporciona un estándar único de código abierto y un conjunto de tecnologías para capturar y exportar métricas, seguimientos y registros desde tu infraestructura y aplicaciones nativas de la nube. Es un proyecto open source. Además, es el más utilizado de la industria para la instrumentación de aplicaciones.
+
+¿Por qué deberías aprender a instrumentar tu código?: imagina un sistema con muchos microservicios, corriendo cientos de instancias de cada uno. Algo empieza a fallar el sistema se viene abajo. ¿Qué ha pasado? ¿Por qué? ¿Cuándo empezó a fallar?
+
+Durante esta sesión repasaremos algunos conceptos relacionados con la observabilidad y aprenderemos a hacer que una aplicación de ejemplo sea observable (utilizando metodologías manuales y automáticas).
+
+Tanto si eres Site Reliability Engineer como si eres Developer, esta charla te interesa.
+
+—
+Python España: https://es.python.org/
+Python Canarias: https://pythoncanarias.es/
+Twitter/X: @PyConES
+Mastodon: https://fosstodon.org/@pycones",https://i.ytimg.com/vi/TboavqDRL60/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=TboavqDRL60,https://www.youtube.com/watch?v=TboavqDRL60
+47,Federico Mon - Desentrañando el código: La magia de la instrumentación en Python,https://www.youtube.com/watch?v=nFKEseqTh8E,nFKEseqTh8E,Python España,@PythonES,https://www.youtube.com/@PythonES,20231219,2264,111,3,,,Entertainment,"Ponente
+Nombre: Federico Mon
+Título: Desentrañando el código: La magia de la instrumentación en Python
+Sala: Bollullo
+————————
+A medida que nuestros programas en Python aumentan en complejidad, también lo hacen los problemas que nos encontramos: desafíos en el código que no se ven a simple vista, bugs extraños que pasamos días depurando o problemas de rendimiento que no son evidentes.
+
+Para poder indagar a fondo en estos problemas y saber qué está ocurriendo con nuestro código o incluso para escribir tests en los que reproducir estos casos, vamos a necesitar herramientas que parecen mágicas. La mayoría de estas herramientas usan técnicas de instrumentación de código.
+
+En esta charla veremos qué es la instrumentación de código, las principales técnicas de instrumentación que tenemos disponibles en Python, como el monkey patching, AST patching o bytecode patching, así como las librerías más usadas para conseguir una instrumentación robusta y fiable. Finalmente veremos un par de ejemplos prácticos donde la instrumentación nos permite depurar nuestro código o medir los tiempos de ejecución.
+
+El objetivo final de la charla es que entendamos cómo funciona la instrumentación de código y por tanto las herramientas que se basan en este principio, y dejen de parecernos magia fuera de nuestro alcance.
+
+—
+Python España: https://es.python.org/
+Python Canarias: https://pythoncanarias.es/
+Twitter/X: @PyConES
+Mastodon: https://fosstodon.org/@pycones",https://i.ytimg.com/vi/nFKEseqTh8E/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=nFKEseqTh8E,https://www.youtube.com/watch?v=nFKEseqTh8E
+48,Elen Irazabal - Copyright e IA Generativa. ¿Qué nos espera?,https://www.youtube.com/watch?v=IUfzzrB2vb0,IUfzzrB2vb0,Python España,@PythonES,https://www.youtube.com/@PythonES,20231219,1858,97,1,,,Entertainment,"Ponente
+Nombre: Elen Irazabal
+Título: Copyright e IA Generativa. ¿Qué nos espera?
+Sala: Patos
+————————
+La conferencia sobre IA Generativa y Copyright abordará los desafíos y perspectivas futuras en el campo de la Inteligencia Artificial (IA) generativa en relación con el copyright. ¿Será posible utilizar estos datos sin infringir derechos de autor, o permanecerán inaccesibles y limitarán el desarrollo de la IA generativa? Este cuestionamiento plantea un reto crucial que exige un examen a fondo de las implicaciones legales y éticas involucradas a raíz de la nueva norma propuesta por la Unión Europea, la IA Act. También exploraremos la compleja cuestión de si es factible proteger el output de la IA generativa. Examinaremos los conceptos de autoría y originalidad en el contexto de los resultados y productos generados por IA y su posible elegibilidad para la protección legal del copyright.
+—
+Python España: https://es.python.org/
+Python Canarias: https://pythoncanarias.es/
+Twitter/X: @PyConES
+Mastodon: https://fosstodon.org/@pycones",https://i.ytimg.com/vi/IUfzzrB2vb0/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=IUfzzrB2vb0,https://www.youtube.com/watch?v=IUfzzrB2vb0
+49,Pablo García - Survival of the fittest: usando el paquete inspyred para entrenar IAs que juegan,https://www.youtube.com/watch?v=KP4eZMQlk3k,KP4eZMQlk3k,Python España,@PythonES,https://www.youtube.com/@PythonES,20231219,2195,105,3,,,Entertainment,"Ponente
+Nombre: Pablo García Sánchez
+Título: Survival of the fittest: usando el paquete inspyred para entrenar IAs que juegan a videojuegos
+Sala: Patos
+————————
+Los videojuegos son un campo de pruebas apasionante para el estudio de la Inteligencia Artificial. Debido a que son entornos dinámicos, complejos, con interacción persona/ordenador rica, y que además proporcionan una gran cantidad de datos, podemos aplicar una gran variedad de técnicas vanguardistas de IA, ya sea para jugar al juego, para crear contenido, o para modelar a las personas que lo juegan.
+
+En concreto, la creación de agentes que juegan a videojuegos es un ejemplo de problema muy difícil de resolver, pero el uso de Algoritmos Evolutivos (AEs) se ha demostrado como una técnica muy competente. Los AEs son algoritmos de optimización que simulan la teoría de la selección natural: las soluciones compiten entre sí, las más exitosas se reproducen y pasan sus mejoras a la siguiente generación.
+
+En esta charla introduciremos distintas técnicas de IA usadas en el ámbito de la investigación en videojuegos y nos centraremos en los algoritmos evolutivos y algunas de sus variantes, como los Algoritmos Genéticos, la Programación Genética o las Estrategias de Evolución. Usaremos el paquete ""inspyred"" como ejemplo, ya que tiene una curva de aprendizaje más asequible para ver lo fácil que es crear tu primer EA, y lo integraremos con algún videojuego, como Hearthstone, para comprobar cómo puede generar agentes tan competentes que incluso pueden ganar competiciones de IA.
+
+—
+Python España: https://es.python.org/
+Python Canarias: https://pythoncanarias.es/
+Twitter/X: @PyConES
+Mastodon: https://fosstodon.org/@pycones",https://i.ytimg.com/vi/KP4eZMQlk3k/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=KP4eZMQlk3k,https://www.youtube.com/watch?v=KP4eZMQlk3k
+50,Sara San Luis y Christian Carballo: Revolucionando Telegram: Creando bots inteligentes con OpenAI,https://www.youtube.com/watch?v=OMJLiJnabPw,OMJLiJnabPw,Python España,@PythonES,https://www.youtube.com/@PythonES,20231219,2492,125,2,,,Entertainment,"Ponente
+Nombre: Sara San Luis y Christian Carballo
+Título: Revolucionando Telegram: Creando bots inteligentes con OpenAI
+Sala: Patos
+————————
+¿Estás cansado de leer mensajes largos? ¿O de los audios interminables? Imagina tener un bot que pudiera transcribirlos rápidamente sin apenas errores y que, además, te diese un resumen de los puntos más importantes de lo que se hablan. ¡Pues se puede y en esta charla veremos cómo de principio a fin!
+
+Para ello, desarrollaremos un bot en Telegram paso a paso usando los últimos modelos de Open AI y librerías de Python para Telegram. No hace falta ser un experto en inteligencia artificial, en nuestra charla te guiaremos paso a paso, proporcionándote consejos prácticos para aprovechar al máximo estos modelos.
+
+Si deseas aprender a llevar tus bots de Telegram a un nivel superior, esta es tu charla. ¡No pierdas la oportunidad de ser parte de esta emocionante evolución en la inteligencia artificial y la mensajería! ¡Te esperamos!
+
+—
+Python España: https://es.python.org/
+Python Canarias: https://pythoncanarias.es/
+Twitter/X: @PyConES
+Mastodon: https://fosstodon.org/@pycones",https://i.ytimg.com/vi/OMJLiJnabPw/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=OMJLiJnabPw,https://www.youtube.com/watch?v=OMJLiJnabPw
+51,Edelmín y María del Socorro García Román - Machine Learning en el sector portuario con Python,https://www.youtube.com/watch?v=62-up6Jn7so,62-up6Jn7so,Python España,@PythonES,https://www.youtube.com/@PythonES,20231219,2753,92,6,1.0,,Entertainment,"Ponente
+Nombre: Edelmín y María del Socorro García Román
+Título: Machine Learning en el sector portuario con Python
+Sala: Patos
+————————
+El uso de tecnologías habilitadoras, como Internet de las Cosas (IoT), Big Data o el Machine Learning, entre otras, se han comenzado a emplear en el sistema portuario como factores clave de la tendencia actual de los puertos hacia la búsqueda de la excelencia a través de la competitividad. Estos habilitadores permiten el intercambio de información de alto valor añadido, en tiempo real, entre los diferentes agentes que operan en el ecosistema portuario.
+
+Uno de los principales problemas en los que se está trabajando en el sector portuario a nivel global es el cálculo de una mejor aproximación del tiempo estimado de llegada de un buque a un puerto (Estimated Time to Arrival, en adelante, ETA). Actualmente, hay una primera aproximación que es facilitada por el consignatario a la Autoridad Portuaria del puerto de destino y, aunque es obligatorio que el ETA se actualice a lo largo del viaje (ETA dinámico), en la práctica apenas se hace.
+
+Disponer del ETA dinámico tiene una gran relevancia tanto para las Autoridades Portuarias, como para todos los agentes del ecosistema portuario que dan servicios a los buques durante las escalas. Los recursos y los espacios del puerto son limitados, por lo que es de vital importancia tener una planificación de las llegadas y salidas para movilizar a los agentes y operarios necesarios en las maniobras de los buques de forma óptima. Por esto, contar con un modelo para conocer el ETA dinámico, con un horizonte lejano, permite mejorar la eficiencia de la planificación y habilita la toma de decisiones en tiempo real.
+
+La obtención del ETA dinámico permite a la Torre de Control realizar una gestión “Just in time”, facilitándole al buque una nueva hora de llegada pudiendo éste adaptar su velocidad. Con ello se evitan esperas innecesarias y maniobras de fondeo, repercutiendo positivamente en el coste de los servicios de la escala, consumo de combustible y en la huella de carbono.
+
+En la charla se explicará cómo se ha creado el modelo predictivo de Machine Learning para el cálculo del ETA dinámico. Se expondrán los desafíos encontrados en la manipulación de los datasets empleados y cómo se afrontaron con el apoyo de las librerías como Pandas, Folium y MatPlotLib de Python, entre otras. Finalmente, se hablará de la metodología empleada para la resolución del cálculo del ETA, los resultados obtenidos hasta el momento y las librerías de Python que los hicieron posible.
+
+—
+Python España: https://es.python.org/
+Python Canarias: https://pythoncanarias.es/
+Twitter/X: @PyConES
+Mastodon: https://fosstodon.org/@pycones",https://i.ytimg.com/vi/62-up6Jn7so/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=62-up6Jn7so,https://www.youtube.com/watch?v=62-up6Jn7so
+52,"Andros Fenollosa - LiveView, un enfoque moderno de desarrollo Web",https://www.youtube.com/watch?v=P4j_RrsZITk,P4j_RrsZITk,Python España,@PythonES,https://www.youtube.com/@PythonES,20231219,1826,169,11,,,Entertainment,"Ponente
+Nombre: Andros Fenollosa
+Título: LiveView, un enfoque moderno de desarrollo Web
+Sala: Patos
+————————
+El enfoque de LiveView, o HTML sobre WebSockets, simplifica el desarrollo de aplicaciones de una sola página (SPA). Por un lado, evitar la construcción de una API (reduciendo costes), minimizas las esperas sustituyendo las peticiones HTTP por un protocolo más rápido (WebSockets), y puedes olvidarte de implementar un framework de JavaScript para renderizar el HTML, ya que lo harás desde el backend. Una técnica de desarrollo web que permite trabajar con lo mejor de un Server-side Rendering con la flexibilidad de una Single-page Application sin renunciar a un SEO de 100 puntos en PageSpeed Insights. Un enfoque moderno de desarrollo Web que evita el uso de APIs, la complejidad en el frontend y da respuestas en tiempo real.
+
+En la charla enseñaré sus secretos usando de base a Django. Desde la arquitectura, casos de éxitos que he vivido con clientes, ventajas, desventajas, aplicaciones, herramientas actuales, libros y un pequeño framework en Django.
+
+—
+Python España: https://es.python.org/
+Python Canarias: https://pythoncanarias.es/
+Twitter/X: @PyConES
+Mastodon: https://fosstodon.org/@pycones",https://i.ytimg.com/vi/P4j_RrsZITk/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=P4j_RrsZITk,https://www.youtube.com/watch?v=P4j_RrsZITk

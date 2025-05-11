@@ -1,0 +1,352 @@
+﻿index,title,url,video_id,uploader,uploader_id,uploader_url,upload_date,duration,view_count,like_count,comment_count,tags,categories,description,thumbnail,age_limit,is_live,was_live,availability,webpage_url,original_url
+1,PyConES 2024 - Apertura,https://www.youtube.com/watch?v=yZ6sDrp4Ukw,yZ6sDrp4Ukw,Python España,@PythonES,https://www.youtube.com/@PythonES,20250409,1853,23,0,,,Entertainment,"Apertura del evento
+—
+Python España: https://es.python.org/
+Python Vigo: https://www.python-vigo.es/
+BlueSky: @es.pycon.org
+Twitter/X: @PyConES",https://i.ytimg.com/vi/yZ6sDrp4Ukw/maxresdefault.jpg,0,False,False,unlisted,https://www.youtube.com/watch?v=yZ6sDrp4Ukw,https://www.youtube.com/watch?v=yZ6sDrp4Ukw
+2,Ismael Faro - Python en Quantum+AI,https://www.youtube.com/watch?v=m9lj1mt-yCM,m9lj1mt-yCM,Python España,@PythonES,https://www.youtube.com/@PythonES,20250409,2942,17,0,,,Entertainment,"La convergencia de la computación cuántica con la inteligencia artificial (IA) está generando un gran interés en la comunidad científica y tecnológica. El potencial tanto de las capacidades de computación a nivel cuántico, como de la explotación de los modelos de AI, están abriendo la discusión y exploración de como interconectar estas dos ramas de la tecnología y con ello, aplicar nuevas soluciones en las ambas direcciones, donde conectarlas por sus ventajas en puntos comunes.
+
+“Quantum+IA, o como la IA puede ayudar a la computación cuántica y como la computación cuántica ayudara a la IA.”
+
+En este contexto, Python ha demostrado ser un lenguaje fundamental en los kits de desarrollo tanto a nivel científico, por todas las herramientas y librerías a nivel académico, como a nivel de desarrollo, gracias a la facilidad uso como herramienta, tanto a nivel de sistema o entornos de producción, uniendo componentes y o envolviendo otras tecnologías. Como ejemplo de estas fortalezas contamos con dos de los SDK/librerías más populares en computación cuántica y IA desarrollos con Python, Qiskit SDK y Pytorch.
+
+En esta presentación, exploraremos la relevancia del uso de Python en el desarrollo de aplicaciones que convergen computación cuántica e IA. Prestando atención en las oportunidades y desafíos asociados con la implementación de algoritmos, como de los recientes trabajos con técnicas de IA que ayuden a crear y mejorar algoritmos cuánticos, así como la mejora componentes relacionados con la ejecución y futuro diseño de sistema computacionales híbridos. Todo ello persiguiendo la búsqueda de la mayor combinación de cada una de estas tecnologías, y demostrando como Python es un lenguaje que ayuda a unir estos espacios de computación.
+
+---
+Python España: https://es.python.org/
+Python Vigo: https://www.python-vigo.es/
+BlueSky: @es.pycon.org
+Twitter/X: @PyConES",https://i.ytimg.com/vi/m9lj1mt-yCM/maxresdefault.jpg,0,False,False,unlisted,https://www.youtube.com/watch?v=m9lj1mt-yCM,https://www.youtube.com/watch?v=m9lj1mt-yCM
+3,Juan Luis Cano Rodríguez - Mapeando viviendas turísticas ilegales con Python,https://www.youtube.com/watch?v=x86_Vuzm90E,x86_Vuzm90E,Python España,@PythonES,https://www.youtube.com/@PythonES,20250409,1842,11,1,,,Entertainment,"En primavera de 2024 explotó un clamor: ""Canarias tiene un límite"". Pronto se sucedieron manifestaciones multitudinarias por otras regiones tensionadas: ""Mallorca no se vende"", ""Basta de Ibiza"", ""Cantabria se defiende"".
+
+Mientras tanto, en la capital del Reino, se venía fraguando un descontento similar desde hacía años. En mayo de 2024 el Ayuntamiento de Madrid publicó el listado oficial de las 1 008 licencias municipales para viviendas de uso turístico que se habían concedido en la ciudad, congeló temporalmente las nuevas concesiones, y endureció las sanciones.
+
+Todo para hacer oficial una realidad: que había operando muchísimas más de las permitidas.
+
+¿Cuántas? ¿De quién son? Y lo más importante, ¿dónde están?
+
+Para tratar de contestar estas preguntas me armé de valor y me puse a hacer limpieza de datos con Polars, aprendí a hacer joins espaciales de proximidad con GeoPandas, casi me vuelvo loco montando mi propio semáforo asíncrono con AnyIO para poder hacer geocoding con datos de OpenStreetMap, y regresé a mis orígenes leyendo datos vectoriales con Fiona, Shapely, y pyproj.
+
+Acompañadme en esta cruda historia de lucha vecinal aún en curso en la que, una vez más, la tecnología es parte fundamental. En esta charla contaré cómo fue mi primera aproximación a los datos que estaban publicados, las inconsistencias que descubrí al contrastarlos con el nuevo listado, el alborozo de los afectados cuando vieron por primera vez sus pesares reflejados en un mapa, lo que vino después, y cómo tú también puedes ayudar a concienciar de este problema.
+--
+Python España: https://es.python.org/
+Python Vigo: https://www.python-vigo.es/
+BlueSky: @es.pycon.org
+Twitter/X: @PyConES",https://i.ytimg.com/vi/x86_Vuzm90E/maxresdefault.jpg,0,False,False,unlisted,https://www.youtube.com/watch?v=x86_Vuzm90E,https://www.youtube.com/watch?v=x86_Vuzm90E
+4,Brais Moure - El día en el que comencé a desarrollar todas mis Webs con Python,https://www.youtube.com/watch?v=lBE8Gyg_gQY,lBE8Gyg_gQY,Python España,@PythonES,https://www.youtube.com/@PythonES,20250409,1826,7,0,,,Entertainment,"Esta es una charla sobre el amor a primera vista. Sobre como, tras 15 años desarrollando aplicaciones web y apps, y sin ser ningún experto en Python, descubrí un framework que tenía todo lo que buscaba, y que, sorprendentemente, no tenía que programarse con JavaScript.
+
+Su nombre es Reflex (https://reflex.dev), y sus creadores lo definen como un framework para crear aplicaciones web con Python puro, sin JS, HTML o CSS. Front, Back y despliegue con un único comando.
+
+Quiero hablar de su enfoque rompedor, de cómo ha cambiado mi manera de desarrollar webs durante el último año.",https://i.ytimg.com/vi/lBE8Gyg_gQY/maxresdefault.jpg,0,False,False,unlisted,https://www.youtube.com/watch?v=lBE8Gyg_gQY,https://www.youtube.com/watch?v=lBE8Gyg_gQY
+5,Sebastian Arias - Beyond Try-Except: Python's Frontier of Error Handling with Monads and Railway...,https://www.youtube.com/watch?v=YY7PisAqnn0,YY7PisAqnn0,Python España,@PythonES,https://www.youtube.com/@PythonES,20250409,1935,7,0,,,Entertainment,"Python developers often grapple with the LBYL and EAFP approaches to exception handling. As codebases evolve, the demand for effective error-handling strategies intensifies. This presentation introduces a paradigm-shifting approach to exception handling in Python by leveraging monads, specifically the Results Library, and embracing the Railway-Driven Development methodology – a functional programming concept known for providing a consistent and composable structure.
+
+Demonstrating this approach through code examples, we'll showcase how integrating this monadic approach with Python features like pattern matching simplifies error management, elevating code readability, maintainability, and reliability.
+
+By the end, attendees will possess a thorough understanding of monadic error handling and the Railway-Driven Development methodology. This knowledge empowers developers to make informed decisions, fostering more robust and maintainable Python code within the functional programming paradigm.
+--
+Python España: https://es.python.org/
+Python Vigo: https://www.python-vigo.es/
+BlueSky: @es.pycon.org
+Twitter/X: @PyConES",https://i.ytimg.com/vi/YY7PisAqnn0/maxresdefault.jpg,0,False,False,unlisted,https://www.youtube.com/watch?v=YY7PisAqnn0,https://www.youtube.com/watch?v=YY7PisAqnn0
+6,Pablo Galindo Salgado - Como estamos eliminando el GIL en CPython,https://www.youtube.com/watch?v=Sa0GU60mkAQ,Sa0GU60mkAQ,Python España,@PythonES,https://www.youtube.com/@PythonES,20250409,2155,6,0,,,Entertainment,"El ""Global Interpreter Lock"" (GIL) de CPython impide que múltiples hilos ejecuten código Python en paralelo. El GIL se añadió a Python en 1992 junto con el soporte original para hilos con el fin de proteger el acceso al estado compartido del intérprete.
+
+Python admite varias formas de habilitar el paralelismo dentro de las restricciones del GIL, pero vienen con limitaciones significativas. Por un momento, imagina que pudieras evitar el tiempo de inicio de los workers de joblib, la inestabilidad multiproceso de los DataLoaders de PyTorch y la sobrecarga de serializar datos para la comunicación entre procesos.
+
+Empezando en Python 3.13, en el core team tenemos como objetivo eliminar el GIL de CPython para hacer que los programas Python multihilo sean más eficientes, manteniendo la compatibilidad hacia atrás y el rendimiento en un solo hilo.
+
+Esta charla cubrirá los cambios en Python para permitir que se ejecute de manera eficiente sin el GIL y lo que estos cambios significan para los programadores de Python y los autores de extensiones.",https://i.ytimg.com/vi/Sa0GU60mkAQ/maxresdefault.jpg,0,False,False,unlisted,https://www.youtube.com/watch?v=Sa0GU60mkAQ,https://www.youtube.com/watch?v=Sa0GU60mkAQ
+7,"Antonio Rodríguez, Juan Gómez - Una IA para levantar un imperio: optimizando una partida de Age o...",https://www.youtube.com/watch?v=lVuhJvhjrxk,lVuhJvhjrxk,Python España,@PythonES,https://www.youtube.com/@PythonES,20250409,2109,42,3,,,Entertainment,"La investigación operativa es el conjunto de técnicas que permiten modelar de forma matemática un sistema que se adhiere a unas restricciones, maximizando o minimizando una o varias funciones objetivo. Esta poderosa técnica se usa día a día en problemas de logística, asignación de turnos, planificación de la producción, gestión de inventarios, y muchos otros campos.
+
+Sin embargo, esta charla aspira a presentar las técnicas aplicándolas a un tema completamente diferente (y quizás un poco más divertido). El Age of Empires 2 es un juego de 1999 que hoy en día se mantiene como uno de los juegos de estrategia con mayor reconocimiento. En él, el jugador debe llevar una civilización al dominio mundial a través de las épocas, recolectando diferentes recursos, progresando con nuevas tecnologías y atacando otras civilizaciones.
+
+Usando este ejemplo, en la charla presentaremos un modelo de optimización aplicado al juego. Sabiendo que en el juego debemos tomar diferentes acciones como recolectar recursos y construir edificaciones para hacer avanzar nuestra civilización, crearemos un modelo que nos defina la serie de acciones óptima para hacerlo. Usando este ejemplo, explicaremos cómo se traslada una realidad a un modelo y enseñaremos las herramientas disponibles en Python y algunos ejemplos de código.
+
+¿Como obtengo el mayor ejercito antes de 20 minutos? ¿Como consigo el mejor castillo antes que mi rival? Estos objetivos pueden ser modelizados mediante la modelización matemática, permitiendo además añadir restricciones a nuestras soluciones para que sean más adecuadas a nuestro objetivo.
+
+Esta charla no solo busca demostrar la aplicabilidad de la investigación operativa en campos tradicionales, sino también su potencial para optimizar otros campos y actividades de entretenimiento como los videojuegos. Al aplicar técnicas de modelado matemático y optimización en el contexto de Age of Empires 2, se ofrece una perspectiva fresca y atractiva sobre cómo estas herramientas pueden ser utilizadas de formas innovadoras.
+--
+Python España: https://es.python.org/
+Python Vigo: https://www.python-vigo.es/
+BlueSky: @es.pycon.org
+Twitter/X: @PyConES",https://i.ytimg.com/vi/lVuhJvhjrxk/maxresdefault.jpg,0,False,False,unlisted,https://www.youtube.com/watch?v=lVuhJvhjrxk,https://www.youtube.com/watch?v=lVuhJvhjrxk
+8,Lightning talks,https://www.youtube.com/watch?v=wfZNcfc430M,wfZNcfc430M,Python España,@PythonES,https://www.youtube.com/@PythonES,20250409,2734,7,0,,,Entertainment,"Las Lightning talks, o charlas relámpago, es una sesión de charlas de corta duración a un ritmo trepidante.",https://i.ytimg.com/vi/wfZNcfc430M/maxresdefault.jpg,0,False,False,unlisted,https://www.youtube.com/watch?v=wfZNcfc430M,https://www.youtube.com/watch?v=wfZNcfc430M
+9,"Anna Colom - Menos 'hype', más responsabilidad? Quien decide qué en el uso de datos y la IA",https://www.youtube.com/watch?v=3eyoLuhQ63U,3eyoLuhQ63U,Python España,@PythonES,https://www.youtube.com/@PythonES,20250409,2878,2,0,,,Entertainment,"Vivimos tiempos sin precedentes en cuanto al ritmo y la escala del desarrollo tecnológico impulsado por los datos y los sistemas de IA. Este desarrollo y como se aplica está siendo dirigido y decidido por unos pocos en -todavía en gran medida- un vacío normativo, apoyado por discursos hiperbólicos y asimetrías de poder. Sin embargo, existe una comunidad amplia y diversa de desarrolladores y programadores en todo el mundo que puede ayudar a cambiar el rumbo si se niega a dejarse cegar por el bombo publicitario; si cuestiona las decisiones tomadas por unos pocos; si favorece la evidencia y la ética sobre la magia; y si trabaja en colaboración con el resto de la sociedad para responder a algunas de las preguntas más urgentes de nuestros tiempos sobre cómo los datos y la IA pueden utilizarse de forma responsable para ayudar a las personas a mejorar nuestras sociedades y el planeta.
+--
+Python España: https://es.python.org/
+Python Vigo: https://www.python-vigo.es/
+BlueSky: @es.pycon.org
+Twitter/X: @PyConES",https://i.ytimg.com/vi/3eyoLuhQ63U/maxresdefault.jpg,0,False,False,unlisted,https://www.youtube.com/watch?v=3eyoLuhQ63U,https://www.youtube.com/watch?v=3eyoLuhQ63U
+10,Antonio Gámiz Delgado - Experimentando con Async en Python,https://www.youtube.com/watch?v=hvrBBNKndT8,hvrBBNKndT8,Python España,@PythonES,https://www.youtube.com/@PythonES,20250409,2077,4,0,,,Entertainment,"El uso de programación asíncrono es cada vez más predominante en distintas aplicaciones de Python. Desde scrappers hasta servidores web, todas las aplicaciones limitadas por un gran volumen de operaciones de I/O se pueden ver enormemente beneficiadas por la introducción de asíncronia.
+
+En esta charla veremos cómo el uso de async/await te permite escribir servidores web que pueden ejecutar tareas de forma concurrente, sin bloquear el proceso/hebra encargado de gestionar la petición web. Para ello, hablaremos sobre la historia de cómo ha evolucionado el soporte asíncrono en Python, y sobre la importancia de los Event Loops. También trataremos las distintas server gateway interfaces (WSGI/ASGI) disponibles para python, así como el papel de gunicorn/uvicorn en servidores web.",https://i.ytimg.com/vi/hvrBBNKndT8/maxresdefault.jpg,0,False,False,unlisted,https://www.youtube.com/watch?v=hvrBBNKndT8,https://www.youtube.com/watch?v=hvrBBNKndT8
+11,"Daniel Moisset - Tipos, tipos, y otros tipos de tipos",https://www.youtube.com/watch?v=ScDoC33rDo4,ScDoC33rDo4,Python España,@PythonES,https://www.youtube.com/@PythonES,20250409,2162,3,0,,,Entertainment,"Desde su primera versión en 1991, Python es un lenguaje con tipos dinámicos y fuertes. Python 3.0 agregó la capacidad de enriquecer las signaturas de funciones con información sobre tipos. Y 3.5 incorporó soporte para tipos estáticos.
+Las últimas tres oraciones usan la palabra “tipos”, pero en cada una de ellas el término se refiere a entidades diferentes. A los desarrolladores en Python nos importan los “tipos”, pero la palabra en sí es muy ambigua. A veces podemos ignorar un poquito esa ambigüedad, pero no siempre.
+En esta presentación exploraré muchos de los diferentes significados de la palabra “tipo” en Python , y explicaré por qué esas diferencias nos importan. La discusión comparará “type objects”, tipos estáticos, anotaciones de tipos, esos objetos divertidos que podemos encontrar en los módulos “typing” y “types” de la biblioteca estándar, y algunas otras cosas llamadas “type”. Esta charla no es una introducción, y presupone que tienes alguna familiaridad con algunos de estos tipos, al menos a través del uso.
+Espero que de esta sesión te lleves claridad de cuáles contextos permiten cada variante de tipo, cómo se puede deducirlo, y porqué Python fue diseñado de este modo.
+--
+Python España: https://es.python.org/
+Python Vigo: https://www.python-vigo.es/
+BlueSky: @es.pycon.org
+Twitter/X: @PyConES",https://i.ytimg.com/vi/ScDoC33rDo4/maxresdefault.jpg,0,False,False,unlisted,https://www.youtube.com/watch?v=ScDoC33rDo4,https://www.youtube.com/watch?v=ScDoC33rDo4
+12,Antonio y José Manuel García Giménez - Asegurando la calidad del dato con Databricks,https://www.youtube.com/watch?v=XR1r7fNjYPY,XR1r7fNjYPY,Python España,@PythonES,https://www.youtube.com/@PythonES,20250409,2152,3,0,,,Entertainment,"Recientemente la empresas están poniendo el foco en la gobernanza datos, esto es un reflejo del incremento de soluciones basadas en datos, especialmente para cuando hablamos de inteligencia artificial.
+
+Uno de los pilares fundamentales en la gobernanza de datos es la calidad del dato, que debe de tenerse en cuenta a la hora de diseñar nuestra estrategia de datos, para asegurar la trazabilidad y calidad de los datos en sus soluciones.
+
+En la charla, explicaremos las seis dimensiones de la calidad de los datos y los mecanismos que Databricks y el formato Delta ofrecen para mitigar esta problemática. Demostraremos cómo utilizar y combinar estos elementos para mejorar la calidad de datos en un entorno Lakehouse, garantizando la precisión y fiabilidad de los datos.",https://i.ytimg.com/vi/XR1r7fNjYPY/maxresdefault.jpg,0,False,False,unlisted,https://www.youtube.com/watch?v=XR1r7fNjYPY,https://www.youtube.com/watch?v=XR1r7fNjYPY
+13,Pablo Castro - Haciendo tu signup extensible y con una UX xeitosiña,https://www.youtube.com/watch?v=m5qH345gOC8,m5qH345gOC8,Python España,@PythonES,https://www.youtube.com/@PythonES,20250409,2061,2,0,,,Entertainment,"Los flujos de signup y login nunca han sido ""atractivos"", al final como ingenieros e ingenieras nos gusta hacer producto y nos parece que estos flujos son un mal necesario que hay que hacer y no volver a tocar.
+
+Pero cuando tu startup se gasta una millonada en atraer usuarios a tu producto, este flujo se vuelve importantísimo, la UX es clave y el poder iterar y cambiar cosas habitualmente ayudará muchísimo a tus equipos de ventas y marketing.
+
+Empresas como Airbnb o Uber tienen equipos enteros de ingeniería y producto dedicados a construir, mantener y optimizar sus flujos de signup y login, asique, ¿por qué en nuestros equipos no nos preocupamos por ellos desde el principio?
+
+En esta charla veremos cómo evolucionan estos flujos a lo largo del tiempo a través de ejemplos reales, y daremos consejos para diseñar nuestros flujos siguiendo las mejores prácticas y siempre con un ojo puesto en la extensibilidad y en la UX.
+
+SLIDES:
+https://cloud.ssaavedra.eu/s/Y7La4An8HSXkEZy
+--
+Python España: https://es.python.org/
+Python Vigo: https://www.python-vigo.es/
+BlueSky: @es.pycon.org
+Twitter/X: @PyConES",https://i.ytimg.com/vi/m5qH345gOC8/maxresdefault.jpg,0,False,False,unlisted,https://www.youtube.com/watch?v=m5qH345gOC8,https://www.youtube.com/watch?v=m5qH345gOC8
+14,"Rafael Mena-Yedra, Manuel Díaz y Borja Esteve Molner - Flujos de trabajo con agentes de IA en Python",https://www.youtube.com/watch?v=4NHAyEalfCM,4NHAyEalfCM,Python España,@PythonES,https://www.youtube.com/@PythonES,20250409,1972,8,0,,,Entertainment,"La adopción de modelos fundacionales pre-entrenados con grandes cantidades de datos ha impulsado una transformación radical en prácticamente cualquier disciplina, tanto en el ámbito académico como empresarial. En este sentido, el acceso a estos modelos mediante interfaces de texto ha sido fundamental para ampliar su uso a un amplio espectro de usuarios. Además, estos modelos han demostrado un gran éxito en la identificación de patrones y estructuras complejas del lenguaje humano.
+
+La integración de interfaces humano-máquina mediante lenguaje natural está impulsando una nueva generación de patrones de diseño y uso. En este enfoque, múltiples inteligencias artificiales colaboran con apoyo humano opcional para iniciar tareas o supervisarlas, logrando así mayor autonomía y eficacia.
+
+La nueva generación de diseño se ha denominado AI agentic workflows o flujos de trabajo basados en agentes de IA. Estos flujos se fundamentan en cuatro criterios principales: reflexión, uso de herramientas, planificación y colaboración multiagente. En lugar de que un solo modelo (como un gran modelo de lenguaje LLM) genere directamente el resultado final, el objetivo es que el flujo de trabajo realice múltiples solicitudes a ese modelo o a un conjunto colaborativo de modelos especializados, incluyendo el uso de herramientas.
+
+En esta charla se presentarán casos de uso en los que un flujo de trabajo con agentes de IA puede ser la solución más apropiada. También se abordará cuándo es más eficiente seguir un patrón de ejecución predefinido. Durante la charla, exploraremos flujos de trabajo, el uso de herramientas y la colaboración entre agentes mediante código en Python. Además, se mostrará un ejemplo real de programación en el que diferentes agentes colaboran en tareas como desarrollo, revisión y optimización, aprovechando herramientas como el intérprete de Python y la búsqueda web.
+
+Para esta charla no se requieren conocimientos previos de estadística ni deep learning, y tan sólo unos conocimientos básicos de Python para seguir los fragmentos de código que se expongan. En cualquier caso, cualquier público puede verse beneficiado dado que nuestro objetivo es proporcionar a la audiencia una visión general del estado del arte en el desarrollo de flujos de trabajo utilizando agentes, y ofrecer herramientas y fragmentos de código en Python que puedan inspirar sus propias soluciones.",https://i.ytimg.com/vi/4NHAyEalfCM/maxresdefault.jpg,0,False,False,unlisted,https://www.youtube.com/watch?v=4NHAyEalfCM,https://www.youtube.com/watch?v=4NHAyEalfCM
+15,Sara y Christian - El poder de la observabilidad en Machine Learning,https://www.youtube.com/watch?v=V4B7l8hOBwM,V4B7l8hOBwM,Python España,@PythonES,https://www.youtube.com/@PythonES,20250409,2164,2,0,,,Entertainment,"¿Cuántas veces has realizado un proyecto de Machine Learning completo y una vez finalizado el comportamiento no es el deseado? ¿Y cuántas de esas veces no somos capaces de encontrar el origen de dichos problemas para solucionarlos?
+
+La observabilidad en Machine Learning es la capacidad de obtener información sobre el rendimiento de nuestro modelo durante todos los pasos de Machine Learning. Cuando trabajamos en Machine Learning, tenemos claros los pasos a seguir, como la lógica de negocio, análisis de datos, entrenamiento y despliegue, todo ello por supuesto bajo las prácticas de MLOps. Incluir observabilidad en nuestros proyectos de Machine Learning nos permitirá detectar errores, encontrar su origen y subsanarlos lo antes posible para su mejora continua.
+
+En esta charla hablaremos sobre qué es la observabilidad en Machine Learning y por qué es importante en nuestros proyectos. Veremos cómo podemos trabajar para obtener un sistema observable y aprenderemos como aplicar dichas técnicas en los distintos pasos de un proceso de Machine Learning.
+--
+Python España: https://es.python.org/
+Python Vigo: https://www.python-vigo.es/
+BlueSky: @es.pycon.org
+Twitter/X: @PyConES",https://i.ytimg.com/vi/V4B7l8hOBwM/maxresdefault.jpg,0,False,False,unlisted,https://www.youtube.com/watch?v=V4B7l8hOBwM,https://www.youtube.com/watch?v=V4B7l8hOBwM
+16,PyConES 2024 - Cierre,https://www.youtube.com/watch?v=M6y4vvG-i6c,M6y4vvG-i6c,Python España,@PythonES,https://www.youtube.com/@PythonES,20250409,2185,2,0,,,Entertainment,"Cierre del evento.
+---
+Python España: https://es.python.org/
+Python Vigo: https://www.python-vigo.es/
+BlueSky: @es.pycon.org
+Twitter/X: @PyConES",https://i.ytimg.com/vi/M6y4vvG-i6c/maxresdefault.jpg,0,False,False,unlisted,https://www.youtube.com/watch?v=M6y4vvG-i6c,https://www.youtube.com/watch?v=M6y4vvG-i6c
+17,Daniel Pérez Cabo - Construyendo software resiliente y escalable con MLOps,https://www.youtube.com/watch?v=GAyaxHUzb5o,GAyaxHUzb5o,Python España,@PythonES,https://www.youtube.com/@PythonES,20250409,2157,2,0,,,Entertainment,"¿Estás familiarizado con los términos ‘arquitectura hexagonal’ y ‘TDD’? Probablemente sí. Pero, ¿qué pasa cuando estos conceptos se cruzan con el mundo de MLOps y la integración de modelos de IA en nuestro software?
+
+La integración de la Inteligencia Artificial en nuestras aplicaciones y servicios puede ser un desafío. Los modelos de IA, a menudo vistos como ‘cajas negras’, pueden complicar el testeo, los despliegues y el mantenimiento del software en general. Sin embargo, con el enfoque correcto, podemos diseñar un software resiliente que no solo integre estos modelos, sino que también sea mantenible y escalable.
+
+En esta charla, compartiremos nuestra experiencia construyendo soluciones complejas que requieren la integración de modelos de IA. A lo largo de los años, hemos iterado en la forma en que integramos estos modelos en nuestro código, llegando a una solución en la que el software y los modelos de IA pueden evolucionar a ritmos diferentes sin causar fricción ni problemas en el desarrollo.
+
+Explicaremos cómo hemos navegado por este laberinto, las lecciones aprendidas y cómo hemos conseguido que la integración de la IA en nuestro software sea un proceso fluido y eficiente. También discutiremos cómo los principios de MLOps pueden ayudarnos a construir software más resiliente y escalable.
+--
+Python España: https://es.python.org/
+Python Vigo: https://www.python-vigo.es/
+BlueSky: @es.pycon.org
+Twitter/X: @PyConES",https://i.ytimg.com/vi/GAyaxHUzb5o/maxresdefault.jpg,0,False,False,unlisted,https://www.youtube.com/watch?v=GAyaxHUzb5o,https://www.youtube.com/watch?v=GAyaxHUzb5o
+18,Manuel Souto y Ricardo Fernández - ¿Cómo enseñarle física a una red neuronal? Intro a las PINNs,https://www.youtube.com/watch?v=1YM4r8zdWdM,1YM4r8zdWdM,Python España,@PythonES,https://www.youtube.com/@PythonES,20250409,2198,11,1,,,Entertainment,"Multitud de problemas relacionados con el comportamiento de sistemas físicos pueden ser descritos mediante sistemas clásicos de ecuaciones diferenciales. Sin embargo, en casos de ecuaciones complejas o incluso en aplicaciones reales, estas ecuaciones no siempre tienen soluciones analíticas simples, y es necesario recurrir a procesos de cálculo aproximado para obtener una solución.
+
+Estos métodos presentan problemas de escalabilidad y largos tiempos de ejecución, por ello, las Redes Neuronales Informadas por la Física o PINNs por sus siglas en inglés (Physics-Informed Neural Networks), presentan una forma novedosa de abordar este tipo de problemas complejos, aprovechando las capacidades de una red neuronal para resolver estas ecuaciones. Mediante condiciones de contorno apropiadas, las soluciones proporcionadas se ajustan al comportamiento real del sistema físico, evitando soluciones que no cumplan los requisitos físicos esperados. Incluso se pueden emplear datos observados para acelerar el proceso de aprendizaje y convergencia a una solución óptima.
+
+El objetivo de esta charla es proporcionar a los asistentes con los conocimientos básicos sobre PINNs de forma que tengan consciencia de este tipo de soluciones y sean capaces de abordar y plantear problemas de esta índole en el futuro. Los puntos principales que se cubrirán son:
+
+Fundamentos de las PINNs: Conocer los principios básicos y las ventajas de las PINNs frente a los métodos numéricos tradicionales basados en la discretización del dominio.
+Implementación Técnica: Ver cómo construir y entrenar PINNs con un modelo simple, con un enfoque en la creación de la red neuronal y el cálculo automático de derivadas (Automatic Differentiation).
+Aplicaciones Prácticas: Ejemplos concretos de cómo las PINNs se utilizan para resolver problemas industriales complejos, como en la dinámica de fluidos, la biomedicina, y la ingeniería estructural.
+Beneficios Clave: Entender las ventajas competitivas de las PINNs, como la capacidad de manejar geometrías complejas y reducir la dependencia de grandes conjuntos de datos.
+Al final de la sesión, los participantes estarán equipados con el conocimiento necesario para entender e implementar PINNs en sus propios proyectos, aprovechando su potencial para resolver problemas complejos de manera eficiente y precisa. Esta charla proporcionará una sólida base teórica y ejemplos prácticos que demuestran el valor de las PINNs en aplicaciones reales.
+
+Para aprovechar al máximo esta charla, se recomienda que los asistentes tengan conocimientos básicos de Machine Learning y Python, así como una comprensión general de sistemas físicos para comprender el modelado mediante EDPs.",https://i.ytimg.com/vi/1YM4r8zdWdM/maxresdefault.jpg,0,False,False,unlisted,https://www.youtube.com/watch?v=1YM4r8zdWdM,https://www.youtube.com/watch?v=1YM4r8zdWdM
+19,Mai Giménez - Código saludable para equipos saludables (¿o al revés?),https://www.youtube.com/watch?v=ai9nKDxFeNA,ai9nKDxFeNA,Python España,@PythonES,https://www.youtube.com/@PythonES,20250409,2223,5,0,,,Entertainment,"Los repositorios de código a menudo nos decepcionan, pero seguimos creando otras nuevos con la absurda esperanza de que esta vez sea diferente. Alerta de spoiler: nunca lo es.
+
+En particular, el código que programamos para investigar tiene la casi imposible tarea de cumplir con el oxímoron de ser robustas para llevar a cabo computaciones gigantes pero al mismo tiempo flexibles y fáciles de utilizar para experimentar rápidamente nuevas ideas.
+
+Pero, ¿qué pasaría si hubiera una manera de romper el ciclo y construir código que perdure, incluso para investigaciones pioneras?
+
+Esta charla no trata de dar soluciones mágicas, sino que indaga en de la poderosa conexión entre equipos sanos y código sano. Exploraremos cómo un equipo cohesionado y empoderado mejoró la calidad del código introduciendo de anotaciones de tipo y verificación de tipos en tiempo de ejecución para matrices en JAX.
+
+Prepárate para abandonar el drama y descubrir:
+
+- La fórmula del equipo A: cómo construir un equipo de alto rendimiento que prospere colaborando y como empoderarles a todes.
+- Solucionando los problemas correctos: cómo elegir la (posiblemente) solución perfecta para satisfacer sus necesidades específicas.
+- De la aceptación a la implementación: estrategias para implementar con éxito y fomentar la adopción de los cambios.
+- Más allá del final: Aceptar el inevitable fin de nuestra participación directa en un repositorio y cómo seguir adelante.
+---
+Python España: https://es.python.org/
+Python Vigo: https://www.python-vigo.es/
+BlueSky: @es.pycon.org
+Twitter/X: @PyConES",https://i.ytimg.com/vi/ai9nKDxFeNA/maxresdefault.jpg,0,False,False,unlisted,https://www.youtube.com/watch?v=ai9nKDxFeNA,https://www.youtube.com/watch?v=ai9nKDxFeNA
+20,Lucia Cerchie - Visualize Realtime Stock Market Data with Kafka and FlinkSQL,https://www.youtube.com/watch?v=c-FUd_MYgSc,c-FUd_MYgSc,Python España,@PythonES,https://www.youtube.com/@PythonES,20250409,1726,3,0,,,Entertainment,"Let’s say you want to create a realtime visualization of a Kafka data stream. Maybe you want to process it with FlinkSQL before visualizing it.
+
+Your keyboard clatters, “mkdir data_viz_with_kafka_and_flinksql”. You cd in, activate your virtual environment, crack your knuckles, and… the complexities hit. How to create open connections to your data stream? Feed the data into a frontend component? What happens when multithreading rears its ugly head? Your feelings of bravado slowly dissipate… Don’t worry, I’ve got you covered!
+
+In this session, we’ll cover how to take a stream of data in Kafka and visualize it with Streamlit. It’s sourced from the Alpaca API, before being sent to Kafka and processed with FlinkSQL for surfacing the Streamlit component. We’ll go through the ins and outs of creating Kafka producers and consumers in python, processing realtime data via windowing using FlinkSQL in Confluent Cloud, and visualizing that data clearly for an audience using a component built with Streamlit.
+
+By the end of the talk, attendees will be confident in creating live data visualizations using Kafka, FlinkSQL, and Streamlit and be equipped to take their realtime use cases to the next level.",https://i.ytimg.com/vi/c-FUd_MYgSc/maxresdefault.jpg,0,False,False,unlisted,https://www.youtube.com/watch?v=c-FUd_MYgSc,https://www.youtube.com/watch?v=c-FUd_MYgSc
+21,Javier Torres Niño y Ferran Llamas - Cuando Python no es suficientemente rápido: el caso de NucliaDB,https://www.youtube.com/watch?v=HRfPcD2CkwI,HRfPcD2CkwI,Python España,@PythonES,https://www.youtube.com/@PythonES,20250409,2332,3,0,,,Entertainment,"NucliaDB es una base de datos que facilita la búsqueda en documentos mediante modelos de IA escrita, como no, en Python. Esto implica manipular vectores númericos grandes que es, lamentablemente, bastante lento en Python. Por eso, una parte de NucliaDB está escrita en Rust.
+
+Pero... ¿cómo comunicamos Python con Rust? ¿cómo decidimos qué parte programamos en cada lenguaje? ¿de verdad merece la pena el jaleo de mezclar dos lenguajes en un mismo ejecutable? ¿no sería más fácil hacer microservicios? Estas son algunas de las preguntas que buscamos responder con esta charla.
+
+NucliaDB es open source y todo el código de la charla está disponible en https://github.com/nuclia/nucliadb
+---
+Python España: https://es.python.org/
+Python Vigo: https://www.python-vigo.es/
+BlueSky: @es.pycon.org
+Twitter/X: @PyConES",https://i.ytimg.com/vi/HRfPcD2CkwI/maxresdefault.jpg,0,False,False,unlisted,https://www.youtube.com/watch?v=HRfPcD2CkwI,https://www.youtube.com/watch?v=HRfPcD2CkwI
+22,Jafet Villafranca y Carlos Rico Adega - Python como herramienta artística en películas de animación,https://www.youtube.com/watch?v=WFTXdzjvGyI,WFTXdzjvGyI,Python España,@PythonES,https://www.youtube.com/@PythonES,20250409,2080,4,0,,,Entertainment,"El proceso de creación de una película de animación puede llegar a ser muy complejo, implicando a numerosos y diversos departamentos artísticos que necesitan de todas las facilidades posibles para llevar a cabo su labor. Desde la creación de los personajes hasta la composición final de los planos, Python es una herramienta más que nos permite ayudar a los artistas a implementar nuevos flujos de trabajo, optimizar procesos, e incluso automatizar tareas rutinarias.
+Se dará una vista general de cómo se integran dichos desarrollos de Python en entornos de creación de contenido digital tales como Maya, Houdini, Nuke o Blender.",https://i.ytimg.com/vi/WFTXdzjvGyI/maxresdefault.jpg,0,False,False,unlisted,https://www.youtube.com/watch?v=WFTXdzjvGyI,https://www.youtube.com/watch?v=WFTXdzjvGyI
+23,Marina Moro López y Helena Gómez Pozo - Cómo destruir el mundo usando Python y un virus sintético,https://www.youtube.com/watch?v=-UMRPqfoiAE,-UMRPqfoiAE,Python España,@PythonES,https://www.youtube.com/@PythonES,20250409,2192,1,0,,,Entertainment,"¿Nos creerías si te dijéramos que podemos crear un virus potencialmente peligroso usando Python? Esto es teóricamente posible gracias a la biología sintética, el campo de la biotecnología que estudia cómo crear y modificar organismos. Esta disciplina se usa, por ejemplo, para modificar bacterias genéticamente para que produzcan la insulina que después consumirán las personas diabéticas. Evidentemente, una herramienta tan potente, tiene su posible lado malvado, que es el que exploraremos en esta charla. Tras una mini clase de biología y genética, explicaremos un ejemplo práctico de cómo usar la biología sintética a través de un script de Python para modificar un virus existente y convertirlo en un virus mortal. Así, tú como asistente podrás ver el potencial de este campo y cómo Python puede hacerlo más fácil, no sólo en el ejemplo del virus malvado, sino también en otras aplicaciones sanitarias.
+---
+Python España: https://es.python.org/
+Python Vigo: https://www.python-vigo.es/
+BlueSky: @es.pycon.org
+Twitter/X: @PyConES",https://i.ytimg.com/vi/-UMRPqfoiAE/maxresdefault.jpg,0,False,False,unlisted,https://www.youtube.com/watch?v=-UMRPqfoiAE,https://www.youtube.com/watch?v=-UMRPqfoiAE
+24,23 webassembly,https://www.youtube.com/watch?v=JXui5TRAqHI,JXui5TRAqHI,Python España,@PythonES,https://www.youtube.com/@PythonES,20250409,2254,1,0,,,Entertainment,,https://i.ytimg.com/vi/JXui5TRAqHI/maxresdefault.jpg,0,False,False,unlisted,https://www.youtube.com/watch?v=JXui5TRAqHI,https://www.youtube.com/watch?v=JXui5TRAqHI
+25,Rubén y Agustín C. - Cómo la IA generativa puede ayudarnos a ganar la batalla contra las Fake News,https://www.youtube.com/watch?v=s9FbRNY3XtQ,s9FbRNY3XtQ,Python España,@PythonES,https://www.youtube.com/@PythonES,20250409,2621,5,0,,,Entertainment,"Si cada día se consumen millones de contenidos falsos (elecciones, covid, Ucrania, Gaza...) creados con el propósito de manipular nuestra opinión, ¿qué ocurrirá con la explosión provocada por la IA generativa?¿De quién o de qué podremos fiarnos en internet en un futuro en el que nuestros ojos no podrán diferenciar si algo es o no cierto? Si hasta ahora habíamos vivido oleadas de desinformación, deberíamos empezar a prepararnos para el Gran Tsunami que está por venir.
+
+En un escenario marcado por la creciente dificultad para diferenciar lo que es verdad de lo que no, los verificadores humanos son incapaces de procesar el enorme volumen y la sotisficación de desinformación que circula online. Necesitamos construir soluciones que ayuden en esta tarea y necesitamos hacerlo ya.
+
+Mientras que muchas personas ven la IA generativa como el gran peligro, nosotros creemos que es el arma que nos permitirá luchar contra la desinformación de tú a tú. Las capacidades de los nuevos LLMs (GPT, Gemini, Claude…) para razonar sobre el texto y manejar contenido multimodal y/o multilingüe, nos ofrecen una oportunidad única para desarrollar una nueva generación de agentes inteligentes que ayuden a combatir la desinformación.
+
+Como fact-checkers especializados en el desarrollo de tecnología, en los últimos cinco años hemos probado las distintas tecnologías que han ido apareciendo en este ámbito: reglas lingüísticas, frameworks clásicos de NLP, algoritmos de ML tradicional, modelos de Deep Learning y, ahora, LLMs generativos; con un único objetivo: ser capaces de replicar, en parte, el trabajo que hacen en su día a día nuestros compañeros periodistas.
+
+En esta charla, explicaremos al público cómo hemos implementado nuestros pipelines de datos y análisis/verificación de la desinformación utilizando Python. Nuestro objetivo es mostrar, de manera didáctica y amena, los principales éxitos y fracasos en la construcción de estas tecnologías. Explicaremos cómo pueden trabajar codo a codo periodistas y data scientists en un mismo problema (sin morir en el intento), enseñaremos demos de las PoC desarrolladas hasta la fecha, dedicando un apartado especial a exponer nuestra visión, desde nuestra experiencia en el ámbito, sobre las nuevas soluciones que están por venir en este campo (arquitecturas multi-agente) y cómo pensamos utilizarlas para acabar ganando la batalla contra la desinformación.
+
+El público se irá de la charla con una idea clara del problema que estamos combatiendo, cómo construir agentes inteligentes con Python y las posibilidades/limitaciones de los sistemas actuales.
+
+---
+Python España: https://es.python.org/
+Python Vigo: https://www.python-vigo.es/
+BlueSky: @es.pycon.org
+Twitter/X: @PyConES",https://i.ytimg.com/vi/s9FbRNY3XtQ/maxresdefault.jpg,0,False,False,unlisted,https://www.youtube.com/watch?v=s9FbRNY3XtQ,https://www.youtube.com/watch?v=s9FbRNY3XtQ
+26,25 oxidando,https://www.youtube.com/watch?v=tqhyzna5Dsw,tqhyzna5Dsw,Python España,@PythonES,https://www.youtube.com/@PythonES,20250409,2229,1,0,,,Entertainment,,https://i.ytimg.com/vi/tqhyzna5Dsw/maxresdefault.jpg,0,False,False,unlisted,https://www.youtube.com/watch?v=tqhyzna5Dsw,https://www.youtube.com/watch?v=tqhyzna5Dsw
+28,"Nadal, Óscar Tienda Beteta - Aprende Aprendizaje por refuerzo jugando a Doom",https://www.youtube.com/watch?v=0hxHS9hqqNU,0hxHS9hqqNU,Python España,@PythonES,https://www.youtube.com/@PythonES,20250409,2004,0,0,,,Entertainment,"Los impresionantes avances en el campo del Deep Learning y redes neuronales basadas en el contexto de visión de los videojuegos han demostrado poder crear controladores de nivel humano en los juegos de Atari 2600 a partir de datos visuales (píxeles). Sin embargo, la mayoría de juegos de Atari 2600 son en tercera persona y en entornos bidimensionales no realistas. Este hecho limita la aplicación de estas tecnologías en otros entornos.
+
+Para superar este desafío, nos complace presentaros ViZDoom, una revolucionaria plataforma de prueba que utiliza información visual pura y ofrece una perspectiva en primera persona en un entorno tridimensional semi-realista. Basada en el legendario juego de disparos en primera persona, Doom, ViZDoom permite desarrollar bots capaces de jugar al juego utilizando únicamente el búfer de pantalla, proporcionando una herramienta ligera, rápida y altamente personalizable.
+
+Gracias a la combinación de redes neuronales convolucionales, Q-learning y reproducción de experiencias, hemos logrado entrenar bots altamente competentes. Estos bots no solo muestran comportamientos parecidos a los humanos sino que también confirman la viabilidad del aprendizaje por refuerzo visual en entornos semi-realistas de primera persona en 3D.
+
+Dentro de este contexto, contaremos cómo surgió la idea, el motivo de porque se ha elegido Doom y no otros videojuegos, diferentes escenarios de prueba (movimientos básicos, disparos, recolección de objetos en un laberinto), parámetros y resultados, métricas de rendimiento y, finalmente, los usos reales que se le puede dar.
+
+---
+Python España: https://es.python.org/
+Python Vigo: https://www.python-vigo.es/
+BlueSky: @es.pycon.org
+Twitter/X: @PyConES",https://i.ytimg.com/vi/0hxHS9hqqNU/maxresdefault.jpg,0,False,False,unlisted,https://www.youtube.com/watch?v=0hxHS9hqqNU,https://www.youtube.com/watch?v=0hxHS9hqqNU
+29,"Jorge Raúl Gómez, Mireya - Cómo el Covid fastidia la predicción de series temporales y cómo evitarlo",https://www.youtube.com/watch?v=5FnyLEsTuK0,5FnyLEsTuK0,Python España,@PythonES,https://www.youtube.com/@PythonES,20250409,1946,4,0,,,Entertainment,"Casi todas las series temporales tienen ahora algo en común: durante dos años se comportaron de forma extraña por culpa del Covid-19. Da igual que hablemos de las ventas de un supermercado, del consumo eléctrico, del tráfico de una carretera o del precio de la vivienda, todas ellas se han visto impactadas en mayor o menor medida, aunque no tengan directamente que ver con la pandemia. Los patrones temporales de prácticamente todas las series temporales muestran variaciones no predecibles diferentes de las de otros periodos, porque el comportamiento de todos nosotros cambió en muchos y diferentes ámbitos.
+Esos dos años de excepcionalidad, que van desde marzo de 2020 hasta bien entrado 2022, dependiendo de la serie temporal que se analice, hacen que esos datos no sean una buena opción para entrenar modelos sin aplicarles ningún procesamiento adicional, pues los modelos aprenderán patrones que (esperemos) no se van a repetir en el futuro.
+Por si fuera poco, desde que hemos vuelto a la normalidad, tenemos sólo 2 años de datos correctos, lo que es a todas luces insuficiente como para entrenar y validar un modelo en la mayoría de los casos. Los datos anteriores a 2020 sí que pueden ser válidos, dependiendo de la predicción que hagamos, pero tenemos un salto entre ellos y los actuales que evita un uso sencillo de los mismos. En ambos casos, el resultado es que no suele funcionar bien desestimar los datos de los dos años problemáticos.
+En esta charla analizaremos las alternativas que tenemos para evitar que la predicción de series temporales, que ya de por sí tienen dificultades a superar, se transformen en insalvables por culpa del Covid-19. Veremos qué técnicas pueden servir en diferentes casos y qué técnicas no suelen ser una buena idea. Puede que esto sea un problema temporal hasta que la pandemia quede atrás, y la variación de los datos que supuso deje de afectar, pero hasta entonces nos quedan unos cuantos años de científicos de datos peleándose con series temporales especialmente complicadas.
+
+---
+Python España: https://es.python.org/
+Python Vigo: https://www.python-vigo.es/
+BlueSky: @es.pycon.org
+Twitter/X: @PyConES",https://i.ytimg.com/vi/5FnyLEsTuK0/maxresdefault.jpg,0,False,False,unlisted,https://www.youtube.com/watch?v=5FnyLEsTuK0,https://www.youtube.com/watch?v=5FnyLEsTuK0
+30,"Vincent Rizzo, Martín Quesada - Navigating the ESG landscape with LLMs",https://www.youtube.com/watch?v=71A_q73RhkI,71A_q73RhkI,Python España,@PythonES,https://www.youtube.com/@PythonES,20250409,2119,0,0,,,Entertainment,"In the evolving landscape of corporate reporting, processing large amounts of unstructured data is crucial to aligning companies' Environmental, Social, and Governance (ESG) strategies with the challenges brought by climate change and social injustice. The latest European sustainability reporting directive (CSRD) requires companies to disclose clearly their impacts, risks, and opportunities in terms of ESG.
+Using a variety of NLP techniques, enhanced by state-of-the-art text generation models, we will show how to automatically scan through thousands of reports and extract relevant information, best practices, and potential risks or opportunities.
+This session will illustrate a real-world case study on the ESG landscape using different Natural Language Processing (NLP) techniques. By leveraging zero-shot Text classification, sentiment analysis, Named Entity Recognition (NER), clustering on top of matryoshka embeddings and Topic Modelling, we can improve the insights and decision-making. In addition, we will present how to take advantage of the latest advances in Generative AI.
+This presentation will be particularly valuable for data scientists, ESG analysts, and Python enthusiasts interested in the intersection of AI and sustainable business practices. The main takeaways that you will get from this presentation include:
+
+* Gaining insights into how topic modelling with Bertopic can be used in corporate ESG initiatives.
+* Discovering how clustering techniques help tailor insights about Impact, Risks and Opportunities from large ESG reports.
+* Understanding the role of matryoshka embeddings for enhancing the latency when processing ESG-related texts.
+* Understanding the role of Generative AI in extracting actionable insights from vast amounts of ESG data.
+
+---
+Python España: https://es.python.org/
+Python Vigo: https://www.python-vigo.es/
+BlueSky: @es.pycon.org
+Twitter/X: @PyConES",https://i.ytimg.com/vi/71A_q73RhkI/maxresdefault.jpg,0,False,False,unlisted,https://www.youtube.com/watch?v=71A_q73RhkI,https://www.youtube.com/watch?v=71A_q73RhkI
+32,Naomi Ceder - El modelo más importante,https://www.youtube.com/watch?v=G-TBHfaugRM,G-TBHfaugRM,Python España,@PythonES,https://www.youtube.com/@PythonES,20250409,2250,2,0,,,Entertainment,"Actualmente todo el mundo está hablando de LLM y otros modelos en ciencia de datos. Todo el mundo se preocupa por entrenarlos y están especulando sobre sus poderes, incluso usándolos para escribir código, muchas veces sin entender qué son realmente y cómo funcionan.
+
+Como ingresamos a este nuevo mundo de modelos de AI, el modelo más importante es el modelo que construimos en nuestra mente, nuestro modelo mental de cómo funciona el código de Python, y cómo funcionan nuestras herramientas. Este modelo mental es vital para que utilicemos bien nuestras herramientas, y solucionemos los problemas cuando las cosas salen mal.
+
+Esta charla utilizará un modelo mental común y básico para analizar qué son los modelos mentales, cómo se forman y cómo podemos construir, probar y mejorar nuestros propios modelos.
+
+---
+Python España: https://es.python.org/
+Python Vigo: https://www.python-vigo.es/
+BlueSky: @es.pycon.org
+Twitter/X: @PyConES",https://i.ytimg.com/vi/G-TBHfaugRM/maxresdefault.jpg,0,False,False,unlisted,https://www.youtube.com/watch?v=G-TBHfaugRM,https://www.youtube.com/watch?v=G-TBHfaugRM
+33,Gabriel Martín Blázquez - ¿Quién necesita datos teniendo distilabel?,https://www.youtube.com/watch?v=H_3AjB_DUDI,H_3AjB_DUDI,Python España,@PythonES,https://www.youtube.com/@PythonES,20250409,2044,0,0,,,Entertainment,"¿Quieres hacer fine-tuning de un modelo o LLM para un caso de uso específico pero no tienes datos? Entonces distilabel es tu solución, la biblioteca que hemos estado utilizando en Argilla estos últimos meses y con la cual hemos generado varios datasets que han sido tendencia en el Hugging Face Hub.
+
+distilabel es una biblioteca para la generación de datos de texto (por el momento solo texto) de manera sintética utilizando LLMs creada por Argilla. Los datasets generados con distilabel permiten hacer fine-tuning de otros modelos (model distillation) o incluso de la propia LLM que se utilizó para generar los datos (self-learning).
+
+La biblioteca permite desarrollar una pipeline compuesta por varios pasos jerarquizados mediante un Directed Acyclic Graph (DAG). Cada paso puede realizar una transformación o filtrado en los batches de datos que reciben, para después devolverlo. La pipeline es ejecutada de manera paralela y con un sistema basado en batches: los datos de entrada de la pipeline se dividen en batches que van fluyendo a través de los pasos.
+
+Además, la biblioteca cuenta con pasos especiales denominados tareas, que definen la lógica para realizar generación de datos o anotación de datos utilizando una LLM (integramos casi todos los ""engines"": OpenAI API, vLLM, Hugging Face Inference Endpoints, Hugging Face Transformers, etc).
+
+En esta charla explicaré por que desarrollamos distilabel, como fue su desarrollo y hablaré de su interesante arquitectura en Python, que trata de maximizar y paralelizar la ejecución de la pipeline para que esta sea lo más rápida posible. Además, pondré varios ejemplos de como utilizar distilabel para generar datos para vuestros casos de uso.
+
+GitHub: https://github.com/argilla-io/distilabel
+
+---
+Python España: https://es.python.org/
+Python Vigo: https://www.python-vigo.es/
+BlueSky: @es.pycon.org
+Twitter/X: @PyConES",https://i.ytimg.com/vi/H_3AjB_DUDI/maxresdefault.jpg,0,False,False,unlisted,https://www.youtube.com/watch?v=H_3AjB_DUDI,https://www.youtube.com/watch?v=H_3AjB_DUDI
+35,Benjamín Granados - Comunidad: La clave del éxito de tu proyecto Open Source,https://www.youtube.com/watch?v=Nd8etty1UD8,Nd8etty1UD8,Python España,@PythonES,https://www.youtube.com/@PythonES,20250409,2329,0,0,,,Entertainment,"Únete a esta charla para descubrir la clave del éxito de cualquier proyecto Open Source: una comunidad activa. Aprenderás estrategias prácticas para construir y mantener una comunidad vibrante alrededor de tu proyecto. Desde la importancia del Código de Conducta, el modelo de gobierno y la documentación, hasta cómo fomentar la colaboración, exploraremos todo lo necesario para cultivar una comunidad que asegure la sostenibilidad y éxito de tu proyecto. Esta sesión es ideal para contributors, maintainers y persona entusiasta por la cultura Open Source y el poder de la Comunidad.
+
+---
+Python España: https://es.python.org/
+Python Vigo: https://www.python-vigo.es/
+BlueSky: @es.pycon.org
+Twitter/X: @PyConES",https://i.ytimg.com/vi/Nd8etty1UD8/maxresdefault.jpg,0,False,False,unlisted,https://www.youtube.com/watch?v=Nd8etty1UD8,https://www.youtube.com/watch?v=Nd8etty1UD8
+36,"Guzman, Eloy - Introducción as inxeccións de código en Python",https://www.youtube.com/watch?v=TYHh-1DLHIQ,TYHh-1DLHIQ,Python España,@PythonES,https://www.youtube.com/@PythonES,20250409,2648,0,0,,,Entertainment,"No mundo actual, cada vez existen máis problemas de seguridade que afectan á información e aos sistemas que a xestionan e, como cabe esperar, Python non está libre deste tipo de problemas. Os atacantes buscan vulnerabilidades que poidan explotar para o seu beneficio e os defensores investigan como defendernos destas ameazas.
+
+Esta charla centrarase sobre as vulnerabilidades de inxección de código, as cales consisten en introducir código nunha aplicación na que, posteriormente, será executado ou interpretado. Este tipo de ataques prodúcense debido a unha falta de validación nos datos que se poden introducir nunha aplicación.
+
+Primeiro explicarase como os atacantes inxectan código Python malicioso nunha sandbox na que a priori non se poden escribir ficheiros no sistema operativo.
+
+Despois, falarase sobre como se explotan as vulnerabilidades de inxección de plantillas utilizando de exemplo unha aplicación web desenvolvida con flask.
+
+Finalmente, describirase como aproveitar unha configuración feita en yaml e un programa que a le con PyYAML para mostrar o contido dalgún ficheiro confidencial.
+
+Polo camiño explicaranse varios detalles do funcionamento interno de Python como a estrutura das builtins ou a árbore sintáctica abstracta. Tamén se mostrará como se foron tratando de resolver estes problemas de seguridade e como os atacantes conseguían evadir as diferentes defensas que se foron plantexando.
+
+---
+Python España: https://es.python.org/
+Python Vigo: https://www.python-vigo.es/
+BlueSky: @es.pycon.org
+Twitter/X: @PyConES",https://i.ytimg.com/vi/TYHh-1DLHIQ/maxresdefault.jpg,0,False,False,unlisted,https://www.youtube.com/watch?v=TYHh-1DLHIQ,https://www.youtube.com/watch?v=TYHh-1DLHIQ
+39,César Pérez - Apache Kafka y Python en Feeberse: Streaming de datos en tiempo real,https://www.youtube.com/watch?v=hrJng89aRwM,hrJng89aRwM,Python España,@PythonES,https://www.youtube.com/@PythonES,20250409,2656,0,0,,,Entertainment,"Feeberse es una innovadora red social dedicada 100% al mundo del fútbol. En la era actual, donde cada pregunta (request) debe ser respondida “al instante” (response), nos enfrentamos al desafío de gestionar el flujo de datos en tiempo real sin comprometer la experiencia del usuario.
+
+Para abordar este reto, hemos implementado Apache Kafka como canal para el flujo de datos y Python para la lógica de negocio, utilizando el cliente Confluent Kafka.
+
+Durante la charla, exploraremos varios casos de uso a los que nos hemos enfrentado, presentaremos ejemplos prácticos de instalación, fragmentos de código y una pequeña demo funcional.
+
+---
+Python España: https://es.python.org/
+Python Vigo: https://www.python-vigo.es/
+BlueSky: @es.pycon.org
+Twitter/X: @PyConES",https://i.ytimg.com/vi/hrJng89aRwM/maxresdefault.jpg,0,False,False,unlisted,https://www.youtube.com/watch?v=hrJng89aRwM,https://www.youtube.com/watch?v=hrJng89aRwM
+42,Ignacio González - Python bajo el agua. Aplicaciones Python para vehículos submarinos,https://www.youtube.com/watch?v=oBuDZ31MP8A,oBuDZ31MP8A,Python España,@PythonES,https://www.youtube.com/@PythonES,20250409,2649,2,0,,,Entertainment,"La oceanografía operacional es una disciplina que se enfoca en la observación, modelado y predicción de las condiciones oceánicas en tiempo real. Utiliza datos de satélites, boyas, vehículos y modelos numéricos para monitorizar y predecir fenómenos como corrientes marinas, temperatura del agua o niveles de salinidad. Su objetivo es proporcionar información útil para la navegación, la pesca, la gestión costera y la respuesta a emergencias en el mar.
+
+Los ROV (Vehículos Operados Remotamente) se utilizan en oceanografía operacional para explorar y estudiar áreas submarinas de difícil acceso para los humanos. Estos dispositivos pueden recopilar datos detallados sobre el fondo marino, la vida marina y las condiciones del agua en tiempo real. Su uso en la oceanografía operacional permite obtener información crucial para la investigación científica, la exploración de recursos marinos y la monitorización del medio ambiente marino.
+
+Estos vehículos normalmente son operados por grandes empresas y caros. Pero desde hace unos años, se ha ""democratizado"" su uso por medio de nuevas empresas que han sacado modelos bajo el concepto de modelo ""abierto"".. mas o menos.
+
+Bajo este contexto, lo que se necesita es desarrollar un ecosistema sensórico sobre un vehículo ROV que extienda el uso proporcionado por el modelo base a niveles mas complejos y que proporcione mas información que la integrada y que nos de capacidades de ampliación futura.
+
+Hay multitud de sensores en oceanografía, y hay que integrarlos todos para darles cohesión espacio-temporal para posteriormente poder hacer análisis mas completos sobre los datos.
+
+Explicaremos las herramientas necesarias para desarrollar módulos en ROS2 (en python), veremos ejemplos reales de integración y mostraremos como realizar interfaces gráficas que muestren estos datos adquiridos de manera mas amigable.
+
+---
+Python España: https://es.python.org/
+Python Vigo: https://www.python-vigo.es/
+BlueSky: @es.pycon.org
+Twitter/X: @PyConES",https://i.ytimg.com/vi/oBuDZ31MP8A/maxresdefault.jpg,0,False,False,unlisted,https://www.youtube.com/watch?v=oBuDZ31MP8A,https://www.youtube.com/watch?v=oBuDZ31MP8A
+43,Alejandro Cabello Jiménez - Smooth Migration: Upgrading a Large Codebase to Pydantic V2,https://www.youtube.com/watch?v=rHZT6Ywxabc,rHZT6Ywxabc,Python España,@PythonES,https://www.youtube.com/@PythonES,20250409,1956,0,0,,,Entertainment,"In this talk, we will explore the process of upgrading a large codebase from Pydantic V1 to V2, focusing on practical steps, challenges, and strategies involved.
+We will cover how to manage breaking changes, optimise the migration process, and ensure backward compatibility with minimal disruption to the existing system.
+Key focus areas will include refactoring, testing strategies, and performance improvements in Pydantic V2.
+By the end of the session, you'll gain actionable insights and best practices to manage smooth migrations in complex codebases, ensuring a successful transition to the latest version of core libraries like Pydantic.
+
+---
+Python España: https://es.python.org/
+Python Vigo: https://www.python-vigo.es/
+BlueSky: @es.pycon.org
+Twitter/X: @PyConES",https://i.ytimg.com/vi/rHZT6Ywxabc/maxresdefault.jpg,0,False,False,unlisted,https://www.youtube.com/watch?v=rHZT6Ywxabc,https://www.youtube.com/watch?v=rHZT6Ywxabc

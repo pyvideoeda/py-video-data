@@ -1,0 +1,702 @@
+﻿index,title,url,video_id,uploader,uploader_id,uploader_url,upload_date,duration,view_count,like_count,comment_count,tags,categories,description,thumbnail,age_limit,is_live,was_live,availability,webpage_url,original_url
+1,PyConES 2022 - Video de Introducción,https://www.youtube.com/watch?v=AE1lwMBs3I8,AE1lwMBs3I8,Python España,@PythonES,https://www.youtube.com/@PythonES,20221022,150,923,8,,,Entertainment,"Video de Introducción realizado por el equipo de organización.
+
+––––––––––––––––––––––––––––––
+Levity by Johny Grimes https://soundcloud.com/johny-grimes
+Creative Commons — Attribution 3.0 Unported — CC BY 3.0
+Free Download / Stream: http://bit.ly/2sUZMCR
+Music promoted by Audio Library https://youtu.be/BISGOok5m1s
+––––––––––––––––––––––––––––––
+Track: Lights pt. II — SilentCrafter [Audio Library Release]
+Music provided by Audio Library Plus
+Watch: https://youtu.be/Q3PPnyhpEtw
+Free Download / Stream: https://alplus.io/lights-pt-ii
+––––––––––––––––––––––––––––––",https://i.ytimg.com/vi_webp/AE1lwMBs3I8/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=AE1lwMBs3I8,https://www.youtube.com/watch?v=AE1lwMBs3I8
+2,Inauguración Conferencia,https://www.youtube.com/watch?v=g2KxtFP8k9M,g2KxtFP8k9M,Python España,@PythonES,https://www.youtube.com/@PythonES,20221022,938,239,5,,,Entertainment,"Ponente: Pablo y Jimena
+Aula: Paraninfo (Sábado)",https://i.ytimg.com/vi/g2KxtFP8k9M/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=g2KxtFP8k9M,https://www.youtube.com/watch?v=g2KxtFP8k9M
+3,★Nieves Ábalos Serrano - Inteligencia Artificial Conversacional ❤ Python (Keynote),https://www.youtube.com/watch?v=kBTVZfM_XzM,kBTVZfM_XzM,Python España,@PythonES,https://www.youtube.com/@PythonES,20221022,3323,780,36,1.0,,Entertainment,"Keynote
+Ponente: Nieves Ábalos Serrano
+Títutlo:  Inteligencia Artificial Conversacional ❤ Python 
+Aula: Paraninfo (Sábado)
+----------------------------------
+Resumen:
+El presente y futuro de la Inteligencia Artificial está marcado por el lenguaje humano. Una de las áreas que más han evolucionado en los últimos años es la de la IA Conversacional, y se centra en las diferentes técnicas y modelos aplicados a conversar con las personas: reconocer el habla (ASR), entender la intención (NLU), la síntesis de la voz (TTS).. Dentro de todo esto, las arquitecturas basadas en redes neuronales están cambiando las reglas del juego, sobre todo en la síntesis de voz. No te pierdas esta charla si quieres entender mejor cómo conseguimos, utilizando Python, conversaciones con las máquinas cada vez más naturales y efectivas (a pesar de los “perdona, no te he entendido..“).
+
+Enlace a las diapositivas: https://github.com/nieves-abalos/pycones2022/blob/main/Nieves%20Abalos%20-%20PyConEs2022%20-%20IA%20Conversational%20%20Python.pdf",https://i.ytimg.com/vi/kBTVZfM_XzM/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=kBTVZfM_XzM,https://www.youtube.com/watch?v=kBTVZfM_XzM
+4,★Mai Giménez - La era del diamante: sesgos y riesgos en IA (Keynote),https://www.youtube.com/watch?v=ud_S5j_JWrw,ud_S5j_JWrw,Python España,@PythonES,https://www.youtube.com/@PythonES,20221022,3359,241,6,,,Entertainment,"Keynote
+Ponente: Mai Giménez
+Títutlo: La era del diamante: sesgos y riesgos en IA
+Aula: Paraninfo (Domingo)
+------------------------------------
+Resumen:
+En la más pura tradición valenciana, esta charla no es una charla, es una falla. Un monumento a todo lo que brilla pero está hueco, un monumento a todo lo hay que quemar en AI.",https://i.ytimg.com/vi/ud_S5j_JWrw/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=ud_S5j_JWrw,https://www.youtube.com/watch?v=ud_S5j_JWrw
+5,Gloria Silva - Mi yo niña estaría orgullosa,https://www.youtube.com/watch?v=U6L1gYR6IBQ,U6L1gYR6IBQ,Python España,@PythonES,https://www.youtube.com/@PythonES,20221022,1389,124,2,,,Entertainment,"Ponente: Gloria Silva
+Títutlo: Mi yo niña estaría orgullosa
+Aula: Teoría 8 (Sábado)
+----------------------------------------------------------------------------------
+Resumen:
+Mi nombre es Gloria Silva soy de Venezuela, Ingeniera Mecánica, autodidacta, aventurera Desarrolladora Web. Estas son solo algunas de las cosas que me hacen ser quien soy. Tengo 29 años y si hay algo que me ha definido todo mi vida es ser curiosa, aunque no me lleve muy bien con eso de ponerme etiquetas porque siento que son limitantes y si algo he aprendido a lo largo de mi vida es no permitir que nada ni nadie me limite o me ponga etiquetas. Establecido este punto y una vez he dejado claro lo mucho que creo en que puedo hacer cada cosa que me propongo, les quiero contar un poco de lo que me ha traído al punto donde estoy ahora.
+
+Todo empieza cuando una niña de una ciudad pequeña en medio de montañas decidió cuestionarse todo (según mi mamá “buscarle las 5 patas al gato”).
+Desde pequeña he sido muy curiosa, me ha llamado la atención: ¿cómo funcionaban las cosas?, ¿que inspiraba a las mentes más brillantes?, ¿cuáles serían sus referentes? y ¿qué podría hacer yo para ser parte de este grupo? el cual era capaz de crear todo aquello que imaginaban o al menos lo intentaban. Esto último para mi siempre ha sido muy importante, llamenle terquedad, testarudez u obstinación, pero siempre he amado probar todo, nunca me he conformado con un “No” como respuesta solo por miedo a intentar algo nuevo, algo arriesgado o fuera de mi zona de confort. De pequeña quise ser muchas cosas, detective, veterinaria, arqueóloga, científica, piloto, ir a Howarts y ser hechicera…, en fin, no tenia ni idea que quería ser, sin embargo, había una cosa que siempre tuve muy clara: quería tener una profesión asombrosa, de esas como la gente que sale en la tele y hace cosas geniales. Edificios enormes o encontrar la cura para alguna enfermedad. Otra cosa que también tuve muy claro era que para lograr esa “asombrosidad” tenía que prepararme y estudiar muchísimo.
+Quisiera decirles que el camino para llegar aquí ha sido fácil, pero no, la realidad es otra, el camino a perseguir nuestros sueños puede ser aterrador, pero si que es nuestro y es todo lo que importa. Nuestra capacidad de sobreponernos a las dificultades, determinación, ambición, disciplina y amor propio, es lo único que nos permitirá enfrentar las mayores dificultades y superarlas, y creanme a lo largo de mi vida he tenido que superar muchas dificultades pero mi historia no trata de ellas, sólo son un par de capítulos que me han enseñado muchas cosas porque yo no soy mis dificultades, soy todo lo que he hecho, aprendido, crecido y todas las oportunidades que he tenido a pesar de ellas. Así que pequeño spoiler, mi historia va de lo orgullosa que estaría la Gloria de 8 años que veía el canal discovery y que a pesar de que no logró ser hechicera en Howarts, si que logro tener una profesión asombrosa como programadora.",https://i.ytimg.com/vi_webp/U6L1gYR6IBQ/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=U6L1gYR6IBQ,https://www.youtube.com/watch?v=U6L1gYR6IBQ
+6,Marta Arcones - Desarrollo de Software Seguro,https://www.youtube.com/watch?v=NyvR2UKkNc8,NyvR2UKkNc8,Python España,@PythonES,https://www.youtube.com/@PythonES,20221022,1985,1257,32,3.0,,Entertainment,"Ponente: Marta Arcones
+Títutlo: Desarrollo de Software Seguro
+Aula: Teoría 8 (Sábado)
+----------------------------------------------------------------------------------
+Resumen:
+En esta charla me gustaría contar los principios básicos sobre el desarrollo de software seguro.
+Si bien el riesgo es inevitable, analizándolo para nuestro caso de uso y tomando las medidas adecuadas, podemos minimizarlo hasta un nivel asumible, limitando las consecuencias en caso de problemas y haciendo que nuestros sistemas sean rápidamente recuperables tras un ataque.",https://i.ytimg.com/vi_webp/NyvR2UKkNc8/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=NyvR2UKkNc8,https://www.youtube.com/watch?v=NyvR2UKkNc8
+7,Maria José Molina-Contreras - Respira mejor,https://www.youtube.com/watch?v=z38pp61CmFQ,z38pp61CmFQ,Python España,@PythonES,https://www.youtube.com/@PythonES,20221022,2251,154,5,,,Entertainment,"Ponente: Maria José Molina-Contreras
+Títutlo: Respira mejor: creando un sistema de monitoreo y predictivo para calidad del aire en interiores.
+Aula: Teoría 8 (Sábado)
+-------------------------------------------------------------
+Resumen:
+En los últimos dos años mucha gente ha pasado a un estilo de trabajo totalmente remoto, lo que nos ha hecho darnos cuenta de beneficios de los que no éramos conscientes, pero lamentablemente también de algunos pequeños inconvenientes, como problemas relacionados con la salud.
+
+En esta charla, exploraremos cómo construir un sistema funcional para rastrear la calidad del aire, recoger nuestros propios datos utilizando diferentes sensores e implementar un enfoque predictivo para evitar futuros problemas de salud.
+Vamos a sumergirnos en las diferentes configuraciones para interactuar con los sensores de calidad del aire utilizando Python en microcontroladores y sistemas embebidos, recogiendo sus propios datos para evaluar diferentes factores como humedad, temperatura, CO2, partículas, pero eso no es todo, también nos adentraremos en la implementación de un modelo de aprendizaje automático predictivo para predecir los niveles de CO2 en interiores y alertarnos en base a las predicciones antes de los niveles críticos.
+
+La idea principal de esta charla es mostrar con un ejemplo práctico cómo podemos implementar sistemas de monitorización y aprendizaje automático en casa, y al mismo tiempo, los asistentes verán cómo Python es una gran opción para la monitorización de la calidad del aire interior complementada con un modelo predictivo (Neural Network) para el CO2 interior, mientras se divierten construyendo y monitorizando su casa.",https://i.ytimg.com/vi_webp/z38pp61CmFQ/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=z38pp61CmFQ,https://www.youtube.com/watch?v=z38pp61CmFQ
+8,"Fran y Sonia - Resolver, Romper, Recombinar: las tres Rs para programar apps Django reutilizables",https://www.youtube.com/watch?v=tUzkFjV0I3o,tUzkFjV0I3o,Python España,@PythonES,https://www.youtube.com/@PythonES,20221022,1903,205,6,,,Entertainment,"Ponente: Fran Muñoz y Sonia Alhama
+Títutlo: Resolver, Romper, Recombinar: las tres Rs para programar apps Django reutilizables
+Aula: Teoría 8 (Sábado)
+-------------------------------------------------------------
+Resumen:
+Como desarrollar tus proyectos pensando desde el inicio en paquetes que puedas usar o publicar. Nos enfocaremos en Django y como crear apps reutilizables y empaquetables, ya sea para reutilizar en tus proyectos o contribuir a la comunidad en forma de código libre. Revisaremos el proceso de diseño, las herramientas que nos aporta el propio framework y las técnicas que usan tanto django como las librerías más usadas en la comunidad. Finalmente daremos algunos consejos rápidos sobre la publicación y la preparación del setup.py.",https://i.ytimg.com/vi_webp/tUzkFjV0I3o/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=tUzkFjV0I3o,https://www.youtube.com/watch?v=tUzkFjV0I3o
+9,Caterina Fuster Barceló - Protegiendo el oro con tu corazón,https://www.youtube.com/watch?v=ejwLeCrf3pY,ejwLeCrf3pY,Python España,@PythonES,https://www.youtube.com/@PythonES,20221022,2197,153,2,,,Entertainment,"Ponente: Caterina Fuster Barceló
+Título: Protegiendo el oro con tu corazón
+Aula: Teoría 8 (Domingo)
+--------------------------------------------------------
+Resumen:
+Sabías que igual que puedes identificarte con la huella dactilar también puedes hacerlo con tu corazón? Con esta charla pretendo mostrar cómo es posible usar los electrocardiogramas para proteger la caja fuerte de un banco. A través de este proyecto desarrollado 100% en python que va desde procesamiento de señales con PanTompkins hasta identificación y clasificación de usuarios con TensorFlow, veremos cuáles son las ventajas de identificar usuarios con electrocardiogramas y por qué deberíamos usar este método de identificación biométrica para proteger el oro de una caja fuerte.
+
+El objetivo de esta charla es acercar la biometría y cómo ésta se combina junto con la inteligencia artificial para lograr hacer un modelo de clasificación de usuarios.
+Los electrocardiogramas son un sistema válido de identificación biométrica desde que se presentó en 2001 el paper titulado ""ECG analysis: a new approach in human identification"" de Lena Biel. Nosotros intentamos ir un paso más allá. Intentamos demostrar que es posible identificar a los usuarios no solo con la señal propia del ECG sino con una sola imagen donde se reflejan los latidos de su corazón. Todo esto, es posible gracias a las técnicas de IA como son las CNNs que nos permiten hacer una clasificación de usuarios basada en estas imágenes.
+De este modo, en esta charla, veremos cómo es posible identificar a las personas a través de su electrocardiograma y qué ventajas tiene sobre otros sistemas biométricos más habituales.",https://i.ytimg.com/vi_webp/ejwLeCrf3pY/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=ejwLeCrf3pY,https://www.youtube.com/watch?v=ejwLeCrf3pY
+10,Irene Morgado - Cuando tu empresa contraataca,https://www.youtube.com/watch?v=vUB_M14zE84,vUB_M14zE84,Python España,@PythonES,https://www.youtube.com/@PythonES,20221022,1793,351,11,3.0,,Entertainment,"Ponente: Irene Morgado
+Títutlo: Cuando tu empresa contraataca
+Aula: Teoría 8 (Sábado)
+-----------------------------------------------
+Resumen:
+¿Cuántas veces has estado a punto de irte de tu empresa, y justo justo justo han decidido contraofertarte? ¿Cuánto en el límite tienes que estar para que tu empresa reaccione? ¿Nadie te ha hecho caso hasta el momento de irte? ¿Te cuesta decidir entre marcharte o quedarte , ahora que parece que se te valora más? En esta charla hablaremos de esos casos peliagudos que son las malditas contraofertas, pero también de clima, de involucración y de motivación tanto de tú con tu organización, como de tu organización hacia ti.
+
+Reflexión sobre los contras y pros de las contraofertas y la importancia de realizar buenas prácticas que ayuden a las personas y las organizaciones a ser transparentes y obtener los mejores resultados basados en relaciones de confianza.",https://i.ytimg.com/vi_webp/vUB_M14zE84/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=vUB_M14zE84,https://www.youtube.com/watch?v=vUB_M14zE84
+11,Jara Juana Bernejo Vega - Análisis de red del discurso de odio queerfóbico en Twitter,https://www.youtube.com/watch?v=nC58DAXGhgw,nC58DAXGhgw,Python España,@PythonES,https://www.youtube.com/@PythonES,20221022,2351,282,7,,,Entertainment,"Ponente: Jara Juana Bernejo Vega
+Título: Análisis de red del discurso de odio queerfóbico en Twitter
+Aula: Teoría 7 (Domingo)
+----------------------------------
+Resumen:
+En los últimos años el uso de retórica anti-LGTBQIA+ se ha disparado en todo el mundo. En España, esto se ha manifestado como un aumento del discurso de odio transfóbico. Grupos reaccionarios difunden narrativas de inseguridad jurídica y bulos de ultraderecha para transmitir discursos de odio y atacar la legislación que garantiza derechos fundamentales de las personas trans. Entre estos actores se encuentran grupos ""feministas trans-excluyentes"" (TERF) y grupos ultraconservadores como el partido político VOX y la plataforma Hazte Oír. El odio antitrans se utiliza como tema cuña para aumentar los discursos de odio a la comunidad LGBTQIA+, el feminismo y la legislación en materia de derechos.
+
+En esta charla, contextualizaremos el aumento de estos discursos de odio. Presentaremos un trabajo de investigación en el que utilizamos herramientas de análisis de datos cuantitativas para caracterizar las redes de odio queerfóbico en la red social Twitter. Utilizando herramientas Python como t-hoarder, recogemos datos de tendencias transfóbicas en Twitter. Utilizamos métodos de teoría de grafos para encontrar grupos de usuarios reaccionarios antitrans que difunden el odio antitrans en Twitter. Analizamos su comportamiento y la estructura de red de estos grupos.
+
+Observamos que un núcleo pequeño y dedicado de usuarios de Twitter es responsable de la mayor parte del odio antitrans en esta red social. Imitando las estrategias de la ultraderecha, estos grupos reaccionarios impulsan tendencias en Twitter creando ráfagas de contenido de interacción inauténtica. Con esta estrategia, pueden hacer hijacks a la página de portada de Twitter. Su comportamiento constituye un riesgo para la salud e integridad de la personas trans, ya que puede contribuir a difundir bulos y fake news que distorsionan la opinión pública en materia de derechos trans.",https://i.ytimg.com/vi/nC58DAXGhgw/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=nC58DAXGhgw,https://www.youtube.com/watch?v=nC58DAXGhgw
+12,"Cheuk Ting Ho - Came for the Conference, Stayed for the Sprint",https://www.youtube.com/watch?v=c_HoP_V1gj0,c_HoP_V1gj0,Python España,@PythonES,https://www.youtube.com/@PythonES,20221022,1647,69,0,,,Entertainment,"Ponente: Cheuk Ting Ho
+Títutlo: Came for the Conference, Stayed for the Sprint
+Aula: Teoría 7 (Sábado)
+-----------------------------------------
+Resumen:
+Many Python conferences have ""sprints"" included in their conference schedule. In this talk, we will explain what is it for the newcomers, why is it important to the open-source community, and as an organizer and maintainer how can you help this ""sprints"" movement.
+
+We all know the famous quote in the Python community ""I came for the language, but I stayed for the community"" by Brett Cannon. But I would like to borrow it and say ""I came for the conference, but I stayed for the sprint"". As one of the organizers of Mentored Sprint, maintainer of an open-source project and long term sprint participant, I would like to explain to the people who are new to the community, what is a ""sprint""? Also, I would like to discuss the goal of sprints from different points of view.
+
+First of all, I would like to introduce the concept of sprints. In software development, we have sprints to achieve some goals, whether it's fixing a bug or adding a new feature. But what about an open-source sprint? Are we going to achieve ""something"" in the sprint? What is this ""something""?
+
+Then I would like to talk about what is the ""benefit"" of participating in a sprint as a maintainer? Will you get useful help in the sprint? Is it worth the time? What is the expectation of bringing your project into the sprint?
+
+In the end, I would like to add my opinion on why sprints, especially mentored sprint is so important to the open-source community and makes the community that we all would like to ""stay for"".",https://i.ytimg.com/vi/c_HoP_V1gj0/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=c_HoP_V1gj0,https://www.youtube.com/watch?v=c_HoP_V1gj0
+13,Jimena - Crea tu propio juguete sexual con Python 🍆🍑,https://www.youtube.com/watch?v=oOmJPvjHRfA,oOmJPvjHRfA,Python España,@PythonES,https://www.youtube.com/@PythonES,20221022,1797,5481,48,4.0,,Entertainment,"Ponente: Jimena
+Título: Crea tu propio juguete sexual con Python 🍆🍑
+Aula: Teoría 6 (Sábado)
+---------------------------------------
+Resumen:
+¿Quién ha dicho que el hardware es una cosa difícil, aburrida y masculina? Nadie, pero tal cómo nos lo presentan eso parece.
+
+Pues se acabó lo de aburrido (en todos los sentidos, tú ya me entiendes 😉), se acabó lo de masculino porque vamos a crear nuestro propio dildo a tu gusto (en todos los sentidos también) y, por supuesto, se acabó lo de difícil, porque vamos a aprender y nos vamos a reír.
+
+En esta charla vamos a tener nuestro primer acercamiento al hardware de una forma diferente y amena. Aprenderemos qué son y cómo se conectan nuestro motor, controlador y placa, y cómo programarlos con MicroPython.
+
+Ven a la charla más vibrante de Python y quitate todos esos miedos a los cables, lucecitas y a soldar.
+
+100% de gusto garantizado",https://i.ytimg.com/vi/oOmJPvjHRfA/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=oOmJPvjHRfA,https://www.youtube.com/watch?v=oOmJPvjHRfA
+14,Daniel Sánchez Llopis - Más vale Wagtail en mano que CMS volando,https://www.youtube.com/watch?v=TaJzucSdvHg,TaJzucSdvHg,Python España,@PythonES,https://www.youtube.com/@PythonES,20221022,1721,1279,34,,,Entertainment,"Ponente: Daniel Sánchez Llopis
+Título: Más vale Wagtail en mano que CMS volando
+Aula: Teoría 8 (Domingo)
+----------------------------------------------------
+Resumen:
+Cómo crear la base de un CMS de una forma rápida y fácil es la clave que muchas veces se busca. En esta charla sobre Wagtail podremos ver las funcionalidades que nos ofrece dentro un espectro inicial de desarrollo de un CMS, además de ver varias las opciones mas personalizables y eficientes que podemos desarrollar para nuestro CMS como que trabaje en diferentes idiomas, creemos un generador de formularios, etc.
+
+Wagtail es una herramienta que estos últimos años ha crecido a nivel funcional y técnico a pasos agigantados, gracias a sus grandes capacidades como generador de contenido.
+
+En esta pequeña charla podremos ver los avances de Wagtail y su potencia para desarrollar en poco tiempo,una herramienta funcional ya sea como stack único o como Api de consulta. Todo ello es gracias a la facilidad que nos da el framework por si mismo y su versatilidad dentro de un marco como Django, ya que es su base sostenible.
+
+Haremos un pasada desde los puntos más básicos del framework como la generación de los modelos, sus especificaciones para su gestión desde el frontal del CMS incorporado, la autenticación o sistema de permisos personalizados, hasta la integración de elasticsearch, la generación de modelos para generar tareas programáticas dentro del cms, la creación de un sistema de auditoria o el uso de las señales.",https://i.ytimg.com/vi/TaJzucSdvHg/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=TaJzucSdvHg,https://www.youtube.com/watch?v=TaJzucSdvHg
+15,Isabella Karabasz - The ups and downs of deploying AI in the wild. A pyspark story,https://www.youtube.com/watch?v=uaD4SWaMG8M,uaD4SWaMG8M,Python España,@PythonES,https://www.youtube.com/@PythonES,20221022,1981,225,5,,,Entertainment,"Ponente: Isabella Karabasz
+Título: The ups and downs of deploying AI in the wild. A pyspark story
+Aula: Teoría 7 (Sábado)
+----------------------------------
+Resumen:
+Have you ever faced a professional challenge where you just didn’t know where to start?​
+
+What happens to an AI model once it’s been trained and tested? In this talk, I’m going to share how I transformed into a data engineer for the duration of two weeks, while on the mission to deploy our python AI models in a Cloudera datalake using PySpark.
+
+In this personal story of a real life challenge, I will discuss the AI solution that our team developed in python for the classification of bank transactions. We will explore the challenges faced during the deploy of the solution using pyspark and its integration in the client platform. Finally, we will take a look at what the future holds for our AI solution during the next steps of productionalization of this project.",https://i.ytimg.com/vi/uaD4SWaMG8M/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=uaD4SWaMG8M,https://www.youtube.com/watch?v=uaD4SWaMG8M
+16,Maria Camila Guerrero Giraldo - Lo mejor de dos mundos: Backend y Machine Learning con Python,https://www.youtube.com/watch?v=aNFbEGoUN9E,aNFbEGoUN9E,Python España,@PythonES,https://www.youtube.com/@PythonES,20221022,2126,755,49,1.0,,Entertainment,"Ponente: Maria Camila Guerrero Giraldo
+Título: Lo mejor de dos mundos: Backend y Machine Learning con Python
+Aula: Teoría 7 (Domingo)
+-----------------------------
+Resumen:
+El desarrollo de backend y Machine Learning parecen ser dos temas muy diferentes, sin embargo, les contaré mi experiencia en la transición entre estos dos; fue un proceso bonito, fácil y sútil gracias a Python y sus bien conocidos frameworks. Ven, únete a mí y sigue este viaje profesional que realmente he disfrutado.
+
+Antes que nada, quiero hablar un poco desde mi experiencia, cómo fue esa transición para mí y cómo tuve la oportunidad de pasar al área de Machine Learning sin tener una carrera en estadística o algún tipo de estudio relacionado. Mi participación en las comunidades de Python fue clave para obtener el conocimiento y conocer a las personas adecuadas en este paso de mi carrera.
+
+Luego, me gustaría presentar algunos conceptos clave relacionados con el backend y, especialmente, enfatizar los frameworks que me ayudaron (Flask y Django), nombrando las generalidades, los conceptos que estos frameworks me ayudaron a reforzar conocimientos importantes y especialmente cómo la documentación y la tutoría de las personas con las que trabajé me convirtieron en un desarrolladora backend. También me gustaría hablar sobre cómo, en mi experiencia de backend, la mayoría de las cosas que hice usaron procesos síncronos. Y en este punto de la charla, haga un contraste con mi experiencia en Machine Learning, donde al mismo tiempo estaban presentes frameworks como Django y Flask, pero donde gran parte del procesamiento que se hacía era asíncrono.
+
+Mientras que en el backend tenemos APIs y solicitudes (Body, Middleware APIs, Responses), en Machine Learning tenemos pipelines (ETLs, Trainings y Predictions). Aquí me gustaría hacer una analogía y mostrar que en realidad son similares pero los contextos son los que realmente cambian.
+
+Algo que aprendí en ambos roles es que el desarrollo es importante, pero el mantenimiento y la calidad de lo que desarrollamos es mucho más importante. Voy a mencionar algunos conceptos de calidad y mantenimiento para cada contexto para que el público se sienta familiarizado y pueda ver lo interesantes que son ambos mundos, también nombrando específicamente algunas bibliotecas y herramientas pythonicas que soportan esta fase (Cloud tools, MyPy, Pylint, Scipy, Jupyter Labs).
+
+Como cierre de la charla me gustaría mencionar que me encantan ambos roles y hay muchas cosas por aprender, sigo aprendiendo sobre patrones de diseño, buenas prácticas, investigación sobre temas y me doy cuenta cada día, que estar en una comunidad como Python hace que este trabajo sea increíble todo el tiempo. Definitivamente en mi corta experiencia puedo decir que tengo lo mejor de ambos mundos.",https://i.ytimg.com/vi/aNFbEGoUN9E/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=aNFbEGoUN9E,https://www.youtube.com/watch?v=aNFbEGoUN9E
+17,Pamela Bustamante - Optimización Matemática con Python,https://www.youtube.com/watch?v=UOjB89f5n2c,UOjB89f5n2c,Python España,@PythonES,https://www.youtube.com/@PythonES,20221022,1967,1803,62,2.0,,Entertainment,"Ponente: Pamela Alejandra Bustamante Faúndez
+Título: Optimización Matemática con Python
+Aula: Teoría 7 (Domingo)
+--------------------------------------
+Resumen:
+La optimización matemática es la selección de la mejor alternativa con respecto a algún criterio, entre un conjunto de opciones candidatas.
+
+Existen múltiples aplicaciones de optimización matemática. Por ejemplo, en optimización de carteras de inversión se busca la mejor manera de invertir un capital, dadas diferentes alternativas. En este caso, un problema de optimización nos permitirá elegir una cartera que minimice el riesgo (o maximice la ganancia), entre todas las asignaciones posibles que cumplan con los requisitos definidos.
+
+En la mayoría de los casos, la optimización matemática se utiliza como herramienta para facilitar la toma de decisiones. En ocasiones, estas decisiones pueden ser tomadas automáticamente en tiempo real.
+
+En esta charla se explorará cómo formular y solucionar problemas de optimización matemática con Python, utilizando diferentes librerías de optimización.",https://i.ytimg.com/vi/UOjB89f5n2c/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=UOjB89f5n2c,https://www.youtube.com/watch?v=UOjB89f5n2c
+18,Inés Huertas - MLOps con MLFlow,https://www.youtube.com/watch?v=7bprXk5_Wkk,7bprXk5_Wkk,Python España,@PythonES,https://www.youtube.com/@PythonES,20221022,2263,4178,139,4.0,,Entertainment,"Ponente: Inés Huertas
+Títutlo: MLOps con MLFlow
+Aula: Paraninfo (Sábado)
+-----------------------------
+Resumen:
+Veremos como con herramientas Open Source como MLFLow podemos gestionar el ciclo de vida de los modelos de Machine Learning que desarrollemos.
+
+La puesta en marcha, mantenimiento y operativización de los modelos de machine learning es algo que debemos hacer para asegurarnos de que el algoritmo desarrollado por un lado sea lo más eficiente posible y por otra parte sea sencillo de desarrollar e integrar en un ciclo de desarrollo y despliegue continuo.
+Herramientas como MLFlow, un software Open Source, nos permiten poder llevar a cabo estas tareas de una forma sencilla desde Python que durante la sesión veremos como funciona.",https://i.ytimg.com/vi/7bprXk5_Wkk/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=7bprXk5_Wkk,https://www.youtube.com/watch?v=7bprXk5_Wkk
+19,"Nerea Luis - ""Computer says no""",https://www.youtube.com/watch?v=aqEqozCcgLQ,aqEqozCcgLQ,Python España,@PythonES,https://www.youtube.com/@PythonES,20221022,2037,242,5,,,Entertainment,"Ponente: Nerea Luis
+Título: ""Computer says no""
+Aula: Paraninfo (Sábado)
+------------------------------
+Resumen:
+Te pongo en situación: es 2004 y en la televisión británica se hace famosísimo un sketch llamado ""Computer Says No"" en un programa de humor llamado Little Britain (https://www.youtube.com/watch?v=0n_Ty_72Qds). Yo aún ni había empezado mi carrera como ingeniera por aquel entonces, como para saber qué era todo lo que estaba por venir... En el sketch se reían de la respuesta que daba el ordenador de atención al cliente a un paciente por haber gestionado mal la cita en el sistema. No le podían atender y no podían hacer nada al respecto.
+
+Han pasado 18 años de esa escena y seguimos con un panorama parecido, solo que ahora hablamos de ""algoritmos"" en vez de ""ordenadores"". Los modelos de inteligencia artificial se empiezan a aplicar en sectores como salud, empleo, administración pública, educación, justicia, fabricación... ¿qué harías como ciudadano si el sistema asesorado por una Inteligencia Artificial te dice ""que no"" a una ayuda, a un trámite, a un trabajo, a un crédito? ¿qué derechos tienes como ciudadano para reclamar?... un momento... ¿se puede reclamar a un algoritmo? ¿qué regulación existe? Y nosotros los técnicos... ¿qué mecanismos de transparencia podemos aplicar en nuestros desarrollos? ¿nos va a afectar esto? ¿nos van a pedir que enseñemos el código?
+
+En 30 minutos y utilizando un tono divulgativo intentaré dar una panorámica concisa y global del estado actual de la regulación de la Inteligencia Artificial en la Unión Europea. Hablaremos de qué esperar en el corto plazo, qué hacer como desarrolladores (y como ciudadanos) y qué sectores parece que van a ser los más ""afectados"".",https://i.ytimg.com/vi/aqEqozCcgLQ/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=aqEqozCcgLQ,https://www.youtube.com/watch?v=aqEqozCcgLQ
+20,Marina Moro - Biohacking con Python,https://www.youtube.com/watch?v=wfTLAn2fLuQ,wfTLAn2fLuQ,Python España,@PythonES,https://www.youtube.com/@PythonES,20221022,1373,669,37,1.0,,Entertainment,"Ponente: Marina Moro López
+Título: Biohacking con Python
+Aula: Paraninfo (Sábado)
+---------------------
+Resumen:
+¿Te gustaría convertirte en el señor Burns fluorescente (sí, ese de los Simpson que dice ‘os traigo amor’)? Con el experimento de biohacking de esta ponencia podrás conseguirlo en tu propia casa; tan sólo necesitas un kit comprado por internet y un script de Python de mi GitHub. ¿Empezamos?
+
+La charla abrirá con una breve introducción al biohacking, seguida por una mini clase (súper leve, lo prometo) de teoría genética con el propósito de entender perfectamente la metodología del caso práctico. Éste es el verdadero centro de la charla y consistirá en editar nuestro propio ADN con CRISPR (una herramienta de corte y empalme biológico) y un script de Python (que diseñará las secuencias genéticas necesarias para el experimento) para biohackearnos ciertos genes y convertirnos en el señor Burns fluorescente. Todo esto nos servirá para ver el tremendo potencial de la sinergia entre la ingeniería genética y Python, no sólo en ejemplos cómicos como el ya mencionado, sino también en el ámbito sanitario como tratamiento de enfermedades.",https://i.ytimg.com/vi/wfTLAn2fLuQ/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=wfTLAn2fLuQ,https://www.youtube.com/watch?v=wfTLAn2fLuQ
+21,Iris Núñez - Pandas usó de index contra dataframe gigantes ¡Es muy efectivo!,https://www.youtube.com/watch?v=8Pd98FMF7Yc,8Pd98FMF7Yc,Python España,@PythonES,https://www.youtube.com/@PythonES,20221022,1753,699,23,,,Entertainment,"Ponente: Iris Núñez
+Título: Pandas usó de index contra dataframe gigantes ¡Es muy efectivo!
+Aula: Paraninfo (Domingo)
+--------------------------
+Resumen:
+¿Y si te dijera que puedes reducir los tiempos de procesado de ese dataframe enorme usando un índice?
+Pues no solo te lo digo, sino que te lo demuestro.
+
+Por experiencia, el tratamiento de datos se puede ir de las manos, es muy fácil que la cantidad de datos sea muy grande y los tiempos desorbitados. Por eso el índice de Pandas puede convertirse en un gran amigo.
+La charla se basa en demostrar cómo mejora considerablemente la velocidad de procesado en pandas haciendo dos pequeños pasos: añadir un índice y ordenar por él mismo.
+Igualmente, se utilizará Pandas tutor para mostrar visualmente lo que el programa está haciendo por debajo.",https://i.ytimg.com/vi/8Pd98FMF7Yc/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=8Pd98FMF7Yc,https://www.youtube.com/watch?v=8Pd98FMF7Yc
+22,Bea Hernández - Explicabilidad local: ¿cómo interpreto la predicción?,https://www.youtube.com/watch?v=7f0VcOsb-2o,7f0VcOsb-2o,Python España,@PythonES,https://www.youtube.com/@PythonES,20221022,2084,89,3,,,Entertainment,"Ponente: Bea Hernández
+Título: Explicabilidad local: ¿cómo interpreto la predicción?
+Aula: Teoría 6 (Domingo)
+------------------------------------------
+Resumen:
+Admitámoslo, a todos nos gustaría saber si a nuestro modelo se le ha ido la bola. O al menos poder poner dar una explicación cuando se le va. Una de las herramientas más útiles para hacer esto es la explicabilidad local. Aunque no le pongas nombre seguramente hayas usado la explicabilidad global del modelo anteriormente, como el método ""feature importance"" de los árboles. La explicabilidad local sin embargo, nos da herramientas para entender una predicción, para saber qué características han influído más y sacar conclusiones respecto al resultado.
+
+Para empezar, ¿de qué hablamos cuando hablamos de explicabilidad?
+Además veremos que hay modelos que son explicables y otros que no. Esto quiere decir que hay modelos cuyas predicciones se pueden decomponer y otros que no.
+Para estos últimos veremos herramientas, y como es la Pycon veremos librerías en Python, para aplicar algoritmos que nos den esta descomposición de las predicciones como SHAP o LIME.
+Como bonus track hablaré de un paper escrito por Ángel Delgado y por mí que hace del Gradient Boosting un modelo explicable.
+Al final de la charla espero que tengas las suficientes herramientas para aplicar explicabilidad local en tus modelos.",https://i.ytimg.com/vi/7f0VcOsb-2o/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=7f0VcOsb-2o,https://www.youtube.com/watch?v=7f0VcOsb-2o
+23,Martina Kienberger - Análisis de encuestas con Python,https://www.youtube.com/watch?v=C9TxepawzAw,C9TxepawzAw,Python España,@PythonES,https://www.youtube.com/@PythonES,20221022,2040,955,33,,,Entertainment,"Ponente: Martina Kienberger
+Título: Análisis de encuestas con Python
+Aula: Paraninfo (Domingo)
+------------------------
+Resumen:
+En muchos campos científicos, las encuestas son una importante herramienta de investigación. Utilizando Python, tenemos acceso a una gran variedad de librerías que nos facilitan el análisis de los datos recogidos, ya sean respuestas a preguntas cerradas o texto libre. ¡Vamos a conocer algunas de ellas!
+
+En mi charla daré una visión general de cómo se pueden usar diferentes librerías de Python para el análisis de encuestas con preguntas cerradas y abiertas. Para ello me basaré en mi experiencia con un proyecto de investigación sobre estrategias de aprendizaje en Filología. En este proyecto utilizé las siguientes librerías: Pandas, NumPy, Scipy, Scikit-learn, ELI5, SpaCy, Matplotlib, Seaborn... Los análisis llevados a cabo fueron, entre otros: análisis descriptivo, análisis de correlaciones, clustering, análisis de texto libre básico.
+
+Estructura de la charla:
+1. Crear encuestas - Algunos puntos a considerar
+2. Mi proyecto de investigación
+3. Pasos en el análisis
+4. Herramientas",https://i.ytimg.com/vi/C9TxepawzAw/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=C9TxepawzAw,https://www.youtube.com/watch?v=C9TxepawzAw
+24,"Francis Santiago - Open your mind!, no soy programadora pero uso Python",https://www.youtube.com/watch?v=1_Z7gvpWTT0,1_Z7gvpWTT0,Python España,@PythonES,https://www.youtube.com/@PythonES,20221022,1283,396,30,2.0,,Entertainment,"Ponente: Francis Santiago
+Título: Open your mind!, no soy programadora pero uso Python
+Aula: Teoría 6 (Domingo)
+--------------------------------
+Resumen:
+En esta charla tendrás la oportunidad de conocer cómo es el día a día de las personas que trabajamos como SRE bajo una cultura DevOps.
+
+¿Tienes curiosidad de saber por qué cada vez es más esencial saber sobre Python para aquellas personas que trabajan como SRE, bajo una cultura DevOps?.
+Te invito a una charla algo peculiar sobre: cómo utilizó ahora mismo Python dentro de mi día a día, y cómo se puede adaptar fácilmente a los procesos internos de automatización, generando de esta manera una sinergia increíble.
+¡No es necesario saber mucho de programación! solo Open your mind, e incursiona en el mundo DevOps que ahora mismo está dando mucho de qué hablar.
+¡No te la pierdas! y Únete a esta maravillosa experiencia.",https://i.ytimg.com/vi/1_Z7gvpWTT0/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=1_Z7gvpWTT0,https://www.youtube.com/watch?v=1_Z7gvpWTT0
+25,Elena Guidi - Salvemos los pingüinos con el green computing,https://www.youtube.com/watch?v=FA6VzX36DwU,FA6VzX36DwU,Python España,@PythonES,https://www.youtube.com/@PythonES,20221022,2047,132,5,,,Entertainment,"Ponente: Elena Guidi
+Título: Salvemos los pingüinos con el green computing
+Aula: Teoría 6 (Domingo)
+------------------------------
+Resumen:
+¿Qué podemos hacer en nuestro día a día para salvar al planeta?
+
+Vamos a ver una introducción al Green Computing y que podemos hacer cotidianamente para aportar nuestro granito de arena al medioambiente.
+
+Vamos a ver una introducción al Green Computing y que podemos hacer cotidianamente para aportar nuestro granito de arena al medioambiente.
+
+""Green computing"" es un término que nació en 1992 y que busca reducir el impacto ambiental de las actividades digitales.
+
+En esta charla vamos a ver que es el green computing (también llamada computación verde) y que estudia esta área de la informática, con algunos ejemplos de mejoras de data centers.
+
+También vamos a ver algunas cosas que podemos hacer en nuestro día a día y una introducción al el green programming con python (o codificación ecológica)
+
+La tecnología tiene un potencial muy alto de ayudar al medio ambiente, ¡el objetivo de esta charla es que todos lo sepamos!",https://i.ytimg.com/vi/FA6VzX36DwU/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=FA6VzX36DwU,https://www.youtube.com/watch?v=FA6VzX36DwU
+26,Irene y Javier - Home is where your Assistant is written in Python,https://www.youtube.com/watch?v=RVXpN2nMOcU,RVXpN2nMOcU,Python España,@PythonES,https://www.youtube.com/@PythonES,20221022,1735,78,1,,,Entertainment,"Ponente: Irene Pérez Encinar y Javier Torres Niño
+Título: Home is where your Assistant is written in Python
+Aula: Teoría 6 (Domingo)
+----------------------------------------
+Resumen:
+¿Y si tu Alfred particular se llamara Ada y fuera una Raspberri Pi? ¿Te gustaría tener una casa ""inteligente"" donde las bombillas se encendieran al entrar o pudieras ajustar la temperatura desde cualquier sitio con tu móvil? En esta charla os contaremos cómo hacerlo con Home Assistant, una plataforma escrita en Python y muy sencilla de utilizar.
+
+Home Assistant es una plataforma para automatizaciones domóticas escrita en Python. Tiene cientos de integraciones con distintos ""cacharritos IoT"" y, en el extraño caso de que no tenga el que necesitas, es muy fácilmente extensible. En esta charla trataremos:
+- ¿Qué es Home Assistant? ¿Para qué sirve?
+- Cómo crear una integración
+- Cómo escribir automatizaciones basadas en reglas y cómo hacerlo con Python
+
+Y, siempre que el efecto demo lo permita, os enseñaremos algunos ejemplos con hardware real.",https://i.ytimg.com/vi/RVXpN2nMOcU/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=RVXpN2nMOcU,https://www.youtube.com/watch?v=RVXpN2nMOcU
+27,Charlas relámpago,https://www.youtube.com/watch?v=craN6YkhUaA,craN6YkhUaA,Python España,@PythonES,https://www.youtube.com/@PythonES,20221022,2760,406,12,,,Entertainment,,https://i.ytimg.com/vi/craN6YkhUaA/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=craN6YkhUaA,https://www.youtube.com/watch?v=craN6YkhUaA
+28,Victor Suarez - Pyxel: Los 8 bits Retro Pythoneros,https://www.youtube.com/watch?v=Z6-eGh3KJyA,Z6-eGh3KJyA,Python España,@PythonES,https://www.youtube.com/@PythonES,20221022,2022,682,28,2.0,,Entertainment,"Ponente: Victor Suarez
+Título: Pyxel: Los 8 bits Retro Pythoneros
+Aula: Teoría 8 (Domingo)
+------------------------------------------------------------------
+Resumen:
+Es hora de volver a ver esos grandes títulos de 8 bits que tanto nos han gustado; pero esta vez con un toque de Python. Pyxel esta aqui para poder crear nuestro juego de forma sencilla y con todas las herramientas integradas. ¡Todo con toque retro!
+
+En esta charla, vamos a conocer pyxel. Un pequeño motor que nos ayudara a crear videojuegos de estetica 8 bits con 16 colores de forma muy sencilla. Nos permite crear nuestros juegos y gestionar todos los recursos ya que trae herramientas como gestion de mapas, sprites, sonido,etc..
+
+En esta charla veremos como crear un juego desde cero y como al final tendremos nuestro juego funcionando de forma muy sencilla. Y por supuesto totalmente retro. Si de pequeño disfrutabas de los juegos de NES, Spectrum y muchos mas del mundo de los 8 bits, esta es tu charla. Tanto para aquellos que comienzan como para los que ya tienen experiencia con herramientas como PICO-8, esta charla les ayudara a comprender y conocer Pyxel.
+
+Puedes conocer pyxel y ver ejemplos en su repositorio:
+
+https://github.com/kitao/pyxel
+
+Con pyxel, te sorprenderas lo fácil que es hacer un videojuego con todas las características de una máquina de 8 bits, y todo por supuesto con python.",https://i.ytimg.com/vi_webp/Z6-eGh3KJyA/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=Z6-eGh3KJyA,https://www.youtube.com/watch?v=Z6-eGh3KJyA
+29,Enrique Catalá - Despliega tu red neuronal python con FastAPI en kubernetes,https://www.youtube.com/watch?v=kTjBsHFGTBU,kTjBsHFGTBU,Python España,@PythonES,https://www.youtube.com/@PythonES,20221022,2140,354,10,,,Entertainment,"Ponente: Enrique Catalá
+Título: Despliega tu red neuronal python con FastAPI en kubernetes
+Aula: Teoría 8 (Sábado)
+------------------------------------------
+Resumen:
+FastAPI es una excelente elección a la hora de desplegar RESTApi. En esta sesión vamos a ver cómo podemos generar soluciones de despliegue de redes neuronales con FastAPI production ready. Veremos cómo hacer nuestra solución, poder depurarla usando docker y visual studio code y cómo desplegarlas con helm en nuestros clusteres kubernetes. Si te gusta el mix AI, python y kubernetes, esta es tu sesión.",https://i.ytimg.com/vi/kTjBsHFGTBU/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=kTjBsHFGTBU,https://www.youtube.com/watch?v=kTjBsHFGTBU
+30,Javier y Manuel - Streamlit and Snowpark...when Python meets Snowflake,https://www.youtube.com/watch?v=pI33M2Qhyk0,pI33M2Qhyk0,Python España,@PythonES,https://www.youtube.com/@PythonES,20221022,2599,396,12,,,Entertainment,"Ponente: Javier y Manuel
+Título: Streamlit and Snowpark...when Python meets Snowflake
+Aula: Teoría 8 (Domingo)
+------------------------------------------
+Resumen:
+Estamos viviendo un auge de las plataformas cloud que facilitan y simplifican el almacenamiento, tratamiento y análisis de datos. Snowflake es una plataforma SaaS potente y fácil de usar que está adquiriendo una gran presencia en el mercado en proyectos muy diversos, permitiendo implementar arquitecturas tipo lakehouse (datawarehouse + data lake) de forma segura y escalable.
+¿Y qué tiene que ver esto con Python?
+
+La plataforma Snowflake ofrece capacidades para realizar analítica avanzada (estilo Spark) y para el desarrollo ágil de aplicaciones analíticas mediante código. En ambos casos Python juega un papel fundamental.
+
+En esta sesión explicaremos en detalle Snowpark y Streamlit... cómo funcionan, cual es su utilidad y ventajas y para ello enseñaremos ejemplos desarrollados con Python.",https://i.ytimg.com/vi/pI33M2Qhyk0/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=pI33M2Qhyk0,https://www.youtube.com/watch?v=pI33M2Qhyk0
+31,Zerjillo y Javier - Control de dispositivos astronómicos con Python,https://www.youtube.com/watch?v=ol9ICBMWOOg,ol9ICBMWOOg,Python España,@PythonES,https://www.youtube.com/@PythonES,20221022,2219,118,8,,,Entertainment,"Ponente: Zerjillo y Javier Flores Martín
+Títutlo: Control de dispositivos astronómicos con Python
+Aula: Teoría 8 (Sábado)
+-------------------------------------------------
+Resumen:
+El mundo de la astronomía (particularmente el de la astronomía amateur) ha sufrido una revolución en los últimos años con la aparición de multitud de dispositivos que ayudan a la captura de imágenes astronómicas: monturas computerizadas que permiten apuntar al objeto celeste que queremos fotografiar, cámaras CCD, enfocadores automáticos, ruedas portafiltros, etc.
+
+El control de dichos dispositivos se suele llevar a cabo con software especializado que permite el control y programación de dichos dispositivos. Sin embargo en ocasiones puede que necesitemos una funcionalidad que no esté presente en dichos programas.
+
+En esta propuesta mostramos como se pueden controlar gran cantidad de dispositivos astronómicos (tanto comerciales como DIY) desde Python, con lo que las posibilidades de crear nuevas funcionalidades automáticas para nuestro equipo astronómico aumentan exponencialmente.
+
+Para conseguir el control de nuestros dispositivos utilizaremos el protocolo de comunicación INDI que facilita el control de dispositivos mediante intercambios de mensajes en XML entre nuestro programa (el cliente) y un servidor al que están conectados nuestros aparatos (puede ser la misma máquina).
+
+En la propuesta se hará una demostración en vivo del control de varios dispositivos astronómicos con nuestros propios scripts (con el riesgo que conllevan las demostraciones en directo).",https://i.ytimg.com/vi/ol9ICBMWOOg/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=ol9ICBMWOOg,https://www.youtube.com/watch?v=ol9ICBMWOOg
+32,Alberto Vara - SegmentationFault Fest,https://www.youtube.com/watch?v=bYXYZAAKYXg,bYXYZAAKYXg,Python España,@PythonES,https://www.youtube.com/@PythonES,20221022,1871,87,7,,,Entertainment,"Ponente: Alberto Vara
+Títutlo: SegmentationFault Fest
+Aula: Teoría 8 (Sábado)
+----------------------------------------
+Resumen:
+En este festival veraniego podremos pasar una buena tarde escuchando temazos como:
+“LOS MENTIROSOS - migrar de Python a C es fácil”
+“BUGALÍA - interrupted by signal 11:SIGSEGV”
+“C-ME-TANGANA - Doble puntero papi”
+“Py-perrak - Cualquier día puede compilar”
+
+Compis, hagamos un trato: yo me voy a desahogar contando mis penas que he pasado todo
+este 2022 migrando una aplicación de Python a C++ y vosotros podréis ver programación en
+directo.
+
+Veremos cómo resolver problemas habituales de performance y cómo usar Cython para
+mejorar el rendimiento de una aplicación. Como alternativa, cómo utilizar código nativo en C++
+usando Cython como pegamento entre los dos lenguajes.
+
+Pero no todo será tan sencillo. Muchas cosas estallarán, se romperán… Resolveremos estos
+problemas de integración analizando las ejecuciones de nuestro código generando flamegraphs
+con py-spy, CProfile… y si no encontramos la solución tiraremos de gdb para analizar
+problemas y no morir de desesperación en el intento. ¿Trato?
+
+Presentación y repositorio: https://github.com/avara1986/python-talks/tree/main/2022_10_pycones",https://i.ytimg.com/vi/bYXYZAAKYXg/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=bYXYZAAKYXg,https://www.youtube.com/watch?v=bYXYZAAKYXg
+33,Juan Luis Cano - Más allá de pandas: comparativa de dataframes en Python,https://www.youtube.com/watch?v=WgLtYLzEXzQ,WgLtYLzEXzQ,Python España,@PythonES,https://www.youtube.com/@PythonES,20221022,2093,770,24,,,Entertainment,"Ponente: Juan Luis Cano
+Título: Más allá de pandas: comparativa de dataframes en Python
+Aula: Teoría 8 (Domingo)
+-----------------------------------------
+Resumen:
+La biblioteca pandas ha sido uno de los factores decisivos para el crecimiento de Python en la década pasada dentro de la industria del análisis de datos y continúa ayudando a data scientists a resolver problemas 15 años después de su creación. Gracias a su éxito, ahora hay varios proyectos open-source que afirman mejorar pandas de diversas maneras: en esta charla haremos un repaso de dichas alternativas.
+
+Durante la charla
+
+Haremos una breve introducción a pandas, hablaremos de su importancia, y señalaremos algunas de sus limitaciones, como ya hizo su autor hace un lustro (https://wesmckinney.com/blog/apache-arrow-pandas-internals/).
+Enumeraremos algunas de sus alternativas y las clasificaremos (pandas-like o diferente, nodo único vs distribuido). Mencionaremos RAPIDS, Dask, Modin, y Spark por encima.
+Mostraremos fragmentos de código de Arrow, Vaex, y Polars a través de notebooks de Jupyter almacenados en Orchest Cloud y hablaremos de los puntos fuertes de las bibliotecas anteriores.
+Concluiremos dando una serie de pautas para elegir un proyecto u otro en función del caso y las necesidades.
+Al final de la charla la audiencia tendrá más información de cómo algunas de las alternativas modernas a pandas encajan dentro del ecosistema, entenderá cuáles proveen un camino para migrar más sencillo, y estará más preparada para juzgar cuál usar para próximos proyectos.
+
+Conocimientos básicos de pandas ayudarán a entender el resto de la presentación.
+
+Los materiales de la charla se encuentran en GitHub (https://github.com/astrojuanlu/talk-dataframes), y una serie de artículos de blog desarrollan los conceptos que se verán durante la charla:
+
+Arrow
+Vaex
+Polars",https://i.ytimg.com/vi/WgLtYLzEXzQ/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=WgLtYLzEXzQ,https://www.youtube.com/watch?v=WgLtYLzEXzQ
+34,José Carlos Calvo Tudela - Optimización de rendimiento de una API usando DRF,https://www.youtube.com/watch?v=-cKnzazAZ5c,-cKnzazAZ5c,Python España,@PythonES,https://www.youtube.com/@PythonES,20221022,1426,354,21,,,Entertainment,"Ponente: José Carlos Calvo Tudela
+Títutlo: Optimización de rendimiento de una API usando DRF
+Aula: Teoría 8 (Domingo)
+-----------------------------------------
+Resumen:
+Django Rest Framework (DRF) nos facilita la creación de APIs mediante una filosofía ""muy Django"" es decir, con muchos elementos que hacen cosas de forma automática. Gracias a DRF podemos crear APIs de forma rápida y mantenible. El problema llega cuando dicha API se empieza a usar de forma masiva, y empiezan a surgir los primero problemas de rendimiento. Veremos cuales son esos problemas, y varias alternativas para solucionarlos, teniendo en cuenta que en general la mantenibilidad y el rendimiento suelen ir enfrentados.",https://i.ytimg.com/vi/-cKnzazAZ5c/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=-cKnzazAZ5c,https://www.youtube.com/watch?v=-cKnzazAZ5c
+35,Manuel Calzado Vidal - Feature Flags. Stay in Control,https://www.youtube.com/watch?v=zoV-L2rgWdk,zoV-L2rgWdk,Python España,@PythonES,https://www.youtube.com/@PythonES,20221022,1901,156,4,,,Entertainment,"Ponente: Manuel Calzado Vidal
+Título: Feature Flags. Stay in Control
+Aula: Teoría 7 (Sábado)
+--------------------------------------
+Resumen:
+This talk aims to teach from scratch the concept of Feature Flags. How we have used it intuitively in those settings files, keeping boolean variables, how frameworks like Django manage in a more advanced way, for example permission levels and how finally, there are very powerful ways to deploy without activating any logic, do A/B deployment, incremental, ... deactivate features if you have any problem, with a click, without changing code or deploy...
+
+We live in a world of continuous delivery, with constant monitoring, logging...
+Feature flags are variables that are used within logical conditions. Imagine storing the rules that define the value of those feature flags outside your system, in a place where you can enable, limit or completely disable the use of a part of your application, from outside your own code.
+
+- Deploy the logic on a Friday... but enable it on Monday, giving incremental access to your users.
+- Block payments from a country or from a payment platform.
+- Change which class implements an interface as you need...
+
+Feature flags vs Blue / Green
+Feature flags vs Configuration management",https://i.ytimg.com/vi/zoV-L2rgWdk/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=zoV-L2rgWdk,https://www.youtube.com/watch?v=zoV-L2rgWdk
+36,Vasja Urbancic - Fail Fast MLOps: Lessons learned from deploying ML solutions in production,https://www.youtube.com/watch?v=A9bLWPX6SIE,A9bLWPX6SIE,Python España,@PythonES,https://www.youtube.com/@PythonES,20221022,1997,96,1,,,Entertainment,"Ponente: Vasja Urbancic
+Título: Fail Fast MLOps: Lessons learned from deploying ML solutions in production
+Aula: Teoría 7 (Sábado)
+----------------------------------------
+Resumen:
+In this talk, we will share some of the lessons we have learned over the last 4 years that we have been developing ML solutions, and deploying and maintaining them in production in real enterprise operations.
+
+With regard to ML solution development, we will share our insights so far on overcoming some challenges that we have seen commonly arise in a process typically driven by iterative experimentation within a team, focusing above all on achieving high levels of traceability and reproducibility. Combining various common MLOps best practices such as versioning data and models together with code, as well as tracking experiments, we have set up a methodology that makes it practically impossible for team members to evade conducting their work in a highly reproducible way, at the same time as providing flexibility for rapid experimentation.
+
+When it comes to deployment, the MLOps practices that have served us particularly well are the principles of early and controlled deployment (shadow mode, canary and blue-green deployments), the careful definition of key business and technical metrics, and an obsessive focus on observability and monitoring. We will also touch upon some non-technical challenges that we have commonly encountered along the way.
+
+Aside from sharing our own experiences and lessons learned, we would like to encourage a constructive discussion with the community, drawing on the wide experience of the community to continue to evolve best practices in the field.",https://i.ytimg.com/vi/A9bLWPX6SIE/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=A9bLWPX6SIE,https://www.youtube.com/watch?v=A9bLWPX6SIE
+37,Gerard - Escalado transparente de aplicaciones python en el cloud con Lithops,https://www.youtube.com/watch?v=yYymuSb8SkE,yYymuSb8SkE,Python España,@PythonES,https://www.youtube.com/@PythonES,20221022,2251,83,1,,,Entertainment,"Ponente: Gerard
+Título: Escalado transparente de aplicaciones python en el cloud con Lithops
+Aula: Teoría 7 (Sábado)
+--------------------------------------
+Resumen:
+En esta charla, presentamos Lithops, un poderoso framework de computación distribuida multinube de Python, el cual permite escalar de forma transparente aplicaciones Python locales y multiproceso usando cantidades masivas de recursos en la nube. Demostraremos cómo las aplicaciones multiprocessing de Python se pueden migrar de forma transparente a la nube, logrando un mejor rendimiento sin la necesidad de modificar el código.
+
+También mostraremos cómo se puede usar para escalar masivamente aplicaciones paralelas como el procesamiento de imágenes geoespaciales, reduciendo significativamente el tiempo de ejecución.",https://i.ytimg.com/vi/yYymuSb8SkE/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=yYymuSb8SkE,https://www.youtube.com/watch?v=yYymuSb8SkE
+38,Unai - Derechos o mesas de ping pong,https://www.youtube.com/watch?v=rGD8ZA09-O4,rGD8ZA09-O4,Python España,@PythonES,https://www.youtube.com/@PythonES,20221022,1571,250,6,1.0,,Entertainment,"Ponente: Unai
+Títutlo: Derechos o mesas de ping pong
+Aula: Teoría 7 (Domingo)
+-----------------------------------------
+Resumen:
+Las personas que trabajamos en el ámbito del desarrollo software estamos rodeados de privilegios y unas condiciones de trabajo y vida anacrónicas con el resto de la sociedad. Y en lugar de usar esta situación para conquistar derechos, nos conformamos con que las empresas nos den algunas migajas. Esto tiene que cambiar y aquí vamos a hablar de cómo hacerlo.
+
+En esta charla exploraremos desde un punto de vista laboral, económico, social y político la posición que ocupamos en la sociedad y la evolución previsible de esa situación. Se hablará de que prácticamente ninguna de las excelentes condiciones laborales que tenemos están recogidas en un convenio y como nuestra situación puede cambiar antes de que no demos cuenta por lo que tenemos la obligación y necesidad de ponernos manos a la obra para conquistar todos estos derechos.",https://i.ytimg.com/vi/rGD8ZA09-O4/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=rGD8ZA09-O4,https://www.youtube.com/watch?v=rGD8ZA09-O4
+39,Israel y Francesco - Django Zero Downtime Migrations,https://www.youtube.com/watch?v=9QfZvlSTiSg,9QfZvlSTiSg,Python España,@PythonES,https://www.youtube.com/@PythonES,20221022,1856,251,6,,,Entertainment,"Ponente: Israel Saeta Pérez y Francesco Venneri
+Títutlo: Django Zero Downtime Migrations
+Aula: Teoría 7 (Sábado)
+----------------------------------------
+Resumen:
+Building an application with Django is fairly easy at the beginning because the framework provides stable solutions for many of the issues that every engineer deals with. But when things start to get bigger and complex, we can’t ignore what happens behind the scenes. We often need to “tweak” the standard behavior to comply with our exigencies.
+
+How do we perform changes on a database with Django? We use what is known in the framework as “migrations”. We will see the basics of what they are, how they work and focus on their risks: they can be painful, lock tables and generate failed requests and downtime for the end users.
+
+We will then show the solution we have adopted in TravelPerk to perform migrations in the safest way possible without impacting the availability of our systems. An approach we call “Zero Downtime Migrations”.",https://i.ytimg.com/vi/9QfZvlSTiSg/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=9QfZvlSTiSg,https://www.youtube.com/watch?v=9QfZvlSTiSg
+40,Juan Jose y Victor - ¿Qué hay de nuevo en Python 3.11? (open space),https://www.youtube.com/watch?v=tvl5lfqoJf0,tvl5lfqoJf0,Python España,@PythonES,https://www.youtube.com/@PythonES,20221022,2369,1972,64,7.0,,Entertainment,"Open Space
+Ponente: Juan Jose y Victor
+Títutlo: ¿Qué hay de nuevo en Python 3.11?
+Aula: Teoría 7 (Sábado)
+------------------------------------
+Resumen:
+La nueva versión de Python está a la vuelta de la esquina cargadita de novedades. Agrupación de excepciones, más velocidad, el nuevo módulo tomllib, novedades en el tipado... Comentamos qué trae de nuevo esta versión para todo el mundo y los más veteranos. ¡No te quedes atrás en lo nuevo de Python!",https://i.ytimg.com/vi/tvl5lfqoJf0/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=tvl5lfqoJf0,https://www.youtube.com/watch?v=tvl5lfqoJf0
+41,Juan Aragon - Demystifying stepping down. Reversing a career in Software,https://www.youtube.com/watch?v=nhGR_f_ApBA,nhGR_f_ApBA,Python España,@PythonES,https://www.youtube.com/@PythonES,20221022,1914,99,3,,,Entertainment,"Ponente: Juan Aragon
+Título: Demystifying stepping down. Reversing a career in Software
+Aula: Teoría 7 (Sábado)
+---------------------------------------
+Resumen:
+The industry tends to present career progression in a very structured way. It seems that progress is to move up in the career ladder. Is there a way down too?
+
+This is an inspirational talk about a career in Software. A journey that will show that a career in tech can be a dynamic and flexible path full of avenues to explore. I will talk about how I became an Engineering Manager and why I decided to step down to become an Individual Contributor.
+
+During this talk I will talk about how I became an Engineering Manager. What mistakes I made during my career and what I learned from them. I will talk about job satisfaction and what it means. Show what I have valued and why I took the decision to become an IC after 4 years as EM.
+I hope what I share will inspire people in different stages in their careers and show them that even when they think they are not advancing they are.",https://i.ytimg.com/vi/nhGR_f_ApBA/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=nhGR_f_ApBA,https://www.youtube.com/watch?v=nhGR_f_ApBA
+42,Ángel y Guillermo - Asegurando el tiro: intervalos de confianza para tus modelos de Machine Learning,https://www.youtube.com/watch?v=tuskhDN7VNk,tuskhDN7VNk,Python España,@PythonES,https://www.youtube.com/@PythonES,20221022,2271,441,9,,,Entertainment,"Ponente: Ángel Luengo y Guillermo Delgado Martínez
+Título: Asegurando el tiro: intervalos de confianza para tus modelos de Machine Learning
+Aula: Teoría 7 (Domingo)
+---------------------------------------
+Resumen:
+Comprender cómo funcionan y la ventaja de emplear los intervalos de confianza, intervalos de predicción y predicción por cuartiles a la hora de emplear modelos de ML para soluciones de negocio.
+
+A día de hoy son cada vez más las empresas que se apoyan en modelos y técnicas de Machine Learning y analítica avanzada para tomar sus decisiones de negocio. No hay duda de que los datos son el petróleo de esta nueva era y tomar decisiones basadas en ellos supone una ventaja competitiva considerable. No obstante siguen existiendo escenarios (fluctuación de la bolsa, precio de la energía y commodities ...) cuya gran complejidad hace que sea complicado de modelar hasta con los algoritmos más punteros.
+En estas situaciones la solución más viable suele pasar por cuantificar la incertidumbre del modelo o asignando unos intervalos de confianza en las predicciones para poder tomar decisiones de negocio más precisas.
+Esta charla plantea, a partir de un caso de uso en Python, entrar en el detalle de los conceptos de intervalo de confianza, intervalo de predicción y predicción basada en cuartiles. Para cada uno de los conceptos explicados se definirán las ventajas y desventajas de su empleo tanto a nivel de interpretabilidad como a nivel de coste computacional, focalizándose en el valor añadido aportado a la solución de negocio planteada.
+
+Librerías:
+- Xgboost: https://xgboost.readthedocs.io/en/stable/
+- Catboost: https://catboost.ai/
+- Lightgbm: https://lightgbm.readthedocs.io/en/v3.3.2/
+- Ngboost: https://github.com/stanfordmlgroup/ngboost
+- sklearn: https://scikit-learn.org/stable/
+
+Definiciones y referencias:
+- Ngboost: https://arxiv.org/abs/1910.03225
+- Regresión cuantílica: http://www.econ.uiuc.edu/~roger/research/rq/QRJEP.pdf
+- intervalo de credibilidad: https://en.wikipedia.org/wiki/Credible_interval
+- intervalo de confianza: https://es.wikipedia.org/wiki/Intervalo_de_confianza
+- intervalo de predicción: https://es.wikipedia.org/wiki/Intervalo_de_predicci%C3%B3n",https://i.ytimg.com/vi/tuskhDN7VNk/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=tuskhDN7VNk,https://www.youtube.com/watch?v=tuskhDN7VNk
+43,Victor - Inteligencia Artificial en Medicina: no es oro todo lo que reluce,https://www.youtube.com/watch?v=mUuZ_c7JQ8g,mUuZ_c7JQ8g,Python España,@PythonES,https://www.youtube.com/@PythonES,20221022,2773,649,19,1.0,,Entertainment,"Ponente: Victor
+Títutlo: Inteligencia Artificial en Medicina: no es oro todo lo que reluce
+Aula: Teoría 7 (Domingo)
+--------------------------------------
+Resumen:
+Las aplicaciones de inteligencia artificial en medicina están en boca de todos.
+No hay semana que no haya una publicación en los grandes medios que no presente un modelo que predice a la perfección una patología. La pregunta es, ¿cuánto de esto es cierto y cuánto no?
+En esta charla pretendo hablar de los modelos que funcionan y que realmente pueden ayudar al médico en su día a día y de aquellos que no.
+
+Hace 4 años presenté una charla en la PyConES sobre machine learning aplicado a cardiología. Justo entonces empezaba a trabajar en este mundo y todo me parecía maravilloso. No es que haya perdido esa ilusión del principio, pero sí me he dado cuenta, pasando más tiempo con médicos, de qué aplicaciones pueden ayudarles en su día a día y aquellas que son más de cara a la galería.
+En este charla quiero contar mi experiencia personal desarrollando aplicaciones de IA en el entorno clínico: los problemas y desafíos que me he encontrado, los éxitos y los fracasos.",https://i.ytimg.com/vi/mUuZ_c7JQ8g/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=mUuZ_c7JQ8g,https://www.youtube.com/watch?v=mUuZ_c7JQ8g
+44,Jorge Giménez - FAKE NEWS ALARM! Cómo detectar noticias falsas con redes neuronales recurrentes,https://www.youtube.com/watch?v=QK-bdGyb1tU,QK-bdGyb1tU,Python España,@PythonES,https://www.youtube.com/@PythonES,20221022,2258,421,13,2.0,,Entertainment,"Ponente: Jorge Giménez García
+Título: FAKE NEWS ALARM! Cómo detectar noticias falsas con redes neuronales recurrentes
+Aula: Paraninfo (Sábado)
+----------------------------------------
+Resumen:
+¿Cuánta información o noticias sueles ver en Twitter?
+¿De toda esa información con qué porcentaje de fiabilidad puedes decir que esa noticia sea real o falsa, es decir, que sea una Fake New?
+
+En esta charla, queremos mostrar los pasos básicos para resolver este problema de NLP, que aplicaremos en un tema del día a día. Además podemos llevar esto a otros problemas con un área similar.
+Abordaremos distintos análisis y visualizaciones sobre el vocabulario usado para poder distinguir las reales de las falsas.
+Con la ayuda de NLTK, Keras y TensorFlow usando una Red de Neuronas Recurrentes crearemos una inteligencia artificial capaz de identificar las Fake News.",https://i.ytimg.com/vi/QK-bdGyb1tU/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=QK-bdGyb1tU,https://www.youtube.com/watch?v=QK-bdGyb1tU
+45,"Fede - Faster Python, démosle alas a la serpiente",https://www.youtube.com/watch?v=02jTbMNcW9Y,02jTbMNcW9Y,Python España,@PythonES,https://www.youtube.com/@PythonES,20221022,1976,782,22,,,Entertainment,"Ponente: Fede
+Título: Faster Python, démosle alas a la serpiente
+Aula: Paraninfo (Sábado)
+----------------------------------
+Resumen:
+Todos dicen que, comparado con otros lenguajes, Python es rápido de escribir, pero no tan rápido en ejecución ¿qué opciones tenemos para hacer que corra más?
+
+En esta charla aprenderemos a medir el rendimiento de nuestros programas en Python y analizaremos de forma práctica diferentes opciones para hacer que un programa en Python se ejecute más rápido, desde correr sobre PyPy o compilar con Nuitka hasta integrar partes en C++ con Pybind11.
+
+En esta charla veremos primero algunas formas de medir el rendimiento de nuestras aplicaciones.
+
+Seguidamente probaremos diferentes estrategias para conseguir que se ejecute más rápido, viendo que dependiendo de nuestro caso de uso, unos nos encajarán más que otros. Entre ellos, principalmente veremos:
+
+PyPy: https://www.pypy.org/
+Nuitka: https://nuitka.net/
+Cython: https://cython.org/
+Pybind11: https://pybind11.readthedocs.io",https://i.ytimg.com/vi/02jTbMNcW9Y/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=02jTbMNcW9Y,https://www.youtube.com/watch?v=02jTbMNcW9Y
+46,Ramón Medrano - Cómo SRE utiliza Python para automatizar millones de máquinas y servicios,https://www.youtube.com/watch?v=XRkk3-qAi7M,XRkk3-qAi7M,Python España,@PythonES,https://www.youtube.com/@PythonES,20221022,1941,547,27,,,Entertainment,"Ponente: Ramón Medrano Llamas
+Título: Cómo SRE utiliza Python para automatizar millones de máquinas y servicios
+Aula: Paraninfo (Sábado)
+-----------------------------------------
+Resumen:
+En Google, ejecutamos más de 2 mil millones de contenedores nuevos en nuestra plataforma Borg cada semana: trabajos interactivos, procesamiento batch, one-shot, etc. La orquestación es muy importante cuando necesitamos desplegar una nueva versión de una stack, como como los servicios de autenticación, cuyo fallo puede hacer que la mayoría, si no todos, los productos de Google queden inutilizables. Necesitamos validar una nueva versión, realizar un análisis canary y desplegarla progresivamente en cientos de miles de máquinas en decenas de centros de datos en todo el mundo.
+
+Python es una herramienta central que usamos para esta multitud de propósitos. Tenemos cientos de años de ingeniería invertidos en herramientas de Python para administrar nuestros servicios. ¿Cómo evoluciona este código? ¿Cómo abordamos la mantenibilidad? ¿Cómo tratamos la optimización del rendimiento? Y la migración 2 a 3, ¿fue un dolor?
+
+Esta charla ofrecerá información detallada sobre todo lo que SRE ha utilizado Python durante la última década para administrar los servicios más importantes y críticos del planeta.",https://i.ytimg.com/vi/XRkk3-qAi7M/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=XRkk3-qAi7M,https://www.youtube.com/watch?v=XRkk3-qAi7M
+47,"Sergio León - Inyección de dependencias, fácil!",https://www.youtube.com/watch?v=5qHvzZFhR_0,5qHvzZFhR_0,Python España,@PythonES,https://www.youtube.com/@PythonES,20221022,1923,698,18,,,Entertainment,"Ponente: Sergio León
+Título: Inyección de dependencias, fácil!
+Aula: Paraninfo (Sábado)
+-------------------------------------
+Resumen:
+¿Parchear o inyectar? esa es la cuestión. Siguiendo el principio de inversión de dependencias (la D de SOLID) nuestra código será más mantenible, extensible y testeable. Es cierto que podemos hacer poor man's DI pero, con Dependency Injector, tenemos a nuestra disposición un framework de inyección de dependencias que nos hará la vida mucho más fácil.
+
+En esta charla se explicará primero las ventajas de seguir la D de SOLID para hacer un código mantenible y extensible.
+Después, veremos como cambia nuestro código y los tests, usando patch vs poor man's DI.
+Por último, usaremos Dependency Injector para mostrar como usar un contenedor y resolver las dependencias en el composition root.",https://i.ytimg.com/vi/5qHvzZFhR_0/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=5qHvzZFhR_0,https://www.youtube.com/watch?v=5qHvzZFhR_0
+48,Miguel F Alarcon - Introducción a la causalidad en Python,https://www.youtube.com/watch?v=sSbDW_NzS5s,sSbDW_NzS5s,Python España,@PythonES,https://www.youtube.com/@PythonES,20221022,1803,655,30,,,Entertainment,"Ponente: Miguel F Alarcon
+Título: Introducción a la causalidad en Python
+Aula: Paraninfo (Sábado)
+--------------------------
+Resumen:
+Todos sabemos que correlación no es igual a causalidad. La mayoría de modelos de Machine Learning en la actualidad buscan correlaciones de los datos con el objetivo. La causalidad viene como herramienta para identificar los factores que afectan al objetivo y de qué manera lo hacen.
+El objetivo de esta charla es proporcionar unos conocimientos básicos, así como las herramientas para poder solucionar problemas de inferencia y modelado causal en Python.
+
+En esta presentación explicaremos de forma práctica los conceptos y técnicas básicas de inferencia causal en python así como la relevancia que estas técnicas tienen para mejorar los procesos basados en machine learning.
+
+Las técnicas de inferencia causal y “causal discovery” nos permiten responder a preguntas para las que las técnicas de analítica predictiva y métodos de clasificación/regresión habituales no tienen respuestas. Básicamente nos permite responder usando datos observacionales a la pregunta de porqué se ha producido un determinado efecto, y como debería haber actuado para que se hubiera producido un efecto distinto.
+
+Por otro lado nos permiten comprender y corregir los efectos que tienen sobre nuestros sistemas predictivos el efecto de sesgos de selección y el efecto de construcción de modelos condicionados o balanceados sobre algún estrato.
+
+Los principios que nos permiten entender estos efectos permiten desarrollar modelos de aprendizaje explicables, permiten corregir sesgos indeseados, y otorga mayor robustez al desplazamiento de dominio (domain shift) en la aplicación de los modelos.
+
+En esta presentación explicaremos estos conceptos de forma práctica y para ello usaremos las librerias DoWhy y CausalML.
+
+Referencias:
+
+“Concept and Principles of Causality “, Miguel F. Alarcon, https://medium.com/hotel-tech-stories/concept-and-principles-of-causality-d687832d6f5d
+
+“The Book of Why.”. Pearl, Judea, and Dana Mackenzie.Harlow, England: Penguin Books. 2019.
+
+“Elements of Causal Inference, Foundations and Learning Algorithms”, Jonas Peters, Dominik Janzing and Bernhard Schölkopf.
+
+""A unified survey of treatment effect heterogeneitymodelling and uplift modelling"".W Zhang, J Li, L Liu - ACM Computing Surveys (CSUR), 2021
+
+“Introduction to Causal Inference course”, Brady Neal, https://www.bradyneal.com/causal-inference-course
+
+Paquetes Python:
+
+Microsoft DoWhy, https://github.com/py-why/dowhy
+Uber CausalML: https://github.com/uber/causalml",https://i.ytimg.com/vi/sSbDW_NzS5s/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=sSbDW_NzS5s,https://www.youtube.com/watch?v=sSbDW_NzS5s
+49,Pablo Galindo - Faster CPython project: Como estamos haciendo Python 3.11 más rápido,https://www.youtube.com/watch?v=94jLt3CX5Dc,94jLt3CX5Dc,Python España,@PythonES,https://www.youtube.com/@PythonES,20221022,2430,4987,257,13.0,,Entertainment,"Ponente: Pablo Galindo
+Título: Faster CPython project: Como estamos haciendo Python 3.11 más rápido
+Aula: Paraninfo (Domingo)
+-----------------------
+Resumen:
+Python 3.11 es entre un 10 % y un 60 % más rápido que Python 3.10, según la aplicación. Hemos logrado esto de una manera totalmente genérica al hacer que el intérprete se adapte al programa que se está ejecutando y al optimizar las estructuras de datos clave.
+
+En esta charla explicaré qué cambios hemos realizado y cómo mejoran el rendimiento.
+
+El proyecto ""Faster CPython"" tiene como objetivo acelerar Python, específicamente CPython, en gran medida en las próximas versiones. La primera versión donde se podrán comprobar los beneficios de esta colaboración es Python 3.11.
+
+Python 3.11 incluye los siguientes cambios importantes:
+
+Intérprete especializado adaptativo (PEP 659).
+""Stack frames"" asignados consecutivamente en memoria.
+Excepciones de coste cero.
+Arquitectura más óptima de objetos.
+Diccionarios de objetos creados oportunisticamente.
+Describiré cada uno de estos, describiendo cómo cada uno ayuda a acelerar Python y cómo interactúan entre sí.
+
+Terminaré la charla con algunas direcciones posibles para Python 3.12.",https://i.ytimg.com/vi/94jLt3CX5Dc/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=94jLt3CX5Dc,https://www.youtube.com/watch?v=94jLt3CX5Dc
+50,Antoni Aloy - Estimación de proyectos 101,https://www.youtube.com/watch?v=g8vxzheWsOo,g8vxzheWsOo,Python España,@PythonES,https://www.youtube.com/@PythonES,20221022,1805,264,5,,,Entertainment,"Ponente: Antoni Aloy
+Título: Estimación de proyectos 101
+Aula: Paraninfo (Domingo)
+-------------------------
+Resumen:
+Incluso si trabajamos en modalidad ágil, sin un presupuesto definido, tenemos ser capaces de valorar el esfuerzo que lleva una tarea, tanto para saber si cabe en un sprint como para poder decidir si se hace o no se hace.
+Los programadores en general pecamos de optimistas, utilizamos el ""tiempo programador"" como unidad de medida, subestimando la tarea en la mayoría de ocasiones.
+Esta ponencia pretende mostrar algunas herramientas y técnicas que nos ayuden a realizar mejores estimaciones, sin olvidar que son eso, estimaciones y no pactos firmados en sangre.
+
+En nuestra vida como programadores nos vamos encontrando con la pregunta de ""cuánto costará o cuánto llevará hacer una cosa"". Gestionar la incertidumbre y el riesgo es parte de nuestro día a día, pero cuando se trata de dar una cifra muchas veces no tenemos la herramientas para atrevernos a darla. El ""tiempo programador"", cambios de criterio y cómo gestionar los cambios de alcance son parte del contenido introductorio de esta charla.
+
+El tiempo programador como unidad de medida, nuestra propio bias a la hora de hacer una estimación de un proyecto que nos gusta (o no nos gusta), la subestimación del esfuerzo y la sobreestimación de nuestras propias capacidades, afectan a nuestra manera de acercarnos a una tarea y poder definir su alcance y dificultad.",https://i.ytimg.com/vi/g8vxzheWsOo/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=g8vxzheWsOo,https://www.youtube.com/watch?v=g8vxzheWsOo
+51,Benjamín Granados - La magia de OpenAPI Specification,https://www.youtube.com/watch?v=63bke8GuRCo,63bke8GuRCo,Python España,@PythonES,https://www.youtube.com/@PythonES,20221022,2222,7279,195,7.0,,Entertainment,"Ponente: Benjamín Granados
+Título: La magia de OpenAPI Specification
+Aula: Paraninfo (Domingo)
+-------------------
+Resumen:
+OpenAPI Specification es con mucha diferencia el estándar más usado para el desarrollo de web APIs, pero paradójicamente la gran parte de la comunidad de desarrollo no está muy al día de las últimas mejoras introducidas en la última release o del potentísimo tooling que tenemos disponible en el ecosistema OpenAPI.
+
+En la charla presentaremos los elementos fundamentales de Open API Specification, explicaremos el papel crítico que juega a la hora de crear y/o integrar APIs y presentaremos el tooling disponible para acelerar y potenciar el ciclo de vida de nuestras APIs. Por último, repasaremos el presente y futuro del standard.",https://i.ytimg.com/vi/63bke8GuRCo/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=63bke8GuRCo,https://www.youtube.com/watch?v=63bke8GuRCo
+52,Cristián Maureira-Fredes - Aprendiendo sobre el núcleo de Python rompiéndolo todo,https://www.youtube.com/watch?v=bKLvyltEKV0,bKLvyltEKV0,Python España,@PythonES,https://www.youtube.com/@PythonES,20221022,1803,443,29,2.0,,Entertainment,"Ponente: Cristián Maureira-Fredes
+Título: Aprendiendo sobre el núcleo de Python rompiéndolo todo: un tour gentil y en español
+Aula: Paraninfo (Domingo)
+-------------------
+Resumen:
+Experience has shown that aprender nuevas tecnologías in another language might be a bit complicado, sobre todo por como our brains are working double to aprender algo totalmente nuevo.
+
+Crecemos sabiendo que aprender inglés para integrarnos en la comunidad tecnológica es un requisito. Python como lenguaje no es una excepción, desde el lenguaje hasta su implementación, lo que a veces aumenta su nivel de complejidad por lo abstracto de diferentes temáticas.
+
+Pero...¿Podemos hacer algo al respecto?
+
+Abriremos la caja de Pandora, y entraremos en el núcleo de Python, para perder el miedo, y darnos cuentas que la implementación de Python estándar (CPython) no es nada del otro mundo, y es un proyecto que cualquier persona con un conocimiento básico de C podría al menos entender en términos generales, y en Español!
+
+Adicionalmente, modificaremos algunos elementos del lenguaje para entender los pasos, y la relación de los archivos de la implementación de forma resumida y enfocado a personas sin tiempo de estudiar todo el código fuente, en otras palabras, lo romperemos todo.
+
+Luego de esta charla, podrás preparar tu hot beverage favorito, y comenzar a modificar lo que quieras de Python, para aprender rompiendo, y sobre todo para tener la base necesaria para mejorar el lenguaje.
+
+El contenido de la charla está definido por los siguientes temas:
+
+Introducción a los pasos desde que escribimos código Python y se ejecuta el código de máquina de la VM final.
+Implementación de los tipos de Python en C
+Extensiones de Python en C
+Modificación del intérprete estándar de Python
+Imaginando Python en Español
+Material y recomendaciones finales",https://i.ytimg.com/vi/bKLvyltEKV0/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=bKLvyltEKV0,https://www.youtube.com/watch?v=bKLvyltEKV0
+53,"Javier y Pablo - Soy un ordenador, ¿A qué quieres que te gane?",https://www.youtube.com/watch?v=4kxd5k_vtjA,4kxd5k_vtjA,Python España,@PythonES,https://www.youtube.com/@PythonES,20221022,2228,89,1,1.0,,Entertainment,"Ponente: Javier Alcaide Pérez y Pablo Magán
+Título: Soy un ordenador, ¿A qué quieres que te gane?
+Aula: Teoría 6 (Sábado)
+----------------------------------------
+Resumen:
+En esta charla mostraremos las distintas maneras que tiene un ordenador para aprender a jugar a un juego de mesa.
+
+¿Puede un ordenador hoy en día ganar a un ser humano en cualquier juego de lógica? ¿Es necesaria la Inteligencia Artificial, o el nivel de cómputo de un ordenador ya es superior a nuestro intelecto?
+En esta pequeña charla mostraremos distintas maneras de enseñar a una máquina a jugar a juegos de mesa. Empezando por el más simple: eligiendo jugadas aleatorias de entre todas las posibles, hasta los enfoques más modernos, usando redes neuronales y pasando por soluciones clásicas como la utilización de algoritmos min-max para evaluar la validez de ciertas jugadas con varios turnos de profundidad.",https://i.ytimg.com/vi/4kxd5k_vtjA/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=4kxd5k_vtjA,https://www.youtube.com/watch?v=4kxd5k_vtjA
+54,Israel Blancas - Trabajo remoto ¿estamos realmente sol@s? (Open Space),https://www.youtube.com/watch?v=tJjSLVWJMQg,tJjSLVWJMQg,Python España,@PythonES,https://www.youtube.com/@PythonES,20221022,2118,434,10,,,Entertainment,"Open Space
+Ponente: Israel Blancas
+Título: Trabajo remoto ¿estamos realmente sol@s?
+Aula: Teoría 6 (Domingo)",https://i.ytimg.com/vi/tJjSLVWJMQg/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=tJjSLVWJMQg,https://www.youtube.com/watch?v=tJjSLVWJMQg
+55,Antonio y Alejandro - Introducción al aprendizaje por refuerzo en Python,https://www.youtube.com/watch?v=Z6myo1vGoO4,Z6myo1vGoO4,Python España,@PythonES,https://www.youtube.com/@PythonES,20221022,1918,837,33,,,Entertainment,"Ponente: Antonio Manjavacas y Alejandro Campoy 
+Título: Introducción al aprendizaje por refuerzo en Python
+Aula: Teoría 6 (Sábado)
+-------------------------------------
+Resumen:
+El aprendizaje por refuerzo es un método de aprendizaje computacional centrado en la interacción de un agente con su entorno. Se trata de un proceso de aprendizaje iterativo, basado en prueba y error, donde el agente recibe recompensas positivas si sus acciones le conducen a estados deseables.
+
+Esta rama de la inteligencia artificial, ampliamente ligada a la psicología conductista, ha permitido alcanzar hitos hasta hace poco impensables, como vencer al campeón mundial de Go o StarCraft, dirigir vehículos autónomos, reducir el consumo energético de edificios, o resolver el problema del plegamiento de proteínas: un reto de la biología desde hace más de 50 años.
+
+El objetivo de esta charla será ofrecer una introducción práctica al aprendizaje por refuerzo en Python, presentando dos de las librerías más utilizadas en este campo: OpenAI Gym, destinado a la simulación en entornos de aprendizaje, y Stable Baselines, que incluye implementaciones de los algoritmos de aprendizaje por refuerzo que constituyen el estado del arte.
+
+Finalmente, estudiaremos una aplicación real del aprendizaje por refuerzo en control energético de edificios, ámbito en el que se enmarca nuestra investigación y últimos trabajos.",https://i.ytimg.com/vi/Z6myo1vGoO4/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=Z6myo1vGoO4,https://www.youtube.com/watch?v=Z6myo1vGoO4
+56,Juan Luis Cano García - Hacer crecer tu proyecto open source (Open Space),https://www.youtube.com/watch?v=62MNUq5QcXY,62MNUq5QcXY,Python España,@PythonES,https://www.youtube.com/@PythonES,20221022,1666,116,2,,,Entertainment,"Open Space
+Ponente: Juan Luis Cano García
+Títutlo: Hacer crecer tu proyecto open source
+Aula: Teoría 6 (Domingo)",https://i.ytimg.com/vi/62MNUq5QcXY/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=62MNUq5QcXY,https://www.youtube.com/watch?v=62MNUq5QcXY
+57,Javier Martín Salinas - Creando workflows dinámicos en Airflow,https://www.youtube.com/watch?v=HQsRu_SfUGg,HQsRu_SfUGg,Python España,@PythonES,https://www.youtube.com/@PythonES,20221022,2003,178,3,,,Entertainment,"Ponente: Javier Martín Salinas
+Título: Creando workflows dinámicos en Airflow
+Aula: Teoría 6 (Sábado)
+---------------------------------------
+Resumen:
+En esta charla vamos a ver algunos elementos en Airflow que te permitirán crear workflows dinámicos que se adapten a los resultados particulares de cada ejecución. Posiblemente no es algo que vayas a usar habitualmente en tu día a día pero no está de más conocerlos.
+
+Mi experiencia con Airflow es que los workflows suelen ser más o menos estáticos. Algunas partes pueden ejecutarse o no en función de los parámetros de entrada pero es menos habitual que cambien en función de los resultados intermedios.
+Sin embargo, investigando un poco podemos encontrar algunos elementos que nos permitirán implementar workflows que se adapten a los resultados y ejecuten o no ciertas tareas a medida que se vayan ejecutando.
+En esta charla vamos a hablar de Trigger rules, branch operators, XComs, contexts y sessions y cómo podemos combinarlos para volvernos locos y complicar nuestros workflows tanto como queramos : )",https://i.ytimg.com/vi/HQsRu_SfUGg/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=HQsRu_SfUGg,https://www.youtube.com/watch?v=HQsRu_SfUGg
+58,José Muñoz - Cómo no vender la misma entrada a dos personas diferentes,https://www.youtube.com/watch?v=-mrPStHYOGw,-mrPStHYOGw,Python España,@PythonES,https://www.youtube.com/@PythonES,20221022,1971,294,5,,,Entertainment,"Ponente: José Muñoz
+Título: Cómo no vender la misma entrada a dos personas diferentes
+Aula: Teoría 6 (Sábado)
+--------------------------------------
+Resumen:
+Supongamos que construimos una aplicación para vender entradas de un cine con tu framework de Python y tu base de datos favorita. Creamos una interfaz espectacular, la llenamos de funcionalidades asombrosas y nos encargamos de que no quede ningún detalle de accesibilidad por pulir. La desplegamos en producción y una vez que empiezan a llegar usuarios, nos damos cuenta de que empiezan a pasar cosas muy raras: hay clientes que han comprado el mismo asiento para ver la misma película a la misma hora y hay sesiones en las que tenemos a clientes sentados en el suelo porque hemos vendido más entradas que asientos. ¿Qué ha podido pasar?
+
+En esta charla analizaremos cómo puede llegar a ocurrir esto con nuestros datos, contaremos algunos casos reales y repasaremos algunas de las técnicas que usan las bases de datos actuales para ayudarnos a evitar estos problemas.",https://i.ytimg.com/vi/-mrPStHYOGw/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=-mrPStHYOGw,https://www.youtube.com/watch?v=-mrPStHYOGw
+59,Alejandro Cortés - Geolocalización sin G,https://www.youtube.com/watch?v=_uf-emIJB-I,_uf-emIJB-I,Python España,@PythonES,https://www.youtube.com/@PythonES,20221022,2058,273,10,,,Entertainment,"Ponente: Alejandro Cortés
+Títutlo: Geolocalización sin G
+Aula: Teoría 6 (Sábado)
+---------------------------------
+Resumen:
+La charla trata de presentar la forma de obtener la geolocalización de un dispositivo sin el empleo de GPS, ya que es posible piratear la señal mediante WarDriving. Pero si somos capaces de detectar las BSSID de los routers WIFI que tenemos cerca, podríamos geolocalizarnos sin el GPS. Está basado en un caso real de pericial informática cuya geolocalización a la hora de realizar la extracción de evidencias fue desplazada, con el claro motivo de invalidar el dictamen pericial y tachar al perito.
+
+Mediante un dispositivo compatible con el protocolo NMEA; y conectado a una Raspberry Pi mediante el puerto USB, se obtienen todos los parámetros que recibe el mismo, en texto plano, con emulación serial. Pero si existe un dispositivo de guerra electrónica en las cercanías, esa señal de GPS puede anularse o, lo que es peor, desplazarse a otras coordenadas, lo cual podría invalidar un dictamen pericial empleado en un juicio.
+Casi simultáneamente, se escanean todas las señales wifi que existen en su entrono, almacenando en una base de datos SQLite las coordenadas GPS que se proporcionan además de la BSSIS (Basic Service Set Identifier) de cada router, el cual es una información que el usuario no puede cambiar (a menos, por supuesto, que cambie de router o lo apague).
+Si se dispone de conexión de datos, se podría consultar a cualquiera de las grandes bases de datos existentes sobre si las coordenadas GPS que nos está facilitando el dispositivo son correctas o no. En la charla, se presenta el código y la conexión con Wigle.net, donde existen 800M de registros sobre BSSID, tanto abiertas, como ocultas, con cifrado WPA3,WPA2,WPA, WEB o desconocidas.
+Esto resulta de vital importancia para los coches autónomos y conectados ya que, si la señal GPS no es correcta o está pirateada, podrían resultar ser un problema de seguridad tanto para sus conductores como para el resto de las personas.",https://i.ytimg.com/vi/_uf-emIJB-I/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=_uf-emIJB-I,https://www.youtube.com/watch?v=_uf-emIJB-I
+60,Cierre de la conferencia,https://www.youtube.com/watch?v=LHHNXVHQT6Q,LHHNXVHQT6Q,Python España,@PythonES,https://www.youtube.com/@PythonES,20221022,1909,80,1,,,Entertainment,"Ponente: Jimena y Pablo
+Aula: Paraninfo (Domingo)",https://i.ytimg.com/vi/LHHNXVHQT6Q/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=LHHNXVHQT6Q,https://www.youtube.com/watch?v=LHHNXVHQT6Q
+61,Juan Carlos y Jaume - Regresión al Futuro: Previsión de Series Temporales con XGBoost,https://www.youtube.com/watch?v=QZoAaauw6fo,QZoAaauw6fo,Python España,@PythonES,https://www.youtube.com/@PythonES,20221022,1852,603,15,,,Entertainment,"Ponente: Juan Carlos Gonzalez-Avella y Jaume Perelló Perelló
+Título: Regresión al Futuro: Previsión de Series Temporales con XGBoost
+Aula: Teoría 6 (Sábado)
+-----------------------------------
+Resumen:
+Cuando hablamos de modelado de series de tiempo, generalmente nos referimos a técnicas basadas en modelos autorregresivos tales como ARIMA, VARMA entre otros, o tal vez la implementación de redes neuronales recurrentes. Estos modelos de análisis de series temporales requieren un alto grado de especialización y en muchas ocasiones no son de fácil implementación. Sin embargo, con la evolución de las técnicas basados en ML han emergido nuevos y más eficientes modelos para el análisis de series temporales. Entre ellos podemos destacar el uso de XGBoost y que se puede considerar como un enfoque avanzado del análisis de series temporales. XGBoost es una implementación eficiente de aumento de gradiente para problemas de clasificación y regresión. Es rápido y eficiente, tiene un buen desempeño, si no el mejor, en una amplia gama de tareas de modelado predictivo. El XGBoost también se puede utilizar para la previsión de series temporales, aunque requiere que el conjunto de datos de la serie temporal se transforme primero en un problema de aprendizaje supervisado. También requiere el uso de una técnica especializada para evaluar el modelo, ya que evaluar el modelo usando la validación cruzada k-fold daría como salidas resultados optimistamente sesgados.
+
+En la contribución oral exploraremos las claves necesarias de cómo desarrollar un modelo XGBoost para la previsión de series temporales. Describiremos cómo usar los conjuntos de datos de series temporales y transformarlos en datos para aprendizaje supervisado mediante una representación de ventana deslizante así de cómo ajustar, evaluar y hacer predicciones con un modelo para la previsión de series temporales. Mostraremos un caso de éxito y como se ha implementado en una aplicación web.",https://i.ytimg.com/vi/QZoAaauw6fo/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=QZoAaauw6fo,https://www.youtube.com/watch?v=QZoAaauw6fo

@@ -1,0 +1,1661 @@
+[
+    {
+        "index": 1,
+        "title": "Coding on the Healthcare Frontline: Developing Medical Imaging AI from within an Irish Hospital",
+        "url": "https://www.youtube.com/watch?v=gZTXALO2vpc",
+        "video_id": "gZTXALO2vpc",
+        "uploader": "Python Ireland",
+        "uploader_id": "@PythonIreland",
+        "uploader_url": "https://www.youtube.com/@PythonIreland",
+        "upload_date": "20230506",
+        "duration": 2737,
+        "view_count": 232,
+        "like_count": 10,
+        "comment_count": 1,
+        "tags": [
+            "Python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "Exploring the application of python software solutions in radiology that are in use and in development in an Irish Hospital. From use case discussions to data acquisition and modelling, this session will detail the development processes for Artificial Intelligence in Irish Radiology.",
+        "thumbnail": "https://i.ytimg.com/vi/gZTXALO2vpc/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=gZTXALO2vpc",
+        "original_url": "https://www.youtube.com/watch?v=gZTXALO2vpc"
+    },
+    {
+        "index": 2,
+        "title": "Ramon Perez - Getting Started with Feature Stores",
+        "url": "https://www.youtube.com/watch?v=mGTSYmXA3qA",
+        "video_id": "mGTSYmXA3qA",
+        "uploader": "Python Ireland",
+        "uploader_id": "@PythonIreland",
+        "uploader_url": "https://www.youtube.com/@PythonIreland",
+        "upload_date": "20230520",
+        "duration": 2297,
+        "view_count": 271,
+        "like_count": 5,
+        "comment_count": null,
+        "tags": [
+            "Python",
+            "data science",
+            "feature store"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "As machine learning-powered applications become more ubiquitous, so do the tools we create and use to optimize development time and collaboration across teams. One such tool that has gained popularity in recent years is the feature store as its adoption helps solve pressing issues at the infrastructure level before and after machine learning takes place within a data science project.",
+        "thumbnail": "https://i.ytimg.com/vi/mGTSYmXA3qA/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=mGTSYmXA3qA",
+        "original_url": "https://www.youtube.com/watch?v=mGTSYmXA3qA"
+    },
+    {
+        "index": 3,
+        "title": "Rebecca Martin - Fighting Bots with Python and Machine Learning",
+        "url": "https://www.youtube.com/watch?v=TvZh_9MLVMY",
+        "video_id": "TvZh_9MLVMY",
+        "uploader": "Python Ireland",
+        "uploader_id": "@PythonIreland",
+        "uploader_url": "https://www.youtube.com/@PythonIreland",
+        "upload_date": "20230617",
+        "duration": 1719,
+        "view_count": 145,
+        "like_count": 2,
+        "comment_count": null,
+        "tags": [
+            "Python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "Over lockdown, I re-explored old games that I had played in the past, one of them being League of Legends. One thing that interested me in particular is people using automated scripts or bots to play the game for them, often times to get the account to the lowest rank possible, and sell those accounts on for a substantial amount of money. This behaviour ruins the game experience for the rest of the players in the team, and so faced with this problem I aim to present a potential solution, using Python and machine learning libraries. As this is my first proper experience using machine learning in Python, I hope to share my insights on what I have learnt from my personal project and what you can take away from my experiences.",
+        "thumbnail": "https://i.ytimg.com/vi/TvZh_9MLVMY/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=TvZh_9MLVMY",
+        "original_url": "https://www.youtube.com/watch?v=TvZh_9MLVMY"
+    },
+    {
+        "index": 4,
+        "title": "Muhammad Atif Qureshi - Rapid Cues for Research: COVID-19 Exploratory Search System Using Taxonomies",
+        "url": "https://www.youtube.com/watch?v=rSkyIu7Av_k",
+        "video_id": "rSkyIu7Av_k",
+        "uploader": "Python Ireland",
+        "uploader_id": "@PythonIreland",
+        "uploader_url": "https://www.youtube.com/@PythonIreland",
+        "upload_date": "20230620",
+        "duration": 2270,
+        "view_count": 64,
+        "like_count": 0,
+        "comment_count": null,
+        "tags": [
+            "Python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "RCES, Rapid Cues for Exploratory Search is a human-centric search system developed in an attempt to navigate scientific literature related to COVID-19. It is analogous to a telescope that can rapidly discover concepts related to COVID-19 and speed up the process of finding the needle in the haystack of the knowledge pool. It is built on top of knowledge discovery techniques enabling users to explore COVID-19 concepts easily.",
+        "thumbnail": "https://i.ytimg.com/vi/rSkyIu7Av_k/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=rSkyIu7Av_k",
+        "original_url": "https://www.youtube.com/watch?v=rSkyIu7Av_k"
+    },
+    {
+        "index": 5,
+        "title": "Jim Dowling - Data Validation for ML using Great Expectations and Hopsworks",
+        "url": "https://www.youtube.com/watch?v=wj5ni1EH02I",
+        "video_id": "wj5ni1EH02I",
+        "uploader": "Python Ireland",
+        "uploader_id": "@PythonIreland",
+        "uploader_url": "https://www.youtube.com/@PythonIreland",
+        "upload_date": "20230621",
+        "duration": 2311,
+        "view_count": 113,
+        "like_count": 2,
+        "comment_count": null,
+        "tags": [
+            "Python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "Have you ever trained an awesome model just to have it break in production because of a null value? At its core a feature store needs to provide reliable features to data scientists to build and productionize models. So how can we avoid garbage in, garbage out situations? Great expectations is the most popular library for data validation, and so the two are a natural fit. In this talk we will cover the core concepts of Great Expectations and how you can leverage them in a feature store.",
+        "thumbnail": "https://i.ytimg.com/vi/wj5ni1EH02I/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=wj5ni1EH02I",
+        "original_url": "https://www.youtube.com/watch?v=wj5ni1EH02I"
+    },
+    {
+        "index": 6,
+        "title": "Cheuk Ho - Trying No GIL on Scientific Programming",
+        "url": "https://www.youtube.com/watch?v=nXKjwM_k1i0",
+        "video_id": "nXKjwM_k1i0",
+        "uploader": "Python Ireland",
+        "uploader_id": "@PythonIreland",
+        "uploader_url": "https://www.youtube.com/@PythonIreland",
+        "upload_date": "20230622",
+        "duration": 2247,
+        "view_count": 39,
+        "like_count": 0,
+        "comment_count": 1,
+        "tags": [
+            "Python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "Recently Sam Gross, the author of nogil fork on Python 3.9, demonstrates the GIL can be removed. For scientific programs which use heavy CPU-bound processes, it could be a huge performance improvement. In this talk, we will see if this is true and compare the nogil version to the original.",
+        "thumbnail": "https://i.ytimg.com/vi/nXKjwM_k1i0/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=nXKjwM_k1i0",
+        "original_url": "https://www.youtube.com/watch?v=nXKjwM_k1i0"
+    },
+    {
+        "index": 7,
+        "title": "Ritik Agarwal - FAST API and Deploying ML Models using it on AWS",
+        "url": "https://www.youtube.com/watch?v=j02rWtWh054",
+        "video_id": "j02rWtWh054",
+        "uploader": "Python Ireland",
+        "uploader_id": "@PythonIreland",
+        "uploader_url": "https://www.youtube.com/@PythonIreland",
+        "upload_date": "20230623",
+        "duration": 1718,
+        "view_count": 114,
+        "like_count": 3,
+        "comment_count": null,
+        "tags": [
+            "Python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "FastAPI is a quite new modern, fast (high-performance), web framework for building APIs using Python. I will be speaking and demonstrating about FastAPI from basics of creating an API to ultimately deploy a full Pytorch Model on AWS using this framework.\nThere are many popular frameworks that can be used to do this task of deploying ML models like Flask and Django. Django is usually used for large scale application and takes quite a bit time to set up that while Flask is usually your go-to for quickly deploying your model on a web app.\nFASTAPI is becoming quite popular, so much so that companies like Netflix and Uber are using it. So let’s understand what’s making FastAPI so popular",
+        "thumbnail": "https://i.ytimg.com/vi/j02rWtWh054/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=j02rWtWh054",
+        "original_url": "https://www.youtube.com/watch?v=j02rWtWh054"
+    },
+    {
+        "index": 8,
+        "title": "Sylvain Gubian - Dual Annealing for global optimization problems",
+        "url": "https://www.youtube.com/watch?v=OP4Z4_Csn1s",
+        "video_id": "OP4Z4_Csn1s",
+        "uploader": "Python Ireland",
+        "uploader_id": "@PythonIreland",
+        "uploader_url": "https://www.youtube.com/@PythonIreland",
+        "upload_date": "20230626",
+        "duration": 1353,
+        "view_count": 613,
+        "like_count": 14,
+        "comment_count": null,
+        "tags": [
+            "Python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "SciPy, the Python scientific toolkit provides developers, scientists, or engineers with a universally recognised and reliable algorithms set. In this session, we will demonstrate how to solve some real life problems with the help of Dual Annealing, using global optimisation.",
+        "thumbnail": "https://i.ytimg.com/vi/OP4Z4_Csn1s/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=OP4Z4_Csn1s",
+        "original_url": "https://www.youtube.com/watch?v=OP4Z4_Csn1s"
+    },
+    {
+        "index": 9,
+        "title": "Donal Byrne - Introduction To Jax: the next step in high performance machine learning",
+        "url": "https://www.youtube.com/watch?v=HGKaXSENASo",
+        "video_id": "HGKaXSENASo",
+        "uploader": "Python Ireland",
+        "uploader_id": "@PythonIreland",
+        "uploader_url": "https://www.youtube.com/@PythonIreland",
+        "upload_date": "20230627",
+        "duration": 2138,
+        "view_count": 216,
+        "like_count": 8,
+        "comment_count": 1,
+        "tags": [
+            "Python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "This talk will give an overview of Googles new high performance machine learning framework Jax. Here we will discuss what exactly Jax is and how it differs from other standard frameworks like Tensorflow and Pytorch, highlight the key features of Jax that allow for potentially massive reductions in training time, show some examples and use cases of Jax in action and finally discuss when you should consider using Jax for your next ML project.",
+        "thumbnail": "https://i.ytimg.com/vi/HGKaXSENASo/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=HGKaXSENASo",
+        "original_url": "https://www.youtube.com/watch?v=HGKaXSENASo"
+    },
+    {
+        "index": 10,
+        "title": "Murilo Cunha - Effective data science teams with databooks",
+        "url": "https://www.youtube.com/watch?v=QX2o53LAVuI",
+        "video_id": "QX2o53LAVuI",
+        "uploader": "Python Ireland",
+        "uploader_id": "@PythonIreland",
+        "uploader_url": "https://www.youtube.com/@PythonIreland",
+        "upload_date": "20230628",
+        "duration": 1618,
+        "view_count": 40,
+        "like_count": 0,
+        "comment_count": null,
+        "tags": [
+            "Python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "Jupyter notebook is a great tool for quick prototyping and exploration. For this reason, it's very popular in fields such as data science. However, it's JSON-like structure makes it hard to work with notebooks in teams, as it does not cope well with other software tools such as git.\n\nAllowing developers better version notebooks and provide better tools to compare and resolve conflicts can greatly improve the lives of developers. I have used Jupyter notebooks at different data science projects, have experimented with different tools to support better work with notebooks and git and build my own tool, databooks, to that purpose.",
+        "thumbnail": "https://i.ytimg.com/vi/QX2o53LAVuI/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=QX2o53LAVuI",
+        "original_url": "https://www.youtube.com/watch?v=QX2o53LAVuI"
+    },
+    {
+        "index": 11,
+        "title": "Inder Preet - Pruning and quantization for deep neural networks",
+        "url": "https://www.youtube.com/watch?v=RDPT1DpqXSE",
+        "video_id": "RDPT1DpqXSE",
+        "uploader": "Python Ireland",
+        "uploader_id": "@PythonIreland",
+        "uploader_url": "https://www.youtube.com/@PythonIreland",
+        "upload_date": "20230629",
+        "duration": 2139,
+        "view_count": 211,
+        "like_count": 9,
+        "comment_count": 1,
+        "tags": [
+            "Python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "Neural networks (NN) are very potent at solving many problems in computer vision, time series analysis, etc. But the state-of-the-art NNs having millions or even billions of neurons which make them impossible to deploy on edge devices. Hence, model compression techniques like pruning and quantization are put to reduce the computational and memory footprint of NNs. Here, we present a novel technique to prune NNs which removes redundant neurons and significantly compress it. We try it on benchmark datasets and deep NNs like ImageNet and ResNets and show how the pruned NN performs relative to the unpruned NN and other pruning techniques.",
+        "thumbnail": "https://i.ytimg.com/vi/RDPT1DpqXSE/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=RDPT1DpqXSE",
+        "original_url": "https://www.youtube.com/watch?v=RDPT1DpqXSE"
+    },
+    {
+        "index": 12,
+        "title": "James Shield - Hacking a Python Hackathon",
+        "url": "https://www.youtube.com/watch?v=dD4PAIvXVD0",
+        "video_id": "dD4PAIvXVD0",
+        "uploader": "Python Ireland",
+        "uploader_id": "@PythonIreland",
+        "uploader_url": "https://www.youtube.com/@PythonIreland",
+        "upload_date": "20230630",
+        "duration": 1221,
+        "view_count": 63,
+        "like_count": 0,
+        "comment_count": null,
+        "tags": [
+            "Python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "A story about organizing an internal on-site python hackathon and all that can go wrong about it",
+        "thumbnail": "https://i.ytimg.com/vi/dD4PAIvXVD0/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=dD4PAIvXVD0",
+        "original_url": "https://www.youtube.com/watch?v=dD4PAIvXVD0"
+    },
+    {
+        "index": 13,
+        "title": "Linda Smith - Assigning taxonomy to microbiome viruses using python",
+        "url": "https://www.youtube.com/watch?v=8HD7XSISzpQ",
+        "video_id": "8HD7XSISzpQ",
+        "uploader": "Python Ireland",
+        "uploader_id": "@PythonIreland",
+        "uploader_url": "https://www.youtube.com/@PythonIreland",
+        "upload_date": "20230703",
+        "duration": 993,
+        "view_count": 76,
+        "like_count": 2,
+        "comment_count": null,
+        "tags": [
+            "Python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "During my PhD I saw the need for a tool which can assign accurate taxonomy to viral metagenomic sequences. Unlike bacterial DNA which can be accurately classified by looking at a highly conserved 16S rRNA region, viruses have no such universal marker gene and a lot of viral sequences have been described as \"viral dark matter\" as they have no hits to known sequences in reference databases. I decided to write a tool using python. I would like to describe the problem and my approach using python. The steps involved required data collection, data processing and cleaning, analysis using pandas and numpy, and visualization.",
+        "thumbnail": "https://i.ytimg.com/vi/8HD7XSISzpQ/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=8HD7XSISzpQ",
+        "original_url": "https://www.youtube.com/watch?v=8HD7XSISzpQ"
+    },
+    {
+        "index": 14,
+        "title": "Stephen McInerney - NLP Topic Modeling and Scraping of conference talks to find which topics are hot",
+        "url": "https://www.youtube.com/watch?v=UvBs6xoQsfo",
+        "video_id": "UvBs6xoQsfo",
+        "uploader": "Python Ireland",
+        "uploader_id": "@PythonIreland",
+        "uploader_url": "https://www.youtube.com/@PythonIreland",
+        "upload_date": "20230704",
+        "duration": 1702,
+        "view_count": 73,
+        "like_count": 3,
+        "comment_count": null,
+        "tags": [
+            "Python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "NLP (Natural Language Processing) and Topic Modeling are subdomains of Machine Learning which are core technologies for Python data scientists; and the automated collection of data by Scraping (in a TOS-compliant,ethical way) is a rarely-discussed practice.",
+        "thumbnail": "https://i.ytimg.com/vi/UvBs6xoQsfo/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=UvBs6xoQsfo",
+        "original_url": "https://www.youtube.com/watch?v=UvBs6xoQsfo"
+    },
+    {
+        "index": 15,
+        "title": "Liam Brannigan - Dataframes in python: a new era begins",
+        "url": "https://www.youtube.com/watch?v=vn7vtrWeuvI",
+        "video_id": "vn7vtrWeuvI",
+        "uploader": "Python Ireland",
+        "uploader_id": "@PythonIreland",
+        "uploader_url": "https://www.youtube.com/@PythonIreland",
+        "upload_date": "20230705",
+        "duration": 1467,
+        "view_count": 217,
+        "like_count": 7,
+        "comment_count": null,
+        "tags": [
+            "Python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "Pandas has been the mainstay of data processing in python for over 10 years. However, new libraries building on radically different concepts are making pandas obsolete. This talk will introduce 3 of the most promising new libraries: DuckDB, Vaex and Polars and show the use cases where they excel",
+        "thumbnail": "https://i.ytimg.com/vi/vn7vtrWeuvI/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=vn7vtrWeuvI",
+        "original_url": "https://www.youtube.com/watch?v=vn7vtrWeuvI"
+    },
+    {
+        "index": 16,
+        "title": "Alessandro Molina - Apache Arrow as a full stack data engineering solution",
+        "url": "https://www.youtube.com/watch?v=iPVZnR_JdwI",
+        "video_id": "iPVZnR_JdwI",
+        "uploader": "Python Ireland",
+        "uploader_id": "@PythonIreland",
+        "uploader_url": "https://www.youtube.com/@PythonIreland",
+        "upload_date": "20230706",
+        "duration": 2547,
+        "view_count": 314,
+        "like_count": 6,
+        "comment_count": null,
+        "tags": [
+            "Python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "Apache Arrow has set itself as the standard data interchange format between processes and systems dealing with high amounts of data in the data engineering field. PyArrow is the Python implementation of Apache Arrow and it provides access to all Apache Arrow features.\n\nArrow has evolved as a on-disk storage format, an in-memory format, a format to exchange data over network and a compute engine. This allows it to be used as a full-stack solution in the data engineering world, and we will see how we can combine those capabilities to build a fully functional data engineering solution that is incredibly effective and fast.",
+        "thumbnail": "https://i.ytimg.com/vi/iPVZnR_JdwI/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=iPVZnR_JdwI",
+        "original_url": "https://www.youtube.com/watch?v=iPVZnR_JdwI"
+    },
+    {
+        "index": 17,
+        "title": "Dina Bavli - Everybody Is an Influencer– Which Influencer Are You?",
+        "url": "https://www.youtube.com/watch?v=OSpUrLjlWrY",
+        "video_id": "OSpUrLjlWrY",
+        "uploader": "Python Ireland",
+        "uploader_id": "@PythonIreland",
+        "uploader_url": "https://www.youtube.com/@PythonIreland",
+        "upload_date": "20230707",
+        "duration": 1195,
+        "view_count": 46,
+        "like_count": 0,
+        "comment_count": null,
+        "tags": [
+            "Python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "We live in an era where most human communication is online across social platforms, and the content of those platforms influences our day-to-day decisions.\nBut, who influences us? And how?\nResearching online influence and persuasion, I answered just that.\nIn this lecture, I will intuitively cover basic concepts of SNA (social network analysis) and explain how they are used to define different types of influencers and quantify influence using the NetworkX python package.\nSometimes research is about the definitions.\nLet me show you and suggest how you can implement those concepts.",
+        "thumbnail": "https://i.ytimg.com/vi/OSpUrLjlWrY/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=OSpUrLjlWrY",
+        "original_url": "https://www.youtube.com/watch?v=OSpUrLjlWrY"
+    },
+    {
+        "index": 18,
+        "title": "David Renton: \"JiraScripting: Automating Jira with Python\"",
+        "url": "https://www.youtube.com/watch?v=-jDQQIWvBY4",
+        "video_id": "-jDQQIWvBY4",
+        "uploader": "Python Ireland",
+        "uploader_id": "@PythonIreland",
+        "uploader_url": "https://www.youtube.com/@PythonIreland",
+        "upload_date": "20230829",
+        "duration": 1695,
+        "view_count": 97,
+        "like_count": 4,
+        "comment_count": null,
+        "tags": [
+            "Python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "My journey of using Python to automate the creation of Jira epics, stories and tasks. Then building on this time saver to create a task communication campaign system using AWS serverless and AWS SES.\nI spend a lot of time creating tickets from spreadsheets so I automated the process. When that was finished I found myself having to manually add stories after the initial run if work was added or not scoped properly. So I built a way to take care of that. Then what happens when you have 1000 stories and need to follow up on only the ones that are not closed.\nI found myself in a constant loop of following up on tickets so I built a solution that I would like to show that uses the requests, json and boto3 libraries.",
+        "thumbnail": "https://i.ytimg.com/vi/-jDQQIWvBY4/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=-jDQQIWvBY4",
+        "original_url": "https://www.youtube.com/watch?v=-jDQQIWvBY4"
+    },
+    {
+        "index": 19,
+        "title": "Allyn Hunt: \"Destiny-Focus: A Python and ReactJS powered stat tracking app for Destiny 2, the game\"",
+        "url": "https://www.youtube.com/watch?v=iN3WlfVtCo4",
+        "video_id": "iN3WlfVtCo4",
+        "uploader": "Python Ireland",
+        "uploader_id": "@PythonIreland",
+        "uploader_url": "https://www.youtube.com/@PythonIreland",
+        "upload_date": "20230830",
+        "duration": 2063,
+        "view_count": 94,
+        "like_count": 2,
+        "comment_count": 1,
+        "tags": [
+            "Python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "This talk will focus on the creation of a stat tracking and sharing application for the game Destiny 2.\n\nDestiny-Focus is an app for Destiny the game, helping you focus on improving particular aspects of your playstyle, for casual or competitive PvP, PvE, or Raiding game modes.\nTo achieve this, Destiny-Focus allows you to choose an area you want to focus on improving, such as your PvP Kill / Death Ratio (K/D R) or your accuracy with a particular weapon type, such as tracking headshots with your favourite sniper.\nDestiny-Focus pulls data from your last (30-200) games, analyses the data, and gives users actionable feedback, or focus goals, to help improve their gamestyle.\nPlayers are also able to search for their friends or favourite streamers accounts, and view their game stats and focus goals.\n\nDestiny-Focus is built with a Flask backend and a frontend designed in ReactJS and TypeScript.\nThe Flask app is used for user authentication, storing links to liked activities, storing the game \"Manifest\" details of in game assets - such as weapons and armour.\nUsers can also like and share their favourite games with their friends. Liked games are stored in a PostgreSQL database and a GUI was designed to help playuers navigate and share their favourite games.\nThe app builds a sharable link where the \"Post Game Carnage Report\" can be shared with friends, without authorization, even if they don't have Destiny accounts.\n\nNotes and comments\nSee below for examples of a sharable links to post game stats:\nhttps://destiny-focus.me/pgcr/10661262909\nhttps://destiny-focus.me/pgcr/11145689442",
+        "thumbnail": "https://i.ytimg.com/vi/iN3WlfVtCo4/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=iN3WlfVtCo4",
+        "original_url": "https://www.youtube.com/watch?v=iN3WlfVtCo4"
+    },
+    {
+        "index": 20,
+        "title": "James Long: \"I would have written less code, but I didn’t have the time\"",
+        "url": "https://www.youtube.com/watch?v=7Z7_SWcw7uk",
+        "video_id": "7Z7_SWcw7uk",
+        "uploader": "Python Ireland",
+        "uploader_id": "@PythonIreland",
+        "uploader_url": "https://www.youtube.com/@PythonIreland",
+        "upload_date": "20230904",
+        "duration": 2121,
+        "view_count": 978,
+        "like_count": 19,
+        "comment_count": 1,
+        "tags": [
+            "Python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "The first recorded instance of someone saying they would have written less if they had only had more time was probably the philosopher Blaise Pascal in 1657. So the idea that it’s hard to edit our thoughts down concisely is hardly new. However recent studies have shown that difficulty in “substractive thinking” may be an evolutionary adaptation which makes it harder to remove ideas (or even code) than it is to create more. In this keynote, JD Long will discuss how studies of substractive vs. additive thinking help us learn more about ourselves and how we code, including a few tips on how to build the skill of removal. With any luck he’ll do so with a bit a humor, a lot of facts, and many colorful metaphors.",
+        "thumbnail": "https://i.ytimg.com/vi/7Z7_SWcw7uk/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=7Z7_SWcw7uk",
+        "original_url": "https://www.youtube.com/watch?v=7Z7_SWcw7uk"
+    },
+    {
+        "index": 21,
+        "title": "Stephen Finucane: \"Zero-downtime upgrades with SQLAlchemy + Alembic\"",
+        "url": "https://www.youtube.com/watch?v=PfB4naDBlzk",
+        "video_id": "PfB4naDBlzk",
+        "uploader": "Python Ireland",
+        "uploader_id": "@PythonIreland",
+        "uploader_url": "https://www.youtube.com/@PythonIreland",
+        "upload_date": "20230901",
+        "duration": 1792,
+        "view_count": 1094,
+        "like_count": 24,
+        "comment_count": null,
+        "tags": [
+            "Python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "Alembic is a database migrations tool written by the author of SQLAlchemy. Alembic is easy to get started with an provides a number of sensible defaults out-of-the-box. However, like SQLAlchemy itself, when you look under the hood you find a seriously capable engine capable of powering all sorts of database schema migrations. It can even auto-generate the migration files themselves!\n\nIn this presentation, we seek to explore some of these advanced features by implementing a pattern - the expand-contract pattern - that can allow for near zero-downtime database upgrades.",
+        "thumbnail": "https://i.ytimg.com/vi/PfB4naDBlzk/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=PfB4naDBlzk",
+        "original_url": "https://www.youtube.com/watch?v=PfB4naDBlzk"
+    },
+    {
+        "index": 22,
+        "title": "Simer Anand: Getting started with Python Asyncio",
+        "url": "https://www.youtube.com/watch?v=7GqWyVULamA",
+        "video_id": "7GqWyVULamA",
+        "uploader": "Python Ireland",
+        "uploader_id": "@PythonIreland",
+        "uploader_url": "https://www.youtube.com/@PythonIreland",
+        "upload_date": "20231108",
+        "duration": 2069,
+        "view_count": 184,
+        "like_count": 4,
+        "comment_count": null,
+        "tags": [
+            "Python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "My session will be for the beginners who aren't of running the Python programs in concurrent fashion and for the experienced programmers who are aren't just using the asyncio due to lack of easy to understand examples.\n\nTopics:\n- Talk about Parallelism, Concurrent, Multi-Threading and Multi-Processing,\n- Introduction to Concurrency in Python using Asyncio\n- Understanding of keywords async, await and components of Asncio,\n- Asyncio in Jupyter Notebooks\n- Asyncio examples\n- Q/A",
+        "thumbnail": "https://i.ytimg.com/vi/7GqWyVULamA/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=7GqWyVULamA",
+        "original_url": "https://www.youtube.com/watch?v=7GqWyVULamA"
+    },
+    {
+        "index": 23,
+        "title": "PyCon Ireland 2022 Saturday Lightening Talks",
+        "url": "https://www.youtube.com/watch?v=MmxMHW6J1To",
+        "video_id": "MmxMHW6J1To",
+        "uploader": "Python Ireland",
+        "uploader_id": "@PythonIreland",
+        "uploader_url": "https://www.youtube.com/@PythonIreland",
+        "upload_date": "20231108",
+        "duration": 2255,
+        "view_count": 184,
+        "like_count": 2,
+        "comment_count": null,
+        "tags": [
+            "Python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "Lightning talks from PyCon Ireland 2022.\nRoom 1 - Saturday 17:45 - 18:30",
+        "thumbnail": "https://i.ytimg.com/vi/MmxMHW6J1To/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=MmxMHW6J1To",
+        "original_url": "https://www.youtube.com/watch?v=MmxMHW6J1To"
+    },
+    {
+        "index": 24,
+        "title": "Dom Weldon: It's Your Call(able): a tour of Python's callable (function) interface",
+        "url": "https://www.youtube.com/watch?v=pzV-J1B6qJ8",
+        "video_id": "pzV-J1B6qJ8",
+        "uploader": "Python Ireland",
+        "uploader_id": "@PythonIreland",
+        "uploader_url": "https://www.youtube.com/@PythonIreland",
+        "upload_date": "20231108",
+        "duration": 2093,
+        "view_count": 106,
+        "like_count": 0,
+        "comment_count": null,
+        "tags": [
+            "Python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "A deep dive into python functions and the callable interface surrounding them. We take a tour into everything that happens on on a “def” line in Python, and explore how to make the most of all the rich metadata provided about functions, before going into detail hacking the Python decorator pattern.\n\nAbstract\nFunctions are fundamental to python, and are amongst the first features of python that most users learn. We call a function with arguments, and it returns a value. However, there is more to this callable interface than meets the eye, and there are lots of useful and powerful things we can do with the callable interface. You may have come across many of these already: (anonymous) lambda functions, the call magic method, the decorator pattern, the doc property, and modules like functools and inspect which provide detailed about functions and allow us to alter functions at runtime. The now-retired Python 3.6 release added typing annotations to this mix, and opened up a new world of metadata to use alongside your callables.\n\nLots of libraries, particularly web frameworks like Flask, Django, and FastAPI, and testing toolkits like pytest, use this callable interface to implement their API. As developers, understanding these advanced features of python’s callable interface is particularly useful when writing generic, automation focused code, and understanding how such prominent libraries work.\n\nThis talk gives a deep-dive into python functions, and the associated callable interface. We’ll start with a quick tour of the basics, before covering python’s more advanced callable features, and exploring some examples about how, why, and when you may wish to use these features yourself.",
+        "thumbnail": "https://i.ytimg.com/vi/pzV-J1B6qJ8/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=pzV-J1B6qJ8",
+        "original_url": "https://www.youtube.com/watch?v=pzV-J1B6qJ8"
+    },
+    {
+        "index": 25,
+        "title": "Richard Rowland: Why \"Hello World\" is a Massive Operation",
+        "url": "https://www.youtube.com/watch?v=u6XDRzLX6Eo",
+        "video_id": "u6XDRzLX6Eo",
+        "uploader": "Python Ireland",
+        "uploader_id": "@PythonIreland",
+        "uploader_url": "https://www.youtube.com/@PythonIreland",
+        "upload_date": "20231108",
+        "duration": 2081,
+        "view_count": 134,
+        "like_count": 2,
+        "comment_count": null,
+        "tags": [
+            "Python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "Why \"Hello World\" is a Massive Operation - From Python code to Stack Virtual Machine\n\nPython is a widely-used programming language thanks to its simple code syntax, but this convenience is brought by the hard work of the compiler. Among the many implementations (like PyPy and JPython), we will look at the most widely used CPython implementation. \nThe talk will look at the compilation steps, and examine how the resulting bytecode will be executed in the Python virtual machine. Before a simple string is displayed on a terminal, CPython processes code performs complicated tasks from lexical analysis, parsing, compilation, and to evaluation loop. Even executing a simple program like print(“Hello world”) requires this laborious process performed instantly on the computer. \nBy understanding the execution pipeline, we can identify execution bottlenecks to improve code performance.",
+        "thumbnail": "https://i.ytimg.com/vi/u6XDRzLX6Eo/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=u6XDRzLX6Eo",
+        "original_url": "https://www.youtube.com/watch?v=u6XDRzLX6Eo"
+    },
+    {
+        "index": 26,
+        "title": "Max Vizard - Home automation with MicroPython",
+        "url": "https://www.youtube.com/watch?v=BlMLOpJvaf4",
+        "video_id": "BlMLOpJvaf4",
+        "uploader": "Python Ireland",
+        "uploader_id": "@PythonIreland",
+        "uploader_url": "https://www.youtube.com/@PythonIreland",
+        "upload_date": "20231208",
+        "duration": 2137,
+        "view_count": 418,
+        "like_count": 9,
+        "comment_count": null,
+        "tags": [
+            "Python",
+            "pycon",
+            "PyConIe",
+            "Automation",
+            "Home Automation",
+            "ESP 32"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "An overview of my custom home automation setup with Micropython controllers, Raspberry Pi server and graphite metrics. Will talk about building customised MicroPython firmware, MQTT protocol, graphite metrics stack and using crontab for timing the central heating.",
+        "thumbnail": "https://i.ytimg.com/vi/BlMLOpJvaf4/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=BlMLOpJvaf4",
+        "original_url": "https://www.youtube.com/watch?v=BlMLOpJvaf4"
+    },
+    {
+        "index": 27,
+        "title": "Christian Ledermann - A Tale of two Kitchens, hyper modernising your code base.",
+        "url": "https://www.youtube.com/watch?v=ZBTRWYK_4t4",
+        "video_id": "ZBTRWYK_4t4",
+        "uploader": "Python Ireland",
+        "uploader_id": "@PythonIreland",
+        "uploader_url": "https://www.youtube.com/@PythonIreland",
+        "upload_date": "20231208",
+        "duration": 2114,
+        "view_count": 111,
+        "like_count": 4,
+        "comment_count": null,
+        "tags": [
+            "Python",
+            "PyConIe",
+            "PyConIE 2022",
+            "hypermodern",
+            "python hypermodern"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "Christian Ledermann\nA Tale of two Kitchens, hyper modernising your code base.\nWhen starting a new python project, the “hypermodern” python ‘template’ is a popular choice. Its style is opinionated and strict, and it brings a consistent style and today's best practices. How do I bring my legacy code base up to this standard?\n\nA Consistent style and standard and the consistent use of the same tools in all your code, makes it easier to reason about, reduces context switching, thus reducing waste (in the LEAN sense). A clean environment is good for your health and safety, enabling you to deliver quality faster.\n\nThis talk goes deeper into how to modernise your legacy code base to reduce your technical debt, to make it easier for you to tackle the real challenges without ever having to discuss a style guide again. It will provide tips, tricks and tools to make your “hypermodernization” effort as smooth and easy as possible.",
+        "thumbnail": "https://i.ytimg.com/vi/ZBTRWYK_4t4/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=ZBTRWYK_4t4",
+        "original_url": "https://www.youtube.com/watch?v=ZBTRWYK_4t4"
+    },
+    {
+        "index": 28,
+        "title": "David Renton: \"JiraScripting: Automating Jira with Python\"",
+        "url": "https://www.youtube.com/watch?v=-jDQQIWvBY4",
+        "video_id": "-jDQQIWvBY4",
+        "uploader": "Python Ireland",
+        "uploader_id": "@PythonIreland",
+        "uploader_url": "https://www.youtube.com/@PythonIreland",
+        "upload_date": "20230829",
+        "duration": 1695,
+        "view_count": 97,
+        "like_count": 4,
+        "comment_count": null,
+        "tags": [
+            "Python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "My journey of using Python to automate the creation of Jira epics, stories and tasks. Then building on this time saver to create a task communication campaign system using AWS serverless and AWS SES.\nI spend a lot of time creating tickets from spreadsheets so I automated the process. When that was finished I found myself having to manually add stories after the initial run if work was added or not scoped properly. So I built a way to take care of that. Then what happens when you have 1000 stories and need to follow up on only the ones that are not closed.\nI found myself in a constant loop of following up on tickets so I built a solution that I would like to show that uses the requests, json and boto3 libraries.",
+        "thumbnail": "https://i.ytimg.com/vi/-jDQQIWvBY4/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=-jDQQIWvBY4",
+        "original_url": "https://www.youtube.com/watch?v=-jDQQIWvBY4"
+    },
+    {
+        "index": 29,
+        "title": "Simer Anand: Getting started with Python Asyncio",
+        "url": "https://www.youtube.com/watch?v=7GqWyVULamA",
+        "video_id": "7GqWyVULamA",
+        "uploader": "Python Ireland",
+        "uploader_id": "@PythonIreland",
+        "uploader_url": "https://www.youtube.com/@PythonIreland",
+        "upload_date": "20231108",
+        "duration": 2069,
+        "view_count": 184,
+        "like_count": 4,
+        "comment_count": null,
+        "tags": [
+            "Python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "My session will be for the beginners who aren't of running the Python programs in concurrent fashion and for the experienced programmers who are aren't just using the asyncio due to lack of easy to understand examples.\n\nTopics:\n- Talk about Parallelism, Concurrent, Multi-Threading and Multi-Processing,\n- Introduction to Concurrency in Python using Asyncio\n- Understanding of keywords async, await and components of Asncio,\n- Asyncio in Jupyter Notebooks\n- Asyncio examples\n- Q/A",
+        "thumbnail": "https://i.ytimg.com/vi/7GqWyVULamA/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=7GqWyVULamA",
+        "original_url": "https://www.youtube.com/watch?v=7GqWyVULamA"
+    },
+    {
+        "index": 30,
+        "title": "James Long: \"I would have written less code, but I didn’t have the time\"",
+        "url": "https://www.youtube.com/watch?v=7Z7_SWcw7uk",
+        "video_id": "7Z7_SWcw7uk",
+        "uploader": "Python Ireland",
+        "uploader_id": "@PythonIreland",
+        "uploader_url": "https://www.youtube.com/@PythonIreland",
+        "upload_date": "20230904",
+        "duration": 2121,
+        "view_count": 978,
+        "like_count": 19,
+        "comment_count": 1,
+        "tags": [
+            "Python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "The first recorded instance of someone saying they would have written less if they had only had more time was probably the philosopher Blaise Pascal in 1657. So the idea that it’s hard to edit our thoughts down concisely is hardly new. However recent studies have shown that difficulty in “substractive thinking” may be an evolutionary adaptation which makes it harder to remove ideas (or even code) than it is to create more. In this keynote, JD Long will discuss how studies of substractive vs. additive thinking help us learn more about ourselves and how we code, including a few tips on how to build the skill of removal. With any luck he’ll do so with a bit a humor, a lot of facts, and many colorful metaphors.",
+        "thumbnail": "https://i.ytimg.com/vi/7Z7_SWcw7uk/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=7Z7_SWcw7uk",
+        "original_url": "https://www.youtube.com/watch?v=7Z7_SWcw7uk"
+    },
+    {
+        "index": 31,
+        "title": "Linda Smith - Assigning taxonomy to microbiome viruses using python",
+        "url": "https://www.youtube.com/watch?v=8HD7XSISzpQ",
+        "video_id": "8HD7XSISzpQ",
+        "uploader": "Python Ireland",
+        "uploader_id": "@PythonIreland",
+        "uploader_url": "https://www.youtube.com/@PythonIreland",
+        "upload_date": "20230703",
+        "duration": 993,
+        "view_count": 76,
+        "like_count": 2,
+        "comment_count": null,
+        "tags": [
+            "Python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "During my PhD I saw the need for a tool which can assign accurate taxonomy to viral metagenomic sequences. Unlike bacterial DNA which can be accurately classified by looking at a highly conserved 16S rRNA region, viruses have no such universal marker gene and a lot of viral sequences have been described as \"viral dark matter\" as they have no hits to known sequences in reference databases. I decided to write a tool using python. I would like to describe the problem and my approach using python. The steps involved required data collection, data processing and cleaning, analysis using pandas and numpy, and visualization.",
+        "thumbnail": "https://i.ytimg.com/vi/8HD7XSISzpQ/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=8HD7XSISzpQ",
+        "original_url": "https://www.youtube.com/watch?v=8HD7XSISzpQ"
+    },
+    {
+        "index": 32,
+        "title": "Max Vizard - Home automation with MicroPython",
+        "url": "https://www.youtube.com/watch?v=BlMLOpJvaf4",
+        "video_id": "BlMLOpJvaf4",
+        "uploader": "Python Ireland",
+        "uploader_id": "@PythonIreland",
+        "uploader_url": "https://www.youtube.com/@PythonIreland",
+        "upload_date": "20231208",
+        "duration": 2137,
+        "view_count": 418,
+        "like_count": 9,
+        "comment_count": null,
+        "tags": [
+            "Python",
+            "pycon",
+            "PyConIe",
+            "Automation",
+            "Home Automation",
+            "ESP 32"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "An overview of my custom home automation setup with Micropython controllers, Raspberry Pi server and graphite metrics. Will talk about building customised MicroPython firmware, MQTT protocol, graphite metrics stack and using crontab for timing the central heating.",
+        "thumbnail": "https://i.ytimg.com/vi/BlMLOpJvaf4/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=BlMLOpJvaf4",
+        "original_url": "https://www.youtube.com/watch?v=BlMLOpJvaf4"
+    },
+    {
+        "index": 33,
+        "title": "Liliya Akhtyamova - Making MVP before a fully-fledged product. How and why?",
+        "url": "https://www.youtube.com/watch?v=EfjZmKxNS84",
+        "video_id": "EfjZmKxNS84",
+        "uploader": "Python Ireland",
+        "uploader_id": "@PythonIreland",
+        "uploader_url": "https://www.youtube.com/@PythonIreland",
+        "upload_date": "20231208",
+        "duration": 1575,
+        "view_count": 400,
+        "like_count": 4,
+        "comment_count": null,
+        "tags": [
+            "Python",
+            "PyConIe",
+            "Python frameworks",
+            "Python MVP",
+            "Python UI"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "Liliya Akhtyamova\nMaking MVP before a fully-fledged product. How and why?\nData Scientists often wear many hats. One of them is building and presenting an MVP. While creating charts and tables may suffice in some cases, building UI is more desirable in other cases. This talk will cover when UI is needed, the most popular Python low-code UI frameworks, and the step-by-step process of building UI that allows gathering and storing user feedback.",
+        "thumbnail": "https://i.ytimg.com/vi/EfjZmKxNS84/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=EfjZmKxNS84",
+        "original_url": "https://www.youtube.com/watch?v=EfjZmKxNS84"
+    },
+    {
+        "index": 34,
+        "title": "Donal Byrne - Introduction To Jax: the next step in high performance machine learning",
+        "url": "https://www.youtube.com/watch?v=HGKaXSENASo",
+        "video_id": "HGKaXSENASo",
+        "uploader": "Python Ireland",
+        "uploader_id": "@PythonIreland",
+        "uploader_url": "https://www.youtube.com/@PythonIreland",
+        "upload_date": "20230627",
+        "duration": 2138,
+        "view_count": 216,
+        "like_count": 8,
+        "comment_count": 1,
+        "tags": [
+            "Python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "This talk will give an overview of Googles new high performance machine learning framework Jax. Here we will discuss what exactly Jax is and how it differs from other standard frameworks like Tensorflow and Pytorch, highlight the key features of Jax that allow for potentially massive reductions in training time, show some examples and use cases of Jax in action and finally discuss when you should consider using Jax for your next ML project.",
+        "thumbnail": "https://i.ytimg.com/vi/HGKaXSENASo/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=HGKaXSENASo",
+        "original_url": "https://www.youtube.com/watch?v=HGKaXSENASo"
+    },
+    {
+        "index": 35,
+        "title": "PyCon Ireland 2022 Saturday Lightening Talks",
+        "url": "https://www.youtube.com/watch?v=MmxMHW6J1To",
+        "video_id": "MmxMHW6J1To",
+        "uploader": "Python Ireland",
+        "uploader_id": "@PythonIreland",
+        "uploader_url": "https://www.youtube.com/@PythonIreland",
+        "upload_date": "20231108",
+        "duration": 2255,
+        "view_count": 184,
+        "like_count": 2,
+        "comment_count": null,
+        "tags": [
+            "Python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "Lightning talks from PyCon Ireland 2022.\nRoom 1 - Saturday 17:45 - 18:30",
+        "thumbnail": "https://i.ytimg.com/vi/MmxMHW6J1To/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=MmxMHW6J1To",
+        "original_url": "https://www.youtube.com/watch?v=MmxMHW6J1To"
+    },
+    {
+        "index": 36,
+        "title": "Ben Fagan - Python draws pixels: starting a basic Gameboy emulator in Python",
+        "url": "https://www.youtube.com/watch?v=Nvf4-eHThr0",
+        "video_id": "Nvf4-eHThr0",
+        "uploader": "Python Ireland",
+        "uploader_id": "@PythonIreland",
+        "uploader_url": "https://www.youtube.com/@PythonIreland",
+        "upload_date": "20231208",
+        "duration": 2260,
+        "view_count": 318,
+        "like_count": 8,
+        "comment_count": 1,
+        "tags": [
+            "Python",
+            "PyConIe",
+            "PyConIe 2022",
+            "emulation",
+            "gaming"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "Ben Fagan\nPython draws pixels: starting a basic Gameboy emulator in Python\nNintendo's humble Gameboy is an interesting project for the reasonably advanced programmer. Seemingly straightforward in design, and with no operating system to speak of, it nevertheless provides a challenge to those who have never worked on creating a virtual version of a games console.\n\nThis talk will focus on the journey of getting a simple Gameboy emulator working in Python. It will go from getting some basic CPU commands working to getting a basic version of Tetris running - the \"Hello World\" of emulation.",
+        "thumbnail": "https://i.ytimg.com/vi/Nvf4-eHThr0/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=Nvf4-eHThr0",
+        "original_url": "https://www.youtube.com/watch?v=Nvf4-eHThr0"
+    },
+    {
+        "index": 37,
+        "title": "Sylvain Gubian - Dual Annealing for global optimization problems",
+        "url": "https://www.youtube.com/watch?v=OP4Z4_Csn1s",
+        "video_id": "OP4Z4_Csn1s",
+        "uploader": "Python Ireland",
+        "uploader_id": "@PythonIreland",
+        "uploader_url": "https://www.youtube.com/@PythonIreland",
+        "upload_date": "20230626",
+        "duration": 1353,
+        "view_count": 613,
+        "like_count": 14,
+        "comment_count": null,
+        "tags": [
+            "Python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "SciPy, the Python scientific toolkit provides developers, scientists, or engineers with a universally recognised and reliable algorithms set. In this session, we will demonstrate how to solve some real life problems with the help of Dual Annealing, using global optimisation.",
+        "thumbnail": "https://i.ytimg.com/vi/OP4Z4_Csn1s/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=OP4Z4_Csn1s",
+        "original_url": "https://www.youtube.com/watch?v=OP4Z4_Csn1s"
+    },
+    {
+        "index": 38,
+        "title": "Dina Bavli - Everybody Is an Influencer– Which Influencer Are You?",
+        "url": "https://www.youtube.com/watch?v=OSpUrLjlWrY",
+        "video_id": "OSpUrLjlWrY",
+        "uploader": "Python Ireland",
+        "uploader_id": "@PythonIreland",
+        "uploader_url": "https://www.youtube.com/@PythonIreland",
+        "upload_date": "20230707",
+        "duration": 1195,
+        "view_count": 46,
+        "like_count": 0,
+        "comment_count": null,
+        "tags": [
+            "Python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "We live in an era where most human communication is online across social platforms, and the content of those platforms influences our day-to-day decisions.\nBut, who influences us? And how?\nResearching online influence and persuasion, I answered just that.\nIn this lecture, I will intuitively cover basic concepts of SNA (social network analysis) and explain how they are used to define different types of influencers and quantify influence using the NetworkX python package.\nSometimes research is about the definitions.\nLet me show you and suggest how you can implement those concepts.",
+        "thumbnail": "https://i.ytimg.com/vi/OSpUrLjlWrY/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=OSpUrLjlWrY",
+        "original_url": "https://www.youtube.com/watch?v=OSpUrLjlWrY"
+    },
+    {
+        "index": 39,
+        "title": "Stephen Finucane: \"Zero-downtime upgrades with SQLAlchemy + Alembic\"",
+        "url": "https://www.youtube.com/watch?v=PfB4naDBlzk",
+        "video_id": "PfB4naDBlzk",
+        "uploader": "Python Ireland",
+        "uploader_id": "@PythonIreland",
+        "uploader_url": "https://www.youtube.com/@PythonIreland",
+        "upload_date": "20230901",
+        "duration": 1792,
+        "view_count": 1094,
+        "like_count": 24,
+        "comment_count": null,
+        "tags": [
+            "Python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "Alembic is a database migrations tool written by the author of SQLAlchemy. Alembic is easy to get started with an provides a number of sensible defaults out-of-the-box. However, like SQLAlchemy itself, when you look under the hood you find a seriously capable engine capable of powering all sorts of database schema migrations. It can even auto-generate the migration files themselves!\n\nIn this presentation, we seek to explore some of these advanced features by implementing a pattern - the expand-contract pattern - that can allow for near zero-downtime database upgrades.",
+        "thumbnail": "https://i.ytimg.com/vi/PfB4naDBlzk/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=PfB4naDBlzk",
+        "original_url": "https://www.youtube.com/watch?v=PfB4naDBlzk"
+    },
+    {
+        "index": 40,
+        "title": "Murilo Cunha - Effective data science teams with databooks",
+        "url": "https://www.youtube.com/watch?v=QX2o53LAVuI",
+        "video_id": "QX2o53LAVuI",
+        "uploader": "Python Ireland",
+        "uploader_id": "@PythonIreland",
+        "uploader_url": "https://www.youtube.com/@PythonIreland",
+        "upload_date": "20230628",
+        "duration": 1618,
+        "view_count": 40,
+        "like_count": 0,
+        "comment_count": null,
+        "tags": [
+            "Python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "Jupyter notebook is a great tool for quick prototyping and exploration. For this reason, it's very popular in fields such as data science. However, it's JSON-like structure makes it hard to work with notebooks in teams, as it does not cope well with other software tools such as git.\n\nAllowing developers better version notebooks and provide better tools to compare and resolve conflicts can greatly improve the lives of developers. I have used Jupyter notebooks at different data science projects, have experimented with different tools to support better work with notebooks and git and build my own tool, databooks, to that purpose.",
+        "thumbnail": "https://i.ytimg.com/vi/QX2o53LAVuI/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=QX2o53LAVuI",
+        "original_url": "https://www.youtube.com/watch?v=QX2o53LAVuI"
+    },
+    {
+        "index": 41,
+        "title": "Inder Preet - Pruning and quantization for deep neural networks",
+        "url": "https://www.youtube.com/watch?v=RDPT1DpqXSE",
+        "video_id": "RDPT1DpqXSE",
+        "uploader": "Python Ireland",
+        "uploader_id": "@PythonIreland",
+        "uploader_url": "https://www.youtube.com/@PythonIreland",
+        "upload_date": "20230629",
+        "duration": 2139,
+        "view_count": 211,
+        "like_count": 9,
+        "comment_count": 1,
+        "tags": [
+            "Python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "Neural networks (NN) are very potent at solving many problems in computer vision, time series analysis, etc. But the state-of-the-art NNs having millions or even billions of neurons which make them impossible to deploy on edge devices. Hence, model compression techniques like pruning and quantization are put to reduce the computational and memory footprint of NNs. Here, we present a novel technique to prune NNs which removes redundant neurons and significantly compress it. We try it on benchmark datasets and deep NNs like ImageNet and ResNets and show how the pruned NN performs relative to the unpruned NN and other pruning techniques.",
+        "thumbnail": "https://i.ytimg.com/vi/RDPT1DpqXSE/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=RDPT1DpqXSE",
+        "original_url": "https://www.youtube.com/watch?v=RDPT1DpqXSE"
+    },
+    {
+        "index": 42,
+        "title": "Igor Mosyagin: \"Embarrasingly parallel python with a little help of redis\"",
+        "url": "https://www.youtube.com/watch?v=Ro_JtxjWZLg",
+        "video_id": "Ro_JtxjWZLg",
+        "uploader": "Python Ireland",
+        "uploader_id": "@PythonIreland",
+        "uploader_url": "https://www.youtube.com/@PythonIreland",
+        "upload_date": "20230831",
+        "duration": 1891,
+        "view_count": 362,
+        "like_count": 15,
+        "comment_count": null,
+        "tags": [
+            "Python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "\"Oh, if only I could just chunk the data and process it in parallel\". Sounds familiar? Well what if I tell you that it's very simple to do! If you do some small tweaks to your code and allow redis to help you do the heavy lifting, that is.\nIn this talk I'll lay down some theory on how you can identify and approach such problems and together we'll dive into a few practical examples",
+        "thumbnail": "https://i.ytimg.com/vi/Ro_JtxjWZLg/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=Ro_JtxjWZLg",
+        "original_url": "https://www.youtube.com/watch?v=Ro_JtxjWZLg"
+    },
+    {
+        "index": 43,
+        "title": "Rebecca Martin - Fighting Bots with Python and Machine Learning",
+        "url": "https://www.youtube.com/watch?v=TvZh_9MLVMY",
+        "video_id": "TvZh_9MLVMY",
+        "uploader": "Python Ireland",
+        "uploader_id": "@PythonIreland",
+        "uploader_url": "https://www.youtube.com/@PythonIreland",
+        "upload_date": "20230617",
+        "duration": 1719,
+        "view_count": 145,
+        "like_count": 2,
+        "comment_count": null,
+        "tags": [
+            "Python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "Over lockdown, I re-explored old games that I had played in the past, one of them being League of Legends. One thing that interested me in particular is people using automated scripts or bots to play the game for them, often times to get the account to the lowest rank possible, and sell those accounts on for a substantial amount of money. This behaviour ruins the game experience for the rest of the players in the team, and so faced with this problem I aim to present a potential solution, using Python and machine learning libraries. As this is my first proper experience using machine learning in Python, I hope to share my insights on what I have learnt from my personal project and what you can take away from my experiences.",
+        "thumbnail": "https://i.ytimg.com/vi/TvZh_9MLVMY/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=TvZh_9MLVMY",
+        "original_url": "https://www.youtube.com/watch?v=TvZh_9MLVMY"
+    },
+    {
+        "index": 44,
+        "title": "Stephen McInerney - NLP Topic Modeling and Scraping of conference talks to find which topics are hot",
+        "url": "https://www.youtube.com/watch?v=UvBs6xoQsfo",
+        "video_id": "UvBs6xoQsfo",
+        "uploader": "Python Ireland",
+        "uploader_id": "@PythonIreland",
+        "uploader_url": "https://www.youtube.com/@PythonIreland",
+        "upload_date": "20230704",
+        "duration": 1702,
+        "view_count": 73,
+        "like_count": 3,
+        "comment_count": null,
+        "tags": [
+            "Python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "NLP (Natural Language Processing) and Topic Modeling are subdomains of Machine Learning which are core technologies for Python data scientists; and the automated collection of data by Scraping (in a TOS-compliant,ethical way) is a rarely-discussed practice.",
+        "thumbnail": "https://i.ytimg.com/vi/UvBs6xoQsfo/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=UvBs6xoQsfo",
+        "original_url": "https://www.youtube.com/watch?v=UvBs6xoQsfo"
+    },
+    {
+        "index": 45,
+        "title": "Christian Ledermann - A Tale of two Kitchens, hyper modernising your code base.",
+        "url": "https://www.youtube.com/watch?v=ZBTRWYK_4t4",
+        "video_id": "ZBTRWYK_4t4",
+        "uploader": "Python Ireland",
+        "uploader_id": "@PythonIreland",
+        "uploader_url": "https://www.youtube.com/@PythonIreland",
+        "upload_date": "20231208",
+        "duration": 2114,
+        "view_count": 111,
+        "like_count": 4,
+        "comment_count": null,
+        "tags": [
+            "Python",
+            "PyConIe",
+            "PyConIE 2022",
+            "hypermodern",
+            "python hypermodern"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "Christian Ledermann\nA Tale of two Kitchens, hyper modernising your code base.\nWhen starting a new python project, the “hypermodern” python ‘template’ is a popular choice. Its style is opinionated and strict, and it brings a consistent style and today's best practices. How do I bring my legacy code base up to this standard?\n\nA Consistent style and standard and the consistent use of the same tools in all your code, makes it easier to reason about, reduces context switching, thus reducing waste (in the LEAN sense). A clean environment is good for your health and safety, enabling you to deliver quality faster.\n\nThis talk goes deeper into how to modernise your legacy code base to reduce your technical debt, to make it easier for you to tackle the real challenges without ever having to discuss a style guide again. It will provide tips, tricks and tools to make your “hypermodernization” effort as smooth and easy as possible.",
+        "thumbnail": "https://i.ytimg.com/vi/ZBTRWYK_4t4/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=ZBTRWYK_4t4",
+        "original_url": "https://www.youtube.com/watch?v=ZBTRWYK_4t4"
+    },
+    {
+        "index": 46,
+        "title": "James Shield - Hacking a Python Hackathon",
+        "url": "https://www.youtube.com/watch?v=dD4PAIvXVD0",
+        "video_id": "dD4PAIvXVD0",
+        "uploader": "Python Ireland",
+        "uploader_id": "@PythonIreland",
+        "uploader_url": "https://www.youtube.com/@PythonIreland",
+        "upload_date": "20230630",
+        "duration": 1221,
+        "view_count": 63,
+        "like_count": 0,
+        "comment_count": null,
+        "tags": [
+            "Python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "A story about organizing an internal on-site python hackathon and all that can go wrong about it",
+        "thumbnail": "https://i.ytimg.com/vi/dD4PAIvXVD0/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=dD4PAIvXVD0",
+        "original_url": "https://www.youtube.com/watch?v=dD4PAIvXVD0"
+    },
+    {
+        "index": 47,
+        "title": "Coding on the Healthcare Frontline: Developing Medical Imaging AI from within an Irish Hospital",
+        "url": "https://www.youtube.com/watch?v=gZTXALO2vpc",
+        "video_id": "gZTXALO2vpc",
+        "uploader": "Python Ireland",
+        "uploader_id": "@PythonIreland",
+        "uploader_url": "https://www.youtube.com/@PythonIreland",
+        "upload_date": "20230506",
+        "duration": 2737,
+        "view_count": 232,
+        "like_count": 10,
+        "comment_count": 1,
+        "tags": [
+            "Python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "Exploring the application of python software solutions in radiology that are in use and in development in an Irish Hospital. From use case discussions to data acquisition and modelling, this session will detail the development processes for Artificial Intelligence in Irish Radiology.",
+        "thumbnail": "https://i.ytimg.com/vi/gZTXALO2vpc/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=gZTXALO2vpc",
+        "original_url": "https://www.youtube.com/watch?v=gZTXALO2vpc"
+    },
+    {
+        "index": 48,
+        "title": "Allyn Hunt: \"Destiny-Focus: A Python and ReactJS powered stat tracking app for Destiny 2, the game\"",
+        "url": "https://www.youtube.com/watch?v=iN3WlfVtCo4",
+        "video_id": "iN3WlfVtCo4",
+        "uploader": "Python Ireland",
+        "uploader_id": "@PythonIreland",
+        "uploader_url": "https://www.youtube.com/@PythonIreland",
+        "upload_date": "20230830",
+        "duration": 2063,
+        "view_count": 94,
+        "like_count": 2,
+        "comment_count": 1,
+        "tags": [
+            "Python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "This talk will focus on the creation of a stat tracking and sharing application for the game Destiny 2.\n\nDestiny-Focus is an app for Destiny the game, helping you focus on improving particular aspects of your playstyle, for casual or competitive PvP, PvE, or Raiding game modes.\nTo achieve this, Destiny-Focus allows you to choose an area you want to focus on improving, such as your PvP Kill / Death Ratio (K/D R) or your accuracy with a particular weapon type, such as tracking headshots with your favourite sniper.\nDestiny-Focus pulls data from your last (30-200) games, analyses the data, and gives users actionable feedback, or focus goals, to help improve their gamestyle.\nPlayers are also able to search for their friends or favourite streamers accounts, and view their game stats and focus goals.\n\nDestiny-Focus is built with a Flask backend and a frontend designed in ReactJS and TypeScript.\nThe Flask app is used for user authentication, storing links to liked activities, storing the game \"Manifest\" details of in game assets - such as weapons and armour.\nUsers can also like and share their favourite games with their friends. Liked games are stored in a PostgreSQL database and a GUI was designed to help playuers navigate and share their favourite games.\nThe app builds a sharable link where the \"Post Game Carnage Report\" can be shared with friends, without authorization, even if they don't have Destiny accounts.\n\nNotes and comments\nSee below for examples of a sharable links to post game stats:\nhttps://destiny-focus.me/pgcr/10661262909\nhttps://destiny-focus.me/pgcr/11145689442",
+        "thumbnail": "https://i.ytimg.com/vi/iN3WlfVtCo4/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=iN3WlfVtCo4",
+        "original_url": "https://www.youtube.com/watch?v=iN3WlfVtCo4"
+    },
+    {
+        "index": 49,
+        "title": "Alessandro Molina - Apache Arrow as a full stack data engineering solution",
+        "url": "https://www.youtube.com/watch?v=iPVZnR_JdwI",
+        "video_id": "iPVZnR_JdwI",
+        "uploader": "Python Ireland",
+        "uploader_id": "@PythonIreland",
+        "uploader_url": "https://www.youtube.com/@PythonIreland",
+        "upload_date": "20230706",
+        "duration": 2547,
+        "view_count": 314,
+        "like_count": 6,
+        "comment_count": null,
+        "tags": [
+            "Python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "Apache Arrow has set itself as the standard data interchange format between processes and systems dealing with high amounts of data in the data engineering field. PyArrow is the Python implementation of Apache Arrow and it provides access to all Apache Arrow features.\n\nArrow has evolved as a on-disk storage format, an in-memory format, a format to exchange data over network and a compute engine. This allows it to be used as a full-stack solution in the data engineering world, and we will see how we can combine those capabilities to build a fully functional data engineering solution that is incredibly effective and fast.",
+        "thumbnail": "https://i.ytimg.com/vi/iPVZnR_JdwI/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=iPVZnR_JdwI",
+        "original_url": "https://www.youtube.com/watch?v=iPVZnR_JdwI"
+    },
+    {
+        "index": 50,
+        "title": "Ritik Agarwal - FAST API and Deploying ML Models using it on AWS",
+        "url": "https://www.youtube.com/watch?v=j02rWtWh054",
+        "video_id": "j02rWtWh054",
+        "uploader": "Python Ireland",
+        "uploader_id": "@PythonIreland",
+        "uploader_url": "https://www.youtube.com/@PythonIreland",
+        "upload_date": "20230623",
+        "duration": 1718,
+        "view_count": 114,
+        "like_count": 3,
+        "comment_count": null,
+        "tags": [
+            "Python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "FastAPI is a quite new modern, fast (high-performance), web framework for building APIs using Python. I will be speaking and demonstrating about FastAPI from basics of creating an API to ultimately deploy a full Pytorch Model on AWS using this framework.\nThere are many popular frameworks that can be used to do this task of deploying ML models like Flask and Django. Django is usually used for large scale application and takes quite a bit time to set up that while Flask is usually your go-to for quickly deploying your model on a web app.\nFASTAPI is becoming quite popular, so much so that companies like Netflix and Uber are using it. So let’s understand what’s making FastAPI so popular",
+        "thumbnail": "https://i.ytimg.com/vi/j02rWtWh054/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=j02rWtWh054",
+        "original_url": "https://www.youtube.com/watch?v=j02rWtWh054"
+    },
+    {
+        "index": 51,
+        "title": "Mark Smith - Stupid Things I've Done With Python",
+        "url": "https://www.youtube.com/watch?v=jIM5urFHf2k",
+        "video_id": "jIM5urFHf2k",
+        "uploader": "Python Ireland",
+        "uploader_id": "@PythonIreland",
+        "uploader_url": "https://www.youtube.com/@PythonIreland",
+        "upload_date": "20231208",
+        "duration": 1909,
+        "view_count": 4945,
+        "like_count": 116,
+        "comment_count": 13,
+        "tags": [
+            "Python",
+            "PyConIe",
+            "metaclasses",
+            "dunder",
+            "dunder methods",
+            "fun"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "Stupid Things I've Done With Python\nI have a GitHub repository that contains a compilation of all the awful code I've written over the years, abusing features like metaclasses, decorators, various __dunder__ methods, and the mutable nature of Python's underlying data structures.\n\nIt's a funny way to see how Python works under the hood, but it's also educational.\n\nReally!\n\nEach of the tricks is entertainingly terrible. But they're also mostly self-contained ways to see what happens when you override certain behaviours of the Python language.\nAnyone with an intermediate level of Python understanding should be able to follow along and learn something.\n\nI will cover:\n\n* Replacing an imported module with a class, so attribute lookups can be @properties, with _hilarious_ results.\n* Overriding the `__sub__` magic method to create a hyphenated, fuzzy-matching version of a boolean.\n* Using __getattr__ to save time implementing all the functions in the `math` module.\n* Using __eq__ to make things that aren't really the same look the same.\n\nThis talk is an entertaining tour of the Python Data Model, and the things you can do - if you're so inclined.",
+        "thumbnail": "https://i.ytimg.com/vi/jIM5urFHf2k/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=jIM5urFHf2k",
+        "original_url": "https://www.youtube.com/watch?v=jIM5urFHf2k"
+    },
+    {
+        "index": 52,
+        "title": "Ramon Perez - Getting Started with Feature Stores",
+        "url": "https://www.youtube.com/watch?v=mGTSYmXA3qA",
+        "video_id": "mGTSYmXA3qA",
+        "uploader": "Python Ireland",
+        "uploader_id": "@PythonIreland",
+        "uploader_url": "https://www.youtube.com/@PythonIreland",
+        "upload_date": "20230520",
+        "duration": 2297,
+        "view_count": 271,
+        "like_count": 5,
+        "comment_count": null,
+        "tags": [
+            "Python",
+            "data science",
+            "feature store"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "As machine learning-powered applications become more ubiquitous, so do the tools we create and use to optimize development time and collaboration across teams. One such tool that has gained popularity in recent years is the feature store as its adoption helps solve pressing issues at the infrastructure level before and after machine learning takes place within a data science project.",
+        "thumbnail": "https://i.ytimg.com/vi/mGTSYmXA3qA/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=mGTSYmXA3qA",
+        "original_url": "https://www.youtube.com/watch?v=mGTSYmXA3qA"
+    },
+    {
+        "index": 53,
+        "title": "Cheuk Ho - Trying No GIL on Scientific Programming",
+        "url": "https://www.youtube.com/watch?v=nXKjwM_k1i0",
+        "video_id": "nXKjwM_k1i0",
+        "uploader": "Python Ireland",
+        "uploader_id": "@PythonIreland",
+        "uploader_url": "https://www.youtube.com/@PythonIreland",
+        "upload_date": "20230622",
+        "duration": 2247,
+        "view_count": 39,
+        "like_count": 0,
+        "comment_count": 1,
+        "tags": [
+            "Python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "Recently Sam Gross, the author of nogil fork on Python 3.9, demonstrates the GIL can be removed. For scientific programs which use heavy CPU-bound processes, it could be a huge performance improvement. In this talk, we will see if this is true and compare the nogil version to the original.",
+        "thumbnail": "https://i.ytimg.com/vi/nXKjwM_k1i0/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=nXKjwM_k1i0",
+        "original_url": "https://www.youtube.com/watch?v=nXKjwM_k1i0"
+    },
+    {
+        "index": 54,
+        "title": "Dom Weldon: It's Your Call(able): a tour of Python's callable (function) interface",
+        "url": "https://www.youtube.com/watch?v=pzV-J1B6qJ8",
+        "video_id": "pzV-J1B6qJ8",
+        "uploader": "Python Ireland",
+        "uploader_id": "@PythonIreland",
+        "uploader_url": "https://www.youtube.com/@PythonIreland",
+        "upload_date": "20231108",
+        "duration": 2093,
+        "view_count": 106,
+        "like_count": 0,
+        "comment_count": null,
+        "tags": [
+            "Python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "A deep dive into python functions and the callable interface surrounding them. We take a tour into everything that happens on on a “def” line in Python, and explore how to make the most of all the rich metadata provided about functions, before going into detail hacking the Python decorator pattern.\n\nAbstract\nFunctions are fundamental to python, and are amongst the first features of python that most users learn. We call a function with arguments, and it returns a value. However, there is more to this callable interface than meets the eye, and there are lots of useful and powerful things we can do with the callable interface. You may have come across many of these already: (anonymous) lambda functions, the call magic method, the decorator pattern, the doc property, and modules like functools and inspect which provide detailed about functions and allow us to alter functions at runtime. The now-retired Python 3.6 release added typing annotations to this mix, and opened up a new world of metadata to use alongside your callables.\n\nLots of libraries, particularly web frameworks like Flask, Django, and FastAPI, and testing toolkits like pytest, use this callable interface to implement their API. As developers, understanding these advanced features of python’s callable interface is particularly useful when writing generic, automation focused code, and understanding how such prominent libraries work.\n\nThis talk gives a deep-dive into python functions, and the associated callable interface. We’ll start with a quick tour of the basics, before covering python’s more advanced callable features, and exploring some examples about how, why, and when you may wish to use these features yourself.",
+        "thumbnail": "https://i.ytimg.com/vi/pzV-J1B6qJ8/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=pzV-J1B6qJ8",
+        "original_url": "https://www.youtube.com/watch?v=pzV-J1B6qJ8"
+    },
+    {
+        "index": 55,
+        "title": "Muhammad Atif Qureshi - Rapid Cues for Research: COVID-19 Exploratory Search System Using Taxonomies",
+        "url": "https://www.youtube.com/watch?v=rSkyIu7Av_k",
+        "video_id": "rSkyIu7Av_k",
+        "uploader": "Python Ireland",
+        "uploader_id": "@PythonIreland",
+        "uploader_url": "https://www.youtube.com/@PythonIreland",
+        "upload_date": "20230620",
+        "duration": 2270,
+        "view_count": 64,
+        "like_count": 0,
+        "comment_count": null,
+        "tags": [
+            "Python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "RCES, Rapid Cues for Exploratory Search is a human-centric search system developed in an attempt to navigate scientific literature related to COVID-19. It is analogous to a telescope that can rapidly discover concepts related to COVID-19 and speed up the process of finding the needle in the haystack of the knowledge pool. It is built on top of knowledge discovery techniques enabling users to explore COVID-19 concepts easily.",
+        "thumbnail": "https://i.ytimg.com/vi/rSkyIu7Av_k/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=rSkyIu7Av_k",
+        "original_url": "https://www.youtube.com/watch?v=rSkyIu7Av_k"
+    },
+    {
+        "index": 56,
+        "title": "Richard Rowland: Why \"Hello World\" is a Massive Operation",
+        "url": "https://www.youtube.com/watch?v=u6XDRzLX6Eo",
+        "video_id": "u6XDRzLX6Eo",
+        "uploader": "Python Ireland",
+        "uploader_id": "@PythonIreland",
+        "uploader_url": "https://www.youtube.com/@PythonIreland",
+        "upload_date": "20231108",
+        "duration": 2081,
+        "view_count": 134,
+        "like_count": 2,
+        "comment_count": null,
+        "tags": [
+            "Python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "Why \"Hello World\" is a Massive Operation - From Python code to Stack Virtual Machine\n\nPython is a widely-used programming language thanks to its simple code syntax, but this convenience is brought by the hard work of the compiler. Among the many implementations (like PyPy and JPython), we will look at the most widely used CPython implementation. \nThe talk will look at the compilation steps, and examine how the resulting bytecode will be executed in the Python virtual machine. Before a simple string is displayed on a terminal, CPython processes code performs complicated tasks from lexical analysis, parsing, compilation, and to evaluation loop. Even executing a simple program like print(“Hello world”) requires this laborious process performed instantly on the computer. \nBy understanding the execution pipeline, we can identify execution bottlenecks to improve code performance.",
+        "thumbnail": "https://i.ytimg.com/vi/u6XDRzLX6Eo/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=u6XDRzLX6Eo",
+        "original_url": "https://www.youtube.com/watch?v=u6XDRzLX6Eo"
+    },
+    {
+        "index": 57,
+        "title": "Liam Brannigan - Dataframes in python: a new era begins",
+        "url": "https://www.youtube.com/watch?v=vn7vtrWeuvI",
+        "video_id": "vn7vtrWeuvI",
+        "uploader": "Python Ireland",
+        "uploader_id": "@PythonIreland",
+        "uploader_url": "https://www.youtube.com/@PythonIreland",
+        "upload_date": "20230705",
+        "duration": 1467,
+        "view_count": 217,
+        "like_count": 7,
+        "comment_count": null,
+        "tags": [
+            "Python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "Pandas has been the mainstay of data processing in python for over 10 years. However, new libraries building on radically different concepts are making pandas obsolete. This talk will introduce 3 of the most promising new libraries: DuckDB, Vaex and Polars and show the use cases where they excel",
+        "thumbnail": "https://i.ytimg.com/vi/vn7vtrWeuvI/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=vn7vtrWeuvI",
+        "original_url": "https://www.youtube.com/watch?v=vn7vtrWeuvI"
+    },
+    {
+        "index": 58,
+        "title": "Jim Dowling - Data Validation for ML using Great Expectations and Hopsworks",
+        "url": "https://www.youtube.com/watch?v=wj5ni1EH02I",
+        "video_id": "wj5ni1EH02I",
+        "uploader": "Python Ireland",
+        "uploader_id": "@PythonIreland",
+        "uploader_url": "https://www.youtube.com/@PythonIreland",
+        "upload_date": "20230621",
+        "duration": 2311,
+        "view_count": 113,
+        "like_count": 2,
+        "comment_count": null,
+        "tags": [
+            "Python"
+        ],
+        "categories": [
+            "Science & Technology"
+        ],
+        "description": "Have you ever trained an awesome model just to have it break in production because of a null value? At its core a feature store needs to provide reliable features to data scientists to build and productionize models. So how can we avoid garbage in, garbage out situations? Great expectations is the most popular library for data validation, and so the two are a natural fit. In this talk we will cover the core concepts of Great Expectations and how you can leverage them in a feature store.",
+        "thumbnail": "https://i.ytimg.com/vi/wj5ni1EH02I/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=wj5ni1EH02I",
+        "original_url": "https://www.youtube.com/watch?v=wj5ni1EH02I"
+    }
+]

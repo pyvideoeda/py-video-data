@@ -1,0 +1,954 @@
+﻿index,title,url,video_id,uploader,uploader_id,uploader_url,upload_date,duration,view_count,like_count,comment_count,tags,categories,description,thumbnail,age_limit,is_live,was_live,availability,webpage_url,original_url
+1,Opening Ceremony,https://www.youtube.com/watch?v=9bYRhwB-Cqs,9bYRhwB-Cqs,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20231016,872,126,1,,"PyConZA,PyConZA2023,Python,South Africa,Programming,Conference,Software",Science & Technology,"Talk page: https://za.pycon.org/talks/opening-ceremony/
+
+
+The official opening of the conference and brief run-down of stuff attendees need to know.
+
+
+Sponsors:
+  Platinum:
+    Python Software Foundation: https://www.python.org/psf/membership
+  Patron:
+    Thinkst Canary: https://canary.tools/
+    Afrolabs: http://www.afrolabs.co.za/",https://i.ytimg.com/vi/9bYRhwB-Cqs/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=9bYRhwB-Cqs,https://www.youtube.com/watch?v=9bYRhwB-Cqs
+2,Receipt Enhancement using Image Processing,https://www.youtube.com/watch?v=r5xbgd9GUaQ,r5xbgd9GUaQ,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20231031,2035,167,7,,"PyConZA,PyConZA2023,Python,South Africa,Programming,Conference,Software",Science & Technology,"Talk page: https://za.pycon.org/talks/23-receipt-enhancement-using-image-processing/
+
+
+Speakers: Verosha Pillay & Divyan Hirasen
+
+Track: Data Science
+
+Type: Talk
+
+Room: Talk Room 1
+
+Time: Oct 05 (Thu): 11:00
+
+Duration: 0:45
+
+Audience: The audience for this investigation includes individuals or businesses interested in leveraging image segmentation, image processing, and OCR techniques.
+
+What they will get out of it: The audience will gain insights into how image segmentation and image processing techniques can be applied to standardize and enhance receipt photos, leading to improved storage quality. They will also understand the benefits of using OCR for extracting key information from receipts, making it easier to store and access them for warranty purposes. The investigation will showcase the potential of developing a proof of concept (POC) that simplifies the process of locating receipts and provides a convenient digital record accessible via email notifications.
+
+What will be covered: The investigation will cover the following key points:
+  Image Segmentation and Processing
+  Optical Character Recognition (OCR)
+  Simplifying Receipt Management
+  Benefits and Challenges
+  Future Improvements
+
+
+Sponsors:
+  Platinum:
+    Python Software Foundation: https://www.python.org/psf/membership
+  Patron:
+    Thinkst Canary: https://canary.tools/
+    Afrolabs: http://www.afrolabs.co.za/",https://i.ytimg.com/vi_webp/r5xbgd9GUaQ/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=r5xbgd9GUaQ,https://www.youtube.com/watch?v=r5xbgd9GUaQ
+3,How to build a data pipeline without data Synthetic data generation and testing with Python,https://www.youtube.com/watch?v=R3BuWKsM0A8,R3BuWKsM0A8,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20231031,1856,232,2,1.0,"PyConZA,PyConZA2023,Python,South Africa,Programming,Conference,Software",Science & Technology,"Talk page: https://za.pycon.org/talks/28-how-to-build-a-data-pipeline-without-data-synthetic-data-generation-and-testing-with-python/
+
+
+Speaker: Ruan Pretorius
+
+Track: Testing
+
+Type: Talk
+
+Room: Main Hall
+
+Time: Oct 05 (Thu): 11:45
+
+Duration: 0:45
+
+Data pipelines are essential for transforming, validating, and loading data from various sources into a target database or data warehouse. However, building and testing data pipelines can be challenging when the real data is not available, either due to privacy issues, technical limitations, or simply because the data is not yet collected. How can we ensure that our data pipelines are robust and reliable without having access to the actual data?
+
+In this talk, we will share our experience of creating synthetic data to test data pipelines using Python. We will demonstrate how we used some statistical methods and Python packages such as Faker and SDV to generate realistic synthetic data for different use cases, such as customer profiles, transactions, and time series. We will also show how we used Flyway to load the synthetic data into a Postgres database and perform repeatable deployments. We will discuss the benefits and challenges of using synthetic data for testing data pipelines, as well as some best practices and tips for creating and using synthetic data effectively.
+
+This talk is aimed at intermediate-level Python developers who are interested in learning more about synthetic data generation and testing techniques for data pipelines. The talk will include code examples and live demos of the tools and methods we used. By the end of this talk, you will have a better understanding of how to build a data pipeline without data using Python.
+
+
+Sponsors:
+  Platinum:
+    Python Software Foundation: https://www.python.org/psf/membership
+  Patron:
+    Thinkst Canary: https://canary.tools/
+    Afrolabs: http://www.afrolabs.co.za/",https://i.ytimg.com/vi/R3BuWKsM0A8/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=R3BuWKsM0A8,https://www.youtube.com/watch?v=R3BuWKsM0A8
+4,From Chaos to Zen: Lessons Learned from Developing User-Friendly APIs,https://www.youtube.com/watch?v=75le4cphado,75le4cphado,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20231031,2442,151,0,,"PyConZA,PyConZA2023,Python,South Africa,Programming,Conference,Software",Science & Technology,"Talk page: https://za.pycon.org/talks/37-from-chaos-to-zen-lessons-learned-from-developing-user-friendly-apis/
+
+
+Speaker: Stefan Van der Merwe
+
+Track: Other
+
+Type: Talk
+
+Room: Main Hall
+
+Time: Oct 05 (Thu): 14:15
+
+Duration: 0:45
+
+In the world of software development, APIs act as the middlemen between complicated systems and the people who work with them - developers. However, in this exchange of data and instructions, we often forget a fundamental truth: developers are people, not robots. It's time our APIs start recognizing and respecting this simple fact.
+
+Join us on our journey to create APIs that are as user-friendly as possible. In this PyCon talk, we'll dive into the intriguing realm of designing Python package APIs and share the valuable lessons we've learned along the way.
+
+From our own experiences, we've uncovered some golden rules for API design: don't use inconsistent names, don't make data types unpredictable, keep documentation clear and consistent, and always handle errors gracefully. Ignoring these principles can turn an API into a confusing maze for developers.
+
+But we won't just point out the pitfalls; we'll also guide you through common mistakes to avoid, such as insufficient documentation, unnecessarily simple or overly complex endpoints, and a lack of transparency regarding rate limits and quotas.
+
+It's important to note that APIs aren't limited to web services; they can take various forms. During this presentation, we'll focus on Python package APIs and demonstrate how these principles apply to different situations.
+
+As a shining example of well-designed web service API clients, we encourage you to check out the Google API Python Client. For Python package API design, explore the Polars project, which is a great project to study.
+
+Additionally, we'll share a compelling case study related to a product we heavily use. This real-world example will help you understand these principles in action.
+
+Expect relatable stories, practical tips, and a fresh perspective on API design. Our mission is crystal clear: to bring empathy-driven design into the world of API development, one Python package at a time. Join us on this journey to add a touch of Zen to the sometimes chaotic world of coding.
+
+
+Sponsors:
+  Platinum:
+    Python Software Foundation: https://www.python.org/psf/membership
+  Patron:
+    Thinkst Canary: https://canary.tools/
+    Afrolabs: http://www.afrolabs.co.za/",https://i.ytimg.com/vi/75le4cphado/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=75le4cphado,https://www.youtube.com/watch?v=75le4cphado
+5,Dynamically serving REST endpoints for database stored procedures with FastAPI,https://www.youtube.com/watch?v=V-HTUVpbuPI,V-HTUVpbuPI,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20231017,2287,540,3,,"PyConZA,PyConZA2023,Python,South Africa,Programming,Conference,Software",Science & Technology,"Talk page: https://za.pycon.org/talks/13-dynamically-serving-rest-endpoints-for-database-stored-procedures-with-fastapi/
+
+
+Speaker: Kim van Wyk
+
+Track: Web
+
+Type: Talk
+
+Room: Talk Room 1
+
+Time: Oct 06 (Fri): 09:00
+
+Duration: 0:45
+
+This talk covers 1 approach to making stored procedures in an internal database available as REST endpoints for easier access to internal or even external parties. Like many organisations my employer has a large set of useful stored procedures in their primary database (MS SQL Server in this case) which provide a variety of important functions to the business. It would add value to several business areas and external partners to be able to use these stored procedures but providing wide-spread direct database access has significant security and data visibility issues.
+
+I discuss a 2 step approach to solve this - using SQLAlchemy to dynamically determine the details of the available stored procedures and then using Jinja2 to generate Pydantic models and FastAPI endpoints for each stored procedure. Jinja2 is most commonly associated with HTML templating, particularly in Django. It can however be run standalone and can generate any text, not just HTML, including in this case Python code.
+
+I will also discuss deployment via a Docker container with the capacity to generate up-to-date endpoints when the container is spun up.
+
+The talk should hopefully be of interest to mid-level Python developers, covering a solution to an issue that many developers have probably not needed to consider.
+
+
+URLs:
+  Slides (pdf): https://2023.za.pycon.org/media/pages_files/Dynamic_database_REST_endpoints_with_FastAPI.pdf
+  Gitlab Repo: https://gitlab.com/kimvanwyk/pyconza2023-talk
+
+
+Sponsors:
+  Platinum:
+    Python Software Foundation: https://www.python.org/psf/membership
+  Patron:
+    Thinkst Canary: https://canary.tools/
+    Afrolabs: http://www.afrolabs.co.za/",https://i.ytimg.com/vi/V-HTUVpbuPI/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=V-HTUVpbuPI,https://www.youtube.com/watch?v=V-HTUVpbuPI
+6,Don't use VSCode,https://www.youtube.com/watch?v=GUovhZYNO-M,GUovhZYNO-M,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20231031,2131,239062,2501,576.0,"PyConZA,PyConZA2023,Python,South Africa,Programming,Conference,Software",Science & Technology,"Talk page: https://za.pycon.org/talks/39-dont-use-vscode/
+
+
+Speaker: James Smith
+
+Track: Other
+
+Type: Talk
+
+Room: Talk Room 1
+
+Time: Oct 06 (Fri): 09:45
+
+Duration: 0:45
+
+Visual Studio Code is a cross-platform editor that has taken the programming world by storm: it's used by about 73% of respondents to a StackOverflow survey in 2023. And what's not to like? It's flexible, fast, very extensible and it's open source in addition to all of this!
+
+Except ... when it's not. There are some technical down-sides to VSCode (especially if you don't have an expensive modern computer), and much of what makes VSCode exceptionally useful isn't actually open source and could be detrimental to the ecosystem as a whole.
+
+I will spend some time in this talk going over the pros and cons of VSCode, its useful features for developers in general and Pythonistas in particular, and importantly the caveats, why I think that it's best avoided.
+
+I will end with an impassioned plea to the local Python community to rely primarily on properly free (libre) software tools for the bulk of their development, I'll demonstrate some of the ones I use, and briefly mention a few other alternatives.
+
+
+Sponsors:
+  Platinum:
+    Python Software Foundation: https://www.python.org/psf/membership
+  Patron:
+    Thinkst Canary: https://canary.tools/
+    Afrolabs: http://www.afrolabs.co.za/",https://i.ytimg.com/vi/GUovhZYNO-M/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=GUovhZYNO-M,https://www.youtube.com/watch?v=GUovhZYNO-M
+7,Durban Maker Space,https://www.youtube.com/watch?v=_YbDKRKNmkg,_YbDKRKNmkg,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20231031,1135,62,0,,"PyConZA,PyConZA2023,Python,South Africa,Programming,Conference,Software",Science & Technology,"Talk page: https://za.pycon.org/talks/43-durban-maker-space/
+
+
+Speaker: Steve Gray
+
+Type: Sponsor Talk
+
+Room: Main Hall
+
+Time: Oct 06 (Fri): 13:30
+
+Duration: 0:15
+
+A brief description of the local Durban Maker Space
+
+
+Sponsors:
+  Platinum:
+    Python Software Foundation: https://www.python.org/psf/membership
+  Patron:
+    Thinkst Canary: https://canary.tools/
+    Afrolabs: http://www.afrolabs.co.za/",https://i.ytimg.com/vi/_YbDKRKNmkg/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=_YbDKRKNmkg,https://www.youtube.com/watch?v=_YbDKRKNmkg
+8,Lightning Talk - Kids invoke innovation,https://www.youtube.com/watch?v=4UEY5kW6JvE,4UEY5kW6JvE,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20231016,271,40,3,,"PyConZA,PyConZA2023,Python,South Africa,Programming,Conference,Software",Science & Technology,"Talk page: https://za.pycon.org/talks/lightning-talks/
+
+
+Speaker: Rohan Schwartz
+
+Lightning Talks
+
+
+What, When & How?
+
+Lightning talks are a space to give a short (strictly less than 5 minutes) talk to the whole conference. They're often funny, slightly strange, or informative -- and they're a great way to give a first talk at a conference.
+
+We will have lightning talks this year, during the closing session on Friday before the official closing.
+
+To submit a lightning talk, email team@za.pycon.org or talks@za.pycon.org with your title and a one or two sentence description
+
+Due to technical limitations, we are only accepting talks to be delivered in person.
+
+
+URLs
+  Slides (pdf): https://2023.za.pycon.org/media/pages_files/homepy.pdf
+
+
+Sponsors:
+  Platinum:
+    Python Software Foundation: https://www.python.org/psf/membership
+  Patron:
+    Thinkst Canary: https://canary.tools/
+    Afrolabs: http://www.afrolabs.co.za/",https://i.ytimg.com/vi/4UEY5kW6JvE/sddefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=4UEY5kW6JvE,https://www.youtube.com/watch?v=4UEY5kW6JvE
+9,Lightning Talk - Tidying up before yourself,https://www.youtube.com/watch?v=U3X0URfmfIY,U3X0URfmfIY,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20231016,338,123,2,,"PyConZA,PyConZA2023,Python,South Africa,Programming,Conference,Software",Science & Technology,"Talk page: https://za.pycon.org/talks/lightning-talks/
+
+
+Speaker: James Smith
+
+Lightning Talks
+
+
+What, When & How?
+
+Lightning talks are a space to give a short (strictly less than 5 minutes) talk to the whole conference. They're often funny, slightly strange, or informative -- and they're a great way to give a first talk at a conference.
+
+We will have lightning talks this year, during the closing session on Friday before the official closing.
+
+To submit a lightning talk, email team@za.pycon.org or talks@za.pycon.org with your title and a one or two sentence description
+
+Due to technical limitations, we are only accepting talks to be delivered in person.
+
+
+
+Sponsors:
+  Platinum:
+    Python Software Foundation: https://www.python.org/psf/membership
+  Patron:
+    Thinkst Canary: https://canary.tools/
+    Afrolabs: http://www.afrolabs.co.za/",https://i.ytimg.com/vi/U3X0URfmfIY/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=U3X0URfmfIY,https://www.youtube.com/watch?v=U3X0URfmfIY
+10,Lightning Talk - real time monitoring of machine learning models using whylabs,https://www.youtube.com/watch?v=hd4tIpgvz9k,hd4tIpgvz9k,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20231016,257,39,1,,"PyConZA,PyConZA2023,Python,South Africa,Programming,Conference,Software",Science & Technology,"Talk page: https://za.pycon.org/talks/lightning-talks/
+
+
+Speaker: Lev Katzav
+
+Lightning Talks
+
+
+What, When & How?
+
+Lightning talks are a space to give a short (strictly less than 5 minutes) talk to the whole conference. They're often funny, slightly strange, or informative -- and they're a great way to give a first talk at a conference.
+
+We will have lightning talks this year, during the closing session on Friday before the official closing.
+
+To submit a lightning talk, email team@za.pycon.org or talks@za.pycon.org with your title and a one or two sentence description
+
+Due to technical limitations, we are only accepting talks to be delivered in person.
+
+
+URLs
+  Slides (pdf): https://2023.za.pycon.org/media/pages_files/pyconza_lev_whylabs_ml_monitoring.pdf
+
+
+Sponsors:
+  Platinum:
+    Python Software Foundation: https://www.python.org/psf/membership
+  Patron:
+    Thinkst Canary: https://canary.tools/
+    Afrolabs: http://www.afrolabs.co.za/",https://i.ytimg.com/vi/hd4tIpgvz9k/hqdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=hd4tIpgvz9k,https://www.youtube.com/watch?v=hd4tIpgvz9k
+11,Lightning Talk - Three Lines of Code at a Time,https://www.youtube.com/watch?v=9WB9SSQTlYk,9WB9SSQTlYk,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20231016,324,379,5,1.0,"PyConZA,PyConZA2023,Python,South Africa,Programming,Conference,Software",Science & Technology,"Talk page: https://za.pycon.org/talks/lightning-talks/
+
+
+Speaker: Jeremy Thurgood
+
+Lightning Talks
+
+
+What, When & How?
+
+Lightning talks are a space to give a short (strictly less than 5 minutes) talk to the whole conference. They're often funny, slightly strange, or informative -- and they're a great way to give a first talk at a conference.
+
+We will have lightning talks this year, during the closing session on Friday before the official closing.
+
+To submit a lightning talk, email team@za.pycon.org or talks@za.pycon.org with your title and a one or two sentence description
+
+Due to technical limitations, we are only accepting talks to be delivered in person.
+
+
+Sponsors:
+  Platinum:
+    Python Software Foundation: https://www.python.org/psf/membership
+  Patron:
+    Thinkst Canary: https://canary.tools/
+    Afrolabs: http://www.afrolabs.co.za/",https://i.ytimg.com/vi/9WB9SSQTlYk/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=9WB9SSQTlYk,https://www.youtube.com/watch?v=9WB9SSQTlYk
+12,Lightning Talk - How to get into tech mentorship,https://www.youtube.com/watch?v=FjWYXbWNk4s,FjWYXbWNk4s,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20231016,374,70,1,,"PyConZA,PyConZA2023,Python,South Africa,Programming,Conference,Software",Science & Technology,"Talk page: https://za.pycon.org/talks/lightning-talks/
+
+
+Speaker: Sheena O'Connell
+
+Lightning Talks
+
+
+What, When & How?
+
+Lightning talks are a space to give a short (strictly less than 5 minutes) talk to the whole conference. They're often funny, slightly strange, or informative -- and they're a great way to give a first talk at a conference.
+
+We will have lightning talks this year, during the closing session on Friday before the official closing.
+
+To submit a lightning talk, email team@za.pycon.org or talks@za.pycon.org with your title and a one or two sentence description
+
+Due to technical limitations, we are only accepting talks to be delivered in person.
+
+
+Sponsors:
+  Platinum:
+    Python Software Foundation: https://www.python.org/psf/membership
+  Patron:
+    Thinkst Canary: https://canary.tools/
+    Afrolabs: http://www.afrolabs.co.za/",https://i.ytimg.com/vi/FjWYXbWNk4s/sddefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=FjWYXbWNk4s,https://www.youtube.com/watch?v=FjWYXbWNk4s
+13,Lightning Talk - Building Change Detection using Siamese Neural Networks,https://www.youtube.com/watch?v=BGPKPZwsEmk,BGPKPZwsEmk,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20231016,418,313,5,,"PyConZA,PyConZA2023,Python,South Africa,Programming,Conference,Software",Science & Technology,"Talk page: https://za.pycon.org/talks/lightning-talks/
+
+
+Speaker: Jolanda Becker
+
+Lightning Talks
+
+
+What, When & How?
+
+Lightning talks are a space to give a short (strictly less than 5 minutes) talk to the whole conference. They're often funny, slightly strange, or informative -- and they're a great way to give a first talk at a conference.
+
+We will have lightning talks this year, during the closing session on Friday before the official closing.
+
+To submit a lightning talk, email team@za.pycon.org or talks@za.pycon.org with your title and a one or two sentence description
+
+Due to technical limitations, we are only accepting talks to be delivered in person.
+
+
+Sponsors:
+  Platinum:
+    Python Software Foundation: https://www.python.org/psf/membership
+  Patron:
+    Thinkst Canary: https://canary.tools/
+    Afrolabs: http://www.afrolabs.co.za/",https://i.ytimg.com/vi/BGPKPZwsEmk/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=BGPKPZwsEmk,https://www.youtube.com/watch?v=BGPKPZwsEmk
+14,Lightning Talk - kungfu for data scrubbing!,https://www.youtube.com/watch?v=rEzAipzdKNk,rEzAipzdKNk,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20231016,413,45,0,,"PyConZA,PyConZA2023,Python,South Africa,Programming,Conference,Software",Science & Technology,"Talk page: https://za.pycon.org/talks/lightning-talks/
+
+
+Speaker: Andrew Turpin
+
+Lightning Talks
+
+
+What, When & How?
+
+Lightning talks are a space to give a short (strictly less than 5 minutes) talk to the whole conference. They're often funny, slightly strange, or informative -- and they're a great way to give a first talk at a conference.
+
+We will have lightning talks this year, during the closing session on Friday before the official closing.
+
+To submit a lightning talk, email team@za.pycon.org or talks@za.pycon.org with your title and a one or two sentence description
+
+Due to technical limitations, we are only accepting talks to be delivered in person.
+
+
+URLs:
+  Github Repo: https://github.com/Cyber-Mint/pg_scrubfu
+
+
+Sponsors:
+  Platinum:
+    Python Software Foundation: https://www.python.org/psf/membership
+  Patron:
+    Thinkst Canary: https://canary.tools/
+    Afrolabs: http://www.afrolabs.co.za/",https://i.ytimg.com/vi/rEzAipzdKNk/hqdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=rEzAipzdKNk,https://www.youtube.com/watch?v=rEzAipzdKNk
+15,Lightning Talk - SKAO MID Integration and Testing Facility,https://www.youtube.com/watch?v=aWSrJwP_Rpk,aWSrJwP_Rpk,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20231016,304,28,0,,"PyConZA,PyConZA2023,Python,South Africa,Programming,Conference,Software",Science & Technology,"Talk page: https://za.pycon.org/talks/lightning-talks/
+
+
+Speakers: Vhulahani Manukha and Monde Manzini
+
+Lightning Talks
+
+
+What, When & How?
+
+Lightning talks are a space to give a short (strictly less than 5 minutes) talk to the whole conference. They're often funny, slightly strange, or informative -- and they're a great way to give a first talk at a conference.
+
+We will have lightning talks this year, during the closing session on Friday before the official closing.
+
+To submit a lightning talk, email team@za.pycon.org or talks@za.pycon.org with your title and a one or two sentence description
+
+Due to technical limitations, we are only accepting talks to be delivered in person.
+
+
+Sponsors:
+  Platinum:
+    Python Software Foundation: https://www.python.org/psf/membership
+  Patron:
+    Thinkst Canary: https://canary.tools/
+    Afrolabs: http://www.afrolabs.co.za/",https://i.ytimg.com/vi/aWSrJwP_Rpk/hqdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=aWSrJwP_Rpk,https://www.youtube.com/watch?v=aWSrJwP_Rpk
+16,Closing Ceremony,https://www.youtube.com/watch?v=ZvvUT0Xy7vw,ZvvUT0Xy7vw,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20231016,672,24,0,,"PyConZA,PyConZA2023,Python,South Africa,Programming,Conference,Software",Science & Technology,"Talk page: https://za.pycon.org/closing/
+
+
+Wrapping up the conference.
+
+
+Sponsors:
+  Platinum:
+    Python Software Foundation: https://www.python.org/psf/membership
+  Patron:
+    Thinkst Canary: https://canary.tools/
+    Afrolabs: http://www.afrolabs.co.za/",https://i.ytimg.com/vi/ZvvUT0Xy7vw/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=ZvvUT0Xy7vw,https://www.youtube.com/watch?v=ZvvUT0Xy7vw
+17,PRQL: A Modern Language for Data Transformation,https://www.youtube.com/watch?v=DadhJsysvL8,DadhJsysvL8,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20231129,1796,111,3,,"PyConZA,PyConZA2023,Python,South Africa,Programming,Conference,Software",Science & Technology,"Talk page: https://za.pycon.org/talks/31-prql-a-modern-language-for-data-transformation/
+
+
+Speaker: Tobias Brandt
+
+Track: Data Science
+
+Type: Remote Talk
+
+Room: Talk Room 2 (Remote Talks)
+
+Time: Oct 05 (Thu): 11:45
+
+Duration: 0:45
+
+This talk will introduce you to PRQL, a powerful data transformation language designed specifically for data analysts and engineers. PRQL combines the elegance of relational algebra with the usability of popular libraries like Pandas, Polars, dplyr, and LINQ, offering a functional, pipelined query paradigm with modern ergonomics and expressivity. The talk will highlight PRQL’s adaptability to complex analytical queries, demonstrated through interactive examples in Python.
+
+As a modern replacement of SQL, PRQL is built around the organizing principle of pipelined relational queries, and facilitated by a compact set of orthogonal language constructs. These constructs enable seamless composition of complex data pipelines, streamlining data filtering, data transformation, and data aggregation processes. PRQL incorporates modern ergonomics like f-strings, @date literals, and a ?? coalesce operator, as well features such as functions and loop based iteration that have long been missing from SQL.
+
+Beyond seamlessly transpiling into SQL, PRQL also supports multiple SQL dialects. This ensures compatibility with any relational database and data warehouse and allows you to leverage your existing data infrastructure.
+
+PRQL is a completely open-source (Apache 2.0 licensed) and volunteer-driven project and is committed to staying that way forever. Having gained over 8400 stars on GitHub in just over a year, the community response has been incredibly enthusiastic and encouraging! Join us and learn about the futur of data transformation!
+
+
+Sponsors:
+  Platinum:
+    Python Software Foundation: https://www.python.org/psf/membership
+  Patron:
+    Thinkst Canary: https://canary.tools/
+    Afrolabs: http://www.afrolabs.co.za/",https://i.ytimg.com/vi/DadhJsysvL8/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=DadhJsysvL8,https://www.youtube.com/watch?v=DadhJsysvL8
+18,"Packaging for your database schema, schema migration.",https://www.youtube.com/watch?v=xtXybMp0rTs,xtXybMp0rTs,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20231129,1898,64,0,,"PyConZA,PyConZA2023,Python,South Africa,Programming,Conference,Software",Science & Technology,"Talk page: https://za.pycon.org/talks/7-packaging-for-your-database-schema-schema-migration/
+
+
+Speaker: Iwan Vosloo
+
+Track: Other
+
+Type: Talk
+
+Room: Main Hall
+
+Time: Oct 05 (Thu): 11:00
+
+Duration: 0:45
+
+Python ""distribution packages"" result in the wheels you can distribute via PyPI and install using pip ans in so doing provide an excellent way to re-use the code written by others. Each such package contains code and a declaration of which other packages (and which version of such packages) it depends on. This allows one to install a version of a package you wish to use and be assured all its dependencies will also be installed, at their correct versions.
+
+Python distribution packages thus make it easy to dependably re-use code written by others. What about re-using code that rely on a database, and a particular database schema though?
+
+There are tools that allow you to manage database schema and also migrate a database schema to keep up with changing code. However, we are not aware of tools that cater for the possibility that different authors could package code in different distribution packages, each package with its own declaration of what slice of database schema the code it contains need. In this scenario one would have to be able to create a final database schema for a project from the combined set of all the packages in a given final project --- each package providing its own slice of the final database schema. This should be done without the original authors of each of the individual packages having known at the time of authoring their packages which other slices of database schema their package would eventually co-inhabit a database with.
+
+Such packages can also depend on each other on a database schema level: the database schema of one package can have a foreign key referring to the primary key belonging to the schema of another package. On a database level this is similar to one package importing code from another upon which it depends.
+
+Code changes and so would the database schema slice that goes with it. Hence a requirement of this idea is to be able to take a database with existing data in a schema created for a given set of packages and migrate its schema and data to an upgraded set of such interdependent packages.
+
+As a side-line to our experiments with Reahl we have pioneered such database-aware distribution packages as an extension of setuptools. Our ""components"" not only include database schema metadata, but also configuration and internationalisation information specific to a component.
+
+This talk focuses on the database side of things and presents an overview of the problems involved and how we solved them.
+
+
+URLs:
+  Slides (pdf): https://2023.za.pycon.org/media/pages_files/Packaging_your_database_schema.pdf
+  Slides (odp): https://2023.za.pycon.org/media/pages_files/Packaging_your_database_schema.odp
+  Slides (docs.google.com): https://docs.google.com/presentation/d/1FmfPDEndijZitbI-ovJt-7S0ei7CmFasuPCvuAWj2zY/edit#slide=id.p
+
+
+Sponsors:
+  Platinum:
+    Python Software Foundation: https://www.python.org/psf/membership
+  Patron:
+    Thinkst Canary: https://canary.tools/
+    Afrolabs: http://www.afrolabs.co.za/",https://i.ytimg.com/vi/xtXybMp0rTs/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=xtXybMp0rTs,https://www.youtube.com/watch?v=xtXybMp0rTs
+19,Django security for novices,https://www.youtube.com/watch?v=MQJmbhieCQU,MQJmbhieCQU,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20231129,1672,120,2,,"PyConZA,PyConZA2023,Python,South Africa,Programming,Conference,Software",Science & Technology,"Talk page: https://za.pycon.org/talks/12-django-security-for-novices/
+
+
+Track: Web
+
+Type: Talk
+
+Room: Main Hall
+
+Time: Oct 06 (Fri): 09:45
+
+Duration: 0:45
+
+Have you ever developed a Django application and you wonder if your application is secure, then you end up second guessing yourself, eventually you end up getting cold feet and your project never see the light of day, well if you have this talk is for you. In this talk we will look at how to use guard rails that Django provides in order to build a secure application.
+
+Django generally has security in mind as a priority however, one has to know these security aspects in order to implement them as well as avoid removing these controls, this talk will unbutton several security components and tools that are provided by Django and how to use them. Furthermore this talk will highlight best practices that can be implemented within the Django framework before deployment. Last we will look at tools that you can use to check if your web application is working as a starting point.
+
+At the end of the talk attendees should be able to identify security tools provided by Django and should be able to use them. Attendees will also be able to know where to look for the most common web security vulnerabilities.
+
+
+URLs:
+  Slides (pptx): https://2023.za.pycon.org/media/pages_files/Django_Security.pptx
+  Slides (pdf) (converted): https://2023.za.pycon.org/media/pages_files/Django_Security.pdf
+
+
+Sponsors:
+  Platinum:
+    Python Software Foundation: https://www.python.org/psf/membership
+  Patron:
+    Thinkst Canary: https://canary.tools/
+    Afrolabs: http://www.afrolabs.co.za/",https://i.ytimg.com/vi/MQJmbhieCQU/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=MQJmbhieCQU,https://www.youtube.com/watch?v=MQJmbhieCQU
+20,How do domain-specific chatbots work? An Overview of Retrieval Augmented Generation (RAG),https://www.youtube.com/watch?v=byhoVO48PsM,byhoVO48PsM,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20231129,2324,222,4,,"PyConZA,PyConZA2023,Python,South Africa,Programming,Conference,Software",Science & Technology,"Talk page: https://za.pycon.org/talks/35-how-do-domain-specific-chatbots-work-an-overview-of-retrieval-augmented-generation-rag/
+
+
+Speaker: Cory Zue
+
+Track: Other
+
+Type: Remote Talk
+
+Room: Talk Room 2 (Remote Talks)
+
+Time: Oct 06 (Fri): 09:00
+
+Duration: 0:45
+
+There’s a popular open-source Python library called LangChain that can create chatbots that—among other things—do Q&A over any website/document in 3 lines of code. Here’s an example of that from the langchain docs.
+
+from langchain.document_loaders import WebBaseLoader
+
+from langchain.indexes import VectorstoreIndexCreator
+
+loader = WebBaseLoader(""http://www.paulgraham.com/greatwork.html"")
+
+index = VectorstoreIndexCreator().from_loaders([loader])
+
+index.query(""What should I work on?"")
+
+Which outputs an answer specific to Paul Graham’s essay:
+
+""The work you choose should ideally have three qualities: it should be something you have a natural aptitude for, something you have a deep interest in, and something that offers scope to do great work. If you're unsure, you could start by working on your own projects that seem excitingly ambitious to you...""
+
+The first time you run this it feels like pure magic. How does this work?
+
+The answer is a process called retrieval augmented generation, or RAG for short. It is a remarkably simple concept, though also has incredible depth in the details of its implementation.
+
+This entry-level talk will provide a high-level overview of RAG, suitable for all audiences. We’ll start from the big picture workflow of what’s happening, and then zoom in on all the individual pieces. By the end of it, you should have a solid understanding of how those three magic lines of Python code work, and all the principles involved in creating these Q&A bots. It will include details about LLMs, Embeddings, Vector Databases, and more.
+
+
+URLs:
+  Slides: https://2023.za.pycon.org/media/pages_files/How_do_domain-specific_chatbots_work__PyCon_ZA_2023.pdf
+
+
+Sponsors:
+  Platinum:
+    Python Software Foundation: https://www.python.org/psf/membership
+  Patron:
+    Thinkst Canary: https://canary.tools/
+    Afrolabs: http://www.afrolabs.co.za/",https://i.ytimg.com/vi/byhoVO48PsM/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=byhoVO48PsM,https://www.youtube.com/watch?v=byhoVO48PsM
+21,Effective prompt engineering for Python programmers,https://www.youtube.com/watch?v=0VlkdQon6d8,0VlkdQon6d8,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20231129,1869,148,3,1.0,"PyConZA,PyConZA2023,Python,South Africa,Programming,Conference,Software",Science & Technology,"Talk page: https://za.pycon.org/talks/36-effective-prompt-engineering-for-python-programmers/
+
+
+Speaker: Diana Pholo
+
+Track: Teaching and Learning with Python
+
+Type: Remote Talk
+
+Room: Talk Room 2 (Remote Talks)
+
+Time: Oct 05 (Thu): 14:15
+
+Duration: 0:45
+
+The world of technology is witnessing a transformation powered by Large Language Models (LLMs) like ChatGPT and Bing AI. These marvels of AI are reshaping how we interact with machines as they can comprehend and generate human-like text. But to get the most out of these models, you must learn to ask the right question.
+
+Prompt engineering is the art of crafting specific instructions for LLMs. It molds the language model's responses, making them more accurate, relevant, and actionable. Our session will delve into the essence of prompt engineering, addressing its significance for programmers and its role in improving model outputs and reducing biases. We'll explore a variety of prompt types, and offer practical tips for optimisation. Additionally, we'll navigate through real-world case studies, showcasing the tangible impact of prompt engineering on programming tasks. If you're intrigued by the potential of LLMs and eager to harness their power effectively, this presentation is your gateway to unlocking their true potential in your projects.
+
+
+URLs:
+  Slides (pdf): https://2023.za.pycon.org/media/pages_files/Effective_Prompt_Engineering_Slides.pdf
+
+
+Sponsors:
+  Platinum:
+    Python Software Foundation: https://www.python.org/psf/membership
+  Patron:
+    Thinkst Canary: https://canary.tools/
+    Afrolabs: http://www.afrolabs.co.za/",https://i.ytimg.com/vi/0VlkdQon6d8/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=0VlkdQon6d8,https://www.youtube.com/watch?v=0VlkdQon6d8
+22,Green coding with Python,https://www.youtube.com/watch?v=TcQ79WXHNWM,TcQ79WXHNWM,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20231207,3482,452,11,,"PyConZA,PyConZA2023,Python,South Africa,Programming,Conference,Software",Science & Technology,"Talk page: https://za.pycon.org/talks/19-green-coding-with-python/
+
+
+Speaker: Rudi Giesler
+
+Track: Other
+
+Type: Keynote
+
+Room: Main Hall
+
+Time: Oct 05 (Thu): 09:30
+
+Duration: 1:00
+
+Green coding is an environmentally sustainable computing practice.
+
+In this talk we'll be discussing how to put this into practise in our Python applications, practical advice for improving the efficiency of our code, and common pitfalls to avoid. We'll also look at the larger picture and environmental impact of everything that goes into creating and running software.
+
+This talk is for developers at all levels interested in reducing their carbon footprint.
+
+You will leave with an improved awareness of what to prioritise and a toolset for how to make a meaningful difference.
+
+
+URLs:
+  Slides (odp export): https://2023.za.pycon.org/media/pages_files/PyConZA_2023_Green_coding_with_Python_Rudi_Giesler.odp
+  Slides (pdf export): https://2023.za.pycon.org/media/pages_files/PyConZA_2023_Green_coding_with_Python_Rudi_Giesler.pdf
+
+
+Sponsors:
+  Platinum:
+    Python Software Foundation: https://www.python.org/psf/membership
+  Patron:
+    Thinkst Canary: https://canary.tools/
+    Afrolabs: http://www.afrolabs.co.za/",https://i.ytimg.com/vi/TcQ79WXHNWM/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=TcQ79WXHNWM,https://www.youtube.com/watch?v=TcQ79WXHNWM
+23,turtle-bots simulated beginnings,https://www.youtube.com/watch?v=CCaTzwAq108,CCaTzwAq108,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20231212,2294,126,4,,,Science & Technology,"Talk page: https://za.pycon.org/talks/41-turtle-bots-simulated-beginnings/
+
+
+Speaker: campey
+
+Track: Teaching and Learning with Python
+
+Type: Talk
+
+Room: Main Hall
+
+Time: Oct 06 (Fri): 11:45
+
+Duration: 0:45
+
+Continued adventures with teaching python's turtle new tricks, now heading into robotics, starting with simulation in MuJoCo/jupyter/colaboratory.
+
+Last year David shared turtle-translated a prototype of a multilingual turtle. Since then he has spoken to many brilliant people and gotten inspired to try to get python turtle to control robots, with a goal of ""lowering the floor"" to get into robotics.
+
+One significant hurdle to robotics is: getting and using robots. They are expensive and fiddly! This makes them impossibly inaccessible to under-resourced learners.
+
+This talk will share a prototype for a really simple starting point in browser-based robotic turtle simulation (complete with live 3d rendered videos and realistic physics!), and hopefully open the door wide open for you to join in.
+
+
+Sponsors:
+  Platinum:
+    Python Software Foundation: https://www.python.org/psf/membership
+  Patron:
+    Thinkst Canary: https://canary.tools/
+    Afrolabs: http://www.afrolabs.co.za/",https://i.ytimg.com/vi/CCaTzwAq108/sddefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=CCaTzwAq108,https://www.youtube.com/watch?v=CCaTzwAq108
+24,Unlocking Efficiency Python-Powered DOI Creation Automation,https://www.youtube.com/watch?v=GR9KOTgmAGk,GR9KOTgmAGk,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20231212,1792,92,2,1.0,"PyConZA,PyConZA2023,Python,South Africa,Programming,Conference,Software",Science & Technology,"Talk page: https://za.pycon.org/talks/27-unlocking-efficiency-python-powered-doi-creation-automation/
+
+
+Speakers: Sydil Kupa & Zanele Kukuma
+
+Track: Scientific Computing
+
+Type: Talk
+
+Room: Talk Room 1
+
+Time: Oct 05 (Thu): 11:45
+
+Duration: 0:45
+
+In the current time of digital information, the need for an efficient and accurate way of tracking and monitoring scholarly articles and datasets is essential. The Digital Object Identifier (DOI) system, vital to this process, ensures unique, persistent identifiers for digital objects. Previously, we used a manual process of creating DOIs which was daunting and error-prone, especially for scholarly articles with multiple authors. This talk illustrates a Python solution to mitigate these challenges by automating the DOI creation.
+
+Python is the ideal tool for this endeavour because of its simplicity and adaptability. We will discuss the nature of the DOI system, how to cite data using it, and the challenges associated with manually producing DOIs. Furthermore, the presentation will take attendees through a hands-on example of a Python script constructed to speed up a DOI creation.
+
+The powerful libraries that Python provides, grant us access to make DOI creation as smooth as possible. Thus contributing to the research workflow and enabling the creation to be less error-prone. Creating DOIs helps to cite papers better, making research more transparent and available for reuse. The intended impact of the attendees is to understand how Python can play a critical role to automate DOI creation, furthermore gaining the necessary skills to leverage Python libraries to automate such solutions in their own research. Regardless of whether you are a Software engineer, a librarian, a researcher or a data manager, this session will give information on how one can use Python to improve data citation practices and add to the greater quality of the digital scholarly infrastructure.
+
+Bonus, Now that attendees are familiar with how we have used Python to solve a tedious manual process. We are also cognisant that our Python code is of great quality. We measure that code is of great quality by how high or low the value of the piece of code is. Generally, code that is easy to interpret and well-documented is considered to be of high quality. Here are some of the common quantifiers of code that are of high quality. Code that is functional, consistent, easy to understand, meets the client’s needs, is testable, reusable, free of bugs and well documented. These quantifiers are used to check if the automation of DOI creation code is of high or low quality.
+
+
+URLs:
+  Slides (pptx): https://2023.za.pycon.org/media/pages_files/Pycon__Unlocking_efficiency.pptx
+  Slides (pdf): https://2023.za.pycon.org/media/pages_files/Pycon__Unlocking_efficiency.pdf
+
+
+Sponsors:
+  Platinum:
+    Python Software Foundation: https://www.python.org/psf/membership
+  Patron:
+    Thinkst Canary: https://canary.tools/
+    Afrolabs: http://www.afrolabs.co.za/",https://i.ytimg.com/vi/GR9KOTgmAGk/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=GR9KOTgmAGk,https://www.youtube.com/watch?v=GR9KOTgmAGk
+25,Toolsmithing: convenience through code,https://www.youtube.com/watch?v=9g8R8fWF38A,9g8R8fWF38A,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20231212,2494,137,3,,"PyConZA,PyConZA2023,Python,South Africa,Programming,Conference,Software",Science & Technology,"Talk page: https://za.pycon.org/talks/18-toolsmithing-convenience-through-code/
+
+
+Speaker: Jeremy Thurgood
+
+Track: Infrastructure / DevOps
+
+Type: Talk
+
+Room: Main Hall
+
+Time: Oct 06 (Fri): 11:00
+
+Duration: 0:45
+
+The work we do, and life in general, is full of all kinds of tedious, repetitive tasks which would be so much quicker and easier if only there were a tool to handle the boring bits.
+
+Building tools to automate common tasks and fill the gaps where existing tools don't quite do what you need can save a whole lot of time and effort, and it's usually not all that difficult to do.
+
+In this talk I'll walk through the design and implementation of a handful of tools I've built, from tiny shell scripts to moderately complex cluster configuration managers. Along the way I'll discuss why I decided to build them, what problems they solve, and a bit about the implementation.
+
+
+Sponsors:
+  Platinum:
+    Python Software Foundation: https://www.python.org/psf/membership
+  Patron:
+    Thinkst Canary: https://canary.tools/
+    Afrolabs: http://www.afrolabs.co.za/",https://i.ytimg.com/vi/9g8R8fWF38A/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=9g8R8fWF38A,https://www.youtube.com/watch?v=9g8R8fWF38A
+26,Leveraging python in Geospatial Applications,https://www.youtube.com/watch?v=_nn07uVJCao,_nn07uVJCao,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20231212,2264,78,2,,"PyConZA,PyConZA2023,Python,South Africa,Programming,Conference,Software",Science & Technology,"Talk page: https://za.pycon.org/talks/26-leveraging-python-in-geospatial-applications/
+
+
+Speaker: Admire Nyakudya
+
+Track: Web
+
+Type: Talk
+
+Room: Main Hall
+
+Time: Oct 06 (Fri): 09:00
+
+Duration: 0:45
+
+Technologies like Google Maps and OpenStreetMap have put a spotlight on Geographic Information systems. Mainstream GIS activities involve geoprocessing, visualisation of data using desktop GIS and in some limited cases web GIS. Python can be used in most cases to streamline the different Geospatial processing workflows that are available in most Desktop GIS software. This talk will take users on a journey of how to process data (‎ETL- Extract transform and load vs Extract Load Transform (ELT)), store the data in a PostgreSQL database and leverage Python to publish the data into web GIS (Spatial Data Infrastructure). The second part will also explore how Python is utilized to facilitate mobile data capture. This will briefly explore how to design data capture forms and how to manage data in the field so that it can be visualized in the web GIS (Spatial data infrastructure).
+
+
+Sponsors:
+  Platinum:
+    Python Software Foundation: https://www.python.org/psf/membership
+  Patron:
+    Thinkst Canary: https://canary.tools/
+    Afrolabs: http://www.afrolabs.co.za/",https://i.ytimg.com/vi/_nn07uVJCao/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=_nn07uVJCao,https://www.youtube.com/watch?v=_nn07uVJCao
+27,Reaching New Heights in Python Education Success of the 2023 Coding Summer School,https://www.youtube.com/watch?v=x8XrIRbwQjs,x8XrIRbwQjs,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20231212,2328,75,0,,"PyConZA,PyConZA2023,Python,South Africa,Programming,Conference,Software",Science & Technology,"Talk page: https://za.pycon.org/talks/5-reaching-new-heights-in-python-education-success-of-the-2023-coding-summer-school/
+
+
+Speaker: Binjamin Barsch
+
+Track: Teaching and Learning with Python
+
+Type: Talk
+
+Room: Main Hall
+
+Time: Oct 05 (Thu): 13:30
+
+Duration: 0:45
+
+The 13th annual Coding Summer School (CSS) is an event aimed at teaching postgraduates the fundamentals of Python programming, data science, and computational science. It runs for two weeks in February of each year with classes and tutorials running from 9:00 to 16:00 each weekday. It is a collaborative effort between the CSIR's Centre for High Performance Computing (CHPC) and the National Institute for Theoretical & Computational Sciences (NITheCS).
+
+This year, the CSS brought together nearly 800 postgraduate students and professionals from different fields of science, technology, engineering, and mathematics (STEM) from across South Africa. The event marked several significant milestones, including bringing together participants from 29 different research institutes in South Africa for the first time. It was the first time that a coding training event of this scale was conducted in a hybrid format in South Africa, allowing participants to engage with their peers and course presenters in-person while also joining virtually. Week 1 focused on the fundamentals of Python, Pandas and Bash. Week 2 focused advanced Python applications, covering the foundations linear algebra, probability theory, ODEs, and machine learning.
+
+In this talk, I will discuss the significant milestones that were reached in Python education in South Africa focusing on LMS technology, end-to-end course design, engagement, automation of marking and certification. I will also discuss the lessons learnt and how we can reach more students and cross the language barriers in South Africa. It was the first time the CSS participants had the option to learn material in isiXhosa. This talk should be of benefit to any attendee involved in teaching and education.
+
+Reference: https://events.chpc.ac.za/event/115/
+
+
+Sponsors:
+  Platinum:
+    Python Software Foundation: https://www.python.org/psf/membership
+  Patron:
+    Thinkst Canary: https://canary.tools/
+    Afrolabs: http://www.afrolabs.co.za/",https://i.ytimg.com/vi/x8XrIRbwQjs/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=x8XrIRbwQjs,https://www.youtube.com/watch?v=x8XrIRbwQjs
+28,Building Simple yet Effective APIs for the City of Cape Town A Python-Powered Approach,https://www.youtube.com/watch?v=1QGtkWc-iwY,1QGtkWc-iwY,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20231212,1261,142,4,,"PyConZA,PyConZA2023,Python,South Africa,Programming,Conference,Software",Science & Technology,"Talk page: https://za.pycon.org/talks/42-building-simple-yet-effective-apis-for-the-city-of-cape-town-a-python-powered-approach/
+
+
+Speaker: mockards
+
+Track: Data Science
+
+Type: Talk
+
+Room: Talk Room 1
+
+Time: Oct 06 (Fri): 11:00
+
+Duration: 0:45
+
+If a city were to offer an API to its residents, what should it look like? Perhaps more importantly, what kind of data should these APIs serve up?
+
+Within the City of Cape Town, in the Data Science branch, we've been experimenting in the open, and believe that we have some answers. Our experiences have led us towards simple yet effective HTTP-based data APIs that furnish our citizens with crucial information. Join us in this presentation as we delve into the practical applications of these APIs, with a spotlight on the pivotal role played by the Python ecosystem.
+
+For several years, we've collaborated closely with our colleagues in the Electricity Generation and Distribution department to disseminate a status file, detailing the current load shedding stage in the City. This year, with unprecedented loadshedding, we've taken our efforts to the next level. We're not only providing more comprehensive load shedding schedules in a programmatic format, but we've also automated the generation of these status files. Additionally, we're now broadcasting significant events such as schedule updates or stage changes via a popular PubSub platform with numerous integration points.
+
+In a more recent collaboration with our counterparts in Customer Relations, we've initiated the near real time publication of data regarding ""service alerts"" – sizeable service disruptions that could potentially affect many residents. This initiative has been spurred by the remarkable changes in the communication landscape over the past few years - consequently, we recognise the need to deliver authoritative and clear information to the public, unencumbered by platforms controlled by 3rd parties.
+
+In both instances, the core offerings essentially consist of small, rapidly mutating JSON files served up by CDNs. The production of these files involves relatively straightforward data pipelines, primarily composed using batteries-included Python. These pipelines are deployed using both localised and serverless infrastructure configurations. We'll also illustrate how this approach proves to be resilient, astonishingly cost-effective, and conducive to rapid development.
+
+Our belief is that the power of this approach lies in its simplicity yet the importance of its content. By delivering critical information to our residents in the simplest possible digital form, we unlock countless possibilities for use - from highly scaleable resident facing websites, to popular apps, this approach has proved itself in practice.
+
+
+Sponsors:
+  Platinum:
+    Python Software Foundation: https://www.python.org/psf/membership
+  Patron:
+    Thinkst Canary: https://canary.tools/
+    Afrolabs: http://www.afrolabs.co.za/",https://i.ytimg.com/vi/1QGtkWc-iwY/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=1QGtkWc-iwY,https://www.youtube.com/watch?v=1QGtkWc-iwY
+29,Supercharge Your Django Apps: Unveiling Performance Secrets with the Magic of Django Silk!,https://www.youtube.com/watch?v=BrXXDyO9Pzw,BrXXDyO9Pzw,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20231212,1761,411,5,,"PyConZA,PyConZA2023,Python,South Africa,Programming,Conference,Software",Science & Technology,"Talk page: https://za.pycon.org/talks/29-supercharge-your-django-apps-unveiling-performance-secrets-with-the-magic-of-django-silk/
+
+Speaker: Vishrut Kohli
+
+Track: Web
+
+Type: Remote Talk
+
+Room: Talk Room 2 (Remote Talks)
+
+Time: Oct 05 (Thu): 11:00
+
+Duration: 0:45
+
+Abstract: In this talk, we will take an in-depth look at Django Silk and explore how it can help optimize database queries, detect N+1 queries and other performance issues, and improve the performance of your Django applications.
+
+
+Outline:
+  Introduction (2 minutes)
+    About me and what I do
+    Importance of performance optimisation in web development
+  What is Django Silk? (2 minutes)
+    A performance profiler and optimisation tool for Django
+    Allows you to monitor SQL queries, view rendering times, cache usage, and more
+    Provides real-time insights into your application's performance
+  How to install and Configure Django Silk (2 minutes)
+    Adding Django Silk to your project
+    Configuring the profiling middleware
+    Enabling the admin interface
+  How to profile Your Application (3 minutes)
+    Collecting request/response data
+    Logging SQL queries
+    Measuring template rendering times
+    Identifying slow views and URLs
+  Profiling Django Views (3 minutes)
+    Understanding the Silk middleware
+    Enabling and disabling profiling
+    Analysing view execution times and SQL queries
+    Identifying slow-performing views
+  Optimising Database Queries (3 minutes)
+    Common query optimisation techniques
+    Detecting and fixing N+1 queries
+    Utilising querysets and aggregation
+    going beyond just using .select_related(), .prefetch_related()
+  Real-Time Debugging (2 minutes)
+    The Django Silk shell
+    Debugging performance issues live
+  Best Practices (3 minutes)
+    Configuring Django Silk for production
+    Integrating it in your development workflow
+    Using Silk's request filtering and grouping
+    Analysing Silk's timeline visualisation
+    Lessons learned and insights gained from real-world projects
+  Conclusion and Q&A (5 minutes)
+
+
+Key Takeaways:
+  Install and configure Django Silk to profile your Django application
+  Analyse performance data to detect bottlenecks
+  Optimize database queries using techniques like N+1 query detection
+  Utilize real-time debugging to fix performance issues on the fly
+  Target Audience: Django developers looking to optimize their application's performance.
+
+
+Sponsors:
+  Platinum:
+    Python Software Foundation: https://www.python.org/psf/membership
+  Patron:
+    Thinkst Canary: https://canary.tools/
+    Afrolabs: http://www.afrolabs.co.za/",https://i.ytimg.com/vi/BrXXDyO9Pzw/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=BrXXDyO9Pzw,https://www.youtube.com/watch?v=BrXXDyO9Pzw
+30,Introduction to Data Stream using River,https://www.youtube.com/watch?v=QDAMnO_W4pw,QDAMnO_W4pw,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20231212,1939,212,3,,"PyConZA,PyConZA2023,Python,South Africa,Programming,Conference,Software",Science & Technology,"Talk page: https://za.pycon.org/talks/14-introduction-to-data-stream-using-river/
+
+
+Speaker: Tajudeen Akinosho
+
+Track: Scientific Computing
+
+Type: Remote Talk
+
+Room: Talk Room 2 (Remote Talks)
+
+Time: Oct 05 (Thu): 13:30
+
+Duration: 0:45
+
+Data are continuously generated from diverse areas such data from new paradigms such as network devices, cloud computing, wireless and intelligent systems for communications, wireless sensor network (WSN), financial transactions, environmental monitoring, radio frequency identification (RFID), telecommunication, military surveillance, weather monitoring, Healthcare and medical diagnoses monitoring, electricity usage prediction, and real-time surveillance. In the streaming setting, data is unceasing, potentially unbounded, and continuously evolving with time. A tool that can be used as an extension on the Massive Online Analysis (MOA) framework is River, a Python library. This talk will introduce listeners how to use River to do machine learning on streaming data. River library supports different machine learning tasks, including regression, classification, and unsupervised learning. It also supports tasks such as computing online metrics and concept drift detection. River can be used to build a machine learning pipeline and evaluate the model’s performance on a streaming dataset.
+
+
+URLs:
+  Slides (pptm): https://2023.za.pycon.org/media/pages_files/pyconza_conf.pptm
+  Slides (pdf) (converted): https://2023.za.pycon.org/media/pages_files/pyconza_conf.pdf
+
+
+Sponsors:
+  Platinum:
+    Python Software Foundation: https://www.python.org/psf/membership
+  Patron:
+    Thinkst Canary: https://canary.tools/
+    Afrolabs: http://www.afrolabs.co.za/",https://i.ytimg.com/vi/QDAMnO_W4pw/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=QDAMnO_W4pw,https://www.youtube.com/watch?v=QDAMnO_W4pw
+31,Making Jupyter notebooks less awful,https://www.youtube.com/watch?v=91QckoSSjd0,91QckoSSjd0,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20231212,2267,508,6,,"PyConZA,PyConZA2023,Python,South Africa,Programming,Conference,Software",Science & Technology,"Talk page: https://za.pycon.org/talks/40-making-jupyter-notebooks-less-awful/
+
+
+Speaker: Laura Richter
+
+Track: Data Science
+
+Type: Remote Talk
+
+Room: Talk Room 2 (Remote Talks)
+
+Time: Oct 06 (Fri): 09:45
+
+Duration: 0:45
+
+Love them or hate them, Jupyter Notebooks have become an indispensable tool for data exploration, analysis, model development and collaboration. In this talk, we'll try to convince those who love them to use them in a way that those who hate them, hate them less.
+
+We'll start by talking about what makes Jupyter Notebooks indispensable, and what makes them awful. We'll also talk about the various ways people use notebooks. As part of this we'll do a whirlwind tour through IDE options, from local Jupyter in your browser through to the many managed cloud-based options available today.
+
+Then we'll describe some of the patterns and tooling you can use to make your Notebooks less awful (perhaps even beautiful!). Some principles we'll discuss are: good coding practice and style (using nbqa and other code quality tools), version control and reviewing (using Github, Jupyterlab git extensions, nbdime, nbdev, and ReviewNB), testing (using nbval, nbmake, testbook), dependency management (virtual environments, requirements files, Docker), and automating your code quality efforts (Github actions).
+
+The ecosystem of tooling for Jupyter Notebooks is growing, with new packages and features being developed to help smooth over some of Jupyter Notebooks' limitations. This review will give you a birds eye view of some of the current tooling your team can adopt to improve the quality of your Notebooks!
+
+
+URLs:
+  Slides (pdf): https://2023.za.pycon.org/media/pages_files/PyConZA_2023_making_notebooks_less_awful.pdf
+
+
+Sponsors:
+  Platinum:
+    Python Software Foundation: https://www.python.org/psf/membership
+  Patron:
+    Thinkst Canary: https://canary.tools/
+    Afrolabs: http://www.afrolabs.co.za/",https://i.ytimg.com/vi/91QckoSSjd0/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=91QckoSSjd0,https://www.youtube.com/watch?v=91QckoSSjd0

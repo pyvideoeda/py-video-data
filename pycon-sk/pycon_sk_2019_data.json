@@ -1,0 +1,1376 @@
+[
+    {
+        "index": 1,
+        "title": "Radoslav Kokuľa - Robot Framework – univerzálny nástroj pre automatizované testovanie",
+        "url": "https://www.youtube.com/watch?v=7VuM9lzPU74",
+        "video_id": "7VuM9lzPU74",
+        "uploader": "PyCon SK",
+        "uploader_id": "@pyconsk",
+        "uploader_url": "https://www.youtube.com/@pyconsk",
+        "upload_date": "20190806",
+        "duration": 1896,
+        "view_count": 1490,
+        "like_count": 25,
+        "comment_count": 2,
+        "tags": [
+            "Python",
+            "PyCon SK",
+            "Robot Framework"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "Robot Framework je open-source framework naprogramovaný v jazyku Python určený pre automatizáciu testov a podporu test-driven developmentu. Kompatibilita s rôznymi operačnými systémami, jednoduchá inštalácia, zrozumiteľná syntax vhodná aj pre ľudí bez programátorských zručnosti, s možnosťou importovať vlastné Python knižnice a moduly, a tiež ľahkou integráciou do CI/CD serverov (napr. Jenkins) sú jeho nesporné výhody. Vďaka množstvu dostupných knižníc je možné využiť Robot Framework na testovanie rôznych druhov aplikácii a zariadení s využitím širokej škály rozhraní, protokolov a dátových typov. Poskytuje taktiež možnosti paralelného vykonávania testov alebo spúšťanie testov na vzdialených systémoch. Neoddeliteľnou súčasťou je aj automaticky generovaný report vo formátoch html a xml, poskytujúci prehľadné informácie o trvaní, použitých dátach a výsledku vykonávaných testov a aj jednotlivých krokoch.\n\nPríspevok predstaví tento nástroj na konkrétnych príkladoch testov vo formátoch pre keyword-driven, data-driven a behaviour-driven testing, ako aj prácu so Seleniom a REST API rozhraním.",
+        "thumbnail": "https://i.ytimg.com/vi_webp/7VuM9lzPU74/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=7VuM9lzPU74",
+        "original_url": "https://www.youtube.com/watch?v=7VuM9lzPU74"
+    },
+    {
+        "index": 2,
+        "title": "Meredydd Luff - Anvil: Full-stack Web Apps with Nothing but Python",
+        "url": "https://www.youtube.com/watch?v=q4jGdbxnJqI",
+        "video_id": "q4jGdbxnJqI",
+        "uploader": "PyCon SK",
+        "uploader_id": "@pyconsk",
+        "uploader_url": "https://www.youtube.com/@pyconsk",
+        "upload_date": "20190614",
+        "duration": 3060,
+        "view_count": 1139,
+        "like_count": 37,
+        "comment_count": 3,
+        "tags": [
+            "Python",
+            "Anvil",
+            "Web Apps",
+            "PyCon SK"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "Building for the modern web is complicated and error-prone: a typical web app requires five different languages and four or five frameworks just to get started. Wouldn't it be nicer if we could do it all in Python? With Anvil, you can design your page visually, write your browser-side and server-side code in pure Python, and even set up a built-in database in seconds. In this talk, Meredydd will walk us through how Anvil works under the bonnet, and the challenges of building a programming system that's easy to use without sacrificing power.",
+        "thumbnail": "https://i.ytimg.com/vi_webp/q4jGdbxnJqI/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=q4jGdbxnJqI",
+        "original_url": "https://www.youtube.com/watch?v=q4jGdbxnJqI"
+    },
+    {
+        "index": 3,
+        "title": "Miroslav Biňas - Výučba programovania pomocou tvorby hier v PyGame Zero",
+        "url": "https://www.youtube.com/watch?v=ajMJ9Cfm8pI",
+        "video_id": "ajMJ9Cfm8pI",
+        "uploader": "PyCon SK",
+        "uploader_id": "@pyconsk",
+        "uploader_url": "https://www.youtube.com/@pyconsk",
+        "upload_date": "20190630",
+        "duration": 1650,
+        "view_count": 1039,
+        "like_count": 22,
+        "comment_count": 2,
+        "tags": [
+            "Python",
+            "PyCon SK",
+            "PyGame Zero"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "",
+        "thumbnail": "https://i.ytimg.com/vi_webp/ajMJ9Cfm8pI/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=ajMJ9Cfm8pI",
+        "original_url": "https://www.youtube.com/watch?v=ajMJ9Cfm8pI"
+    },
+    {
+        "index": 4,
+        "title": "PyCon SK 2019 Aftermovie",
+        "url": "https://www.youtube.com/watch?v=rOlGoEaz-DA",
+        "video_id": "rOlGoEaz-DA",
+        "uploader": "PyCon SK",
+        "uploader_id": "@pyconsk",
+        "uploader_url": "https://www.youtube.com/@pyconsk",
+        "upload_date": "20190629",
+        "duration": 138,
+        "view_count": 826,
+        "like_count": 11,
+        "comment_count": null,
+        "tags": [
+            "PyCon SK",
+            "PyCon SK 2019",
+            "Python"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "PyCon SK 2019 in 2 minutes...",
+        "thumbnail": "https://i.ytimg.com/vi_webp/rOlGoEaz-DA/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=rOlGoEaz-DA",
+        "original_url": "https://www.youtube.com/watch?v=rOlGoEaz-DA"
+    },
+    {
+        "index": 5,
+        "title": "Helen Li - Nucleus: an open-source library for genomics data and machine learning",
+        "url": "https://www.youtube.com/watch?v=ichunwqCpe8",
+        "video_id": "ichunwqCpe8",
+        "uploader": "PyCon SK",
+        "uploader_id": "@pyconsk",
+        "uploader_url": "https://www.youtube.com/@pyconsk",
+        "upload_date": "20190630",
+        "duration": 1709,
+        "view_count": 804,
+        "like_count": 20,
+        "comment_count": 2,
+        "tags": [
+            "Python",
+            "PyCon SK",
+            "Nucleus"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "Nucleus is a Python library designed to make it easy to read, write, and analyze genomics data in common bioinformatics file formats such as SAM and VCF. In addition, Nucleus enables seamless integration with the TensorFlow machine learning (ML) framework. Nucleus is heavily used in DeepVariant, a state-of-the-art convolutional neural network variant caller, and in other ML projects at Google AI Genomics. This talk will give an overview of Nucleus, its features, and its APIs.",
+        "thumbnail": "https://i.ytimg.com/vi_webp/ichunwqCpe8/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=ichunwqCpe8",
+        "original_url": "https://www.youtube.com/watch?v=ichunwqCpe8"
+    },
+    {
+        "index": 6,
+        "title": "EduSummit 2019 Aftermovie - PyCon SK",
+        "url": "https://www.youtube.com/watch?v=ioJjB5RUqTE",
+        "video_id": "ioJjB5RUqTE",
+        "uploader": "PyCon SK",
+        "uploader_id": "@pyconsk",
+        "uploader_url": "https://www.youtube.com/@pyconsk",
+        "upload_date": "20190627",
+        "duration": 177,
+        "view_count": 607,
+        "like_count": 6,
+        "comment_count": null,
+        "tags": [],
+        "categories": [
+            "Education"
+        ],
+        "description": "",
+        "thumbnail": "https://i.ytimg.com/vi_webp/ioJjB5RUqTE/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=ioJjB5RUqTE",
+        "original_url": "https://www.youtube.com/watch?v=ioJjB5RUqTE"
+    },
+    {
+        "index": 7,
+        "title": "Peter Kučera - Programujeme v Pythone na strednej škole",
+        "url": "https://www.youtube.com/watch?v=cGvYAmdGn2E",
+        "video_id": "cGvYAmdGn2E",
+        "uploader": "PyCon SK",
+        "uploader_id": "@pyconsk",
+        "uploader_url": "https://www.youtube.com/@pyconsk",
+        "upload_date": "20190630",
+        "duration": 1955,
+        "view_count": 546,
+        "like_count": 6,
+        "comment_count": null,
+        "tags": [
+            "Python",
+            "PyCon SK"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "Rozmýšľate, čo vyučovať na seminári z programovania, ak chcete svojich študentov naučiť ešte viac? Základnú a maturitnú úroveň programovania, ktorú sme predstavili v minulosti, sme rozšírili o ďalšie zaujímavé témy. V príspevku vám predstavíme, čo učíme na seminároch z programovania. Ukážeme vám, ktorým témam sa venujeme, ako sme ich spracovali, ktorý kontext úloh sa nám osvedčil v praxi. Tiež vám predstavíme kompletné materiály na strednú školu. Ako aktivizovať študentov? Aké programy vedia vytvoriť a ako tvoria seminárne práce z programovania? Aj týmto otázkam sa budeme venovať v našom príspevku.",
+        "thumbnail": "https://i.ytimg.com/vi_webp/cGvYAmdGn2E/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=cGvYAmdGn2E",
+        "original_url": "https://www.youtube.com/watch?v=cGvYAmdGn2E"
+    },
+    {
+        "index": 8,
+        "title": "Jakub Šedinár - Odoo",
+        "url": "https://www.youtube.com/watch?v=LqXEgGSYyp8",
+        "video_id": "LqXEgGSYyp8",
+        "uploader": "PyCon SK",
+        "uploader_id": "@pyconsk",
+        "uploader_url": "https://www.youtube.com/@pyconsk",
+        "upload_date": "20190614",
+        "duration": 1752,
+        "view_count": 300,
+        "like_count": 9,
+        "comment_count": 1,
+        "tags": [
+            "Python",
+            "PyCon SK",
+            "Odoo",
+            "ERP"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "Odoo na Slovensku - game changer slovenského ERP prostredia. Chceme vám povedať a ukázať, čo je Odoo, ako funguje, prečo je lepšie ako iné riešenia. Ako je zameraný, aká je architektúra riešenia...",
+        "thumbnail": "https://i.ytimg.com/vi_webp/LqXEgGSYyp8/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=LqXEgGSYyp8",
+        "original_url": "https://www.youtube.com/watch?v=LqXEgGSYyp8"
+    },
+    {
+        "index": 9,
+        "title": "Luke Spademan - Controling a robotic arm with micro:bits.",
+        "url": "https://www.youtube.com/watch?v=l3ujgWuTTpo",
+        "video_id": "l3ujgWuTTpo",
+        "uploader": "PyCon SK",
+        "uploader_id": "@pyconsk",
+        "uploader_url": "https://www.youtube.com/@pyconsk",
+        "upload_date": "20190806",
+        "duration": 1008,
+        "view_count": 274,
+        "like_count": 3,
+        "comment_count": 1,
+        "tags": [
+            "Python",
+            "PyCon SK",
+            "Micro:bit"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "How to make computer science education more interesting.\n\nCaptivating a group of children for a sustained period of time is notoriously hard. I will be exporing with you how the micro:bit can be used to engage a young audience with interactive demos and programming activities.\n\nChildren love to physically interact with hardware. That is what is great about the micro:bit. It not only has built in LEDs and buttons but can also control bigger more exciting electronics like robotic arms. This allows for setup that gives students of all ability levels a challenge. Students that are beginners to programming can be given a more complete program or walk throught a worksheet that takes them through the process of controling the device (in this case a robotic arm) step by step. Students that have higher programming skills can be given a more bare bones / boilerplate source file and can write code to control the arm with less guidance.",
+        "thumbnail": "https://i.ytimg.com/vi_webp/l3ujgWuTTpo/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=l3ujgWuTTpo",
+        "original_url": "https://www.youtube.com/watch?v=l3ujgWuTTpo"
+    },
+    {
+        "index": 10,
+        "title": "Christoph Ritzer - Intro to Blockchain with Python",
+        "url": "https://www.youtube.com/watch?v=TH3G7NCu8co",
+        "video_id": "TH3G7NCu8co",
+        "uploader": "PyCon SK",
+        "uploader_id": "@pyconsk",
+        "uploader_url": "https://www.youtube.com/@pyconsk",
+        "upload_date": "20190806",
+        "duration": 1372,
+        "view_count": 268,
+        "like_count": 4,
+        "comment_count": null,
+        "tags": [
+            "Python",
+            "PyCon SK",
+            "Blockchain"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "This talk is structured into two parts of approximately equal length:\n\nFirst an introduction to blockchains in general. Most have heard about blockchains or bitcoin but how does it actually work and what is the technology driving it? This talk will explain what a cryptocurrency wallet is, how transactions are created and how they are brought together to form blocks that build the blockchain. I will outline differences between the most widely used implementations and the core technological concepts behind them, like Proof-of-Work versus Proof-of-Stake, consensus algorithms, trustless systems and the ideas behind them.\n\nIn the second half of the talk I draw on my experience working with python in my professional career and give an overview of the python ecosystem for blockhain and cryptocurrency development. I will showcase some of the libraries and tools that exist, like btcpy and highlight some of the pros and cons (mostly pros) of using python in this sector.",
+        "thumbnail": "https://i.ytimg.com/vi_webp/TH3G7NCu8co/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=TH3G7NCu8co",
+        "original_url": "https://www.youtube.com/watch?v=TH3G7NCu8co"
+    },
+    {
+        "index": 11,
+        "title": "Manoj Pandey - Gotchas and landmines in Python",
+        "url": "https://www.youtube.com/watch?v=QiQLJqcr8mY",
+        "video_id": "QiQLJqcr8mY",
+        "uploader": "PyCon SK",
+        "uploader_id": "@pyconsk",
+        "uploader_url": "https://www.youtube.com/@pyconsk",
+        "upload_date": "20190806",
+        "duration": 1891,
+        "view_count": 226,
+        "like_count": 4,
+        "comment_count": null,
+        "tags": [
+            "Python",
+            "PyCon SK"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "Python may be one of the simplest and most flexible programming languages out there, but it is still a programming language. It still has syntax, datatypes, and some occasional dark corners. Python “warts” are things for which people have criticised Python, typically aspects of the language or mechanisms of its implementation, because such aspects either expose certain surprising inconsistencies, are regarded as omissions, or cause irritation for parts of the community in some sense. This talk will be about common pitfalls (termed warts/landmines) that people face using Python programming language.\n\nThe only pre-requisite is a basic familiarity with Python programming language. Although it’ll be good that you have laptops with Python already setup, it’s not required as such!",
+        "thumbnail": "https://i.ytimg.com/vi_webp/QiQLJqcr8mY/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=QiQLJqcr8mY",
+        "original_url": "https://www.youtube.com/watch?v=QiQLJqcr8mY"
+    },
+    {
+        "index": 12,
+        "title": "Stéphane Wirtel - What's new in Python 3.7?",
+        "url": "https://www.youtube.com/watch?v=24U26tQ9-i8",
+        "video_id": "24U26tQ9-i8",
+        "uploader": "PyCon SK",
+        "uploader_id": "@pyconsk",
+        "uploader_url": "https://www.youtube.com/@pyconsk",
+        "upload_date": "20190701",
+        "duration": 2121,
+        "view_count": 222,
+        "like_count": 3,
+        "comment_count": null,
+        "tags": [
+            "Python",
+            "PyCon SK",
+            "Python 3.7"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "Scheduled for release in mid-June before the conference, Python 3.7 is shaping up to be a feature-packed release! This talk will cover all the new features of Python 3.7, including the Data Classes and the Context Variables for the asynchronous programming with asyncio.",
+        "thumbnail": "https://i.ytimg.com/vi_webp/24U26tQ9-i8/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=24U26tQ9-i8",
+        "original_url": "https://www.youtube.com/watch?v=24U26tQ9-i8"
+    },
+    {
+        "index": 13,
+        "title": "Christian Barra - Let's talk about MLOps",
+        "url": "https://www.youtube.com/watch?v=K5x6dxjY1vA",
+        "video_id": "K5x6dxjY1vA",
+        "uploader": "PyCon SK",
+        "uploader_id": "@pyconsk",
+        "uploader_url": "https://www.youtube.com/@pyconsk",
+        "upload_date": "20190614",
+        "duration": 1628,
+        "view_count": 222,
+        "like_count": 1,
+        "comment_count": null,
+        "tags": [
+            "Python",
+            "PyCon SK",
+            "MLOps"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "The quantity of hype around machine learning and AI is probably second only to bitcoins and blockchains. But until a machine learning model is deployed to production the value delivered to companies is approximately equal to zero. Together with the common mantra that data science can't use agile/lean frameworks or that the best software engineering practises don't apply explains a lot about why often companies got burnt with their data science projects and why generally they under delivered.\n\nMLOps is here to help, the machine-learning equivalent of DevOps: it solves the problems of implementing machine-learning in production. During this talk I will introduce the data science lifecycle, the concept of machine learning Ops, its characteristics, why is extremely required, how it compares to DevOps, how it will become a required capabilities for any DS/ML/AI Team, tools available and how you can start with it.",
+        "thumbnail": "https://i.ytimg.com/vi_webp/K5x6dxjY1vA/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=K5x6dxjY1vA",
+        "original_url": "https://www.youtube.com/watch?v=K5x6dxjY1vA"
+    },
+    {
+        "index": 14,
+        "title": "Ingrid Budau - The Apprentice's Enthusiastic Guide to pandas",
+        "url": "https://www.youtube.com/watch?v=WCeJpJ9yT7Y",
+        "video_id": "WCeJpJ9yT7Y",
+        "uploader": "PyCon SK",
+        "uploader_id": "@pyconsk",
+        "uploader_url": "https://www.youtube.com/@pyconsk",
+        "upload_date": "20190806",
+        "duration": 1541,
+        "view_count": 176,
+        "like_count": 7,
+        "comment_count": null,
+        "tags": [
+            "Python",
+            "PyCon SK",
+            "Pandas"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "The Apprentice's Enthusiastic Guide to pandas (or how to look at the world through the gentle eyes of one)\n\nThe Pandas soon realized there's no way they are going to survive the ordeals and hardships of this world, if they didn't finally and without the blink of an eye of hesitation pull themselves together, stop being the lazy fluffy beings, they have long been known for and start reorganizing their lives ASAP. They needed a fresh view over the world and its intrinsic mechanisms, light had to be shed upon the information they possessed about survival, in a few words, they had to start over. This is how in the midst of the forest a high performative library was coming to life, whose powerful toolkit would enable them a long lasting life of happiness and joy. This long-dreamed library should import the information they have been gathering about the world for long gone centuries and help them look at it through different eyes. They wanted to structure their world views and beliefs into sensible types and categories, remove from their genes their procrastinative behavioural patterns, drop them altogether. After laborious efforts of dealing with missing data about their surroundings, grouping and counting the meaningful rest, filtering the nonsensical superstitions, they could finally and, without doubt, point out with precision, where the bamboo sprouts were freshest, most succulent, fiber rich, absolutely scrumptious and the moment of the year, dictated by the moon calendar, when they are fluffiest, cosiest, most willing and irresistibly fall for one another and cuddle up. They put all this secret survival kit into easily understandable pictures and graphs for the dreamers out of them, who weren't prepared to put in all the effort of learning all those complicated symbols, just in order to survive and just wanted to admire the sky goddess, the moon. But wait, they didn't have a name for their grandiose library, so they just wanted to make a statement of being the most diligent creature of them all and called it, simply and unmistakably, pandas!",
+        "thumbnail": "https://i.ytimg.com/vi_webp/WCeJpJ9yT7Y/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=WCeJpJ9yT7Y",
+        "original_url": "https://www.youtube.com/watch?v=WCeJpJ9yT7Y"
+    },
+    {
+        "index": 15,
+        "title": "Miroslav Šedivý - A Day Has Only 24±1 Hours",
+        "url": "https://www.youtube.com/watch?v=rxOJaVla_g4",
+        "video_id": "rxOJaVla_g4",
+        "uploader": "PyCon SK",
+        "uploader_id": "@pyconsk",
+        "uploader_url": "https://www.youtube.com/@pyconsk",
+        "upload_date": "20190614",
+        "duration": 1738,
+        "view_count": 152,
+        "like_count": 1,
+        "comment_count": null,
+        "tags": [
+            "Python",
+            "PyCon SK",
+            "datetime"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "Not only will the Sunday in the week after this PyCon.SK 2019 be one hour shorter, but also it may steal you even more sleep because of all your Python code that has to work smoothly during daylight saving time changes or otherwise manipulate time zones. While correct working with datetime objects and offsets can be mastered, you have no control of the information on local time zones. Exclusive domain of geographers one hundred years ago, the time zones adjustments became a toy in the hands of governments all around the world.\n\nAfter a short overview of Pythons datetime and pytz libraries you'll learn how the information on time zone changes gets into your system. We'll fly quickly around the world's over five hundred time zones, but will also focus on the case of Slovakia and surrounding countries. Two centuries of propaganda and chaos in thirty minutes. Maybe that will make you want to avoid time zones in your code altogether!",
+        "thumbnail": "https://i.ytimg.com/vi_webp/rxOJaVla_g4/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=rxOJaVla_g4",
+        "original_url": "https://www.youtube.com/watch?v=rxOJaVla_g4"
+    },
+    {
+        "index": 16,
+        "title": "Jorge Torres - Machine Learning Democratization",
+        "url": "https://www.youtube.com/watch?v=cBM6V--LKj4",
+        "video_id": "cBM6V--LKj4",
+        "uploader": "PyCon SK",
+        "uploader_id": "@pyconsk",
+        "uploader_url": "https://www.youtube.com/@pyconsk",
+        "upload_date": "20190614",
+        "duration": 1224,
+        "view_count": 151,
+        "like_count": 0,
+        "comment_count": null,
+        "tags": [
+            "Python",
+            "PyCon SK",
+            "Machine Learning"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "We can't expect Machine Learning experts to be both domain experts across various fields and also true experts in ML, it is crucial to rethink how we build tools so that we can provide Machine Learning capabilities to experts in various disciplines that are not necessarily savvy in machine learning, but are experts in their own domains, so that they can too become participants of the data science community.\n\nThis talk is divided into three sections:\n\nThe first one, dives into the importance of democratizing Machine Learning, its objective is to demonstrate why now this is a crucial issue to be solved and to show the risks and problems that present themselves when Machine Learning Engineers take in the responsibility of building predictive technologies in domains that are not necessarily where they are the most experts on.\n\nThe second part of this talk focuses on some solutions and approaches to challenges of democratizing Machine Learning, as well as the journey and results we have seen at MindsDB while at this endeavor as well as what would be new ways that the ML community can think of the next generation of tools being built.\n\nThe third and most extensive section of this talk, focuses on the new issues that are born once machine Learning capabilities are on the hands of not ML experts, more importantly, the implications of delegating the Machine Learning machinery to a system, and what is important in order to trust those systems. Which leads to the importance in further developing our understanding of explainability, interpretability, and robustness of ML.",
+        "thumbnail": "https://i.ytimg.com/vi_webp/cBM6V--LKj4/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=cBM6V--LKj4",
+        "original_url": "https://www.youtube.com/watch?v=cBM6V--LKj4"
+    },
+    {
+        "index": 17,
+        "title": "Petr Stehlík - The dos and don'ts of task queues",
+        "url": "https://www.youtube.com/watch?v=7kpktljGZHg",
+        "video_id": "7kpktljGZHg",
+        "uploader": "PyCon SK",
+        "uploader_id": "@pyconsk",
+        "uploader_url": "https://www.youtube.com/@pyconsk",
+        "upload_date": "20190806",
+        "duration": 2679,
+        "view_count": 146,
+        "like_count": 2,
+        "comment_count": null,
+        "tags": [
+            "Python",
+            "PyCon SK"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "Let's talk about our experience with Celery and intentions to switch to RQ which failed. We'll show our setup of larger and more complex apps than the ones presented in doc examples together with some useful tips and tricks and how-tos on orchestrating such apps for thousands of tasks a day.\n\nAt Kiwi.com we heavily rely on task queues and asynchronous execution of code to process large amounts of requests coming to our back-ends. With the separation of our codebase to microservices, we can quickly try new tools and different approaches to process these large volumes of requests. The microservice we'll be talking about is making unreliable slow 3rd party services reliable and asynchronous with a bit of business logic sprinkled on top of it. We’ll tell a failure story of ours but resulting in a valuable lesson.\n\nMost of our services use Celery and it's the go-to tool for new services as well but we wanted to be different with this new microservice. RQ is the next best choice for task queues and it is presented as simpler and more straightforward than Celery. That can definitely be true but after 3 weeks of research, development and struggling we found out the unpleasant truth about being simple and making the right choices. We won't talk about comparing the frameworks but rather about the approach on how to experiment with new things in your environment. After that, we'll present our current setup which can take upon any number of tasks. How we orchestrate the app and continuously integrate and deploy and what fun things await ahead of us in the development.",
+        "thumbnail": "https://i.ytimg.com/vi_webp/7kpktljGZHg/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=7kpktljGZHg",
+        "original_url": "https://www.youtube.com/watch?v=7kpktljGZHg"
+    },
+    {
+        "index": 18,
+        "title": "Juraj Hromkovič -Programovanie s LOGO-filozofiou ako model všeobecného vzdelávania pre všetky odbory",
+        "url": "https://www.youtube.com/watch?v=0WqIxAUgtlg",
+        "video_id": "0WqIxAUgtlg",
+        "uploader": "PyCon SK",
+        "uploader_id": "@pyconsk",
+        "uploader_url": "https://www.youtube.com/@pyconsk",
+        "upload_date": "20190630",
+        "duration": 4781,
+        "view_count": 146,
+        "like_count": 2,
+        "comment_count": null,
+        "tags": [
+            "Python",
+            "PyCon SK"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "Jean Piaget prišiel s konceptom \"learning by doing\" s cieľom zvýšiť motiváciu a trvanlivosť vedomostí a prehĺbiť chápanie študovaných objektov vďaka vlastnej aktivite v procese učenia sa. Seymour Papert obohatil tento koncept o \"getting things to work\" vo svojej implementácii výučby programovania v programovacom jazyku LOGO. My sme na ETH skombinovali tento prístup s konceptom \"critical thinking\", ktorý odmieta vyučovať hotové produkty vedy (fakty, modely, metódy,...), ale vyžaduje si učiť procesy ich vytvárania. Pre prípravu vzdelávania tisícky učiteľov základných a stredných škôl pre výučbu programovania, sme vyvinuli v rámci týchto výučbových konceptov prostredia na výučbu programovania, ako aj iných informatických tém a napísali k nim sériu učebníc. V tejto prednáške sa budeme venovať prostrediam TigerJython (dialekt Pythonu) a viacerým verziám jazyka LOGO (textovým i blokovým) a vysvetlíme proces ich tvorby z pohľadu potrieb výučby programovania. Predstavíme aj informatiku ako viac než 5000 rokov starú vedu a ozrejmíme jej prínos pre všeobecné vzdelanie a jej nenahraditeľnosť vo vzdelávaní budúcich generácii.",
+        "thumbnail": "https://i.ytimg.com/vi_webp/0WqIxAUgtlg/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=0WqIxAUgtlg",
+        "original_url": "https://www.youtube.com/watch?v=0WqIxAUgtlg"
+    },
+    {
+        "index": 19,
+        "title": "Jakub Balas - Using Python in new space industry is not a rocket science",
+        "url": "https://www.youtube.com/watch?v=PUIBT15BlP0",
+        "video_id": "PUIBT15BlP0",
+        "uploader": "PyCon SK",
+        "uploader_id": "@pyconsk",
+        "uploader_url": "https://www.youtube.com/@pyconsk",
+        "upload_date": "20190614",
+        "duration": 2202,
+        "view_count": 142,
+        "like_count": 4,
+        "comment_count": null,
+        "tags": [
+            "Python",
+            "PyCon SK",
+            "space"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "What we do at Iceye and how Python is allowing us to grow fast and be unique.",
+        "thumbnail": "https://i.ytimg.com/vi_webp/PUIBT15BlP0/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=PUIBT15BlP0",
+        "original_url": "https://www.youtube.com/watch?v=PUIBT15BlP0"
+    },
+    {
+        "index": 20,
+        "title": "Kalyan Dikshit - Smart Homes + Tor = SSH [Secure Smart Home]",
+        "url": "https://www.youtube.com/watch?v=caDUCAquuV0",
+        "video_id": "caDUCAquuV0",
+        "uploader": "PyCon SK",
+        "uploader_id": "@pyconsk",
+        "uploader_url": "https://www.youtube.com/@pyconsk",
+        "upload_date": "20190806",
+        "duration": 1701,
+        "view_count": 135,
+        "like_count": 0,
+        "comment_count": null,
+        "tags": [
+            "Python",
+            "PyCon SK",
+            "Tor",
+            "SSH",
+            "IoT"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "“Internet of Things,” “Smart Devices,” “Smart Homes.” people are fascinated with them and their usage. But the most important things they tend to forget are “Security & Privacy”. Using Tor to divert prying eyes away from our connected homes.",
+        "thumbnail": "https://i.ytimg.com/vi_webp/caDUCAquuV0/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=caDUCAquuV0",
+        "original_url": "https://www.youtube.com/watch?v=caDUCAquuV0"
+    },
+    {
+        "index": 21,
+        "title": "Dmitry Dygalo - Testing network interactions in Python",
+        "url": "https://www.youtube.com/watch?v=kCG2Ghn43iQ",
+        "video_id": "kCG2Ghn43iQ",
+        "uploader": "PyCon SK",
+        "uploader_id": "@pyconsk",
+        "uploader_url": "https://www.youtube.com/@pyconsk",
+        "upload_date": "20190806",
+        "duration": 1547,
+        "view_count": 127,
+        "like_count": 3,
+        "comment_count": null,
+        "tags": [
+            "Python",
+            "PyCon SK"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "Many modern Python applications interact with 3rd parties over network and packages like requests and aiohttp are incredibly popular nowadays. It makes it essential to know how to test network interactions. It is particularly important for microservices - to connect them you need to do network calls.\n\nThis talk will walk from most straightforward ad-hoc solutions to more tunable and extensible ones. You’ll learn how to approach testing network on different isolation levels in sync and async code, take away ideas and practices how to use with popular Python tools like responses, pook, VCR, and pytest.",
+        "thumbnail": "https://i.ytimg.com/vi_webp/kCG2Ghn43iQ/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=kCG2Ghn43iQ",
+        "original_url": "https://www.youtube.com/watch?v=kCG2Ghn43iQ"
+    },
+    {
+        "index": 22,
+        "title": "Markus Holtermann - Less Obvious Things To Do With Django's ORM",
+        "url": "https://www.youtube.com/watch?v=0qCPkTq7OeQ",
+        "video_id": "0qCPkTq7OeQ",
+        "uploader": "PyCon SK",
+        "uploader_id": "@pyconsk",
+        "uploader_url": "https://www.youtube.com/@pyconsk",
+        "upload_date": "20190630",
+        "duration": 2134,
+        "view_count": 125,
+        "like_count": 1,
+        "comment_count": null,
+        "tags": [
+            "Python",
+            "PyCon SK",
+            "Django",
+            "ORM"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "Django’s ORM is powerful. And it has been for ages. It only became even more powerful over the last years. Django’s ORM can be intimidating because it can do so many things. And it can also be confusing when trying to find out how to do things.",
+        "thumbnail": "https://i.ytimg.com/vi_webp/0qCPkTq7OeQ/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=0qCPkTq7OeQ",
+        "original_url": "https://www.youtube.com/watch?v=0qCPkTq7OeQ"
+    },
+    {
+        "index": 23,
+        "title": "Gabriel Lachmann, Ján Suchal - Ako prestať kradnúť v štátnom IT?",
+        "url": "https://www.youtube.com/watch?v=psB1WWUu7XY",
+        "video_id": "psB1WWUu7XY",
+        "uploader": "PyCon SK",
+        "uploader_id": "@pyconsk",
+        "uploader_url": "https://www.youtube.com/@pyconsk",
+        "upload_date": "20190701",
+        "duration": 3051,
+        "view_count": 113,
+        "like_count": 2,
+        "comment_count": 1,
+        "tags": [
+            "Python",
+            "PyCon SK",
+            "Slovensko.Digital"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "Slovensko.Digital už vyše troch rokov zasahuje do veľkých štátnych IT projektov a informatizácie verejnej správy ako takej. Dozviete sa či to bolo na niečo vlastne dobré, čo sa bude diať v informatizácii ďalej, čo s tým vie urobiť bežný programátor a IT komunita. Povieme Vám niečo bližšie o eurofondovom projekte, ktorý nám schválili za Kaliňáka a ako tieto peniaze využívame, aby sme robili zle zlodejom konštruktívne vylepšovali štátne IT. Povieme aj pozitívne správy o témach ako Open API či My Data, ktoré by mohli posunúť informatizáciu tak dopredu, že nám aj Estónci budú závidieť. Keď všetko pôjde podľa plánu mali by sa toho dožiť nielen naše budúce vnúčatá..",
+        "thumbnail": "https://i.ytimg.com/vi_webp/psB1WWUu7XY/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=psB1WWUu7XY",
+        "original_url": "https://www.youtube.com/watch?v=psB1WWUu7XY"
+    },
+    {
+        "index": 24,
+        "title": "Tibor Frank - Automated visualization and presentation of tests results",
+        "url": "https://www.youtube.com/watch?v=R7MQ4mxh7IE",
+        "video_id": "R7MQ4mxh7IE",
+        "uploader": "PyCon SK",
+        "uploader_id": "@pyconsk",
+        "uploader_url": "https://www.youtube.com/@pyconsk",
+        "upload_date": "20190806",
+        "duration": 1761,
+        "view_count": 99,
+        "like_count": 1,
+        "comment_count": null,
+        "tags": [
+            "Python",
+            "PyCon SK"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "Thousands of performance tests run by tens of Jenkins jobs generate gigabytes of data. It is not an easy task to provide it to our audience. But we do our best. Data visualization is not only coding in Python, it is above all finding the best way how to transform well structured but boring xml files to fancy and informative graphs and tables. They must be beautiful, gratifying, logical and functional like any good design and/or architecture.",
+        "thumbnail": "https://i.ytimg.com/vi_webp/R7MQ4mxh7IE/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=R7MQ4mxh7IE",
+        "original_url": "https://www.youtube.com/watch?v=R7MQ4mxh7IE"
+    },
+    {
+        "index": 25,
+        "title": "Světlana Hrabinová - Nenuťte uživatele přemýšlet",
+        "url": "https://www.youtube.com/watch?v=o3YR6B9mxE8",
+        "video_id": "o3YR6B9mxE8",
+        "uploader": "PyCon SK",
+        "uploader_id": "@pyconsk",
+        "uploader_url": "https://www.youtube.com/@pyconsk",
+        "upload_date": "20190806",
+        "duration": 1757,
+        "view_count": 94,
+        "like_count": 2,
+        "comment_count": null,
+        "tags": [
+            "Python",
+            "PyCon SK",
+            "User Experience",
+            "UX",
+            "UI"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "Myšlenka Steva Kruga \"Nenuťte uživatele přemýšlet\" bude hlavní inspirací pro příspěvek, který se bude věnovat pojmům jako je UX (user experience), UI (user interface) a použitelnost. Smyslem je poukázat na základní principy použitelnosti a návrhu uživatelského prožitku, které pomohou navrhovat a vytvářet intuitivní a pochopitelné služby či uživatelská rozhraní s cílem jít svým uživatelům naproti, tedy aby uživatelé museli dělat pouze nezbytné kroky s vynaložením co nejmenšího úsilí.",
+        "thumbnail": "https://i.ytimg.com/vi_webp/o3YR6B9mxE8/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=o3YR6B9mxE8",
+        "original_url": "https://www.youtube.com/watch?v=o3YR6B9mxE8"
+    },
+    {
+        "index": 26,
+        "title": "Jakub Mertus - Automatická korekcia písaného prejavu prirodzeného jazyka",
+        "url": "https://www.youtube.com/watch?v=b2tow2_VwZo",
+        "video_id": "b2tow2_VwZo",
+        "uploader": "PyCon SK",
+        "uploader_id": "@pyconsk",
+        "uploader_url": "https://www.youtube.com/@pyconsk",
+        "upload_date": "20190806",
+        "duration": 1276,
+        "view_count": 90,
+        "like_count": 0,
+        "comment_count": null,
+        "tags": [
+            "Python",
+            "PyCon SK"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "Automatická korekcia písaného prejavu prirodzeného jazyka s využitím znakových a kontextuálnych modelov\n\nBanka disponuje veľkým objemom neštruktúrovaných dát. Na ich použitie je potrebné tieto dáta očistiť. Preto vyvíjame modul na korekciu gramatických chýb a preklepov, ktorý sa skladá z troch hlavých častí. Prvou časťou je takzvaný \"re-diakritizátor\" zameraný na obnovenie diakritiky v slove bez nej. Druhá časť je znakový model SymSpell. Ten navrhuje možné opravy slova na základe Damerau-Levenshtein metriky. Tretia časť využíva známy model Word2Vec na pochopenie kontextuálnych závislostí slov v relevantnom dokumente. Vývoj modulu nie je ešte ukončený, avšak subjektívne posúdenie modulu indikuje použiteľnosť v špecifickom bankovom prostredí.",
+        "thumbnail": "https://i.ytimg.com/vi_webp/b2tow2_VwZo/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=b2tow2_VwZo",
+        "original_url": "https://www.youtube.com/watch?v=b2tow2_VwZo"
+    },
+    {
+        "index": 27,
+        "title": "Tomáš Dudík - Ako sa ďalej pasujeme s Python na hodinách informatiky",
+        "url": "https://www.youtube.com/watch?v=B3yab-TF0M4",
+        "video_id": "B3yab-TF0M4",
+        "uploader": "PyCon SK",
+        "uploader_id": "@pyconsk",
+        "uploader_url": "https://www.youtube.com/@pyconsk",
+        "upload_date": "20190630",
+        "duration": 668,
+        "view_count": 88,
+        "like_count": 0,
+        "comment_count": null,
+        "tags": [
+            "Python",
+            "PyCon SK"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "",
+        "thumbnail": "https://i.ytimg.com/vi_webp/B3yab-TF0M4/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=B3yab-TF0M4",
+        "original_url": "https://www.youtube.com/watch?v=B3yab-TF0M4"
+    },
+    {
+        "index": 28,
+        "title": "Petra Dzurovcinova - Inovácie v meste Bratislava",
+        "url": "https://www.youtube.com/watch?v=rR9R7SEuJN0",
+        "video_id": "rR9R7SEuJN0",
+        "uploader": "PyCon SK",
+        "uploader_id": "@pyconsk",
+        "uploader_url": "https://www.youtube.com/@pyconsk",
+        "upload_date": "20190701",
+        "duration": 1424,
+        "view_count": 85,
+        "like_count": 0,
+        "comment_count": null,
+        "tags": [
+            "Python",
+            "PyCon SK",
+            "Bratislava"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "Čo všetko robíme v Bratislave pre inovácie a ako môžete byť súčasťou tohto procesu?",
+        "thumbnail": "https://i.ytimg.com/vi_webp/rR9R7SEuJN0/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=rR9R7SEuJN0",
+        "original_url": "https://www.youtube.com/watch?v=rR9R7SEuJN0"
+    },
+    {
+        "index": 29,
+        "title": "Sviatoslav Sydorenko - GitHub Bots: Rise of the Machines 🤖",
+        "url": "https://www.youtube.com/watch?v=abY6PwqOp18",
+        "video_id": "abY6PwqOp18",
+        "uploader": "PyCon SK",
+        "uploader_id": "@pyconsk",
+        "uploader_url": "https://www.youtube.com/@pyconsk",
+        "upload_date": "20190614",
+        "duration": 2045,
+        "view_count": 82,
+        "like_count": 0,
+        "comment_count": 1,
+        "tags": [
+            "Python",
+            "PyCon SK",
+            "GitHub",
+            "Bot"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "Hello, fellow human!\n\nYou probably spend too much time regretting that manual recurring routines don't do themselves. Let's change this! This workshop will empower you to automate all the things using GitHub Apps integration type as reusable restless workers helping you overcome typical maintainer frustrations. We'll have a walkthrough of the complete application creation and deployment process: from creating an App entity in the GitHub UI, to actual coding and to shipping your code via Heroku.\n\nTo participate in the hands-on, bring your laptop with Python 3.7 and some editor on-board. You'll also need to have a GitHub account.",
+        "thumbnail": "https://i.ytimg.com/vi_webp/abY6PwqOp18/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=abY6PwqOp18",
+        "original_url": "https://www.youtube.com/watch?v=abY6PwqOp18"
+    },
+    {
+        "index": 30,
+        "title": "Honza Král - So you want to be an Engineer?",
+        "url": "https://www.youtube.com/watch?v=X6I8xCnaw2w",
+        "video_id": "X6I8xCnaw2w",
+        "uploader": "PyCon SK",
+        "uploader_id": "@pyconsk",
+        "uploader_url": "https://www.youtube.com/@pyconsk",
+        "upload_date": "20190701",
+        "duration": 1773,
+        "view_count": 70,
+        "like_count": 2,
+        "comment_count": null,
+        "tags": [
+            "Python",
+            "PyCon SK"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "Software Engineering is a new field, have we figured out all the ins and outs of how best to work in it?\n\nFor a lot of people the technology field has always been a semi-magical place where engineers use their arcane knowledge to tease the secrets from the computer and unfortunately we have bought into this myth... Let us examine what are some of the myths surrounding out field and which aspects might actually be useful. Is SW engineering an art or just another skill? Is talent required? Does it even matter? What about the 10X engineer...?\n\nI will be sharing some insights that I have learned from trying to answer these questions for myself, part based on research, part on personal opinion.",
+        "thumbnail": "https://i.ytimg.com/vi_webp/X6I8xCnaw2w/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=X6I8xCnaw2w",
+        "original_url": "https://www.youtube.com/watch?v=X6I8xCnaw2w"
+    },
+    {
+        "index": 31,
+        "title": "Peter Valachovič - Prechod na Python u Piaristov v Nitre a niektoré tamojšie študentské projekty",
+        "url": "https://www.youtube.com/watch?v=8kKrUqPpig8",
+        "video_id": "8kKrUqPpig8",
+        "uploader": "PyCon SK",
+        "uploader_id": "@pyconsk",
+        "uploader_url": "https://www.youtube.com/@pyconsk",
+        "upload_date": "20190630",
+        "duration": 1358,
+        "view_count": 63,
+        "like_count": 2,
+        "comment_count": null,
+        "tags": [
+            "Python",
+            "PyCon SK"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "Krátko sa podelíme o tom ako sa vyvíja prechod na Python z pascalu (Delphi/Lazarus), čo sa nám podarilo, a aké výzvy pred nami sme identifikovali konkrétne by sme chceli hovoriť o tom ako postupujeme pri vývoji kurzu pripravujúceho na maturitu z informatiky kedy použijeme programovací jazyk python vo verzii 3.X. Predstavíme projekt študentskej učebnice pre základný kurz Pythonu - od študenta pre študentov a študentský projekt vylepšenia zvonení na škole.\n\nPri predstavovaní študentskej učebnice bude Tomáš Kiss hovoriť o motivácii pre túto učebnicu a spôsobe akým ju realizuje. Tiež by chcel predostrieť výzvy, ktoré identifikuje a tiež spôsob ako budú môcť ostatní učebnicu získať.\n\nPri projekte o vylepšení zvonení na škole opíše Jakub stav, aký bol na škole predtým a popíše motiváciu k zlepšeniu ako aj realizovaný systém. Chcel by tiež poukázať na možnosti a úskalia, ktoré sa pri vývoji zvonení vyskytli.",
+        "thumbnail": "https://i.ytimg.com/vi_webp/8kKrUqPpig8/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=8kKrUqPpig8",
+        "original_url": "https://www.youtube.com/watch?v=8kKrUqPpig8"
+    },
+    {
+        "index": 32,
+        "title": "Lightning Talks",
+        "url": "https://www.youtube.com/watch?v=4kaZwVAN-Ok",
+        "video_id": "4kaZwVAN-Ok",
+        "uploader": "PyCon SK",
+        "uploader_id": "@pyconsk",
+        "uploader_url": "https://www.youtube.com/@pyconsk",
+        "upload_date": "20190806",
+        "duration": 2766,
+        "view_count": 62,
+        "like_count": 0,
+        "comment_count": null,
+        "tags": [
+            "Python",
+            "PyCon SK",
+            "Lightning Talks"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "A lightning talk is a very short presentation lasting only a few minutes, given at a conference or similar forum. Several lightning talks will usually be delivered by different speakers in a single session.",
+        "thumbnail": "https://i.ytimg.com/vi_webp/4kaZwVAN-Ok/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=4kaZwVAN-Ok",
+        "original_url": "https://www.youtube.com/watch?v=4kaZwVAN-Ok"
+    },
+    {
+        "index": 33,
+        "title": "Martin Strýček - Your flight ticket is just the tip of the iceberg!",
+        "url": "https://www.youtube.com/watch?v=6kiMX9b2Xmw",
+        "video_id": "6kiMX9b2Xmw",
+        "uploader": "PyCon SK",
+        "uploader_id": "@pyconsk",
+        "uploader_url": "https://www.youtube.com/@pyconsk",
+        "upload_date": "20190806",
+        "duration": 1612,
+        "view_count": 59,
+        "like_count": 1,
+        "comment_count": null,
+        "tags": [
+            "Python",
+            "PyCon SK"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "",
+        "thumbnail": "https://i.ytimg.com/vi_webp/6kiMX9b2Xmw/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=6kiMX9b2Xmw",
+        "original_url": "https://www.youtube.com/watch?v=6kiMX9b2Xmw"
+    },
+    {
+        "index": 34,
+        "title": "Mislav Cimperšak - On the Edge of Leadership",
+        "url": "https://www.youtube.com/watch?v=pj8C6nDa3WE",
+        "video_id": "pj8C6nDa3WE",
+        "uploader": "PyCon SK",
+        "uploader_id": "@pyconsk",
+        "uploader_url": "https://www.youtube.com/@pyconsk",
+        "upload_date": "20190806",
+        "duration": 1898,
+        "view_count": 57,
+        "like_count": 2,
+        "comment_count": null,
+        "tags": [
+            "Python",
+            "PyCon SK"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "How to lead a dev team with zero personal experience in people management while still having no idea how to manage even your own time. After several years of fairly regular software developer career path, I've found myself in a new role that I've unconsciously put myself into. Being a solid senior developer, management at the time agreed that I am a good candidate for the team lead. Being promoted to a new personal level of incompetence I felt lost and confused in my new role, but made a pact with myself to see this one through to the end. And so it came that for the past few years, I've been development team lead for several teams.\n\nWith zero formal training, relying on my intuition and various random pieces of advice I picked up from people smarter than me I've more or less successfully lead my teams to their goals. On that path, I've learned tremendously, improved myself and hopefully, my teams. I would like to share what worked and what didn't, my emotions, my regrets, and my wins.",
+        "thumbnail": "https://i.ytimg.com/vi_webp/pj8C6nDa3WE/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=pj8C6nDa3WE",
+        "original_url": "https://www.youtube.com/watch?v=pj8C6nDa3WE"
+    },
+    {
+        "index": 35,
+        "title": "Laurent Pickard - Building smarter solutions with Machine Learning, from magic to reality",
+        "url": "https://www.youtube.com/watch?v=fun8s-D6JTw",
+        "video_id": "fun8s-D6JTw",
+        "uploader": "PyCon SK",
+        "uploader_id": "@pyconsk",
+        "uploader_url": "https://www.youtube.com/@pyconsk",
+        "upload_date": "20190630",
+        "duration": 3254,
+        "view_count": 50,
+        "like_count": 0,
+        "comment_count": null,
+        "tags": [
+            "Python",
+            "PyCon SK",
+            "Machine Learning",
+            "AI"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "“Any sufficiently advanced technology is indistinguishable from magic.” Well, Machine Learning can look like magic, but you don't need to be a data scientist or an ML researcher to develop with ML.\n\nSo, what about making your solution smarter without any knowledge in AI? With pre-trained models and a few lines of code, Machine Learning APIs can analyze your data. Moreover, AutoML techniques can now help in getting even more specific insights tailored to your needs.\n\nIn this session, you'll see how to transform or extract information from text, image, audio & video with the latest ML APIs, how to train an AutoML custom model, and you'll be an active player of a live demo. Don't put your smartphone in airplane mode!",
+        "thumbnail": "https://i.ytimg.com/vi_webp/fun8s-D6JTw/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=fun8s-D6JTw",
+        "original_url": "https://www.youtube.com/watch?v=fun8s-D6JTw"
+    },
+    {
+        "index": 36,
+        "title": "František Benko - We run huge in-memory databases in GKE and we love it!",
+        "url": "https://www.youtube.com/watch?v=5NjAqMsBMuY",
+        "video_id": "5NjAqMsBMuY",
+        "uploader": "PyCon SK",
+        "uploader_id": "@pyconsk",
+        "uploader_url": "https://www.youtube.com/@pyconsk",
+        "upload_date": "20190806",
+        "duration": 2749,
+        "view_count": 49,
+        "like_count": 0,
+        "comment_count": null,
+        "tags": [
+            "Python",
+            "PyCon SK",
+            "Google Cloud Engine"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "We invite You on the talk about our largest scale change in history of Exponea. We'll show you how we managed to run multi-terrabyte sharded in-memory DBs in the environment of ephemeral containers, hundreds of python and go workers in multiple kubernetes namespaces and several hundred VMs in google cloud. You don't want to miss our way of automating this system too.",
+        "thumbnail": "https://i.ytimg.com/vi_webp/5NjAqMsBMuY/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=5NjAqMsBMuY",
+        "original_url": "https://www.youtube.com/watch?v=5NjAqMsBMuY"
+    },
+    {
+        "index": 37,
+        "title": "Anton Caceres - Avoiding Macro Trouble of Micro Services",
+        "url": "https://www.youtube.com/watch?v=OLJ9aYuhKqM",
+        "video_id": "OLJ9aYuhKqM",
+        "uploader": "PyCon SK",
+        "uploader_id": "@pyconsk",
+        "uploader_url": "https://www.youtube.com/@pyconsk",
+        "upload_date": "20190614",
+        "duration": 1677,
+        "view_count": 48,
+        "like_count": 1,
+        "comment_count": null,
+        "tags": [
+            "Python",
+            "PyCon SK",
+            "microservices"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "Any change in software architecture is a significant time investment. Writing microservices in Python is a joy, but when you decide on it, there is often no way back. Therefore it is always an advantage to know what to expect in advance, not just from inspiring blog posts but also from the harsh reality.\n\nHaving a bunch of smooth as well as tricky microservice migrations in the past, I would like to share typical pitfalls of choosing a framework stack, communication protocol, conventions, and deployment process — all covered by real projects.",
+        "thumbnail": "https://i.ytimg.com/vi_webp/OLJ9aYuhKqM/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=OLJ9aYuhKqM",
+        "original_url": "https://www.youtube.com/watch?v=OLJ9aYuhKqM"
+    },
+    {
+        "index": 38,
+        "title": "Miroslava Šturmová, Marek Višňovec, Róbert Junas - Objavovanie VPythonu v Dudley College",
+        "url": "https://www.youtube.com/watch?v=R0e71gM8Xhw",
+        "video_id": "R0e71gM8Xhw",
+        "uploader": "PyCon SK",
+        "uploader_id": "@pyconsk",
+        "uploader_url": "https://www.youtube.com/@pyconsk",
+        "upload_date": "20190630",
+        "duration": 1637,
+        "view_count": 47,
+        "like_count": 0,
+        "comment_count": null,
+        "tags": [
+            "Python",
+            "PyCon SK"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "V marci 2017 dostali žiaci Strednej priemyselnej školy technickej v Martine (SPŠT) prvýkrát príležitosť absolvovať prax v Dudley College vo Veľkej Británii. Vďaka úspešnému projektu Erasmus+ „Turiec do Európy, Európa do Turca“, ktorý pripravila K. A. B. A. Slovensko, sa tu zoznámili s programovacím jazykom Python. Projekt bol úspešný aj v školskom roku 2017/2018. Dudley College sa tak stala na dva marcové týždne školou pre desiatich tretiakov technického lýcea SPŠT. Odborný program bol zameraný na tvorbu efektívnych algoritmov, rozvoj logického myslenia, grafiku a nástroj pre vytváranie 3D animácií v reálnom čase - VPython. Svoje nadobudnuté vedomosti a praktické zručnosti odovzdali účastníci mobility aj ďalej. Učitelia informatiky SPŠT a Gymnázia Viliama Paulínyho Tótha (GVPT) v Martine nadviazali na úspešnú spoluprácu z minulého roka, opäť spojili svoje sily a pripravili druhý ročník odbornej konferencie PYTHON DAYS 2.0. V dňoch 31.5 - 1.6.2018 odzneli na GVPT zaujímavé prednášky, robilo sa veľa workshopov. Na jednom z nich sme predstavili gymnazistom VPython a vývojové prostredie GlowScript. Výstupy z mobility Erasmus+ tak neostali len doma, na SPŠT, ale nadobudli oveľa širší rozmer. Na konferencii PyCON SK 2019 predstavíme toto prostredie, jeho nástroje a ukážeme práce, ktoré sme vytvorili.",
+        "thumbnail": "https://i.ytimg.com/vi_webp/R0e71gM8Xhw/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=R0e71gM8Xhw",
+        "original_url": "https://www.youtube.com/watch?v=R0e71gM8Xhw"
+    },
+    {
+        "index": 39,
+        "title": "PyCon SK 2019 - Edutalks",
+        "url": "https://www.youtube.com/watch?v=Ab2kqX5pPCY",
+        "video_id": "Ab2kqX5pPCY",
+        "uploader": "PyCon SK",
+        "uploader_id": "@pyconsk",
+        "uploader_url": "https://www.youtube.com/@pyconsk",
+        "upload_date": "20190630",
+        "duration": 1545,
+        "view_count": 46,
+        "like_count": 0,
+        "comment_count": null,
+        "tags": [
+            "Python",
+            "PyCon SK",
+            "Lightning Talks",
+            "Edu Talks"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "",
+        "thumbnail": "https://i.ytimg.com/vi_webp/Ab2kqX5pPCY/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=Ab2kqX5pPCY",
+        "original_url": "https://www.youtube.com/watch?v=Ab2kqX5pPCY"
+    },
+    {
+        "index": 40,
+        "title": "Adam Števko - Be a good colleague and help your Security Engineer!",
+        "url": "https://www.youtube.com/watch?v=2NwqC4e8X-c",
+        "video_id": "2NwqC4e8X-c",
+        "uploader": "PyCon SK",
+        "uploader_id": "@pyconsk",
+        "uploader_url": "https://www.youtube.com/@pyconsk",
+        "upload_date": "20190614",
+        "duration": 2597,
+        "view_count": 42,
+        "like_count": 0,
+        "comment_count": null,
+        "tags": [
+            "Python",
+            "PyCon SK",
+            "Security",
+            "GDPR"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "2018 was the year of GDPR. Security is a shared responsibility and has become even more important than ever before. Nevertheless, not everybody realizes this and security incidents and problems continue to occur, thus resulting in catastrophical consequences for your business. In this talk, I will be sharing how one can utilize best practices to deliver less vulnerable code by using tools to prevent security holes, how to handle incidents from the developers’ point of view and how you can assist your Security Engineers. By following these guidelines, you will make your Security Engineers happy and your code more secure.",
+        "thumbnail": "https://i.ytimg.com/vi_webp/2NwqC4e8X-c/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=2NwqC4e8X-c",
+        "original_url": "https://www.youtube.com/watch?v=2NwqC4e8X-c"
+    },
+    {
+        "index": 41,
+        "title": "Hans Christian Feßl - Think about the user",
+        "url": "https://www.youtube.com/watch?v=TC9jbkN4swY",
+        "video_id": "TC9jbkN4swY",
+        "uploader": "PyCon SK",
+        "uploader_id": "@pyconsk",
+        "uploader_url": "https://www.youtube.com/@pyconsk",
+        "upload_date": "20190806",
+        "duration": 2057,
+        "view_count": 40,
+        "like_count": 0,
+        "comment_count": null,
+        "tags": [
+            "Python",
+            "PyCon SK",
+            "UX"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "As developers, we are mainly focused on making things work. Business logic and process analysis, reinventing the wheel and questioning every line of code are what we do best. But when it comes to making this very complex systems work for users, we are quickly frustrated, because it feels like they just don't get it. As people of code, we are no longer regular users because we understand what is going on behind the curtains of the big show that is called a User Interface. What means, that by default, users have a totally different experience then we developers do. In this talk, I want to extend my lightning talk from last year to half an hour, to give you some tips on how to get a users perspective on the user interface you want or have to create.",
+        "thumbnail": "https://i.ytimg.com/vi_webp/TC9jbkN4swY/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=TC9jbkN4swY",
+        "original_url": "https://www.youtube.com/watch?v=TC9jbkN4swY"
+    },
+    {
+        "index": 42,
+        "title": "Joel Lord - I Don't Care About Security (And Neither Should You)",
+        "url": "https://www.youtube.com/watch?v=YTGjKHrNB18",
+        "video_id": "YTGjKHrNB18",
+        "uploader": "PyCon SK",
+        "uploader_id": "@pyconsk",
+        "uploader_url": "https://www.youtube.com/@pyconsk",
+        "upload_date": "20190630",
+        "duration": 1842,
+        "view_count": 40,
+        "like_count": 0,
+        "comment_count": null,
+        "tags": [
+            "Python",
+            "PyCon SK",
+            "OpenID",
+            "OAuth"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "Remember when setting up a login page was easy? It seems like nowadays it can take weeks to start a project -- creating a signup form, a login form, a password recovery screen, and all the validation in between. And you haven't even started on security considerations yet. During this presentation, the attendees will be introduced to OpenID Connect and OAuth. They will also learn how to leverage these technologies to create more secure applications. Most importantly, they will learn how to delegate authorization and authentication so they can focus on their real work and forget about all that security stuff.",
+        "thumbnail": "https://i.ytimg.com/vi_webp/YTGjKHrNB18/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=YTGjKHrNB18",
+        "original_url": "https://www.youtube.com/watch?v=YTGjKHrNB18"
+    },
+    {
+        "index": 43,
+        "title": "Suryansh Tibarewala - MVP, is never just a MVP",
+        "url": "https://www.youtube.com/watch?v=LtheyJas4As",
+        "video_id": "LtheyJas4As",
+        "uploader": "PyCon SK",
+        "uploader_id": "@pyconsk",
+        "uploader_url": "https://www.youtube.com/@pyconsk",
+        "upload_date": "20190806",
+        "duration": 1415,
+        "view_count": 40,
+        "like_count": 1,
+        "comment_count": null,
+        "tags": [
+            "Python",
+            "PyCon SK"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "MVP: Minimum Viable Product. We all follow agile product development process, iterate fast, fail fast and in the disguise of a MVP we cut corners to release a product to the market ASAP. In this process, their are several compromises we make in the tech set up and the codebase to just get it out there. These compromises more often than not always bites us back.\n\nAnd this is what the talk is about. The assumptions which never hold, the implementation which is never revisited, and the MVP which never ends up being just a MVP. By the end of talk, you would know the cautionary tale of the most common mistakes everyone makes while developing a new product and some measures on how you can avoid them.",
+        "thumbnail": "https://i.ytimg.com/vi_webp/LtheyJas4As/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=LtheyJas4As",
+        "original_url": "https://www.youtube.com/watch?v=LtheyJas4As"
+    },
+    {
+        "index": 44,
+        "title": "Filip Štefaňák - Stability with a Hockey-stick",
+        "url": "https://www.youtube.com/watch?v=ZFf4xL9pEpY",
+        "video_id": "ZFf4xL9pEpY",
+        "uploader": "PyCon SK",
+        "uploader_id": "@pyconsk",
+        "uploader_url": "https://www.youtube.com/@pyconsk",
+        "upload_date": "20190614",
+        "duration": 1397,
+        "view_count": 33,
+        "like_count": 0,
+        "comment_count": null,
+        "tags": [
+            "Python",
+            "PyCon SK",
+            "SaaS"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "\"Make fast and break things\" used to be a popular motto at Facebook, but at some point it needed to change. How can a fast-growing SaaS company like Exponea handle the ever increasing need for service stability? We will take a quick look at all the bazillion things that must be done, panic, and talk about how they can actually be done.",
+        "thumbnail": "https://i.ytimg.com/vi_webp/ZFf4xL9pEpY/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=ZFf4xL9pEpY",
+        "original_url": "https://www.youtube.com/watch?v=ZFf4xL9pEpY"
+    },
+    {
+        "index": 45,
+        "title": "Paweł Lewtak - Long term IT projects",
+        "url": "https://www.youtube.com/watch?v=VbiWPTiVHyc",
+        "video_id": "VbiWPTiVHyc",
+        "uploader": "PyCon SK",
+        "uploader_id": "@pyconsk",
+        "uploader_url": "https://www.youtube.com/@pyconsk",
+        "upload_date": "20190806",
+        "duration": 2502,
+        "view_count": 28,
+        "like_count": 0,
+        "comment_count": null,
+        "tags": [
+            "Python",
+            "PyCon SK"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "Not everybody has a chance to work on new project from scratch. Everybody has some ideas what to do for such a project so it'll be a good one instead of legacy in a near future. During this talk I want to share my experience and show what works for me. I'll start from project analysis and end on deployment and beyond. I want to discuss some common mistakes and misconceptions and hopefully give you some ideas you could use for your own project regardless of its size. With a bit of work some/all could be applied to legacy projects as well.",
+        "thumbnail": "https://i.ytimg.com/vi_webp/VbiWPTiVHyc/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=VbiWPTiVHyc",
+        "original_url": "https://www.youtube.com/watch?v=VbiWPTiVHyc"
+    },
+    {
+        "index": 46,
+        "title": "Saumuel Hopko - Amazon Web Services - Alexa skills",
+        "url": "https://www.youtube.com/watch?v=XPPjyh9nnnE",
+        "video_id": "XPPjyh9nnnE",
+        "uploader": "PyCon SK",
+        "uploader_id": "@pyconsk",
+        "uploader_url": "https://www.youtube.com/@pyconsk",
+        "upload_date": "20190806",
+        "duration": 2671,
+        "view_count": 17,
+        "like_count": 1,
+        "comment_count": null,
+        "tags": [
+            "Python",
+            "PyCon SK",
+            "AWS",
+            "Alexa"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "Alexa is Amazon’s cloud base voice service that provides natural voice experience to end users. This opens a way to use human voice as input/output for you applications. You can easily create voice-controlled applications (called Alexa skills) or just voice interface for your current products or anything you like! Tools provided by Amazon web services (AWS) are easy to use and if used correctly, then completely free. Once skill is done, it’s just a matter of minutes to deploy it as high-available, auto-scaled, serverless, globally distributed application using AWS. Then you can use Amazon Alexa Skill store to sell your product all over the world. I would like to show you how it works, what AWS provides to developers and how can anybody create Alexa skills using your favorite language – Python.",
+        "thumbnail": "https://i.ytimg.com/vi_webp/XPPjyh9nnnE/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=XPPjyh9nnnE",
+        "original_url": "https://www.youtube.com/watch?v=XPPjyh9nnnE"
+    }
+]

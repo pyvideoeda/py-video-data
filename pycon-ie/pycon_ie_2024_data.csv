@@ -1,0 +1,311 @@
+﻿index,title,url,video_id,uploader,uploader_id,uploader_url,upload_date,duration,view_count,like_count,comment_count,tags,categories,description,thumbnail,age_limit,is_live,was_live,availability,webpage_url,original_url
+1,Ben Fagan &  Mikhail Medvedev: Building an expression parser in Python,https://www.youtube.com/watch?v=K3lu_HHObao,K3lu_HHObao,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20241204,1114,23,0,,Python,Science & Technology,"Expression parsing involves analysing a string of characters to identify it's structure and meaning. This talk will cover what goes into (literally) seeing if 1 + 1 = 2.
+
+Among the topics covered will be:
+- Options for parsing and execution of the resulting expression.
+- Understanding grammar using Lark, a Python parsing library where we define grammar rules and parse based on these.
+- What else Lark can do and how it can integrate with other tools. Lark can handle a wide variety of structures, making it ideal for more advance topics such as language interpreters.
+- Practical use cases for parsers like this, such as in data validation.",https://i.ytimg.com/vi/K3lu_HHObao/maxresdefault.jpg,0,False,False,unlisted,https://www.youtube.com/watch?v=K3lu_HHObao,https://www.youtube.com/watch?v=K3lu_HHObao
+2,Will Rogers: Cluid Housing: The evolution of a custom Python package in a complex data migration.,https://www.youtube.com/watch?v=5R3bGcfo2sU,5R3bGcfo2sU,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20241204,1861,11,0,,Python,Science & Technology,"Clúid Housing is an award-winning, not-for-profit housing body providing over 11,000 affordable, high-quality homes to people in housing need. Recently Cluid's Data Engineering team played a big role in a complex data migration to a new Housing Management System in dynamics365.
+
+Python was a big part of this journey. Some simple custom classes evolved into a package that glued our migration together, all in one codebase. We'd like to share our experience, how it helped with collaboration and enabled us to iterate towards success. We'll cover:
+• A summary of the project including the data involved.
+• The constraints that directed us towards Python.
+• Using Pytest and Docker to test locally, without data!
+• The overall architecture of our solution including SQL server, Azure Synapse Analytics and Data Factory.
+• Simplifying SQL using custom dependencies.
+• The benefits of iteration!",https://i.ytimg.com/vi/5R3bGcfo2sU/maxresdefault.jpg,0,False,False,unlisted,https://www.youtube.com/watch?v=5R3bGcfo2sU,https://www.youtube.com/watch?v=5R3bGcfo2sU
+3,Dmitry Sorokin: End-to-end Machine Learning with open-source,https://www.youtube.com/watch?v=OiYFrrqPgns,OiYFrrqPgns,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20241204,1524,17,3,,Python,Science & Technology,"MLOps results from applying DevOps practices to ML and AI code. But getting started is hard, because there are hundreds of different overlapping libraries and frameworks, and you still have to stich them together!
+
+In this talk we will guide you through building robust ML pipelines that cover every stage, from data ingestion to model deployment and monitoring. You will learn how you can write maintainable pipelines with Kedro, efficiently manage ML features with Feast feature store, orchestrate complex workflows using Airflow, and ensure reproducibility and tracking with MLFlow.
+
+Outline:
+1. What is MLOps? (5 minutes)
+2. Maintainable pipelines with Kedro (5 minutes)
+3. Feature stores with Feast (5 minutes)
+4. Experiment tracking with MLflow (5 minutes)
+5. Orchestration with Airflow (5 minutes)
+6. Conclusion (5 minutes)
+
+Join us to learn how combining these open-source tools can transform your ML workflow into a streamlined, scalable, and maintainable MLOps ecosystem!",https://i.ytimg.com/vi/OiYFrrqPgns/maxresdefault.jpg,0,False,False,unlisted,https://www.youtube.com/watch?v=OiYFrrqPgns,https://www.youtube.com/watch?v=OiYFrrqPgns
+4,"John Gill: Exploring the Milky Way with astropy, matplotlib and Gaia",https://www.youtube.com/watch?v=654X2twP0is,654X2twP0is,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20241204,1659,9,0,,Python,Science & Technology,"We are living at an incredible time for astronomy.
+
+Space based telescopes are providing large amounts of wonderful open data.
+
+python is central to the complex data processing and analysis that is happening through huge collaborations.
+
+The talk will focus on two personal python projects.
+
+The first, blume, is a general toolkit I used to help me working with matplotlib. It actually began it's life here in Dublin some 20 years ago, and was part of my introduction to matplotlib.
+
+The second is gotu, a project I started to help me explore the ideas in Professor Colin Rourke's book, The Geometry Of The Universe. It mostly consists of tools to visualise data with matplotlib and it uses blume.
+
+Three modules from gotu will be covered:
+
+gotu.jwst: a tool to download and view jwst data.
+
+gotu.gaia: a tool that downloads a subset of Gaia data and uses it to visualise the Milky Way's rotation curve: how the velocity of stars vary as you move out from the centre of the Milky Way.
+
+gotu.spiral: how the Sciama Principle and de Sitter Space can explain what we are seeing.",https://i.ytimg.com/vi/654X2twP0is/maxresdefault.jpg,0,False,False,unlisted,https://www.youtube.com/watch?v=654X2twP0is,https://www.youtube.com/watch?v=654X2twP0is
+5,Cosmin Marian Paduraru: Unlocking Visual Intelligence: Exploring Computer Vision with Python,https://www.youtube.com/watch?v=V4NzAENQj0Y,V4NzAENQj0Y,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20241204,1374,48,2,,Python,Science & Technology,"Join me on a thrilling exploration of computer vision with Python. I've crafted innovative solutions like a bottle cap detection app and game objects identifier, employing advanced techniques such as SIFT and Hough Transform Circles. Let's delve into the captivating realm of image processing and Python wizardry, uncovering the secrets to building intelligent visual recognition systems together.
+Despite not working directly in computer vision roles, my passion for the field has been unwavering. I've dedicated my spare time to exploring its possibilities, diving into additional projects and even tackling assignments during my university years.",https://i.ytimg.com/vi/V4NzAENQj0Y/maxresdefault.jpg,0,False,False,unlisted,https://www.youtube.com/watch?v=V4NzAENQj0Y,https://www.youtube.com/watch?v=V4NzAENQj0Y
+6,Alistair Lynn: Exceptionally Tricky: Good errors in bad situations,https://www.youtube.com/watch?v=2ziiIu_Xl2o,2ziiIu_Xl2o,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20241204,1813,6,1,,Python,Science & Technology,"We often pay a lot more attention to how code works when things go well than how it works when things don't. It's very easy to have the error case be an afterthought, but bad errors can be a huge problem when you're on the receiving end.
+
+In this talk I'll go through what makes good and bad errors, how to be kind to the people using your code (which may include you, some months down the line), and go through some worked examples.
+
+We'll talk a bit about good and bad errors in major libraries, in the Python standard library, and even make a reference to Rust because the speaker knows the value of keyword stuffing in talk descriptions.
+
+We'll be covering the full range from the importance of empathy to the structure of traceback frames.",https://i.ytimg.com/vi/2ziiIu_Xl2o/maxresdefault.jpg,0,False,False,unlisted,https://www.youtube.com/watch?v=2ziiIu_Xl2o,https://www.youtube.com/watch?v=2ziiIu_Xl2o
+7,John Curry: How to not Screw Up a Python Based Product Startup,https://www.youtube.com/watch?v=AW8ECG6cZKU,AW8ECG6cZKU,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20241204,2024,5,0,,Python,Science & Technology,"I've given talks before about how I set up a pretty successful AI consultancy called Last Mile AI. But you know what’s even more fun? Talking about the failures! In fact this one should be more fun for you than me.
+As Peter Thiel wisely noted, most failures are over-determined, so it’s tough to pinpoint the main culprit. Still, some patterns do emerge. And yes, I may have been involved in a few... on *rare* occasions.
+
+Since this is a Python conference, we’ll focus on technical blunders—design, implementation, the whole mess. But we’ll touch on business mistakes too because… IT’S ALL CONNECTED!
+
+Here are the ""highlights""—or should I say, lowlights:
+- Why deploying even moderately large AI models is a nightmare (spoiler: they're total drama queens).
+- How machine learning performance never quite translates into production (and no, more representative data isn’t always the magic fix despite what the textbooks say).
+- How premature abstraction—like an overuse of metaclasses—can wreck your dev cadence faster than spilling coffee on your keyboard.
+- How serverless moves logic from code to infra, where there are no safety nets (debugging in the cloud? Digital haystack. Needle? Gone.).
+- Why frontend dev seems easy to us Python folks but absolutely isn’t (spoiler: users!).
+- How DevOps can swallow 50% of your dev budget if you blink. Cloud? It’s already taken the other 50%.
+- How algorithmic thinking beats yet another framework.
+- How Agile theatre kills your cadence faster than a daily stand-up.
+- And more, if your stomach can handle it! (Sorry, antacids not provided.)
+
+But we won’t just dwell on the pain. We'll also dive into solutions—like the ones that make things worse (hint: more microservices!) and the ones that actually work (hint: meet CDK, your new best friend).
+
+After this talk, you’ll either build a better startup product with Python or sprint towards a peaceful life of agriculture or pottery. Either way, you’ll be better off, making this talk absolutely unmissable.",https://i.ytimg.com/vi/AW8ECG6cZKU/maxresdefault.jpg,0,False,False,unlisted,https://www.youtube.com/watch?v=AW8ECG6cZKU,https://www.youtube.com/watch?v=AW8ECG6cZKU
+8,"Mykalin Jones, Ellen Corbett: Creating a Substring Search Tool for the Irish Language",https://www.youtube.com/watch?v=FEP5L3hhkks,FEP5L3hhkks,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20241205,2184,7,0,,Python,Science & Technology,"Taking the ‘-Deoir’ out of ‘Taighdeoir’: 
+As a result of a modern wave of revival efforts both at home and abroad, the Irish language has a number of comprehensive and up-to-date online learning tools, databases, and dictionaries. However, there was no way for Irish learners or users to search for specific substrings, despite their importance in Irish to denote number (singular or plural), gender, case, and noun declension (how a noun is conjugated or pluralised).
+
+This talk will discuss the process of creating an application in Python to remedy this problem. We will present our solution, Míreadóir, a search tool for Irish-language substrings. It is hoped that this tool will benefit language teachers and learners, and every-day Irish users. With substrings also encompassing suffixes, it is also possible that this tool could act as a rhyming dictionary or support in creative writing. The talk will consider the collaboration between an Irish-language translator and scholar, and a data scientist and Irish-language learner; the implications of machine learning on language learning and translation; and offer a beginner-friendly discussion on web scraping, string processing, and creating a bilingual front-end for a data science project.",https://i.ytimg.com/vi/FEP5L3hhkks/maxresdefault.jpg,0,False,False,unlisted,https://www.youtube.com/watch?v=FEP5L3hhkks,https://www.youtube.com/watch?v=FEP5L3hhkks
+9,Build a Powerful Autonomous Assistant with AI - Mark Smith,https://www.youtube.com/watch?v=RgBVyGms95U,RgBVyGms95U,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20241208,1876,5,0,,Python,Science & Technology,"Build a Powerful Autonomous Assistant with AI - Mark Smith
+Room 2 Session 05
+Many of the latest LLMs now have the ability to use tools - functions you can write that the LLM can call if it needs more data, say from web search, or to execute a task, like sending an email. When combined with the ability to look up data from a vector database using unstructured inputs, that gives you inputs, outputs, memory, and a brain - everything I need to build a smart butler to make my life easier!
+
+I'll go through each of these systems to explain how they work, and then I'll put them together using the POLM stack (that's Python, OpenAI, LlamaIndex, & MongoDB).
+
+If I have time, I'll also talk about some of the other things LLMs can do (like writing and executing code) that could be useful for an AI agent.
+
+If everything goes to plan, I'll show you a system that can schedule tasks, tell me interesting things that are happening,
+and generally make me look like someone who know's what they're doing on a daily basis. Let's hope I don't accidentally unleash an unrestrained digital robot upon the Internet.",https://i.ytimg.com/vi/RgBVyGms95U/maxresdefault.jpg,0,False,False,unlisted,https://www.youtube.com/watch?v=RgBVyGms95U,https://www.youtube.com/watch?v=RgBVyGms95U
+10,Build a RAG to Brag About - Natan Mish,https://www.youtube.com/watch?v=8MMAWYWtwfA,8MMAWYWtwfA,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20241207,1699,4,0,,Python,Science & Technology,"Build a RAG to Brag About - Natan Mish
+PyCon Ireland 2024
+Room 2 Session 02
+Abstract:
+In this talk, we will explore advanced techniques for enhancing Retrieval-Augmented Generation (RAG) applications. Designed for an audience with prior knowledge in Python, this session will delve into innovative methods to improve the efficiency, accuracy, and explainability of RAG systems. We will demonstrate using an example use-case and use open source tools such as ChromaDB vector database, the LangChain package and popular industry LLM providers such as OpenAI. Attendees will gain insights into cutting-edge practices such as Context Enrichment Techniques, Intelligent Reranking, Dynamic Chunk Sizing, Semantic Chunking, Explainable Retrieval, Ensemble Retrieval, and Knowledge Graph Integration.
+
+Learning Objectives:
+- Understand advanced techniques to improve RAG applications
+- Learn practical implementation strategies for each technique
+- Gain insights into the benefits and challenges of these methods
+
+Target Audience: This talk is aimed at developers, data scientists, and researchers with a background in Python who are looking to dive deeper into the world of RAGs and LLMs for common use cases.
+
+Description:
+With the rapid adoption of LLMs across industries, the RAG framework has emerged as a powerful tool for building applications like customer support chatbots, virtual assistants, and search engines. By augmenting LLMs with external knowledge, RAG can significantly enhance performance and accuracy. However, developing a robust, reliable, and secure RAG application is challenging due to hurdles like unmet requirements, subpar performance, and cost constraints. This talk will equip you with the essential skills to build a RAG application you can be proud of.
+We'll delve into various aspects of the RAG application lifecycle to optimize performance and reliability. From dynamically and semantically splitting long documents into smaller chunks to employing intelligent reranking and multi-source document retrieval, we'll explore practical techniques to improve search efficiency. To enhance user trust and understanding, we'll incorporate explainable AI methods. Finally, we'll demonstrate how to enrich prompt context with external information and knowledge graphs for more comprehensive and informative responses.
+
+Outline:
+
+Introduction (5 minutes)
+Context Enrichment Techniques (4 minutes)
+Intelligent Reranking (4 minutes)
+Dynamic Chunk Sizing (3 minutes)
+Semantic Chunking (3 minutes)
+Explainable Retrieval (3 minutes)
+Ensemble Retrieval (2 minutes)
+Knowledge Graph Integration (2 minutes)
+Conclusion (2 minutes)
+Q&A (5 minutes)",https://i.ytimg.com/vi/8MMAWYWtwfA/maxresdefault.jpg,0,False,False,unlisted,https://www.youtube.com/watch?v=8MMAWYWtwfA,https://www.youtube.com/watch?v=8MMAWYWtwfA
+11,Python machine learning for understanding Irish accents in English - Peter Nolan,https://www.youtube.com/watch?v=8dNnQCEU8_0,8dNnQCEU8_0,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20241207,1689,18,0,,Python,Science & Technology,"How the Irish Speak English: Python machine learning for understanding Irish accents in English - Peter Nolan
+Room 2 session 1 
+PyCon Ireland 2024
+Using a canonical dataset of Irish people speaking English at locations all over the island, my research project is the first attempt to classify voice samples by the speaker's location using machine learning tools. Using logistic regression and deep learning models, I achieve significant accuracy (greater than 85%, greater than AUC  90%) in classification. Based on this, I propose a country-wide, crowd-sourced effort to gather voice samples to use for further research along these lines.",https://i.ytimg.com/vi/8dNnQCEU8_0/maxresdefault.jpg,0,False,False,unlisted,https://www.youtube.com/watch?v=8dNnQCEU8_0,https://www.youtube.com/watch?v=8dNnQCEU8_0
+12,Shekhar Koirala: Parallel Python: Embracing the Future with Sub-Interpreters and Free Threading,https://www.youtube.com/watch?v=9Tmzh5DY2-Y,9Tmzh5DY2-Y,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20241204,1679,7,0,,Python,Science & Technology,"We will start by examining the new per-interpreter GIL introduced in Python 3.12, which allows sub-interpreters to run Python code concurrently. We'll explore the enhancements in Python 3.13, which include support for sub-interpreters in the standard library, making parallel execution more accessible. Additionally, we will discuss the revolutionary NoGIL compile option, paving the way for Python threads to run truly in parallel, potentially becoming the default in the future.
+
+The talk will cover the traditional multiprocessing approach, comparing it with the newer methods of sub-interpreters and free-threading. We will assess the pros and cons of each approach, considering their complexities and suitability for various types of problems, whether CPU/IO bound.
+
+Thread safety remains a crucial aspect of parallel programming. We will address common pitfalls such as race conditions and provide practical solutions using synchronization primitives to ensure thread-safe code.
+
+Lastly, we will explore a real-world application combining sub-interpreters and free-threading in a multi-worker, multi-thread ASGI web server, benchmarking its performance against traditional web server architectures.",https://i.ytimg.com/vi/9Tmzh5DY2-Y/maxresdefault.jpg,0,False,False,unlisted,https://www.youtube.com/watch?v=9Tmzh5DY2-Y,https://www.youtube.com/watch?v=9Tmzh5DY2-Y
+13,"Scalable AI multi-agent collaboration with Langchain, Langgraph, Crew.AI, and RAG-Mihai Criveti",https://www.youtube.com/watch?v=lhKhQ80hYKk,lhKhQ80hYKk,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20241207,1873,6,2,,Python,Science & Technology,"Building Scalable AI multi-agent collaboration with Langchain, Langgraph, Crew.AI, and RAG- Mihai Criveti
+Room 2 Session 03
+
+A deep dive on multi-agent collaboration, ReAct Prompting and advanced LLM Techniques. Design and building safe, trusted GenAI application using multi-agent collaboration. Understanding how popular Agentic frameworks work, and can be combined: Langchain, Langgraph, Autogen, AutoGPT, Crew.AI and more.
+
+Agent orchestration using popular open source language models, model serving and function calling. Including Agentic Retrieval Augmented Generation with Vector Databases or Internet search results in your applications.
+
+Text-to-sql, code generation techniques, and safe execution of AI Generated Code.",https://i.ytimg.com/vi/lhKhQ80hYKk/maxresdefault.jpg,0,False,False,unlisted,https://www.youtube.com/watch?v=lhKhQ80hYKk,https://www.youtube.com/watch?v=lhKhQ80hYKk
+14,Securing the Supply Chain  - Tom Doyle,https://www.youtube.com/watch?v=n7kr28HkrQ0,n7kr28HkrQ0,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20241208,1490,6,0,,Python,Science & Technology,"PyCon Ireland 2024
+Room 2 Session 04
+Securing the Supply Chain  - Tom Doyle
+From deliberate malicious changes in open source libraries to typo squatting on well known packages. How can we protect our software and our end users and ensure our supply chain is secure. This talk is about the risk management of a supply chain and techniques to limit the exposure of malicious changes in the supply chain.",https://i.ytimg.com/vi/n7kr28HkrQ0/maxresdefault.jpg,0,False,False,unlisted,https://www.youtube.com/watch?v=n7kr28HkrQ0,https://www.youtube.com/watch?v=n7kr28HkrQ0
+15,"Dom Weldon: Who does Python trust, and why?",https://www.youtube.com/watch?v=nD27_o-ULVo,nD27_o-ULVo,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20241204,1976,3,0,,Python,Science & Technology,"We all know how important it is to make sure that you see the ""secure"" padlock icon when paying for something online. It's simple, easy to understand, and automatic.
+
+Is your code the same? How would you start to make sure it is? Let’s dive into those questions in this talk.
+
+First off, the basics: security is based on trust, but trust must be verified. This is especially true in the design of 'zero-trust' networks. Knowing who your code trusts, and how you verify that trust, is therefore essential.
+
+This talk will briefly go through some of the basics, such public/private key cryptography, DNS, and x509 certificate signing, before examining some of the wider implementation and regulation of PKI (Public Key Infrastructure) online. We'll look at how python interfaces with this, along with some history, and look towards the future of important integrations like certifi and truststore.
+
+We'll then look at the problems of Supply Chain Attacks and ask how much you should trust your dependencies, before looking at some of the other basic services your code relies on like DNS.
+
+We’ll then see how you can leverage these trust mechanisms to your advantage to make your code as secure as possible, especially when working in your own cloud environment.
+
+Hopefully, this talk will give you a headstart or a refresh on the knowledge required to have genuinely constructive paranoia when coding.
+
+Failing that, at the very least, I promise to make you the go-to expert on how your company's VPN and proxy cause headaches in python and how to fix them securely, rather than giving up and setting a ""trusted-host"". Hopefully you’ll come away having learned a new swear word that you’ll never type again:
+
+pip config set global.verify_ssl false",https://i.ytimg.com/vi/nD27_o-ULVo/maxresdefault.jpg,0,False,False,unlisted,https://www.youtube.com/watch?v=nD27_o-ULVo,https://www.youtube.com/watch?v=nD27_o-ULVo
+16,Pythonising Government AI - Michael Dowling,https://www.youtube.com/watch?v=d-kodm3Y-qI,d-kodm3Y-qI,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20241208,1944,4,0,,Python,Science & Technology,"Pythonising Government AI - Michael Dowling 
+Room 2 Session 06
+We explore the implementation of Python-based AI coding to augment government policy making. Some of the unique challenges of policy making will be highlighted along with tools based on Generative AI that can help address these challenges. A big takeaway from the talk will be on finding the right mixture of prompt engineering and data provision. We'll finish by exploring the promise of large agent models, to solve some of the known drawbacks of large language models.",https://i.ytimg.com/vi/d-kodm3Y-qI/maxresdefault.jpg,0,False,False,unlisted,https://www.youtube.com/watch?v=d-kodm3Y-qI,https://www.youtube.com/watch?v=d-kodm3Y-qI
+17,Reducing Legacy Code's Carbon Footprint with AI - Olivier Bierlaire,https://www.youtube.com/watch?v=8A6TX9MZF20,8A6TX9MZF20,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20241208,1878,7,0,,Python,Science & Technology,"Reducing Legacy Code's Carbon Footprint with AI - Olivier Bierlaire
+Room 2 Session 07
+Is there anything worse than Lovecraft's creatures, worse than Cthulhu or the Shoggoths? No, it's not a forgotten bug; it's much worse: inefficient legacy code! Not only does maintaining it terrify us, but it also requires more and more resources to function and worsens our carbon footprint! What if AI could come to the rescue?
+
+It is well known that some programming languages are much more energy-intensive than others. For example, Python is about 76 times more energy-intensive than Rust or C. So, how can AI help us convert an old legacy project into a less energy-intensive technology?
+
+We will explore the environmental impact of legacy code and how AI can be used to optimize this code. We will examine concrete cases where AI can automatically convert inefficient code into optimized code. And of course, this must be done without regression and without compromising maintainability.
+
+Maybe for a small piece of code, but what about a large project? Let's discover autonomous AI agents, they will work together to help us!
+
+We will also conduct a practical demonstration of converting legacy Python code to Rust, showing the gains in energy efficiency and reductions in CO2 emissions.
+
+Get ready to discover how AI can transform your legacy code into environmentally friendly code and take on the challenge of reducing the carbon footprint of digital technology!",https://i.ytimg.com/vi/8A6TX9MZF20/maxresdefault.jpg,0,False,False,unlisted,https://www.youtube.com/watch?v=8A6TX9MZF20,https://www.youtube.com/watch?v=8A6TX9MZF20
+18,"GitHub Ecosystem for Python Projects: From Hello World to Docker Deployment-Tom Halpin, Eoin Halpin",https://www.youtube.com/watch?v=XBTHgwAwbEA,XBTHgwAwbEA,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20241208,1613,30,2,,Python,Science & Technology,"Leveraging GitHub Ecosystem for Python Projects: From Hello World to Docker Deployment - Tom Halpin, Eoin Halpin
+Room 2 Session 08
+This session will only have some very basic Python code, instead it will cover how to harness the GitHub ecosystem for creating, managing and deploying Python projects. Starting from a simple ""Hello World"" application, this session will guide you through setting up a templated GitHub repository optimized for Continuous Integration (CI) and Continuous Deployment (CD).
+
+Key Points:
+
+- Template GitHub Repository:
+
+Structure a repository tailored for Python projects.
+Utilize issue templates to standardize and streamline issue tracking and resolution.
+Create a Dockerfile to containerize the Python application.
+Use GitHub Actions to set up CD pipelines to build, scan, and push Docker images to a container registry.
+
+- CI:
+
+Spell Checking: Maintain documentation quality with codespell.
+Link Verification: Ensure valid URLs using lychee-action.
+Linting: Enforce coding standards with flake8 and pylint.
+Unit Testing: Verify code correctness with pytest.
+Static Application Security Testing (SAST): Identify vulnerabilities with Bandit.
+
+- CD:
+
+Dynamic Application Security Testing (DAST): Perform security testing with OWASP ZAP.
+Container Security: Scan Docker images with Trivy.
+Build and Deploy to Docker Hub: Automate Docker builds and push to Docker Hub.
+Deployment Automation: Deploy application as a Docker container to Docker Hub.
+
+The session will showcase how leveraging the GitHub ecosystem can enhance and optimize your Python development workflow.",https://i.ytimg.com/vi/XBTHgwAwbEA/maxresdefault.jpg,0,False,False,unlisted,https://www.youtube.com/watch?v=XBTHgwAwbEA,https://www.youtube.com/watch?v=XBTHgwAwbEA
+19,Vector Voodoo: Unleashing the Magic of Vector Databases with Python -   Paul Minogue,https://www.youtube.com/watch?v=8G4cY4ufy_8,8G4cY4ufy_8,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20241208,2307,64,1,,Python,Science & Technology,"Vector Voodoo: Unleashing the Magic of Vector Databases with Python   - Paul Minogue
+Room 2 Session 09",https://i.ytimg.com/vi/8G4cY4ufy_8/maxresdefault.jpg,0,False,False,unlisted,https://www.youtube.com/watch?v=8G4cY4ufy_8,https://www.youtube.com/watch?v=8G4cY4ufy_8
+20,Designing modular services with a practical example in AI/ML model deployment - Florenz Hollebrandse,https://www.youtube.com/watch?v=g3j5BNQKpCk,g3j5BNQKpCk,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20241208,1711,7,0,,Python,Science & Technology,"Designing modular services with a practical example in AI/ML model deployment - Florenz Hollebrandse
+Room 2 Session 10
+In this talk we will show how Python applications and services can be designed using a modular approach. We will explain how a simple plugin system can be used to decouple business logic from platform/deployment concerns. The talk will cover the Open Source framework ""pluggy"" (https://github.com/pytest-dev/pluggy).
+
+To give the talk a practical focus we will walk through an Open Source AI/ML framework (""inference-server"", https://github.com/jpmorganchase/inference-server) to deploy models to the cloud. Using this example, we will demonstrate how to apply abstractions at the right level, maximize code re-use and make local testing trivial.",https://i.ytimg.com/vi/g3j5BNQKpCk/maxresdefault.jpg,0,False,False,unlisted,https://www.youtube.com/watch?v=g3j5BNQKpCk,https://www.youtube.com/watch?v=g3j5BNQKpCk
+21,Quantifying uncertainty with stochastic and machine learning models - Juan Castillo del Río,https://www.youtube.com/watch?v=0YeadT_BAU4,0YeadT_BAU4,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20241208,1512,48,3,,Python,Science & Technology,"Quantifying uncertainty with stochastic and machine learning models - Juan Castillo del Río
+Room 2 Session 11
+Uncertainty estimation is a game-changer in banking, trading, retail, and many other fields. The potential applications are endless, and new innovations are emerging across all sectors.
+
+Two great examples of uncertainty estimation models are:
+
+- Financial risk models, which have been helping banks and trading firms navigate market volatility for years, preventing potential bankruptcies.
+
+- Demand forecasting models, which give valuable insights that allow companies to make better decisions, boosting their efficiency.
+
+The best way to understand uncertainty estimation models is by seeing them in action. That’s why in this talk we will walk through some real-world risk estimation examples using Python. We’ll explore the pros and cons of various stochastic and machine learning models currently employed by leading companies.
+
+While there is no one-size-fits-all model for quantifying uncertainty, this conference will provide you with useful information to choose the best model for your specific use case.",https://i.ytimg.com/vi/0YeadT_BAU4/maxresdefault.jpg,0,False,False,unlisted,https://www.youtube.com/watch?v=0YeadT_BAU4,https://www.youtube.com/watch?v=0YeadT_BAU4
+22,"Zoology 101: python, pandas, and duckdb - Jaroslav Bezdek",https://www.youtube.com/watch?v=ISuuiyP4WCs,ISuuiyP4WCs,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20241209,1526,14,0,,Python,Science & Technology,"Zoology 101: python, pandas, and duckdb - Jaroslav Bezdek
+Room 3 Session 01
+Dive into the dynamic world of data wrangling with pandas, and duckdb! This talk unveils the strengths, differences, and ideal use cases of these tools, offering a guided tour through the diverse landscape of data processing in Python.",https://i.ytimg.com/vi/ISuuiyP4WCs/maxresdefault.jpg,0,False,False,unlisted,https://www.youtube.com/watch?v=ISuuiyP4WCs,https://www.youtube.com/watch?v=ISuuiyP4WCs
+23,E-ink dashboards everywhere  -  Marcel-Jan Krijgsman,https://www.youtube.com/watch?v=ulSu7QKkCrg,ulSu7QKkCrg,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20241209,1635,13,0,,Python,Science & Technology,"E-ink dashboards everywhere  -  Marcel-Jan Krijgsman
+Room 3 Session 02
+PyCon Ireland 2024
+Ever since I discovered that there are e-ink displays that you can attach to a Raspberry Pi and program with Python, my mind went racing. You could make anything and hang it on the wall.
+
+What can you do with them? Sure, you can photo stand with them. Or show a joke of the day. But there's so much more.
+
+And so I build a dashboard that shows my cycling statistics. And a display that shows my calendar for the upcoming days, so I don't forget my appointments. And I created a donation tracker that I used in the field during sponsoring events.
+
+For the future I hope to see bigger and bigger e-ink displays that can replace posters.",https://i.ytimg.com/vi/ulSu7QKkCrg/maxresdefault.jpg,0,False,False,unlisted,https://www.youtube.com/watch?v=ulSu7QKkCrg,https://www.youtube.com/watch?v=ulSu7QKkCrg
+24,Descriptors in Python - Steve Holden,https://www.youtube.com/watch?v=zY_2wm63j24,zY_2wm63j24,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20241209,2136,2,0,,Python,Science & Technology,"Descriptors in Python - Steve Holden
+PyCon Ireland  2024
+Room 3 Session 03
+From the famous author of ""Python in a Nutshell""!
+
+Explore the powerful descriptor protocol in Python, which underlies the functionality of properties, methods, and custom attribute management.
+Learn how to implement and use descriptors to control attribute access, validation, and behavior in your classes, unlocking deeper insights into Python's object model.",https://i.ytimg.com/vi/zY_2wm63j24/maxresdefault.jpg,0,False,False,unlisted,https://www.youtube.com/watch?v=zY_2wm63j24,https://www.youtube.com/watch?v=zY_2wm63j24
+25,Testable data pipelines -  Florian Stefan,https://www.youtube.com/watch?v=DwiXAA14O9M,DwiXAA14O9M,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20241209,1952,9,0,,Python,Science & Technology,"Testable data pipelines - Lessons learned from writing modular SQL and Python models with DBT -  Florian Stefan
+Room 3 Session 04
+The ""data build tool"" (DBT) was designed to unlock software engineering best practices for SQL-based data pipelines: pipelines as version controlled directed acyclic graphs (DAGs) consisting of testable and reusable nodes. With the increasing number of cloud data warehouses and data lakehouses that allow the native execution of Python code, DBT also added support for Python models.
+In this talk, I will explain how Flatiron Health uses DBT to improve and extend lives by learning from the experience of every person with cancer. We will discuss an example project setup that uses SQL as well as Python models. I will share our experiences with unit and data testing as well as with writing a reusable variable library.
+The talk is well-suited for anyone with prior data warehouse or data lakehouse experience who is curious how they can leverage DBT to write test-driven and reusable data piplines. The example project will use SQL, Python and Snowflake.",https://i.ytimg.com/vi/DwiXAA14O9M/maxresdefault.jpg,0,False,False,unlisted,https://www.youtube.com/watch?v=DwiXAA14O9M,https://www.youtube.com/watch?v=DwiXAA14O9M
+26,Uncertainty and Causal Inference in Python with CausalPy - Nathaniel Forde,https://www.youtube.com/watch?v=-C4p4b2cUp8,-C4p4b2cUp8,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20241209,1760,88,4,,Python,Science & Technology,"Uncertainty and Causal Inference in Python with CausalPy - Nathaniel Forde Room 3 Session 05
+There is more to causal inference in industry than A/B testing. Often you will want to assess process change where a control group split is wasteful or unethical. To accommodate these questions we can use quasi-experimental causal inference techniques of the kind implemented in CausalPy. CausalPy ensures that we incorporate uncertainty in the estimates of causal effects using Bayesian methods built on top of PyMC.
+
+We will survey some recent additions to the package and highlight the centrality and use of causal inference in solving business problems.",https://i.ytimg.com/vi/-C4p4b2cUp8/maxresdefault.jpg,0,False,False,unlisted,https://www.youtube.com/watch?v=-C4p4b2cUp8,https://www.youtube.com/watch?v=-C4p4b2cUp8
+27,Building scalable GenAI Pipelines using Apache Beam - Oleksandr Saienko,https://www.youtube.com/watch?v=A7PxTtTQDlY,A7PxTtTQDlY,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20241209,1710,15,0,,Python,Science & Technology,"Building scalable GenAI Pipelines using Apache Beam - Oleksandr Saienko Room 3 Session 07
+PyCon 2024
+We will explore the process of creating scalable Generative AI (GenAI) pipelines using Apache Beam open-source framework (Python). Attendees will learn about the benefits of using Apache Beam for data processing, and best practices for building efficient and scalable pipelines. Will be demonstrated on how to leverage Apache Beam’s capabilities for LLMs integration to handle large-scale real-time streaming AI workloads. Real-world examples and case studies will illustrate the practical applications and performance benefits of this powerful combination.",https://i.ytimg.com/vi/A7PxTtTQDlY/maxresdefault.jpg,0,False,False,unlisted,https://www.youtube.com/watch?v=A7PxTtTQDlY,https://www.youtube.com/watch?v=A7PxTtTQDlY
+28,Simplifying Python Web App Operations: Automating K8s Ops with Open Source - David Andersson,https://www.youtube.com/watch?v=nWlewzU9Atw,nWlewzU9Atw,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20241209,1670,3,0,,Python,Science & Technology,"Simplifying Python Web App Operations: Automating K8s Ops with Open Source - David Andersson 
+Room 3 Session 08
+After creating a great web app using Python such as with flask, the next hurdle to production is how to make it available to users and operate it. And not just your app, but also ingress, the database, observability and the list goes on. We will go through your options for simplifying the operations of your web app using open source tooling. This will include using k8s directly, helm charts, IaaC using pulumi and new tooling developed by Canonical using juju. By the end of the talk you will have seen the benefits and drawbacks of each which will help you make an informed decision on which tool best suits your needs!",https://i.ytimg.com/vi/nWlewzU9Atw/maxresdefault.jpg,0,False,False,unlisted,https://www.youtube.com/watch?v=nWlewzU9Atw,https://www.youtube.com/watch?v=nWlewzU9Atw
+29,Django Performance Optimization using Django Debug Toolbar  - Velda Kiara,https://www.youtube.com/watch?v=mVg3pKEV75M,mVg3pKEV75M,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20241209,1824,3,0,,Python,Science & Technology,"Django Performance Optimization using Django Debug Toolbar  - Velda Kiara
+Room 3 Session 09
+PyCon Ireland 2024 
+This talk is tailored to show you how to identify and fix performance issues in Django using Django Debug Toolbar(DJDT). During the talk we will look into the DJDTfeatures, pinpoint bottlenecks, and explore strategies to make your application faster.
+
+Details of the particular items of the talk include:
+- Introduction of the toolbar, purpose, feature and functionality as well as the benefits in terms of development. (2 min)
+- Highlight the installation and configuration of the DJDT to enable the toolbar in development environment (2min)
+- Go through the keys-panels and their use cases like SQL, Templates, Cache, and Signals. (2min)
+- Identify common performance issues in Django applications and how to use Django Debug Toolbar to detect slow queries, inefficient templates, and other bottlenecks(5 min)
+- How to optimize database queries using the SQL panel (5 min)
+- How to boost template rendering performance with the toolbar(5min)
+- Importance of caching in Django applications and using the Cache panel to monitor cache usage (4min)
+- Optimizing middleware performance by using the Signals panel to track signal usage (3min)
+- Questions(2min)
+
+I will also be having code samples for better description and understanding on the different concepts highlighted above.
+
+The target audience of the talk are Django developers at all levels who want to:
+- Improve their application's performance
+- Learn how to use the Django Debug Toolbar effectively
+- Gain insights into the inner workings of their applications.",https://i.ytimg.com/vi/mVg3pKEV75M/maxresdefault.jpg,0,False,False,unlisted,https://www.youtube.com/watch?v=mVg3pKEV75M,https://www.youtube.com/watch?v=mVg3pKEV75M
+30,"Python Interface for the High-Performance C++ Library, Done the Right Way    Alex Andreev",https://www.youtube.com/watch?v=DjnXowmxguo,DjnXowmxguo,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20241209,1629,3,0,,Python,Science & Technology,"Python Interface for the High-Performance C++ Library, Done the Right Way    Alex Andreev
+PyCon Ireland 2024
+Room 3 Session 10
+Writing extensively used low-level building blocks in languages other than native Python and exposing them through an interface is a common practice in HPC/ML/AI Python ecosystems to ensure the highest possible performance of a workflow.
+
+This talk will demonstrate how to design an efficient Python interface for a high-performance library, using the development history of the Intel® Extension for Scikit-learn (sklearnex) as an example. This framework provides a user-friendly Python interface for the oneAPI Data Analytics Library (oneDAL), a collection of accelerated classical machine learning building blocks written in C++.
+
+In this talk, we will focus on the following details:
+* Tools for interconnectivity between C++ and Python
+* Balancing maintainability, usability, and performance in the Python interface
+* How the existing Python ML ecosystem affects the design of the interface",https://i.ytimg.com/vi/DjnXowmxguo/maxresdefault.jpg,0,False,False,unlisted,https://www.youtube.com/watch?v=DjnXowmxguo,https://www.youtube.com/watch?v=DjnXowmxguo
+31,How I use Python to prepare my astronomy podcast - Marcel-Jan Krijgsman,https://www.youtube.com/watch?v=WsoLPRvXpNo,WsoLPRvXpNo,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20241209,1690,4,1,,Python,Science & Technology,"How I use Python to prepare my astronomy podcast - Marcel-Jan Krijgsman
+PyCon Ireland 2024
+Room 3 Session 11
+I like to keep track of everything happening in the solar system, and talk about it in my (Dutch) podcast. Only there's so much going on. I was looking for a way to keep track of it all.
+
+So I build a Python ""pipeline"" that uses ChatGPT to categorise the astronomy and space news for me, so I can more quickly find it. I store all the results in an Elasticsearch index. And I created my first frontend app with Streamlit to help me search the results.
+
+And sure, AI can do my podcast now, but were's the fun in that?",https://i.ytimg.com/vi/WsoLPRvXpNo/maxresdefault.jpg,0,False,False,unlisted,https://www.youtube.com/watch?v=WsoLPRvXpNo,https://www.youtube.com/watch?v=WsoLPRvXpNo
+32,"A Journey into Regular Expressions - Vishal Vatsa, Mykalin Jones",https://www.youtube.com/watch?v=iX85mQ7lVh0,iX85mQ7lVh0,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20250326,1430,3,0,,Python,Science & Technology,"A Journey into Regular Expressions - Vishal Vatsa, Mykalin Jones
+PyCon Ireland 2024
+In this talk we will talk about how Regexs have gotten a bad wrap over the years and how this powerful tool is not being used appropriately.
+
+We will define Regex while providing some use cases, explore the history of Regex, from Kleene star, a brief mention of Chomsky, Regular, Non-Regular languages and an introduction to Finite State Machine, which we will use to construct our very own simple regex engine in python.
+
+While we don't expect the audience to have a Computer Science background, some ability to code will be a plus.
+
+This will be a fun journey into the how and why of Regular Expressions, made accessible with Python.",https://i.ytimg.com/vi/iX85mQ7lVh0/maxresdefault.jpg,0,False,False,unlisted,https://www.youtube.com/watch?v=iX85mQ7lVh0,https://www.youtube.com/watch?v=iX85mQ7lVh0
+33,Lightning Talks - Pycon 2024,https://www.youtube.com/watch?v=SmmJaBz56OM,SmmJaBz56OM,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20241209,1824,2,0,,Python,Science & Technology,Lightning Talks - Pycon 2024,https://i.ytimg.com/vi/SmmJaBz56OM/maxresdefault.jpg,0,False,False,unlisted,https://www.youtube.com/watch?v=SmmJaBz56OM,https://www.youtube.com/watch?v=SmmJaBz56OM

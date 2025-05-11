@@ -1,0 +1,168 @@
+﻿index,title,url,video_id,uploader,uploader_id,uploader_url,upload_date,duration,view_count,like_count,comment_count,tags,categories,description,thumbnail,age_limit,is_live,was_live,availability,webpage_url,original_url
+1,Falko Schindler: NiceGUI: Inventing Python’s Nicest UI Framework @ PyCon Ireland 2023,https://www.youtube.com/watch?v=D5DnLgeObq4,D5DnLgeObq4,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20240614,2015,3025,120,11.0,"Python,PyConIe2023,niceGUI,GUI",Science & Technology,"NiceGUI is an intuitive, open-source UI framework that elegantly renders within your web browser. Tailored for everything from micro web apps and dashboards to robotics projects, smart home solutions, and even full-fledged web applications, it's a perfect fit for a broad range of development needs.
+
+In this talk, we'll delve into the “Nice Guy” ethos behind NiceGUI's developer-friendly design. We'll explore how, by harnessing the power of Python's language features, NiceGUI ensures a development experience that's both effortless and enjoyable. Interactive code examples will guide our journey as we uncover how NiceGUI minimizes boilerplate, cultivates Pythonic writing styles, and remains robustly extensible.
+
+Join us on this journey to explore NiceGUI – the “Nice Guy” in Python's UI universe. Discover how the strategic design decisions behind NiceGUI can make your coding experience not only more efficient, but genuinely delightful.
+
+GROUND FLOOR ROOM 1 Sat 4:15 pm - 4:50 pm",https://i.ytimg.com/vi/D5DnLgeObq4/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=D5DnLgeObq4,https://www.youtube.com/watch?v=D5DnLgeObq4
+2,Miguel Grinberg: What's New in SQLAlchemy 2 @ PyConIe 2023,https://www.youtube.com/watch?v=UzdQ_HoSV-g,UzdQ_HoSV-g,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20240701,2141,585,28,,"Python,PyCon,PyConIe,Typing,Type Annotation,SQLAlchemy,SQLAlchemy2",Science & Technology,"What's New in SQLAlchemy 2:
+In this session I will introduce developers, data engineers, and database enthusiasts to the new version 2 release of SQLAlchemy, the most advanced and versatile database library in the Python ecosystem.",https://i.ytimg.com/vi/UzdQ_HoSV-g/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=UzdQ_HoSV-g,https://www.youtube.com/watch?v=UzdQ_HoSV-g
+3,Mia Bajić: The Standard Library Tour @ PyCon Ireland 2023,https://www.youtube.com/watch?v=ZId-JEMSCQ8,ZId-JEMSCQ8,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20240613,1815,552,16,2.0,Python,Science & Technology,"The Standard Library Tour is designed to provide attendees with an understanding of Python's standard library less known features. Have you ever found yourself writing complex code only to discover that Python has tools available within its library that could have made your job easier? Then this talk is for you!
+
+The outline of the talk:
+* Basic information about the library
+* Well-known modules which do less-known things
+* `functools` less-known features: `@singledispatch`, `partial()`, `@cache`
+* `itertools` less-known features: `product()`, `filterfalse()`, `zip_longest()`
+* `collections` less-known features: `ChainMap`, `defaultdict`
+* Less-known modules which do well-known things
+* `doctest` for testing: `testmod()`
+* `Difflib` & `Filecmp` for comparison: `Difflib.SequenceMatcher`, `Filecmp.cmpfiles()`
+* `contextlib` for tasks involving the `with` statement: `@contextmanager`, `@asynccontextmanager`
+
+By attending this session, you'll gain a deeper understanding of Python's standard library and you'll discover the ""unknown unknowns"" - tools that you may not even know exist within Python's standard library. By becoming familiar with the library and all of its capabilities, you'll be better equipped to solve problems and build applications more efficiently, without reinventing the wheel. You'll also receive recommendations on where to find additional resources and information so you can continue learning and exploring Python's tools after the conference has ended.
+
+GROUND FLOOR ROOM 1 Sat 3:40 pm - 4:15 pm",https://i.ytimg.com/vi/ZId-JEMSCQ8/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=ZId-JEMSCQ8,https://www.youtube.com/watch?v=ZId-JEMSCQ8
+4,Pablo Galindo Salgado: The snake of Theseus @ PyCon 2023,https://www.youtube.com/watch?v=TQDzaMYTkYU,TQDzaMYTkYU,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20240605,3109,357,8,,"Python,PyCon,PyCon Ireland,#PyConIe,Pablo Galindo Salgado,Pablo Salgado,Python Core,Python 3.11,Python 3.10,Python 3.12",Science & Technology,"As Python keeps evolving and attracts an ever-growing community with unique perspectives, steering council members and core developers face the enthralling challenge of preserving Python's fundamental identity. In this talk, we embark on a journey, exploring how Python retains its essence while evolving, accommodating new features, and embracing diverse viewpoints. From balancing innovation and compatibility, to navigating the maze of language design, we will discuss what fortifies Python against change and how we prepare to make complicated decisions that may change the language forever.
+
+GROUND FLOOR ROOM 1 Sat 9:30 am - 10:15 am",https://i.ytimg.com/vi/TQDzaMYTkYU/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=TQDzaMYTkYU,https://www.youtube.com/watch?v=TQDzaMYTkYU
+5,Gerard Keating: How I Learned to Stop Worrying and Love Type Annotation @ PyConIe 2023,https://www.youtube.com/watch?v=Sf-ILe2bkvw,Sf-ILe2bkvw,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20240628,1954,304,10,,"Python,PyCon,PyConIe,Types,Typing,Type Annotation",Science & Technology,"How I Learned to Stop Worrying and Love Type Annotation:
+
+Type Annotation is one of the greatest features to be added to the Python language in many years. It has revolutionised programming in Python for many engineers. It has made it possible for many great packages to exist.
+In this talk I will do a deep dive into type annotation. How to get started with type annotation, why you should start using type annotation. All the great benefits of using type annotation. Using type checking and mypy. How to add type checking to your project and why you should start doing type checking on your projects now.",https://i.ytimg.com/vi/Sf-ILe2bkvw/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=Sf-ILe2bkvw,https://www.youtube.com/watch?v=Sf-ILe2bkvw
+6,Nathaniel Forde: Discrete Choice and Random Utility Models in PyMC @  PyConIE 2023,https://www.youtube.com/watch?v=erOKYG1zEU4,erOKYG1zEU4,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20240906,1781,254,7,,Python,Science & Technology,"A presentation on the complexities and subtleties of modelling discrete choice scenarios e.g. estimating the impact of pricing shifts on market share in a product choice offerings.
+
+We will discuss the history and uses of these types of models in marketing and upsell contexts. We will show how to implement these models and how they can be extended to hierarchical versions account of heterogeneity of treatment of effects across both customer and product using PyMC Bayesian modelling.
+
+Work referenced: https://www.amazon.co.uk/Discrete-Choice-Methods-Simulation-Kenneth/dp/0521747384
+
+Ground Floor Room 2 Sat 4:50 pm - 5:25 pm",https://i.ytimg.com/vi/erOKYG1zEU4/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=erOKYG1zEU4,https://www.youtube.com/watch?v=erOKYG1zEU4
+7,Mark Azer: Using Static Analysis to Elevate Your Python Code @ PyConIe 2023,https://www.youtube.com/watch?v=rmulcx2JN44,rmulcx2JN44,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20240629,1756,198,6,,"Python,PyCon,PyConIe",Science & Technology,"Using Static Analysis to Elevate Your Python Code: 
+Static Analysis is a software testing method that checks your code for maintainability issues and security vulnerabilities without needing to execute your code. While Static Analysis tools have existed for some time, modern tools have adapted to better integrate with developers’ workflows. The goal is to help developers write higher quality, more secure code without disrupting their day-to-day workflows.
+
+Since the advent of agile software development, a heavy emphasis has always been placed on delivery speed and quick iteration in order to maximize the new value being provided to end users through new features. However, going too fast can mean taking shortcuts that, in the best case, makes your code messy and difficult to understand, or in the worst case can open your organization to security risks.
+
+Thus, Static Analysis is a critical tool to add to your organization’s workflow to minimize these issues without taking a major hit to developer productivity.
+
+In this talk, we’ll cover:
+- The importance of shifting left and catching issues earlier to save developers time later in the software development life cycle
+- Overview of common issues and security vulnerabilities that can easily go missed in Python code (with examples)
+- What Static Analysis and Software Composition Analysis are, and how they help you shift left when looking for issues
+- How modern Static Analysis tools integrate with common developer tools (IDEs, Git Repos, CI) to be less disruptive while maintaining their impact",https://i.ytimg.com/vi/rmulcx2JN44/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=rmulcx2JN44,https://www.youtube.com/watch?v=rmulcx2JN44
+8,Allyn Hunt: Python in the ActivityPub @ PyCon Ireland 2023,https://www.youtube.com/watch?v=qY-K9tRYnII,qY-K9tRYnII,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20240612,2016,187,6,,"Python,PyCon,PyCon Ireland,Mastodon,Pixelfed,API,Mastodon.py,FediVerse,ActivityPub",Science & Technology,"Social media is changing and hopefully for the better.
+
+ActivityPub is an open, decentralized social networking protocol, and forms the basis for the new wave of Federated social networks.
+
+With many current social media groups either paywalling, restricting or shutting down API entirely, developers are flocking to ActivityPub based social media instances such as Mastodon, PixelFed or Lemmy to build the future of social networking.
+
+This talk will look at using Python to access the basic features of Mastodon, sending “Toots” from a bot account.
+
+GROUND FLOOR ROOM 1 Sat 2:35 pm - 3:10 pm",https://i.ytimg.com/vi/qY-K9tRYnII/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=qY-K9tRYnII,https://www.youtube.com/watch?v=qY-K9tRYnII
+9,Mykalin Jones: Child Prodigies and 6 Figure Salaries? @ PyCon Ireland 2023,https://www.youtube.com/watch?v=bfZabrLQ0Hk,bfZabrLQ0Hk,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20240624,2938,161,5,,"Python,PyCon,PyConIe,Education,Django,STEM,STEAM,PyKids,scratch",Science & Technology,"Child Prodigies and 6 Figure Salaries? Discussing Realist Methods and Goals in Python Education
+Have you ever tried to teach your children programming? Do you have friends trying to learn as an adult? Are you an adult career-switcher?
+
+With so many resources for people getting started in programming, the options can be overwhelming. People often are left to wonder how and when to get started or what they can do to yield better outcomes. This talk will be a two-part discussion: first, on teaching children and second, on supporting adult career-switchers. For children, we will focus on fun and engaging ways to help them get started with coding in Python, how to decide if they are ready, and what can be helpful to do before that time comes. For Adults, we will discuss available resources, ideal learning plans, and realistic goals/outcomes. Emphasis will be placed on getting started, getting out of ""tutorial purgatory"" and getting into real, portfolio building, projects. For members of the Python community, we will be talking about getting involved through impactful mentorship.",https://i.ytimg.com/vi/bfZabrLQ0Hk/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=bfZabrLQ0Hk,https://www.youtube.com/watch?v=bfZabrLQ0Hk
+10,Quazi Nafiul Islam: Calling Rust from Python: A Gentle Introduction to PyO3 @ PyConIe 2023,https://www.youtube.com/watch?v=SfrD9B_qX2g,SfrD9B_qX2g,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20240703,1814,152,4,,"Python,PyCon,PyConIe,PyO3,rust",Science & Technology,"Calling Rust from Python: A Gentle Introduction to PyO3
+Rust is rapidly gathering momentum in the Developer Ecosystem. Microsoft, Amazon and Google and starting to invest in the language. So, what's in it for us Pythonistas? In this talk we cover how to call Rust from Python and take advantage of the performance benefits that Rust provides. We will explore some common data structures in Rust that can be easily passed onto Python, create some small applications with notable performance gains and finally we will talk about the limitations of PyO3.
+
+This talk serves as a gentle introduction to PyO3.
+
+Outline:
+- What is Rust, and why should you care?
+- Calling Rust from Python
+- Small Applications built using Rust and called from Python
+- Fibonacci
+- Using Rust Data Types in Python
+- Exception and Panic handling
+- Final Recommendations",https://i.ytimg.com/vi/SfrD9B_qX2g/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=SfrD9B_qX2g,https://www.youtube.com/watch?v=SfrD9B_qX2g
+11,John Curry: Going the Last Mile – The Story of an Irish Python Based Consultancy,https://www.youtube.com/watch?v=c1AA8xyhTmw,c1AA8xyhTmw,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20240826,1756,132,4,,Python,Science & Technology,"In 2018, sick of my banking job, I took on a small gig to rewrite financial algorithms in a parallel Python library called Numba for GPU. Only problem was that I didn’t know anything about parallel processing or Python or own a GPU. But I took the job anyway, figuring how hard could it be? It turned out to be very hard. Even getting a server with GPU up and running on AWS (which I also had never used) took days. But I enjoyed the project and managed to complete it. 
+Fast-forward 5 years and Last Mile has grown to a team of for software engineer/analysts. And we’ve carried out projects as diverse as supply chain forecasting, predictive maintenance for mines, K12 CS education strategy for Microsoft and my favourite, the optimization of chocolate manufacturing. We also tried our hand at launching our own product. Along the way we have not only learned Python the hard way. We have also had to come to grips with deploying PyTorch transformer models, creating complex micro-services, handling data streaming at scale and a host of other challenges. I’d like to share our journey with you and reflect on how to (or how not to!) free-lance as a software or AI consultant, start a Python based business, grow a company and handle complex projects in specialisms that you could never train for.
+
+Ground Floor Room 2 Sat 11:10 am - 11:45 am",https://i.ytimg.com/vi/c1AA8xyhTmw/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=c1AA8xyhTmw,https://www.youtube.com/watch?v=c1AA8xyhTmw
+12,"Sadhana Srinivasan: The Gilectomy: Past, Present and Future @ PyCon Ireland 2023",https://www.youtube.com/watch?v=bC5pdoOXXoc,bC5pdoOXXoc,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20240610,1819,110,3,1.0,Python,Science & Technology,"In Python, multithreading has historically faced challenges due to the Global Interpreter Lock (GIL). However, after years of ongoing efforts, the community has achieved a breakthrough with the acceptance of PEP 703.
+
+This talk will delve into the GIL, its origins, and the reasons for its removal. It will provide a brief introduction to the GIL and its significance in Python's early days.
+
+We'll also explore the journey of various attempts to remove the GIL, including the gilectomy by Larry Hastings, and understand the obstacles faced during those attempts.
+
+The focus will then shift to the success story behind PEP 703, highlighting Sam Gross's remarkable 'nogil' project, which played a crucial role in getting the proposal accepted.
+
+Finally, we'll touch on the roadmap proposed by the CPython core development team for merging PEP 703, offering insights into what we can expect in the future of Python's multithreading capabilities.
+
+GROUND FLOOR ROOM 1 Sat 11:45 am - 12:20 pm",https://i.ytimg.com/vi/bC5pdoOXXoc/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=bC5pdoOXXoc,https://www.youtube.com/watch?v=bC5pdoOXXoc
+13,Rodrigo 🐍🚀: Describing Descriptors @ PyConIe 2023,https://www.youtube.com/watch?v=eXkBfRqJ2f8,eXkBfRqJ2f8,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20240702,1789,107,8,1.0,"Python,PyCon,PyConIe,Descriptors",Science & Technology,"Rodrigo (mathspp.com)
+Descriptors are one of those things that many don't even bother to learn because they look confusing.
+
+Thankfully for you, I figured out how descriptors work 20 minutes ago, so there is no one better prepared to teach you descriptors than someone who _just_ learned how they work.
+
+In this talk I will provide an example that shows how descriptors work and that will also motivate why they are useful and needed.
+
+By the time we are done, you will be able to implement descriptors in your code, use them for practical purposes and, most importantly, you will be able to deliver a talk just like mine!
+
+The talk will be easier to follow if you are familiar with how properties work (via the `@property` decorator).
+
+# Outline
+
+The outline of the talk is as follows:
+- using properties to implement getters for private attributes or attributes that are computed on the fly;
+- using properties to implement setters for those same attributes;
+- defining a bunch of similar properties;
+- using descriptors to abstract away the pattern that the properties follow;
+- descriptor `__get__`;
+- descriptor `__set__`; and
+- descriptor `__set_name__`.
+
+The talk will start by going over the basics of properties, but it is does not provide a comprehensive introduction to Python properties.
+Rather, it is meant as a refresher for someone who knows how to implement and use a property.",https://i.ytimg.com/vi/eXkBfRqJ2f8/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=eXkBfRqJ2f8,https://www.youtube.com/watch?v=eXkBfRqJ2f8
+14,"Mario Macías: OpenTelemetry metrics for Python without the remorse, with eBPF @ PyCon Ireland 2023",https://www.youtube.com/watch?v=eSxA1kEwHvc,eSxA1kEwHvc,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20240611,2083,93,2,,Python,Science & Technology,"Getting RED metrics for your Python REST APIs can be a lifesaver for services in production, but what about the performance cost of OpenTelemetry monitoring in Python? This talk shows how to use the Grafana eBPF Autoinstrument to get RED(Rate, Errors, Duration) metrics and traces from your Python service at native speed, without the overhead or application changes; the achieved monitoring performance is one order of magnitude ahead of the Python OpenTelemetry libraries.
+
+GROUND FLOOR ROOM 1 Sat 2:00 pm - 2:35 pm",https://i.ytimg.com/vi/eSxA1kEwHvc/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=eSxA1kEwHvc,https://www.youtube.com/watch?v=eSxA1kEwHvc
+15,Michael Twomey: Exploring boto3 behaviours using mitmproxy @ PyCon Ireland 2023,https://www.youtube.com/watch?v=_bwMyykXjwg,_bwMyykXjwg,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20240606,1887,83,5,,Python,Science & Technology,"If you are writing code in Python which communicates with AWS APIs you are more than likely using the boto3 library.
+
+boto3 isn't easily extended via inheritance or callbacks, instead it offers an event system which allows you to intercept and modify calls at different stages in their lifecycle.
+
+This is a very powerful mechanism which can be quite hard to start using due to the documentation only covering a subset of events. To make your life even harder, some events might only be seen during certain failure scenarios, making it difficult to write robust code.
+
+In this talk I'll show:
+- How to write basic code to listen to events
+- An example of some events you might see in typical S3 requests
+- How to use mitmproxy to intercept, understand and ultimately rewrite HTTP requests between boto3 and AWS to simulate different scenarios
+- An example of the events you'll see during request retries
+- An example putting this together to insert monitoring into the boto3 retry mechanism to diagnose network issues
+
+GROUND FLOOR ROOM 1 Sat 10:35 am - 11:10 am",https://i.ytimg.com/vi/_bwMyykXjwg/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=_bwMyykXjwg,https://www.youtube.com/watch?v=_bwMyykXjwg
+16,"Aivars Kalvāns: Pessimism, optimism, realism and Django database concurrency @ PyConIe 2023",https://www.youtube.com/watch?v=2O_G7VVyMLY,2O_G7VVyMLY,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20240626,2002,62,2,1.0,"Python,PyCon,PyConIe,Django,database",Science & Technology,"Pessimism, optimism, realism and Django database concurrency
+Most developers know a thing or two about multi-threading and concurrent programming. But the database often is treated as a black box not behaving as we expect it to and leading to weird bugs. We will look at concurrency in the database through programming language concepts and try to understand what happens behind the scenes of pessimistic and optimistic locking. We will discover how to use Django ORM and database locking and blocking to achieve correct, concurrent, and performant database updates.",https://i.ytimg.com/vi/2O_G7VVyMLY/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=2O_G7VVyMLY,https://www.youtube.com/watch?v=2O_G7VVyMLY
+17,Stephen McCullough: Leveraging AWS SageMaker for Scalable AI Deployment with Python,https://www.youtube.com/watch?v=nzyG1M7lPwc,nzyG1M7lPwc,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20240826,2045,56,1,,Python,Science & Technology,"Stephen McCullough: Leveraging AWS SageMaker for Scalable AI Deployment with Python: A Real-World Journey
+
+The power of artificial intelligence (AI) has been unleashed across various domains, driving numerous innovative solutions. However, the process of building, training, and deploying machine learning models at scale can be a complex task. This talk will focus on how Python, as a leading programming language in the AI field, can interact with AWS SageMaker to streamline this process and make scalable AI deployment achievable.
+
+During this session, I will take the audience on a journey through the world of AWS SageMaker, an integrated platform designed to assist developers and data scientists to build, train, and deploy machine learning models. I will focus on how Python can be utilised to maximise the benefits of SageMaker, demonstrating its use through real-world examples.
+
+In this presentation, I will cover:
+
+Introduction to AWS SageMaker: Understand the fundamental features of SageMaker and why it is a potent tool for AI and ML development.
+
+Python & SageMaker: Dive into the synergies between Python and SageMaker. Learn how to write Python scripts that harness the power of SageMaker for model training, evaluation, and deployment.
+
+Real-world Case Studies: Walk through a series of real-world use cases that illustrate the successful application of SageMaker in Python-based AI projects.
+
+Best Practices and Pitfalls: Gain insights into the best practices when using Python with SageMaker, and learn about common challenges and how to overcome them.
+
+Future of AI with Python and SageMaker: Discussion around the potential advancements and improvements we can anticipate in the AI world, with Python and AWS SageMaker at its core.
+
+Ground Floor Room 2 Sat 10:35 am - 11:10 am",https://i.ytimg.com/vi/nzyG1M7lPwc/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=nzyG1M7lPwc,https://www.youtube.com/watch?v=nzyG1M7lPwc
+18,Kairo Francisco de Araujo: PEP 458 a solution not only for PyPI @ PyCon Ireland 2023,https://www.youtube.com/watch?v=Tv_H4RuLjLA,Tv_H4RuLjLA,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20240607,1542,49,0,,Python,Science & Technology,"PEP 458 uses cryptographic signing on PyPI to protect Python packages against attackers. The implementation of the PEP inspired the Repository Service for TUF (RSTUF), a project accepted into the OpenSSF sandbox. We identified that the design could benefit other organizations and repositories looking to secure their software supply chains. In this talk we would answer the following questions:
+
+How did the PEP 458 design help to start the Repository Service for TUF (RSTUF)?
+How could RSTUF be used for PyPI with its millions of packages?
+How can RSTUF be deployed by any organization at any scale without requiring TUF expertise?
+Additionally, in this talk, we would give an overview of PEP 458, how it works, and give a high-level overview of TUF.
+
+GROUND FLOOR ROOM 1 Sat 11:10 am - 11:45 am",https://i.ytimg.com/vi/Tv_H4RuLjLA/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=Tv_H4RuLjLA,https://www.youtube.com/watch?v=Tv_H4RuLjLA
+19,Lightning Talks: A 5 minute talk on anything with some relationship to Python! @ PyConIe 2023,https://www.youtube.com/watch?v=sMfu2IYxZ3k,sMfu2IYxZ3k,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20240625,2278,48,0,,"#PyCon,#PyConIe,#Python,#STEM,#LightningTalks",Science & Technology,Lightning Talks: An opportunity to give a 5 minute talk on anything with some relationship to Python! Sat 5:25 pm - 6:10 pm,https://i.ytimg.com/vi/sMfu2IYxZ3k/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=sMfu2IYxZ3k,https://www.youtube.com/watch?v=sMfu2IYxZ3k
+20,Kristian Scholze: Pinkie Pacts - Consumer Based Contract Testing @ PyConIe 2023,https://www.youtube.com/watch?v=DzAsrIx4-0A,DzAsrIx4-0A,Python Ireland,@PythonIreland,https://www.youtube.com/@PythonIreland,20240627,1596,47,1,,"Python,PyCon,PyConIe,Integration,Integration Tests",Science & Technology,"""Integration tests are like throwing a wild party with all your friends, hoping everything goes smoothly. Contract testing is more like a civilized tea party, where everyone agrees on the rules and sips their code gracefully.""
+
+Let's get an overview on how to use contract testing to break integration tests into unittests to get faster feedback, clearer responsibilities and free interface documentation without sacrificing the safety we love.
+We'll dive into the reasons why we think we need integration tests and if there is an easier way to accomplish them. Looking at a specific implementation we'll also see how to transform existing unit or integration test into a contract test and what advantages they bring.",https://i.ytimg.com/vi/DzAsrIx4-0A/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=DzAsrIx4-0A,https://www.youtube.com/watch?v=DzAsrIx4-0A

@@ -1,0 +1,580 @@
+﻿index,title,url,video_id,uploader,uploader_id,uploader_url,upload_date,duration,view_count,like_count,comment_count,tags,categories,description,thumbnail,age_limit,is_live,was_live,availability,webpage_url,original_url
+1,Opening,https://www.youtube.com/watch?v=VYsGTGIhVJA,VYsGTGIhVJA,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20221101,685,241,2,,"Python,PyConZA",Science & Technology,"By: Kim van Wyk
+
+Event: PyConZA 2022
+URL: https://2022.za.pycon.org/opening/
+
+A Welcome to PyConZA 2022 and various announcements about the conference.
+
+Due to technical problems with the recording, the sound is missing from the first 50 seconds or so. We apologise for that.
+
+Room: Main Hall
+Scheduled start: 2022-10-13 09:30
+
+Sponsors:
+    Platinum: 
+        Thinkst Canary: https://canary.tools/
+    Gold:
+        SARAO: https://www.sarao.ac.za/
+    Patron:
+        Afrolabs: http://www.afrolabs.co.za/",https://i.ytimg.com/vi/VYsGTGIhVJA/maxresdefault.jpg,0,False,True,public,https://www.youtube.com/watch?v=VYsGTGIhVJA,https://www.youtube.com/watch?v=VYsGTGIhVJA
+2,At your service: what we've learnt doing data science at the City of Cape Town,https://www.youtube.com/watch?v=lBc4ZOeObho,lBc4ZOeObho,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20221115,4159,242,8,,"Python,PyConZA",Science & Technology,"By: Gordon Inggs
+
+Event: PyConZA 2022
+URL: https://2022.za.pycon.org/talks/22-at-your-service-what-weve-learnt-doing-data-science-at-the-city-of-cape-town/
+
+The views expressed by the speaker are his personal views, and do not represent the views of the the City of Cape Town.
+
+Other than wearing lab coats for no apparent reason, the best part about having the word science in our job titles is that we can legitimately spend all of our time learning. The City of Cape Town has had a Data Science unit for over 4 years, and we would like to share some of things that we have learnt while working on behalf our residents.
+
+Perhaps unsurprisingly, a lot of what we have have learnt is about people, which we'll illustrate using some examples from our work:
+
+* From reforming performance targets, we learnt how data can provide vital context to decisions
+* From running a turnaround program, we learnt the value of using data to illuminate trade-offs
+* Finally, From the seeming end of the world bearing down on us, we learnt the real use of data-based dashboards
+
+This is not to say we haven't learnt important technical lessons, too:
+
+* The value of Tidy Data, and more generally, building coherent datasets
+* The curse of dimensionality and how it sneaks up on you
+* The simple effectiveness and resilience of pre-rendering as much as you can, so that you just have to serve up static HTML files
+
+Ultimately though, we're civil servants, and we serve our residents. Throughout the talk, we'll try our best to convey how we think modern data analytics can and should meaningfully play a role in contemporary South African local government.
+
+We think this talk will be of interest to anyone who is curious about how modern ""tech"" such as data science fits into large, public sector bureaucracy; how we have resisted doing a series of flat mountain related projects; and what we're currently most excited about.
+
+Room: Main Hall
+Scheduled start: 2022-10-13 10:00
+
+Sponsors:
+    Platinum: 
+        Thinkst Canary: https://canary.tools/
+    Gold:
+        SARAO: https://www.sarao.ac.za/
+    Patron:
+        Afrolabs: http://www.afrolabs.co.za/",https://i.ytimg.com/vi/lBc4ZOeObho/maxresdefault.jpg,0,False,True,public,https://www.youtube.com/watch?v=lBc4ZOeObho,https://www.youtube.com/watch?v=lBc4ZOeObho
+3,A Python-based Radio Astronomy Correlator,https://www.youtube.com/watch?v=5UmfI19y6Z0,5UmfI19y6Z0,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20221101,2274,818,17,,,Science & Technology,"By: James Smith
+
+Event: PyConZA 2022
+URL: https://2022.za.pycon.org/talks/7-a-python-based-radio-astronomy-correlator/
+
+In this talk I present what is (as far as we know) the world's first (nearly) All-Python radio astronomy correlator/beamformer, which is currently in development for the MeerKAT Extension radio telescope (currently under construction in the Karoo).
+
+I'll briefly explain what a correlator/beamformer is and its role in radio astronomy, along with some of the typical engineering challenges associated with building them. I'll talk about why recent technology trends have been a boon to the science of radio astronomy, effectively enabling us to build a correlator entirely in software, utilising commodity hardware.
+
+Key to this process has been the Python ecosystem, and how it has enabled us to build our system quickly, cheaply and reliably. I'll talk about how we've used some familiar favourite Python modules and how we've rolled some of our own when suitable tools haven't been available. I'll discuss the main challenges involved in performing correlation in software using GPUs (spoiler: it's not so much the compute as the data bandwidth), and some neat Python tricks that have helped quite nicely along the way. I'll also mention some of the challenges that we've faced in the development process.
+
+Finally, I'll rouse some enthusiasm for the science of radio astronomy in South Africa by mentioning some of the good work done by MeerKAT so far, and what improvements can be expected from MeerKAT Extension's shiny new correlator.
+
+Room: Talk Room 1
+Scheduled start: 2022-10-13 11:30:00
+Sponsors:
+
+ Platinum: 
+    Thinkst Canary: https://canary.tools/
+
+Gold:
+    SARAO: https://www.sarao.ac.za/
+
+ Patron:
+    Afrolabs: http://www.afrolabs.co.za/",https://i.ytimg.com/vi/5UmfI19y6Z0/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=5UmfI19y6Z0,https://www.youtube.com/watch?v=5UmfI19y6Z0
+4,Building serverless applications with Python and Azure Functions,https://www.youtube.com/watch?v=OGo-dP0MWmU,OGo-dP0MWmU,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20221109,2429,162,2,,,Science & Technology,"By: : Ronald Mariah
+
+Event: PyConZA 2022
+URL: https://2022.za.pycon.org/talks/10-building-serverless-applications-with-python-and-azure-functions/
+
+Serverless computing today allows us the flexibility as developers to focus on building the applications we need, without worrying about the underlying infrastructure we require for the hosting environment.
+
+Azure Functions provides us with a serverless environment which we can use with many popular development languages. In this talk we will look at some of the ways we can utilize Azure Functions with Python as the development language to interact with other tools like Azure CosmosDB and Azure Queues to provide a real-time serverless workflow.
+
+Technologies used: Python, Azure Functions, Azure Cosmos DB, Azure Queues
+
+
+Room: Talk Room 2
+Scheduled start: 2022-10-13 11:30
+
+Sponsors:
+    Platinum: 
+        Thinkst Canary: https://canary.tools/
+    Gold:
+        SARAO: https://www.sarao.ac.za/
+    Patron:
+        Afrolabs: http://www.afrolabs.co.za/",https://i.ytimg.com/vi/OGo-dP0MWmU/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=OGo-dP0MWmU,https://www.youtube.com/watch?v=OGo-dP0MWmU
+5,Building & testing Cloud applications locally using LocalStack,https://www.youtube.com/watch?v=E8CL88C5wuY,E8CL88C5wuY,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20221122,2316,2394,13,,"Python,PyConZA",Science & Technology,"By: Harsh Bardhan
+
+Event: PyConZA 2022
+URL: https://2022.za.pycon.org/talks/12-building-testing-cloud-applications-locally-using-localstack/
+
+With the dominance of various cloud service providers, engineering teams across the globe are looking to focus their time and energy on optimizing their cloud development, testing & deployment workflows. It is often slow and tedious and doesn't serve the purpose, with teams left to demystify their cloud development workflows to be more efficient. These traditional deploy & test cycles often lead to an inefficient idle time where deployment needs to be triggered more than once during testing & debugging.
+
+LocalStack is a cloud service emulator that runs in a single container on your laptop or in your CI environment. Using LocalStack, you can spin up a local test environment in seconds and get the same functionality you would get from a real AWS environment. With over 41,000+ GitHub Stargazers and 10,000+ users worldwide, LocalStack supports many AWS services, like AWS Lambda, S3, DynamoDB, Kinesis, SQS, SNS, and many more!
+
+Apart from supporting engineers in improving their inefficient development & testing loops, LocalStack also has a lot of exciting development around our core Python stack. This talk will demonstrate Amazon Service Framework (ASF), our in-built service which allows us to add support for new AWS services in LocalStack and update existing ones. Using the Botocore's availability of a low-level interface of AWS APIs, ASF automates the process of updating our APIs using the LocalStack edge proxy service.
+
+The content of the talk would be:
+
+
+* Introduction to LocalStack [3 minutes]
+* Exploring AWS services in LocalStack [3 minutes]
+* Utilizing LocalStack integrations & services [7 minutes]
+** Lambda & Terraform Integration for local deployment
+** Hot reloading Python Lambda functions locally
+** Understanding Amazon Service Framework (ASF) [5 minutes]
+** Introduction to ASF
+* Generating LocalStack APIs for a new AWS service using ASF
+** Advanced use-cases of LocalStack [7 minutes]
+** Configuring LocalStack to further emulate AWS services
+* Exploring Persistence Mechanism to pause and resume application state
+
+In this talk, we will be covering some of these AWS services and how you can use LocalStack to turbocharge your development & testing workflows. We will also cover how you can contribute back to LocalStack using Amazon Service Framework and how we built it from scratch to prevent your applications from breaking while moving from testing to production.
+
+Room: Talk Room 3 (Remote Talks)
+Scheduled start: 2022-10-13 11:30
+
+Sponsors:
+    Platinum: 
+        Thinkst Canary: https://canary.tools/
+    Gold:
+        SARAO: https://www.sarao.ac.za/
+    Patron:
+        Afrolabs: http://www.afrolabs.co.za/",https://i.ytimg.com/vi/E8CL88C5wuY/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGDUgICh_MA8=&rs=AOn4CLDodOjceNWVHIBJoKQuSGADemdJBA,0,False,False,public,https://www.youtube.com/watch?v=E8CL88C5wuY,https://www.youtube.com/watch?v=E8CL88C5wuY
+6,Turning out short-notice voting tools in Django for a suddenly-online convention,https://www.youtube.com/watch?v=OWcDr0L4-ZE,OWcDr0L4-ZE,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20221101,1959,57,2,,"Python,PyConZA",Science & Technology,"By: Kim van Wyk
+
+Event: PyConZA 2022
+URL: https://2022.za.pycon.org/talks/35-turning-out-short-notice-voting-tools-in-django-for-a-suddenly-online-convention/
+
+The 2021 South African Lions convention, due to be held in-person in April 2021, was changed to an online event with about 2 months notice as a Covid-19 wave loomed. A Lions convention includes voting by a subset of attendees, both as a secret ballot and by show of hands during different parts of the proceedings. I conducted a non-exhaustive search for available software or services that could used to facilitate this kind of voting. As a non-profit organisation there was little budget for unexpected software expenditure, ruling out capable but expensive options. Other options required each voter to register on a website and follow a series of moderately complex configuration steps. These steps would ensure a completely secure vote but would be difficult for the less tech-savvy voters to get right without assistance, which at the time only I could have provided. I couldn't guarantee having the time to provide the needed assistance. The tools available focused on highly cryptographically secure voting and voter secrecy, which made them more complex than I needed.
+
+I decided to leverage Django to write tooling that could allow secret balloting before the convention and to present options for voting on during the convention. I didn't need to meet the strict secrecy and anti-tampering complexity baked into the available tools - I in fact called the tooling secret(ish), in that voting patterns could be seen by a determined sysadmin, but not by anyone else. This was more than good enough for the convention's requirement.
+
+This talk will present the 2 Django tools I developed, focusing on:
+
+* how Django can be used to rapidly get a no-frills site up and running
+* leveraging the Django admin backend to avoid having to write large parts of such systems
+* an approach to being secret enough while remaining practical and supportable by 1 IT volunteer with * * a full-time unrelated job (me)
+* being flexible enough to preload the questions that will require show-of-hands voting and allow new items to be added at short notice during the convention
+* Rapid deployment with Docker
+
+Room: Main Hall
+Scheduled start: 2022-10-13 12:15
+
+Sponsors:
+    Platinum: 
+        Thinkst Canary: https://canary.tools/
+    Gold:
+        SARAO: https://www.sarao.ac.za/
+    Patron:
+        Afrolabs: http://www.afrolabs.co.za/",https://i.ytimg.com/vi/OWcDr0L4-ZE/maxresdefault.jpg,0,False,True,public,https://www.youtube.com/watch?v=OWcDr0L4-ZE,https://www.youtube.com/watch?v=OWcDr0L4-ZE
+7,The Joys of using Serverless Functions,https://www.youtube.com/watch?v=Hv2nNFeEJ_s,Hv2nNFeEJ_s,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20221116,3043,56,0,,,Science & Technology,"By: Muzi Xaba
+
+Event: PyConZA 2022
+URL: https://2022.za.pycon.org/talks/14-the-joys-of-using-serverless-functions/
+
+The talk will be based on the use of Python and AWS Lambda functions.
+This is mostly an introductory talk that will aim to highlight the possibilities.
+Examples of how AWS Lambda can be used will include:
+
+* Starting and stopping remote servers
+* Automatically tagging resources with the creator's username
+* Working as a serverless backend for a web application.
+
+Room:  Talk Room 2
+Scheduled start: 2022-10-13 12:15
+
+Sponsors:
+    Platinum: 
+        Thinkst Canary: https://canary.tools/
+    Gold:
+        SARAO: https://www.sarao.ac.za/
+    Patron:
+        Afrolabs: http://www.afrolabs.co.za/",https://i.ytimg.com/vi/Hv2nNFeEJ_s/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=Hv2nNFeEJ_s,https://www.youtube.com/watch?v=Hv2nNFeEJ_s
+8,Deploying your Django project using Dokku,https://www.youtube.com/watch?v=KPXJ94C6Xw0,KPXJ94C6Xw0,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20221101,2434,1165,18,,,Science & Technology,"By: Victor Miti
+
+Event: PyConZA 2022
+URL: https://2022.za.pycon.org/talks/32-deploying-your-django-project-using-dokku/
+
+Learning how to use Python to build web applications is often not difficult, and people tend to get up to speed quickly. However, the challenge often comes when one has built their awesome web app and they wanna put it out there for the world to see. I've seen a lot of newcomers struggle with this. Managing servers, dealing with SSH, SSL, etc. can be a complex thing!
+
+Many resources out there often recommend using services like Heroku, which simplify some of these things. The problem -- Heroku can be quite expensive, and the free tier (which, by the way, is beeing scrapped off) has its own limitations. This is where Dokku comes in, it's like having your own mini-Heroku!
+
+In this talk, I demonstrate how incredibly easy it is to deploy your shiny new Django project using Dokku. The goal is to help mostly beginners to get their projects from their laptops and out there for the world to see. Notwithstanding, this will also be useful to seasoned developers who may not have used/heard of Dokku before.
+
+I will talk about deploying Django projects in general, then introduce Dokku -- what it is, its history, strengths, weaknesses, use cases, then take a simple Django project and do a quick demo showcasing server setup, project setup and deployment process.
+
+Room: Talk Room 3 (Remote Talks)
+Scheduled start: 2022-10-13 12:15
+
+Sponsors:
+    Platinum: 
+        Thinkst Canary: https://canary.tools/
+    Gold:
+        SARAO: https://www.sarao.ac.za/
+    Patron:
+        Afrolabs: http://www.afrolabs.co.za/",https://i.ytimg.com/vi/KPXJ94C6Xw0/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=KPXJ94C6Xw0,https://www.youtube.com/watch?v=KPXJ94C6Xw0
+9,Don't make me think! The UX of your code,https://www.youtube.com/watch?v=Y5Wm4cDUb40,Y5Wm4cDUb40,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20221101,2168,120,4,,"Python,PyConZA",Science & Technology,"By: Johan Beyers
+
+Event: PyConZA 2022
+URL: https://2022.za.pycon.org/talks/19-dont-make-me-think-the-ux-of-your-code/
+
+At Takealot, we have many teams building microservices that interface with each other. Making our codebases and interfaces easy to use and understand requires discipline, but it's easier to do when we follow a few guidelines. This talk will show some of the things we have learned, together with maybe-fictional examples from our own repositories.
+
+It's aimed at all levels of Python experience, and should be an interesting view on how small improvements can have big gains for a team. Along the way, you'll learn why a float called discount is a bad idea, how long an event with the same start and end date is, and the special meaning of 1 and 3 within Takealot.
+
+Room: Main Hall
+Scheduled start: 2022-10-13 14:00
+
+Sponsors:
+    Platinum: 
+        Thinkst Canary: https://canary.tools/
+    Gold:
+        SARAO: https://www.sarao.ac.za/
+    Patron:
+        Afrolabs: http://www.afrolabs.co.za/",https://i.ytimg.com/vi/Y5Wm4cDUb40/maxresdefault.jpg,0,False,True,public,https://www.youtube.com/watch?v=Y5Wm4cDUb40,https://www.youtube.com/watch?v=Y5Wm4cDUb40
+10,Garbage Collection in Python,https://www.youtube.com/watch?v=xGGVGo97fwo,xGGVGo97fwo,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20221101,2301,688,9,1.0,"Python,PyConZA",Science & Technology,"By: Elijah Okello
+
+Event: PyConZA 2022
+URL: https://2022.za.pycon.org/talks/17-garbage-collection-in-python/
+
+In this talk I will be talking about how python implements garbage collection and the different algorithms it employs while doing so. I will talk about it's garbage collection strategy and explore how other implementations of python like pypy, IronPython and Jython do garbage collection.
+
+This talk is intended for all interested pythonistas whether beginner or experienced python programmers. It will provide insight on how the python language runtime works and the way things happen under the hood.
+
+The people in attendance will get to know how the python GC(Garbage Collector) can be interacted with in python syntax. They will learn practically how to manipulate certain features of the garbage collector and also learn best practices for optimal results while programming in python
+
+Room: Talk Room 3 (Remote Talks)
+Scheduled start: 2022-10-13 14:00
+
+Sponsors:
+    Platinum: 
+        Thinkst Canary: https://canary.tools/
+    Gold:
+        SARAO: https://www.sarao.ac.za/
+    Patron:
+        Afrolabs: http://www.afrolabs.co.za/",https://i.ytimg.com/vi/xGGVGo97fwo/maxresdefault.jpg,0,False,True,public,https://www.youtube.com/watch?v=xGGVGo97fwo,https://www.youtube.com/watch?v=xGGVGo97fwo
+11,Why you should be excited about PyGame 2,https://www.youtube.com/watch?v=ynu6eebdSfk,ynu6eebdSfk,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20221101,2105,263,1,,"Python,PyConZA",Science & Technology,"By: Neil Muller
+
+Event: PyConZA 2022
+URL: https://2022.za.pycon.org/talks/39-why-you-should-be-excited-about-pygame-2/
+
+PyGame is a popular library for developing video games with Python which provides good support for 2D graphics, audio, user input and a number of useful utilities. It is also has a long history, with the pygame 1.0 released in 2001.
+
+PyGame 2 was released in 2020 without a great deal of fanfare.
+
+In this talk, I'll discuss why PyGame 2 is interesting, despite the main focus being on backwards compatibility.
+
+I'll cover some of the not so obvious improvements in PyGame 2, such as better PyPy and Android support. I'll also cover some of the new features, such as multiple window support, the new SCALED mode and some of the quality of life improvements.
+
+The talk will include a number of demos and code examples.
+
+Room: Main Hall
+Scheduled start: 2022-10-13 14:45
+
+Sponsors:
+    Platinum: 
+        Thinkst Canary: https://canary.tools/
+    Gold:
+        SARAO: https://www.sarao.ac.za/
+    Patron:
+        Afrolabs: http://www.afrolabs.co.za/",https://i.ytimg.com/vi/ynu6eebdSfk/maxresdefault.jpg,0,False,True,public,https://www.youtube.com/watch?v=ynu6eebdSfk,https://www.youtube.com/watch?v=ynu6eebdSfk
+12,Data analytics for intelligent demand forecasting,https://www.youtube.com/watch?v=vT_zZbMv_b4,vT_zZbMv_b4,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20221114,1616,142,0,,"Python,PyConZA",Science & Technology,"By: Diana Pholo
+
+Event: PyConZA 2022
+URL: https://2022.za.pycon.org/talks/3-data-analytics-for-intelligent-demand-forecasting/
+
+Nowadays, we are all surrounded with data that is getting bigger in terms of volume, velocity and variety. The COVID-19 pandemic has also seen a growth in the use of dashboards and other data analysis tools. However, though many companies use data to get insights, they might not use those insights to drive their business strategy. So how can data and AI help you achieve your business goals? How can you transform your organisation so that business decisions are grounded in data? Is demand forecasting for you and your business? That is what this talk will attempt to answer.
+
+The following topics will be covered: - The challenges of demand forecasting - The applications and benefits of demand forecasting using data and AI - Getting started with AI-augmented forecasting in your business - Creating a data culture within your organisation
+
+Room: Talk Room 3 (Remote Talks)
+Scheduled start: 2022-10-13 14:45
+
+Sponsors:
+    Platinum: 
+        Thinkst Canary: https://canary.tools/
+    Gold:
+        SARAO: https://www.sarao.ac.za/
+    Patron:
+        Afrolabs: http://www.afrolabs.co.za/",https://i.ytimg.com/vi/vT_zZbMv_b4/maxresdefault.jpg,0,False,True,public,https://www.youtube.com/watch?v=vT_zZbMv_b4,https://www.youtube.com/watch?v=vT_zZbMv_b4
+13,There is a Snake in my Explorer: The power of Python in (almost) any browser.,https://www.youtube.com/watch?v=XO5Up3dr6mw,XO5Up3dr6mw,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20221101,1917,134,4,,"Python,PyConZA",Science & Technology,"By: Max Dittmar
+
+Event: PyConZA 2022
+URL: https://2022.za.pycon.org/talks/21-there-is-a-snake-in-my-explorer-the-power-of-python-in-almost-any-browser/
+
+Broad access to programming and the way it enables whole new industries and vast new views on condensing meaning out of information, even the powerful tools that Python enables is now becoming more and more of a possibility for the layman in almost any web browser, making it more friendly and lowering the barrier to entry.
+
+This talk aims to investigate and showcase a part of the discovery process of considering these new possibilities enabled by Python in your browser. These opportunities are made possible by tools like pyscript and pyodide.
+
+For this talk, I want to consider their use in real-world applications in an engineering environment by showing an example of pyscript visualizing data in the browser, locally instead of being streamed via a hosted dashboard solution like streamlit, etc. The use-case considered potentially illustrates that having access to the power of Python to manipulate and visualize data can enable end-users and clients to make more sense of their data quicker and more efficiently even if they do not have the skills of a programmer, they still have the power of the data.
+
+Room:  Main Hall
+Scheduled start: 2022-10-14 9:30
+
+Sponsors:
+    Platinum: 
+        Thinkst Canary: https://canary.tools/
+    Gold:
+        SARAO: https://www.sarao.ac.za/
+    Patron:
+        Afrolabs: http://www.afrolabs.co.za/",https://i.ytimg.com/vi/XO5Up3dr6mw/maxresdefault.jpg,0,False,True,public,https://www.youtube.com/watch?v=XO5Up3dr6mw,https://www.youtube.com/watch?v=XO5Up3dr6mw
+14,Clicky Maps: ill-advised cartographic visualisations,https://www.youtube.com/watch?v=TRrUDseMzgI,TRrUDseMzgI,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20221212,2332,69,2,,,Science & Technology,"By: Gordon Inggs
+
+Event: PyConZA 2022
+URL: https://2022.za.pycon.org/talks/23-clicky-maps-ill-advised-cartographic-visualisations/
+
+The views expressed by the speaker are his personal views, and do not represent the views of the the City of Cape Town.
+
+While popular, interactive cartographic maps (hereafter referred to as clicky maps) are a complex form of data visualisation, with a dizzying array of Python packages available to make these a reality. As a non-GIS specialist, I have found myself building an increasingly large and varied array of clicky maps in my work at the City of Cape Town, and so have learnt a thing or two.
+
+Beyond describing my experiences in the form of practical best practice, I will share my thoughts on when it is appropriate or not to ""spatialise"". I will also demo a Python package (click-map-utils) that we at the City of Cape Town have just open sourced.
+
+This talk will appeal to analysts who are being asked, or will be asked soon to put some data on a map. It will also be of interest to anyone who has spent too much time on Google Earth, and would like to recreate that experience, with a bit of Python in the mix.
+
+Room: Talk Room 2
+Scheduled start: 2022-10-14 10:15
+
+Sponsors:
+    Platinum: 
+        Thinkst Canary: https://canary.tools/
+    Gold:
+        SARAO: https://www.sarao.ac.za/
+    Patron:
+        Afrolabs: http://www.afrolabs.co.za/",https://i.ytimg.com/vi/TRrUDseMzgI/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=TRrUDseMzgI,https://www.youtube.com/watch?v=TRrUDseMzgI
+15,"Python-oracledb: the new, Thin driver for Oracle Database",https://www.youtube.com/watch?v=Zufl-e_rkoc,Zufl-e_rkoc,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20221101,2308,859,6,,"Python,PyConZA",Science & Technology,"By: Christopher Jones
+
+Event: PyConZA 2022
+URL: https://2022.za.pycon.org/talks/28-python-oracledb-the-new-thin-driver-for-oracle-database/
+
+Recording note: There is some echoing at start of the recording - this goes away at 4:13 .
+
+Oracle recently released a major update to its Python driver for Oracle Database and gave it a new name: python-oracledb. It has a brand new 'Thin' mode that makes installation quicker, and using it simpler and faster. This talk shows how easy it now is to install and access Oracle Database using Python's standard DB API. There will be live code examples including some best practices for data fetching and insertion. Some installation and usage differences between Thin and traditional Thick mode will be discussed, so you can decide which mode suits your applications. At the conclusion is a brief discussion about using python-oracledb in some common Frameworks and ORMs.
+
+Room: Talk Room 3 (Remote Talks)
+Scheduled start:: 2022-10-14 9:30
+
+Sponsors:
+    Platinum: 
+        Thinkst Canary: https://canary.tools/
+    Gold:
+        SARAO: https://www.sarao.ac.za/
+    Patron:
+        Afrolabs: http://www.afrolabs.co.za/",https://i.ytimg.com/vi/Zufl-e_rkoc/maxresdefault.jpg,0,False,True,public,https://www.youtube.com/watch?v=Zufl-e_rkoc,https://www.youtube.com/watch?v=Zufl-e_rkoc
+16,Empowering Snake Charmers-in-Training,https://www.youtube.com/watch?v=WTX3JtGcJZ4,WTX3JtGcJZ4,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20221109,1746,64,0,,"Python,PyConZA",Science & Technology,"By: Stefan Van der Merwe
+
+Event: PyConZA 2022
+URL: https://2022.za.pycon.org/talks/25-empowering-snake-charmers-in-training/
+
+How do you help a team of engineers that want to become Snake Charmers when only a handful of them even know what Python or Anaconda is? Give them a container with a Python in it and a pungi!
+
+At Ex Mente, we live in the pyrometallurgical world, helping our clients solve difficult and complex problems by developing innovative and simple-to-use solutions through the intelligent application of science and technology. To empower our engineers to spend most of their time thinking about the problem and developing creative solutions, we need to break them free from repetitive manipulation of data in Excel spreadsheets. Now, our goal is not to turn our engineers into programmers, but rather to equip them with the right tools. To achieve this goal, we develop Python-based toolsets specifically focusing on terminal applications and automation of extensive thermochemical simulations and calculations.
+
+This talk presents some ways that you could use Python and Python-based tools to automate repetitive tasks from simple CLI applications.
+
+Room: Main Hall
+Scheduled start: 2022-10-14 10:15
+
+Sponsors:
+    Platinum: 
+        Thinkst Canary: https://canary.tools/
+    Gold:
+        SARAO: https://www.sarao.ac.za/
+    Patron:
+        Afrolabs: http://www.afrolabs.co.za/",https://i.ytimg.com/vi/WTX3JtGcJZ4/maxresdefault.jpg,0,False,True,public,https://www.youtube.com/watch?v=WTX3JtGcJZ4,https://www.youtube.com/watch?v=WTX3JtGcJZ4
+17,Software Testing on an Astronomical Scale,https://www.youtube.com/watch?v=gpWYyhqBrQE,gpWYyhqBrQE,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20221101,2239,56,0,,,Science & Technology,"By:  James Smith
+
+Event: PyConZA 2022
+URL:  https://2022.za.pycon.org/talks/4-software-testing-on-an-astronomical-scale/
+
+In this talk, to give context to the audience, I will start by briefly introducing the MeerKAT radio telescope, and describing the functionality and purpose of its correlator, which makes up the majority of the scientific signal-processing power of the telescope.
+
+I'll then describe how we have utilised Pytest and a few related libraries in the development of the next-generation GPU-based software correlator, and I'll contrast this with how testing and verification were done in previous generations of hardware-based correlators (where unit-testing is not impossible but it is considerably more difficult). By being able to do regression testing, we have already mitigated several instances of fixing one bug while breaking something else.
+
+I'll show how we have used the same technology to facilitate automatic end-to-end testing of the correlator against its spec (something that system engineers would call qualification), including automatic report generation (greatly reducing the amount of typing that we have to do!). I'll describe some tricks and optimisations that we have used in order to speed up the process without compromising the validity of the tests.
+
+Finally, I'll spend some time talking about the caveats of unit testing, such as potentially allowing for false confidence, and how they don't catch every problem before it gets to ""production"", but I'll also discuss some ways to address this, and why they shouldn't deter you from testing as thoroughly as you can anyway.
+
+Room: Talk Room 2
+Scheduled start: 2022-10-14 9:30
+
+Sponsors:
+    Platinum: 
+        Thinkst Canary: https://canary.tools/
+    Gold:
+        SARAO: https://www.sarao.ac.za/
+    Patron:
+        Afrolabs: http://www.afrolabs.co.za/",https://i.ytimg.com/vi/gpWYyhqBrQE/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=gpWYyhqBrQE,https://www.youtube.com/watch?v=gpWYyhqBrQE
+18,Rapid Serverless APIs with Python and AWS Amplify,https://www.youtube.com/watch?v=p2ZL6RNTCig,p2ZL6RNTCig,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20221114,2523,1588,9,,"Python,PyConZA",Science & Technology,"By:  Mohammed Fazalullah Qudrath
+
+Event: PyConZA 2022
+URL: https://2022.za.pycon.org/talks/15-rapid-serverless-apis-with-python-and-aws-amplify/
+
+When getting started with serverless functions on the cloud, one is constantly confronted with multiple deployment options to the cloud for Python applications. This talk will demonstrate how Amplify uses an opinionated approach to provisioning REST APIs, deploying serverless Flask applications using AWS Amplify and AWS Lambda, and connecting them to a NoSQL database to support basic CRUD operations. Additionally, we will demonstrate how a Python developer can debug a serverless application using the CLI.
+
+Link to the workshop code: https://github.com/thecloudranger/amplify-python-serverless
+
+Room: Talk Room 3 (Remote Talks)
+Scheduled start: 2022-10-14 10:15
+
+Sponsors:
+    Platinum: 
+        Thinkst Canary: https://canary.tools/
+    Gold:
+        SARAO: https://www.sarao.ac.za/
+    Patron:
+        Afrolabs: http://www.afrolabs.co.za/",https://i.ytimg.com/vi/p2ZL6RNTCig/maxresdefault.jpg,0,False,True,public,https://www.youtube.com/watch?v=p2ZL6RNTCig,https://www.youtube.com/watch?v=p2ZL6RNTCig
+19,Generating novel images using CLIP in Python,https://www.youtube.com/watch?v=We1Z5HAqegg,We1Z5HAqegg,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20221109,2048,89,1,,"Python,PyConZA",Science & Technology,"By: Nilesh Arnaiya
+
+Event: PyConZA 2022
+URL: https://2022.za.pycon.org/talks/24-generating-novel-images-using-clip-in-python/
+
+Generating images from text has been a long horizon task until recently DALL-E, PARTI, STABLE DIFFUSION and other models have shown that given a text prompt it is able to generate realistic and novel images. These models have a neural network in common called CLIP which stands for Contrastive language-image pre-training which is the backbone of various text to image models. It is trained on various image text pairs and generates a relevant image acoording to the text snippet without optimizing any task. Anyone can use the given ClIP models given its popularity but not many can generate the best images given the text prompts and this rises to prompt engineering. We propose to use a stable CLIP model which is written in python and show the audience how to do prompt engineering as well as modify CLIP models to do more than just generate images. We would like to show how python is used in easy coding of such complex generation models and easily modifiable and deployable.
+
+
+Room: Main Hall
+Scheduled start: 2022-10-14 11:30
+
+Sponsors:
+    Platinum: 
+        Thinkst Canary: https://canary.tools/
+    Gold:
+        SARAO: https://www.sarao.ac.za/
+    Patron:
+        Afrolabs: http://www.afrolabs.co.za/",https://i.ytimg.com/vi/We1Z5HAqegg/maxresdefault.jpg,0,False,True,public,https://www.youtube.com/watch?v=We1Z5HAqegg,https://www.youtube.com/watch?v=We1Z5HAqegg
+20,Best practices for good(ish) and clean(ish) code,https://www.youtube.com/watch?v=2yo3WvnXOr4,2yo3WvnXOr4,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20221101,2111,75,1,,"Python,PyConZA",Science & Technology,"By: Ernesto Arbitrio
+
+Event: PyConZA 2022
+URL: https://2022.za.pycon.org/talks/6-best-practices-for-goodish-and-cleanish-code/
+
+Have you ever thought what is the cost vs revenue of a well written code and of an ugly code? Nowadays, in most companies, code bases are huge (in terms of lines of code and complexity) and the number of contributors is also high; this means that a well shaped code could benefit the company finance and the mental health of the employees (AKA software engineers).
+
+Writing clean (and/or good) code requires discipline. This discipline can be acquired and increased during your job and doing experience with messy code, but more important is that using discipline, respecting and following some rules you can achieve elegant and efficient code.
+
+In this talk I will cover some principles of clean code (they are too much for 30 minutes):
+
+* Meaningful Names
+* Formatting
+* Tests and their importance
+* Continuous Integration
+* Code Refactoring
+* Code Review
+* Boundaries
+
+All the work contained in this talk is mostly inspired by the book Clean Code - Robert C. Martin (AKA Uncle Bob) and the experience I have made during my current job and the previous one.
+
+
+Room: Talk Room 3 (Remote Talks)
+Scheduled start: 2022-10-14 11:30
+
+Sponsors:
+    Platinum: 
+        Thinkst Canary: https://canary.tools/
+    Gold:
+        SARAO: https://www.sarao.ac.za/
+    Patron:
+        Afrolabs: http://www.afrolabs.co.za/",https://i.ytimg.com/vi/2yo3WvnXOr4/maxresdefault.jpg,0,False,True,public,https://www.youtube.com/watch?v=2yo3WvnXOr4,https://www.youtube.com/watch?v=2yo3WvnXOr4
+21,turtle-translated - instructing python turtle using multiple languages,https://www.youtube.com/watch?v=_8L-iyK_hL0,_8L-iyK_hL0,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20221101,2083,132,2,,"Python,PyConZA",Science & Technology,"By: David Campey
+
+Event: PyConZA 2022
+URL: https://2022.za.pycon.org/talks/37-turtle-translated-instructing-python-turtle-using-multiple-languages/
+
+fudo.phambili(1) 🥳 ~= turtle.forward(1) ~= one small step for 🐢
+
+Learners can now talk to turtle, or fudo, in isiXhosa (and soon, Zulu and UK-English)! Primary proj goal is to make it more delightful to learn python by being able to instruct the turtle in the learner's home language.
+
+This talk will be an experience report on turtle-translated, and invitations to help! https://github.com/coderlevelup/turtle-translated
+
+Also including some insights on teaching coding in SA at Coder:LevelUp.
+
+Room: Main Hall
+Scheduled start: 2022-10-14 12:15
+
+Sponsors:
+    Platinum: 
+        Thinkst Canary: https://canary.tools/
+    Gold:
+        SARAO: https://www.sarao.ac.za/
+    Patron:
+        Afrolabs: http://www.afrolabs.co.za/",https://i.ytimg.com/vi/_8L-iyK_hL0/maxresdefault.jpg,0,False,True,public,https://www.youtube.com/watch?v=_8L-iyK_hL0,https://www.youtube.com/watch?v=_8L-iyK_hL0
+22,Using machine learning and natural language processing to distinguish between lymphoma and COVID-19,https://www.youtube.com/watch?v=XplW-af4R-8,XplW-af4R-8,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20221113,2432,72,0,,"Python,PyConZA",Science & Technology,"By: Diana Pholo
+
+Event: PyConZA 2022
+URL: https://2022.za.pycon.org/talks/40-using-machine-learning-and-natural-language-processing-to-distinguish-between-lymphoma-and-covid-19/
+
+Over 600,000 new lymphoma cases and around 280,000 lymphoma-related deaths were reported in 2020. The delayed diagnosis of lymphoma has long been a problem. However, the advent of the COVID-19 pandemic, which disrupted healthcare services worldwide, may have caused more significant delays in lymphoma diagnoses. Since lymphomas can sometimes present with symptoms like COVID-19 and can affect the lungs, there is also a risk of misdiagnosis. We collected 505 lymphoma and 180 COVID-19 case reports from ScienceDirect, curated them and applied boosting methods to classify each patient as having COVID-19 or lymphoma based on the patient’s age, gender and reported symptoms.
+
+What will be covered in this talk: an overview of lymphoma and COVID-19, Python NLP tools, tree-based ensemble algorithms.
+
+Room: Talk Room 3 (Remote Talks)
+Scheduled start: 2022-10-14 12:15
+
+Sponsors:
+    Platinum: 
+        Thinkst Canary: https://canary.tools/
+    Gold:
+        SARAO: https://www.sarao.ac.za/
+    Patron:
+        Afrolabs: http://www.afrolabs.co.za/",https://i.ytimg.com/vi/XplW-af4R-8/maxresdefault.jpg,0,False,True,public,https://www.youtube.com/watch?v=XplW-af4R-8,https://www.youtube.com/watch?v=XplW-af4R-8
+23,Lightning Talks,https://www.youtube.com/watch?v=vDcvxCoFHos,vDcvxCoFHos,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20221122,2256,57,0,,"Python,PyConZA",Science & Technology,"By: Various Speakers
+
+Event: PyConZA 2022
+URL: https://2022.za.pycon.org/talks/lightning-talks/
+
+Lightning Talks!
+
+* ""The Good, the Bad and the Ugly of writing a technical book."" by Natu Lauchande (Slides (pdf))
+* ""Scoring Big Air: Building a scoring system for the Red Bull King of the Air kitesurfing competition."" by Johan Beyers
+* “From Clean Code to Clean ML Models” by Steven Van der Merwe (Slides (pdf))
+* ""covid waste water tracking"" by Colin Anthony (the opinions expressed are the speaker's and not those of the City of Cape Town)
+* ""PyConZA 2022 video recording setup"" by Adam Piskorski (recording of presentation to the assistants on the opening day).
+
+Room: Main Hall
+Scheduled start: 2022-10-14 14:00
+
+Sponsors:
+    Platinum: 
+        Thinkst Canary: https://canary.tools/
+    Gold:
+        SARAO: https://www.sarao.ac.za/
+    Patron:
+        Afrolabs: http://www.afrolabs.co.za/",https://i.ytimg.com/vi/vDcvxCoFHos/maxresdefault.jpg,0,False,True,public,https://www.youtube.com/watch?v=vDcvxCoFHos,https://www.youtube.com/watch?v=vDcvxCoFHos
+24,Lessons learnt building and maintaining National Treasury's open budget data viz portal,https://www.youtube.com/watch?v=JSfg-H5XIHI,JSfg-H5XIHI,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20221101,3904,82,4,,"Python,PyConZA",Science & Technology,"By: JD Bothma
+
+Event: PyConZA 2022
+URL: https://2022.za.pycon.org/talks/16-lessons-learnt-building-and-maintaining-national-treasurys-open-budget-data-viz-portal/
+
+We built an open data visualisation portal for National Treasury - https://vulekamali.gov.za/. Vulekamali had to make a range of structured and semi-structured data, and many other files, easily accessible to everyone in South Africa. And in ways that are meaningful both to experienced data analysts, as well as someone who never did high school accounting.
+
+We built this using Django as a core component that manages and pulls together data from an open source Python data management system (CKAN) and an open fiscal data query platform (OpenSpending).
+
+In this talk we share the architecture and implementation decisions that paid off, and the decisions we still regret, as well as our thoughts on how we could improve on them.
+
+We'll cover things like building a system to to handle partial data, automating bulk file uploads, how hard it is to get people to format data correctly, and giving them helpful feedback automatically.
+
+If you build systems where humans manage at least some of the data directly, you'll either learn something or teach us something in the comments.
+
+Room: Main Hall
+Scheduled start: 2022-10-14 14:30
+
+Sponsors:
+    Platinum: 
+        Thinkst Canary: https://canary.tools/
+    Gold:
+        SARAO: https://www.sarao.ac.za/
+    Patron:
+        Afrolabs: http://www.afrolabs.co.za/",https://i.ytimg.com/vi/JSfg-H5XIHI/maxresdefault.jpg,0,False,True,public,https://www.youtube.com/watch?v=JSfg-H5XIHI,https://www.youtube.com/watch?v=JSfg-H5XIHI
+25,Closing,https://www.youtube.com/watch?v=9Pj7iV7q1n4,9Pj7iV7q1n4,PyCon South Africa,@pyconza,https://www.youtube.com/@pyconza,20221101,391,27,0,,,Science & Technology,"By: Kim van Wyk
+
+Event: PyConZA 2022
+URL: https://2022.za.pycon.org/closing/
+
+A wrap-up to end the conference.
+
+Room: Main Hall
+Scheduled start: 2022-10-14 15:30
+
+Sponsors:
+    Platinum: 
+        Thinkst Canary: https://canary.tools/
+    Gold:
+        SARAO: https://www.sarao.ac.za/
+    Patron:
+        Afrolabs: http://www.afrolabs.co.za/",https://i.ytimg.com/vi/9Pj7iV7q1n4/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=9Pj7iV7q1n4,https://www.youtube.com/watch?v=9Pj7iV7q1n4

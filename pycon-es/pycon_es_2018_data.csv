@@ -1,0 +1,156 @@
+﻿index,title,url,video_id,uploader,uploader_id,uploader_url,upload_date,duration,view_count,like_count,comment_count,tags,categories,description,thumbnail,age_limit,is_live,was_live,availability,webpage_url,original_url
+1,Web scraping para principiantes - Sara Rodríguez - PyConES 2018,https://www.youtube.com/watch?v=wO1R3b-KogM,wO1R3b-KogM,Python España,@PythonES,https://www.youtube.com/@PythonES,20190301,1116,1013,21,1.0,,Science & Technology,"Ponencia en PyConES 2018, Malaga.
+
+Más información en: https://2018.es.pycon.org/#schedule",https://i.ytimg.com/vi_webp/wO1R3b-KogM/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=wO1R3b-KogM,https://www.youtube.com/watch?v=wO1R3b-KogM
+2,Motor de optimización de rutas para el mundo real - Josema Camacho - PyConES 2018,https://www.youtube.com/watch?v=qPzUNpegl5k,qPzUNpegl5k,Python España,@PythonES,https://www.youtube.com/@PythonES,20190301,1211,718,11,,,Science & Technology,"Ponencia en PyConES 2018, Malaga.
+
+Más información en: https://2018.es.pycon.org/#schedule",https://i.ytimg.com/vi_webp/qPzUNpegl5k/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=qPzUNpegl5k,https://www.youtube.com/watch?v=qPzUNpegl5k
+3,"Flask, un pequeño heroe - Maribel Tirados - PyConES 2018",https://www.youtube.com/watch?v=Kb1Bl_Wz_Uk,Kb1Bl_Wz_Uk,Python España,@PythonES,https://www.youtube.com/@PythonES,20190301,1240,515,16,,,Science & Technology,"Ponencia en PyConES 2018, Malaga.
+
+Más información en: https://2018.es.pycon.org/#schedule",https://i.ytimg.com/vi_webp/Kb1Bl_Wz_Uk/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=Kb1Bl_Wz_Uk,https://www.youtube.com/watch?v=Kb1Bl_Wz_Uk
+4,"¡Oh vosotros los que entráis, abandonad toda esperanza! - Pablo Galindo - PyConES 2018",https://www.youtube.com/watch?v=vOGacccUsog,vOGacccUsog,Python España,@PythonES,https://www.youtube.com/@PythonES,20190301,1604,436,12,,,Science & Technology,"Ponencia en PyConES 2018, Malaga.
+
+Más información en: https://2018.es.pycon.org/#schedule",https://i.ytimg.com/vi_webp/vOGacccUsog/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=vOGacccUsog,https://www.youtube.com/watch?v=vOGacccUsog
+5,VIDEO RESUMEN PYCONES 2018,https://www.youtube.com/watch?v=WaPrngUQTuM,WaPrngUQTuM,Python España,@PythonES,https://www.youtube.com/@PythonES,20190301,123,359,3,,,Science & Technology,"La PyConES es una conferencia de tres días de duración en la que se dan cita profesionales y entusiastas del lenguaje de programación Python que difunden su experiencia en varias sesiones de charlas técnicas. Por su naturaleza, la audiencia de la PyConES procede no sólo de sectores tecnológicos como desarrollo web, Business Intelligence o desarrollo de juegos sino también del mundo académico, siendo utilizado por multitud de profesores e investigadores.",https://i.ytimg.com/vi_webp/WaPrngUQTuM/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=WaPrngUQTuM,https://www.youtube.com/watch?v=WaPrngUQTuM
+6,Sustituyendo Makefiles con Python y Luigi - Javier Torres - PyConES 2018,https://www.youtube.com/watch?v=OcL5dvgQPSE,OcL5dvgQPSE,Python España,@PythonES,https://www.youtube.com/@PythonES,20190301,957,341,4,,,Science & Technology,"Ponencia en PyConES 2018, Malaga.
+
+Más información en: https://2018.es.pycon.org/#schedule",https://i.ytimg.com/vi_webp/OcL5dvgQPSE/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=OcL5dvgQPSE,https://www.youtube.com/watch?v=OcL5dvgQPSE
+7,Descubriendo los misterios con Python - Maria Camila - PyConES 2018,https://www.youtube.com/watch?v=eVdud7MRo6k,eVdud7MRo6k,Python España,@PythonES,https://www.youtube.com/@PythonES,20190301,1321,293,9,,,Science & Technology,"Ponencia en PyConES 2018, Malaga.
+
+Más información en: https://2018.es.pycon.org/#schedule",https://i.ytimg.com/vi_webp/eVdud7MRo6k/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=eVdud7MRo6k,https://www.youtube.com/watch?v=eVdud7MRo6k
+8,"Multitenant, el infierno de las migraciones - Xavier Gil - PyConES 2018",https://www.youtube.com/watch?v=5nD2wRkn9CY,5nD2wRkn9CY,Python España,@PythonES,https://www.youtube.com/@PythonES,20190301,1266,273,4,1.0,,Science & Technology,"Ponencia en PyConES 2018, Malaga.
+
+Más información en: https://2018.es.pycon.org/#schedule",https://i.ytimg.com/vi_webp/5nD2wRkn9CY/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=5nD2wRkn9CY,https://www.youtube.com/watch?v=5nD2wRkn9CY
+9,Hora de sacar la basura   garbage collector - Pablo Galindo y Victor Terrón - PyConES 2018,https://www.youtube.com/watch?v=G9wOSExzs5g,G9wOSExzs5g,Python España,@PythonES,https://www.youtube.com/@PythonES,20190301,1524,262,12,,,Science & Technology,"Ponencia en PyConES 2018, Malaga.
+
+Más información en: https://2018.es.pycon.org/#schedule",https://i.ytimg.com/vi_webp/G9wOSExzs5g/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=G9wOSExzs5g,https://www.youtube.com/watch?v=G9wOSExzs5g
+10,Nueva generación de APIs con API Star - José Antonio Perdiguero - PyConES 2018,https://www.youtube.com/watch?v=mH90PSbxB-k,mH90PSbxB-k,Python España,@PythonES,https://www.youtube.com/@PythonES,20190301,1284,259,4,,,Science & Technology,"Ponencia en PyConES 2018, Malaga.
+
+Más información en: https://2018.es.pycon.org/#schedule",https://i.ytimg.com/vi_webp/mH90PSbxB-k/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=mH90PSbxB-k,https://www.youtube.com/watch?v=mH90PSbxB-k
+11,"Python & gRPC, el conquistador de microservicios - Esteban Dorado - PyConES 2018",https://www.youtube.com/watch?v=kuih8hTl0pw,kuih8hTl0pw,Python España,@PythonES,https://www.youtube.com/@PythonES,20190301,1446,254,1,,,Science & Technology,"Ponencia en PyConES 2018, Malaga.
+
+Más información en: https://2018.es.pycon.org/#schedule",https://i.ytimg.com/vi_webp/kuih8hTl0pw/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=kuih8hTl0pw,https://www.youtube.com/watch?v=kuih8hTl0pw
+12,GIL:Todo lo que quisite saber y no te atreviste a preguntar - Jesus Cea - PyConES 2018,https://www.youtube.com/watch?v=l46l0c2TDOI,l46l0c2TDOI,Python España,@PythonES,https://www.youtube.com/@PythonES,20190301,1660,238,2,2.0,,Science & Technology,"Ponencia en PyConES 2018, Malaga.
+
+Más información en: https://2018.es.pycon.org/#schedule",https://i.ytimg.com/vi_webp/l46l0c2TDOI/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=l46l0c2TDOI,https://www.youtube.com/watch?v=l46l0c2TDOI
+13,Build your static site with Python - Fernando Rabanal - PyConES 2018,https://www.youtube.com/watch?v=-IWC8-SIsBw,-IWC8-SIsBw,Python España,@PythonES,https://www.youtube.com/@PythonES,20190301,1567,203,4,,,Science & Technology,"Ponencia en PyConES 2018, Malaga.
+
+Más información en: https://2018.es.pycon.org/#schedule",https://i.ytimg.com/vi_webp/-IWC8-SIsBw/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=-IWC8-SIsBw,https://www.youtube.com/watch?v=-IWC8-SIsBw
+14,Desde imágenes RGB a mapas de profundidad - Zuria Bauer - PyConES 2018,https://www.youtube.com/watch?v=BE8YLm4nrjI,BE8YLm4nrjI,Python España,@PythonES,https://www.youtube.com/@PythonES,20190228,1422,198,4,1.0,,Science & Technology,"Ponencia en PyConES 2018, Malaga.
+
+Más información en: https://2018.es.pycon.org/#schedule",https://i.ytimg.com/vi_webp/BE8YLm4nrjI/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=BE8YLm4nrjI,https://www.youtube.com/watch?v=BE8YLm4nrjI
+15,A la caza de exoplanetas por imagen directa con Python - PyConES 2018,https://www.youtube.com/watch?v=yakMw7kfIqY,yakMw7kfIqY,Python España,@PythonES,https://www.youtube.com/@PythonES,20190301,1357,195,6,,,Science & Technology,"Ponencia en PyConES 2018, Malaga.
+
+Más información en: https://2018.es.pycon.org/#schedule",https://i.ytimg.com/vi_webp/yakMw7kfIqY/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=yakMw7kfIqY,https://www.youtube.com/watch?v=yakMw7kfIqY
+16,Khiva: Cómo Al Juarismi reventaba GPUs para analizar time series - Antonio Vilches  - PyConES 2018,https://www.youtube.com/watch?v=FwwXLEvvXjk,FwwXLEvvXjk,Python España,@PythonES,https://www.youtube.com/@PythonES,20190228,1713,174,1,1.0,,Science & Technology,"Ponencia en PyConES 2018, Malaga.
+
+Más información en: https://2018.es.pycon.org/#schedule",https://i.ytimg.com/vi_webp/FwwXLEvvXjk/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=FwwXLEvvXjk,https://www.youtube.com/watch?v=FwwXLEvvXjk
+17,Diseñando APIs con Flask - Sara Iris Garcia - PyConES 2018,https://www.youtube.com/watch?v=h5NENDk-cMI,h5NENDk-cMI,Python España,@PythonES,https://www.youtube.com/@PythonES,20190301,1544,174,5,,,Science & Technology,"Ponencia en PyConES 2018, Malaga.
+
+Más información en: https://2018.es.pycon.org/#schedule",https://i.ytimg.com/vi_webp/h5NENDk-cMI/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=h5NENDk-cMI,https://www.youtube.com/watch?v=h5NENDk-cMI
+18,Gradual typing en Python - David Barragán - PyConES 2018,https://www.youtube.com/watch?v=NroqMzpyemQ,NroqMzpyemQ,Python España,@PythonES,https://www.youtube.com/@PythonES,20190301,1361,169,3,,,Science & Technology,"Ponencia en PyConES 2018, Malaga.
+
+Más información en: https://2018.es.pycon.org/#schedule",https://i.ytimg.com/vi_webp/NroqMzpyemQ/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=NroqMzpyemQ,https://www.youtube.com/watch?v=NroqMzpyemQ
+19,Traduccion de textos automatizadas - Pablo Vargas - PyConES 2018,https://www.youtube.com/watch?v=OJbFcC64HUc,OJbFcC64HUc,Python España,@PythonES,https://www.youtube.com/@PythonES,20190301,1316,168,6,,,Science & Technology,"Ponencia en PyConES 2018, Malaga.
+
+Más información en: https://2018.es.pycon.org/#schedule",https://i.ytimg.com/vi_webp/OJbFcC64HUc/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=OJbFcC64HUc,https://www.youtube.com/watch?v=OJbFcC64HUc
+20,Twelve Factor app - F José Fernández - PyConES 2018,https://www.youtube.com/watch?v=R5qbUWnPTbk,R5qbUWnPTbk,Python España,@PythonES,https://www.youtube.com/@PythonES,20190301,1417,155,1,,,Science & Technology,"Ponencia en PyConES 2018, Malaga.
+
+Más información en: https://2018.es.pycon.org/#schedule",https://i.ytimg.com/vi_webp/R5qbUWnPTbk/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=R5qbUWnPTbk,https://www.youtube.com/watch?v=R5qbUWnPTbk
+21,Prediciendo la contaminacion - Maria Medina - PyConES 2018,https://www.youtube.com/watch?v=mXZpdP4oe6M,mXZpdP4oe6M,Python España,@PythonES,https://www.youtube.com/@PythonES,20190301,1659,139,4,1.0,,Science & Technology,"Ponencia en PyConES 2018, Malaga.
+
+Más información en: https://2018.es.pycon.org/#schedule",https://i.ytimg.com/vi_webp/mXZpdP4oe6M/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=mXZpdP4oe6M,https://www.youtube.com/watch?v=mXZpdP4oe6M
+22,Taking Django Async - Andrew Godwin - PyConES 2018,https://www.youtube.com/watch?v=t-vJkNALRjg,t-vJkNALRjg,Python España,@PythonES,https://www.youtube.com/@PythonES,20190301,1626,135,0,,,Science & Technology,"Ponencia en PyConES 2018, Malaga.
+
+Más información en: https://2018.es.pycon.org/#schedule",https://i.ytimg.com/vi_webp/t-vJkNALRjg/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=t-vJkNALRjg,https://www.youtube.com/watch?v=t-vJkNALRjg
+23,Un dron voló sobre el nido de Python - Mario Bartolome - PyConES 2018,https://www.youtube.com/watch?v=2_aKKT_22SM,2_aKKT_22SM,Python España,@PythonES,https://www.youtube.com/@PythonES,20190301,1407,127,3,,,Science & Technology,"Ponencia en PyConES 2018, Malaga.
+
+Más información en: https://2018.es.pycon.org/#schedule",https://i.ytimg.com/vi_webp/2_aKKT_22SM/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=2_aKKT_22SM,https://www.youtube.com/watch?v=2_aKKT_22SM
+24,Machine Learning en Cardiologia - PyConES 2018,https://www.youtube.com/watch?v=19BWyccwIjM,19BWyccwIjM,Python España,@PythonES,https://www.youtube.com/@PythonES,20190301,1200,123,6,,,Science & Technology,"Ponencia en PyConES 2018, Malaga.
+
+Más información en: https://2018.es.pycon.org/#schedule",https://i.ytimg.com/vi_webp/19BWyccwIjM/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=19BWyccwIjM,https://www.youtube.com/watch?v=19BWyccwIjM
+25,Recomendacion de canciones con Fourier - Carlos Perales - PyConES 2018,https://www.youtube.com/watch?v=q72TpAuulHc,q72TpAuulHc,Python España,@PythonES,https://www.youtube.com/@PythonES,20190301,1343,123,3,,,Science & Technology,"Ponencia en PyConES 2018, Malaga.
+
+Más información en: https://2018.es.pycon.org/#schedule",https://i.ytimg.com/vi_webp/q72TpAuulHc/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=q72TpAuulHc,https://www.youtube.com/watch?v=q72TpAuulHc
+26,Pipenv - Andreu Vallbona - PyConES 2018,https://www.youtube.com/watch?v=SM9K9blIZkM,SM9K9blIZkM,Python España,@PythonES,https://www.youtube.com/@PythonES,20190301,1429,122,4,,,Science & Technology,"Ponencia en PyConES 2018, Malaga.
+
+Más información en: https://2018.es.pycon.org/#schedule",https://i.ytimg.com/vi_webp/SM9K9blIZkM/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=SM9K9blIZkM,https://www.youtube.com/watch?v=SM9K9blIZkM
+27,testing python security - Jose Manuel Ortega - PyConES 2018,https://www.youtube.com/watch?v=D7O5aDQR3sE,D7O5aDQR3sE,Python España,@PythonES,https://www.youtube.com/@PythonES,20190301,1531,121,3,,,Science & Technology,"Ponencia en PyConES 2018, Malaga.
+
+Más información en: https://2018.es.pycon.org/#schedule",https://i.ytimg.com/vi_webp/D7O5aDQR3sE/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=D7O5aDQR3sE,https://www.youtube.com/watch?v=D7O5aDQR3sE
+28,Extracting meaningful information from unstructured data   - PyConES 2018,https://www.youtube.com/watch?v=zghmyT1b-6Q,zghmyT1b-6Q,Python España,@PythonES,https://www.youtube.com/@PythonES,20190301,1373,111,1,,,Science & Technology,"Ponencia en PyConES 2018, Malaga.
+
+Más información en: https://2018.es.pycon.org/#schedule",https://i.ytimg.com/vi_webp/zghmyT1b-6Q/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=zghmyT1b-6Q,https://www.youtube.com/watch?v=zghmyT1b-6Q
+29,Python Heaps ters - Víctor Terrón - PyConES 2018,https://www.youtube.com/watch?v=lIoKC5p7sug,lIoKC5p7sug,Python España,@PythonES,https://www.youtube.com/@PythonES,20190301,1480,110,3,,,Science & Technology,"Ponencia en PyConES 2018, Malaga.
+
+Más información en: https://2018.es.pycon.org/#schedule",https://i.ytimg.com/vi_webp/lIoKC5p7sug/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=lIoKC5p7sug,https://www.youtube.com/watch?v=lIoKC5p7sug
+30,"Aprende a enseñar, enseñando aprenderás - Irene Pérez - PyConES 2018",https://www.youtube.com/watch?v=qtUS4D3dHsw,qtUS4D3dHsw,Python España,@PythonES,https://www.youtube.com/@PythonES,20190301,1187,110,4,,,Science & Technology,"Ponencia en PyConES 2018, Malaga.
+
+Más información en: https://2018.es.pycon.org/#schedule",https://i.ytimg.com/vi_webp/qtUS4D3dHsw/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=qtUS4D3dHsw,https://www.youtube.com/watch?v=qtUS4D3dHsw
+31,The bad guys in AI - Alicia Perez y Javier Ordoñez - PyConES 2018,https://www.youtube.com/watch?v=D2m9Ejx6S9k,D2m9Ejx6S9k,Python España,@PythonES,https://www.youtube.com/@PythonES,20190301,1465,103,4,1.0,,Science & Technology,"Ponencia en PyConES 2018, Malaga.
+
+Más información en: https://2018.es.pycon.org/#schedule",https://i.ytimg.com/vi_webp/D2m9Ejx6S9k/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=D2m9Ejx6S9k,https://www.youtube.com/watch?v=D2m9Ejx6S9k
+32,Keynote - Héctor Socas Navarro - PyConES 2018,https://www.youtube.com/watch?v=ZgX0b2FkoKs,ZgX0b2FkoKs,Python España,@PythonES,https://www.youtube.com/@PythonES,20190228,3299,91,1,,,Science & Technology,"Ponencia en PyConES 2018, Malaga.
+
+Más información en: https://2018.es.pycon.org/#schedule",https://i.ytimg.com/vi_webp/ZgX0b2FkoKs/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=ZgX0b2FkoKs,https://www.youtube.com/watch?v=ZgX0b2FkoKs
+33,Everything is a Python module - Salvador de la Puente - PyConES 2018,https://www.youtube.com/watch?v=dNbZDVJ03NU,dNbZDVJ03NU,Python España,@PythonES,https://www.youtube.com/@PythonES,20190301,1384,82,0,,,Science & Technology,"Ponencia en PyConES 2018, Malaga.
+
+Más información en: https://2018.es.pycon.org/#schedule",https://i.ytimg.com/vi_webp/dNbZDVJ03NU/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=dNbZDVJ03NU,https://www.youtube.com/watch?v=dNbZDVJ03NU
+34,Instrumenta tu app con Prometheus - Agustín Herranz - PyConES 2018,https://www.youtube.com/watch?v=BoQzQnJlJDU,BoQzQnJlJDU,Python España,@PythonES,https://www.youtube.com/@PythonES,20190301,1456,81,1,,,Science & Technology,"Ponencia en PyConES 2018, Malaga.
+
+Más información en: https://2018.es.pycon.org/#schedule",https://i.ytimg.com/vi_webp/BoQzQnJlJDU/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=BoQzQnJlJDU,https://www.youtube.com/watch?v=BoQzQnJlJDU
+35,Hackeando el Reinforcement Learning - Guillem Duran - PyConES 2018,https://www.youtube.com/watch?v=FxqwL5Esh7I,FxqwL5Esh7I,Python España,@PythonES,https://www.youtube.com/@PythonES,20190301,1556,77,2,,,Science & Technology,"Ponencia en PyConES 2018, Malaga.
+
+Más información en: https://2018.es.pycon.org/#schedule",https://i.ytimg.com/vi_webp/FxqwL5Esh7I/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=FxqwL5Esh7I,https://www.youtube.com/watch?v=FxqwL5Esh7I
+36,Ojalá que lluevan series temporales - Elena Abril - PyConES 2018,https://www.youtube.com/watch?v=Lsb0tsWuaEM,Lsb0tsWuaEM,Python España,@PythonES,https://www.youtube.com/@PythonES,20190228,984,74,1,,,Science & Technology,"Ponencia en PyConES 2018, Malaga.
+
+Más información en: https://2018.es.pycon.org/#schedule",https://i.ytimg.com/vi_webp/Lsb0tsWuaEM/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=Lsb0tsWuaEM,https://www.youtube.com/watch?v=Lsb0tsWuaEM
+37,The Python Space adventure - Gloria Passarello - PyConES 2018,https://www.youtube.com/watch?v=yWxVGc8mLTY,yWxVGc8mLTY,Python España,@PythonES,https://www.youtube.com/@PythonES,20190301,810,73,2,,,Science & Technology,"Ponencia en PyConES 2018, Malaga.
+
+Más información en: https://2018.es.pycon.org/#schedule",https://i.ytimg.com/vi_webp/yWxVGc8mLTY/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=yWxVGc8mLTY,https://www.youtube.com/watch?v=yWxVGc8mLTY
+38,Python ayudando a salvar a las ballenas - PyConES 2018,https://www.youtube.com/watch?v=IFrv1nU7qbQ,IFrv1nU7qbQ,Python España,@PythonES,https://www.youtube.com/@PythonES,20190301,1310,72,1,,,Science & Technology,"Ponencia en PyConES 2018, Malaga.
+
+Más información en: https://2018.es.pycon.org/#schedule",https://i.ytimg.com/vi_webp/IFrv1nU7qbQ/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=IFrv1nU7qbQ,https://www.youtube.com/watch?v=IFrv1nU7qbQ
+39,From unstructured news to real time visualizations - Oscar Ramirez y Victoria Capar - PyConES 2018,https://www.youtube.com/watch?v=450rv1FV0sQ,450rv1FV0sQ,Python España,@PythonES,https://www.youtube.com/@PythonES,20190228,3013,71,2,,,Science & Technology,"Ponencia en PyConES 2018, Malaga.
+
+Más información en: https://2018.es.pycon.org/#schedule",https://i.ytimg.com/vi_webp/450rv1FV0sQ/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=450rv1FV0sQ,https://www.youtube.com/watch?v=450rv1FV0sQ
+40,Lightning talks - PyConES 2018,https://www.youtube.com/watch?v=ZI9lYfOQnS0,ZI9lYfOQnS0,Python España,@PythonES,https://www.youtube.com/@PythonES,20190228,2787,68,0,,,Science & Technology,"Ponencia en PyConES 2018, Malaga.
+
+Más información en: https://2018.es.pycon.org/#schedule",https://i.ytimg.com/vi_webp/ZI9lYfOQnS0/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=ZI9lYfOQnS0,https://www.youtube.com/watch?v=ZI9lYfOQnS0
+41,Project templates with Cookiecuter - Héctor Canto - PyConES 2018,https://www.youtube.com/watch?v=1FChdPxFACU,1FChdPxFACU,Python España,@PythonES,https://www.youtube.com/@PythonES,20190301,1702,66,1,,,Science & Technology,"Ponencia en PyConES 2018, Malaga.
+
+Más información en: https://2018.es.pycon.org/#schedule",https://i.ytimg.com/vi_webp/1FChdPxFACU/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=1FChdPxFACU,https://www.youtube.com/watch?v=1FChdPxFACU
+42,Keynote - Lorena Mesa - PyConES 2018,https://www.youtube.com/watch?v=t8YdyksqFMI,t8YdyksqFMI,Python España,@PythonES,https://www.youtube.com/@PythonES,20190228,3788,65,0,,,Science & Technology,"Ponencia en PyConES 2018, Malaga.
+
+Más información en: https://2018.es.pycon.org/#schedule",https://i.ytimg.com/vi_webp/t8YdyksqFMI/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=t8YdyksqFMI,https://www.youtube.com/watch?v=t8YdyksqFMI
+43,Estrategias de comprensión con y para Python - Martina Kienberger - PyConES 2018,https://www.youtube.com/watch?v=mhAdkYmCRZg,mhAdkYmCRZg,Python España,@PythonES,https://www.youtube.com/@PythonES,20190301,1419,63,2,,,Science & Technology,"Ponencia en PyConES 2018, Malaga.
+
+Más información en: https://2018.es.pycon.org/#schedule",https://i.ytimg.com/vi_webp/mhAdkYmCRZg/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=mhAdkYmCRZg,https://www.youtube.com/watch?v=mhAdkYmCRZg
+44,Industrializando modelos de ML - Rafael Castillo - PyConES 2018,https://www.youtube.com/watch?v=PQHNCmQ2dNU,PQHNCmQ2dNU,Python España,@PythonES,https://www.youtube.com/@PythonES,20190228,1556,59,0,,,Science & Technology,"Ponencia en PyConES 2018, Malaga.
+
+Más información en: https://2018.es.pycon.org/#schedule",https://i.ytimg.com/vi_webp/PQHNCmQ2dNU/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=PQHNCmQ2dNU,https://www.youtube.com/watch?v=PQHNCmQ2dNU
+45,"Mocks, Fakes, Dummies - Mario Corchero - PyConES 2018",https://www.youtube.com/watch?v=auIDbbv0qoo,auIDbbv0qoo,Python España,@PythonES,https://www.youtube.com/@PythonES,20190301,1349,59,0,,,Science & Technology,"Ponencia en PyConES 2018, Malaga.
+
+Más información en: https://2018.es.pycon.org/#schedule",https://i.ytimg.com/vi_webp/auIDbbv0qoo/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=auIDbbv0qoo,https://www.youtube.com/watch?v=auIDbbv0qoo
+46,Deep Learning will Beat you in a Kung Fu Battle   Ale Solano,https://www.youtube.com/watch?v=8oljvlvKaz4,8oljvlvKaz4,Python España,@PythonES,https://www.youtube.com/@PythonES,20190228,1168,56,0,,,Science & Technology,,https://i.ytimg.com/vi_webp/8oljvlvKaz4/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=8oljvlvKaz4,https://www.youtube.com/watch?v=8oljvlvKaz4
+47,Yet Another Deep Learning Retina - Rubén Crespo - PyConES 2018,https://www.youtube.com/watch?v=8UAL-qIZKxY,8UAL-qIZKxY,Python España,@PythonES,https://www.youtube.com/@PythonES,20190301,1414,55,4,,,Science & Technology,"Ponencia en PyConES 2018, Malaga.
+
+Más información en: https://2018.es.pycon.org/#schedule",https://i.ytimg.com/vi_webp/8UAL-qIZKxY/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=8UAL-qIZKxY,https://www.youtube.com/watch?v=8UAL-qIZKxY
+48,Evaluation of text analysis in social media   a linguistic approach - Eulàlia Veny  - PyConES 2018,https://www.youtube.com/watch?v=BcKCOjjYUi8,BcKCOjjYUi8,Python España,@PythonES,https://www.youtube.com/@PythonES,20190228,1403,49,1,,,Science & Technology,"Ponencia en PyConES 2018, Malaga.
+
+Más información en: https://2018.es.pycon.org/#schedule",https://i.ytimg.com/vi_webp/BcKCOjjYUi8/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=BcKCOjjYUi8,https://www.youtube.com/watch?v=BcKCOjjYUi8
+49,FaaS with no strings attached - Unai Pastor - PyConES 2018,https://www.youtube.com/watch?v=5w4Ir1mxkcI,5w4Ir1mxkcI,Python España,@PythonES,https://www.youtube.com/@PythonES,20190301,1360,40,0,,,Science & Technology,"Ponencia en PyConES 2018, Malaga.
+
+Más información en: https://2018.es.pycon.org/#schedule",https://i.ytimg.com/vi_webp/5w4Ir1mxkcI/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=5w4Ir1mxkcI,https://www.youtube.com/watch?v=5w4Ir1mxkcI
+50,"El hombre pisó la luna, pero gracias a la mujer - Teresa de la Torre - PyConES 2018",https://www.youtube.com/watch?v=fO3rkBBsvP4,fO3rkBBsvP4,Python España,@PythonES,https://www.youtube.com/@PythonES,20190301,1511,39,1,,,Science & Technology,"Ponencia en PyConES 2018, Malaga.
+
+Más información en: https://2018.es.pycon.org/#schedule",https://i.ytimg.com/vi_webp/fO3rkBBsvP4/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=fO3rkBBsvP4,https://www.youtube.com/watch?v=fO3rkBBsvP4
+51,Building a data privacy layer for decentralized applications - David Núñez - PyConES 2018,https://www.youtube.com/watch?v=S3D3ey824ZA,S3D3ey824ZA,Python España,@PythonES,https://www.youtube.com/@PythonES,20190301,1687,38,0,,,Science & Technology,"Ponencia en PyConES 2018, Malaga.
+
+Más información en: https://2018.es.pycon.org/#schedule",https://i.ytimg.com/vi_webp/S3D3ey824ZA/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=S3D3ey824ZA,https://www.youtube.com/watch?v=S3D3ey824ZA
+52,Scaling beyond scikit learn's Pipeline - Pedro Morales y Enrique - PyConES18,https://www.youtube.com/watch?v=yYgY1R2QhI0,yYgY1R2QhI0,Python España,@PythonES,https://www.youtube.com/@PythonES,20190228,1108,36,1,,,Science & Technology,"Ponencia en PyConES 2018, Malaga.
+
+Más información en: https://2018.es.pycon.org/#schedule",https://i.ytimg.com/vi_webp/yYgY1R2QhI0/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=yYgY1R2QhI0,https://www.youtube.com/watch?v=yYgY1R2QhI0
+53,List me your virtues - Maite Giménez - PyConES 2018,https://www.youtube.com/watch?v=UqYm5SAG394,UqYm5SAG394,Python España,@PythonES,https://www.youtube.com/@PythonES,20190301,1186,36,3,,,Science & Technology,"Ponencia en PyConES 2018, Malaga.
+
+Más información en: https://2018.es.pycon.org/#schedule",https://i.ytimg.com/vi_webp/UqYm5SAG394/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=UqYm5SAG394,https://www.youtube.com/watch?v=UqYm5SAG394
