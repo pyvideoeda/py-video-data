@@ -1,0 +1,601 @@
+[
+    {
+        "index": 1,
+        "title": "\"Keynote: The Natural State Of Computers\" - Amber Brown (Kiwi Pycon X)",
+        "url": "https://www.youtube.com/watch?v=1LwKKyyATvo",
+        "video_id": "1LwKKyyATvo",
+        "uploader": "Python New Zealand",
+        "uploader_id": "@PythonNewZealand",
+        "uploader_url": "https://www.youtube.com/@PythonNewZealand",
+        "upload_date": "20190824",
+        "duration": 2819,
+        "view_count": 812,
+        "like_count": 10,
+        "comment_count": null,
+        "tags": [
+            "kiwipycon",
+            "kiwi_pycon_2019",
+            "AmberBrown"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "Amber Brown\n\nThe renaissance of asynchronous programming can leave you asking 'how does this actually solve the problem?'. By investigating the common tasks that we as Python developers implement, we can find which ones are made easier with asynchronous techniques, and which ones are made more difficult.\r\n\r\nAmber Brown (\"HawkOwl\") is a Python developer, Twisted maintainer, and general open-source troublemaker. Her interests lie mostly in networked systems, data processing, and the ethical intersection of computers and their users. In recent news, she shared her criticisms of the Python standard library at the Python Language Summit with \"Batteries Included, But They're Leaking\".\n\n#kiwipycon #kiwipycon2019 #python #pycon #wellington #programming\n\nKiwi PyCon is an annual conference aimed at promoting and educating people about the Python programming language.  The New Zealand Python User Group is proud to present the ninth national Python conference in New Zealand.\n\nVideo licence: CC BY-SA 4.0 - https://creativecommons.org/licenses/by-sa/4.0/\n\nSat Aug 24 09:20:00 2019 at Auditorium 1",
+        "thumbnail": "https://i.ytimg.com/vi_webp/1LwKKyyATvo/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=1LwKKyyATvo",
+        "original_url": "https://www.youtube.com/watch?v=1LwKKyyATvo"
+    },
+    {
+        "index": 2,
+        "title": "\"Keynote: From NASA to Startups to Big Commerce\" - Daniel Roy Greenfeld (Kiwi Pycon X)",
+        "url": "https://www.youtube.com/watch?v=wbOEeFlcJMA",
+        "video_id": "wbOEeFlcJMA",
+        "uploader": "Python New Zealand",
+        "uploader_id": "@PythonNewZealand",
+        "uploader_url": "https://www.youtube.com/@PythonNewZealand",
+        "upload_date": "20190825",
+        "duration": 2414,
+        "view_count": 718,
+        "like_count": 24,
+        "comment_count": null,
+        "tags": [
+            "kiwipycon",
+            "kiwi_pycon_2019",
+            "DanielRoyGreenfeld"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "Daniel Roy Greenfeld\n\nWhile aircraft and spacecraft disasters are extremely visible, the impact of software mistakes on more pedestrian efforts can affect significantly more people. For example, applications that handle catastrophe or infrastructure. Fortunately, the lessons learned building aircraft and spacecraft can be extended for build projects of any size or scale.\r\n\r\n\"Daniel Roy Greenfeld has 22 years of experience in the technology industry. He previously worked for NASA where he earned an Award for Excellence for his work on numerous large-scale software systems before moving on to various startup and corporate jobs. Daniel also co-authored the Two Scoops of Django: Best Practices book series with Audrey Roy Greenfeld. He's created or leads numerous open-source projects, the most significant being Cookiecutter. He is a Fellow of the Python Software Foundation and received the Frank Willison Memorial Award for contributions to Python. At BriteCore, Daniel serves as a Vice President of Engineering, overseeing the Generation 2 engineering systems.\r\n\r\nIn his free time, Daniel enjoys spending time with his wife and baby daughter.\"\n\n#kiwipycon #kiwipycon2019 #python #pycon #wellington #programming\n\nKiwi PyCon is an annual conference aimed at promoting and educating people about the Python programming language.  The New Zealand Python User Group is proud to present the ninth national Python conference in New Zealand.\n\nVideo licence: CC BY-SA 4.0 - https://creativecommons.org/licenses/by-sa/4.0/\n\nSun Aug 25 09:20:00 2019 at Auditorium 1",
+        "thumbnail": "https://i.ytimg.com/vi_webp/wbOEeFlcJMA/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=wbOEeFlcJMA",
+        "original_url": "https://www.youtube.com/watch?v=wbOEeFlcJMA"
+    },
+    {
+        "index": 3,
+        "title": "\"Lightning Talks\" -  (Kiwi Pycon X)",
+        "url": "https://www.youtube.com/watch?v=6beBTfmbrGg",
+        "video_id": "6beBTfmbrGg",
+        "uploader": "Python New Zealand",
+        "uploader_id": "@PythonNewZealand",
+        "uploader_url": "https://www.youtube.com/@PythonNewZealand",
+        "upload_date": "20190825",
+        "duration": 4881,
+        "view_count": 605,
+        "like_count": 5,
+        "comment_count": null,
+        "tags": [
+            "kiwipycon",
+            "kiwi_pycon_2019"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "#kiwipycon #kiwipycon2019 #python #pycon #wellington #programming\n\nKiwi PyCon is an annual conference aimed at promoting and educating people about the Python programming language.  The New Zealand Python User Group is proud to present the ninth national Python conference in New Zealand.\n\nVideo licence: CC BY-SA 4.0 - https://creativecommons.org/licenses/by-sa/4.0/\n\nSun Aug 25 11:20:00 2019 at Auditorium 1",
+        "thumbnail": "https://i.ytimg.com/vi_webp/6beBTfmbrGg/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=6beBTfmbrGg",
+        "original_url": "https://www.youtube.com/watch?v=6beBTfmbrGg"
+    },
+    {
+        "index": 4,
+        "title": "The journey of building a production-ready managed Kubernetes service",
+        "url": "https://www.youtube.com/watch?v=JQHMCEMuM-w",
+        "video_id": "JQHMCEMuM-w",
+        "uploader": "Python New Zealand",
+        "uploader_id": "@PythonNewZealand",
+        "uploader_url": "https://www.youtube.com/@PythonNewZealand",
+        "upload_date": "20190824",
+        "duration": 2293,
+        "view_count": 217,
+        "like_count": 2,
+        "comment_count": null,
+        "tags": [
+            "kiwipycon",
+            "kiwi_pycon_2019",
+            "FeilongWang"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "Feilong Wang\n\nIn this presentation we will share Catalyst’s public cloud journey in building a production ready managed Kubernetes service on top of OpenStack.\r\n\r\n\"Platform services have came a long way. Not only they are getting more popular, but they are also driving true multi-cloud interoperability. The combination of OpenStack and Kubernetes is becoming a standard option to allow users to benefit from both virtual machines and containers for their cloud-native applications.\r\n\r\nIn this presentation, the following items will be covered: \r\n* Network isolation with K8s network policy \r\n* Persistent volume integrated with OpenStack Cinder\r\n* Loadbalancer and Ingress integrated with  OpenStack Octavia \r\n* K8s and OpenStack Keystone auth integration \r\n* K8s rolling upgrades and node patching\r\n* Cluster auto healing\"\r\n\r\nHead of R&D at Catalyst Cloud, a public cloud based in New Zealand built on OpenStack. Project team lead on OpenStack Container Infra Management service(Magnum)\n\n#kiwipycon #kiwipycon2019 #python #pycon #wellington #programming\n\nKiwi PyCon is an annual conference aimed at promoting and educating people about the Python programming language.  The New Zealand Python User Group is proud to present the ninth national Python conference in New Zealand.\n\nVideo licence: CC BY-SA 4.0 - https://creativecommons.org/licenses/by-sa/4.0/\n\nSat Aug 24 14:20:00 2019 at Auditorium 1",
+        "thumbnail": "https://i.ytimg.com/vi_webp/JQHMCEMuM-w/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=JQHMCEMuM-w",
+        "original_url": "https://www.youtube.com/watch?v=JQHMCEMuM-w"
+    },
+    {
+        "index": 5,
+        "title": "\"Turning 'wat' into 'why'\" - Katie McLaughlin (Kiwi Pycon X)",
+        "url": "https://www.youtube.com/watch?v=AxJB2sWMS-k",
+        "video_id": "AxJB2sWMS-k",
+        "uploader": "Python New Zealand",
+        "uploader_id": "@PythonNewZealand",
+        "uploader_url": "https://www.youtube.com/@PythonNewZealand",
+        "upload_date": "20190825",
+        "duration": 1791,
+        "view_count": 2639,
+        "like_count": 105,
+        "comment_count": null,
+        "tags": [
+            "kiwipycon",
+            "kiwi_pycon_2019",
+            "KatieMcLaughlin"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "Katie McLaughlin\n\nTo a seasoned dev, using a different programming language might be... an experience. Everything is a double? Equality isn't equality?! WAT!?! There are two directions this could go: \"Oh, this language is TERRIBLE. I HATE IT\". Or: \"Huh.. I wonder why that is...\" Take a trip along the latter path through a dozen different languages and understand why things the way they are.\r\n\r\n\"Programming languages are repeatedly touted to have strange edge cases. Footguns. Wats. The canonical 'wat' talk (https://www.destroyallsoftware.com/talks/wat) shows some of these for Ruby and JavaScript, but doesn't go into any detail into the 'why'\r\n\r\nIn this talk, take a tour of a dozen different programming languages, from JavaScript to Haskell, Python to Perl, Elixir and more; and see not only the 'wat', but the 'why': is it a misunderstanding based on assumption from another programming language? A compiler optimisation? A known bug that can't be fixed due to backwards compatibility concerns?\r\n\r\nAttendees will come away from this talk with a greater understanding about how to turn a 'wat' into a 'why'.\r\n\r\nAttendees will also be shown how avoid taking their misunderstanding of a programming language and the nuances around it and turning into contempt for those who develop and use the language.\"\r\n\r\n\"Katie has worn many different hats over the years. She has been a software developer for many languages, systems administrator for multiple operating systems, and speaker on many different topics.\r\n\r\nWhen she's not changing the world, she enjoys making tapestries, cooking, and seeing just how well various application stacks handle emoji.\"\n\n#kiwipycon #kiwipycon2019 #python #pycon #wellington #programming\n\nKiwi PyCon is an annual conference aimed at promoting and educating people about the Python programming language.  The New Zealand Python User Group is proud to present the ninth national Python conference in New Zealand.\n\nVideo licence: CC BY-SA 4.0 - https://creativecommons.org/licenses/by-sa/4.0/\n\nSun Aug 25 10:40:00 2019 at Auditorium 1",
+        "thumbnail": "https://i.ytimg.com/vi_webp/AxJB2sWMS-k/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=AxJB2sWMS-k",
+        "original_url": "https://www.youtube.com/watch?v=AxJB2sWMS-k"
+    },
+    {
+        "index": 6,
+        "title": "\"Parallelism in Python\" - Rounak Vyas (Kiwi Pycon X)",
+        "url": "https://www.youtube.com/watch?v=VwE49XvrGx0",
+        "video_id": "VwE49XvrGx0",
+        "uploader": "Python New Zealand",
+        "uploader_id": "@PythonNewZealand",
+        "uploader_url": "https://www.youtube.com/@PythonNewZealand",
+        "upload_date": "20190824",
+        "duration": 1068,
+        "view_count": 787,
+        "like_count": 39,
+        "comment_count": null,
+        "tags": [
+            "kiwipycon",
+            "kiwi_pycon_2019",
+            "RounakVyas"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "Rounak Vyas\n\nPython as a language has enjoyed a decade of usage in both industry and academia. It has been the most popular abstractions to scientific computing and machine learning, yet the base remains single-threaded. Just how is productivity in these fields being maintained with a single-threaded language?\r\n\r\n\"Python has a terrible reputation when it comes to its parallel processing capabilities. Ignoring the standard arguments about its threads and the GIL (which are mostly valid), the real problem with parallelism in Python isn't a technical one, but a pedagogical one. The common tutorials surrounding Threading and Multiprocessing in Python, while generally excellent, are pretty “heavy.” They start in the intense stuff and stop before they get to the really good, day-to-day useful parts. \r\n\r\nThe talk will highlight the impact of Global Interpreter Lock on multithreaded programs and include code snippets to compare single and multithreaded programs using a real life example. Then, we move on to the concept of multiprocessing and the address its benefits over multithreading and mention some examples for it. The talk will end with an application of multiprocessing in the area of Computer Vision and how it speeds up the completion of a task by 82%.\r\n\r\nMoreover this talks aims to inspire both novices and experts to look more into this subject and create something that could possibly be of benefit to the entire python community around the world.\"\r\n\r\nMy name is Rounak Vyas, I’m currently a junior at SRM University Chennai, India. I’m majoring in Information Technology. I’m a student researcher at Next Tech Lab and also a member of the Artificial Intelligence Research Team in the Association of Computing Machinery - SRM Chapter. My area of research involves working with computer vision models and multi-agent reinforcement learning, I’ve been a speaker at two Tech conferences in India: PyData KTR and ChennaiPy, talking about the parallel processing capabilities of python.\n\n#kiwipycon #kiwipycon2019 #python #pycon #wellington #programming\n\nKiwi PyCon is an annual conference aimed at promoting and educating people about the Python programming language.  The New Zealand Python User Group is proud to present the ninth national Python conference in New Zealand.\n\nVideo licence: CC BY-SA 4.0 - https://creativecommons.org/licenses/by-sa/4.0/\n\nSat Aug 24 11:50:00 2019 at Auditorium 2",
+        "thumbnail": "https://i.ytimg.com/vi_webp/VwE49XvrGx0/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=VwE49XvrGx0",
+        "original_url": "https://www.youtube.com/watch?v=VwE49XvrGx0"
+    },
+    {
+        "index": 7,
+        "title": "\"Python product dev tools for electronics\" - Barrie Duncan (Kiwi Pycon X)",
+        "url": "https://www.youtube.com/watch?v=ekIPl5ssPGY",
+        "video_id": "ekIPl5ssPGY",
+        "uploader": "Python New Zealand",
+        "uploader_id": "@PythonNewZealand",
+        "uploader_url": "https://www.youtube.com/@PythonNewZealand",
+        "upload_date": "20190824",
+        "duration": 2476,
+        "view_count": 505,
+        "like_count": 9,
+        "comment_count": null,
+        "tags": [
+            "kiwipycon",
+            "kiwi_pycon_2019",
+            "BarrieDuncan"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "Barrie Duncan\n\n\"Automation dev tools allow us to work smarter not harder.  We have integrated Python into a large range of our electronic product development lifecycle.  This includes:\r\n1. Simulators for new technology.\r\n2. Code generators for embedded C firmware.\r\n3. Automation testing and data analysis.\"\r\n\r\n\"High volume electronics product development can be very complex. Microcontrollers used in these products can run multiple control systems all operating in parallel. Automation with Python in each step of the product development life-cycle allows us to be very efficient and thorough in our development and validation processes.\r\n\r\nThe Python numba package has been key to developing a simulator of new motor technology recently invented. This allows prototyping control systems without any hardware, and also helps understand how the new technology will work.\r\n\r\nPython code generators have been a major component to our latest embedded products developed. These write large sections of our embedded code based on high level specifications.  This includes features such as: creating fully redundant database configuration storage on only a few kB of flash; allows for blackbox storage features; configurable user interface, etc.\r\n\r\nOver the last few years we have created an automation test system for helping to validate our product development. This test system was written in Python to ensure our developed products are of the highest quality capturing millions of test combinations when validating final products in their real environment without simulators. It is used for testing various motors and controllers and is designed to capture their data. With the comprehensive information captured from 24/7 testing sequences, we are able to provide both on-device analysis and post-processing analysis.\r\n\r\nThe system allows building new firmware using Python code generators, loading firmware onto real devices under test, exercising the system and analysing all the results.  Abnormalities are detected as they happen, and more complex faults can be found by post-processing the large amount of data collected from the automation regression test system.  This system even allows checking for data trends and relationships that were never thought of when the tests were originally ran.  Currently clients both locally in NZ and also in the USA use this system.\"\r\n\r\nBarrie Duncan has been involved in the electronics and embedded software industry for over 20 years.  He worked at Schneider Electric in Australia, then in the USA developing high quality power industry products that must keep running 24/7.  Currently he runs a consulting company specialising in hard real-time systems which control high quality reliable products.  This includes using a range of software languages (C/C++/assembly), and electronics design to ensure a quality solution. Barrie has recently switched to using Python to help in his development processes including simulations, code generators, automation testing and data analysis.\n\n#kiwipycon #kiwipycon2019 #python #pycon #wellington #programming\n\nKiwi PyCon is an annual conference aimed at promoting and educating people about the Python programming language.  The New Zealand Python User Group is proud to present the ninth national Python conference in New Zealand.\n\nVideo licence: CC BY-SA 4.0 - https://creativecommons.org/licenses/by-sa/4.0/\n\nSat Aug 24 11:00:00 2019 at Auditorium 2",
+        "thumbnail": "https://i.ytimg.com/vi_webp/ekIPl5ssPGY/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=ekIPl5ssPGY",
+        "original_url": "https://www.youtube.com/watch?v=ekIPl5ssPGY"
+    },
+    {
+        "index": 8,
+        "title": "\"How to Write Python Code Others Like to Use\" - Anna Tisch (Kiwi Pycon X)",
+        "url": "https://www.youtube.com/watch?v=xZSGo4vM-ok",
+        "video_id": "xZSGo4vM-ok",
+        "uploader": "Python New Zealand",
+        "uploader_id": "@PythonNewZealand",
+        "uploader_url": "https://www.youtube.com/@PythonNewZealand",
+        "upload_date": "20190824",
+        "duration": 2237,
+        "view_count": 1311,
+        "like_count": 24,
+        "comment_count": null,
+        "tags": [
+            "kiwipycon",
+            "kiwi_pycon_2019",
+            "AnnaTisch"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "Anna Tisch\n\nWhat makes an API Pythonic? If you are writing Python code you want to share with the world, or maybe just within your team - how can you design it in a way that's intuitive to use and easy to navigate for both the beginner and the expert.\r\n\r\nOriginally from Wellington, I have been writing Python tools for other developers for over 8 years. Now working with Microsoft in Seattle, I build Python SDKs for Azure cloud services.\n\n#kiwipycon #kiwipycon2019 #python #pycon #wellington #programming\n\nKiwi PyCon is an annual conference aimed at promoting and educating people about the Python programming language.  The New Zealand Python User Group is proud to present the ninth national Python conference in New Zealand.\n\nVideo licence: CC BY-SA 4.0 - https://creativecommons.org/licenses/by-sa/4.0/\n\nSat Aug 24 11:50:00 2019 at Auditorium 1",
+        "thumbnail": "https://i.ytimg.com/vi_webp/xZSGo4vM-ok/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=xZSGo4vM-ok",
+        "original_url": "https://www.youtube.com/watch?v=xZSGo4vM-ok"
+    },
+    {
+        "index": 9,
+        "title": "\"Building an interactive training environment using JupyterHub\" - Graham Dumpleton (Kiwi Pycon X)",
+        "url": "https://www.youtube.com/watch?v=Mc2lh2ICd1E",
+        "video_id": "Mc2lh2ICd1E",
+        "uploader": "Python New Zealand",
+        "uploader_id": "@PythonNewZealand",
+        "uploader_url": "https://www.youtube.com/@PythonNewZealand",
+        "upload_date": "20190824",
+        "duration": 2469,
+        "view_count": 245,
+        "like_count": 6,
+        "comment_count": null,
+        "tags": [
+            "kiwipycon",
+            "kiwi_pycon_2019",
+            "GrahamDumpleton"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "Graham Dumpleton\n\nJupyterHub is used to run and manage Jupyter notebook instances for multiple users at the same time. Did you know though that you can use JupyterHub to spawn applications other than Jupyter notebooks? Come see how JupyterHub was used to create a multi user interactive training environment.\r\n\r\nIn this talk you will learn what JupyterHub is and how it works. You will be stepped through how JupyterHub was used to implement a multi user workshop environment running in Kubernetes. Instead of creating Jupyter notebooks, JupyterHub was used to create user environments in Kubernetes which gave the user access to an interactive Linux shell environment in their web browser, along with workshop course notes and presenter slides, in the same integrated dashboard view. Because the user environment provided all the tools required for the workshop, users were immediately good to go, with no need to install anything locally on their own computer.\r\n\r\nGraham is the author of mod_wsgi, the Apache module for hosting of Python web applications using the WSGI interface, and the author of wrapt, a decorator and monkey patching library for Python. He also has a keen interest in docker, Kubernetes, and Platform as a Service (PaaS) technologies. He is currently a developer advocate for OpenShift at Red Hat.\n\n#kiwipycon #kiwipycon2019 #python #pycon #wellington #programming\n\nKiwi PyCon is an annual conference aimed at promoting and educating people about the Python programming language.  The New Zealand Python User Group is proud to present the ninth national Python conference in New Zealand.\n\nVideo licence: CC BY-SA 4.0 - https://creativecommons.org/licenses/by-sa/4.0/\n\nSat Aug 24 15:30:00 2019 at Auditorium 2",
+        "thumbnail": "https://i.ytimg.com/vi_webp/Mc2lh2ICd1E/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=Mc2lh2ICd1E",
+        "original_url": "https://www.youtube.com/watch?v=Mc2lh2ICd1E"
+    },
+    {
+        "index": 10,
+        "title": "\"Python, Threads & Qt: Boom!\" - Teijo Holzer (Kiwi Pycon X)",
+        "url": "https://www.youtube.com/watch?v=ol5IuJyw-Tg",
+        "video_id": "ol5IuJyw-Tg",
+        "uploader": "Python New Zealand",
+        "uploader_id": "@PythonNewZealand",
+        "uploader_url": "https://www.youtube.com/@PythonNewZealand",
+        "upload_date": "20190825",
+        "duration": 2140,
+        "view_count": 4144,
+        "like_count": 120,
+        "comment_count": null,
+        "tags": [
+            "kiwipycon",
+            "kiwi_pycon_2019",
+            "TeijoHolzer"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "Teijo Holzer\n\nWe will investigate problems and pitfalls that will occur when using threads & Qt together inside a Python application, including unexpected memory corruption and crashes.\r\n\r\n\"Quick introduction to Python & Qt: PySide/PyQt\r\nThreading in Python & Qt: QThread, QRunnable, QFuture\r\nThread-safety and re-entrancy of QObjects & QWidgets\r\nInter-thread signals & slots\r\nEvent loops & long-running tasks\r\nMemory corruption bugs in PySide & PyQt\"\r\n\r\nTeijo has been working professionally with Python for more than 15 years, the majority of that time in the Visual Effects Industry. He has detailed knowledge about the core Python interpreter and strong experience in working with massively concurrent algorithms, both on a system level & UI level.\n\n#kiwipycon #kiwipycon2019 #python #pycon #wellington #programming\n\nKiwi PyCon is an annual conference aimed at promoting and educating people about the Python programming language.  The New Zealand Python User Group is proud to present the ninth national Python conference in New Zealand.\n\nVideo licence: CC BY-SA 4.0 - https://creativecommons.org/licenses/by-sa/4.0/\n\nSun Aug 25 10:40:00 2019 at Auditorium 2",
+        "thumbnail": "https://i.ytimg.com/vi_webp/ol5IuJyw-Tg/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=ol5IuJyw-Tg",
+        "original_url": "https://www.youtube.com/watch?v=ol5IuJyw-Tg"
+    },
+    {
+        "index": 11,
+        "title": "\"Python for Public Transport\" - Alex Raichev (Kiwi Pycon X)",
+        "url": "https://www.youtube.com/watch?v=Ier5BF952Y8",
+        "video_id": "Ier5BF952Y8",
+        "uploader": "Python New Zealand",
+        "uploader_id": "@PythonNewZealand",
+        "uploader_url": "https://www.youtube.com/@PythonNewZealand",
+        "upload_date": "20190824",
+        "duration": 1828,
+        "view_count": 5118,
+        "like_count": 112,
+        "comment_count": null,
+        "tags": [
+            "kiwipycon",
+            "kiwi_pycon_2019",
+            "AlexRaichev"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "Alex Raichev\n\n\"I'll show you how to analyze public transport data with Python.\r\nWe'll focus on scheduling data in the form of General Transit Feed Specification (GTFS) and on the open source Python library GTFSTK, which i made and maintain.\r\nAs an example, we'll investigate Wellington's GTFS feed.\r\n\r\nKeywords: Python, transit, GTFS, GTFSTK, Pandas, Shapely\r\n \r\nAlex likes programming in Python and does it heaps on and off the payroll. A lot of civic hacking.\n\n#kiwipycon #kiwipycon2019 #python #pycon #wellington #programming\n\nKiwi PyCon is an annual conference aimed at promoting and educating people about the Python programming language.  The New Zealand Python User Group is proud to present the ninth national Python conference in New Zealand.\n\nVideo licence: CC BY-SA 4.0 - https://creativecommons.org/licenses/by-sa/4.0/\n\nSat Aug 24 11:00:00 2019 at Auditorium 1",
+        "thumbnail": "https://i.ytimg.com/vi_webp/Ier5BF952Y8/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=Ier5BF952Y8",
+        "original_url": "https://www.youtube.com/watch?v=Ier5BF952Y8"
+    },
+    {
+        "index": 12,
+        "title": "\"Automate Your Integration Tests Using pytest-docker-compose\" - Phoenix Zerin (Kiwi Pycon X)",
+        "url": "https://www.youtube.com/watch?v=6wxO8hRIP4w",
+        "video_id": "6wxO8hRIP4w",
+        "uploader": "Python New Zealand",
+        "uploader_id": "@PythonNewZealand",
+        "uploader_url": "https://www.youtube.com/@PythonNewZealand",
+        "upload_date": "20190824",
+        "duration": 2524,
+        "view_count": 8028,
+        "like_count": 128,
+        "comment_count": null,
+        "tags": [
+            "kiwipycon",
+            "kiwi_pycon_2019",
+            "PhoenixZerin"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "Phoenix Zerin\n\n\"Sometimes unit tests aren't enough, and you need to actually deploy your solution to see how it behaves as a whole.  Utilities like docker-compose make it easy to stand up an entire environment, but the actual testing part still has to be done manually... or does it?\r\n\r\nLearn how to automate your integration tests using pytest-docker-compose today! 😺\"\r\n\r\n\"At Centrality I worked on the team building the PL^G blockchain.  We had comprehensive unit tests for every component, but some features could only be tested reliably by spinning up a group of nodes and broadcasting real transactions to the network.\r\n\r\nWe got really good at manually deploying a network, and we wrote some super slick tools to send test transactions.  But, the whole process was still embarrassingly manual.\r\n\r\nEventually I got sick of typing `docker-compose up` and wondered if there might be an easier way... and that was when I discovered that docker-compose is actually written in Python!\r\n\r\nA few hours, lots of coffee, and just a smidgeon of cursing later... pytest-docker-compose was born!\r\n\r\nAnd from that day on, no-one was ever forced to type `docker-compose up` again, and they lived happily ever after 😺\r\n\r\nIn this talk, you will learn:\r\n- How to use Docker and docker-compose to quickly deploy a solution.\r\n- How to use py.test to design and write automated unit tests.\r\n- How to use the pytest-docker-compose plugin to create and run automated integration tests.\r\n- Just how seriously I take my cat emojis 😻\"\r\n\r\n\"Phoenix has been developing and architecting software applications for nearly 15 years, most notably completing a 5-year stint as a digital nomad in South America.\r\n\r\nHe has created or been a significant contributor to 25 open-source projects in active use, most notably PyOTA (the Python library for the IOTA cryptocurrency) and Filters (data validation and pipelines made easy!).\r\n\r\nAlso, he really like cat emojis.  A lot.  You've been warned 😸\"\n\n#kiwipycon #kiwipycon2019 #python #pycon #wellington #programming\n\nKiwi PyCon is an annual conference aimed at promoting and educating people about the Python programming language.  The New Zealand Python User Group is proud to present the ninth national Python conference in New Zealand.\n\nVideo licence: CC BY-SA 4.0 - https://creativecommons.org/licenses/by-sa/4.0/\n\nSat Aug 24 16:20:00 2019 at Auditorium 2",
+        "thumbnail": "https://i.ytimg.com/vi_webp/6wxO8hRIP4w/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=6wxO8hRIP4w",
+        "original_url": "https://www.youtube.com/watch?v=6wxO8hRIP4w"
+    },
+    {
+        "index": 13,
+        "title": "\"From Pascal to Python\" - Steve Dunford (Kiwi Pycon X)",
+        "url": "https://www.youtube.com/watch?v=3F3xoqdUpNY",
+        "video_id": "3F3xoqdUpNY",
+        "uploader": "Python New Zealand",
+        "uploader_id": "@PythonNewZealand",
+        "uploader_url": "https://www.youtube.com/@PythonNewZealand",
+        "upload_date": "20190825",
+        "duration": 3152,
+        "view_count": 586,
+        "like_count": 8,
+        "comment_count": null,
+        "tags": [
+            "kiwipycon",
+            "kiwi_pycon_2019",
+            "SteveDunford"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "Steve Dunford\n\nA look at the journey schools (specifically Burnside High) have taken from no computers to students being able to take courses in computer science, software engineering, game development and microelectronics.\r\n\r\n\"The Gestetner machine was the coolest piece of technology in schools when I was young.  The smell of that blue ink on newsprint paper will live with me forever, but times change and so does technology.  By the time I left high school we'd gone from that to having 12 BBC micro's in one classroom - one of them even had a disk drive.  But everything done on those computers was at a hobby level, and there were no educational achievements gained from them as far as 'The System' was concerned.\r\n\r\nFast forward (quite) a few years to the new millennium, and computers were starting to become a lot more prevalent in schools - and some departments, often Maths, even used them in teaching.  But there still weren't any great educational outcomes from this use (although for those of us who were true nerds at school this was probably the best class of all, regardless).  \r\n\r\nIn the early 2000's a small group of teachers started fighting to get some proper standards in place - and not just the older Unit Standards which tended to be quite simple, and quite prescribed (click here, do this, get that) - but the new Achievement Standards which allowed students to gain tertiary-applicable NCEA credits while learning useful skills.  Success meant that in 2011 the first iteration of these standards was rolled out across NZ.  Standards that also allowed teachers to customise a course to their own skillset, vitally important given not all teachers are Software Engineers.\r\n\r\nThis talk is on how we use Python and related tools to enable our students to learn great skills and deliver awesome projects in (and sometimes despite) the system.\"\r\n\r\nSteve Dunford is a grumpy old Teacher of Digital Technologies at Burnside High School in Christchurch where he teaches Electronics, Computer Science and Software Engineering.  In his spare(?!) time he is a vintage radio nut and part-time pretend farmer.\n\n#kiwipycon #kiwipycon2019 #python #pycon #wellington #programming\n\nKiwi PyCon is an annual conference aimed at promoting and educating people about the Python programming language.  The New Zealand Python User Group is proud to present the ninth national Python conference in New Zealand.\n\nVideo licence: CC BY-SA 4.0 - https://creativecommons.org/licenses/by-sa/4.0/\n\nSat Aug 24 16:20:00 2019 at Auditorium 1",
+        "thumbnail": "https://i.ytimg.com/vi_webp/3F3xoqdUpNY/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=3F3xoqdUpNY",
+        "original_url": "https://www.youtube.com/watch?v=3F3xoqdUpNY"
+    },
+    {
+        "index": 14,
+        "title": "Using Python, Django, and ruthlessness to protect people from social media harassment.",
+        "url": "https://www.youtube.com/watch?v=-h_inyIPPAA",
+        "video_id": "-h_inyIPPAA",
+        "uploader": "Python New Zealand",
+        "uploader_id": "@PythonNewZealand",
+        "uploader_url": "https://www.youtube.com/@PythonNewZealand",
+        "upload_date": "20190825",
+        "duration": 2107,
+        "view_count": 699,
+        "like_count": 14,
+        "comment_count": null,
+        "tags": [
+            "kiwipycon",
+            "kiwi_pycon_2019",
+            "TomEastman"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "Tom Eastman\n\nIn this talk, I present 'secateur', a tool for Twitter users to protect themselves from some forms of online harassment. I discuss using Python and Django to create tools that integrate with Twitter, use its APIs, and block lots of people (LOTS of people).\r\n\r\n\"In some ways, Twitter seems like it was designed from the ground up to be the perfect tool for harassment. The social media phenomenon of 'dog-piling' can make life hell online. Twitter's own mechanisms that are supposed to protect users sometimes seem to be pretty inadequate to the task.\r\n\r\nSo I decided to make a few of my own.\r\n\r\nI've built an open-source web app, 'secateur', that gives people a bit of power to protect themselves in a hostile online environment.\r\n\r\nAlong the way, I got to grapple with some interesting challenges:\r\n\r\n- The technical aspects of scraping Twitter and using their APIs for blocking and muting lots of people (LOTS of people). Dealing with an occasionally surprising API with strict (and surprising) rate-limiting behaviours.\r\n\r\n- How to build something beyond a Python script -- aiming to be a tool that other people can use to protect themselves, and that would be affordable to host.\r\n\r\n- The threat landscape you need to consider when building a tool that's for people who are being attacked online.\r\n\r\n- What's 'fair', and what's 'censorship', when it comes right down to it?\"\r\n\r\n\"Tom Eastman is a developer, systems engineer and occasional security consultant living in Wellington, New Zealand. Tom (still) writes words that control computers to tell other computers to build FAKE computers that run on DIFFERENT computers.\r\n\r\n- [Tom Eastman](https://tom.eastman.nz)\r\n- [Twitter](https://twitter.com/tveastman)\"\n\n#kiwipycon #kiwipycon2019 #python #pycon #wellington #programming\n\nKiwi PyCon is an annual conference aimed at promoting and educating people about the Python programming language.  The New Zealand Python User Group is proud to present the ninth national Python conference in New Zealand.\n\nVideo licence: CC BY-SA 4.0 - https://creativecommons.org/licenses/by-sa/4.0/\n\nSat Aug 24 15:30:00 2019 at Auditorium 1",
+        "thumbnail": "https://i.ytimg.com/vi_webp/-h_inyIPPAA/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=-h_inyIPPAA",
+        "original_url": "https://www.youtube.com/watch?v=-h_inyIPPAA"
+    },
+    {
+        "index": 15,
+        "title": "\"I'm So Meta Even This Acronym...\" - Curtis Maloney (Kiwi Pycon X)",
+        "url": "https://www.youtube.com/watch?v=u_q8h4KMQqA",
+        "video_id": "u_q8h4KMQqA",
+        "uploader": "Python New Zealand",
+        "uploader_id": "@PythonNewZealand",
+        "uploader_url": "https://www.youtube.com/@PythonNewZealand",
+        "upload_date": "20190824",
+        "duration": 1460,
+        "view_count": 379,
+        "like_count": 8,
+        "comment_count": null,
+        "tags": [
+            "kiwipycon",
+            "kiwi_pycon_2019",
+            "CurtisMaloney"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "Curtis Maloney\n\nEver wanted to better understand metaclasses?\r\n\r\n\"Generally the advice when people first encounter metaclassing is \"\"you won't need it\"\", or \"\"it's deep voodoo!\"\"\r\nI hope to dispel some of the mystery, and explain the role metaclasses play in Python, and how you can utilise them in your daily coding life.\"\r\n\r\nCurtis (aka FunkyBob) started using Python over 20 years ago, and has never looked back. He is a member of the Django core team, and currently works for Survata as a Data Engineer, herding Pandas.\n\n#kiwipycon #kiwipycon2019 #python #pycon #wellington #programming\n\nKiwi PyCon is an annual conference aimed at promoting and educating people about the Python programming language.  The New Zealand Python User Group is proud to present the ninth national Python conference in New Zealand.\n\nVideo licence: CC BY-SA 4.0 - https://creativecommons.org/licenses/by-sa/4.0/\n\nSat Aug 24 13:30:00 2019 at Auditorium 2",
+        "thumbnail": "https://i.ytimg.com/vi_webp/u_q8h4KMQqA/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=u_q8h4KMQqA",
+        "original_url": "https://www.youtube.com/watch?v=u_q8h4KMQqA"
+    },
+    {
+        "index": 16,
+        "title": "\"Getting started with MicroPython on a microcontroller\" - Glenn Ramsey (Kiwi Pycon X)",
+        "url": "https://www.youtube.com/watch?v=f7IPsop1VpU",
+        "video_id": "f7IPsop1VpU",
+        "uploader": "Python New Zealand",
+        "uploader_id": "@PythonNewZealand",
+        "uploader_url": "https://www.youtube.com/@PythonNewZealand",
+        "upload_date": "20190824",
+        "duration": 2487,
+        "view_count": 1326,
+        "like_count": 15,
+        "comment_count": null,
+        "tags": [
+            "kiwipycon",
+            "kiwi_pycon_2019",
+            "GlennRamsey"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "Glenn Ramsey\n\nUsing MicroPython on an ESP32 board to make a simple soundmeter\r\n\r\nThis talk will be about getting MicroPython installed on an ESP32 development board and using it, along with other components assembled onto a breadboard, in a live demonstration to create a soundmeter with visual output.\r\n\r\nI'm a software developer currently working in Python, C++ and Javascript on desktop, mobile and embedded applications. In my spare time I ride horses and/or dirt bikes with my family and sometimes tinker with electronics.\n\n#kiwipycon #kiwipycon2019 #python #pycon #wellington #programming\n\nKiwi PyCon is an annual conference aimed at promoting and educating people about the Python programming language.  The New Zealand Python User Group is proud to present the ninth national Python conference in New Zealand.\n\nVideo licence: CC BY-SA 4.0 - https://creativecommons.org/licenses/by-sa/4.0/\n\nSat Aug 24 13:30:00 2019 at Auditorium 1",
+        "thumbnail": "https://i.ytimg.com/vi_webp/f7IPsop1VpU/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=f7IPsop1VpU",
+        "original_url": "https://www.youtube.com/watch?v=f7IPsop1VpU"
+    },
+    {
+        "index": 17,
+        "title": "\"Aircraft predictive maintenance using Python/ML\" - Amar Verma (Kiwi Pycon X)",
+        "url": "https://www.youtube.com/watch?v=lV3hXtZPiqY",
+        "video_id": "lV3hXtZPiqY",
+        "uploader": "Python New Zealand",
+        "uploader_id": "@PythonNewZealand",
+        "uploader_url": "https://www.youtube.com/@PythonNewZealand",
+        "upload_date": "20190825",
+        "duration": 2280,
+        "view_count": 5315,
+        "like_count": 89,
+        "comment_count": null,
+        "tags": [
+            "kiwipycon",
+            "kiwi_pycon_2019",
+            "AmarVerma"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "Amar Verma\n\nApplied machine learning for predictive maintenance (PdM) with objectives to reduce aircraft downtime & in-workshop costs\r\n\r\n\"Aircraft engines must be serviced, overhauled and examined on a very regular basis. This is driven by several factors, such as the total flying hours, on-ground taxi time, time from last overhaul, parts with limited life cycle, FAA bulletins & advisories, as well as for issues reported by sensors, ground crew & flight deck.\r\n\r\nIn case of more than one engines on the aircraft, most possibly the engines are non-coordinated in their maintenance requirements. This is very obvious as the engines could be maintained, installed on separate ocassions.\r\n\r\nWhenever an aircraft engine is needed to be serviced, it causes direct impact to cashflows due to some of these factors:\r\n* plane need to be grounded if alternative engine not available\r\n* engine maintenance is delayed due to \r\n* parts not available\r\n* specifically skilled engineer not available\r\n* workshop space not available\r\n* Aircrafts (generally) use more than one engine, so the negative impact is amplified\r\n* Aircraft's flying schedule can be impacted causing rebookings, schedule conflicts and direct impact to cashflows\r\n\r\nOur solution addressed this challenging problem by combining & deriving few different algorithms for different parts of the problem:\r\n- determine extent of the engine deterioration using a simplified variant of Kalman filtering method\r\n- predict the optimal scheduling window using adaptation of genetic algorithm\r\n\r\nInnovation & Engineering hacker. Expert in AI/ML, Algorithms & Big Databases\n\n#kiwipycon #kiwipycon2019 #python #pycon #wellington #programming\n\nKiwi PyCon is an annual conference aimed at promoting and educating people about the Python programming language.  The New Zealand Python User Group is proud to present the ninth national Python conference in New Zealand.\n\nVideo licence: CC BY-SA 4.0 - https://creativecommons.org/licenses/by-sa/4.0/\n\nSun Aug 25 14:20:00 2019 at Auditorium 1",
+        "thumbnail": "https://i.ytimg.com/vi_webp/lV3hXtZPiqY/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=lV3hXtZPiqY",
+        "original_url": "https://www.youtube.com/watch?v=lV3hXtZPiqY"
+    },
+    {
+        "index": 18,
+        "title": "\"Python: A Medley of Programming Paradigms\" - Simon Merrick (Kiwi Pycon X)",
+        "url": "https://www.youtube.com/watch?v=gBPkX8ywyns",
+        "video_id": "gBPkX8ywyns",
+        "uploader": "Python New Zealand",
+        "uploader_id": "@PythonNewZealand",
+        "uploader_url": "https://www.youtube.com/@PythonNewZealand",
+        "upload_date": "20190825",
+        "duration": 1448,
+        "view_count": 789,
+        "like_count": 8,
+        "comment_count": null,
+        "tags": [
+            "kiwipycon",
+            "kiwi_pycon_2019",
+            "SimonMerrick"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "Simon Merrick\n\nExploring Python's multiple programming paradigms - Imperative, Procedural, Functional and Object Oriented - and their applications through python examples.\r\n\r\n\"“There should be one-- and preferably only one --obvious way to do it.\r\nAlthough that way may not be obvious at first unless you're Dutch.”\r\n\r\nDespite this - or maybe because of this, python programming can be done in  several different programming paradigms; Imperative, Procedural, Functional and Object Oriented.\r\n\r\nWhile, theoretically, most problems can be solved in any paradigm, some problems are most elegantly solved in a particular paradigm.\r\n\r\nBy understanding different paradigms, their benefits, pitfalls and applications we can streamline, organize and simplify how we think about problems and elegant, maintainable, efficient solutions.\"\r\n\r\nSimon is a python developer at Catalyst Cloud, building OpenStack public and private clouds in New Zealand, for New Zealand, by New Zealand. You can find him @iokiwi on github, gitlab and twitter or in person at several user group meetups including Python User Group and WOSSAT meetups in Wellington.\n\n#kiwipycon #kiwipycon2019 #python #pycon #wellington #programming\n\nKiwi PyCon is an annual conference aimed at promoting and educating people about the Python programming language.  The New Zealand Python User Group is proud to present the ninth national Python conference in New Zealand.\n\nVideo licence: CC BY-SA 4.0 - https://creativecommons.org/licenses/by-sa/4.0/\n\nSun Aug 25 15:30:00 2019 at Auditorium 1",
+        "thumbnail": "https://i.ytimg.com/vi_webp/gBPkX8ywyns/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=gBPkX8ywyns",
+        "original_url": "https://www.youtube.com/watch?v=gBPkX8ywyns"
+    },
+    {
+        "index": 19,
+        "title": "\"The Packaging Lifecycle with Poetry\" - Clinton Roy (Kiwi Pycon X)",
+        "url": "https://www.youtube.com/watch?v=Au2t6VfY2_M",
+        "video_id": "Au2t6VfY2_M",
+        "uploader": "Python New Zealand",
+        "uploader_id": "@PythonNewZealand",
+        "uploader_url": "https://www.youtube.com/@PythonNewZealand",
+        "upload_date": "20190825",
+        "duration": 2581,
+        "view_count": 4094,
+        "like_count": 75,
+        "comment_count": null,
+        "tags": [
+            "kiwipycon",
+            "kiwi_pycon_2019",
+            "ClintonRoy"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "Clinton Roy\n\nRight now is an interesting time in the land of Python packaging; there are a lot of ideas flying around about the correct way to package, develop and publish your code. Poetry is one thread in this conversation.\r\n\r\nThis talk aims to look at some of the ways Poetry moves the conversation forward, learns from other packaging ecosystems, and where Python itself is going. We will be talking file formats, Python Enhancement Proposals (PEPs) to do with packaging, different packaging ideologies and looking at what we can learn from completely different languages. We’ll also be taking a look at the community’s approach to finding the way forward.\r\n\r\nClinton is a software engineer who has been able to make a career around supporting researchers using Open Source software. \r\n\r\nClinton is currently a Senior Scientific Software Engineer for ANSTO working at the Australian Synchrotron.\n\n#kiwipycon #kiwipycon2019 #python #pycon #wellington #programming\n\nKiwi PyCon is an annual conference aimed at promoting and educating people about the Python programming language.  The New Zealand Python User Group is proud to present the ninth national Python conference in New Zealand.\n\nVideo licence: CC BY-SA 4.0 - https://creativecommons.org/licenses/by-sa/4.0/\n\nSun Aug 25 14:20:00 2019 at Auditorium 2",
+        "thumbnail": "https://i.ytimg.com/vi_webp/Au2t6VfY2_M/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=Au2t6VfY2_M",
+        "original_url": "https://www.youtube.com/watch?v=Au2t6VfY2_M"
+    },
+    {
+        "index": 20,
+        "title": "\"Build and hack your own IoT with MQTT\" - Agnetha Korevaar (Kiwi Pycon X)",
+        "url": "https://www.youtube.com/watch?v=YzxTf1y3yCs",
+        "video_id": "YzxTf1y3yCs",
+        "uploader": "Python New Zealand",
+        "uploader_id": "@PythonNewZealand",
+        "uploader_url": "https://www.youtube.com/@PythonNewZealand",
+        "upload_date": "20190825",
+        "duration": 1799,
+        "view_count": 2821,
+        "like_count": 57,
+        "comment_count": null,
+        "tags": [
+            "kiwipycon",
+            "kiwi_pycon_2019",
+            "AgnethaKorevaar"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "Agnetha Korevaar\n\nConnecting the things in the Internet of Things (IoT) is hard. This talk will introduce MQTT - a messaging protocol which makes it easier to exchange information between disparate devices. You'll be equipped to build your own IoT system and hack it to find some of its weaknesses.\r\n\r\nMQTT powers huge scale systems such as Facebook Messenger, big name IoT platforms such as those developed by Amazon, Microsoft and IBM (1), and it could connect your next project. But, before jumping onto the bandwagon, it's worth knowing what MQTT is and does, how to implement it, and whether we can satisfy some of our security paranoia.\r\n\r\nThis talk will cover:\r\n- A quick introduction to MQTT, explanation of the key concepts, and some considerations for whether it would make a good choice for an IoT project.\r\n- A deep dive into how to build an MQTT system. Starting with how to set up an MQTT broker on your computer (or Raspberry Pi, or server) using python or docker. Then connecting some things which send and receive data using python on a computer or micropython on a microcontroller.\r\n- A beginners guide to hacking MQTT. First, demonstrating tools which can be used to test, spy on or take control of an MQTT system. Then, revising the naive MQTT system to make it more secure and reliable.\r\n\r\n(1) refer to: https://developer.ibm.com/blogs/open-source-ibm-mqtt-the-messaging-protocol-for-iot/\r\n\r\nAgnetha Korevaar is a research engineer at Callaghan Innovation. She spends much of her time designing and writing software for mechatronic things that talk to other things that talk to humans.\n\n#kiwipycon #kiwipycon2019 #python #pycon #wellington #programming\n\nKiwi PyCon is an annual conference aimed at promoting and educating people about the Python programming language.  The New Zealand Python User Group is proud to present the ninth national Python conference in New Zealand.\n\nVideo licence: CC BY-SA 4.0 - https://creativecommons.org/licenses/by-sa/4.0/\n\nSun Aug 25 15:30:00 2019 at Auditorium 2",
+        "thumbnail": "https://i.ytimg.com/vi_webp/YzxTf1y3yCs/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=YzxTf1y3yCs",
+        "original_url": "https://www.youtube.com/watch?v=YzxTf1y3yCs"
+    }
+]

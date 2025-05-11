@@ -1,0 +1,450 @@
+﻿index,title,url,video_id,uploader,uploader_id,uploader_url,upload_date,duration,view_count,like_count,comment_count,tags,categories,description,thumbnail,age_limit,is_live,was_live,availability,webpage_url,original_url
+1,Christian Heimes: Python 3.11 in the Web Browser - A Journey (Keynote),https://www.youtube.com/watch?v=oa2LllRZUlU,oa2LllRZUlU,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20220515,2953,4081,,,"community,cpython,devops,python,software engineering,testing",Science & Technology,"Speaker:: Christian Heimes
+
+Track: PyCon: Programming & Software Engineering
+Python 3.11 alpha comes with experimental support for Web Assembly and can be built to run in modern web browsers or Node.js out of the box. I’m going to show how we achieved the goal, which obstacles we faced, and what is missing to have fully working “Python for the web”.
+
+
+Recorded at the PyConDE & PyData Berlin 2022 conference, April 11-13 2022.
+https://2022.pycon.de
+More details at the conference page: https://2022.pycon.de/program/SBCNDY
+Twitter: https://twitter.com/pydataberlin
+Twitter: https://twitter.com/pyconde",https://i.ytimg.com/vi_webp/oa2LllRZUlU/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=oa2LllRZUlU,https://www.youtube.com/watch?v=oa2LllRZUlU
+2,Miroslav Šedivý: There Are Python 2 Relics in Your Code,https://www.youtube.com/watch?v=o-tpiZV90Tc,o-tpiZV90Tc,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20220512,1815,335,,,"community,cpython,devops,python,software engineering,testing",Science & Technology,"Speaker:: Miroslav Šedivý
+
+Track: PyCon: Python Language
+Are you done with the migration to Python 3 or did you involuntarily leave some Python 2 relics in your code? Did you leave it as a backdoor so you can easily return to Python 2 if we find out that the whole Python 3 was a dead-end street?
+
+
+Recorded at the PyConDE & PyData Berlin 2022 conference, April 11-13 2022.
+https://2022.pycon.de
+More details at the conference page: https://2022.pycon.de/program/NEEA8M
+Twitter: https://twitter.com/pydataberlin
+Twitter: https://twitter.com/pyconde",https://i.ytimg.com/vi_webp/o-tpiZV90Tc/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=o-tpiZV90Tc,https://www.youtube.com/watch?v=o-tpiZV90Tc
+3,Stefan Behnel: Fast native data structures: C/C++ from Python,https://www.youtube.com/watch?v=E7-22Ml1wdY,E7-22Ml1wdY,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20220512,2729,553,,,"community,cpython,devops,python,software engineering,testing",Science & Technology,"Speaker:: Stefan Behnel
+
+Track: PyCon: Programming & Software Engineering
+This talk will show how compiling your Python code with Cython (https://cython.org/) enables you to make direct use of fast and memory efficient native data types and data structures. Cython provides very efficient ways to access the internals of Python data structures, process data from NumPy arrays, and use data structures from native C libraries or the C++ STL standard library as replacements for the high-level Python collections.
+
+
+Recorded at the PyConDE & PyData Berlin 2022 conference, April 11-13 2022.
+https://2022.pycon.de
+More details at the conference page: https://2022.pycon.de/program/7TCM8E
+Twitter: https://twitter.com/pydataberlin
+Twitter: https://twitter.com/pyconde",https://i.ytimg.com/vi_webp/E7-22Ml1wdY/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=E7-22Ml1wdY,https://www.youtube.com/watch?v=E7-22Ml1wdY
+4,"Dom Weldon: Forget ‘web 3.0’, let's talk about ‘web 0.0’. A brief history of the Internet, and th...",https://www.youtube.com/watch?v=Y7-_q1rPEVI,Y7-_q1rPEVI,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20220512,1763,198,,,"community,cpython,devops,python,software engineering,testing",Science & Technology,"Speaker:: Dom Weldon
+
+Track: General: Community, Diversity, Carreer, Life and everything else
+For all the excited talk of the future and Web 3.0, it can be easy to overlook the past. How and why did the Internet come to be? What about the World Wide Web? How did these technologies come about, and how did they become so ubiquitous? What’s more, what role did python play in this history? Let’s go on a very brief tour of this history, and offer some food for thought on the future of the web and the Internet in general.
+
+
+Recorded at the PyConDE & PyData Berlin 2022 conference, April 11-13 2022.
+https://2022.pycon.de
+More details at the conference page: https://2022.pycon.de/program/T8Y38G
+Twitter: https://twitter.com/pydataberlin
+Twitter: https://twitter.com/pyconde",https://i.ytimg.com/vi_webp/Y7-_q1rPEVI/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=Y7-_q1rPEVI,https://www.youtube.com/watch?v=Y7-_q1rPEVI
+5,Jessica Greene (she/her): Python for Everyone - PyLadies' Insights Panel Discussion,https://www.youtube.com/watch?v=6IKlIJdS11o,6IKlIJdS11o,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20220512,3636,311,,,"community,cpython,devops,python,software engineering,testing",Science & Technology,"Speaker:: Jessica Greene (she/her)
+
+Track: General: Community, Diversity, Carreer, Life and everything else
+PyLadies Mission is to advance a diverse Python Community. This work is done by many volunteers in PyLadies chapters around the world, and here in Germany. And the benefits of this work are often felt far beyond the community itself. 
+
+Pyladies Germany currently has four chapters: Berlin, Hamburg, Karlsruhe, and Munich. Each working to support underrepresented people in our community, so they can thrive. They work to create safe spaces for learning and networking. 
+
+Join this panel to learn more about how these volunteers and organizers make a difference, what they would like the wider python community to understand, so they could be more effective in their work, and what you could do tomorrow, to help advance this work.
+
+
+Recorded at the PyConDE & PyData Berlin 2022 conference, April 11-13 2022.
+https://2022.pycon.de
+More details at the conference page: https://2022.pycon.de/program/U8WQMT
+Twitter: https://twitter.com/pydataberlin
+Twitter: https://twitter.com/pyconde",https://i.ytimg.com/vi_webp/6IKlIJdS11o/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=6IKlIJdS11o,https://www.youtube.com/watch?v=6IKlIJdS11o
+6,Jannis Lübbe: Web based live visualisation of sensor data,https://www.youtube.com/watch?v=o_cr-RmGmio,o_cr-RmGmio,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20220512,1475,539,,,"community,cpython,devops,python,software engineering,testing",Science & Technology,"Speaker:: Jannis Lübbe
+
+Track: PyCon: Web
+Raspberry Pis are great for interfacing directly with sensor hardware. However, users might prefer their familiar desktop computer or any mobile device to watch the measured data instantly. This is where a Python-based web interface helps to circumvent most platform-specific issues. 
+The presentation is aimed at users with limited experience in APIs and web interfaces. An example application based on Redis, FastAPI and visualization frameworks like plotly.js or three.js will be introduced. The audience may interact via WLAN with the live demo.
+
+
+Recorded at the PyConDE & PyData Berlin 2022 conference, April 11-13 2022.
+https://2022.pycon.de
+More details at the conference page: https://2022.pycon.de/program/MMP3US
+Twitter: https://twitter.com/pydataberlin
+Twitter: https://twitter.com/pyconde",https://i.ytimg.com/vi_webp/o_cr-RmGmio/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=o_cr-RmGmio,https://www.youtube.com/watch?v=o_cr-RmGmio
+7,Dr. Kristian Rother: Refactoring,https://www.youtube.com/watch?v=13hVzP3Oofs,13hVzP3Oofs,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20220515,5389,1005,,,"community,cpython,devops,python,software engineering,testing",Science & Technology,"Speaker:: Dr. Kristian Rother
+
+Track: PyCon: Programming & Software Engineering
+In this tutorial, you will refactor a space travel text adventure.
+Starting with a working but messy program, you will improve the structure of the code.
+You will identify redundant code segments, split long functions into shorter ones, extract data structures and encapsulate behavior into classes. The outcome will be a program that is more readable, easier to maintain, and, hopefully, still works.
+
+The tutorial will be delivered as a guided tour with many hands-on exercises.
+Together, we collect strategies that can be applied to Python projects that grow bigger and bigger.
+The refactoring tutorial is suitable for junior Python developers.
+
+
+Recorded at the PyConDE & PyData Berlin 2022 conference, April 11-13 2022.
+https://2022.pycon.de
+More details at the conference page: https://2022.pycon.de/program/UCMC3C
+Twitter: https://twitter.com/pydataberlin
+Twitter: https://twitter.com/pyconde",https://i.ytimg.com/vi_webp/13hVzP3Oofs/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=13hVzP3Oofs,https://www.youtube.com/watch?v=13hVzP3Oofs
+8,Jessica Greene (she/her) Vanessa Aguilar: Observing Python applications using Prometheus,https://www.youtube.com/watch?v=EYd4NJjFGYc,EYd4NJjFGYc,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20220515,3726,375,,,,Education,"Speaker:: Jessica Greene (she/her) Vanessa Aguilar
+“We know what your app did last summer. Do you? Observing Python applications using Prometheus.”
+
+Track: PyCon: DevOps
+When your service is running in production do you know if it's performing as intended? How can you know if latency for requests is higher than expected, debug memory consumption or get alerted on certain behaviors?
+We call this type of insight observability and the concept is built on three pillars: Metrics, Traces and Logs. In this workshop we will focus on the first pillar. We'll start by instrumenting a Python Web service with metrics using Prometheus and then display them in Grafana dashboards. Along the way we will also discuss why observability is important and what makes useful metrics.This workshop is aimed at those who already have some experience with engineering and building applications in containers using Docker. To participate in the workshop you will be required to have Python 3, Python Poetry and Docker running on your machine. 
+As Site Reliability and Backend engineers, we greatly enjoy the synergy that is required between us in order to operate the applications we write and the platforms they run on. Our individual roles enable us to approach the topic from different perspectives and we will also discuss how this shared responsibility is built into our engineering culture.
+By the end of the session you will have a grasp of the key concepts for instrumenting a service and understanding what to monitor. Get ready to start adding metrics to your own services!
+Recorded at the PyConDE & PyData Berlin 2022 conference, April 11-13 2022.
+https://2022.pycon.de
+
+More details at the conference page: https://2022.pycon.de/program/RE89WX
+Twitter: https://twitter.com/pydataberlin
+Twitter: https://twitter.com/pyconde",https://i.ytimg.com/vi_webp/EYd4NJjFGYc/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=EYd4NJjFGYc,https://www.youtube.com/watch?v=EYd4NJjFGYc
+9,Torsten Zielke: Faster Workflow with Testdriven Development,https://www.youtube.com/watch?v=_6AaG-cgMjk,_6AaG-cgMjk,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20220512,5112,342,,,"community,cpython,devops,python,software engineering,testing",Science & Technology,"Speaker:: Torsten Zielke
+
+Track: PyCon: Testing
+I will show how testdriven development will actually be an asset which can be less time consuming than the default approach for most developers. In this tutorial I will fail myself forward building up a fully functioning url shortener using FastAPI and pytest.
+
+
+Recorded at the PyConDE & PyData Berlin 2022 conference, April 11-13 2022.
+https://2022.pycon.de
+More details at the conference page: https://2022.pycon.de/program/ADRKQZ
+Twitter: https://twitter.com/pydataberlin
+Twitter: https://twitter.com/pyconde",https://i.ytimg.com/vi_webp/_6AaG-cgMjk/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=_6AaG-cgMjk,https://www.youtube.com/watch?v=_6AaG-cgMjk
+10,Tarek Mehrez: Navigating the limitations of Python’s concurrency model in web services,https://www.youtube.com/watch?v=Kf65EVT5Eyg,Kf65EVT5Eyg,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20220512,2103,521,,,"community,cpython,devops,python,software engineering,testing",Science & Technology,"Speaker:: Tarek Mehrez
+
+Track: PyCon: Web
+How do web frameworks navigate the limitations of the  Python concurrency model? In this talk we will dive into the inner workings of some of Python’s most commonly used frameworks. Then by looking into their underlying runtimes we will compare ASGIs and WSGIs. We will use FastAPI as a source of inspiration to see what modern web frameworks can offer and what are the tradeoffs with comparison to the more commonly used ones such as Flask. Finally we will get to mention alternatives with slightly different approaches in this space such as Tornado.
+
+
+Recorded at the PyConDE & PyData Berlin 2022 conference, April 11-13 2022.
+https://2022.pycon.de
+More details at the conference page: https://2022.pycon.de/program/EQSRNN
+Twitter: https://twitter.com/pydataberlin
+Twitter: https://twitter.com/pyconde",https://i.ytimg.com/vi_webp/Kf65EVT5Eyg/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=Kf65EVT5Eyg,https://www.youtube.com/watch?v=Kf65EVT5Eyg
+11,Tobias Heintz: The state of DevOps for Python projects,https://www.youtube.com/watch?v=CedUm-1N7P8,CedUm-1N7P8,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20220512,2008,479,,,"community,cpython,devops,python,software engineering,testing",Science & Technology,"Speaker:: Tobias Heintz
+
+Track: PyCon: DevOps
+Let's take a look at the DevOps space through the eyes of a team of Python developers. Where does it stand today and where are we going?
+
+This talk showcases our approach of implementing DevOps techniques to streamline and accelerate our daily development. We will look at a number of real-world examples and best practices taken straight from the pipelines used at alcemy to release code several times a day.
+
+
+Recorded at the PyConDE & PyData Berlin 2022 conference, April 11-13 2022.
+https://2022.pycon.de
+More details at the conference page: https://2022.pycon.de/program/CEUZ87
+Twitter: https://twitter.com/pydataberlin
+Twitter: https://twitter.com/pyconde",https://i.ytimg.com/vi_webp/CedUm-1N7P8/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=CedUm-1N7P8,https://www.youtube.com/watch?v=CedUm-1N7P8
+12,Adam Serafini: Speeding up Python with Zig,https://www.youtube.com/watch?v=O0MmmZxdct4,O0MmmZxdct4,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20220512,1553,3620,,,"community,cpython,devops,python,software engineering,testing",Science & Technology,"Speaker:: Adam Serafini
+
+Track: PyCon: Libraries
+Zig is an almost drop-in replacement for C, and that includes directly importing and calling the Python C API without the use of FFI and/or bindings. This makes it an alternative candidate for implementing libraries that require C-like performance.
+
+
+Recorded at the PyConDE & PyData Berlin 2022 conference, April 11-13 2022.
+https://2022.pycon.de
+More details at the conference page: https://2022.pycon.de/program/DFWSQR
+Twitter: https://twitter.com/pydataberlin
+Twitter: https://twitter.com/pyconde",https://i.ytimg.com/vi_webp/O0MmmZxdct4/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=O0MmmZxdct4,https://www.youtube.com/watch?v=O0MmmZxdct4
+13,Tanmoy Bandyopadhyay: An Introduction to Inter Process Communication and Synchronization using Py...,https://www.youtube.com/watch?v=ovR5aBLPulI,ovR5aBLPulI,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20220512,5546,336,,,"community,cpython,devops,python,software engineering,testing",Science & Technology,"Speaker:: Tanmoy Bandyopadhyay
+
+Track: PyCon: Libraries
+IPC and Synchronization techniques using Python will be explained in this tutorial. We will 
+learn how to pass messages to processes using Queue and Pipes, share data between processes 
+using Shared Memory, effectively use Synchronization Primitives like Lock, Event, Condition 
+and Semaphore.
+
+
+Recorded at the PyConDE & PyData Berlin 2022 conference, April 11-13 2022.
+https://2022.pycon.de
+More details at the conference page: https://2022.pycon.de/program/VCTPVE
+Twitter: https://twitter.com/pydataberlin
+Twitter: https://twitter.com/pyconde",https://i.ytimg.com/vi_webp/ovR5aBLPulI/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=ovR5aBLPulI,https://www.youtube.com/watch?v=ovR5aBLPulI
+14,Andre Fröhlich: How to build a Python-based Research Cloud Platform from scratch,https://www.youtube.com/watch?v=a0KuuCwny3g,a0KuuCwny3g,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20220512,2546,406,,,"community,cpython,devops,python,software engineering,testing",Science & Technology,"Speaker:: Andre Fröhlich
+
+Track: General: Production
+This talk will present the journey of a quantitative asset manager from an outdated (non-Python) onPrem research setup to a modern Python-centric cloud research platform. We will examine the requirements and challenges associated with the project and present how we navigated finding the right solution for us among many alternatives.
+
+
+Recorded at the PyConDE & PyData Berlin 2022 conference, April 11-13 2022.
+https://2022.pycon.de
+More details at the conference page: https://2022.pycon.de/program/WWQGR8
+Twitter: https://twitter.com/pydataberlin
+Twitter: https://twitter.com/pyconde",https://i.ytimg.com/vi_webp/a0KuuCwny3g/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=a0KuuCwny3g,https://www.youtube.com/watch?v=a0KuuCwny3g
+15,Sebastiaan Zeeff: Demystifying Python's Internals: Diving into CPython by implementing a pipe ope...,https://www.youtube.com/watch?v=kSj1cO57GOE,kSj1cO57GOE,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20220512,1788,277,,,"community,cpython,devops,python,software engineering,testing",Science & Technology,"Speaker:: Sebastiaan Zeeff
+
+Track: PyCon: Python Language
+Diving into the CPython source code can feel daunting. Whether you want to start contributing or just want to get a better understanding of Python by exploring its source code, it’s often difficult to know where to start or what you’re missing.
+
+In my talk, I will show you around the CPython source code by implementing a new operator, a pipe operator. While doing so, I will discuss core parts of the internals, such as Python’s grammar, its syntax trees, and the underlying logic that will perform the operation. By the end, you will have a good idea of the moving parts involved in core language features.
+
+I will also take you through the steps necessary to make it all work. I’ll show you how I obtained a copy of the source code, regenerated the parser and token files, and how I compiled my modified version of CPython. I will also write and run tests to help me implement my changes. This should give you a mental framework that helps you while diving into more comprehensive resources, like the excellent [Python Developer’s Guide](https://devguide.python.org/).
+
+My talk is aimed at everyone who wants to explore CPython’s internals. You don’t have to be an expert in Python, although some affinity with Python helps with understanding the internals. I will also use C to implement some of the operator logic, but knowledge of C is by no means required. In short, if you’re interested in diving into the CPython source code, this talk is for you.
+
+
+Recorded at the PyConDE & PyData Berlin 2022 conference, April 11-13 2022.
+https://2022.pycon.de
+More details at the conference page: https://2022.pycon.de/program/7ZWBFV
+Twitter: https://twitter.com/pydataberlin
+Twitter: https://twitter.com/pyconde",https://i.ytimg.com/vi_webp/kSj1cO57GOE/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=kSj1cO57GOE,https://www.youtube.com/watch?v=kSj1cO57GOE
+16,"Sara Jakša: But this is an OAuth, is it not?",https://www.youtube.com/watch?v=VIS4ArPJ_Dw,VIS4ArPJ_Dw,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20220512,1317,105,,,"community,cpython,devops,python,software engineering,testing",Science & Technology,"Speaker:: Sara Jakša
+
+Track: PyCon: Web
+OAuth simplified and secured third-party integrations for the end user. But for the developer of the integration, it can still present some friction. This talk talks about examples of real-life problems that were encountered by implementing multiple OAuth integrations.
+
+
+Recorded at the PyConDE & PyData Berlin 2022 conference, April 11-13 2022.
+https://2022.pycon.de
+More details at the conference page: https://2022.pycon.de/program/XKJYW3
+Twitter: https://twitter.com/pydataberlin
+Twitter: https://twitter.com/pyconde",https://i.ytimg.com/vi_webp/VIS4ArPJ_Dw/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=VIS4ArPJ_Dw,https://www.youtube.com/watch?v=VIS4ArPJ_Dw
+17,Riya Bansal: Impact of Cultivating a Diverse and Inclusive Workplace,https://www.youtube.com/watch?v=jdM6VFjJYYM,jdM6VFjJYYM,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20220512,1689,244,,,"community,cpython,devops,python,software engineering,testing",Science & Technology,"Speaker:: Riya Bansal
+
+Track: General: Community, Diversity, Carreer, Life and everything else
+Let’s face it. The positive impact of diversity and inclusion is no longer debatable. Although diversity and inclusion (D&I) offers clear benefits, it’s difficult to implement. A major issue is that many companies believe they’re already promoting a diverse and inclusive culture. However, only 40 percent of employees agree that their manager fosters an inclusive environment. A diverse and inclusive environment establishes a sense of belonging among employees. When employees feel more connected at work, they tend to work harder and smarter, producing higher quality work. As a result, organizations that adopt D&I practices see huge gains in the form of business results, innovation, and decision-making.
+
+
+Recorded at the PyConDE & PyData Berlin 2022 conference, April 11-13 2022.
+https://2022.pycon.de
+More details at the conference page: https://2022.pycon.de/program/T8D89Z
+Twitter: https://twitter.com/pydataberlin
+Twitter: https://twitter.com/pyconde",https://i.ytimg.com/vi_webp/jdM6VFjJYYM/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=jdM6VFjJYYM,https://www.youtube.com/watch?v=jdM6VFjJYYM
+18,Philipp Stephan: Quitting pip: How we use git submodules to manage internal dependencies that req...,https://www.youtube.com/watch?v=02XbJ3dFTO8,02XbJ3dFTO8,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20220512,1755,1153,,,"community,cpython,devops,python,software engineering,testing",Science & Technology,"Speaker:: Philipp Stephan
+
+Track: PyCon: DevOps
+Everyone knows the pain of dependency management and things become especially complicated when you have to manage internal dependencies across many distinct repositories. After a review of the current state of Python dependency management, we’d like to present a versatile method of using git submodules to handle internal dependencies in a dockerized microservice architecture, where common libraries have to be iterated quickly.
+
+
+Recorded at the PyConDE & PyData Berlin 2022 conference, April 11-13 2022.
+https://2022.pycon.de
+More details at the conference page: https://2022.pycon.de/program/B3HC8S
+Twitter: https://twitter.com/pydataberlin
+Twitter: https://twitter.com/pyconde",https://i.ytimg.com/vi_webp/02XbJ3dFTO8/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=02XbJ3dFTO8,https://www.youtube.com/watch?v=02XbJ3dFTO8
+19,Paolo Melchiorre: Make the most of Django,https://www.youtube.com/watch?v=Bz7_wuuU1_s,Bz7_wuuU1_s,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20220512,1487,219,,,"community,cpython,devops,python,software engineering,testing",Science & Technology,"Speaker:: Paolo Melchiorre
+
+Track: PyCon: Django
+Taking full advantage of **Open Source** software means getting involved in its **community** and **contributing** to its development. We will see how this is profoundly true in the **Django** case as well.
+
+
+Recorded at the PyConDE & PyData Berlin 2022 conference, April 11-13 2022.
+https://2022.pycon.de
+More details at the conference page: https://2022.pycon.de/program/LWQFFK
+Twitter: https://twitter.com/pydataberlin
+Twitter: https://twitter.com/pyconde",https://i.ytimg.com/vi_webp/Bz7_wuuU1_s/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=Bz7_wuuU1_s,https://www.youtube.com/watch?v=Bz7_wuuU1_s
+20,Mike Müller: Aspect-oriented Programming - Diving deep into Decorators,https://www.youtube.com/watch?v=FMsap3_d_To,FMsap3_d_To,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20220512,5227,619,,,"community,cpython,devops,python,software engineering,testing",Science & Technology,"Speaker:: Mike Müller
+
+Track: PyCon: Programming & Software Engineering
+The aspect-oriented programming paradigm can support the separation of
+cross-cutting concerns such as logging, caching, or checking of permissions.
+This can improve code modularity and maintainability.
+Python offers decorator to implement re-usable code for cross-cutting task.
+
+This tutorial is an in-depth introduction to decorators.
+It covers the usage of decorators and how to implement simple and more advanced
+decorators.
+Use cases demonstrate how to work with decorators.
+In addition to showing how functions can use closures to create decorators,
+the tutorial introduces callable class instance as alternative.
+Class decorators can solve problems that use be to be tasks for metaclasses.
+The tutorial provides uses cases for class decorators.
+
+While the focus is on best practices and practical applications, the tutorial
+also provides deeper insight into how Python works behind the scene.
+After the tutorial participants will feel comfortable with functions that take
+functions and return new functions.
+
+
+Recorded at the PyConDE & PyData Berlin 2022 conference, April 11-13 2022.
+https://2022.pycon.de
+More details at the conference page: https://2022.pycon.de/program/L8XNVK
+Twitter: https://twitter.com/pydataberlin
+Twitter: https://twitter.com/pyconde",https://i.ytimg.com/vi_webp/FMsap3_d_To/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=FMsap3_d_To,https://www.youtube.com/watch?v=FMsap3_d_To
+21,Mark Smith: Stupid Things I've Done With Python,https://www.youtube.com/watch?v=_MDksZlA9Bo,_MDksZlA9Bo,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20220515,1740,1299,,,"community,cpython,devops,python,software engineering,testing",Science & Technology,"Speaker:: Mark Smith
+
+Track: PyCon: Programming & Software Engineering
+On every computer I've had for the past 20 years, I've created a folder called ""stupid python tricks"".
+It's where I put code that should never see the light of day.
+Code that abuses advanced features like decorators, metaclasses, and dynamic typing to do terrible things.
+
+Code I'm going to teach you.
+
+
+Recorded at the PyConDE & PyData Berlin 2022 conference, April 11-13 2022.
+https://2022.pycon.de
+More details at the conference page: https://2022.pycon.de/program/N9RV8L
+Twitter: https://twitter.com/pydataberlin
+Twitter: https://twitter.com/pyconde",https://i.ytimg.com/vi_webp/_MDksZlA9Bo/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=_MDksZlA9Bo,https://www.youtube.com/watch?v=_MDksZlA9Bo
+22,Marianne Stecklina: jsonargparse - Say goodbye to configuration hassles,https://www.youtube.com/watch?v=2gDf2S0nHKg,2gDf2S0nHKg,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20220512,1978,982,,,"community,cpython,devops,python,software engineering,testing",Science & Technology,"Speaker:: Marianne Stecklina
+
+Track: PyCon: Libraries
+Did you ever find yourself in one of the following situations?
+
+* You hard-coded a parameter and now you really wish you could easily change it.
+* A proper command line interface would be nice, but you are way too lazy to write a lot of code for it.
+* You have a bunch of config files for different runs which only differ in a few entries.
+
+In this talk, you'll learn how to easily manage the situations described above using the open-source library [jsonargparse](https://github.com/omni-us/jsonargparse).
+
+If you are new to this topic, this talk can hopefully save you configuration-related frustrations in the future.
+If you are already using the likes of click, fire, typer or hydra, you'll get to know some of jsonargparse's advanced features that your current tool might be missing.
+
+
+Recorded at the PyConDE & PyData Berlin 2022 conference, April 11-13 2022.
+https://2022.pycon.de
+More details at the conference page: https://2022.pycon.de/program/XK73C3
+Twitter: https://twitter.com/pydataberlin
+Twitter: https://twitter.com/pyconde",https://i.ytimg.com/vi_webp/2gDf2S0nHKg/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=2gDf2S0nHKg,https://www.youtube.com/watch?v=2gDf2S0nHKg
+23,Maarten Huijsmans: 5 Things we've learned building large APIs with FastAPI,https://www.youtube.com/watch?v=DpCuo5fiKME,DpCuo5fiKME,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20220512,1616,569,,,"community,cpython,devops,python,software engineering,testing",Science & Technology,"Speaker:: Maarten Huijsmans
+
+Track: PyCon: Web
+FastAPI has become a very popular framework for building high-performance and well documented APIs in Python 3.6+. In this talk we share 5 things we've learned while building multiple APIs at InvestSuite.
+
+
+Recorded at the PyConDE & PyData Berlin 2022 conference, April 11-13 2022.
+https://2022.pycon.de
+More details at the conference page: https://2022.pycon.de/program/KXJP7B
+Twitter: https://twitter.com/pydataberlin
+Twitter: https://twitter.com/pyconde",https://i.ytimg.com/vi_webp/DpCuo5fiKME/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=DpCuo5fiKME,https://www.youtube.com/watch?v=DpCuo5fiKME
+24,Laysa Uchoa: Python 3.10: Welcome to pattern matching!,https://www.youtube.com/watch?v=bBMX0ddR3XI,bBMX0ddR3XI,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20220512,1727,442,,,"community,cpython,devops,python,software engineering,testing",Science & Technology,"Speaker:: Laysa Uchoa
+
+Track: PyCon: Python Language
+Python 3.10 is out and a new way of thinking about programming was brought to the Python language - Pattern Matching. We will go through how to use this feature in different scenarios and you will learn how simple, yet powerful Pattern Matching really is. 
+
+This talk and you, it is a match!
+
+
+Recorded at the PyConDE & PyData Berlin 2022 conference, April 11-13 2022.
+https://2022.pycon.de
+More details at the conference page: https://2022.pycon.de/program/PYS7G8
+Twitter: https://twitter.com/pydataberlin
+Twitter: https://twitter.com/pyconde",https://i.ytimg.com/vi_webp/bBMX0ddR3XI/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=bBMX0ddR3XI,https://www.youtube.com/watch?v=bBMX0ddR3XI
+25,Jürgen Gmach: How to Find Your Way Through a Million Lines of Code,https://www.youtube.com/watch?v=5nRW3KNgpls,5nRW3KNgpls,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20220512,1751,415,,,"community,cpython,devops,python,software engineering,testing",Science & Technology,"Speaker:: Jürgen Gmach
+
+Track: PyCon: Programming & Software Engineering
+No matter whether you are starting a new job or you want to contribute to an open-source project,
+learning a new code base can be intimidating.
+
+This is especially true for code bases with more than one million lines of code.
+
+This talk will show you approaches, techniques and tools on how to master a new code base.
+
+
+Recorded at the PyConDE & PyData Berlin 2022 conference, April 11-13 2022.
+https://2022.pycon.de
+More details at the conference page: https://2022.pycon.de/program/WHVGAX
+Twitter: https://twitter.com/pydataberlin
+Twitter: https://twitter.com/pyconde",https://i.ytimg.com/vi_webp/5nRW3KNgpls/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=5nRW3KNgpls,https://www.youtube.com/watch?v=5nRW3KNgpls
+26,Jonathan Oberländer Patrick Schemitz: Building an ORM from scratch,https://www.youtube.com/watch?v=1NN__kmMtAQ,1NN__kmMtAQ,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20220512,2083,764,,,"community,cpython,devops,python,software engineering,testing",Science & Technology,"Speaker:: Jonathan Oberländer Patrick Schemitz
+
+Track: PyCon: Libraries
+Have you ever wondered how Django, SQLAlchemy, and PonyORM can translate Python objects into database rows? How complicated can this really be? In this talk we will be creating our own (limited) ORM from scratch, starting from almost nothing and finishing with a library that can define relational models, translate simple and (somewhat) complex queries into a database query, and create and apply migrations, all while hiding the details behind a Python interface.
+
+
+Recorded at the PyConDE & PyData Berlin 2022 conference, April 11-13 2022.
+https://2022.pycon.de
+More details at the conference page: https://2022.pycon.de/program/LKHQ9J
+Twitter: https://twitter.com/pydataberlin
+Twitter: https://twitter.com/pyconde",https://i.ytimg.com/vi/1NN__kmMtAQ/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=1NN__kmMtAQ,https://www.youtube.com/watch?v=1NN__kmMtAQ
+27,Jannis Grönberg: Battle of Pipelines - who will win python orchestration in 2022?,https://www.youtube.com/watch?v=xy5hLKfGGTs,xy5hLKfGGTs,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20220512,1811,1661,,,"community,cpython,devops,python,software engineering,testing",Science & Technology,"Speaker:: Jannis Grönberg
+
+Track: PyCon: DevOps
+Python is used for a wide variety of applications in data science, scientific computing, and other complex enterprise-level products. When building production-ready products, there is no way around using a suitable framework that triggers the different set of pipelines handling the dataflow. Nowadays, there is an enormous landscape of orchestration tools, making it easy to lose track of their various advantages and disadvantages. This talk will take a look at the current landscape of orchestration tools in Python. Specifically focusing on Kubeflow, Airflow and Prefect and which of them are best suited in terms of performance, usability, and effort of implementation and maintenance.
+
+
+Recorded at the PyConDE & PyData Berlin 2022 conference, April 11-13 2022.
+https://2022.pycon.de
+More details at the conference page: https://2022.pycon.de/program/DPFV7C
+Twitter: https://twitter.com/pydataberlin
+Twitter: https://twitter.com/pyconde",https://i.ytimg.com/vi_webp/xy5hLKfGGTs/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=xy5hLKfGGTs,https://www.youtube.com/watch?v=xy5hLKfGGTs
+28,"Grigory Petrov Maxim Danilov: ""Easy Python"": lies, damned lies, and metaclasses",https://www.youtube.com/watch?v=lRQgJh3Iu78,lRQgJh3Iu78,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20220512,2511,482,,,"community,cpython,devops,python,software engineering,testing",Science & Technology,"Speaker:: Grigory Petrov Maxim Danilov
+
+Track: PyCon: Python Language
+We often refer to Python as a ""simple, executable pseudo-code"" language. Such statements appear in books, tutorials and all over the Internet. But after junior developers join their first full-time job they are welcomed by protocols, decorators, context managers, metaclasses and rest of the ""real Python"" shenanigans. During my talk I will cover top-10 Python complexities and how they are required to fight the ""software complexity problem"" in big projects.
+
+
+Recorded at the PyConDE & PyData Berlin 2022 conference, April 11-13 2022.
+https://2022.pycon.de
+More details at the conference page: https://2022.pycon.de/program/BG37DV
+Twitter: https://twitter.com/pydataberlin
+Twitter: https://twitter.com/pyconde",https://i.ytimg.com/vi/lRQgJh3Iu78/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=lRQgJh3Iu78,https://www.youtube.com/watch?v=lRQgJh3Iu78
+29,Gina Häußge: How to deal with toxic people,https://www.youtube.com/watch?v=7lIpP3GEyXs,7lIpP3GEyXs,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20220512,1785,1403,,,"community,cpython,devops,python,software engineering,testing",Science & Technology,"Speaker:: Gina Häußge
+
+Track: General: Community, Diversity, Carreer, Life and everything else
+As an open source maintainer, sooner or later you'll encounter ungrateful, entitled or outright toxic people who can be a real drain on your motivation and general mental health. In this session I'll first show some examples of such situations, then share some coping strategies that I've successfully used to deal with them. I'll also share some things that everyone can do to help maintainers and open source communities in responding to negativity.
+
+
+Recorded at the PyConDE & PyData Berlin 2022 conference, April 11-13 2022.
+https://2022.pycon.de
+More details at the conference page: https://2022.pycon.de/program/WPR7DK
+Twitter: https://twitter.com/pydataberlin
+Twitter: https://twitter.com/pyconde",https://i.ytimg.com/vi_webp/7lIpP3GEyXs/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=7lIpP3GEyXs,https://www.youtube.com/watch?v=7lIpP3GEyXs
+30,Gajendra Deshpande: Securing Django Applications,https://www.youtube.com/watch?v=d0vzeb_viwU,d0vzeb_viwU,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20220512,1675,222,,,"community,cpython,devops,python,software engineering,testing",Science & Technology,"Speaker:: Gajendra Deshpande
+
+Track: PyCon: Django
+Django is the most popular Python-based web framework used for creating web applications. The web applications are vulnerable for various reasons including a) configuration settings of the web applications b) lack of implementation of security best practices and secure coding and c) lack of awareness of secure first web applications among developers. The vulnerable web applications put the data of the customers at greater risk and the compromised code can lead to problems beyond control. It is very important to develop secure web applications to protect customer data and code to mitigate the risk. In this talk, we will focus on two aspects. First, performing penetration testing on Django web applications to identify vulnerabilities and scanning for Open Web Application Security Project (OWASP) Top 10 risks. Second, strategies and configuration settings for making the source code and Django applications secure. We will also discuss the Djangohunter tool to identify incorrectly configured Django applications that are exposing sensitive information.
+
+
+Recorded at the PyConDE & PyData Berlin 2022 conference, April 11-13 2022.
+https://2022.pycon.de
+More details at the conference page: https://2022.pycon.de/program/8MWCQG
+Twitter: https://twitter.com/pydataberlin
+Twitter: https://twitter.com/pyconde",https://i.ytimg.com/vi/d0vzeb_viwU/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=d0vzeb_viwU,https://www.youtube.com/watch?v=d0vzeb_viwU
+31,"Florian Bruhin: pytest - simple, rapid and fun testing with Python (3 hours)",https://www.youtube.com/watch?v=ofPHJrAOaTE,ofPHJrAOaTE,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20220512,7830,4560,,,"community,cpython,devops,python,software engineering,testing",Science & Technology,"Speaker:: Florian Bruhin
+
+Track: PyCon: Testing
+The pytest tool presents a rapid and simple way to write tests for your Python code. This training gives an introduction with exercises to some distinguishing features. We'll also examine how to run existing non-pytest test suites and discuss migration strategies. Various plugins which extend pytest's functionality even further will be introduced.
+
+
+Recorded at the PyConDE & PyData Berlin 2022 conference, April 11-13 2022.
+https://2022.pycon.de
+More details at the conference page: https://2022.pycon.de/program/W93DBJ
+Twitter: https://twitter.com/pydataberlin
+Twitter: https://twitter.com/pyconde",https://i.ytimg.com/vi_webp/ofPHJrAOaTE/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=ofPHJrAOaTE,https://www.youtube.com/watch?v=ofPHJrAOaTE
+32,Efe Öge: It is all about files and HTTP,https://www.youtube.com/watch?v=U-2k0ovzAPg,U-2k0ovzAPg,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20220512,1685,339,,,"community,cpython,devops,python,software engineering,testing",Science & Technology,"Speaker:: Efe Öge
+
+Track: PyCon: Web
+Why do some .pdf files open in a browser at a lick? At the same time, others wait for the answer of where to download? I know that some pages load as fast as lightning. Besides, There are examples which just poodle along. In this presentation, The reasons and solutions will come up.
+
+
+Recorded at the PyConDE & PyData Berlin 2022 conference, April 11-13 2022.
+https://2022.pycon.de
+More details at the conference page: https://2022.pycon.de/program/SVZEXS
+Twitter: https://twitter.com/pydataberlin
+Twitter: https://twitter.com/pyconde",https://i.ytimg.com/vi_webp/U-2k0ovzAPg/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=U-2k0ovzAPg,https://www.youtube.com/watch?v=U-2k0ovzAPg
+33,David Melamed: Forget Mono vs. Multi-Repo - Building Centralized Git Workflows with Python,https://www.youtube.com/watch?v=Q-H5plbl-zU,Q-H5plbl-zU,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20220512,1742,331,,,"community,cpython,devops,python,software engineering,testing",Science & Technology,"Speaker:: David Melamed
+
+Track: PyCon: DevOps
+The mono vs. multi-repo is an age-old debate in the DevOpsphere, and one that can still cause flame wars.  What if I were to tell you that you don't have to choose?
+
+In this talk we will dive into how we built a centralized Git workflow that can work with any kind of repo architecture, delivered with Python.
+
+
+Recorded at the PyConDE & PyData Berlin 2022 conference, April 11-13 2022.
+https://2022.pycon.de
+More details at the conference page: https://2022.pycon.de/program/9ZVQE7
+Twitter: https://twitter.com/pydataberlin
+Twitter: https://twitter.com/pyconde",https://i.ytimg.com/vi_webp/Q-H5plbl-zU/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=Q-H5plbl-zU,https://www.youtube.com/watch?v=Q-H5plbl-zU
+34,Cheuk Ting Ho: Trojan Source Malware - Can we trust open-source anymore?,https://www.youtube.com/watch?v=cm5lI5u9-eE,cm5lI5u9-eE,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20220512,1639,126,,,"community,cpython,devops,python,software engineering,testing",Science & Technology,"Speaker:: Cheuk Ting Ho
+
+Track: PyCon: Python Language
+Recently, a paper is published to demonstrate how a visibly valid contribution can contain malicious code by exporting the Unicode control characters. Some of these attacks has been tested on Python and it works. Shall the Python and open-source communities be concerned?
+
+
+Recorded at the PyConDE & PyData Berlin 2022 conference, April 11-13 2022.
+https://2022.pycon.de
+More details at the conference page: https://2022.pycon.de/program/HYGPW9
+Twitter: https://twitter.com/pydataberlin
+Twitter: https://twitter.com/pyconde",https://i.ytimg.com/vi_webp/cm5lI5u9-eE/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=cm5lI5u9-eE,https://www.youtube.com/watch?v=cm5lI5u9-eE
+35,Bas Steins: Advanced Django ORM,https://www.youtube.com/watch?v=F1vaEBDxAig,F1vaEBDxAig,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20220512,2079,1596,,,"community,cpython,devops,python,software engineering,testing",Science & Technology,"Speaker:: Bas Steins
+
+Track: PyCon: Django
+The Django ORM is one of the most powerful ORM in the Python space. We will look at implementing complex queries and constraints as well as performance optimisations for queries and models in Django ORM.
+
+
+Recorded at the PyConDE & PyData Berlin 2022 conference, April 11-13 2022.
+https://2022.pycon.de
+More details at the conference page: https://2022.pycon.de/program/W8KUG3
+Twitter: https://twitter.com/pydataberlin
+Twitter: https://twitter.com/pyconde",https://i.ytimg.com/vi_webp/F1vaEBDxAig/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=F1vaEBDxAig,https://www.youtube.com/watch?v=F1vaEBDxAig
