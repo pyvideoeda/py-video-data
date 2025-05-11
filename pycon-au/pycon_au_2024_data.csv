@@ -1,0 +1,1350 @@
+﻿index,title,url,video_id,uploader,uploader_id,uploader_url,upload_date,duration,view_count,like_count,comment_count,tags,categories,description,thumbnail,age_limit,is_live,was_live,availability,webpage_url,original_url
+1,Dependency management: the cause of—and solution to—all supply chain problems,https://www.youtube.com/watch?v=6JGH2g1a3PM,6JGH2g1a3PM,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20241203,1799,618,15,,"NickyRingland,pyconau,pyconau_2024",Education,"(Nicky Ringland) How many dependencies does your software project have? How much confidence do you have in them? We sometimes say in open source there is safety in ‘eyes on the code’, but with supply chain attacks on the rise, who is really watching?
+
+Most software is built with hundreds if not thousands of direct and transitive dependencies, and those dependencies change every day. Our analysis shows that up to 20% of PyPI packages change their dependency graphs multiple times per week. Ensuring that each one of these dependencies is trustworthy is a daunting task.
+
+In this talk, we will share some stats and stories from building deps.dev. We will look at what it means for a project to be healthy, dig into the complexities of dependency resolution algorithms, and recommend tools that can make practical dependency management possible if not easy.
+
+https://pretalx.com/pycon-au-2024/talk/P7UKEN/
+
+python, pycon, australia, programming, conference, technical, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science
+
+Videos licensed as CC-BY-NC-SA 4.0
+
+PyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Sun Nov 24 11:15:00 2024 at Door 12 / Goldfields Theatre",https://i.ytimg.com/vi/6JGH2g1a3PM/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=6JGH2g1a3PM,https://www.youtube.com/watch?v=6JGH2g1a3PM
+2,"""How Smart is AI? – Real projects to build real understanding"" - Renee Noble (Pycon AU 2024)",https://www.youtube.com/watch?v=jDul0lMK0bY,jDul0lMK0bY,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20241203,1927,504,7,,"ReneeNoble,pyconau,pyconau_2024",Education,"(Renee Noble) Chat GPT is all the rage in schools, and everyone is talking about AI, but how do we give students a real understanding of AI’s capabilities and limitations? In this talk I’ll demo how you can get students coding their own projects that explore (free) GPT technologies, integrating their own data sources, and contemplating when AI is the right solution.
+
+https://pretalx.com/pycon-au-2024/talk/YYN7YH/
+
+python, pycon, australia, programming, conference, technical, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science
+
+Videos licensed as CC-BY-NC-SA 4.0
+
+PyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Fri Nov 22 11:00:00 2024 at Eureka 2",https://i.ytimg.com/vi/jDul0lMK0bY/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=jDul0lMK0bY,https://www.youtube.com/watch?v=jDul0lMK0bY
+3,"""Walking the Tree of Life – Adventures in Phylogenetics"" - Jack Reichelt (Pycon AU 2024)",https://www.youtube.com/watch?v=DKd0fXRov70,DKd0fXRov70,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20241203,1751,245,11,,"JackReichelt,pyconau,pyconau_2024",Education,"(Jack Reichelt) ""What's the last common ancestor of a bear and a weasel?""
+""Which animals are more related to pigs than cows?""
+""Are birds reptiles?""
+""Am I a fish?""
+
+With a recent interest in phylogeny – the science of evolution, diversification, and speciation – these are the kinds of questions I've been asking myself. I wanted to find a tool that would let me examine the relationships between species and find the answers to these questions, but, as I looked around I couldn't find anything that did what I wanted. So I made it myself.
+
+Come with me as I share my journey that led me to talk to some of Australia's top scientists, give up on talking to other top scientists, and accidentally stumble my way into making an actual contribution to science. Learn why I made this tool, how I made this tool, what stage it's at, and where you can use it yourself. And maybe learn some things about life on Earth along the way.
+
+Oh, and to answer the questions above: dog-bears, peccaries, yes, and yes!
+
+https://pretalx.com/pycon-au-2024/talk/YNDDJR/
+
+python, pycon, australia, programming, conference, technical, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science
+
+Videos licensed as CC-BY-NC-SA 4.0
+
+PyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Sat Nov 23 14:50:00 2024 at Eureka 2",https://i.ytimg.com/vi/DKd0fXRov70/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=DKd0fXRov70,https://www.youtube.com/watch?v=DKd0fXRov70
+4,"Let's make a working implementation of async functions in Python 2.1, also, why you might want to us",https://www.youtube.com/watch?v=JfZvqmo1-94,JfZvqmo1-94,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20241202,1757,666,17,,"ChristopherNeugebauer,pyconau,pyconau_2024",Education,"(Christopher Neugebauer) Often I hear people lamenting that Python has too many features and that older versions of Python were better for that exact reason.
+
+To make those people happy, we're going to pick apart the features of Python that enable the `async`/`await` syntax, layer by layer, until we happen upon a working implementation of coroutines that will function in Python 2.1.
+
+Somewhere in this talk will be some useful discussions about why recent syntactic developments in Python are a good thing actually, but let's not lie, you're reading this abstract for the stunt content. You'll get what you came for.
+
+https://pretalx.com/pycon-au-2024/talk/R9ZKZC/
+
+python, pycon, australia, programming, conference, technical, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science
+
+Videos licensed as CC-BY-NC-SA 4.0
+
+PyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Sat Nov 23 13:30:00 2024 at Door 12 / Goldfields Theatre",https://i.ytimg.com/vi/JfZvqmo1-94/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=JfZvqmo1-94,https://www.youtube.com/watch?v=JfZvqmo1-94
+5,"""AI perceptions of gender"" - J. Rosenbaum (Pycon AU 2024)",https://www.youtube.com/watch?v=ZVtQ7JcGZyY,ZVtQ7JcGZyY,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20241202,1608,225,2,,"J.Rosenbaum,pyconau,pyconau_2024",Education,"(J. Rosenbaum) Why does AI perceive gender? Is this something that can be fixed? Should it be fixed? Explore the results of my research encompassing art, AI and gender theory to find out the why and how of gender perception.
+
+https://pretalx.com/pycon-au-2024/talk/JD8WMZ/
+
+python, pycon, australia, programming, conference, technical, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science
+
+Videos licensed as CC-BY-NC-SA 4.0
+
+PyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Sat Nov 23 10:40:00 2024 at Eureka 2",https://i.ytimg.com/vi/ZVtQ7JcGZyY/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=ZVtQ7JcGZyY,https://www.youtube.com/watch?v=ZVtQ7JcGZyY
+6,Three Django Apps in a Trenchcoat: Writing an event management website with not a lot of time,https://www.youtube.com/watch?v=xNvvTNCmKLk,xNvvTNCmKLk,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20241202,1354,457,12,,"LukeByrnes,MattCengia,pyconau,pyconau_2024",Education,"(Matt Cengia, Luke Byrnes) Come and hear how we wrote 3 Django apps in a trenchcoat to run a ~300+ person Scout camp, from making event registration a breeze, to conducting everyone's movements throughout the entire event.
+
+https://pretalx.com/pycon-au-2024/talk/S7E8T7/
+
+python, pycon, australia, programming, conference, technical, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science
+
+Videos licensed as CC-BY-NC-SA 4.0
+
+PyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Sun Nov 24 14:10:00 2024 at Eureka 2",https://i.ytimg.com/vi/xNvvTNCmKLk/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=xNvvTNCmKLk,https://www.youtube.com/watch?v=xNvvTNCmKLk
+7,"""Making an open source package - lessons learned"" - Tennessee Leeuwenburg (Pycon AU 2024)",https://www.youtube.com/watch?v=o6pJtm6epVA,o6pJtm6epVA,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20241202,1919,368,20,,"TennesseeLeeuwenburg,pyconau,pyconau_2024",Education,"(Tennessee Leeuwenburg) Making an open source package is pretty hard in 2024. Expectations are high, and there’s a lot to take into account. I recently developed an open source package. This talk covers what worked, what didn’t work, what I would do again and what I would do differently.
+
+I developed an open source package called “scores” ( https://github.com/nci/scores , https://scores.readthedocs.io/ ).  This is not a presentation about what “scores” does, but instead covers the lessons I learned. Despite being an experienced software developer and having used lots of open source software, there was still a lot to learn (and a lot to figure out) about open source package maintenance.
+
+Every package is different, but this is what I did and these are the lessons I learned. 
+
+- Technical Matters:
+    - How to lay things out on disk
+    - Configuration files
+    - Automated testing
+    - Type hinting
+    - Linting and other static analysis tools
+    - Code layout and design
+- Documentation:
+    - What documentation to produce
+    - Picking and using a tech stack
+    - Rendering (documentation often renders differently in different locations)
+- Ecosystem Integration:
+    - How to fit in well with the tools around you
+    - Versioning 
+    - Publishing to PyPI
+    - How and what to automate
+    - How to do releases
+- Community Considerations:
+    - Code review standards
+    - Clear presentation of information
+    - Understanding your user base and audience
+
+https://pretalx.com/pycon-au-2024/talk/MW7E7N/
+
+python, pycon, australia, programming, conference, technical, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science
+
+Videos licensed as CC-BY-NC-SA 4.0
+
+PyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Sat Nov 23 10:40:00 2024 at Door 12 / Goldfields Theatre",https://i.ytimg.com/vi/o6pJtm6epVA/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=o6pJtm6epVA,https://www.youtube.com/watch?v=o6pJtm6epVA
+8,"""Track Closing - Devoops"" - Yaakov, Aurynn Shaw, Justin Warren (Pycon AU 2024)",https://www.youtube.com/watch?v=KR7i4pfKhDU,KR7i4pfKhDU,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20241202,322,79,2,,"AurynnShaw,JustinWarren,Yaakov,pyconau,pyconau_2024",Education,"(Yaakov, Aurynn Shaw, Justin Warren) Track closing
+
+https://pretalx.com/pycon-au-2024/talk/ZYM93Z/
+
+python, pycon, australia, programming, conference, technical, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science
+
+Videos licensed as CC-BY-NC-SA 4.0
+
+PyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Fri Nov 22 16:30:00 2024 at Eureka 3",https://i.ytimg.com/vi/KR7i4pfKhDU/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=KR7i4pfKhDU,https://www.youtube.com/watch?v=KR7i4pfKhDU
+9,"""Causal Discovery in Python"" - Lizzie Silver (Pycon AU 2024)",https://www.youtube.com/watch?v=M2lL2gcLU-k,M2lL2gcLU-k,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20241201,1584,691,28,,"LizzieSilver,pyconau,pyconau_2024",Education,"(Lizzie Silver) A review and comparison of software available for causal discovery in Python. Causal discovery means learning ""what causes what"" from your data. The input is a tabular dataset; the output is a causal graphical model (or a set of potential models) over your features. If feature A affects feature B, there should be an arrow A-→B in the causal graphical model. Causal discovery is useful for hypothesis generation, experiment selection, and for testing our assumptions around causation.
+
+I'll give a brief intro to causal discovery, then review the following packages: py-tetrad, causal-learn, tigramite, causalnex, and cdt (causal discovery toolbox). The packages have some overlap but different emphases: each one implements at least one algorithm not covered by the other packages, making them useful in different situations. If time permits I'll finish with a quick demo, showing each package learning a model from the same dataset.
+
+https://pretalx.com/pycon-au-2024/talk/ACKK3A/
+
+python, pycon, australia, programming, conference, technical, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science
+
+Videos licensed as CC-BY-NC-SA 4.0
+
+PyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Fri Nov 22 09:20:00 2024 at Door 12 / Goldfields Theatre",https://i.ytimg.com/vi/M2lL2gcLU-k/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=M2lL2gcLU-k,https://www.youtube.com/watch?v=M2lL2gcLU-k
+10,ML ain’t your only hammer: adding mathematical optimisation to the data scientist’s toolbox,https://www.youtube.com/watch?v=G0tlyC9Sr3w,G0tlyC9Sr3w,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20241201,1154,2280,92,,"DrJackSimpson,pyconau,pyconau_2024",Education,"(Dr Jack Simpson) The purpose of this presentation is to introduce the audience to the field of mathematical optimisation - what it is, how it differs from machine learning, and the types of problems it is best suited to solve.
+
+The first section will provide this context and background - describing the anatomy of an optimisation problem, and what the model building process looks like. We will touch on the characteristics common to optimisation problems seen across multiple industries.
+
+We will then build a simple optimisation model together, demonstrating how the model building process compares to the machine learning approach.
+
+Finally, we will end by exploring some of the most fascinating applications of mathematical optimisation in industry, focussing on the characteristics that the audience can map to challenges that are specific to their own industry.
+
+https://pretalx.com/pycon-au-2024/talk/LGDUVR/
+
+python, pycon, australia, programming, conference, technical, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science
+
+Videos licensed as CC-BY-NC-SA 4.0
+
+PyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Sat Nov 23 12:00:00 2024 at Eureka 2",https://i.ytimg.com/vi/G0tlyC9Sr3w/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=G0tlyC9Sr3w,https://www.youtube.com/watch?v=G0tlyC9Sr3w
+11,Introducing Potnia: A Python language library for the conversion of ancient texts to Unicode,https://www.youtube.com/watch?v=7h4G53etywI,7h4G53etywI,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20241201,1768,690,16,,"EmilyTour,KabirManandharShrestha,pyconau,pyconau_2024",Education,"(Emily Tour, Kabir Manandhar Shrestha) The last five years have seen a significant increase in the application of machine learning to the study of ancient scripts. Applications are broad, and include recognition via Optical Character Recognition (OCR), textual restoration, palaeographic analysis, topic modelling, representation learning, decipherment and machine translation (Sommerschield 2023). A large number of ancient language corpora have been digitised in recent decades, supporting this research. However, while the necessary Unicode blocks for many of these ancient scripts are available, a number of these data sets are still presented as Romanised transliterations.
+
+In response to this situation, we have created Potnia (https://pypi.org/project/potnia/), an open-source Python language library under the Apache 2.0 license, designed to convert such transliterated texts to Unicode. The session image accompanying this proposal provides an example of Potnia’s conversion process, with a Romanised transliteration of a Linear B text as the input, and the Unicode representation of this same text as the output. This conversion is crucial for downstream machine learning tasks, as tokenisation in the original Unicode script allows for more accurate representation of linguistic structures and mitigates potential biases introduced by transliteration.
+
+Potnia's flexible architecture, built on Python's object-oriented principles, employs string manipulation techniques and regular expressions to handle various complexities inherent in ancient texts, such as uncertain readings, missing elements, and script-specific notations. At present, the library can be used for Linear B texts, with functionality for Linear A, Sumerian and Akkadian soon to follow.
+
+Potnia's design allows for easy addition of new scripts, each with its own set of rules for tokenisation, regularisation, and character mapping. This extensibility positions us well for future inclusion of additional scripts. To ensure reliability and facilitate open-source contributions, we've implemented a comprehensive test suite using pytest, with test cases defined in YAML files for easy expansion. This approach covers key functionalities across different scripts and simplifies the process of adding new test scenarios as the library grows.
+
+‹b›‹em›References‹/em›‹/b›
+Sommerschield, T., Y. Assael, J. Pavlopoulos, V. Stefanak, A. Senior, C. Dyer, J. Bodel, J. Prag, I. Androutsopoulos, and N.D. Freitas. 2023. “Machine Learning for Ancient Languages: A Survey.” ‹em›Computational Linguistics‹/em› 49 (3): 1–45. doi:10.1162/coli_a_00481.
+
+https://pretalx.com/pycon-au-2024/talk/HMWPGH/
+
+python, pycon, australia, programming, conference, technical, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science
+
+Videos licensed as CC-BY-NC-SA 4.0
+
+PyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Sat Nov 23 13:30:00 2024 at Eureka 2",https://i.ytimg.com/vi/7h4G53etywI/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=7h4G53etywI,https://www.youtube.com/watch?v=7h4G53etywI
+12,Rethinking Data Catalogs: The Promise and Pitfalls,https://www.youtube.com/watch?v=uWYdujKI-lI,uWYdujKI-lI,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20241201,1862,320,12,,"HarmeetSokhi,VishalSrivastava,pyconau,pyconau_2024",Education,"(Harmeet Sokhi, Vishal Srivastava) The promise of data catalogs, a single source of truth for your organisation's data, often clashes with the reality of under-utilised features, redundancy across various data catalog solutions across teams, adoption challenges and a lack of clear strategy.
+
+
+This talk will pose some critical questions concerning current approaches of choosing and implementing data catalogs:
+
+
+- Do you actually need a Data catalog?
+- Are data catalogs becoming just glorified registries without much practical use?
+- Why do organisations find themselves juggling multiple catalogs?
+- Is there a synergy between System Catalog & Data Catalog?
+- How do you identify the right fit and what are the considerations?
+- How to measure success for a data catalog?
+
+We'll dissect the reasons behind these challenges and share our experience of implementing data catalogs across different organisations.
+
+https://pretalx.com/pycon-au-2024/talk/U3YKPB/
+
+python, pycon, australia, programming, conference, technical, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science
+
+Videos licensed as CC-BY-NC-SA 4.0
+
+PyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Sun Nov 24 11:15:00 2024 at Eureka 2",https://i.ytimg.com/vi/uWYdujKI-lI/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=uWYdujKI-lI,https://www.youtube.com/watch?v=uWYdujKI-lI
+13,"""Using Multiple Databases in Django Applications"" - Artem Kolesnikov (Pycon AU 2024)",https://www.youtube.com/watch?v=a-INFJlVfx0,a-INFJlVfx0,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20241201,1805,238,17,,"ArtemKolesnikov,pyconau,pyconau_2024",Education,"(Artem Kolesnikov) Over six years ago, three engineers from Sydney started working on an insurtech platform with global ambitions. They chose Django, even though two of them had no prior experience with the framework. Nevertheless, the project became a success, affirming that choosing Django was a great technical decision.
+
+This is a real-life story about the challenges the team faced while scaling the project and changing the database architecture, all while maintaining uninterrupted services for millions of customers. We will cover some of the key technical decisions the team made, how Django supported us in migrating from a single database to a multi-database architecture, and examine the architectural benefits of using multiple databases in data-intensive applications.
+
+https://pretalx.com/pycon-au-2024/talk/8HBU3Z/
+
+python, pycon, australia, programming, conference, technical, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science
+
+Videos licensed as CC-BY-NC-SA 4.0
+
+PyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Sun Nov 24 10:35:00 2024 at Eureka 3",https://i.ytimg.com/vi/a-INFJlVfx0/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=a-INFJlVfx0,https://www.youtube.com/watch?v=a-INFJlVfx0
+14,How to confirm that the index you added actually improves query performance,https://www.youtube.com/watch?v=MlCQAaL6V3U,MlCQAaL6V3U,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20241201,1726,442,11,,"SuzannahCooper,pyconau,pyconau_2024",Education,"(Suzannah Cooper) Database indexes allow us to speed up queries by providing a method to quickly look up data. However, do we always check that they actually improve performance? In this talk, I explain how and why an automatically added database index did not get used by the queries we expected. Together we will go through SQL produced from Django ORM, index structures and generating database query plans to unravel what was actually going on behind the scenes in our queries.
+
+https://pretalx.com/pycon-au-2024/talk/9ZRRJY/
+
+python, pycon, australia, programming, conference, technical, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science
+
+Videos licensed as CC-BY-NC-SA 4.0
+
+PyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Sun Nov 24 11:15:00 2024 at Eureka 3",https://i.ytimg.com/vi/MlCQAaL6V3U/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=MlCQAaL6V3U,https://www.youtube.com/watch?v=MlCQAaL6V3U
+15,"""Conference Closing (Saturday)"" - Peter Hall (Pycon AU 2024)",https://www.youtube.com/watch?v=mUKdhgNvAFU,mUKdhgNvAFU,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20241201,126,47,0,,"PeterHall,pyconau,pyconau_2024",Education,"(Peter Hall) It's time to wrap up for the day!
+
+https://pretalx.com/pycon-au-2024/talk/WPUUUR/
+
+python, pycon, australia, programming, conference, technical, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science
+
+Videos licensed as CC-BY-NC-SA 4.0
+
+PyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Sat Nov 23 16:50:00 2024 at Door 12 / Goldfields Theatre",https://i.ytimg.com/vi/mUKdhgNvAFU/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=mUKdhgNvAFU,https://www.youtube.com/watch?v=mUKdhgNvAFU
+16,"""First timers session"" - Peter Hall (Pycon AU 2024)",https://www.youtube.com/watch?v=tYO5O-1JAHY,tYO5O-1JAHY,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20241201,849,105,4,,"PeterHall,pyconau,pyconau_2024",Education,"(Peter Hall) Everything you need to know if you've never been to a PyCon AU before.
+
+https://pretalx.com/pycon-au-2024/talk/PARYFV/
+
+python, pycon, australia, programming, conference, technical, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science
+
+Videos licensed as CC-BY-NC-SA 4.0
+
+PyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Sat Nov 23 08:25:00 2024 at Door 12 / Goldfields Theatre",https://i.ytimg.com/vi/tYO5O-1JAHY/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=tYO5O-1JAHY,https://www.youtube.com/watch?v=tYO5O-1JAHY
+17,"""Better dataframes"" - Ed Schofield (Pycon AU 2024)",https://www.youtube.com/watch?v=pnu_3bgEjUE,pnu_3bgEjUE,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20241201,1822,338,11,,"EdSchofield,pyconau,pyconau_2024",Education,"(Ed Schofield) Dataframes are an abstraction that proven extremely useful for data analysis in dynamic languages like S, R, Python, and Julia. The Pandas package has been dominant in Python for around 15 years but its design is now showing its age. There is now a vibrant and messy ecosystem of potential disruptors to the status quo for data analysis tasks in Python.
+
+This talk will help you make sense of the mess. It will give you a comprehensive review of the strengths and weaknesses of the challengers, including Polars, Ibis, Vaex, Modin, Dask, and the PySpark Pandas API (formerly known as Koalas). It will also review efforts to unify the PyData landscape such as Apache Arrow, the dataframe interchange protocol, Narwhals, and the Ibis project from the original author of Pandas, Wes McKinney.
+
+https://pretalx.com/pycon-au-2024/talk/QTWAGZ/
+
+python, pycon, australia, programming, conference, technical, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science
+
+Videos licensed as CC-BY-NC-SA 4.0
+
+PyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Sun Nov 24 10:35:00 2024 at Eureka 2",https://i.ytimg.com/vi/pnu_3bgEjUE/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=pnu_3bgEjUE,https://www.youtube.com/watch?v=pnu_3bgEjUE
+18,"""How we used Python to try and save lives"" - Anthony Baxter (Pycon AU 2024)",https://www.youtube.com/watch?v=hfCkGNV5iLI,hfCkGNV5iLI,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20241201,1856,646,28,,"AnthonyBaxter,pyconau,pyconau_2024",Education,"(Anthony Baxter) Google Crisis Response saved lives and tried to make the world better. And all of it was in Python.
+
+https://pretalx.com/pycon-au-2024/talk/MVAF7U/
+
+python, pycon, australia, programming, conference, technical, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science
+
+Videos licensed as CC-BY-NC-SA 4.0
+
+PyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Sun Nov 24 14:10:00 2024 at Door 12 / Goldfields Theatre",https://i.ytimg.com/vi/hfCkGNV5iLI/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=hfCkGNV5iLI,https://www.youtube.com/watch?v=hfCkGNV5iLI
+19,"""The perfect setup? Not setup.py! Building packages the right way"" - Caleb Brown (Pycon AU 2024)",https://www.youtube.com/watch?v=JC5Dex47vxo,JC5Dex47vxo,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20241201,1817,1112,44,,"CalebBrown,pyconau,pyconau_2024",Education,"(Caleb Brown) Everyone loves package management! Python's packaging systems have continued to evolve over the years. Specifications such as environment markers, custom backends, and static build configurations have been introduced. Additionally new package managers like Poetry and Hatch have emerged.
+
+Yet despite the updates, many projects are still living in the 2010s - using a setup.py file to specify the build configuration for their package. setup.py is notoriously difficult to learn and a common vector for launching attacks during install.
+
+This talk will discuss why it's time to move away from using setup.py and how to do it.
+
+We will see how setup.py is used and abused - from downloading huge datasets (*cough* AI *cough*), modifying the system, and most critically how malicious payloads can be included to execute when setup.py is evaluated. Arbitrary code in setup.py makes security analysis harder and creates more work for PyPI administrators.
+
+The talk will detail the new (as of 7 years ago) methods for describing build configurations in pyproject.toml, giving examples of how to use them. The examples will include how to achieve what once required dynamic code to include data like readme contents, version numbers and requirements. The limits of pyproject.toml will also be covered.
+
+Finally, the talk will outline how moving away from setup.py improves the Python packaging universe, how it makes life easier for ensuring Python security, and what can be done to drive adoption of pyproject.toml.
+
+https://pretalx.com/pycon-au-2024/talk/LALLKX/
+
+python, pycon, australia, programming, conference, technical, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science
+
+Videos licensed as CC-BY-NC-SA 4.0
+
+PyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Sun Nov 24 11:55:00 2024 at Door 12 / Goldfields Theatre",https://i.ytimg.com/vi/JC5Dex47vxo/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=JC5Dex47vxo,https://www.youtube.com/watch?v=JC5Dex47vxo
+20,Follow the Postgres brick road: a journey of testing against a real database server,https://www.youtube.com/watch?v=8THUtffY8m0,8THUtffY8m0,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20241201,1801,138,5,,"HuonWilson,pyconau,pyconau_2024",Education,"(Huon Wilson) Tests are good. Code that uses a database is good. Testing code that uses a database is great… But it's not so easy to do well. Let's follow our journey through various pitfalls to make testing against a local PostgreSQL instance informative, reliable and fast, so that we have fewer horrible surprises once code gets to production.
+
+https://pretalx.com/pycon-au-2024/talk/UKJB7J/
+
+python, pycon, australia, programming, conference, technical, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science
+
+Videos licensed as CC-BY-NC-SA 4.0
+
+PyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Sun Nov 24 11:55:00 2024 at Eureka 3",https://i.ytimg.com/vi/8THUtffY8m0/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=8THUtffY8m0,https://www.youtube.com/watch?v=8THUtffY8m0
+21,"""Performant Python"" - Anna Tisch (Pycon AU 2024)",https://www.youtube.com/watch?v=WkcyQQdTmKk,WkcyQQdTmKk,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20241201,1685,304,12,,"AnnaTisch,pyconau,pyconau_2024",Education,"(Anna Tisch) An introduction to writing performant Python code - the ""what, why, where, when and many how's"" of performance analysis, testing, tools and techniques.
+
+https://pretalx.com/pycon-au-2024/talk/ZEKYUW/
+
+python, pycon, australia, programming, conference, technical, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science
+
+Videos licensed as CC-BY-NC-SA 4.0
+
+PyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Sat Nov 23 12:00:00 2024 at Door 12 / Goldfields Theatre",https://i.ytimg.com/vi/WkcyQQdTmKk/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=WkcyQQdTmKk,https://www.youtube.com/watch?v=WkcyQQdTmKk
+22,"""Conference Opening (Sunday)"" - Peter Hall (Pycon AU 2024)",https://www.youtube.com/watch?v=Pav7jNPT7tw,Pav7jNPT7tw,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20241201,1018,70,0,,"PeterHall,pyconau,pyconau_2024",Education,"(Peter Hall) Welcome to the last day of PyCon AU!
+
+https://pretalx.com/pycon-au-2024/talk/VNDEQX/
+
+python, pycon, australia, programming, conference, technical, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science
+
+Videos licensed as CC-BY-NC-SA 4.0
+
+PyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Sun Nov 24 09:00:00 2024 at Door 12 / Goldfields Theatre",https://i.ytimg.com/vi/Pav7jNPT7tw/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=Pav7jNPT7tw,https://www.youtube.com/watch?v=Pav7jNPT7tw
+23,"""Closing Address (Sunday)"" - Peter Hall (Pycon AU 2024)",https://www.youtube.com/watch?v=xzHsQWQw7lo,xzHsQWQw7lo,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20241201,1804,36,0,,"PeterHall,pyconau,pyconau_2024",Education,"(Peter Hall) That's all for this year's PyCon AU (except for the sprints)
+
+https://pretalx.com/pycon-au-2024/talk/9WPZAH/
+
+python, pycon, australia, programming, conference, technical, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science
+
+Videos licensed as CC-BY-NC-SA 4.0
+
+PyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Sun Nov 24 16:50:00 2024 at Door 12 / Goldfields Theatre",https://i.ytimg.com/vi/xzHsQWQw7lo/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=xzHsQWQw7lo,https://www.youtube.com/watch?v=xzHsQWQw7lo
+24,"""Conference Open (Saturday)"" - Peter Hall (Pycon AU 2024)",https://www.youtube.com/watch?v=wCRlBdA0ED0,wCRlBdA0ED0,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20241201,1333,37,1,,"PeterHall,pyconau,pyconau_2024",Education,"(Peter Hall) This is the session where we'll tell you everything you need to know about the conference!
+
+https://pretalx.com/pycon-au-2024/talk/79KLTH/
+
+python, pycon, australia, programming, conference, technical, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science
+
+Videos licensed as CC-BY-NC-SA 4.0
+
+PyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Sat Nov 23 09:00:00 2024 at Door 12 / Goldfields Theatre",https://i.ytimg.com/vi/wCRlBdA0ED0/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=wCRlBdA0ED0,https://www.youtube.com/watch?v=wCRlBdA0ED0
+25,"""Turtles all the way down: Abstractions and when we should use them"" - Mark Lakewood (Pycon AU 2024)",https://www.youtube.com/watch?v=XcSBF0ks10s,XcSBF0ks10s,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20241201,1719,208,5,,"MarkLakewood,pyconau,pyconau_2024",Education,"(Mark Lakewood) Abstractions are one of the greatest tools in all of programming. But sometimes we reach for them too often. How do we know when we should use an abstraction, and when we should just use the ones that already exist.
+
+https://pretalx.com/pycon-au-2024/talk/WCUHJ8/
+
+python, pycon, australia, programming, conference, technical, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science
+
+Videos licensed as CC-BY-NC-SA 4.0
+
+PyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Sun Nov 24 14:50:00 2024 at Eureka 3",https://i.ytimg.com/vi/XcSBF0ks10s/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=XcSBF0ks10s,https://www.youtube.com/watch?v=XcSBF0ks10s
+26,"""What Python Can Learn From Other Languages"" - Noah Kantrowitz (Pycon AU 2024)",https://www.youtube.com/watch?v=Nz6JOOCPuRI,Nz6JOOCPuRI,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20241201,1670,218,10,,"NoahKantrowitz,pyconau,pyconau_2024",Education,"(Noah Kantrowitz) Python is great! It's been a mainstay of web development and systems programming for decades and is on the cutting edge of many fields like scientific computing. But there is always more to improve, both in the language itself and how we use it. This talk will look at how ideas and features from other languages like Ruby, Go, and PHP could be used to improve Python!
+
+https://pretalx.com/pycon-au-2024/talk/CFS9GH/
+
+python, pycon, australia, programming, conference, technical, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science
+
+Videos licensed as CC-BY-NC-SA 4.0
+
+PyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Sat Nov 23 14:10:00 2024 at Door 12 / Goldfields Theatre",https://i.ytimg.com/vi/Nz6JOOCPuRI/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=Nz6JOOCPuRI,https://www.youtube.com/watch?v=Nz6JOOCPuRI
+27,Setting Up Your Python Community for Success: Lessons from the Melbourne Python User Group,https://www.youtube.com/watch?v=0NfEKVArC0s,0NfEKVArC0s,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20241201,1774,79,6,,"RenaldiGondosubroto,pyconau,pyconau_2024",Education,"(Renaldi Gondosubroto) Discover best practices in managing a meetup which fosters a vibrant open-source ecosystem and maintains engaged membership and volunteers from experiences within the Melbourne Python User Group. Learn best practices for organizing successful meetups, hackathons, and collaborative projects that drive community engagement and innovation.
+
+https://pretalx.com/pycon-au-2024/talk/ZGCQSY/
+
+python, pycon, australia, programming, conference, technical, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science
+
+Videos licensed as CC-BY-NC-SA 4.0
+
+PyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Sun Nov 24 13:30:00 2024 at Door 12 / Goldfields Theatre",https://i.ytimg.com/vi/0NfEKVArC0s/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=0NfEKVArC0s,https://www.youtube.com/watch?v=0NfEKVArC0s
+28,"""Serpents and Ducks: wrangling data with Python and DuckDB"" - Simon Aubury (Pycon AU 2024)",https://www.youtube.com/watch?v=2jSpOZD9d2w,2jSpOZD9d2w,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20241130,1742,1053,40,,"SimonAubury,pyconau,pyconau_2024",Education,"(Simon Aubury) Got a billion rows of data in a weird file format? Wishing you could wrangle a dataframe from a geospatial dataset? A bit lost interacting with a remote API? Let’s wrangle some data with Python and DuckDB. 
+
+DuckDB executes analytical SQL queries without the need for a server. DuckDB features a deep and deceptively simple integration with the Python ecosystem, allowing us to query, wrangle, and output data, alongside all your favourite Python tools.. Its powerful analytical features and rich integrations position DuckDB as an invaluable tool for anyone working with analytical data in Python, helping you solve complex problems with ease and elegance. 
+In this practical talk, we’ll introduce DuckDB, a fast and versatile analytical database to keep in your data toolkit. We’ll go through how to use the DuckDB Python client effectively, taking advantage of DuckDB’s efficient data processing features, as well as its integrations with libraries like Pandas and Ibis.
+
+https://pretalx.com/pycon-au-2024/talk/TWFSTJ/
+
+python, pycon, australia, programming, conference, technical, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science
+
+Videos licensed as CC-BY-NC-SA 4.0
+
+PyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Sat Nov 23 11:20:00 2024 at Door 12 / Goldfields Theatre",https://i.ytimg.com/vi/2jSpOZD9d2w/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=2jSpOZD9d2w,https://www.youtube.com/watch?v=2jSpOZD9d2w
+29,"""Embeddings: How Computers Learned to Read"" - Liam Bluett (Pycon AU 2024)",https://www.youtube.com/watch?v=MwMRtYCHLxc,MwMRtYCHLxc,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20241130,1681,210,6,,"LiamBluett,pyconau,pyconau_2024",Education,"(Liam Bluett) As large language models take over the world, we’re now working alongside machines that can read, write and converse – coding with CoPilot, chatting with ChatGPT and drawing with DALL-E. But how do machines, which fundamentally operate on binary code, achieve such remarkable feats? The answer lies in embeddings. Embeddings allow us to represent complex data - whether it's text, images, or even abstract concepts - as dense vectors of numbers. In this presentation, we'll demystify embeddings and give you a practical and intuitive understanding of how they work.
+
+https://pretalx.com/pycon-au-2024/talk/Q78MDT/
+
+python, pycon, australia, programming, conference, technical, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science
+
+Videos licensed as CC-BY-NC-SA 4.0
+
+PyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Sat Nov 23 11:20:00 2024 at Eureka 2",https://i.ytimg.com/vi/MwMRtYCHLxc/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=MwMRtYCHLxc,https://www.youtube.com/watch?v=MwMRtYCHLxc
+30,Cultural and Linguistic Influences on Translation: A Study of Novels,https://www.youtube.com/watch?v=g26eTHFwIio,g26eTHFwIio,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20241130,1787,246,6,,"AnneyshaSarkar,ElizSo,pyconau,pyconau_2024",Education,"(Anneysha Sarkar, Eliz So) How do translations preserve the original meaning, style, and sentiment of texts across different languages and cultural contexts? This intriguing question drives our study as we delve into the complexities of translation.
+
+We examine how sentiment analysis results differ for the same text in various languages, aiming to understand the role of language families in these variations. Using natural language processing techniques in Python, we analyse novels from diverse genres, time periods, and cultural backgrounds to uncover generalisable translation patterns.
+
+Our study seeks to answer whether translations of words, ideas, and societal contexts in novels are influenced by the cultural contexts into which they are translated. By highlighting the importance of accurate and culturally relevant translations, we emphasise how they play a crucial role in preserving cultural and societal knowledge, ensuring that the richness of the original text is maintained across languages.
+
+https://pretalx.com/pycon-au-2024/talk/9KD9HJ/
+
+python, pycon, australia, programming, conference, technical, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science
+
+Videos licensed as CC-BY-NC-SA 4.0
+
+PyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Sat Nov 23 14:10:00 2024 at Eureka 2",https://i.ytimg.com/vi/g26eTHFwIio/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=g26eTHFwIio,https://www.youtube.com/watch?v=g26eTHFwIio
+31,"""Time and Time Again"" - Yaakov (Pycon AU 2024)",https://www.youtube.com/watch?v=vWc2D-xQgtc,vWc2D-xQgtc,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20241130,1689,464,10,,"Yaakov,pyconau,pyconau_2024",Education,"(Yaakov) Time is one of the few forces that remain outside of human control. Attempting to understand it is hard enough, but attempting to make computers understand it is a frequent and common source of errors, especially across different cultures and calendars.
+
+This talk will explore a number of different ways of understanding and expressing the flow of time, as well as common and uncommon edge cases to account for when building software.
+
+https://pretalx.com/pycon-au-2024/talk/NFZKYP/
+
+python, pycon, australia, programming, conference, technical, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science
+
+Videos licensed as CC-BY-NC-SA 4.0
+
+PyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Sun Nov 24 14:10:00 2024 at Eureka 3",https://i.ytimg.com/vi/vWc2D-xQgtc/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=vWc2D-xQgtc,https://www.youtube.com/watch?v=vWc2D-xQgtc
+32,"""Lowering the Gangplank: How Writing Songs Relates to Templating"" - Chelsea Finnie (Pycon AU 2024)",https://www.youtube.com/watch?v=PWTFKZsmB2w,PWTFKZsmB2w,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20241130,1756,61,1,,"ChelseaFinnie,pyconau,pyconau_2024",Education,"(Chelsea Finnie) Templating is awesome! It makes automation easier and takes away a lot of the tedious work required to maintain and build new things. Now, what if I told you that the way we utilise templates is somewhat similar to how songs are written? In this talk I will lower the proverbial gangplank from our templating ship as we cross over into the land of song writing and discover how these two concepts are linked.
+
+https://pretalx.com/pycon-au-2024/talk/UKK9K9/
+
+python, pycon, australia, programming, conference, technical, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science
+
+Videos licensed as CC-BY-NC-SA 4.0
+
+PyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Sun Nov 24 14:50:00 2024 at Door 12 / Goldfields Theatre",https://i.ytimg.com/vi/PWTFKZsmB2w/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=PWTFKZsmB2w,https://www.youtube.com/watch?v=PWTFKZsmB2w
+33,"""from seeds import plants: using IoT to grow healthy herbs"" - Anthony I. Joseph (Pycon AU 2024)",https://www.youtube.com/watch?v=tgdo0b7h15c,tgdo0b7h15c,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20241130,1683,90,2,,"AnthonyI.Joseph,pyconau,pyconau_2024",Education,"(Anthony I. Joseph) With the current climate crisis and the rise of households growing their own fruits, vegetables and herbs, the efficient use of potable water is crucial now more than ever. However, the majority of plant watering systems are either manual or time based - that is, they water plants on a pre-defined schedule. This talk will describe a simple automated watering system programmed with micropython and various extensions to the core product to simplify existing features and add new capabilities using various internet of things devices and data analytics tools.
+
+https://pretalx.com/pycon-au-2024/talk/CERBXC/
+
+python, pycon, australia, programming, conference, technical, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science
+
+Videos licensed as CC-BY-NC-SA 4.0
+
+PyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Sat Nov 23 13:30:00 2024 at Eureka 3",https://i.ytimg.com/vi/tgdo0b7h15c/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=tgdo0b7h15c,https://www.youtube.com/watch?v=tgdo0b7h15c
+34,"""Getting Started with Open Source Contributions"" - Stefanie Molin (Pycon AU 2024)",https://www.youtube.com/watch?v=GSSJDvltHt8,GSSJDvltHt8,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20241130,1595,132,9,,"StefanieMolin,pyconau,pyconau_2024",Education,"(Stefanie Molin) The open source community is all about giving back and learning from one another. No matter how small, every contribution is valuable. And everyone can contribute something with a little bit of help. The hardest part is finding something to work on that fits your interests and skills.
+
+In this talk, I will provide five ways that I used to get started contributing to different Python open source projects. I also share some guidance on selecting projects to contribute to and how to set yourself up for success. Get ready to start your open source journey!
+
+https://pretalx.com/pycon-au-2024/talk/RWKPBQ/
+
+python, pycon, australia, programming, conference, technical, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science
+
+Videos licensed as CC-BY-NC-SA 4.0
+
+PyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Sun Nov 24 13:30:00 2024 at Eureka 3",https://i.ytimg.com/vi/GSSJDvltHt8/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=GSSJDvltHt8,https://www.youtube.com/watch?v=GSSJDvltHt8
+35,"""Wait, is Wi-Fi just blinking lights?"" - Felipe Tavares (Pycon AU 2024)",https://www.youtube.com/watch?v=enb3o20cbLI,enb3o20cbLI,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20241130,1754,139,2,,"FelipeTavares,pyconau,pyconau_2024",Education,"(Felipe Tavares) Wi-Fi, the mysterious computer blabber. Have you ever wondered how are computers yapping away from under our noses? What secrets must they hold? In this talk we will cover the magic of Wi-Fi, how it works in detail and we will even get our own wireless communication system going using Python and micro-controllers.
+
+https://pretalx.com/pycon-au-2024/talk/8UXYBS/
+
+python, pycon, australia, programming, conference, technical, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science
+
+Videos licensed as CC-BY-NC-SA 4.0
+
+PyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Sat Nov 23 14:50:00 2024 at Eureka 3",https://i.ytimg.com/vi/enb3o20cbLI/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=enb3o20cbLI,https://www.youtube.com/watch?v=enb3o20cbLI
+36,Where am I? What am I doing? Mobile App development in Python,https://www.youtube.com/watch?v=cLNWwNHgTco,cLNWwNHgTco,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20241130,1777,452,26,,"RussellKeith-Magee,pyconau,pyconau_2024",Education,"(Russell Keith-Magee) A modern mobile phone isn't just a powerful CPU and display. It's a collection of incredibly sophisticated portable sensors: multiple cameras, a high resolution GPS, accelerometers and more. In this talk, you'll learn how to build and run an app on your phone that can access these sensors, using nothing but Python.
+
+https://pretalx.com/pycon-au-2024/talk/MBZSKZ/
+
+python, pycon, australia, programming, conference, technical, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science
+
+Videos licensed as CC-BY-NC-SA 4.0
+
+PyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Sat Nov 23 10:40:00 2024 at Eureka 3",https://i.ytimg.com/vi/cLNWwNHgTco/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=cLNWwNHgTco,https://www.youtube.com/watch?v=cLNWwNHgTco
+37,"""Adding File System context to pathlib"" - Clinton Roy (Pycon AU 2024)",https://www.youtube.com/watch?v=_guUVy7TyVA,_guUVy7TyVA,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20241130,1821,154,3,,"ClintonRoy,pyconau,pyconau_2024",Education,"(Clinton Roy) Adding file system specific information (e.g. how to match case, whether to follow symlinks) to pathlib Path objects, instead of adding such arguments to methods taking Path objects.
+
+https://pretalx.com/pycon-au-2024/talk/DQPW7L/
+
+python, pycon, australia, programming, conference, technical, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science
+
+Videos licensed as CC-BY-NC-SA 4.0
+
+PyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Sun Nov 24 11:55:00 2024 at Eureka 2",https://i.ytimg.com/vi/_guUVy7TyVA/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=_guUVy7TyVA,https://www.youtube.com/watch?v=_guUVy7TyVA
+38,Teaching Digital Technologies in Australian schools with Python and the Kookaberry,https://www.youtube.com/watch?v=eK2YIHYDbG8,eK2YIHYDbG8,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20241129,1735,208,8,,"DamienGeorge,JulianDinsdale,pyconau,pyconau_2024",Education,"(Damien George, Julian Dinsdale) There are around 6,200 primary schools around Australia, and the curriculum has a requirement to teach Digital Technologies, which includes a coding portion.  There are many challenges here, not least which is enabling the approximately 150,000 primary school teachers with the skills and resources to teach programming to young students.  The AustSTEM foundation was set up to assist in this area, and developed a MicroPython based learning platform, which consists of a pocket-sized computing device that integrates with a web-based coding and teaching environment.  The teaching material has many hands-on activities, with connections to nature and science.  In this talk we will discuss this teaching platform, how it can help students transition from block-based programming to textual coding, and show some of the successes we have had so far in Australian classrooms.
+
+https://pretalx.com/pycon-au-2024/talk/3GPQDE/
+
+python, pycon, australia, programming, conference, technical, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science
+
+Videos licensed as CC-BY-NC-SA 4.0
+
+PyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Fri Nov 22 10:00:00 2024 at Eureka 2",https://i.ytimg.com/vi/eK2YIHYDbG8/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=eK2YIHYDbG8,https://www.youtube.com/watch?v=eK2YIHYDbG8
+39,"""Notes on Over-Engineering: A Project Post-Mortem"" - Sam Bishop (Pycon AU 2024)",https://www.youtube.com/watch?v=dYV4E0B4h6E,dYV4E0B4h6E,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20241129,1861,135,3,,"SamBishop,pyconau,pyconau_2024",Education,"(Sam Bishop) Join me for a retrospective on a reusable Django app for providing shared database multi-tenancy, complete with automatic tenant-specific queryset filtering, automatic tenant selection middleware, REST framework support, and comprehensive test coverage. This app, despite its sophistication, was never used in production. Let's explore why it was ultimately deemed over-engineered and unnecessary, and what lessons we can learn from this experience.
+
+https://pretalx.com/pycon-au-2024/talk/M3KJ3V/
+
+python, pycon, australia, programming, conference, technical, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science
+
+Videos licensed as CC-BY-NC-SA 4.0
+
+PyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Fri Nov 22 12:20:00 2024 at Eureka 3",https://i.ytimg.com/vi/dYV4E0B4h6E/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=dYV4E0B4h6E,https://www.youtube.com/watch?v=dYV4E0B4h6E
+40,Transitioning from VB to Python – Mapping a 6 month journey,https://www.youtube.com/watch?v=B4uOEUlPw4g,B4uOEUlPw4g,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20241129,1837,95,1,,"CarolynGekas,Pravinvaz,pyconau,pyconau_2024",Education,"(Pravin vaz, Carolyn Gekas) In the past decade, this school has consistently exceeded VCE expectations in Software Development, largely due to well-developed resources, consistency in use of programming language (Visual Basic) and progression of skills through year 7 to year 12. However, a gap analysis in the teaching methodology has highlighted conceptual computational thinking and problem-solving skills as a key gap in the current offering. This was attributed to the curriculum's skills-based focus and the Covid-era teaching practice of flipped learning via video tutorials.  
+
+This has presented an opportunity to overhaul the teaching methodology to focus on equipping students with the skills to apply their learning in different contexts.  Some key aspects of this transformation include a more live coding technique and transitioning to Python as the preferred programming language, due to its versatility and future prospects for students.  
+
+We present this roadmap which leads to a complete overhaul of our teaching programmes from year 7 to year 12, scaffolding Python across Applied Computing, STEM projects, Robotics and Game development over the next 6 months.
+
+https://pretalx.com/pycon-au-2024/talk/XHTJ3S/
+
+python, pycon, australia, programming, conference, technical, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science
+
+Videos licensed as CC-BY-NC-SA 4.0
+
+PyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Fri Nov 22 11:40:00 2024 at Eureka 2",https://i.ytimg.com/vi/B4uOEUlPw4g/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=B4uOEUlPw4g,https://www.youtube.com/watch?v=B4uOEUlPw4g
+41,"""MicroPython: The best bits!"" - Matt Trentini (Pycon AU 2024)",https://www.youtube.com/watch?v=EVRDuu-Sez0,EVRDuu-Sez0,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20241129,1822,1627,60,,"MattTrentini,pyconau,pyconau_2024",Education,"(Matt Trentini) MicroPython continues to grow in popularity. But _why_? What is it about this pint-sized version of Python that makes it so darn compelling? What are the best bits of MicroPython? 
+
+Join me in this talk for a whirlwind tour of some of the most exciting features of this modern embedded programming language.
+
+Slides available here: https://docs.google.com/presentation/d/e/2PACX-1vQDB-oMalkKqR1GNfWwSKGRDsSJGJQKIGu3GUbQWLuWMkMn3NOd9GjoYdhr6YLKU0U_9jtu5Q_xjyit/pub
+
+https://pretalx.com/pycon-au-2024/talk/HFXFLZ/
+
+python, pycon, australia, programming, conference, technical, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science
+
+Videos licensed as CC-BY-NC-SA 4.0
+
+PyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Sat Nov 23 14:10:00 2024 at Eureka 3",https://i.ytimg.com/vi/EVRDuu-Sez0/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=EVRDuu-Sez0,https://www.youtube.com/watch?v=EVRDuu-Sez0
+42,"""Build Your Own IoT! Fun With Python and Raspberry Pi."" - A.J. Fisher (Pycon AU 2024)",https://www.youtube.com/watch?v=RbQAY-ZfrIw,RbQAY-ZfrIw,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20241129,1671,224,7,,"A.J.Fisher,pyconau,pyconau_2024",Education,"(A.J. Fisher) This talk will discuss building a basic streaming data pipeline for IoT applications using Python and Raspberry Pi. Attendees will have the opportunity to learn about Raspberry Pi, Apache Kafka + Kafka Connect, and solar power generation.
+
+https://pretalx.com/pycon-au-2024/talk/Z3KYJZ/
+
+python, pycon, australia, programming, conference, technical, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science
+
+Videos licensed as CC-BY-NC-SA 4.0
+
+PyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Fri Nov 22 13:50:00 2024 at Eureka 2",https://i.ytimg.com/vi/RbQAY-ZfrIw/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=RbQAY-ZfrIw,https://www.youtube.com/watch?v=RbQAY-ZfrIw
+43,"""Who tests the testers? Making and testing pipelines"" - Evan Kohilas (Pycon AU 2024)",https://www.youtube.com/watch?v=SyAUYG7otRA,SyAUYG7otRA,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20241129,1670,86,5,,"EvanKohilas,pyconau,pyconau_2024",Education,"(Evan Kohilas) You likely have a good pipeline that either runs tests, lints, or deployments for your project.
+
+But when it comes to changing that pipeline, how sure are you that it works before taking those changes live?
+
+https://pretalx.com/pycon-au-2024/talk/NUUJAN/
+
+python, pycon, australia, programming, conference, technical, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science
+
+Videos licensed as CC-BY-NC-SA 4.0
+
+PyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Fri Nov 22 13:50:00 2024 at Eureka 3",https://i.ytimg.com/vi/SyAUYG7otRA/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=SyAUYG7otRA,https://www.youtube.com/watch?v=SyAUYG7otRA
+44,A Lazy Person's Guide to Building REST Clients or: How I Learned to Stop Worrying and Love Dunder Ov,https://www.youtube.com/watch?v=b8xmPKYN0j8,b8xmPKYN0j8,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20241129,1435,120,6,,"AshBek,pyconau,pyconau_2024",Education,"(Ash Bek) Sick of writing lots of dedicated methods to perform the same tasks? Want to write less code? This talk may be for you! 
+
+REST API's are ubiquitious, and a very useful way to send and recieve data from various services. However, building them can often feel repetitive and boring. So, because I was lazy, and sick of doing it I decided to override specific dunder methods to write less boiler plate code, and keep myself interested.
+
+Was it easier? Probably not. Did it require less work than a normal implementation? Also probably not. Did it make my code more readable and portable? Definitely not. But it was fun, and I learnt how overriding Python's magic methods - often called dunders - could be useful. Let me share the lessons I learnt with you and inspire your own ideas.
+
+https://pretalx.com/pycon-au-2024/talk/79HGSW/
+
+python, pycon, australia, programming, conference, technical, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science
+
+Videos licensed as CC-BY-NC-SA 4.0
+
+PyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Fri Nov 22 10:00:00 2024 at Eureka 3",https://i.ytimg.com/vi/b8xmPKYN0j8/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=b8xmPKYN0j8,https://www.youtube.com/watch?v=b8xmPKYN0j8
+45,"""Data Morph: A Cautionary Tale of Summary Statistics"" - Stefanie Molin (Pycon AU 2024)",https://www.youtube.com/watch?v=Jd6FHrKJEOI,Jd6FHrKJEOI,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20241129,1923,120,3,,"StefanieMolin,pyconau,pyconau_2024",Education,"(Stefanie Molin) Statistics do not come intuitively to humans; they always try to find simple ways to describe complex things. Given a complex dataset, they may feel tempted to use simple summary statistics like the mean, median, or standard deviation to describe it. However, these numbers are not a replacement for visualizing the distribution.
+
+To illustrate this fact, researchers have generated many datasets that are very different visually, but share the same summary statistics. In this talk, I will discuss *Data Morph*, an open source package that builds on previous research using simulated annealing to perturb an arbitrary input dataset into a variety of shapes, while preserving the mean, standard deviation, and correlation to multiple decimal points. I will showcase how it works, discuss the challenges faced during development, and explore the limitations of this approach.
+
+https://pretalx.com/pycon-au-2024/talk/3JHULA/
+
+python, pycon, australia, programming, conference, technical, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science
+
+Videos licensed as CC-BY-NC-SA 4.0
+
+PyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Fri Nov 22 14:30:00 2024 at Door 12 / Goldfields Theatre",https://i.ytimg.com/vi/Jd6FHrKJEOI/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=Jd6FHrKJEOI,https://www.youtube.com/watch?v=Jd6FHrKJEOI
+46,"""DevOops Lightning talks"" - Evan Kohilas (Pycon AU 2024)",https://www.youtube.com/watch?v=TkaujGy3GBI,TkaujGy3GBI,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20241129,2131,168,2,,"EvanKohilas,pyconau,pyconau_2024",Education,"(Evan Kohilas) A whole session of back to back 5 minute talks!
+
+They're a fun way to end the day, where speakers (like you!) can present about _almost_ anything, and have the audience learn, laugh, and have a good time 😊
+
+https://pretalx.com/pycon-au-2024/talk/3FTVHV/
+
+python, pycon, australia, programming, conference, technical, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science
+
+Videos licensed as CC-BY-NC-SA 4.0
+
+PyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Fri Nov 22 15:30:00 2024 at Eureka 3",https://i.ytimg.com/vi/TkaujGy3GBI/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=TkaujGy3GBI,https://www.youtube.com/watch?v=TkaujGy3GBI
+47,"""Track Closing - Education"" - Amanda J Hogan, Nicky Ringland, Sally Gridley (Pycon AU 2024)",https://www.youtube.com/watch?v=JQITqGkO-qY,JQITqGkO-qY,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20241129,247,21,0,,"AmandaJHogan,NickyRingland,SallyGridley,pyconau,pyconau_2024",Education,"(Amanda J Hogan, Nicky Ringland, Sally Gridley) Track closing
+
+https://pretalx.com/pycon-au-2024/talk/J3DT8Y/
+
+python, pycon, australia, programming, conference, technical, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science
+
+Videos licensed as CC-BY-NC-SA 4.0
+
+PyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Fri Nov 22 17:20:00 2024 at Eureka 2",https://i.ytimg.com/vi/JQITqGkO-qY/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=JQITqGkO-qY,https://www.youtube.com/watch?v=JQITqGkO-qY
+48,Track Closing - Scientific Python,https://www.youtube.com/watch?v=B1IIMjkB-DE,B1IIMjkB-DE,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20241129,139,22,0,,"AdamGraham,CharlesTurner,GenevieveBuckley,KaiStriega,PaigeMartin,pyconau,pyconau_2024",Education,"(Genevieve Buckley, Kai Striega, Paige Martin, Adam Graham, Charles Turner) Track closing
+
+https://pretalx.com/pycon-au-2024/talk/NZZBVB/
+
+python, pycon, australia, programming, conference, technical, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science
+
+Videos licensed as CC-BY-NC-SA 4.0
+
+PyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Fri Nov 22 16:50:00 2024 at Door 12 / Goldfields Theatre",https://i.ytimg.com/vi/B1IIMjkB-DE/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=B1IIMjkB-DE,https://www.youtube.com/watch?v=B1IIMjkB-DE
+49,"""Track Opening - Education"" - Amanda J Hogan, Nicky Ringland, Sally Gridley (Pycon AU 2024)",https://www.youtube.com/watch?v=qklGBhr3EdI,qklGBhr3EdI,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20241129,681,27,0,,"AmandaJHogan,NickyRingland,SallyGridley,pyconau,pyconau_2024",Education,"(Amanda J Hogan, Nicky Ringland, Sally Gridley) Education Track opening - information general and specific
+
+https://pretalx.com/pycon-au-2024/talk/ZLB79Z/
+
+python, pycon, australia, programming, conference, technical, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science
+
+Videos licensed as CC-BY-NC-SA 4.0
+
+PyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Fri Nov 22 09:05:00 2024 at Eureka 2",https://i.ytimg.com/vi/qklGBhr3EdI/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=qklGBhr3EdI,https://www.youtube.com/watch?v=qklGBhr3EdI
+50,Track Opening - Scientific Python,https://www.youtube.com/watch?v=z_fdDLVwUS4,z_fdDLVwUS4,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20241129,544,186,5,,"AdamGraham,CharlesTurner,GenevieveBuckley,KaiStriega,PaigeMartin,pyconau,pyconau_2024",Education,"(Genevieve Buckley, Kai Striega, Paige Martin, Adam Graham, Charles Turner) Scientific Python track opening - information general and specific
+
+https://pretalx.com/pycon-au-2024/talk/TT7WHK/
+
+python, pycon, australia, programming, conference, technical, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science
+
+Videos licensed as CC-BY-NC-SA 4.0
+
+PyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Fri Nov 22 09:05:00 2024 at Door 12 / Goldfields Theatre",https://i.ytimg.com/vi/z_fdDLVwUS4/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=z_fdDLVwUS4,https://www.youtube.com/watch?v=z_fdDLVwUS4
+51,"""Projit: An Open Source Python Tool for Decoupled Data Science"" - John Hawkins (Pycon AU 2024)",https://www.youtube.com/watch?v=MaLYWUs55Wg,MaLYWUs55Wg,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20241129,671,214,10,,"JohnHawkins,pyconau,pyconau_2024",Education,"(John Hawkins) Data science projects occupy an unsual space between coding/hacking and methodologically rigorous experimentation. They require careful discipline to prevent problems like target leakage, over-fitting or p-hacking. Typically, data scientists use custom workflows, or proprietary cloud systems to automate and standardise certain elements like management of data sets, scripts, model artefacts and results. The result is a general absence of both standardisation and easy migration of processes for flexible and repeatable data science work.
+
+In this talk we will outline a light weight open source python package that can be used to manage project meta-data in a way that allows easy sharing, migration and collaboration for data scientists working in the python ecosystem. We will discuss some of the design principles, inspired by a combination of the UNIX command line and the git source control utility. We will then demonstrate basic usage of the package with examples from scientific research papers it has been used for.
+
+https://pypi.org/project/projit/
+
+https://pretalx.com/pycon-au-2024/talk/HDLGFK/
+
+python, pycon, australia, programming, conference, technical, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science
+
+Videos licensed as CC-BY-NC-SA 4.0
+
+PyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Fri Nov 22 16:10:00 2024 at Door 12 / Goldfields Theatre",https://i.ytimg.com/vi/MaLYWUs55Wg/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=MaLYWUs55Wg,https://www.youtube.com/watch?v=MaLYWUs55Wg
+52,Failsafes and Safety Fails: How to crash a train and other lessons for software engineers,https://www.youtube.com/watch?v=Rscgum-aVTY,Rscgum-aVTY,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20241129,1862,398,12,,"JackSkinner,pyconau,pyconau_2024",Education,"(Jack Skinner) Software builders and operators have long looked to transport and aviation for lessons in engineering practices and safety. Today, we’ll turn our attention to the railways as we take 20 years of hindsight to look at the ‘Broady runaway’ and what it can teach us.
+
+This talk will dive into the ATSB’s subsequent safety investigation, recommendations and parallels in the software world, offering us critical lessons in complex system design and incident management.
+
+https://pretalx.com/pycon-au-2024/talk/GF3NJK/
+
+python, pycon, australia, programming, conference, technical, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science
+
+Videos licensed as CC-BY-NC-SA 4.0
+
+PyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Sat Nov 23 14:50:00 2024 at Door 12 / Goldfields Theatre",https://i.ytimg.com/vi/Rscgum-aVTY/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=Rscgum-aVTY,https://www.youtube.com/watch?v=Rscgum-aVTY
+53,"""Quantifying Nebraska"" - Adam Harvey (Pycon AU 2024)",https://www.youtube.com/watch?v=9HQOTIqP6KM,9HQOTIqP6KM,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20241129,1566,241,4,,"AdamHarvey,pyconau,pyconau_2024",Education,"(Adam Harvey) [In 2020, xkcd published _Dependency_](https://xkcd.com/2347/), which posited that ""all modern digital infrastructure"" is ultimately transitively dependent on ""a project some random person in Nebraska has been thanklessly maintaining since 2003"".
+
+How can we find these projects and ensure that their maintainers get the thanks and — more importantly — the resources they need?
+
+https://pretalx.com/pycon-au-2024/talk/LYLY7H/
+
+python, pycon, australia, programming, conference, technical, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science
+
+Videos licensed as CC-BY-NC-SA 4.0
+
+PyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Sun Nov 24 10:35:00 2024 at Door 12 / Goldfields Theatre",https://i.ytimg.com/vi/9HQOTIqP6KM/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=9HQOTIqP6KM,https://www.youtube.com/watch?v=9HQOTIqP6KM
+54,"""Student showcase"" - Education Track (Pycon AU 2024)",https://www.youtube.com/watch?v=xVjlVYFrJj4,xVjlVYFrJj4,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20241129,6014,514,23,,"AmandaJHogan,NickyRingland,SallyGridley,pyconau,pyconau_2024",Education,"Showcase of student projects:
+
+00:00 - Intro
+01:39 - Summer Saunders - Ghostogotchi, The Digital Wifi Eating Ghost-Pet!
+11:53 - Bryan Chong - Dynamic programming; a journey in problem dissection
+20:35 - Jun Muta - Scanning a train with motion tracking and a phone
+30:10 - Zach Everett - Python Automated Rocket League Pro Player Game YouTube Uploader
+43:27 - Annabel Quach - Pyflagoras: SVG-Based Image Generation
+54:58 - Toby Felton McMahon - Creating a new method of Heightmap generation
+01:14:04 - Derick Luke, Helios Pang, Matthew Thomas - Bwen - Bipedal-reinforced Walker that Ejects-confetti with Narrations
+01:35:09 - Questions!
+
+(Amanda J Hogan, Nicky Ringland, Sally Gridley) 
+
+https://pretalx.com/pycon-au-2024/talk/LYRTSE/
+
+python, pycon, australia, programming, conference, technical, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science
+
+Videos licensed as CC-BY-NC-SA 4.0
+
+PyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Fri Nov 22 15:30:00 2024 at Eureka 2",https://i.ytimg.com/vi/xVjlVYFrJj4/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=xVjlVYFrJj4,https://www.youtube.com/watch?v=xVjlVYFrJj4
+55,"""Coding Competition Software VS Murphy's Law"" - Sanjin Dedic (Pycon AU 2024)",https://www.youtube.com/watch?v=GhwYsMxbvkQ,GhwYsMxbvkQ,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20241129,1604,103,3,,"SanjinDedic,pyconau,pyconau_2024",Education,"(Sanjin Dedic) Imagine agreeing to develop a full stack web app to host a coding competition for thousands of students. Then standing at a podium in front of a large crowd as your app crashes and you discover that you might be in too deep.
+
+That was my first year of a four year journey of learning to program ""properly"" and build something robust and useful. The full story includes more spectacular fails, hacking and an eventually an app students loved using to program algorithms that do battle in contests based on game theory. The app is built on React / FastAPI and SQLmodel ORM
+
+https://pretalx.com/pycon-au-2024/talk/XHM7N7/
+
+python, pycon, australia, programming, conference, technical, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science
+
+Videos licensed as CC-BY-NC-SA 4.0
+
+PyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Fri Nov 22 14:30:00 2024 at Eureka 3",https://i.ytimg.com/vi/GhwYsMxbvkQ/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=GhwYsMxbvkQ,https://www.youtube.com/watch?v=GhwYsMxbvkQ
+56,"Fast, highly effective database security using searchable encryption (without the yak shave)",https://www.youtube.com/watch?v=2K7MALC6ouY,2K7MALC6ouY,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20241129,1830,138,5,,"DanDraper,pyconau,pyconau_2024",Education,"(Dan Draper) Is it possible to protect data directly and not just the systems in which it is stored?
+
+https://pretalx.com/pycon-au-2024/talk/WUFFRB/
+
+python, pycon, australia, programming, conference, technical, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science
+
+Videos licensed as CC-BY-NC-SA 4.0
+
+PyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Sat Nov 23 12:00:00 2024 at Eureka 3",https://i.ytimg.com/vi/2K7MALC6ouY/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=2K7MALC6ouY,https://www.youtube.com/watch?v=2K7MALC6ouY
+57,"""Switching to MongoDB: The challenges of translating database schemas"" - Katie Bell (Pycon AU 2024)",https://www.youtube.com/watch?v=cESAbE_orVU,cESAbE_orVU,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20241128,1740,769,23,,"KatieBell,pyconau,pyconau_2024",Education,"(Katie Bell) So you’ve decided you want to use MongoDB!
+
+https://pretalx.com/pycon-au-2024/talk/LGSHE8/
+
+python, pycon, australia, programming, conference, technical, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science
+
+Videos licensed as CC-BY-NC-SA 4.0
+
+PyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Sat Nov 23 11:20:00 2024 at Eureka 3",https://i.ytimg.com/vi/cESAbE_orVU/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=cESAbE_orVU,https://www.youtube.com/watch?v=cESAbE_orVU
+58,Space Django: Migrating and Redesigning a Database while Hunting for Satellites.,https://www.youtube.com/watch?v=XcOybozDk_0,XcOybozDk_0,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20241128,1876,310,11,,"ArturBaruchi,pyconau,pyconau_2024",Education,"(Artur Baruchi) Being a fast-paced startup and developing a completely new product in the Space Industry is very challenging, and moving fast wasn’t just a requirement but essential. It's the kind of environment that is hard to think too much ahead, and for that reason, our database was created to address the problems we had at hand. 
+After a while, new products and features were required, and our database couldn't handle all of them. That’s when we decided to move our data to a newly designed database instance with proper relationships, able to handle more features, higher workloads and scalable. During the planning phase, several approaches were discussed, such as creating a script to copy the data and some off-the-shelf software that we thought could handle that for us. However, the complexity of implementing those approaches wasn’t feasible with our deadlines for releasing the new product. So, we decided to copy the data using Django ORM (our product was already using Django), the idea was to avoid the complexity of creating complex SQL Queries to copy data to new tables while keeping the data consistency and integrity.
+In this presentation, we aim to demonstrate how our database was limiting the company’s scalability and how we fixed those problems by migrating to a new database schema whilst maintaining two database instances, one for internal operations and the other for customer-facing functions. Moreover, we show how we did that using object-oriented programming in combination with Django’s ORM to migrate our database without the need to handle complex SQL commands to copy data, keep relationships, and create new ones.
+
+https://pretalx.com/pycon-au-2024/talk/B8RJPR/
+
+python, pycon, australia, programming, conference, technical, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science
+
+Videos licensed as CC-BY-NC-SA 4.0
+
+PyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Sun Nov 24 14:50:00 2024 at Eureka 2",https://i.ytimg.com/vi/XcOybozDk_0/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=XcOybozDk_0,https://www.youtube.com/watch?v=XcOybozDk_0
+59,Commissioning tools at the Australian Synchrotron,https://www.youtube.com/watch?v=GoYWw-PMNH4,GoYWw-PMNH4,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20241128,1898,93,2,,"MelMakin,pyconau,pyconau_2024",Education,"(Mel Makin) Discover the innovative work happening at the Australian Synchrotron, where high-energy X-rays support research across Australia and neighbouring countries. The scientific computing team uses Python to connect to hardware, orchestrate experiments, and process data.
+
+We'll focus on a Python Dash interface developed to commission new positioners and detectors. This interface automatically generates Gaussian statistics. It includes pages for both one positioner and one detector (1D) or two positioners and one detector (2D), and allows users to click on a 2D Gaussian to take horizontal and vertical slices.
+
+https://pretalx.com/pycon-au-2024/talk/MQQJYE/
+
+python, pycon, australia, programming, conference, technical, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science
+
+Videos licensed as CC-BY-NC-SA 4.0
+
+PyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Fri Nov 22 11:00:00 2024 at Door 12 / Goldfields Theatre",https://i.ytimg.com/vi/GoYWw-PMNH4/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=GoYWw-PMNH4,https://www.youtube.com/watch?v=GoYWw-PMNH4
+60,"""Track Opening - Devoops"" - Yaakov, Aurynn Shaw, Justin Warren (Pycon AU 2024)",https://www.youtube.com/watch?v=GWznwAI1MgY,GWznwAI1MgY,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20241128,650,97,3,,"AurynnShaw,JustinWarren,Yaakov,pyconau,pyconau_2024",Education,"(Yaakov, Aurynn Shaw, Justin Warren) Devoops Track opening - information general and specific
+
+https://pretalx.com/pycon-au-2024/talk/7338DW/
+
+python, pycon, australia, programming, conference, technical, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science
+
+Videos licensed as CC-BY-NC-SA 4.0
+
+PyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Fri Nov 22 09:05:00 2024 at Eureka 3",https://i.ytimg.com/vi/GWznwAI1MgY/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=GWznwAI1MgY,https://www.youtube.com/watch?v=GWznwAI1MgY
+61,"""Django, REST and OpenAPI - a gentle introduction"" - Paul Wayper (Pycon AU 2024)",https://www.youtube.com/watch?v=-aKfs3OjuZM,-aKfs3OjuZM,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20241128,1547,284,12,,"PaulWayper,pyconau,pyconau_2024",Education,"(Paul Wayper) Django is an all-parts-included framework that is one of the most popular ways of building a website in Python.  But for many websites that's not enough - we also need a REST-based API with an OpenAPI specification so that other programs can read and work with our data.  This talk will cover the Python packages that can provide these facilities and how to integrate them into your existing website.
+
+https://pretalx.com/pycon-au-2024/talk/C37SMX/
+
+python, pycon, australia, programming, conference, technical, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science
+
+Videos licensed as CC-BY-NC-SA 4.0
+
+PyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Sun Nov 24 13:30:00 2024 at Eureka 2",https://i.ytimg.com/vi/-aKfs3OjuZM/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=-aKfs3OjuZM,https://www.youtube.com/watch?v=-aKfs3OjuZM
+62,"""Lightning Talks (Sunday)"" - Christopher Neugebauer (Pycon AU 2024)",https://www.youtube.com/watch?v=JwM6DNdWRJU,JwM6DNdWRJU,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20241127,3681,375,13,,"ChristopherNeugebauer,pyconau,pyconau_2024",Education,"(Christopher Neugebauer) Like regular talks, but shorter! And on a Sunday!
+
+https://pretalx.com/pycon-au-2024/talk/9T7WAQ/
+
+python, pycon, australia, programming, conference, technical, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science
+
+Videos licensed as CC-BY-NC-SA 4.0
+
+PyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Sun Nov 24 15:50:00 2024 at Door 12 / Goldfields Theatre",https://i.ytimg.com/vi/JwM6DNdWRJU/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=JwM6DNdWRJU,https://www.youtube.com/watch?v=JwM6DNdWRJU
+63,"""Astronomy with Python, for non-astronomers"" - Andrew Williams (Pycon AU 2024)",https://www.youtube.com/watch?v=o9wWCbdcQl0,o9wWCbdcQl0,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20241127,1651,371,13,,"AndrewWilliams,pyconau,pyconau_2024",Education,"(Andrew Williams) Astronomers have been dealing with digital data since the 1980s and online databases 
+since the early 90's, and now, almost all research astronomers use Python to access and 
+process that data. Most astronomical database are open to the public, and most research
+software tools are either open source, or freely available.  I'll give an intro, aimed at 
+non-astronomers, to some Python packages (astropy, skyfield) and online research tools.
+
+This talk will give an overview on what tools and databases are available and how to access 
+them. Maybe you're writing a game, and you want the 3D locations and properties of the 
+nearest 10,000 stars (or extrasolar planets, or galaxies). Maybe you're building a Solar
+panel that tracks the Sun, or a camera mount that tracks the International Space
+Station. Maybe you're trying to model shadow lengths and directions in satellite images. Or
+maybe you just want to play around with real telescope images that haven't had a PR 
+department make them 'prettier'...
+
+https://pretalx.com/pycon-au-2024/talk/9MLDVZ/
+
+python, pycon, australia, programming, conference, technical, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science
+
+Videos licensed as CC-BY-NC-SA 4.0
+
+PyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Fri Nov 22 11:40:00 2024 at Door 12 / Goldfields Theatre",https://i.ytimg.com/vi/o9wWCbdcQl0/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=o9wWCbdcQl0,https://www.youtube.com/watch?v=o9wWCbdcQl0
+64,"Explore, annotate, and analyse multidimensional image data with napari",https://www.youtube.com/watch?v=EYmTLGwScBI,EYmTLGwScBI,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20241127,1861,167,5,,"DragaDoncilaPop,JuanNunez-Iglesias,pyconau,pyconau_2024",Education,"(Juan Nunez-Iglesias, Draga Doncila Pop) napari is an n-dimensional image viewer for Python. If you’ve ever tried `plt.imshow(arr)` and made Matplotlib unhappy because `arr` has more than two dimensions, then napari might be for you! napari will gladly display higher-dimensional arrays by providing sliders to explore additional dimensions. But napari can also: overlay derived data, such as points, segmentations, polygons, surfaces, and more; and annotate and edit these data, using standard data structures like NumPy or Zarr arrays, allowing you to seamlessly weave exploration, computation, and annotation in image analysis.
+
+https://pretalx.com/pycon-au-2024/talk/JV9WT7/
+
+python, pycon, australia, programming, conference, technical, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science
+
+Videos licensed as CC-BY-NC-SA 4.0
+
+PyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Fri Nov 22 12:20:00 2024 at Door 12 / Goldfields Theatre",https://i.ytimg.com/vi/EYmTLGwScBI/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=EYmTLGwScBI,https://www.youtube.com/watch?v=EYmTLGwScBI
+65,"""Why UUIDs are Secretly Incredibly Fascinating"" - Tom Eastman (Pycon AU 2024)",https://www.youtube.com/watch?v=n9Cxs0sTqEY,n9Cxs0sTqEY,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20241127,1744,678,22,,"TomEastman,pyconau,pyconau_2024",Education,"(Tom Eastman) What even is '06462f89-b4ef-7f7d-8000-edda1bba5155' and why should you actually care?
+
+(you should, but ""why""?)
+
+https://pretalx.com/pycon-au-2024/talk/ZCKWM3/
+
+python, pycon, australia, programming, conference, technical, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science
+
+Videos licensed as CC-BY-NC-SA 4.0
+
+PyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Fri Nov 22 09:20:00 2024 at Eureka 3",https://i.ytimg.com/vi/n9Cxs0sTqEY/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=n9Cxs0sTqEY,https://www.youtube.com/watch?v=n9Cxs0sTqEY
+66,From Keyword Chaos to Clarity: Conquering a Complex Systematic Review with Python,https://www.youtube.com/watch?v=ofDOFW9urPg,ofDOFW9urPg,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20241127,1753,281,11,,"EdwinaMead,pyconau,pyconau_2024",Education,"(Edwina Mead) How can you find relevant needles in a haystack of 25,000 academic abstracts when keyword searching is useless? I explore how I used Python to automate my way out of systematic review hell.
+
+https://pretalx.com/pycon-au-2024/talk/7DJWKZ/
+
+python, pycon, australia, programming, conference, technical, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science
+
+Videos licensed as CC-BY-NC-SA 4.0
+
+PyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Fri Nov 22 13:50:00 2024 at Door 12 / Goldfields Theatre",https://i.ytimg.com/vi/ofDOFW9urPg/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=ofDOFW9urPg,https://www.youtube.com/watch?v=ofDOFW9urPg
+67,Simplifying Python Web App Operations: Automating K8s Ops with Open Source,https://www.youtube.com/watch?v=RccDjV4uxi0,RccDjV4uxi0,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20241126,1864,148,6,,"DavidAndersson,pyconau,pyconau_2024",Education,"(David Andersson) After creating a great web app using Python such as with flask, the next hurdle to production is how to make it available to users and operate it. And not just your app, but also ingress, the database, observability and the list goes on. We will go through your options for simplifying the operations of your web app using open source tooling. This will include using k8s directly, helm charts, IaaC using pulumi and new tooling developed by Canonical using juju. By the end of the talk you will have seen the benefits and drawbacks of each which will help you make an informed decision on which tool best suits your needs!
+
+https://pretalx.com/pycon-au-2024/talk/DQGVLY/
+
+python, pycon, australia, programming, conference, technical, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science
+
+Videos licensed as CC-BY-NC-SA 4.0
+
+PyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Fri Nov 22 11:40:00 2024 at Eureka 3",https://i.ytimg.com/vi/RccDjV4uxi0/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=RccDjV4uxi0,https://www.youtube.com/watch?v=RccDjV4uxi0
+68,From minutes to seconds: Capillary auto-alignment with python and opencv,https://www.youtube.com/watch?v=NA7RugeYOoM,NA7RugeYOoM,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20241126,1625,178,8,,"EmilyMassahud,pyconau,pyconau_2024",Education,"(Emily Massahud) Samples used for diffraction experiments at the Australian Synchrotron, a research facility in Melbourne, are typically presented as finely ground powders confined inside very thin (1mm or less) glass capillaries. These samples are irradiated with X-rays in order to uncover their atomic crystal structures. Amongst our research areas, we study applications in mining, solar cells, perovskites, hydrogen storage, and geology, where understanding material properties at the atomic level can lead to advancements such as enhancing mineral extraction processes, improving solar cell efficiency, developing better hydrogen storage solutions, and analysing the composition of meteorites.
+
+To ensure good data quality, the capillary needs to rotate precisely around its centre of rotation in front of the X-ray beam. Alignment of the centre of rotation is usually a manual operation that relies on the human eye and expertise to discern that the capillary is straight and stationary while it rotates around its axis; this process can be lengthy, error-prone, and difficult to achieve, especially for non-experts.
+
+In this talk, I will demonstrate how we have united Python, OpenCV, and motion control systems to automate the capillary alignment procedure at the Australian Synchrotron, reducing the time to align a sample from several minutes to just 10 seconds.
+
+https://pretalx.com/pycon-au-2024/talk/CQDJ9K/
+
+python, pycon, australia, programming, conference, technical, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science
+
+Videos licensed as CC-BY-NC-SA 4.0
+
+PyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Fri Nov 22 15:30:00 2024 at Door 12 / Goldfields Theatre",https://i.ytimg.com/vi_webp/NA7RugeYOoM/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=NA7RugeYOoM,https://www.youtube.com/watch?v=NA7RugeYOoM
+69,Keynote: The neglected art of a relevant benchmark and why you need one,https://www.youtube.com/watch?v=ddDVhbz3sNw,ddDVhbz3sNw,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20241126,2650,225,6,,"KendraVant,pyconau,pyconau_2024",Education,"(Kendra Vant) Long ago when deep learning was all the rage (circa 2018), you could spend a lot of time and money crunching a lot of data to make a new model and come up with something that was … inconclusively better than what you had had before. Was your model architecture wrong? Could you have picked a better learning rate? Stuck in a local optimum? How to know? 
+
+The best way out of the swamp of confusion was to know what you were shooting for. What was a reasonable limit for how good an answer you could get? So we built benchmarks.  Unfortunately, a lot of teams working with both traditional and generative AI techniques today aren’t using realistic benchmarks to draw a line in the sand and say ‘we’re aiming for this’. 
+
+Let's take a look at why you don't, why you should and how to go about it.
+
+https://pretalx.com/pycon-au-2024/talk/WDC77B/
+
+python, pycon, australia, programming, conference, technical, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science
+
+Videos licensed as CC-BY-NC-SA 4.0
+
+PyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Sun Nov 24 09:20:00 2024 at Door 12 / Goldfields Theatre",https://i.ytimg.com/vi/ddDVhbz3sNw/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=ddDVhbz3sNw,https://www.youtube.com/watch?v=ddDVhbz3sNw
+70,"Verifying and evaluating scientific results with the open source package ""scores""",https://www.youtube.com/watch?v=jyq2jOqtXe0,jyq2jOqtXe0,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20241126,1505,176,3,,"TennesseeLeeuwenburg,pyconau,pyconau_2024",Education,"(Tennessee Leeuwenburg) Verifying, evaluating or interpreting complex data requires specialist tools and methods. Many data scientists, programmers and scientists will be familiar with some evaluation metrics such as accuracy, mean squared error or true positive rate. There are many situations where these scores are insufficient for assessing correctness, accuracy or suitability of a model or prediction. The challenge of verifying models and predictions affects most fields of science, engineering, and many machine learning applications.
+
+This talk will introduce ""scores"", an open source Python package for verifying and evaluating labelled, n-dimensional (multidimensional) data at any scale. ""scores"" includes over 50 metrics, statistical techniques and data processing tools. The software repository can be found at https://github.com/nci/scores and the documentation can be found at https://scores.readthedocs.io/ .
+
+This talk is suitable for beginner, intermediate and expert audiences. Developers and data scientists who are familiar mainly with tabular data, such as supported by the pandas library, may be interested in the additional functionality offered by ""scores"" (and the xarray library it utilises). For those learning about more advanced methods, every metric and statistical test has a companion Jupyter Notebook tutorial. For expert users already familiar with these ideas, you may be interested in some of the novel scoring methods not commonly found in other packages. 
+
+Come to this talk to hear about:
+
+ - The difference between tabular data, n-dimensional data, and labelled n-dimensional data
+ - Examples of using a common metric from ""scores"" on labelled, n-dimensional data
+ - Examples of using ""scores"" for interrogating data in multiple dimensions
+ - Examples of where basic methods overlook important considerations
+ - Examples of using some of the more complex metrics in ""scores""
+
+https://pretalx.com/pycon-au-2024/talk/WB8HTT/
+
+python, pycon, australia, programming, conference, technical, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science
+
+Videos licensed as CC-BY-NC-SA 4.0
+
+PyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Fri Nov 22 10:00:00 2024 at Door 12 / Goldfields Theatre",https://i.ytimg.com/vi/jyq2jOqtXe0/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=jyq2jOqtXe0,https://www.youtube.com/watch?v=jyq2jOqtXe0
+71,Keynote: From Hypnotised to Heretic: Immunising Society Against Misinformation.,https://www.youtube.com/watch?v=nUvvfGN-dHs,nUvvfGN-dHs,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20241126,2680,397,12,,"LindaMcIver,pyconau,pyconau_2024",Education,"(Linda McIver) In an age where politicians peddle conspiracy theories, and AI tells us to eat rocks and put glue on our pizzas, critical thinking is more important, and, it seems, less common than ever. How do we immunise society against plausible lies, conspiracies, and technological hype? By raising heretics!
+
+Enter ADSEI: The Australian Data Science Education Institute. What began as a mission to persuade kids to learn programming became a crusade to radically rebuild the education system.
+
+Come & find out why, and how you can help!
+
+https://pretalx.com/pycon-au-2024/talk/BXZ9ZA/
+
+python, pycon, australia, programming, conference, technical, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science
+
+Videos licensed as CC-BY-NC-SA 4.0
+
+PyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Sat Nov 23 09:25:00 2024 at Door 12 / Goldfields Theatre",https://i.ytimg.com/vi/nUvvfGN-dHs/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=nUvvfGN-dHs,https://www.youtube.com/watch?v=nUvvfGN-dHs
+72,"""Lightning Talks (Saturday)"" - Christopher Neugebauer (Pycon AU 2024)",https://www.youtube.com/watch?v=ajJ1n2o1NN0,ajJ1n2o1NN0,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20241126,4550,331,9,,"ChristopherNeugebauer,pyconau,pyconau_2024",Education,"(Christopher Neugebauer) Like regular talks, but shorter!
+
+https://pretalx.com/pycon-au-2024/talk/ZPACRY/
+
+python, pycon, australia, programming, conference, technical, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science
+
+Videos licensed as CC-BY-NC-SA 4.0
+
+PyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Sat Nov 23 15:50:00 2024 at Door 12 / Goldfields Theatre",https://i.ytimg.com/vi/ajJ1n2o1NN0/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=ajJ1n2o1NN0,https://www.youtube.com/watch?v=ajJ1n2o1NN0
+73,"""Django on AWS for chump change"" - Luke Wiwatowski (Pycon AU 2024)",https://www.youtube.com/watch?v=A58FxdvHcmQ,A58FxdvHcmQ,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20241126,1890,295,6,,"LukeWiwatowski,pyconau,pyconau_2024",Education,"(Luke Wiwatowski) Some cheap and definitely not employer approved ways to run Django on AWS infrastructure on a budget
+
+https://pretalx.com/pycon-au-2024/talk/NLZQAA/
+
+python, pycon, australia, programming, conference, technical, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science
+
+Videos licensed as CC-BY-NC-SA 4.0
+
+PyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Fri Nov 22 11:00:00 2024 at Eureka 3",https://i.ytimg.com/vi/A58FxdvHcmQ/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=A58FxdvHcmQ,https://www.youtube.com/watch?v=A58FxdvHcmQ
+74,Looking back to move forwards: how educational literature can inspire new teaching strategies,https://www.youtube.com/watch?v=pfgBnS0thcA,pfgBnS0thcA,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20241126,1680,235,4,,"AlisonWong,pyconau,pyconau_2024",Education,"(Alison Wong) Learning to program can be exceptionally challenging for students. So how can we make learning to program easier for our students? 
+
+This talk will explore concepts from the literature such as the constructivist theory of education, Bloom’s taxonomy and the worked example effect and discuss how they can be applied to different teaching strategies to help students learn more effectively. Drawing on my own teaching experiences, I will provide some examples of how these concepts can inform teaching practices and guide the development of resources for teaching programming.
+
+The goal of this talk is to encourage other educators to reflect on their own teaching strategies and to consider new approaches that they could implement in their classrooms, whether it be through minor tweaks or a complete redevelopment of their teaching materials.
+
+https://pretalx.com/pycon-au-2024/talk/VK8UZN/
+
+python, pycon, australia, programming, conference, technical, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science
+
+Videos licensed as CC-BY-NC-SA 4.0
+
+PyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Fri Nov 22 09:20:00 2024 at Eureka 2",https://i.ytimg.com/vi/pfgBnS0thcA/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=pfgBnS0thcA,https://www.youtube.com/watch?v=pfgBnS0thcA
+75,As a Teacher. I have no Time to learn Programming - Streamline Assignment Marking with Python,https://www.youtube.com/watch?v=ORYNUhCRUO4,ORYNUhCRUO4,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20241126,1369,150,3,,"HaggenSo,pyconau,pyconau_2024",Education,"(Haggen So) Teaching is a demanding job that takes away the initiative to learn or improve in programming skills. I therefore decided to streamline some of my assignment marking using Python. The time I spent in developing the Python scripts could then be offset by the efficiency and accuracy I gained from the automation. 
+
+In this presentation, I will demonstrate how to populate student details into their individual Excel mark sheets, check marking mistakes, automate mark adjustment and collect data from individual mark sheets. 
+
+While the above automation can be achieved using standard tools offered by Microsoft by putting the programming logic into Excel formulae or Visual Basic for Application, I will argue using Python to separate the logic from data is a better approach in terms of programming practice and Cybersecurity.
+
+https://pretalx.com/pycon-au-2024/talk/KFVD3Z/
+
+python, pycon, australia, programming, conference, technical, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science
+
+Videos licensed as CC-BY-NC-SA 4.0
+
+PyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Fri Nov 22 14:30:00 2024 at Eureka 2",https://i.ytimg.com/vi/ORYNUhCRUO4/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=ORYNUhCRUO4,https://www.youtube.com/watch?v=ORYNUhCRUO4
+76,How I Used Python to Stop Worrying & Love Emoji in Bioinformatics,https://www.youtube.com/watch?v=E3-AooF8e2k,E3-AooF8e2k,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20241126,1414,271,14,,"AndrewLonsdale,pyconau,pyconau_2024",Education,"(Andrew Lonsdale) Bioinformatics is the science of understanding and analysing biological information, such as the genetic information contained in DNA. It combines the disciplines of biology, computer science, and mathematics. If this seems daunting, don’t panic, because this talk will focus on two open-source Python packages I have developed, FASTQE and Biomojify, that make common bioinformatics file formats intuitive and accessible…. by using emoji.
+
+FASTQE simplifies DNA sequencing data analysis by taking numerical quality scores for the data, and summarising them using emoji to quickly convey the good, the bad, and the ugly of sequence data quality. Whether for training, outreach, or debugging, this tool can easily turn unremarkable data quality analysis into an appealing visualisation.
+
+Biomojify takes the concept further by converting plain text data to use emoji. In DNA, for example, the conventional format represents  individual A, C, G, and T nucleotides as plain text. Biomojify substitutes them with emojis such as avocado, cheese, grape, and tomato. It supports various bioinformatics file formats and supports user defined emoji mapping. It can be used to teach the underlying biological concepts behind bioinformatics data, by simplifying specialised data structures for a general audience. 
+
+Science communication is hard. These tools transform complex bioinformatics data into engaging, emoji-based visualisations, making bioinformatics concepts more accessible and adding an element of fun to scientific education and communication.
+
+https://pretalx.com/pycon-au-2024/talk/A78TC9/
+
+python, pycon, australia, programming, conference, technical, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science
+
+Videos licensed as CC-BY-NC-SA 4.0
+
+PyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Fri Nov 22 16:20:00 2024 at Door 12 / Goldfields Theatre",https://i.ytimg.com/vi/E3-AooF8e2k/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=E3-AooF8e2k,https://www.youtube.com/watch?v=E3-AooF8e2k
+77,Enhancing Programming Ability with Playful Learning and Karel,https://www.youtube.com/watch?v=1tC7pQn3iEI,1tC7pQn3iEI,PyCon AU,@PyConAU,https://www.youtube.com/@PyConAU,20241125,1673,130,7,,"AlisonWong,StephenTierney,pyconau,pyconau_2024",Education,"(Stephen Tierney, Alison Wong) Beginner programmers often struggle to understand and trace program execution, which is worsened by underdeveloped debugging and testing skills. Beginners may also lack confidence or are easily demotivated, which can hinder learning. To assist students in developing these skills and build confidence we created a set of playful programming challenges and competition using Karel the Robot. The Karel system provides a 2D “grid world” where the Karel character can move and interact with its environment. The 2D world is visualised for students so that they can immediately see how their program changes the environment step by step as well as the final program state. This is in contrast to traditional languages where learners must develop and maintain a mental model of the program state. This talk will cover our approach, preliminary results and feedback from students showing an increase in confidence and interest in programming. We will also share how this approach can be applied to other learning contexts.
+
+https://pretalx.com/pycon-au-2024/talk/WLCHUM/
+
+python, pycon, australia, programming, conference, technical, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science
+
+Videos licensed as CC-BY-NC-SA 4.0
+
+PyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.
+
+Licensed as CC BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Produced by Next Day Video Australia: https://nextdayvideo.com.au
+
+Fri Nov 22 12:20:00 2024 at Eureka 2",https://i.ytimg.com/vi/1tC7pQn3iEI/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=1tC7pQn3iEI,https://www.youtube.com/watch?v=1tC7pQn3iEI

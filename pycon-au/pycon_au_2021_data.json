@@ -1,0 +1,1627 @@
+[
+    {
+        "index": 1,
+        "title": "Welcome to PyConline AU 2021",
+        "url": "https://www.youtube.com/watch?v=x6CUKf5dhLw",
+        "video_id": "x6CUKf5dhLw",
+        "uploader": "PyCon AU",
+        "uploader_id": "@PyConAU",
+        "uploader_url": "https://www.youtube.com/@PyConAU",
+        "upload_date": "20210910",
+        "duration": 99,
+        "view_count": 2557,
+        "like_count": 34,
+        "comment_count": null,
+        "tags": [
+            "python",
+            "conference",
+            "australia",
+            "programming"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "Welcome back to PyConline AU 2021!\n\nProgram: http://2021.pycon.org.au/program\nRegister: http://2021.pycon.org.au/attend",
+        "thumbnail": "https://i.ytimg.com/vi_webp/x6CUKf5dhLw/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=x6CUKf5dhLw",
+        "original_url": "https://www.youtube.com/watch?v=x6CUKf5dhLw"
+    },
+    {
+        "index": 2,
+        "title": "\"High performance machine learning with JAX\" - Mat Kelcey (PyConline AU 2021)",
+        "url": "https://www.youtube.com/watch?v=cqbBjM4_yGw",
+        "video_id": "cqbBjM4_yGw",
+        "uploader": "PyCon AU",
+        "uploader_id": "@PyConAU",
+        "uploader_url": "https://www.youtube.com/@PyConAU",
+        "upload_date": "20210911",
+        "duration": 1887,
+        "view_count": 4745,
+        "like_count": 169,
+        "comment_count": null,
+        "tags": [
+            "MatKelcey",
+            "pyconau",
+            "pyconau_2021"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "(Mat Kelcey) JAX provides an elegant interface to XLA with automatic differentiation allowing extremely high performance machine learning on modern accelerators; all from within Python. In this talk we'll give an overview to fundamentals of JAX and an intro to some of the libraries being developed on top.\n\nhttps://pretalx.com/pycon-au-2021/talk/SUFZ99/\n\npython, pycon, australia, programming, conference, technical, pyconline, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science\n\nVideos licensed as CC-BY-NC-SA 4.0\r\n\r\nPyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.\r\n\r\nPyCon AU informs the country’s Python developers with presentations, tutorials and panel sessions by experts and core developers of Python, as well as the libraries and frameworks that they rely on.\n\nProduced by Next Day Video Australia: https://nextdayvideo.com.au\n\nFri Sep 10 10:15:00 2021 at Science, Data & Analytics",
+        "thumbnail": "https://i.ytimg.com/vi/cqbBjM4_yGw/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=cqbBjM4_yGw",
+        "original_url": "https://www.youtube.com/watch?v=cqbBjM4_yGw"
+    },
+    {
+        "index": 3,
+        "title": "\"Fair game: the ethics of telco fraud\" - Laura Summers (PyConline AU 2021)",
+        "url": "https://www.youtube.com/watch?v=lzSl74yKzZ4",
+        "video_id": "lzSl74yKzZ4",
+        "uploader": "PyCon AU",
+        "uploader_id": "@PyConAU",
+        "uploader_url": "https://www.youtube.com/@PyConAU",
+        "upload_date": "20210911",
+        "duration": 1788,
+        "view_count": 657,
+        "like_count": 7,
+        "comment_count": null,
+        "tags": [
+            "LauraSummers",
+            "pyconau",
+            "pyconau_2021"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "(Laura Summers) How do we connect high-level fairness principles with day-to-day product decision making? How do we move past the AI Ethics hype and start trying, testing and implementing practical approaches? In this talk the presenter will share stories, discoveries, and pointers from their time as an ‘ethics ops’ consultant embedded with a small fraud detection team in a big telco. From improving the science bit of data science, to developing the collective sensitivity of the team, to designing recourse for false positives, tune in for pragmatic pointers and actionable take-aways.\n\nhttps://pretalx.com/pycon-au-2021/talk/RKHXBF/\n\npython, pycon, australia, programming, conference, technical, pyconline, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science\n\nVideos licensed as CC-BY-NC-SA 4.0\r\n\r\nPyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.\r\n\r\nPyCon AU informs the country’s Python developers with presentations, tutorials and panel sessions by experts and core developers of Python, as well as the libraries and frameworks that they rely on.\n\nProduced by Next Day Video Australia: https://nextdayvideo.com.au\n\nFri Sep 10 09:30:00 2021 at Science, Data & Analytics",
+        "thumbnail": "https://i.ytimg.com/vi/lzSl74yKzZ4/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=lzSl74yKzZ4",
+        "original_url": "https://www.youtube.com/watch?v=lzSl74yKzZ4"
+    },
+    {
+        "index": 4,
+        "title": "\"AppSec on a budget\" - Mario Areias (PyConline AU 2021)",
+        "url": "https://www.youtube.com/watch?v=eYFDgj1M0fM",
+        "video_id": "eYFDgj1M0fM",
+        "uploader": "PyCon AU",
+        "uploader_id": "@PyConAU",
+        "uploader_url": "https://www.youtube.com/@PyConAU",
+        "upload_date": "20210911",
+        "duration": 1750,
+        "view_count": 449,
+        "like_count": 8,
+        "comment_count": null,
+        "tags": [
+            "MarioAreias",
+            "pyconau",
+            "pyconau_2021"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "(Mario Areias) Everybody knows that the vast majority of security teams are under-resourced and overworked. It is easy to lose hope when the list of things to do keeps growing, the incidents keep coming and gray hair begins to show up!\r\n\r\nDon’t lose hope yet! In this talk, we will discuss how a bit of strategy and creativity can go a long way in helping you secure your organisation...on a budget!\n\nhttps://pretalx.com/pycon-au-2021/talk/RMSAXL/\n\npython, pycon, australia, programming, conference, technical, pyconline, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science\n\nVideos licensed as CC-BY-NC-SA 4.0\r\n\r\nPyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.\r\n\r\nPyCon AU informs the country’s Python developers with presentations, tutorials and panel sessions by experts and core developers of Python, as well as the libraries and frameworks that they rely on.\n\nProduced by Next Day Video Australia: https://nextdayvideo.com.au\n\nFri Sep 10 11:00:00 2021 at Snakeoil Academy (Security & Privacy)",
+        "thumbnail": "https://i.ytimg.com/vi/eYFDgj1M0fM/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=eYFDgj1M0fM",
+        "original_url": "https://www.youtube.com/watch?v=eYFDgj1M0fM"
+    },
+    {
+        "index": 5,
+        "title": "\"Cataloging the world's data for great good\" - Lars Yencken (PyConline AU 2021)",
+        "url": "https://www.youtube.com/watch?v=8Tf7fnipnM0",
+        "video_id": "8Tf7fnipnM0",
+        "uploader": "PyCon AU",
+        "uploader_id": "@PyConAU",
+        "uploader_url": "https://www.youtube.com/@PyConAU",
+        "upload_date": "20210911",
+        "duration": 2133,
+        "view_count": 385,
+        "like_count": 6,
+        "comment_count": null,
+        "tags": [
+            "LarsYencken",
+            "pyconau",
+            "pyconau_2021"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "(Lars Yencken) Humanity has made incredible progress across a wide range of measures, even as we face massive challenges. But the data for it all is scattered in the wind, stuck in excel files of massive organisations, in tiny addendums to research papers, and even in government tweets. Roll up your sleeves, we'll dive into efforts at Our World in Data to collect, organise and republish this data for great good!\n\nhttps://pretalx.com/pycon-au-2021/talk/AUE33N/\n\npython, pycon, australia, programming, conference, technical, pyconline, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science\n\nVideos licensed as CC-BY-NC-SA 4.0\r\n\r\nPyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.\r\n\r\nPyCon AU informs the country’s Python developers with presentations, tutorials and panel sessions by experts and core developers of Python, as well as the libraries and frameworks that they rely on.\n\nProduced by Next Day Video Australia: https://nextdayvideo.com.au\n\nFri Sep 10 17:00:00 2021 at Science, Data & Analytics",
+        "thumbnail": "https://i.ytimg.com/vi/8Tf7fnipnM0/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=8Tf7fnipnM0",
+        "original_url": "https://www.youtube.com/watch?v=8Tf7fnipnM0"
+    },
+    {
+        "index": 6,
+        "title": "\"The Butterfly Effect: How a single bit changed my career\" - Jonathan Hall (PyConline AU 2021)",
+        "url": "https://www.youtube.com/watch?v=gmSsdn4N_7I",
+        "video_id": "gmSsdn4N_7I",
+        "uploader": "PyCon AU",
+        "uploader_id": "@PyConAU",
+        "uploader_url": "https://www.youtube.com/@PyConAU",
+        "upload_date": "20210912",
+        "duration": 1584,
+        "view_count": 541,
+        "like_count": 15,
+        "comment_count": null,
+        "tags": [
+            "JonathanHall",
+            "pyconau",
+            "pyconau_2021"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "(Jonathan Hall) I relate the story of a single bit gone wrong back in 2006, which launched my career on a new trajectory of root-cause analysis, continuous improvement, and DevOps.\n\nhttps://pretalx.com/pycon-au-2021/talk/D38FLT/\n\npython, pycon, australia, programming, conference, technical, pyconline, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science\n\nVideos licensed as CC-BY-NC-SA 4.0\r\n\r\nPyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.\r\n\r\nPyCon AU informs the country’s Python developers with presentations, tutorials and panel sessions by experts and core developers of Python, as well as the libraries and frameworks that they rely on.\n\nProduced by Next Day Video Australia: https://nextdayvideo.com.au\n\nFri Sep 10 09:30:00 2021 at DevOops",
+        "thumbnail": "https://i.ytimg.com/vi/gmSsdn4N_7I/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=gmSsdn4N_7I",
+        "original_url": "https://www.youtube.com/watch?v=gmSsdn4N_7I"
+    },
+    {
+        "index": 7,
+        "title": "\"Python Type hints and how they can supercharge CS education.\" - Shrey Somaiya (PyConline AU 2021)",
+        "url": "https://www.youtube.com/watch?v=s7Dghm_cdlM",
+        "video_id": "s7Dghm_cdlM",
+        "uploader": "PyCon AU",
+        "uploader_id": "@PyConAU",
+        "uploader_url": "https://www.youtube.com/@PyConAU",
+        "upload_date": "20210912",
+        "duration": 1754,
+        "view_count": 588,
+        "like_count": 16,
+        "comment_count": null,
+        "tags": [
+            "ShreySomaiya",
+            "pyconau",
+            "pyconau_2021"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "(Shrey Somaiya) This talk will walk through Python type hints: what they are, why they should be taught. Specifically we  will example how it helps us write better code, and how it can teach a better generation of programmatic thinkers, and design better programs.\n\nhttps://pretalx.com/pycon-au-2021/talk/8RP8QU/\n\npython, pycon, australia, programming, conference, technical, pyconline, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science\n\nVideos licensed as CC-BY-NC-SA 4.0\r\n\r\nPyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.\r\n\r\nPyCon AU informs the country’s Python developers with presentations, tutorials and panel sessions by experts and core developers of Python, as well as the libraries and frameworks that they rely on.\n\nProduced by Next Day Video Australia: https://nextdayvideo.com.au\n\nFri Sep 10 10:15:00 2021 at Education",
+        "thumbnail": "https://i.ytimg.com/vi/s7Dghm_cdlM/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=s7Dghm_cdlM",
+        "original_url": "https://www.youtube.com/watch?v=s7Dghm_cdlM"
+    },
+    {
+        "index": 8,
+        "title": "\"Planning for Failure using Chaos Engineering\" - Amit Saha (PyConline AU 2021)",
+        "url": "https://www.youtube.com/watch?v=NywFpab9iAE",
+        "video_id": "NywFpab9iAE",
+        "uploader": "PyCon AU",
+        "uploader_id": "@PyConAU",
+        "uploader_url": "https://www.youtube.com/@PyConAU",
+        "upload_date": "20210912",
+        "duration": 1869,
+        "view_count": 599,
+        "like_count": 14,
+        "comment_count": null,
+        "tags": [
+            "AmitSaha",
+            "pyconau",
+            "pyconau_2021"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "(Amit Saha) Failure is just a fact of running software in production. But you can prepare for it in a controlled environment using Chaos Engineering techniques. In this talk, you will learn to make use of chaos engineering practices to plan and assess your production readiness. This means that you are more ready for the failure scenarios, when, not if, they happen.\n\nhttps://pretalx.com/pycon-au-2021/talk/QBWRZJ/\n\npython, pycon, australia, programming, conference, technical, pyconline, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science\n\nVideos licensed as CC-BY-NC-SA 4.0\r\n\r\nPyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.\r\n\r\nPyCon AU informs the country’s Python developers with presentations, tutorials and panel sessions by experts and core developers of Python, as well as the libraries and frameworks that they rely on.\n\nProduced by Next Day Video Australia: https://nextdayvideo.com.au\n\nFri Sep 10 11:00:00 2021 at DevOops",
+        "thumbnail": "https://i.ytimg.com/vi/NywFpab9iAE/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=NywFpab9iAE",
+        "original_url": "https://www.youtube.com/watch?v=NywFpab9iAE"
+    },
+    {
+        "index": 9,
+        "title": "When a little web app needs to grow up... the journey from a hobby project to production",
+        "url": "https://www.youtube.com/watch?v=dZKe1kCSmHo",
+        "video_id": "dZKe1kCSmHo",
+        "uploader": "PyCon AU",
+        "uploader_id": "@PyConAU",
+        "uploader_url": "https://www.youtube.com/@PyConAU",
+        "upload_date": "20210912",
+        "duration": 1958,
+        "view_count": 297,
+        "like_count": 10,
+        "comment_count": null,
+        "tags": [
+            "MattColes",
+            "pyconau",
+            "pyconau_2021"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "(Matt Coles) A few years ago a small web application was built with Flask over a weekend allowing customers to order a free t-shirt for an event being hosted. It was designed for this single purpose and had never been considered to be needed or expanded beyond that.\r\n\r\nWithin the next six months, the app was adapted to allow breakfasts, hoodies, socks, pens and rubik's cubes ordered for different events.\r\n\r\nWith these new adaptions came added complexities.\n\nhttps://pretalx.com/pycon-au-2021/talk/HNK9YE/\n\npython, pycon, australia, programming, conference, technical, pyconline, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science\n\nVideos licensed as CC-BY-NC-SA 4.0\r\n\r\nPyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.\r\n\r\nPyCon AU informs the country’s Python developers with presentations, tutorials and panel sessions by experts and core developers of Python, as well as the libraries and frameworks that they rely on.\n\nProduced by Next Day Video Australia: https://nextdayvideo.com.au\n\nFri Sep 10 15:00:00 2021 at DevOops",
+        "thumbnail": "https://i.ytimg.com/vi/dZKe1kCSmHo/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=dZKe1kCSmHo",
+        "original_url": "https://www.youtube.com/watch?v=dZKe1kCSmHo"
+    },
+    {
+        "index": 10,
+        "title": "Vampires in the Browser: banishing uninvited Javascript from your web app",
+        "url": "https://www.youtube.com/watch?v=ON_XaY2WmMI",
+        "video_id": "ON_XaY2WmMI",
+        "uploader": "PyCon AU",
+        "uploader_id": "@PyConAU",
+        "uploader_url": "https://www.youtube.com/@PyConAU",
+        "upload_date": "20210912",
+        "duration": 1341,
+        "view_count": 250,
+        "like_count": 10,
+        "comment_count": null,
+        "tags": [
+            "LillyRyan",
+            "pyconau",
+            "pyconau_2021"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "(Lilly Ryan) Legend has it that a vampire cannot enter a home unless they are invited to do so.\r\n\r\nMuch like vampires, Javascript cannot generally enter your web application unless it is invited in. However, there are many sneaky ways that you may find yourself with ‹s›a vampire‹/s› some Javascript inside your app without realising you've technically allowed it to be there.\r\n\r\nThis session will teach you some common ‹s›incantations‹/s› configurations you can deploy to prevent this from happening.\n\nhttps://pretalx.com/pycon-au-2021/talk/D3WLNR/\n\npython, pycon, australia, programming, conference, technical, pyconline, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science\n\nVideos licensed as CC-BY-NC-SA 4.0\r\n\r\nPyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.\r\n\r\nPyCon AU informs the country’s Python developers with presentations, tutorials and panel sessions by experts and core developers of Python, as well as the libraries and frameworks that they rely on.\n\nProduced by Next Day Video Australia: https://nextdayvideo.com.au\n\nFri Sep 10 13:30:00 2021 at Snakeoil Academy (Security & Privacy)",
+        "thumbnail": "https://i.ytimg.com/vi/ON_XaY2WmMI/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=ON_XaY2WmMI",
+        "original_url": "https://www.youtube.com/watch?v=ON_XaY2WmMI"
+    },
+    {
+        "index": 11,
+        "title": "\"Time Series Forecasting Techniques in Python\" - Gajendra Deshpande (PyConline AU 2021)",
+        "url": "https://www.youtube.com/watch?v=uBvVfpkIdIc",
+        "video_id": "uBvVfpkIdIc",
+        "uploader": "PyCon AU",
+        "uploader_id": "@PyConAU",
+        "uploader_url": "https://www.youtube.com/@PyConAU",
+        "upload_date": "20210912",
+        "duration": 1734,
+        "view_count": 495,
+        "like_count": 10,
+        "comment_count": null,
+        "tags": [
+            "GajendraDeshpande",
+            "pyconau",
+            "pyconau_2021"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "(Gajendra Deshpande) Time series is one of the important as well as lesser-known fields of machine learning. In time series forecasting we analyze the time-dependent data for predicting long-term and seasonality trends.\n\nhttps://pretalx.com/pycon-au-2021/talk/QMZKMZ/\n\npython, pycon, australia, programming, conference, technical, pyconline, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science\n\nVideos licensed as CC-BY-NC-SA 4.0\r\n\r\nPyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.\r\n\r\nPyCon AU informs the country’s Python developers with presentations, tutorials and panel sessions by experts and core developers of Python, as well as the libraries and frameworks that they rely on.\n\nProduced by Next Day Video Australia: https://nextdayvideo.com.au\n\nFri Sep 10 14:15:00 2021 at Science, Data & Analytics",
+        "thumbnail": "https://i.ytimg.com/vi/uBvVfpkIdIc/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=uBvVfpkIdIc",
+        "original_url": "https://www.youtube.com/watch?v=uBvVfpkIdIc"
+    },
+    {
+        "index": 12,
+        "title": "\"horse.\" -  (PyConline AU 2021)",
+        "url": "https://www.youtube.com/watch?v=Nu-qbqWE08o",
+        "video_id": "Nu-qbqWE08o",
+        "uploader": "PyCon AU",
+        "uploader_id": "@PyConAU",
+        "uploader_url": "https://www.youtube.com/@PyConAU",
+        "upload_date": "20210912",
+        "duration": 70,
+        "view_count": 307,
+        "like_count": 19,
+        "comment_count": null,
+        "tags": [
+            "pyconau",
+            "pyconau_2021"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "() \n\npython, pycon, australia, programming, conference, technical, pyconline, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science\n\nVideos licensed as CC-BY-NC-SA 4.0\r\n\r\nPyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.\r\n\r\nPyCon AU informs the country’s Python developers with presentations, tutorials and panel sessions by experts and core developers of Python, as well as the libraries and frameworks that they rely on.\n\nProduced by Next Day Video Australia: https://nextdayvideo.com.au\n\nSun Sep 12 12:30:00 2021 at Curlyboi Theatre",
+        "thumbnail": "https://i.ytimg.com/vi/Nu-qbqWE08o/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=Nu-qbqWE08o",
+        "original_url": "https://www.youtube.com/watch?v=Nu-qbqWE08o"
+    },
+    {
+        "index": 13,
+        "title": "\"A tale of Python C extensions and cross-platform wheels\" - Vinayak Mehta (PyConline AU 2021)",
+        "url": "https://www.youtube.com/watch?v=PhIp6WQ2YJ0",
+        "video_id": "PhIp6WQ2YJ0",
+        "uploader": "PyCon AU",
+        "uploader_id": "@PyConAU",
+        "uploader_url": "https://www.youtube.com/@PyConAU",
+        "upload_date": "20210912",
+        "duration": 1465,
+        "view_count": 783,
+        "like_count": 27,
+        "comment_count": null,
+        "tags": [
+            "VinayakMehta",
+            "pyconau",
+            "pyconau_2021"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "(Vinayak Mehta) Learn how to write a Python C extension using pybind11 and package it for all major operating systems by building cross-platform wheels.\n\nhttps://pretalx.com/pycon-au-2021/talk/ANXUUE/\n\npython, pycon, australia, programming, conference, technical, pyconline, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science\n\nVideos licensed as CC-BY-NC-SA 4.0\r\n\r\nPyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.\r\n\r\nPyCon AU informs the country’s Python developers with presentations, tutorials and panel sessions by experts and core developers of Python, as well as the libraries and frameworks that they rely on.\n\nProduced by Next Day Video Australia: https://nextdayvideo.com.au\n\nSat Sep 11 11:15:00 2021 at Platypus Hall",
+        "thumbnail": "https://i.ytimg.com/vi/PhIp6WQ2YJ0/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=PhIp6WQ2YJ0",
+        "original_url": "https://www.youtube.com/watch?v=PhIp6WQ2YJ0"
+    },
+    {
+        "index": 14,
+        "title": "\"Knock, knock! Who's there?\" - Markus Holtermann (PyConline AU 2021)",
+        "url": "https://www.youtube.com/watch?v=1h21lSeDIjE",
+        "video_id": "1h21lSeDIjE",
+        "uploader": "PyCon AU",
+        "uploader_id": "@PyConAU",
+        "uploader_url": "https://www.youtube.com/@PyConAU",
+        "upload_date": "20210912",
+        "duration": 1773,
+        "view_count": 201,
+        "like_count": 5,
+        "comment_count": null,
+        "tags": [
+            "MarkusHoltermann",
+            "pyconau",
+            "pyconau_2021"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "(Markus Holtermann) It's at the core of most IT systems that surround us. Without it, nobody would know each other on the Internet. And whatever we'd do would not be secure.\r\n\r\n\r\nI'm talking about Identification and Authentication. But which options are out there to identify and authenticate someone?\n\nhttps://pretalx.com/pycon-au-2021/talk/QB9EHQ/\n\npython, pycon, australia, programming, conference, technical, pyconline, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science\n\nVideos licensed as CC-BY-NC-SA 4.0\r\n\r\nPyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.\r\n\r\nPyCon AU informs the country’s Python developers with presentations, tutorials and panel sessions by experts and core developers of Python, as well as the libraries and frameworks that they rely on.\n\nProduced by Next Day Video Australia: https://nextdayvideo.com.au\n\nFri Sep 10 17:00:00 2021 at Snakeoil Academy (Security & Privacy)",
+        "thumbnail": "https://i.ytimg.com/vi/1h21lSeDIjE/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=1h21lSeDIjE",
+        "original_url": "https://www.youtube.com/watch?v=1h21lSeDIjE"
+    },
+    {
+        "index": 15,
+        "title": "\"Education Track Closing Address\" - Amanda J Hogan, Nicky Ringland (PyConline AU 2021)",
+        "url": "https://www.youtube.com/watch?v=nA5HSv3eTs4",
+        "video_id": "nA5HSv3eTs4",
+        "uploader": "PyCon AU",
+        "uploader_id": "@PyConAU",
+        "uploader_url": "https://www.youtube.com/@PyConAU",
+        "upload_date": "20210912",
+        "duration": 253,
+        "view_count": 62,
+        "like_count": 0,
+        "comment_count": null,
+        "tags": [
+            "AmandaJHogan",
+            "NickyRingland",
+            "pyconau",
+            "pyconau_2021"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "(Amanda J Hogan, Nicky Ringland) Closing notes for the track\n\nhttps://pretalx.com/pycon-au-2021/talk/SWEVQV/\n\npython, pycon, australia, programming, conference, technical, pyconline, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science\n\nVideos licensed as CC-BY-NC-SA 4.0\r\n\r\nPyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.\r\n\r\nPyCon AU informs the country’s Python developers with presentations, tutorials and panel sessions by experts and core developers of Python, as well as the libraries and frameworks that they rely on.\n\nProduced by Next Day Video Australia: https://nextdayvideo.com.au\n\nFri Sep 10 17:35:00 2021 at Education",
+        "thumbnail": "https://i.ytimg.com/vi/nA5HSv3eTs4/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=nA5HSv3eTs4",
+        "original_url": "https://www.youtube.com/watch?v=nA5HSv3eTs4"
+    },
+    {
+        "index": 16,
+        "title": "\"Python VS Space Junk\" - Mars Buttfield-Addison (PyConline AU 2021)",
+        "url": "https://www.youtube.com/watch?v=jcgaU1mgS0A",
+        "video_id": "jcgaU1mgS0A",
+        "uploader": "PyCon AU",
+        "uploader_id": "@PyConAU",
+        "uploader_url": "https://www.youtube.com/@PyConAU",
+        "upload_date": "20210912",
+        "duration": 1992,
+        "view_count": 387,
+        "like_count": 11,
+        "comment_count": null,
+        "tags": [
+            "MarsButtfield-Addison",
+            "pyconau",
+            "pyconau_2021"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "(Mars Buttfield-Addison) A look at some of the systems in place today—data sources, algorithms, libraries, and pipelines—that manage the growing crisis of space debris and protect our critical orbital infrastructure from the ground.\n\nhttps://pretalx.com/pycon-au-2021/talk/DD7G83/\n\npython, pycon, australia, programming, conference, technical, pyconline, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science\n\nVideos licensed as CC-BY-NC-SA 4.0\r\n\r\nPyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.\r\n\r\nPyCon AU informs the country’s Python developers with presentations, tutorials and panel sessions by experts and core developers of Python, as well as the libraries and frameworks that they rely on.\n\nProduced by Next Day Video Australia: https://nextdayvideo.com.au\n\nSat Sep 11 15:30:00 2021 at Platypus Hall",
+        "thumbnail": "https://i.ytimg.com/vi/jcgaU1mgS0A/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=jcgaU1mgS0A",
+        "original_url": "https://www.youtube.com/watch?v=jcgaU1mgS0A"
+    },
+    {
+        "index": 17,
+        "title": "\"Making Swiss Cheese of Ticket Sales\" - Yaakov (PyConline AU 2021)",
+        "url": "https://www.youtube.com/watch?v=Df2s5d4-luM",
+        "video_id": "Df2s5d4-luM",
+        "uploader": "PyCon AU",
+        "uploader_id": "@PyConAU",
+        "uploader_url": "https://www.youtube.com/@PyConAU",
+        "upload_date": "20210912",
+        "duration": 1803,
+        "view_count": 244,
+        "like_count": 5,
+        "comment_count": null,
+        "tags": [
+            "Yaakov",
+            "pyconau",
+            "pyconau_2021"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "(Yaakov) What do you do when two minutes into ticket sales, your website keels over? When overwhelmed with errors, how can you begin to find the root cause? Or worse, what happens when there is no single root cause?\n\nhttps://pretalx.com/pycon-au-2021/talk/UV3ZXP/\n\npython, pycon, australia, programming, conference, technical, pyconline, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science\n\nVideos licensed as CC-BY-NC-SA 4.0\r\n\r\nPyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.\r\n\r\nPyCon AU informs the country’s Python developers with presentations, tutorials and panel sessions by experts and core developers of Python, as well as the libraries and frameworks that they rely on.\n\nProduced by Next Day Video Australia: https://nextdayvideo.com.au\n\nFri Sep 10 10:15:00 2021 at DevOops",
+        "thumbnail": "https://i.ytimg.com/vi/Df2s5d4-luM/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=Df2s5d4-luM",
+        "original_url": "https://www.youtube.com/watch?v=Df2s5d4-luM"
+    },
+    {
+        "index": 18,
+        "title": "\"Improved Decision Making with Pareto Fronts\" - Eyal Kazin (PyConline AU 2021)",
+        "url": "https://www.youtube.com/watch?v=8B92kqyxQlE",
+        "video_id": "8B92kqyxQlE",
+        "uploader": "PyCon AU",
+        "uploader_id": "@PyConAU",
+        "uploader_url": "https://www.youtube.com/@PyConAU",
+        "upload_date": "20210912",
+        "duration": 2014,
+        "view_count": 1088,
+        "like_count": 23,
+        "comment_count": null,
+        "tags": [
+            "EyalKazin",
+            "pyconau",
+            "pyconau_2021"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "(Eyal Kazin) Optimising for multiple objectives is a non-trivial task, especially when they are in conflict. For example how can one best overcome the classic trade-off between quality and cost of production, when the monetary value of quality is not defined? In this gentle introduction to multi-objective optimisation you will learn about Pareto Fronts and how they can be used to optimise for multiple objectives. \r\n\r\nAs a data driven decision maker you will learn the advantages and shortcomings of the technique and be able to assess applicability for your own projects.\n\nhttps://pretalx.com/pycon-au-2021/talk/87QF7B/\n\npython, pycon, australia, programming, conference, technical, pyconline, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science\n\nVideos licensed as CC-BY-NC-SA 4.0\r\n\r\nPyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.\r\n\r\nPyCon AU informs the country’s Python developers with presentations, tutorials and panel sessions by experts and core developers of Python, as well as the libraries and frameworks that they rely on.\n\nProduced by Next Day Video Australia: https://nextdayvideo.com.au\n\nFri Sep 10 16:15:00 2021 at Science, Data & Analytics",
+        "thumbnail": "https://i.ytimg.com/vi/8B92kqyxQlE/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=8B92kqyxQlE",
+        "original_url": "https://www.youtube.com/watch?v=8B92kqyxQlE"
+    },
+    {
+        "index": 19,
+        "title": "At the Turn of the Tide – Teaching Python in Real-Time at Scale",
+        "url": "https://www.youtube.com/watch?v=MPdtEVFSG3s",
+        "video_id": "MPdtEVFSG3s",
+        "uploader": "PyCon AU",
+        "uploader_id": "@PyConAU",
+        "uploader_url": "https://www.youtube.com/@PyConAU",
+        "upload_date": "20210912",
+        "duration": 1812,
+        "view_count": 191,
+        "like_count": 7,
+        "comment_count": null,
+        "tags": [
+            "AlisonWong",
+            "StephenTierney",
+            "pyconau",
+            "pyconau_2021"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "(Stephen Tierney, Alison Wong) Teaching a programming language can be challenging, even more so when your classroom is suddenly virtual and you have to teach 1200 students. With some clever thinking our multidisciplinary teaching team turned this crisis to our advantage and achieved an all time high level of student satisfaction. We are now able to reach any student, no matter their location, timezone or computing device with a real-time collaborative coding environment.\r\n\r\nThis talk will cover what we consider “must-haves” for teaching in these extreme circumstances and how we have been able to maintain student engagement. We will demonstrate our solution to hosting tutorials online and share the lessons we learnt along the way.\n\nhttps://pretalx.com/pycon-au-2021/talk/RWKZXE/\n\npython, pycon, australia, programming, conference, technical, pyconline, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science\n\nVideos licensed as CC-BY-NC-SA 4.0\r\n\r\nPyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.\r\n\r\nPyCon AU informs the country’s Python developers with presentations, tutorials and panel sessions by experts and core developers of Python, as well as the libraries and frameworks that they rely on.\n\nProduced by Next Day Video Australia: https://nextdayvideo.com.au\n\nFri Sep 10 13:30:00 2021 at Education",
+        "thumbnail": "https://i.ytimg.com/vi/MPdtEVFSG3s/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=MPdtEVFSG3s",
+        "original_url": "https://www.youtube.com/watch?v=MPdtEVFSG3s"
+    },
+    {
+        "index": 20,
+        "title": "\"Classifying Audio into Types using Python\" - Jyotika Singh (PyConline AU 2021)",
+        "url": "https://www.youtube.com/watch?v=EwByftxJiLE",
+        "video_id": "EwByftxJiLE",
+        "uploader": "PyCon AU",
+        "uploader_id": "@PyConAU",
+        "uploader_url": "https://www.youtube.com/@PyConAU",
+        "upload_date": "20210912",
+        "duration": 1862,
+        "view_count": 517,
+        "like_count": 19,
+        "comment_count": null,
+        "tags": [
+            "JyotikaSingh",
+            "pyconau",
+            "pyconau_2021"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "(Jyotika Singh) What is audio data? How to build features and classification models on audio? How to solve audio classification problems in python? This talk will answer all those questions and highlight the challenges in classifying using audio, the features that work well with audio and speech data and extracting them, the open-source tools in Python that can be leveraged and some usage examples and applications.\n\nhttps://pretalx.com/pycon-au-2021/talk/TCJLKP/\n\npython, pycon, australia, programming, conference, technical, pyconline, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science\n\nVideos licensed as CC-BY-NC-SA 4.0\r\n\r\nPyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.\r\n\r\nPyCon AU informs the country’s Python developers with presentations, tutorials and panel sessions by experts and core developers of Python, as well as the libraries and frameworks that they rely on.\n\nProduced by Next Day Video Australia: https://nextdayvideo.com.au\n\nFri Sep 10 11:00:00 2021 at Science, Data & Analytics",
+        "thumbnail": "https://i.ytimg.com/vi/EwByftxJiLE/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=EwByftxJiLE",
+        "original_url": "https://www.youtube.com/watch?v=EwByftxJiLE"
+    },
+    {
+        "index": 21,
+        "title": "\"Graph Data Science\" - Paco Nathan (PyConline AU 2021)",
+        "url": "https://www.youtube.com/watch?v=OYumjxxCWvE",
+        "video_id": "OYumjxxCWvE",
+        "uploader": "PyCon AU",
+        "uploader_id": "@PyConAU",
+        "uploader_url": "https://www.youtube.com/@PyConAU",
+        "upload_date": "20210912",
+        "duration": 1825,
+        "view_count": 677,
+        "like_count": 21,
+        "comment_count": null,
+        "tags": [
+            "PacoNathan",
+            "pyconau",
+            "pyconau_2021"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "(Paco Nathan) Graphs are amazing: there's the emerging graph ML work in deep learning, the rise of knowledge graphs in industry, powerful graph algorithms, ginormous graph databases, interactive graph visualizations, and so on. While these might seem to require special platforms and specialized expertise, in fact there's so much that can be done with graph-based technologies in Python. A team of open source developers has been working on [`kglab`](https://github.com/DerwenAI/kglab) to integrate many different libraries related to graph work into an abstraction that plays well with popular data science tools in Python: pandas, NumPy, scikit-learn, Parquet, spaCy, PyTorch, RAPIDS, etc. This session will introduce _Graph Data Science_, showing how you can leverage these techniques into your data analytics work.\n\nhttps://pretalx.com/pycon-au-2021/talk/UTHCXW/\n\npython, pycon, australia, programming, conference, technical, pyconline, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science\n\nVideos licensed as CC-BY-NC-SA 4.0\r\n\r\nPyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.\r\n\r\nPyCon AU informs the country’s Python developers with presentations, tutorials and panel sessions by experts and core developers of Python, as well as the libraries and frameworks that they rely on.\n\nProduced by Next Day Video Australia: https://nextdayvideo.com.au\n\nFri Sep 10 13:30:00 2021 at Science, Data & Analytics",
+        "thumbnail": "https://i.ytimg.com/vi/OYumjxxCWvE/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=OYumjxxCWvE",
+        "original_url": "https://www.youtube.com/watch?v=OYumjxxCWvE"
+    },
+    {
+        "index": 22,
+        "title": "\"Hey, Python-Web-Community! What's going on?\" - Vibhu Agarwal (PyConline AU 2021)",
+        "url": "https://www.youtube.com/watch?v=2-RcyZF84gg",
+        "video_id": "2-RcyZF84gg",
+        "uploader": "PyCon AU",
+        "uploader_id": "@PyConAU",
+        "uploader_url": "https://www.youtube.com/@PyConAU",
+        "upload_date": "20210912",
+        "duration": 1849,
+        "view_count": 519,
+        "like_count": 32,
+        "comment_count": null,
+        "tags": [
+            "VibhuAgarwal",
+            "pyconau",
+            "pyconau_2021"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "(Vibhu Agarwal) Django, Flask or FastAPI, ASGI-WSGI, asynchronous-synchronous, protocol or web server, workers or threads, gunicorn-uvicorn - **What** is going on!? What exactly are these? How do they come along together? Do I even need to know about them?\r\n\r\nDeveloping back-ends for dynamic websites can be done in a lot of different ways, and fortunately, python has a great set of libraries and packages to help us with the implementation. The problem arises when we dive deep and are overwhelmed with the stuff we have at our disposal.\r\n\r\nDuring this talk, we'll try to find answers to the above questions. We'll take a look at the high-level and core features of different parts and understand how they are kept compatible with each other to bring out a fantastic web ecosystem.\n\nhttps://pretalx.com/pycon-au-2021/talk/BWN9BP/\n\npython, pycon, australia, programming, conference, technical, pyconline, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science\n\nVideos licensed as CC-BY-NC-SA 4.0\r\n\r\nPyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.\r\n\r\nPyCon AU informs the country’s Python developers with presentations, tutorials and panel sessions by experts and core developers of Python, as well as the libraries and frameworks that they rely on.\n\nProduced by Next Day Video Australia: https://nextdayvideo.com.au\n\nSat Sep 11 15:30:00 2021 at Curlyboi Theatre",
+        "thumbnail": "https://i.ytimg.com/vi/2-RcyZF84gg/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=2-RcyZF84gg",
+        "original_url": "https://www.youtube.com/watch?v=2-RcyZF84gg"
+    },
+    {
+        "index": 23,
+        "title": "\"CFU Playground\" - Alan Green (PyConline AU 2021)",
+        "url": "https://www.youtube.com/watch?v=9Oz7C95lVSA",
+        "video_id": "9Oz7C95lVSA",
+        "uploader": "PyCon AU",
+        "uploader_id": "@PyConAU",
+        "uploader_url": "https://www.youtube.com/@PyConAU",
+        "upload_date": "20210912",
+        "duration": 1839,
+        "view_count": 528,
+        "like_count": 10,
+        "comment_count": null,
+        "tags": [
+            "AlanGreen",
+            "pyconau",
+            "pyconau_2021"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "(Alan Green) The CFU-Playground allows anyone to build FPGA based accelerators for ML inferencing. With a heavy reliance on the Python based tools LiteX and nMigen, it encourages an interative development style, typically starting with a single multiply-accumulate, and progressing in small steps to a full inner loop.\n\nhttps://pretalx.com/pycon-au-2021/talk/ZRJHG8/\n\npython, pycon, australia, programming, conference, technical, pyconline, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science\n\nVideos licensed as CC-BY-NC-SA 4.0\r\n\r\nPyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.\r\n\r\nPyCon AU informs the country’s Python developers with presentations, tutorials and panel sessions by experts and core developers of Python, as well as the libraries and frameworks that they rely on.\n\nProduced by Next Day Video Australia: https://nextdayvideo.com.au\n\nSat Sep 11 12:00:00 2021 at Platypus Hall",
+        "thumbnail": "https://i.ytimg.com/vi/9Oz7C95lVSA/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=9Oz7C95lVSA",
+        "original_url": "https://www.youtube.com/watch?v=9Oz7C95lVSA"
+    },
+    {
+        "index": 24,
+        "title": "So You’re a Software Developer, Now What? Exploring Career Growth",
+        "url": "https://www.youtube.com/watch?v=7biRmePJrRM",
+        "video_id": "7biRmePJrRM",
+        "uploader": "PyCon AU",
+        "uploader_id": "@PyConAU",
+        "uploader_url": "https://www.youtube.com/@PyConAU",
+        "upload_date": "20210912",
+        "duration": 1794,
+        "view_count": 566,
+        "like_count": 16,
+        "comment_count": null,
+        "tags": [
+            "BriannaLaugher",
+            "pyconau",
+            "pyconau_2021"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "(Brianna Laugher) So you’re a software developer, now what? Is it satisfying? How do you level up? How can you influence your career direction? How can you even figure out what you want?\n\nhttps://pretalx.com/pycon-au-2021/talk/F9QJX7/\n\npython, pycon, australia, programming, conference, technical, pyconline, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science\n\nVideos licensed as CC-BY-NC-SA 4.0\r\n\r\nPyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.\r\n\r\nPyCon AU informs the country’s Python developers with presentations, tutorials and panel sessions by experts and core developers of Python, as well as the libraries and frameworks that they rely on.\n\nProduced by Next Day Video Australia: https://nextdayvideo.com.au\n\nSat Sep 11 14:00:00 2021 at Platypus Hall",
+        "thumbnail": "https://i.ytimg.com/vi/7biRmePJrRM/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=7biRmePJrRM",
+        "original_url": "https://www.youtube.com/watch?v=7biRmePJrRM"
+    },
+    {
+        "index": 25,
+        "title": "\"Composing algorithmic (notated) music with Python and Abjad\" - Tsz Kiu Pang (PyConline AU 2021)",
+        "url": "https://www.youtube.com/watch?v=__SgZicZGh4",
+        "video_id": "__SgZicZGh4",
+        "uploader": "PyCon AU",
+        "uploader_id": "@PyConAU",
+        "uploader_url": "https://www.youtube.com/@PyConAU",
+        "upload_date": "20210912",
+        "duration": 1902,
+        "view_count": 2954,
+        "like_count": 70,
+        "comment_count": null,
+        "tags": [
+            "TszKiuPang",
+            "pyconau",
+            "pyconau_2021"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "(Tsz Kiu Pang) When people think of programming and music, electronic music would probably be the first thing that comes to mind. This talk aims to provide some insight into a lesser-known field -- composing traditionally notated music in Python with Abjad, an algorithmic composition software.\n\nhttps://pretalx.com/pycon-au-2021/talk/YKEUBT/\n\npython, pycon, australia, programming, conference, technical, pyconline, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science\n\nVideos licensed as CC-BY-NC-SA 4.0\r\n\r\nPyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.\r\n\r\nPyCon AU informs the country’s Python developers with presentations, tutorials and panel sessions by experts and core developers of Python, as well as the libraries and frameworks that they rely on.\n\nProduced by Next Day Video Australia: https://nextdayvideo.com.au\n\nSat Sep 11 14:00:00 2021 at Curlyboi Theatre",
+        "thumbnail": "https://i.ytimg.com/vi/__SgZicZGh4/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=__SgZicZGh4",
+        "original_url": "https://www.youtube.com/watch?v=__SgZicZGh4"
+    },
+    {
+        "index": 26,
+        "title": "\"It doesn't work!\" - André Roberge (PyConline AU 2021)",
+        "url": "https://www.youtube.com/watch?v=NrXmEwSD8Cs",
+        "video_id": "NrXmEwSD8Cs",
+        "uploader": "PyCon AU",
+        "uploader_id": "@PyConAU",
+        "uploader_url": "https://www.youtube.com/@PyConAU",
+        "upload_date": "20210912",
+        "duration": 1510,
+        "view_count": 162,
+        "like_count": 4,
+        "comment_count": null,
+        "tags": [
+            "AndréRoberge",
+            "pyconau",
+            "pyconau_2021"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "(André Roberge) When beginners encounter tracebacks, they are often intimidated and do not know what to do with the information, which may tempt them to give up. In this talk, I will demonstrate a tool that can help them (and you) get all the information necessary to find the exact cause of an exception as well as some possible hints leading you to a solution.\n\nhttps://pretalx.com/pycon-au-2021/talk/EKJR9K/\n\npython, pycon, australia, programming, conference, technical, pyconline, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science\n\nVideos licensed as CC-BY-NC-SA 4.0\r\n\r\nPyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.\r\n\r\nPyCon AU informs the country’s Python developers with presentations, tutorials and panel sessions by experts and core developers of Python, as well as the libraries and frameworks that they rely on.\n\nProduced by Next Day Video Australia: https://nextdayvideo.com.au\n\nFri Sep 10 11:00:00 2021 at Education",
+        "thumbnail": "https://i.ytimg.com/vi/NrXmEwSD8Cs/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=NrXmEwSD8Cs",
+        "original_url": "https://www.youtube.com/watch?v=NrXmEwSD8Cs"
+    },
+    {
+        "index": 27,
+        "title": "\"Working with penetration testers as a developer\" - Liam O (PyConline AU 2021)",
+        "url": "https://www.youtube.com/watch?v=30whGoKOduA",
+        "video_id": "30whGoKOduA",
+        "uploader": "PyCon AU",
+        "uploader_id": "@PyConAU",
+        "uploader_url": "https://www.youtube.com/@PyConAU",
+        "upload_date": "20210913",
+        "duration": 1961,
+        "view_count": 319,
+        "like_count": 5,
+        "comment_count": null,
+        "tags": [
+            "LiamO",
+            "pyconau",
+            "pyconau_2021"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "(Liam O) As a developer, sooner or later in your career you'll end up working with penetration testers. This talk aims to help you maximise your value from the engagement\n\nhttps://pretalx.com/pycon-au-2021/talk/Q3TEMG/\n\npython, pycon, australia, programming, conference, technical, pyconline, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science\n\nVideos licensed as CC-BY-NC-SA 4.0\r\n\r\nPyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.\r\n\r\nPyCon AU informs the country’s Python developers with presentations, tutorials and panel sessions by experts and core developers of Python, as well as the libraries and frameworks that they rely on.\n\nProduced by Next Day Video Australia: https://nextdayvideo.com.au\n\nFri Sep 10 14:15:00 2021 at Snakeoil Academy (Security & Privacy)",
+        "thumbnail": "https://i.ytimg.com/vi/30whGoKOduA/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=30whGoKOduA",
+        "original_url": "https://www.youtube.com/watch?v=30whGoKOduA"
+    },
+    {
+        "index": 28,
+        "title": "A capital letter, a number, a special character, an emotional journey for the character, a subplot,",
+        "url": "https://www.youtube.com/watch?v=attJqUILij4",
+        "video_id": "attJqUILij4",
+        "uploader": "PyCon AU",
+        "uploader_id": "@PyConAU",
+        "uploader_url": "https://www.youtube.com/@PyConAU",
+        "upload_date": "20210913",
+        "duration": 1797,
+        "view_count": 216,
+        "like_count": 4,
+        "comment_count": null,
+        "tags": [
+            "philnash",
+            "pyconau",
+            "pyconau_2021"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "(philnash) The humble password is broken. The internet is littered with poor security practices and password breaches, but the world is not ready to go password free yet. So what can we do to protect our users?\r\n\r\nLet's take a look at how we currently protect passwords, at what we can throw away from those processes and what we can bring in to help strengthen our users' passwords. We'll investigate the tools, practices and APIs that can help us in this endeavour. Together we can move the world from \"password1\" to \"correct horse battery staple\" and beyond!\n\nhttps://pretalx.com/pycon-au-2021/talk/3B8SEP/\n\npython, pycon, australia, programming, conference, technical, pyconline, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science\n\nVideos licensed as CC-BY-NC-SA 4.0\r\n\r\nPyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.\r\n\r\nPyCon AU informs the country’s Python developers with presentations, tutorials and panel sessions by experts and core developers of Python, as well as the libraries and frameworks that they rely on.\n\nProduced by Next Day Video Australia: https://nextdayvideo.com.au\n\nFri Sep 10 15:00:00 2021 at Snakeoil Academy (Security & Privacy)",
+        "thumbnail": "https://i.ytimg.com/vi/attJqUILij4/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=attJqUILij4",
+        "original_url": "https://www.youtube.com/watch?v=attJqUILij4"
+    },
+    {
+        "index": 29,
+        "title": "\"Real python, made of blocks\" - Katie Bell (PyConline AU 2021)",
+        "url": "https://www.youtube.com/watch?v=euRZDSOWdE0",
+        "video_id": "euRZDSOWdE0",
+        "uploader": "PyCon AU",
+        "uploader_id": "@PyConAU",
+        "uploader_url": "https://www.youtube.com/@PyConAU",
+        "upload_date": "20210913",
+        "duration": 1884,
+        "view_count": 997,
+        "like_count": 34,
+        "comment_count": null,
+        "tags": [
+            "KatieBell",
+            "pyconau",
+            "pyconau_2021"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "(Katie Bell) Programming is hard, python is hard, but it could be so much easier.\n\nhttps://pretalx.com/pycon-au-2021/talk/YW8HGJ/\n\npython, pycon, australia, programming, conference, technical, pyconline, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science\n\nVideos licensed as CC-BY-NC-SA 4.0\r\n\r\nPyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.\r\n\r\nPyCon AU informs the country’s Python developers with presentations, tutorials and panel sessions by experts and core developers of Python, as well as the libraries and frameworks that they rely on.\n\nProduced by Next Day Video Australia: https://nextdayvideo.com.au\n\nFri Sep 10 14:15:00 2021 at Education",
+        "thumbnail": "https://i.ytimg.com/vi/euRZDSOWdE0/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=euRZDSOWdE0",
+        "original_url": "https://www.youtube.com/watch?v=euRZDSOWdE0"
+    },
+    {
+        "index": 30,
+        "title": "\"Education Showcase\" - Amanda J Hogan, Nicky Ringland (PyConline AU 2021)",
+        "url": "https://www.youtube.com/watch?v=gUldASQkMPQ",
+        "video_id": "gUldASQkMPQ",
+        "uploader": "PyCon AU",
+        "uploader_id": "@PyConAU",
+        "uploader_url": "https://www.youtube.com/@PyConAU",
+        "upload_date": "20210913",
+        "duration": 7188,
+        "view_count": 395,
+        "like_count": 9,
+        "comment_count": null,
+        "tags": [
+            "AmandaJHogan",
+            "NickyRingland",
+            "pyconau",
+            "pyconau_2021"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "(Amanda J Hogan, Nicky Ringland) Join us for 6 fantastic short talks from high school students! You'll learn about Renewable Hearing, Kookaberry apps, 3D Games with Pygame, AI on the Twitter Timeline, Python metaprogramming through bytecode, and Deblurring with Deep Learning.\n\nhttps://pretalx.com/pycon-au-2021/talk/KNBLPB/\n\npython, pycon, australia, programming, conference, technical, pyconline, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science\n\nVideos licensed as CC-BY-NC-SA 4.0\r\n\r\nPyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.\r\n\r\nPyCon AU informs the country’s Python developers with presentations, tutorials and panel sessions by experts and core developers of Python, as well as the libraries and frameworks that they rely on.\n\nProduced by Next Day Video Australia: https://nextdayvideo.com.au\n\nFri Sep 10 16:15:00 2021 at Education",
+        "thumbnail": "https://i.ytimg.com/vi/gUldASQkMPQ/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=gUldASQkMPQ",
+        "original_url": "https://www.youtube.com/watch?v=gUldASQkMPQ"
+    },
+    {
+        "index": 31,
+        "title": "Setting up a machine translation service for Timor-Leste",
+        "url": "https://www.youtube.com/watch?v=lixOk2b4CR4",
+        "video_id": "lixOk2b4CR4",
+        "uploader": "PyCon AU",
+        "uploader_id": "@PyConAU",
+        "uploader_url": "https://www.youtube.com/@PyConAU",
+        "upload_date": "20210913",
+        "duration": 1939,
+        "view_count": 500,
+        "like_count": 16,
+        "comment_count": null,
+        "tags": [
+            "MelMistica",
+            "RaphaelMerx",
+            "pyconau",
+            "pyconau_2021"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "(Raphael Merx, Mel Mistica) Timor-Leste's lingua franca, Tetun, was not on Google Translate or any other free automated translation service. So we embarked on a project to provide this service, starting from zero language resources to building a complete solution, online and free, all in Python!\n\nhttps://pretalx.com/pycon-au-2021/talk/GNJCGP/\n\npython, pycon, australia, programming, conference, technical, pyconline, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science\n\nVideos licensed as CC-BY-NC-SA 4.0\r\n\r\nPyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.\r\n\r\nPyCon AU informs the country’s Python developers with presentations, tutorials and panel sessions by experts and core developers of Python, as well as the libraries and frameworks that they rely on.\n\nProduced by Next Day Video Australia: https://nextdayvideo.com.au\n\nSat Sep 11 17:30:00 2021 at Platypus Hall",
+        "thumbnail": "https://i.ytimg.com/vi/lixOk2b4CR4/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=lixOk2b4CR4",
+        "original_url": "https://www.youtube.com/watch?v=lixOk2b4CR4"
+    },
+    {
+        "index": 32,
+        "title": "\"Football (soccer) data analysis: A pedagogic introduction\" - Indranil Ghosh (PyConline AU 2021)",
+        "url": "https://www.youtube.com/watch?v=IBTgHLUS7Xo",
+        "video_id": "IBTgHLUS7Xo",
+        "uploader": "PyCon AU",
+        "uploader_id": "@PyConAU",
+        "uploader_url": "https://www.youtube.com/@PyConAU",
+        "upload_date": "20210913",
+        "duration": 1767,
+        "view_count": 345,
+        "like_count": 6,
+        "comment_count": null,
+        "tags": [
+            "IndranilGhosh",
+            "pyconau",
+            "pyconau_2021"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "(Indranil Ghosh) Nowadays data is the key to solving challenges in most fields, say astronomy, applied mathematics, health care, or even sports. Data is everywhere and it is super beneficial to leverage these data and build models for making sense out of them and telling stories. The field of sports, especially football (soccer), is enriched by data analysis that makes us understand the game better and predict outcomes. Many people want to delve deep into football (soccer) data analysis and get their hands dirty. This talk is to help them do so by pedagogically introducing them to the introductory analytical methodologies to overcome the initial barriers of the field and start working with data analyses and visualizations on football data to deduce interesting results.\n\nhttps://pretalx.com/pycon-au-2021/talk/PJWQZQ/\n\npython, pycon, australia, programming, conference, technical, pyconline, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science\n\nVideos licensed as CC-BY-NC-SA 4.0\r\n\r\nPyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.\r\n\r\nPyCon AU informs the country’s Python developers with presentations, tutorials and panel sessions by experts and core developers of Python, as well as the libraries and frameworks that they rely on.\n\nProduced by Next Day Video Australia: https://nextdayvideo.com.au\n\nSun Sep 12 02:45:00 2021 at Backup Speakers",
+        "thumbnail": "https://i.ytimg.com/vi/IBTgHLUS7Xo/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=IBTgHLUS7Xo",
+        "original_url": "https://www.youtube.com/watch?v=IBTgHLUS7Xo"
+    },
+    {
+        "index": 33,
+        "title": "Web Security for Newcomers: how to avoid getting hacked as a software developer",
+        "url": "https://www.youtube.com/watch?v=G4rlytL8MOY",
+        "video_id": "G4rlytL8MOY",
+        "uploader": "PyCon AU",
+        "uploader_id": "@PyConAU",
+        "uploader_url": "https://www.youtube.com/@PyConAU",
+        "upload_date": "20210913",
+        "duration": 1945,
+        "view_count": 280,
+        "like_count": 7,
+        "comment_count": null,
+        "tags": [
+            "AndreasPaech",
+            "pyconau",
+            "pyconau_2021"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "(Andreas Paech) This talk is for software developers who want to understand web security fundamentals and prevent common attacks on web projects. We will discuss prepared source code examples with an insecure Python backend (and a little insecure JavaScript frontend). You don't need prior knowledge.\n\nhttps://pretalx.com/pycon-au-2021/talk/H7YXVQ/\n\npython, pycon, australia, programming, conference, technical, pyconline, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science\n\nVideos licensed as CC-BY-NC-SA 4.0\r\n\r\nPyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.\r\n\r\nPyCon AU informs the country’s Python developers with presentations, tutorials and panel sessions by experts and core developers of Python, as well as the libraries and frameworks that they rely on.\n\nProduced by Next Day Video Australia: https://nextdayvideo.com.au\n\nFri Sep 10 16:15:00 2021 at Snakeoil Academy (Security & Privacy)",
+        "thumbnail": "https://i.ytimg.com/vi/G4rlytL8MOY/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=G4rlytL8MOY",
+        "original_url": "https://www.youtube.com/watch?v=G4rlytL8MOY"
+    },
+    {
+        "index": 34,
+        "title": "\"Collapsology: Why your biggest threat isn’t exposed RDP\" - errbufferoverfl (PyConline AU 2021)",
+        "url": "https://www.youtube.com/watch?v=iP1EPNQ0CjY",
+        "video_id": "iP1EPNQ0CjY",
+        "uploader": "PyCon AU",
+        "uploader_id": "@PyConAU",
+        "uploader_url": "https://www.youtube.com/@PyConAU",
+        "upload_date": "20210913",
+        "duration": 1787,
+        "view_count": 171,
+        "like_count": 0,
+        "comment_count": null,
+        "tags": [
+            "errbufferoverfl",
+            "pyconau",
+            "pyconau_2021"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "(errbufferoverfl) What can we learn from decades of research on collapsology, the study of industrial civilizations collapsing? What do ancient civilizations have in common with security culture? The answer is a lot more than you think, and it doesn't even involve patching! So come along to discover what we can learn about identifying risks and threats in our security culture. Because if you aren't hacking it, who is?\n\nhttps://pretalx.com/pycon-au-2021/talk/JEQDAS/\n\npython, pycon, australia, programming, conference, technical, pyconline, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science\n\nVideos licensed as CC-BY-NC-SA 4.0\r\n\r\nPyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.\r\n\r\nPyCon AU informs the country’s Python developers with presentations, tutorials and panel sessions by experts and core developers of Python, as well as the libraries and frameworks that they rely on.\n\nProduced by Next Day Video Australia: https://nextdayvideo.com.au\n\nFri Sep 10 09:30:00 2021 at Snakeoil Academy (Security & Privacy)",
+        "thumbnail": "https://i.ytimg.com/vi/iP1EPNQ0CjY/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=iP1EPNQ0CjY",
+        "original_url": "https://www.youtube.com/watch?v=iP1EPNQ0CjY"
+    },
+    {
+        "index": 35,
+        "title": "\"Keynote - Ee Durbin\" - Ee Durbin (PyConline AU 2021)",
+        "url": "https://www.youtube.com/watch?v=vga-BHiEojU",
+        "video_id": "vga-BHiEojU",
+        "uploader": "PyCon AU",
+        "uploader_id": "@PyConAU",
+        "uploader_url": "https://www.youtube.com/@PyConAU",
+        "upload_date": "20210913",
+        "duration": 3148,
+        "view_count": 505,
+        "like_count": 10,
+        "comment_count": null,
+        "tags": [
+            "EeDurbin",
+            "pyconau",
+            "pyconau_2021"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "(Ee Durbin) Ee Durbin has been invited to keynote PyConline 2021. [Read the announcement post](https://2021.pycon.org.au/news/2021-08-05-keynote).\n\nhttps://pretalx.com/pycon-au-2021/talk/F39RRV/\n\npython, pycon, australia, programming, conference, technical, pyconline, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science\n\nVideos licensed as CC-BY-NC-SA 4.0\r\n\r\nPyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.\r\n\r\nPyCon AU informs the country’s Python developers with presentations, tutorials and panel sessions by experts and core developers of Python, as well as the libraries and frameworks that they rely on.\n\nProduced by Next Day Video Australia: https://nextdayvideo.com.au\n\nSat Sep 11 09:15:00 2021 at Curlyboi Theatre",
+        "thumbnail": "https://i.ytimg.com/vi/vga-BHiEojU/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=vga-BHiEojU",
+        "original_url": "https://www.youtube.com/watch?v=vga-BHiEojU"
+    },
+    {
+        "index": 36,
+        "title": "\"Accessibility Overlays: A Cautionary Tale\" - Dawn E. Collett (PyConline AU 2021)",
+        "url": "https://www.youtube.com/watch?v=RsMyMRpq9bQ",
+        "video_id": "RsMyMRpq9bQ",
+        "uploader": "PyCon AU",
+        "uploader_id": "@PyConAU",
+        "uploader_url": "https://www.youtube.com/@PyConAU",
+        "upload_date": "20210913",
+        "duration": 2097,
+        "view_count": 227,
+        "like_count": 4,
+        "comment_count": null,
+        "tags": [
+            "DawnE.Collett",
+            "pyconau",
+            "pyconau_2021"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "(Dawn E. Collett) Sources: https://github.com/lisushka/overlays\r\n\r\n'Add this one line of code to your website to avoid being sued!'\r\n\r\nIf you think that that statement sounds like a particularly obnoxious ad, or that it must be too good to be true, you're not alone.  However, over the past several years, a number of companies popped up with products which claimed to do just that.  Their solutions were marketed as a quick and easy way to satisfy legislative requirements, and best of all, ensure that your website would be accessible to anyone, anywhere.\r\n\r\nAnd then the lawsuits started.\r\n\r\nWelcome to the world of accessibility overlays. According to their creators, they're plug-and-play software which remediates accessibility issues on your website, bringing you into compliance with the Web Content Accessibility Guidelines and disability access laws instantly.  However, if you ask the disabled people who should be reaping the benefits, the answer seems paradoxical: accessibility overlays actually make websites *less* usable for them.\r\n\r\nWhy is that?  And how did we get to a point where the most prominently advertised solutions for software accessibility make the problem worse?  Let's examine this cautionary tale, and find out what it can teach us about both accessibility and the principles of good design.\n\nhttps://pretalx.com/pycon-au-2021/talk/PFJFXW/\n\npython, pycon, australia, programming, conference, technical, pyconline, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science\n\nVideos licensed as CC-BY-NC-SA 4.0\r\n\r\nPyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.\r\n\r\nPyCon AU informs the country’s Python developers with presentations, tutorials and panel sessions by experts and core developers of Python, as well as the libraries and frameworks that they rely on.\n\nProduced by Next Day Video Australia: https://nextdayvideo.com.au\n\nFri Sep 10 17:00:00 2021 at DevOops",
+        "thumbnail": "https://i.ytimg.com/vi/RsMyMRpq9bQ/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=RsMyMRpq9bQ",
+        "original_url": "https://www.youtube.com/watch?v=RsMyMRpq9bQ"
+    },
+    {
+        "index": 37,
+        "title": "\"Ten Tips For Teaching Technical Topics\" - Tom Kunc (PyConline AU 2021)",
+        "url": "https://www.youtube.com/watch?v=F_Brvb9RDT4",
+        "video_id": "F_Brvb9RDT4",
+        "uploader": "PyCon AU",
+        "uploader_id": "@PyConAU",
+        "uploader_url": "https://www.youtube.com/@PyConAU",
+        "upload_date": "20210913",
+        "duration": 1768,
+        "view_count": 349,
+        "like_count": 12,
+        "comment_count": null,
+        "tags": [
+            "TomKunc",
+            "pyconau",
+            "pyconau_2021"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "(Tom Kunc) This talk is a crash course in teaching and communicating technical topics better, regardless of your own technical skill. It was originally part of a workshop I delivered for new tutors in my University CS programs, with tips to help students learn programming more effectively both in one-on-one and group environments. It spans topics from psychology, to lesson design and to communication skills, and in the small and the large will help you communicate topics better.\n\nhttps://pretalx.com/pycon-au-2021/talk/87NDMH/\n\npython, pycon, australia, programming, conference, technical, pyconline, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science\n\nVideos licensed as CC-BY-NC-SA 4.0\r\n\r\nPyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.\r\n\r\nPyCon AU informs the country’s Python developers with presentations, tutorials and panel sessions by experts and core developers of Python, as well as the libraries and frameworks that they rely on.\n\nProduced by Next Day Video Australia: https://nextdayvideo.com.au\n\nFri Sep 10 15:00:00 2021 at Education",
+        "thumbnail": "https://i.ytimg.com/vi/F_Brvb9RDT4/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=F_Brvb9RDT4",
+        "original_url": "https://www.youtube.com/watch?v=F_Brvb9RDT4"
+    },
+    {
+        "index": 38,
+        "title": "\"Get Kookin’ With Kookaberry\" - Renee Noble (PyConline AU 2021)",
+        "url": "https://www.youtube.com/watch?v=tTetLA0CZls",
+        "video_id": "tTetLA0CZls",
+        "uploader": "PyCon AU",
+        "uploader_id": "@PyConAU",
+        "uploader_url": "https://www.youtube.com/@PyConAU",
+        "upload_date": "20210913",
+        "duration": 1829,
+        "view_count": 327,
+        "like_count": 5,
+        "comment_count": null,
+        "tags": [
+            "ReneeNoble",
+            "pyconau",
+            "pyconau_2021"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "(Renee Noble) I’ve been a big fan of the BBC micro:bit for years now, but then I heard there was a *new Aussie kid* on the *embedded systems block*, the “Kookaberry”. I was interested to hear more but skeptical that it could lure me away from the micro:bit lifestyle where I’d invested my time learning and developing content. But here I am, 6 months into my Kookaberry journey, and I’m a total convert. \r\n\r\nI’ll take you through my journey of discovery and show you how Kookaberry gives you an easier entry point to MicroPython and embedded systems for beginners, more extendable, realistic, and relatable project experiences for your existing programmers (without having to get the breadboards out!), and how you can utilise Kookaberry in a huge range of cross-curricular applications.\n\nhttps://pretalx.com/pycon-au-2021/talk/NXYTWM/\n\npython, pycon, australia, programming, conference, technical, pyconline, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science\n\nVideos licensed as CC-BY-NC-SA 4.0\r\n\r\nPyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.\r\n\r\nPyCon AU informs the country’s Python developers with presentations, tutorials and panel sessions by experts and core developers of Python, as well as the libraries and frameworks that they rely on.\n\nProduced by Next Day Video Australia: https://nextdayvideo.com.au\n\nFri Sep 10 09:30:00 2021 at Education",
+        "thumbnail": "https://i.ytimg.com/vi/tTetLA0CZls/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=tTetLA0CZls",
+        "original_url": "https://www.youtube.com/watch?v=tTetLA0CZls"
+    },
+    {
+        "index": 39,
+        "title": "\"Lightning talks\" - Christopher Neugebauer, Libby Berrie (PyConline AU 2021)",
+        "url": "https://www.youtube.com/watch?v=vT4mhZHoHtI",
+        "video_id": "vT4mhZHoHtI",
+        "uploader": "PyCon AU",
+        "uploader_id": "@PyConAU",
+        "uploader_url": "https://www.youtube.com/@PyConAU",
+        "upload_date": "20210913",
+        "duration": 5162,
+        "view_count": 532,
+        "like_count": 7,
+        "comment_count": null,
+        "tags": [
+            "ChristopherNeugebauer",
+            "LibbyBerrie",
+            "pyconau",
+            "pyconau_2021"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "(Christopher Neugebauer, Libby Berrie) The well-loved PyCon AU Lightning talks is back!\n\nhttps://pretalx.com/pycon-au-2021/talk/83XWJW/\n\n0:00 Introduction\n1:40 Tyson Clugg - Python in ALL the files!\n7:01 Daniel - Racing networkx and Tackling Code Complexity\n12:16 Geoffrey Pidcock - 2 minutes of meditation\n17:45 Tim Savage - LED Curlyboi\n23:14 Matt Cengia - Workplace accommodations for neurodivergent accessbility\n28:00 Jens Harbers - Statistics of Grassland in Lower Saxony\n32:15 Quentin Lovett - obfuscational logic: binary adders where they shouldn't be\n36:25 Wytamma Wirth - Finding parasites with python\n41:34 Zac - I wrote code to write your tests!\n46:54 Riley Clement - Where are the stairs?\n51:51 Evan Kohilas - My email\n55:40 Apollo Bradshaw - Welcome to my quantum gender reveal party\n1:01:07 David Vo - N git commands you didn't know about\n1:04:30 Paul Leopardi - Privacy preservation in machine learning: wondering out loud\n1:07:40 Peter Hall - Help set my alarm clock\n1:13:18 Caitlin M - Speedrunning Lessons\n1:18:50 Marius Mather - Generating metal band names with tensorflow\n\n\n\npython, pycon, australia, programming, conference, technical, pyconline, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science\n\nVideos licensed as CC-BY-NC-SA 4.0\r\n\r\nPyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.\r\n\r\nPyCon AU informs the country’s Python developers with presentations, tutorials and panel sessions by experts and core developers of Python, as well as the libraries and frameworks that they rely on.\n\nProduced by Next Day Video Australia: https://nextdayvideo.com.au\n\nSun Sep 12 11:00:00 2021 at Curlyboi Theatre",
+        "thumbnail": "https://i.ytimg.com/vi/vT4mhZHoHtI/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=vT4mhZHoHtI",
+        "original_url": "https://www.youtube.com/watch?v=vT4mhZHoHtI"
+    },
+    {
+        "index": 40,
+        "title": "\"On the Use and Misuse of Decorators\" - Christopher Neugebauer (PyConline AU 2021)",
+        "url": "https://www.youtube.com/watch?v=Z1FLIj1kZLg",
+        "video_id": "Z1FLIj1kZLg",
+        "uploader": "PyCon AU",
+        "uploader_id": "@PyConAU",
+        "uploader_url": "https://www.youtube.com/@PyConAU",
+        "upload_date": "20210913",
+        "duration": 1724,
+        "view_count": 1095,
+        "like_count": 37,
+        "comment_count": null,
+        "tags": [
+            "ChristopherNeugebauer",
+            "pyconau",
+            "pyconau_2021"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "(Christopher Neugebauer) What is a decorator? You might say it's a function that accepts a function and returns a function. That's wrong.\r\n\r\nSo what's the right answer?\r\n\r\nJoin us for a deep (but standard talk-length) dive into decorators!  You’ll learn what decorators actually are, how they work, how to write your own decorators, and how decorators enable you to do extremely weird things in Python. Most importantly, you’ll understand how to use decorators responsibly, and definitely not to confuse your friends and colleagues.\n\npython, pycon, australia, programming, conference, technical, pyconline, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science\n\nVideos licensed as CC-BY-NC-SA 4.0\r\n\r\nPyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.\r\n\r\nPyCon AU informs the country’s Python developers with presentations, tutorials and panel sessions by experts and core developers of Python, as well as the libraries and frameworks that they rely on.\n\nProduced by Next Day Video Australia: https://nextdayvideo.com.au\n\nSat Sep 11 10:30:00 2021 at Platypus Hall",
+        "thumbnail": "https://i.ytimg.com/vi/Z1FLIj1kZLg/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=Z1FLIj1kZLg",
+        "original_url": "https://www.youtube.com/watch?v=Z1FLIj1kZLg"
+    },
+    {
+        "index": 41,
+        "title": "\"Let’s get radical: digital privacy as a collective issue\" - Samantha Floreani (PyConline AU 2021)",
+        "url": "https://www.youtube.com/watch?v=OVaEO_c2_gA",
+        "video_id": "OVaEO_c2_gA",
+        "uploader": "PyCon AU",
+        "uploader_id": "@PyConAU",
+        "uploader_url": "https://www.youtube.com/@PyConAU",
+        "upload_date": "20210914",
+        "duration": 1824,
+        "view_count": 258,
+        "like_count": 7,
+        "comment_count": null,
+        "tags": [
+            "SamanthaFloreani",
+            "pyconau",
+            "pyconau_2021"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "(Samantha Floreani) Privacy is about more than just us as individuals. This talk is an ode to privacy as a radical political tool to examine and push back against power structures in a world obsessed with surveillance.\n\nhttps://pretalx.com/pycon-au-2021/talk/NJMTTA/\n\npython, pycon, australia, programming, conference, technical, pyconline, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science\n\nVideos licensed as CC-BY-NC-SA 4.0\r\n\r\nPyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.\r\n\r\nPyCon AU informs the country’s Python developers with presentations, tutorials and panel sessions by experts and core developers of Python, as well as the libraries and frameworks that they rely on.\n\nProduced by Next Day Video Australia: https://nextdayvideo.com.au\n\nFri Sep 10 10:15:00 2021 at Snakeoil Academy (Security & Privacy)",
+        "thumbnail": "https://i.ytimg.com/vi/OVaEO_c2_gA/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=OVaEO_c2_gA",
+        "original_url": "https://www.youtube.com/watch?v=OVaEO_c2_gA"
+    },
+    {
+        "index": 42,
+        "title": "from hat import rabbit: Hacking your way through Python's import machinery for fun and profit",
+        "url": "https://www.youtube.com/watch?v=ItOUx7zTcgo",
+        "video_id": "ItOUx7zTcgo",
+        "uploader": "PyCon AU",
+        "uploader_id": "@PyConAU",
+        "uploader_url": "https://www.youtube.com/@PyConAU",
+        "upload_date": "20210914",
+        "duration": 1907,
+        "view_count": 655,
+        "like_count": 15,
+        "comment_count": null,
+        "tags": [
+            "JoachimJablon",
+            "pyconau",
+            "pyconau_2021"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "(Joachim Jablon) Get your finest top hat and dive into the rabbit hole with me for a magic trick like only the best snakes can do: create Python modules out of thin air. We'll import Python modules that don't exist and yet, Presto, here they are.\n\nhttps://pretalx.com/pycon-au-2021/talk/T7Z9VE/\n\npython, pycon, australia, programming, conference, technical, pyconline, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science\n\nVideos licensed as CC-BY-NC-SA 4.0\r\n\r\nPyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.\r\n\r\nPyCon AU informs the country’s Python developers with presentations, tutorials and panel sessions by experts and core developers of Python, as well as the libraries and frameworks that they rely on.\n\nProduced by Next Day Video Australia: https://nextdayvideo.com.au\n\nSat Sep 11 14:45:00 2021 at Curlyboi Theatre",
+        "thumbnail": "https://i.ytimg.com/vi/ItOUx7zTcgo/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=ItOUx7zTcgo",
+        "original_url": "https://www.youtube.com/watch?v=ItOUx7zTcgo"
+    },
+    {
+        "index": 43,
+        "title": "\"Things might go wrong in a data-intensive application\" - Petertc Chu (PyConline AU 2021)",
+        "url": "https://www.youtube.com/watch?v=Qz4oB2egUB4",
+        "video_id": "Qz4oB2egUB4",
+        "uploader": "PyCon AU",
+        "uploader_id": "@PyConAU",
+        "uploader_url": "https://www.youtube.com/@PyConAU",
+        "upload_date": "20210914",
+        "duration": 1718,
+        "view_count": 242,
+        "like_count": 6,
+        "comment_count": null,
+        "tags": [
+            "PetertcChu",
+            "pyconau",
+            "pyconau_2021"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "(Petertc Chu) We are going to go behind the scene of building a data-intensive system. The story includes challenges I have faced and what I learned from those incidents.\n\nhttps://pretalx.com/pycon-au-2021/talk/8HLVVS/\n\npython, pycon, australia, programming, conference, technical, pyconline, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science\n\nVideos licensed as CC-BY-NC-SA 4.0\r\n\r\nPyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.\r\n\r\nPyCon AU informs the country’s Python developers with presentations, tutorials and panel sessions by experts and core developers of Python, as well as the libraries and frameworks that they rely on.\n\nProduced by Next Day Video Australia: https://nextdayvideo.com.au\n\nFri Sep 10 14:15:00 2021 at DevOops",
+        "thumbnail": "https://i.ytimg.com/vi/Qz4oB2egUB4/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=Qz4oB2egUB4",
+        "original_url": "https://www.youtube.com/watch?v=Qz4oB2egUB4"
+    },
+    {
+        "index": 44,
+        "title": "\"Metrics for good, not evil\" - Molly Rowe (PyConline AU 2021)",
+        "url": "https://www.youtube.com/watch?v=PtZE3f-yfis",
+        "video_id": "PtZE3f-yfis",
+        "uploader": "PyCon AU",
+        "uploader_id": "@PyConAU",
+        "uploader_url": "https://www.youtube.com/@PyConAU",
+        "upload_date": "20210914",
+        "duration": 1799,
+        "view_count": 316,
+        "like_count": 7,
+        "comment_count": null,
+        "tags": [
+            "MollyRowe",
+            "pyconau",
+            "pyconau_2021"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "(Molly Rowe) SLOs, OKRs, and any metrics are only as good as the processes that allow people to advocate for data-driven approaches, and getting businesses set up to leverage their data for good (enablement) rather than evil (blame) is a big part of Engineering and DevOps maturity.\n\nhttps://pretalx.com/pycon-au-2021/talk/BWPHPK/\n\npython, pycon, australia, programming, conference, technical, pyconline, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science\n\nVideos licensed as CC-BY-NC-SA 4.0\r\n\r\nPyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.\r\n\r\nPyCon AU informs the country’s Python developers with presentations, tutorials and panel sessions by experts and core developers of Python, as well as the libraries and frameworks that they rely on.\n\nProduced by Next Day Video Australia: https://nextdayvideo.com.au\n\nFri Sep 10 16:15:00 2021 at DevOops",
+        "thumbnail": "https://i.ytimg.com/vi/PtZE3f-yfis/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=PtZE3f-yfis",
+        "original_url": "https://www.youtube.com/watch?v=PtZE3f-yfis"
+    },
+    {
+        "index": 45,
+        "title": "\"A Beginners Guide to GPUs for Pythonistas\" - Marlene Mhangami (PyConline AU 2021)",
+        "url": "https://www.youtube.com/watch?v=0OloVVKk964",
+        "video_id": "0OloVVKk964",
+        "uploader": "PyCon AU",
+        "uploader_id": "@PyConAU",
+        "uploader_url": "https://www.youtube.com/@PyConAU",
+        "upload_date": "20210914",
+        "duration": 1727,
+        "view_count": 406,
+        "like_count": 13,
+        "comment_count": null,
+        "tags": [
+            "MarleneMhangami",
+            "pyconau",
+            "pyconau_2021"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "(Marlene Mhangami) In this talk, I will be discussing Python and GPUs! I will give a brief history of Python and parallel computing, take a look at Python’s ‘infamous’ GIL, and share how and why Pythonistas can get started with using GPUs to do more work faster.\n\nhttps://pretalx.com/pycon-au-2021/talk/8EKEQS/\n\npython, pycon, australia, programming, conference, technical, pyconline, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science\n\nVideos licensed as CC-BY-NC-SA 4.0\r\n\r\nPyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.\r\n\r\nPyCon AU informs the country’s Python developers with presentations, tutorials and panel sessions by experts and core developers of Python, as well as the libraries and frameworks that they rely on.\n\nProduced by Next Day Video Australia: https://nextdayvideo.com.au\n\nFri Sep 10 15:00:00 2021 at Science, Data & Analytics",
+        "thumbnail": "https://i.ytimg.com/vi/0OloVVKk964/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=0OloVVKk964",
+        "original_url": "https://www.youtube.com/watch?v=0OloVVKk964"
+    },
+    {
+        "index": 46,
+        "title": "\"From futons to functions: the principles of good API design\" - Leigh Brenecki (PyConline AU 2021)",
+        "url": "https://www.youtube.com/watch?v=7uCPLMIyiVM",
+        "video_id": "7uCPLMIyiVM",
+        "uploader": "PyCon AU",
+        "uploader_id": "@PyConAU",
+        "uploader_url": "https://www.youtube.com/@PyConAU",
+        "upload_date": "20210914",
+        "duration": 1786,
+        "view_count": 340,
+        "like_count": 6,
+        "comment_count": null,
+        "tags": [
+            "LeighBrenecki",
+            "pyconau",
+            "pyconau_2021"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "(Leigh Brenecki) What do the designers of sofas and clock radios have to teach us about API design? This talk explores the work of influential industrial designer Dieter Rams, and what it can teach us about the tools we build for each other.\n\npython, pycon, australia, programming, conference, technical, pyconline, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science\n\nVideos licensed as CC-BY-NC-SA 4.0\r\n\r\nPyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.\r\n\r\nPyCon AU informs the country’s Python developers with presentations, tutorials and panel sessions by experts and core developers of Python, as well as the libraries and frameworks that they rely on.\n\nProduced by Next Day Video Australia: https://nextdayvideo.com.au\n\nSat Sep 11 11:15:00 2021 at Curlyboi Theatre",
+        "thumbnail": "https://i.ytimg.com/vi/7uCPLMIyiVM/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=7uCPLMIyiVM",
+        "original_url": "https://www.youtube.com/watch?v=7uCPLMIyiVM"
+    },
+    {
+        "index": 47,
+        "title": "How PyLadies Brazil became the biggest PyLadies chapter of the world",
+        "url": "https://www.youtube.com/watch?v=uPGm5sZlkaA",
+        "video_id": "uPGm5sZlkaA",
+        "uploader": "PyCon AU",
+        "uploader_id": "@PyConAU",
+        "uploader_url": "https://www.youtube.com/@PyConAU",
+        "upload_date": "20210915",
+        "duration": 2030,
+        "view_count": 234,
+        "like_count": 5,
+        "comment_count": null,
+        "tags": [
+            "DéboraAzevedo",
+            "pyconau",
+            "pyconau_2021"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "(Débora Azevedo) PyLadies Brazil, largest PyLadies chapter of the world (in number of chapters), is a combination of hard work: from the ladies who manage and organize both local and national groups, and also from the Brazilian Python community. But how did we get there? Come to see us saying “this is how we do!”\n\nhttps://pretalx.com/pycon-au-2021/talk/FXJUXV/\n\npython, pycon, australia, programming, conference, technical, pyconline, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science\n\nVideos licensed as CC-BY-NC-SA 4.0\r\n\r\nPyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.\r\n\r\nPyCon AU informs the country’s Python developers with presentations, tutorials and panel sessions by experts and core developers of Python, as well as the libraries and frameworks that they rely on.\n\nProduced by Next Day Video Australia: https://nextdayvideo.com.au\n\nSat Sep 11 10:30:00 2021 at Curlyboi Theatre",
+        "thumbnail": "https://i.ytimg.com/vi/uPGm5sZlkaA/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=uPGm5sZlkaA",
+        "original_url": "https://www.youtube.com/watch?v=uPGm5sZlkaA"
+    },
+    {
+        "index": 48,
+        "title": "\"Doing stupid things with ASTs\" - Simon Carryer (PyConline AU 2021)",
+        "url": "https://www.youtube.com/watch?v=Xd7YnPNZlbk",
+        "video_id": "Xd7YnPNZlbk",
+        "uploader": "PyCon AU",
+        "uploader_id": "@PyConAU",
+        "uploader_url": "https://www.youtube.com/@PyConAU",
+        "upload_date": "20210915",
+        "duration": 1827,
+        "view_count": 915,
+        "like_count": 31,
+        "comment_count": null,
+        "tags": [
+            "SimonCarryer",
+            "pyconau",
+            "pyconau_2021"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "(Simon Carryer) Abstract Syntax Trees are a tool for analysing and manipulating the structure and function of code. They can be used to do about a million different useful and smart things. This talk is not about those things.\n\nhttps://pretalx.com/pycon-au-2021/talk/MFUNXT/\n\npython, pycon, australia, programming, conference, technical, pyconline, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science\n\nVideos licensed as CC-BY-NC-SA 4.0\r\n\r\nPyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.\r\n\r\nPyCon AU informs the country’s Python developers with presentations, tutorials and panel sessions by experts and core developers of Python, as well as the libraries and frameworks that they rely on.\n\nProduced by Next Day Video Australia: https://nextdayvideo.com.au\n\nSat Sep 11 12:00:00 2021 at Curlyboi Theatre",
+        "thumbnail": "https://i.ytimg.com/vi/Xd7YnPNZlbk/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=Xd7YnPNZlbk",
+        "original_url": "https://www.youtube.com/watch?v=Xd7YnPNZlbk"
+    },
+    {
+        "index": 49,
+        "title": "\"Conference Open\" - Richard Jones (PyConline AU 2021)",
+        "url": "https://www.youtube.com/watch?v=rEB5rVAUBB0",
+        "video_id": "rEB5rVAUBB0",
+        "uploader": "PyCon AU",
+        "uploader_id": "@PyConAU",
+        "uploader_url": "https://www.youtube.com/@PyConAU",
+        "upload_date": "20210915",
+        "duration": 824,
+        "view_count": 90,
+        "like_count": 0,
+        "comment_count": null,
+        "tags": [
+            "RichardJones",
+            "pyconau",
+            "pyconau_2021"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "(Richard Jones) Opening address and housekeeping announcements from Conference Director, Richard Jones\n\nhttps://pretalx.com/pycon-au-2021/talk/APTGPJ/\n\npython, pycon, australia, programming, conference, technical, pyconline, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science\n\nVideos licensed as CC-BY-NC-SA 4.0\r\n\r\nPyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.\r\n\r\nPyCon AU informs the country’s Python developers with presentations, tutorials and panel sessions by experts and core developers of Python, as well as the libraries and frameworks that they rely on.\n\nProduced by Next Day Video Australia: https://nextdayvideo.com.au\n\nSat Sep 11 09:00:00 2021 at Curlyboi Theatre",
+        "thumbnail": "https://i.ytimg.com/vi/rEB5rVAUBB0/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=rEB5rVAUBB0",
+        "original_url": "https://www.youtube.com/watch?v=rEB5rVAUBB0"
+    },
+    {
+        "index": 50,
+        "title": "\"Snakes all the way down, building Worlds with Python code\" - Sam Bishop (PyConline AU 2021)",
+        "url": "https://www.youtube.com/watch?v=KQZym_PmwxY",
+        "video_id": "KQZym_PmwxY",
+        "uploader": "PyCon AU",
+        "uploader_id": "@PyConAU",
+        "uploader_url": "https://www.youtube.com/@PyConAU",
+        "upload_date": "20210915",
+        "duration": 1885,
+        "view_count": 439,
+        "like_count": 15,
+        "comment_count": null,
+        "tags": [
+            "SamBishop",
+            "pyconau",
+            "pyconau_2021"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "(Sam Bishop) This talk will introduce and demonstrate a selection of procedural content generation tools built with Python. From planets, to plants, to pantheons of Gods, there is Python code out there to help generate them for you. It doesn't matter why you want to generate content, Python is here to help you get more done in less time.\n\nPresenters note: This video contains a mistake, when I was discussing “Seraphs: NanoGenMo” instead of using the correct author Liza Daly (@liza on Twitter) I attributed it to a nonexistent guy called Seraph. \n\npython, pycon, australia, programming, conference, technical, pyconline, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science\n\nVideos licensed as CC-BY-NC-SA 4.0\r\n\r\nPyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.\r\n\r\nPyCon AU informs the country’s Python developers with presentations, tutorials and panel sessions by experts and core developers of Python, as well as the libraries and frameworks that they rely on.\n\nProduced by Next Day Video Australia: https://nextdayvideo.com.au\n\nSat Sep 11 14:45:00 2021 at Platypus Hall",
+        "thumbnail": "https://i.ytimg.com/vi/KQZym_PmwxY/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=KQZym_PmwxY",
+        "original_url": "https://www.youtube.com/watch?v=KQZym_PmwxY"
+    },
+    {
+        "index": 51,
+        "title": "\"What was your Python up to at 3am?\" - Garth Kidd (PyConline AU 2021)",
+        "url": "https://www.youtube.com/watch?v=GeyiWsy5oWQ",
+        "video_id": "GeyiWsy5oWQ",
+        "uploader": "PyCon AU",
+        "uploader_id": "@PyConAU",
+        "uploader_url": "https://www.youtube.com/@PyConAU",
+        "upload_date": "20210915",
+        "duration": 1915,
+        "view_count": 403,
+        "like_count": 5,
+        "comment_count": null,
+        "tags": [
+            "GarthKidd",
+            "pyconau",
+            "pyconau_2021"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "(Garth Kidd) If a customer was hopping mad overnight, but your monitoring dashboard shows its usual green line at 99.5% superb, you might expect to spend your morning wading through logs… but what if you could find out what was happening in a few minutes? Better yet, what if you knew before they did?\n\nhttps://pretalx.com/pycon-au-2021/talk/CAWRYN/\n\npython, pycon, australia, programming, conference, technical, pyconline, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science\n\nVideos licensed as CC-BY-NC-SA 4.0\r\n\r\nPyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.\r\n\r\nPyCon AU informs the country’s Python developers with presentations, tutorials and panel sessions by experts and core developers of Python, as well as the libraries and frameworks that they rely on.\n\nProduced by Next Day Video Australia: https://nextdayvideo.com.au\n\nSat Sep 11 16:45:00 2021 at Curlyboi Theatre",
+        "thumbnail": "https://i.ytimg.com/vi/GeyiWsy5oWQ/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=GeyiWsy5oWQ",
+        "original_url": "https://www.youtube.com/watch?v=GeyiWsy5oWQ"
+    },
+    {
+        "index": 52,
+        "title": "\"Python Versions and Dependencies Made Easy\" - Sebastian Witowski (PyConline AU 2021)",
+        "url": "https://www.youtube.com/watch?v=ZF4BARKBRjc",
+        "video_id": "ZF4BARKBRjc",
+        "uploader": "PyCon AU",
+        "uploader_id": "@PyConAU",
+        "uploader_url": "https://www.youtube.com/@PyConAU",
+        "upload_date": "20210915",
+        "duration": 1820,
+        "view_count": 764,
+        "like_count": 26,
+        "comment_count": null,
+        "tags": [
+            "SebastianWitowski",
+            "pyconau",
+            "pyconau_2021"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "(Sebastian Witowski) Presentation on using pyenv, virtual environments, and pipx to build an easy-to-manage Python development setup. Setup, where you can easily switch between different Python versions, and you don't have to worry about messing up packages in your projects.\n\nhttps://pretalx.com/pycon-au-2021/talk/YHTFLA/\n\npython, pycon, australia, programming, conference, technical, pyconline, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science\n\nVideos licensed as CC-BY-NC-SA 4.0\r\n\r\nPyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.\r\n\r\nPyCon AU informs the country’s Python developers with presentations, tutorials and panel sessions by experts and core developers of Python, as well as the libraries and frameworks that they rely on.\n\nProduced by Next Day Video Australia: https://nextdayvideo.com.au\n\nSat Sep 11 17:30:00 2021 at Curlyboi Theatre",
+        "thumbnail": "https://i.ytimg.com/vi/ZF4BARKBRjc/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=ZF4BARKBRjc",
+        "original_url": "https://www.youtube.com/watch?v=ZF4BARKBRjc"
+    },
+    {
+        "index": 53,
+        "title": "No, Maybe and Close Enough! Probabilistic Data Structures with Python and Redis",
+        "url": "https://www.youtube.com/watch?v=9_tS2N__8N0",
+        "video_id": "9_tS2N__8N0",
+        "uploader": "PyCon AU",
+        "uploader_id": "@PyConAU",
+        "uploader_url": "https://www.youtube.com/@PyConAU",
+        "upload_date": "20210915",
+        "duration": 1544,
+        "view_count": 489,
+        "like_count": 21,
+        "comment_count": null,
+        "tags": [
+            "SimonPrickett",
+            "pyconau",
+            "pyconau_2021"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "(Simon Prickett) Being right all the time isn't necessarily the best idea. This talk examines how to count distinct items from a firehose of data, how to determine if we've seen a given item before, and why absolute accuracy may be impractical when doing so.\r\n\r\nProbabilistic data structures trade accuracy for approximate results, speed and economy of resources. They provide fast, scalable solutions to problems such as counting likes on social media posts, or determining which articles on a website a user has previously read.\r\n\r\nI'll introduce the Hyperloglog and Bloom Filter, explain how they work at a high level, and demonstrate different ways in which each can be leveraged in Python.\n\nhttps://pretalx.com/pycon-au-2021/talk/XSPVVN/\n\npython, pycon, australia, programming, conference, technical, pyconline, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science\n\nVideos licensed as CC-BY-NC-SA 4.0\r\n\r\nPyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.\r\n\r\nPyCon AU informs the country’s Python developers with presentations, tutorials and panel sessions by experts and core developers of Python, as well as the libraries and frameworks that they rely on.\n\nProduced by Next Day Video Australia: https://nextdayvideo.com.au\n\nSat Sep 11 16:45:00 2021 at Platypus Hall",
+        "thumbnail": "https://i.ytimg.com/vi/9_tS2N__8N0/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=9_tS2N__8N0",
+        "original_url": "https://www.youtube.com/watch?v=9_tS2N__8N0"
+    },
+    {
+        "index": 54,
+        "title": "\"Conference Close\" - Richard Jones (PyConline AU 2021)",
+        "url": "https://www.youtube.com/watch?v=s2ugvkipu2Y",
+        "video_id": "s2ugvkipu2Y",
+        "uploader": "PyCon AU",
+        "uploader_id": "@PyConAU",
+        "uploader_url": "https://www.youtube.com/@PyConAU",
+        "upload_date": "20210915",
+        "duration": 874,
+        "view_count": 364,
+        "like_count": 2,
+        "comment_count": null,
+        "tags": [
+            "RichardJones",
+            "pyconau",
+            "pyconau_2021"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "(Richard Jones) Conference close, logistics, and Sunday event information\n\nhttps://pretalx.com/pycon-au-2021/talk/AYP8FC/\n\npython, pycon, australia, programming, conference, technical, pyconline, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science\n\nVideos licensed as CC-BY-NC-SA 4.0\r\n\r\nPyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast developers, sysadmins and operations folk, students, educators, scientists, statisticians, and many others besides, all with a love for working with Python.\r\n\r\nPyCon AU informs the country’s Python developers with presentations, tutorials and panel sessions by experts and core developers of Python, as well as the libraries and frameworks that they rely on.\n\nProduced by Next Day Video Australia: https://nextdayvideo.com.au\n\nSat Sep 11 18:15:00 2021 at Curlyboi Theatre",
+        "thumbnail": "https://i.ytimg.com/vi/s2ugvkipu2Y/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=s2ugvkipu2Y",
+        "original_url": "https://www.youtube.com/watch?v=s2ugvkipu2Y"
+    }
+]
