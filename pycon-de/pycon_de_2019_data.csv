@@ -1,0 +1,517 @@
+﻿index,title,url,video_id,uploader,uploader_id,uploader_url,upload_date,duration,view_count,like_count,comment_count,tags,categories,description,thumbnail,age_limit,is_live,was_live,availability,webpage_url,original_url
+1,Keynote: Python 2020+ - Lukas Langa,https://www.youtube.com/watch?v=fOdCxum-qLA,fOdCxum-qLA,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20191219,3011,3409,25.0,,"Python,Community,Use Cases",Science & Technology,"Speaker: Łukasz Langa
+
+While very successful, Python's peculiarly missing in some spaces like mobile devices, client-side Web, or gaming. Should we do something about it? How could we go about changing that?
+
+Recorded at the PyConDE & PyData Berlin 2019 conference.
+https://pycon.de
+
+More details at the conference page: https://de.pycon.org/program/JFNCMQ
+Follow us on Twitter:  https://twitter.com/pydataberlin, https://twitter.com/pyconde",https://i.ytimg.com/vi_webp/fOdCxum-qLA/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=fOdCxum-qLA,https://www.youtube.com/watch?v=fOdCxum-qLA
+2,Keynote: PEP 581 and PEP 588: Migrating CPython's Issue Tracker - Mariatta Wijaya,https://www.youtube.com/watch?v=tBY8u7iSF0M,tBY8u7iSF0M,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20191219,1209,181,1.0,,"Python,Community,Use Cases",Science & Technology,"Speaker: Mariatta Wijaya
+
+Track:PyConDE
+The acceptance of PEP 581, by Python steering council means that another big workflow change is impending. Let's hear about some of the proposed plans on improving CPython's workflow, and learn how you can help and take part in this process.
+
+Recorded at the PyConDE & PyData Berlin 2019 conference.
+https://pycon.de
+
+More details at the conference page: https://de.pycon.org/program/DFCU3K
+Twitter:  https://twitter.com/pydataberlin
+Twitter:  https://twitter.com/pyconde",https://i.ytimg.com/vi_webp/tBY8u7iSF0M/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=tBY8u7iSF0M,https://www.youtube.com/watch?v=tBY8u7iSF0M
+3,What’s new in Python 3.8?,https://www.youtube.com/watch?v=vTxXHx5lfv0,vTxXHx5lfv0,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20191219,1920,452,1.0,,"Python,Community",Science & Technology,"Speaker: Stéphane Wirtel
+
+In few months, there will be the release of Python 3.8! As a core dev I would like to show you the new features of this version.
+
+Recorded at the PyConDE & PyData Berlin 2019 conference.
+https://pycon.de
+
+More details at the conference page: https://de.pycon.org/program/CATV3T
+Follow us on Twitter:  https://twitter.com/pydataberlin, https://twitter.com/pyconde",https://i.ytimg.com/vi_webp/vTxXHx5lfv0/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=vTxXHx5lfv0,https://www.youtube.com/watch?v=vTxXHx5lfv0
+4,"6 Years of Docker: The Good, the Bad and Python Packaging",https://www.youtube.com/watch?v=kgqdOftkZ-E,kgqdOftkZ-E,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20191219,1889,544,7.0,,"Python,DevOps,Infrastructure,IDEs/ Jupyter,Use Cases",Science & Technology,"Speaker: Sebastian Neubauer
+
+Track:PyConDE
+Local development of python code inside a docker container is surprisingly broken. In this talk I will walk you through the proper setup of a local python development environment using docker.
+
+Recorded at the PyConDE & PyData Berlin 2019 conference.
+https://pycon.de
+
+More details at the conference page: https://de.pycon.org/program/A7FWAW
+Twitter:  https://twitter.com/pydataberlin
+Twitter:  https://twitter.com/pyconde",https://i.ytimg.com/vi_webp/kgqdOftkZ-E/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=kgqdOftkZ-E,https://www.youtube.com/watch?v=kgqdOftkZ-E
+5,10 ways to debug Python code,https://www.youtube.com/watch?v=cokP4XAhcwo,cokP4XAhcwo,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20191219,1684,3001,42.0,,"Python,Code-Review,IDEs/ Jupyter",Science & Technology,"Speaker: Christoph Deil
+
+Track:PyConDE
+Are your debugging skills limited to ""print"", or do you sometimes think there must be a better way to figure out what's going on? I will show 10 ways to debug Python code, and share tips and tricks for effective debugging.
+
+Recorded at the PyConDE & PyData Berlin 2019 conference.
+https://pycon.de
+
+More details at the conference page: https://de.pycon.org/program/TRFD98
+Twitter:  https://twitter.com/pydataberlin
+Twitter:  https://twitter.com/pyconde",https://i.ytimg.com/vi_webp/cokP4XAhcwo/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=cokP4XAhcwo,https://www.youtube.com/watch?v=cokP4XAhcwo
+6,Static Typing in Python,https://www.youtube.com/watch?v=p-nhGq-Wwv8,p-nhGq-Wwv8,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20191219,1682,884,13.0,,"Python,Science",Science & Technology,"Speaker: Dustin Ingram
+
+In this talk, we'll discuss the advantages and disadvantages to a static type system, as well as recent efforts to introduce static typing to Python via optional ""type hints"" and various tools to aid in adding types to Python code.
+
+Recorded at the PyConDE & PyData Berlin 2019 conference.
+https://pycon.de
+
+More details at the conference page: https://de.pycon.org/program/NH9UEY
+Follow us on Twitter:  https://twitter.com/pydataberlin, https://twitter.com/pyconde",https://i.ytimg.com/vi_webp/p-nhGq-Wwv8/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=p-nhGq-Wwv8,https://www.youtube.com/watch?v=p-nhGq-Wwv8
+7,Introduction to automated testing with pytest,https://www.youtube.com/watch?v=4R0dcsNrrAI,4R0dcsNrrAI,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20191219,2480,2502,27.0,,"Python,DevOps,Web,Data Engineering",Science & Technology,"Speaker: Raphael Pierzina
+
+Track:PyConDE
+We'll learn how to get started with developing automated tests in Python with the [pytest] test framework.
+
+[pytest]: https://github.com/pytest-dev/pytest
+
+Recorded at the PyConDE & PyData Berlin 2019 conference.
+https://pycon.de
+
+More details at the conference page: https://de.pycon.org/program/3JUWNC
+Twitter:  https://twitter.com/pydataberlin
+Twitter:  https://twitter.com/pyconde",https://i.ytimg.com/vi_webp/4R0dcsNrrAI/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=4R0dcsNrrAI,https://www.youtube.com/watch?v=4R0dcsNrrAI
+8,"venv, pyenv, pypi, pip, pipenv, pyWTF?",https://www.youtube.com/watch?v=-C8uVImkTQg,-C8uVImkTQg,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20191219,1844,8463,114.0,,"Python,Code-Review,DevOps",Science & Technology,"Speaker: Simone Robutti
+
+The ecosystem of Python tooling is fragmented, confusing, full of quirks and therefore hostile to newcomers and veterans alike. Let's try to make sense of it.
+
+Recorded at the PyConDE & PyData Berlin 2019 conference.
+https://pycon.de
+
+More details at the conference page: https://de.pycon.org/program/HQJMTL
+Follow us on Twitter:  https://twitter.com/pydataberlin, https://twitter.com/pyconde",https://i.ytimg.com/vi_webp/-C8uVImkTQg/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=-C8uVImkTQg,https://www.youtube.com/watch?v=-C8uVImkTQg
+9,Developers vs. Enterprise,https://www.youtube.com/watch?v=ojbrpJqgGn4,ojbrpJqgGn4,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20191219,1815,123,0.0,,"Python,Community,Use Cases",Science & Technology,"Speaker: Ingo Stegmaier
+
+Track:PyConDE
+This 30-minute talk will give you an overview about project management, success factors and specialties within enterprises. This will be a guide how you promote internal projects and bring them to success within a highly ""political"" environment.
+
+Recorded at the PyConDE & PyData Berlin 2019 conference.
+https://pycon.de
+
+More details at the conference page: https://de.pycon.org/program/XJLSWG
+Twitter:  https://twitter.com/pydataberlin
+Twitter:  https://twitter.com/pyconde",https://i.ytimg.com/vi_webp/ojbrpJqgGn4/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=ojbrpJqgGn4,https://www.youtube.com/watch?v=ojbrpJqgGn4
+10,Boosting simulation performance with Python,https://www.youtube.com/watch?v=-0TVMCTnCg4,-0TVMCTnCg4,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20191219,1479,283,1.0,,"Python,Infrastructure,Robotics",Science & Technology,"Speaker: Eran Friedman
+
+Track:PyConDE
+In this talk I will present the architecture of our simulation (written in Python) which allows us to simulate hours of real-life in only minutes of simulation. I will describe challenges we encountered and how we handled them.
+
+Recorded at the PyConDE & PyData Berlin 2019 conference.
+https://pycon.de
+
+More details at the conference page: https://de.pycon.org/program/CEYMMK
+Twitter:  https://twitter.com/pydataberlin
+Twitter:  https://twitter.com/pyconde",https://i.ytimg.com/vi_webp/-0TVMCTnCg4/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=-0TVMCTnCg4,https://www.youtube.com/watch?v=-0TVMCTnCg4
+11,Tutorial: Kubernetes 101 for Python Developers,https://www.youtube.com/watch?v=ior4nwIv3JQ,ior4nwIv3JQ,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20191219,3733,2028,22.0,,"Python,DevOps,Infrastructure,Web,APIs,Use Cases",Science & Technology,"Speaker: Christian Barra
+
+Track:PyConDE
+`Kubernetes (K8s) is an open-source system for automating deployment, scaling, and management of containerized applications.`
+
+During this training you will learn how to use it and how it can help as a Python developer.
+
+Recorded at the PyConDE & PyData Berlin 2019 conference.
+https://pycon.de
+
+More details at the conference page: https://de.pycon.org/program/D8VAN9
+Twitter:  https://twitter.com/pydataberlin
+Twitter:  https://twitter.com/pyconde",https://i.ytimg.com/vi_webp/ior4nwIv3JQ/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=ior4nwIv3JQ,https://www.youtube.com/watch?v=ior4nwIv3JQ
+12,Refactoring in Python: Design Patterns and Approaches,https://www.youtube.com/watch?v=ZzKaFJxiDzA,ZzKaFJxiDzA,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20191219,1783,1863,26.0,,"Python,Business & Start-Ups,Community,Code-Review",Science & Technology,"Speaker: Tin Marković
+
+Experiences and lessons learned from tackling extremely demanding code. How to bring order to mismanaged code and elevate the code base to a standard that's acceptable in today's tech environment.
+
+Recorded at the PyConDE & PyData Berlin 2019 conference.
+https://pycon.de
+
+More details at the conference page: https://de.pycon.org/program/FTVNPK
+Follow us on Twitter:  https://twitter.com/pydataberlin, https://twitter.com/pyconde",https://i.ytimg.com/vi_webp/ZzKaFJxiDzA/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=ZzKaFJxiDzA,https://www.youtube.com/watch?v=ZzKaFJxiDzA
+13,What we learned from scraping 1 billion webpages every month,https://www.youtube.com/watch?v=w85WZ0mJQS4,w85WZ0mJQS4,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20191219,1821,313,4.0,,"Python,Business & Start-Ups,Big Data,Infrastructure,Web,Data Engineering",Science & Technology,"Speaker: Samet Atdag
+
+Web is broken. We learned the hard way. Developers tend to hack, hacks tend to break the web. In this talk, I share what we learned how websites don't obey the protocols and how developers had caused the web became a chaotic medium.
+
+Recorded at the PyConDE & PyData Berlin 2019 conference.
+https://pycon.de
+
+More details at the conference page: https://de.pycon.org/program/Q88ZUW
+Follow us on Twitter:  https://twitter.com/pydataberlin, https://twitter.com/pyconde",https://i.ytimg.com/vi_webp/w85WZ0mJQS4/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=w85WZ0mJQS4,https://www.youtube.com/watch?v=w85WZ0mJQS4
+14,Event-Sourced Story,https://www.youtube.com/watch?v=AdlmA6iHnfA,AdlmA6iHnfA,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20191219,1807,127,1.0,,"Python,Use Cases",Science & Technology,"Speaker: Jacek Kołodziej
+
+Track:PyConDE
+After three years of utilizing event sourcing in [Growbots](http://growbots.com), I want to introduce to you its basics and share our experience acquired over that time - including complexity involved - so you can better assess whether it's a tool wo
+
+Recorded at the PyConDE & PyData Berlin 2019 conference.
+https://pycon.de
+
+More details at the conference page: https://de.pycon.org/program/SXSE8D
+Twitter:  https://twitter.com/pydataberlin
+Twitter:  https://twitter.com/pyconde",https://i.ytimg.com/vi_webp/AdlmA6iHnfA/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=AdlmA6iHnfA,https://www.youtube.com/watch?v=AdlmA6iHnfA
+15,Driving 3D Printers with Python: Lessons Learned,https://www.youtube.com/watch?v=9OcVmGbeh8A,9OcVmGbeh8A,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20191219,1411,1419,22.0,,"Python,Web,3D Priniting,Makers",Science & Technology,"Speaker: Gina Häußge
+
+Track:PyConDE
+OctoPrint is an open source web interface for 3D printers and deployed world wide on a large variety of devices. In this talk I explain some of the challenges in developing and maintaining such a piece of end user facing software in Python.
+
+Recorded at the PyConDE & PyData Berlin 2019 conference.
+https://pycon.de
+
+More details at the conference page: https://de.pycon.org/program/JQAUEC
+Twitter:  https://twitter.com/pydataberlin
+Twitter:  https://twitter.com/pyconde",https://i.ytimg.com/vi_webp/9OcVmGbeh8A/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=9OcVmGbeh8A,https://www.youtube.com/watch?v=9OcVmGbeh8A
+16,Strawberry: a dataclasses inspired approach to GraphQL,https://www.youtube.com/watch?v=J9AYhCmKMzo,J9AYhCmKMzo,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20191219,1651,2450,37.0,,"Python,Django,Web",Science & Technology,"Speaker: Patrick Arminio
+
+Over the past few years, GraphQL has gained much traction, especially in the JavaScript world. Python is getting on board this trend with new interesting libraries. In this talk, we will see how Strawberry makes uses of dataclasses and type hints to
+
+Recorded at the PyConDE & PyData Berlin 2019 conference.
+https://pycon.de
+
+More details at the conference page: https://de.pycon.org/program/QABWWM
+Follow us on Twitter:  https://twitter.com/pydataberlin, https://twitter.com/pyconde",https://i.ytimg.com/vi_webp/J9AYhCmKMzo/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=J9AYhCmKMzo,https://www.youtube.com/watch?v=J9AYhCmKMzo
+17,"Monitoring infrastructure and application using Django, Sensu and Celery.",https://www.youtube.com/watch?v=uo5zV4pyGIE,uo5zV4pyGIE,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20191219,2174,957,7.0,,"Python,Django,DevOps,Infrastructure",Science & Technology,"Speaker: Hari Kishore Sirivella
+
+Track:PyConDE
+Monitoring is a key aspect for any business. It enables us to find and be notified about our application's problems way ahead our customer notices it, which enables us to keep our businesses running and making customers happy.
+
+Recorded at the PyConDE & PyData Berlin 2019 conference.
+https://pycon.de
+
+More details at the conference page: https://de.pycon.org/program/LWALGX
+Twitter:  https://twitter.com/pydataberlin
+Twitter:  https://twitter.com/pyconde",https://i.ytimg.com/vi_webp/uo5zV4pyGIE/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=uo5zV4pyGIE,https://www.youtube.com/watch?v=uo5zV4pyGIE
+18,Optimizing Input: Building your own customized keyboard,https://www.youtube.com/watch?v=j2vrXPdWQck,j2vrXPdWQck,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20191219,1650,251,5.0,,"Python,Community,Microcontrollers,Makers",Science & Technology,"Speaker: Daniel Rios
+
+Track:PyConDE
+Keyboards, the main way we interact with computers, have remained unchanged for a century, despite being free from mechanical necessity. Alternatives made possible by recent technology can optimize the way we input text and interact with our devices.
+
+Recorded at the PyConDE & PyData Berlin 2019 conference.
+https://pycon.de
+
+More details at the conference page: https://de.pycon.org/program/WJGCNV
+Twitter:  https://twitter.com/pydataberlin
+Twitter:  https://twitter.com/pyconde",https://i.ytimg.com/vi_webp/j2vrXPdWQck/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=j2vrXPdWQck,https://www.youtube.com/watch?v=j2vrXPdWQck
+19,Abridged metaprogramming classics - this episode: pytest,https://www.youtube.com/watch?v=zHpeMTJsBRk,zHpeMTJsBRk,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20191219,2122,899,26.0,,"Python,Algorithms,Code-Review,APIs,Use Cases",Science & Technology,"Speaker: Oliver Bestwalter
+
+Track:PyConDE
+This talk is not about how to use pytest. pytest is a good project to explore metaprogramming techniques like introspection and code as data in the context of solving real world problems. 
+
+In this case: implementing a test framework.
+
+Recorded at the PyConDE & PyData Berlin 2019 conference.
+https://pycon.de
+
+More details at the conference page: https://de.pycon.org/program/XTD7TE
+Twitter:  https://twitter.com/pydataberlin
+Twitter:  https://twitter.com/pyconde",https://i.ytimg.com/vi_webp/zHpeMTJsBRk/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=zHpeMTJsBRk,https://www.youtube.com/watch?v=zHpeMTJsBRk
+20,Tutorial: Package and Dependency Management with Poetry,https://www.youtube.com/watch?v=6ey-nNRvBrk,6ey-nNRvBrk,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20191219,3189,7123,112.0,,"Python,DevOps,Infrastructure,Use Cases",Science & Technology,"Speaker: Steph Samson
+
+Track:PyConDE
+Poetry is “Python packaging and dependency management made easy.”It not only packages up your libraries easily but also isolates environments and resolves dependencies — all with an intuitive command line interface.
+
+Recorded at the PyConDE & PyData Berlin 2019 conference.
+https://pycon.de
+
+More details at the conference page: https://de.pycon.org/program/CFPRJ8
+Twitter:  https://twitter.com/pydataberlin
+Twitter:  https://twitter.com/pyconde",https://i.ytimg.com/vi_webp/6ey-nNRvBrk/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=6ey-nNRvBrk,https://www.youtube.com/watch?v=6ey-nNRvBrk
+21,Commenting code — beyond common wisdom,https://www.youtube.com/watch?v=tP5uWCruaBs,tP5uWCruaBs,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20191219,2675,135,0.0,,"Python,Code-Review",Science & Technology,"Speaker: Stefan Schwarzer
+
+Track:PyConDE
+Good code comments are important for software maintenance. This talk
+goes beyond the common wisdom you find in most books and online and
+explains when this common wisdom falls short.
+
+Recorded at the PyConDE & PyData Berlin 2019 conference.
+https://pycon.de
+
+More details at the conference page: https://de.pycon.org/program/SUC9VW
+Twitter:  https://twitter.com/pydataberlin
+Twitter:  https://twitter.com/pyconde",https://i.ytimg.com/vi_webp/tP5uWCruaBs/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=tP5uWCruaBs,https://www.youtube.com/watch?v=tP5uWCruaBs
+22,From body and code programming in times of acceptance,https://www.youtube.com/watch?v=4Jzb4DwRTNE,4Jzb4DwRTNE,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20191219,1676,52,2.0,,"Python,Business & Start-Ups,Community,Web",Science & Technology,"Speaker: Paloma
+
+Track:PyConDE
+This talk is meant to bring awareness about the need of diversity from theoretical to practical day by day actions. Diversity not only as social justice, but to reclaim knowledge proficiency, critical perspective and new ideas.
+
+Recorded at the PyConDE & PyData Berlin 2019 conference.
+https://pycon.de
+
+More details at the conference page: https://de.pycon.org/program/FQMFKX
+Twitter:  https://twitter.com/pydataberlin
+Twitter:  https://twitter.com/pyconde",https://i.ytimg.com/vi_webp/4Jzb4DwRTNE/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=4Jzb4DwRTNE,https://www.youtube.com/watch?v=4Jzb4DwRTNE
+23,What if I tell you that your specs are broken,https://www.youtube.com/watch?v=wd0-bPZD52Y,wd0-bPZD52Y,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20191219,1979,155,2.0,,"Python,Networks",Science & Technology,"Speaker: Samuele Maci
+
+This talk is going to be about Swagger Specs and their changes. We're going to examine what Backward Incompatible changes are and how you can deal with them.
+The talk will also introduce you to a tool that will help you on having safer changes.
+
+Recorded at the PyConDE & PyData Berlin 2019 conference.
+https://pycon.de
+
+More details at the conference page: https://de.pycon.org/program/NFH83Z
+Follow us on Twitter:  https://twitter.com/pydataberlin, https://twitter.com/pyconde",https://i.ytimg.com/vi_webp/wd0-bPZD52Y/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=wd0-bPZD52Y,https://www.youtube.com/watch?v=wd0-bPZD52Y
+24,Break your API gently - or not at all,https://www.youtube.com/watch?v=qDILVhNTuBA,qDILVhNTuBA,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20191219,1688,93,1.0,,"Python,APIs",Science & Technology,"Speaker: Tim Hoffmann
+
+Track:PyConDE
+As hard as we try to write good code, there will always be cases in which we wish we had designed a different function signature, chosen another attribute name, ... But you can't change it anymore because it's public API - or can you?
+
+Recorded at the PyConDE & PyData Berlin 2019 conference.
+https://pycon.de
+
+More details at the conference page: https://de.pycon.org/program/QXB8DR
+Twitter:  https://twitter.com/pydataberlin
+Twitter:  https://twitter.com/pyconde",https://i.ytimg.com/vi_webp/qDILVhNTuBA/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=qDILVhNTuBA,https://www.youtube.com/watch?v=qDILVhNTuBA
+25,Beyond Paradigms: a new key to grok Python & other languages,https://www.youtube.com/watch?v=bF3a2VYXxa0,bF3a2VYXxa0,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20191219,2629,1422,72.0,,"Python,Algorithms,Code-Review",Science & Technology,"Speaker: Luciano Ramalho
+
+Track:PyConDE
+Focus on features, not paradigms. This new approach to the study of programming languages offers practical advice for programmers learning a new language, adopting coding idioms, and choosing suitable design patterns.
+
+Recorded at the PyConDE & PyData Berlin 2019 conference.
+https://pycon.de
+
+More details at the conference page: https://de.pycon.org/program/QCNNTW
+Twitter:  https://twitter.com/pydataberlin
+Twitter:  https://twitter.com/pyconde",https://i.ytimg.com/vi_webp/bF3a2VYXxa0/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=bF3a2VYXxa0,https://www.youtube.com/watch?v=bF3a2VYXxa0
+26,Tutorial: Write your Own Decorators,https://www.youtube.com/watch?v=lWo0Zjgj3ZA,lWo0Zjgj3ZA,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20191219,4286,361,4.0,,"Python,Algorithms",Science & Technology,"Speaker: Mike Müller
+
+Decorators are really useful. Using them is simple. Writing your own is bit more involved. Learn in this hands-on workshop how to write decorators for many different purposes. The emphasis is on best practices and practical examples.
+
+Recorded at the PyConDE & PyData Berlin 2019 conference.
+https://pycon.de
+
+More details at the conference page: https://de.pycon.org/program/ASLHQN
+Follow us on Twitter:  https://twitter.com/pydataberlin, https://twitter.com/pyconde",https://i.ytimg.com/vi_webp/lWo0Zjgj3ZA/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=lWo0Zjgj3ZA,https://www.youtube.com/watch?v=lWo0Zjgj3ZA
+27,Parallel programming for python developers – Let’s Go(lang),https://www.youtube.com/watch?v=MZjjPn7IpgQ,MZjjPn7IpgQ,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20191219,4560,464,5.0,,"Python,Infrastructure,Networks,Parallel Programming",Science & Technology,"Speaker: Dominik Henter, Jéssica Lins
+
+Track:PyConDE
+Despite all of python's strengths, parallel programming tends to not be one of them. Enter Go, a language that has parallel programming at its core. In this tutorial we will build an API pipeline service in Go, that calls several APIs in parallel.
+
+Recorded at the PyConDE & PyData Berlin 2019 conference.
+https://pycon.de
+
+More details at the conference page: https://de.pycon.org/program/9AKC3R
+Twitter:  https://twitter.com/pydataberlin
+Twitter:  https://twitter.com/pyconde",https://i.ytimg.com/vi_webp/MZjjPn7IpgQ/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=MZjjPn7IpgQ,https://www.youtube.com/watch?v=MZjjPn7IpgQ
+28,Mock Hell,https://www.youtube.com/watch?v=CdKaZ7boiZ4,CdKaZ7boiZ4,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20191219,1853,2830,55.0,,"Python,Code-Review,Web,Data Engineering",Science & Technology,"Speaker: Edwin Jung
+
+Track:PyConDE
+Mock is an easily abused tool. In perverse cases, it increases technical debt and prevents refactoring.  This talk describes the history of mocking, alternatives, anti-patterns, and the connection to clean architecture.
+
+Recorded at the PyConDE & PyData Berlin 2019 conference.
+https://pycon.de
+
+More details at the conference page: https://de.pycon.org/program/NZC3A8
+Twitter:  https://twitter.com/pydataberlin
+Twitter:  https://twitter.com/pyconde",https://i.ytimg.com/vi_webp/CdKaZ7boiZ4/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=CdKaZ7boiZ4,https://www.youtube.com/watch?v=CdKaZ7boiZ4
+29,How MicroPython went into space,https://www.youtube.com/watch?v=Vh_5Lz1mLq8,Vh_5Lz1mLq8,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20191219,1363,472,16.0,,"Python,Microcontrollers",Science & Technology,"Speaker: Christine Spindler
+
+Track:PyConDE
+MicroPython is a lean and efficient implementation of the Python 3 programming language, optimised to run on microcontrollers and in constrained environments. One of these environments is on a spacecraft.
+
+Recorded at the PyConDE & PyData Berlin 2019 conference.
+https://pycon.de
+
+More details at the conference page: https://de.pycon.org/program/7QRAWK
+Twitter:  https://twitter.com/pydataberlin
+Twitter:  https://twitter.com/pyconde",https://i.ytimg.com/vi_webp/Vh_5Lz1mLq8/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=Vh_5Lz1mLq8,https://www.youtube.com/watch?v=Vh_5Lz1mLq8
+30,A Medieval DSL? Parsing Heraldic Blazons with Python,https://www.youtube.com/watch?v=vjlKvIJyzQc,vjlKvIJyzQc,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20191219,1856,256,0.0,,"Python,Makers",Science & Technology,"Speaker: Lady Red
+
+Track:PyConDE
+Medieval people invented one of the first domain specific languages to describe how to paint Coats of Arms.  We'll learn how to write our own parse grammar to parse this language, and then look at the parse grammar of Python itself!
+
+Recorded at the PyConDE & PyData Berlin 2019 conference.
+https://pycon.de
+
+More details at the conference page: https://de.pycon.org/program/EE33M8
+Twitter:  https://twitter.com/pydataberlin
+Twitter:  https://twitter.com/pyconde",https://i.ytimg.com/vi_webp/vjlKvIJyzQc/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=vjlKvIJyzQc,https://www.youtube.com/watch?v=vjlKvIJyzQc
+31,Running An Open Source Project Like A Start Up,https://www.youtube.com/watch?v=ZhE-xdJ6V34,ZhE-xdJ6V34,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20191219,1784,127,0.0,,"Python,Business & Start-Ups,Community,Data Science,Machine Learning",Science & Technology,"Speaker: Cheuk Ting Ho
+
+Not so long ago, I started an open source project - PicknMIx. It feels like running a start up if you are serious about it. Want to know my story? Want to check if you can do it as well? I will tell you. (Stickers not guaranteed though)
+
+Recorded at the PyConDE & PyData Berlin 2019 conference.
+https://pycon.de
+
+More details at the conference page: https://de.pycon.org/program/9ARCJA
+Follow us on Twitter:  https://twitter.com/pydataberlin, https://twitter.com/pyconde",https://i.ytimg.com/vi_webp/ZhE-xdJ6V34/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=ZhE-xdJ6V34,https://www.youtube.com/watch?v=ZhE-xdJ6V34
+32,Using Micropython to develop an IoT multimode sensor platform with an Augmented Reality UI,https://www.youtube.com/watch?v=hhWX6DD9QhU,hhWX6DD9QhU,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20191219,2654,212,3.0,,"Python,Augmented Reality,Networks,Microcontrollers,Visualisation",Science & Technology,"Speaker: Nicholas Herriot
+
+Building a sensor platform that is flexible and intuitive is hard! This talk takes you through a journey how a sensor platform was developed to create a sensor farm for the purpose of capturing and acquiring data to be used in AI systems for Samsung.
+
+Recorded at the PyConDE & PyData Berlin 2019 conference.
+https://pycon.de
+
+More details at the conference page: https://de.pycon.org/program/7X799R
+Follow us on Twitter:  https://twitter.com/pydataberlin, https://twitter.com/pyconde",https://i.ytimg.com/vi_webp/hhWX6DD9QhU/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=hhWX6DD9QhU,https://www.youtube.com/watch?v=hhWX6DD9QhU
+33,"pytest - simple, rapid and fun testing with Python",https://www.youtube.com/watch?v=CMuSn9cofbI,CMuSn9cofbI,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20191219,2666,4235,38.0,,"Python,Infrastructure",Science & Technology,"Speaker: Florian Bruhin
+
+The pytest tool presents a rapid and simple way to write tests for your Python code. This training gives an introduction with exercises to some distinguishing features.
+
+Recorded at the PyConDE & PyData Berlin 2019 conference.
+https://pycon.de
+
+More details at the conference page: https://de.pycon.org/program/WRHHSF
+Follow us on Twitter:  https://twitter.com/pydataberlin, https://twitter.com/pyconde",https://i.ytimg.com/vi_webp/CMuSn9cofbI/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=CMuSn9cofbI,https://www.youtube.com/watch?v=CMuSn9cofbI
+34,"Is it me, or the GIL?",https://www.youtube.com/watch?v=-5bRSrCMyH0,-5bRSrCMyH0,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20191219,2531,220,3.0,,"Python,Infrastructure,Parallel Programming,Visualisation",Science & Technology,"Speaker: Christoph Heer
+
+Track:PyConDE
+People refer Python's Global Interpreter Lock as main bottleneck for their performance critical applications. But how can you test if your application really suffer from the GIL?
+
+Recorded at the PyConDE & PyData Berlin 2019 conference.
+https://pycon.de
+
+More details at the conference page: https://de.pycon.org/program/BHDEAR
+Twitter:  https://twitter.com/pydataberlin
+Twitter:  https://twitter.com/pyconde",https://i.ytimg.com/vi_webp/-5bRSrCMyH0/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=-5bRSrCMyH0,https://www.youtube.com/watch?v=-5bRSrCMyH0
+35,Docker and Python - A Match made in Heaven,https://www.youtube.com/watch?v=Q2u1wcfmlzw,Q2u1wcfmlzw,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20191219,2636,623,12.0,,"Python,Big Data,DevOps,Infrastructure",Science & Technology,"Speaker: Dr. Hendrik Niemeyer
+
+Track:PyConDE
+Containers have revolutionized the way we build and ship software. This talk is aimed at newcomers and people with limited experience with Docker and will cover the basics of Docker and how it can be used alongside Python.
+
+Recorded at the PyConDE & PyData Berlin 2019 conference.
+https://pycon.de
+
+More details at the conference page: https://de.pycon.org/program/VERUFX
+Twitter:  https://twitter.com/pydataberlin
+Twitter:  https://twitter.com/pyconde",https://i.ytimg.com/vi_webp/Q2u1wcfmlzw/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=Q2u1wcfmlzw,https://www.youtube.com/watch?v=Q2u1wcfmlzw
+36,Dr. Schmood's Notebook of Python Calisthenics and Orthodontia,https://www.youtube.com/watch?v=BAsL_cbkQDc,BAsL_cbkQDc,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20191219,1484,112,0.0,,"Python,Data Science,IDEs/ Jupyter",Science & Technology,"Speaker: David Schmudde
+
+Track:PyConDE
+Explore the benefits of taking a functional approach when writing Python in Jupyter notebooks: reduce errors caused by out-of-order execution and hidden state while producing more readable code.
+
+Recorded at the PyConDE & PyData Berlin 2019 conference.
+https://pycon.de
+
+More details at the conference page: https://de.pycon.org/program/F3TCZN
+Twitter:  https://twitter.com/pydataberlin
+Twitter:  https://twitter.com/pyconde",https://i.ytimg.com/vi_webp/BAsL_cbkQDc/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=BAsL_cbkQDc,https://www.youtube.com/watch?v=BAsL_cbkQDc
+37,Tutorial: An Introduction to Concurrency and Parallelism using Python Programming Language,https://www.youtube.com/watch?v=iEpkP-kkDJ0,iEpkP-kkDJ0,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20191219,5633,989,4.0,,"Python,Algorithms,Parallel Programming",Science & Technology,"Speaker: Tanmoy Bandyopadhyay
+
+Track:PyConDE
+Python concurrency and parallelism concepts like Multiprocessing, Multithreading, Coroutine, Asynchronous 
+I/O will be explained. We will learn to write simpler code with improved response time and throughput.
+
+Recorded at the PyConDE & PyData Berlin 2019 conference.
+https://pycon.de
+
+More details at the conference page: https://de.pycon.org/program/SC7JGK
+Twitter:  https://twitter.com/pydataberlin
+Twitter:  https://twitter.com/pyconde",https://i.ytimg.com/vi_webp/iEpkP-kkDJ0/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=iEpkP-kkDJ0,https://www.youtube.com/watch?v=iEpkP-kkDJ0
+38,Getting started with FPGA with Python,https://www.youtube.com/watch?v=aTi35MMAVLs,aTi35MMAVLs,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20191219,1441,11370,132.0,,"Python,Microcontrollers",Science & Technology,"Speaker: Olga
+
+Track:PyConDE
+In this review, we'll look into frameworks that will help Python developer start working with FPGA without prior knowledge of Verilog or VHDL.
+
+Recorded at the PyConDE & PyData Berlin 2019 conference.
+https://pycon.de
+
+More details at the conference page: https://de.pycon.org/program/PHYCJL
+Twitter:  https://twitter.com/pydataberlin
+Twitter:  https://twitter.com/pyconde",https://i.ytimg.com/vi_webp/aTi35MMAVLs/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=aTi35MMAVLs,https://www.youtube.com/watch?v=aTi35MMAVLs
+39,Chips Made From Python,https://www.youtube.com/watch?v=o3WkrKdGrRc,o3WkrKdGrRc,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20191219,2539,535,7.0,,"Python,Microcontrollers,Parallel Programming,Science,Makers",Science & Technology,"Speaker: Dan Fritchman
+
+Track:PyConDE
+Introduction to Python *hardware description libraries*, and how they are being used to design modern silicon, including open-source RISC-V CPUs.
+
+Recorded at the PyConDE & PyData Berlin 2019 conference.
+https://pycon.de
+
+More details at the conference page: https://de.pycon.org/program/WURZX8
+Twitter:  https://twitter.com/pydataberlin
+Twitter:  https://twitter.com/pyconde",https://i.ytimg.com/vi_webp/o3WkrKdGrRc/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=o3WkrKdGrRc,https://www.youtube.com/watch?v=o3WkrKdGrRc
+40,LT: Kenny Casagrande - Python + K8S vs. Sec. Vulnerabilities,https://www.youtube.com/watch?v=Qgk7Kk6RV6A,Qgk7Kk6RV6A,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20191219,396,76,0.0,,,Education,"Lightning Talk recorded at the PyConDE & PyData Berlin 2019 conference.
+https://pycon.de
+
+More details at the conference page: https://de.pycon.org/program/FTVNPK
+Follow us on Twitter:  https://twitter.com/pydataberlin, https://twitter.com/pyconde",https://i.ytimg.com/vi_webp/Qgk7Kk6RV6A/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=Qgk7Kk6RV6A,https://www.youtube.com/watch?v=Qgk7Kk6RV6A
+41,LT: Igor and the Holy Grail,https://www.youtube.com/watch?v=2plsy6CB-r0,2plsy6CB-r0,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20191219,186,63,0.0,,,Education,"Lightning Talk recorded at the PyConDE & PyData Berlin 2019 conference.
+https://pycon.de
+
+More details at the conference page: https://de.pycon.org/program/FTVNPK
+Follow us on Twitter:  https://twitter.com/pydataberlin, https://twitter.com/pyconde",https://i.ytimg.com/vi_webp/2plsy6CB-r0/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=2plsy6CB-r0,https://www.youtube.com/watch?v=2plsy6CB-r0
+42,"LT: Cheuk Ting Ho - Try not to say Hey Guys, try to say Hey Beautiful People",https://www.youtube.com/watch?v=Mr323qMPNV0,Mr323qMPNV0,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20191219,193,194,1.0,,,Education,"Lightning Talk recorded at the PyConDE & PyData Berlin 2019 conference.
+https://pycon.de
+
+More details at the conference page: https://de.pycon.org/program/FTVNPK
+Follow us on Twitter:  https://twitter.com/pydataberlin, https://twitter.com/pyconde",https://i.ytimg.com/vi_webp/Mr323qMPNV0/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=Mr323qMPNV0,https://www.youtube.com/watch?v=Mr323qMPNV0
+43,LT: Yuta Kanzawa - Do you know PyCon JP?,https://www.youtube.com/watch?v=0b8Y9e6EVtc,0b8Y9e6EVtc,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20191219,74,48,0.0,,,Education,"Lightning Talk recorded at the PyConDE & PyData Berlin 2019 conference.
+https://pycon.de
+
+More details at the conference page: https://de.pycon.org/program/FTVNPK
+Follow us on Twitter:  https://twitter.com/pydataberlin, https://twitter.com/pyconde",https://i.ytimg.com/vi_webp/0b8Y9e6EVtc/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=0b8Y9e6EVtc,https://www.youtube.com/watch?v=0b8Y9e6EVtc
+44,LT: Ibrahim - How to get more followers on Instagram while sleeping,https://www.youtube.com/watch?v=4KZ7xoFb8rc,4KZ7xoFb8rc,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20191219,351,183,6.0,,,Education,"Lightning Talk recorded at the PyConDE & PyData Berlin 2019 conference.
+https://pycon.de
+
+More details at the conference page: https://de.pycon.org/program/FTVNPK
+Follow us on Twitter:  https://twitter.com/pydataberlin, https://twitter.com/pyconde",https://i.ytimg.com/vi_webp/4KZ7xoFb8rc/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=4KZ7xoFb8rc,https://www.youtube.com/watch?v=4KZ7xoFb8rc
+45,LT: Gönül Aycı - PyCon Turkey,https://www.youtube.com/watch?v=ZhN1s9sVUWw,ZhN1s9sVUWw,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20191219,105,199,3.0,,,Education,"Lightning Talk recorded at the PyConDE & PyData Berlin 2019 conference.
+https://pycon.de
+
+More details at the conference page: https://de.pycon.org/program/FTVNPK
+Follow us on Twitter:  https://twitter.com/pydataberlin, https://twitter.com/pyconde",https://i.ytimg.com/vi_webp/ZhN1s9sVUWw/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=ZhN1s9sVUWw,https://www.youtube.com/watch?v=ZhN1s9sVUWw
+46,LT: Andreas Bunkahle - PILasOPENCV,https://www.youtube.com/watch?v=rNxxbhKFnJs,rNxxbhKFnJs,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20191219,194,177,0.0,,,Education,"Lightning Talk recorded at the PyConDE & PyData Berlin 2019 conference.
+https://pycon.de
+
+More details at the conference page: https://de.pycon.org/program/FTVNPK
+Follow us on Twitter:  https://twitter.com/pydataberlin, https://twitter.com/pyconde",https://i.ytimg.com/vi_webp/rNxxbhKFnJs/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=rNxxbhKFnJs,https://www.youtube.com/watch?v=rNxxbhKFnJs
+47,LT: Shortcut conference,https://www.youtube.com/watch?v=lUStQGY0qKc,lUStQGY0qKc,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20191219,60,54,0.0,,,Education,"Lightning Talk recorded at the PyConDE & PyData Berlin 2019 conference.
+https://pycon.de
+
+More details at the conference page: https://de.pycon.org/program/FTVNPK
+Follow us on Twitter:  https://twitter.com/pydataberlin, https://twitter.com/pyconde",https://i.ytimg.com/vi_webp/lUStQGY0qKc/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=lUStQGY0qKc,https://www.youtube.com/watch?v=lUStQGY0qKc
+48,LT: Miroslav Šedivý - Keyboard Layouts,https://www.youtube.com/watch?v=-4QjII981sM,-4QjII981sM,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20191219,333,387,8.0,,,Education,"Lightning Talk recorded at the PyConDE & PyData Berlin 2019 conference.
+https://pycon.de
+
+More details at the conference page: https://de.pycon.org/program/FTVNPK
+Follow us on Twitter:  https://twitter.com/pydataberlin, https://twitter.com/pyconde",https://i.ytimg.com/vi_webp/-4QjII981sM/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=-4QjII981sM,https://www.youtube.com/watch?v=-4QjII981sM
+49,LT: Benedikt Rudolph - Gott's Principle,https://www.youtube.com/watch?v=dlkzB8WON40,dlkzB8WON40,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20191219,251,165,3.0,,,Education,"Lightning Talk recorded at the PyConDE & PyData Berlin 2019 conference.
+https://pycon.de
+
+More details at the conference page: https://de.pycon.org/program/FTVNPK
+Follow us on Twitter:  https://twitter.com/pydataberlin, https://twitter.com/pyconde",https://i.ytimg.com/vi_webp/dlkzB8WON40/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=dlkzB8WON40,https://www.youtube.com/watch?v=dlkzB8WON40
+50,LT: Dr. Cristián Maurer - UI dev made easy,https://www.youtube.com/watch?v=2sD44Nb8b04,2sD44Nb8b04,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20191219,277,183,2.0,,,Education,"Lightning Talk recorded at the PyConDE & PyData Berlin 2019 conference.
+https://pycon.de
+
+More details at the conference page: https://de.pycon.org/program/FTVNPK
+Follow us on Twitter:  https://twitter.com/pydataberlin, https://twitter.com/pyconde",https://i.ytimg.com/vi_webp/2sD44Nb8b04/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=2sD44Nb8b04,https://www.youtube.com/watch?v=2sD44Nb8b04
+51,LT: Christian Grossmüller - What the Clock,https://www.youtube.com/watch?v=Ow6OiJEBgR8,Ow6OiJEBgR8,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20191219,251,115,1.0,,,Education,"Lightning Talk recorded at the PyConDE & PyData Berlin 2019 conference.
+https://pycon.de
+
+More details at the conference page: https://de.pycon.org/program/FTVNPK
+Follow us on Twitter:  https://twitter.com/pydataberlin, https://twitter.com/pyconde",https://i.ytimg.com/vi_webp/Ow6OiJEBgR8/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=Ow6OiJEBgR8,https://www.youtube.com/watch?v=Ow6OiJEBgR8
+52,LT: Martin Christen - GeoPython 2020,https://www.youtube.com/watch?v=KpHeGr2wHbY,KpHeGr2wHbY,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20191219,149,261,1.0,,,Education,"Lightning Talk recorded at the PyConDE & PyData Berlin 2019 conference.
+https://pycon.de
+
+More details at the conference page: https://de.pycon.org/program/FTVNPK
+Follow us on Twitter:  https://twitter.com/pydataberlin, https://twitter.com/pyconde",https://i.ytimg.com/vi_webp/KpHeGr2wHbY/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=KpHeGr2wHbY,https://www.youtube.com/watch?v=KpHeGr2wHbY
+53,LT: Filipa - Group Identity,https://www.youtube.com/watch?v=kje8XtYHMXY,kje8XtYHMXY,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20191219,355,121,1.0,,,Education,"Lightning Talk recorded at the PyConDE & PyData Berlin 2019 conference.
+https://pycon.de
+
+More details at the conference page: https://de.pycon.org/program/FTVNPK
+Follow us on Twitter:  https://twitter.com/pydataberlin, https://twitter.com/pyconde",https://i.ytimg.com/vi_webp/kje8XtYHMXY/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=kje8XtYHMXY,https://www.youtube.com/watch?v=kje8XtYHMXY
+54,LT: Stefan Behnel: Cython 3.0,https://www.youtube.com/watch?v=r-3o3gUre-Q,r-3o3gUre-Q,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20191219,360,353,5.0,,,Education,"Lightning Talk recorded at the PyConDE & PyData Berlin 2019 conference.
+https://pycon.de
+
+More details at the conference page: https://de.pycon.org/program/FTVNPK
+Follow us on Twitter:  https://twitter.com/pydataberlin, https://twitter.com/pyconde",https://i.ytimg.com/vi_webp/r-3o3gUre-Q/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=r-3o3gUre-Q,https://www.youtube.com/watch?v=r-3o3gUre-Q
+55,"LT: Eberhard Hansis - TDDA (yes, A!)",https://www.youtube.com/watch?v=ADEBxja8vw4,ADEBxja8vw4,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20191219,236,92,,,,Education,"Lightning Talk recorded at the PyConDE & PyData Berlin 2019 conference.
+https://pycon.de
+
+More details at the conference page: https://de.pycon.org/program/FTVNPK
+Follow us on Twitter:  https://twitter.com/pydataberlin, https://twitter.com/pyconde",https://i.ytimg.com/vi_webp/ADEBxja8vw4/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=ADEBxja8vw4,https://www.youtube.com/watch?v=ADEBxja8vw4
+56,LT: Data Lineage - A Brief History of Data,https://www.youtube.com/watch?v=TJgBIB0NOow,TJgBIB0NOow,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20191010,166,33,0.0,,,Education,"Lightning Talk recorded at the PyConDE & PyData Berlin 2019 conference.
+https://pycon.de
+
+More details at the conference page: https://de.pycon.org/program/FTVNPK
+Follow us on Twitter:  https://twitter.com/pydataberlin, https://twitter.com/pyconde",https://i.ytimg.com/vi_webp/TJgBIB0NOow/maxresdefault.webp,0,False,False,unlisted,https://www.youtube.com/watch?v=TJgBIB0NOow,https://www.youtube.com/watch?v=TJgBIB0NOow
+57,LT: Victor Zimmermann - Your Algorithm is Probably Racist,https://www.youtube.com/watch?v=qD82PxPAO5k,qD82PxPAO5k,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20191010,330,30,0.0,,,Education,"Lightning Talk recorded at the PyConDE & PyData Berlin 2019 conference.
+https://pycon.de
+
+More details at the conference page: https://de.pycon.org/program/FTVNPK
+Follow us on Twitter:  https://twitter.com/pydataberlin, https://twitter.com/pyconde",https://i.ytimg.com/vi_webp/qD82PxPAO5k/maxresdefault.webp,0,False,False,unlisted,https://www.youtube.com/watch?v=qD82PxPAO5k,https://www.youtube.com/watch?v=qD82PxPAO5k
+58,🌈Apache Airflow for beginners,https://www.youtube.com/watch?v=YWtfU0MQZ_4,YWtfU0MQZ_4,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20200104,1745,71381,,,,Education,"Speaker: Varya Karpenko
+
+Track:PyConDE
+This talk gives an introduction to *Apache Airflow*, that facilitates workflow automation and scheduling.  You will learn about the core concepts in Airflow and how they fit together to form a data pipeline.
+
+Recorded at the PyConDE & PyData Berlin 2019 conference.
+https://pycon.de
+
+More details at the conference page: https://de.pycon.org/program/93C7TF
+Twitter:  https://twitter.com/pydataberlin
+Twitter:  https://twitter.com/pyconde",https://i.ytimg.com/vi_webp/YWtfU0MQZ_4/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=YWtfU0MQZ_4,https://www.youtube.com/watch?v=YWtfU0MQZ_4

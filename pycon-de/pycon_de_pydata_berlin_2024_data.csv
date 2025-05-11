@@ -1,0 +1,2303 @@
+﻿index,title,url,video_id,uploader,uploader_id,uploader_url,upload_date,duration,view_count,like_count,comment_count,tags,categories,description,thumbnail,age_limit,is_live,was_live,availability,webpage_url,original_url
+1,Building accessible documentation sites [PyCon DE & PyData Berlin 2024],https://www.youtube.com/watch?v=2voKwaCuhw4,2voKwaCuhw4,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20241009,1999,329,,,,Science & Technology,"🔊 Recorded at PyCon DE & PyData Berlin 2024, 24.04.2024
+https://2024.pycon.de/program/7UYHYP/
+
+🎓 Watch Dr. Tania Allard discuss practical tools and strategies to make your project's documentation sites more accessible, inclusive, and user-friendly for all.
+
+Speakers:
+Dr. Tania Allard
+
+Description:
+In the engaging talk on ""Building Accessible Documentation Sites"", presented by Dr. Tania Allard, the Director of Quansight Labs and a well-known figure in the Python community, the importance of creating inclusive documentation is highlighted. Dr. Allard emphasizes the need for documentation sites to be up-to-date, well-organized, and accessible to a diverse range of users, including those with disabilities.
+
+The talk addresses the fact that approximately 25% of the global population has some form of disability, underlining the necessity of ensuring that project documentation is accessible to all individuals, including disabled developers and end-users. Dr. Allard stresses that accessibility is not limited to front-end web development but encompasses all aspects of digital experiences, making it a collective responsibility for everyone involved in building projects, whether at the backend, documentation, CLI, or API levels.
+
+Drawing on her extensive experience in open-source accessibility, Dr. Allard shares practical advice, tools, and workflows to enhance the accessibility of documentation and user-facing resources. The talk covers various strategies, from auditing to remediation, aimed at making documentation sites more inclusive and user-friendly for disabled individuals. By implementing minor changes in workflows and practices, Dr. Allard demonstrates how project maintainers can significantly improve the accessibility of their documentation, even without in-depth accessibility knowledge.
+
+The presentation is structured to provide a brief context setting, an introduction to accessibility principles applicable to documentation and user-facing resources, and practical strategies for auditing, remediating, and implementing
+
+⭐️ About PyCon DE & PyData Berlin:
+The PyCon DE & PyData conference unite the Python, AI, and data science communities, offering a unique platform for collaboration and innovation. The PyCon DE & PyData Berlin 2024 conference, hosted in partnership with the local Berlin PyData chapter, provided an exceptional experience, fostering deeper connections within the Python community while showcasing advancements in AI and data science. Attendees enjoyed a diverse and engaging program, solidifying the event as a highlight for Python and AI enthusiasts nationwide.
+
+Follow us:
+   •  LinkedIn: https://www.linkedin.com/company/28908640/
+   •  X: https://www.x.com/pyconde
+   •  X: https://www.x.com/pydataberlin
+
+Links:
+   • Conference website: http://pycon.de
+   • Related sessions: http://2024.pycon.de/program/categories/general-others
+
+The conference is organized by
+   • Python Softwareverband e.V.: http://pysv.org
+   • NumFOCUS Inc.: http://numfocus.org
+   • Pioneers Hub gemeinnützige GmbH: http://pioneershub.org
+
+
+If you enjoyed this session, please like, comment, and subscribe to our channel for more insightful talks and discussions.
+Share this video with your network to spread the knowledge!
+
+Hashtags:
+#Python #PyConDE #PyData #OpenSource #AI #DataScience #MachineLearning #SoftwareDevelopment #LLMs #Community
+
+Acknowledgements:
+Special thanks to all the volunteers and sponsors who made this event possible.
+
+About:
+Python Softwareverband e.V.:
+PySV is a non-profit that promotes the use and development of Python in Germany through events, education, and advocacy, fostering an open Python community.
+
+NumFOCUS Inc.
+supports open-source scientific computing by providing financial and logistical support to key projects like NumPy and Jupyter, promoting sustainable development and collaboration.
+
+Pioneers Hub gemeinnützige GmbH:
+is a non-profit fostering innovation in AI and tech by connecting experts and promoting knowledge exchange through events and collaborative initiatives.",https://i.ytimg.com/vi/2voKwaCuhw4/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=2voKwaCuhw4,https://www.youtube.com/watch?v=2voKwaCuhw4
+2,How to Improve the Python Development Experience for Millions of Ubuntu Users,https://www.youtube.com/watch?v=WueCxRoMQ_I,WueCxRoMQ_I,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20241009,1590,169,,,,Science & Technology,"🔊 Recorded at PyCon DE & PyData Berlin 2024, 24.04.2024
+https://2024.pycon.de/program/DKL7YQ/
+
+🎓 Watch as Jürgen Gmach dives deep into the world of updating Python versions on Ubuntu, offering insights into common options and potential improvements for a smoother development experience.
+
+Speakers:
+Jürgen Gmach
+
+Description:
+Jürgen Gmach, a Senior Software Engineer at Canonical, delivered a talk on ""How to Improve the Python Development Experience for Millions of Ubuntu Users."" Gmach, who is passionate about Python and Linux, discussed the challenges users face when trying to install or upgrade Python versions on Ubuntu. He highlighted common options such as pyenv, deadsnakes, mamba/conda, and manual compilation of Python. The talk aimed to provide a comprehensive understanding of these options and their suitability for different needs. Gmach emphasized the lack of a straightforward method like 'apt install python-version' and the risks associated with outdated tutorials that could potentially break the Ubuntu installation. The talk not only compared different installation methods but also empowered users to evaluate new and existing tools independently. Additionally, Gmach offered insights into future tools and suggested improvements that Ubuntu could make to simplify the Python development experience for all users.
+
+⭐️ About PyCon DE & PyData Berlin:
+The PyCon DE & PyData conference unite the Python, AI, and data science communities, offering a unique platform for collaboration and innovation. The PyCon DE & PyData Berlin 2024 conference, hosted in partnership with the local Berlin PyData chapter, provided an exceptional experience, fostering deeper connections within the Python community while showcasing advancements in AI and data science. Attendees enjoyed a diverse and engaging program, solidifying the event as a highlight for Python and AI enthusiasts nationwide.
+
+Follow us:
+   •  LinkedIn: https://www.linkedin.com/company/28908640/
+   •  X: https://www.x.com/pyconde
+   •  X: https://www.x.com/pydataberlin
+
+Links:
+   • Conference website: http://pycon.de
+   • Related sessions: http://2024.pycon.de/program/categories/pycon-python-language-ecosystem
+
+The conference is organized by
+   • Python Softwareverband e.V.: http://pysv.org
+   • NumFOCUS Inc.: http://numfocus.org
+   • Pioneers Hub gemeinnützige GmbH: http://pioneershub.org
+
+
+If you enjoyed this session, please like, comment, and subscribe to our channel for more insightful talks and discussions.
+Share this video with your network to spread the knowledge!
+
+Hashtags:
+#Python #PyConDE #PyData #OpenSource #AI #DataScience #MachineLearning #SoftwareDevelopment #LLMs #Community
+
+Acknowledgements:
+Special thanks to all the volunteers and sponsors who made this event possible.
+
+About:
+Python Softwareverband e.V.:
+PySV is a non-profit that promotes the use and development of Python in Germany through events, education, and advocacy, fostering an open Python community.
+
+NumFOCUS Inc.
+supports open-source scientific computing by providing financial and logistical support to key projects like NumPy and Jupyter, promoting sustainable development and collaboration.
+
+Pioneers Hub gemeinnützige GmbH:
+is a non-profit fostering innovation in AI and tech by connecting experts and promoting knowledge exchange through events and collaborative initiatives.",https://i.ytimg.com/vi/WueCxRoMQ_I/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=WueCxRoMQ_I,https://www.youtube.com/watch?v=WueCxRoMQ_I
+3,Keynote - Safe Space or Trap? Creating Software like DuckDB in Academic Institutions,https://www.youtube.com/watch?v=PoHfh6O43uE,PoHfh6O43uE,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20241009,2877,1070,,,,Science & Technology,"🔊 Recorded at PyCon DE & PyData Berlin 2024, 23.04.2024
+https://2024.pycon.de/program/HKFN8J/
+
+🎓 Watch Hannes Mühleisen discuss the creation and challenges of DuckDB, a rapidly growing data system born in an academic setting.
+
+Speakers:
+Hannes Mühleisen
+
+Description:
+Prof. Dr. Hannes Mühleisen, the creator of DuckDB database management system and Co-founder/CEO of DuckDB Labs, a consulting company, is a key figure in the development of DuckDB, a popular in-process analytical data management system. The system, known for its speed and popularity within the Python ecosystem, originated at Centrum Wiskunde & Informatica (CWI) in Amsterdam, where Python was also created. Dr. Mühleisen, who is also a Professor of Data Engineering at Radboud Universiteit Nijmegen, will delve into the origins of DuckDB and explore the unique advantages and obstacles of maintaining widely-used software within an academic environment during his talk.
+
+⭐️ About PyCon DE & PyData Berlin:
+The PyCon DE & PyData conference unite the Python, AI, and data science communities, offering a unique platform for collaboration and innovation. The PyCon DE & PyData Berlin 2024 conference, hosted in partnership with the local Berlin PyData chapter, provided an exceptional experience, fostering deeper connections within the Python community while showcasing advancements in AI and data science. Attendees enjoyed a diverse and engaging program, solidifying the event as a highlight for Python and AI enthusiasts nationwide.
+
+Follow us:
+   •  LinkedIn: https://www.linkedin.com/company/28908640/
+   •  X: https://www.x.com/pyconde
+   •  X: https://www.x.com/pydataberlin
+
+Links:
+   • Conference website: http://pycon.de
+   • Related sessions: http://2024.pycon.de/program/categories/plenary
+
+The conference is organized by
+   • Python Softwareverband e.V.: http://pysv.org
+   • NumFOCUS Inc.: http://numfocus.org
+   • Pioneers Hub gemeinnützige GmbH: http://pioneershub.org
+
+
+If you enjoyed this session, please like, comment, and subscribe to our channel for more insightful talks and discussions.
+Share this video with your network to spread the knowledge!
+
+Hashtags:
+#Python #PyConDE #PyData #OpenSource #AI #DataScience #MachineLearning #SoftwareDevelopment #LLMs #Community
+
+Acknowledgements:
+Special thanks to all the volunteers and sponsors who made this event possible.
+
+About:
+Python Softwareverband e.V.:
+PySV is a non-profit that promotes the use and development of Python in Germany through events, education, and advocacy, fostering an open Python community.
+
+NumFOCUS Inc.
+supports open-source scientific computing by providing financial and logistical support to key projects like NumPy and Jupyter, promoting sustainable development and collaboration.
+
+Pioneers Hub gemeinnützige GmbH:
+is a non-profit fostering innovation in AI and tech by connecting experts and promoting knowledge exchange through events and collaborative initiatives.",https://i.ytimg.com/vi/PoHfh6O43uE/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=PoHfh6O43uE,https://www.youtube.com/watch?v=PoHfh6O43uE
+4,"µDjango, an asynchronous microservices technique. [PyCon DE & PyData Berlin 2024]",https://www.youtube.com/watch?v=jBGhhsPdRNs,jBGhhsPdRNs,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20241008,1844,159,,,,Science & Technology,"🔊 Recorded at PyCon DE & PyData Berlin 2024, 24.04.2024
+https://2024.pycon.de/program/7NETLX/
+
+🎓 Watch Maxim Danilov discuss how uDjango transforms Django into an asynchronous microservices framework with simplicity and speed at its core.
+
+Speakers:
+Maxim Danilov
+
+Description:
+Maxim Danilov, a Software Architect and Senior Python Developer, presented on transforming Django into a microservice-oriented async framework in his talk. By using a single file Django project, developers can create asynchronous microservices with ease. The concept of lightweight Django projects has been around for a while, initially appearing in the book ""Lightweight Django"" in 2014. However, it wasn't until Django introduced ASGI in 2022 that it became viable for microservices.
+
+Danilov discussed the benefits of Django microservices, such as the all-in-one package, standard architecture, and rapid development speed. He also highlighted challenges faced, including misconceptions about Django's suitability for microservices, issues with settings.py, and concerns about URL routing and performance.
+
+The talk aimed to educate the audience about uDjango, a technology for building synchronous and asynchronous microservices using one or two files. Drawing inspiration from various industry experts and projects, Danilov emphasized the simplicity and efficiency of using uDjango for high-performance microservices.
+
+⭐️ About PyCon DE & PyData Berlin:
+The PyCon DE & PyData conference unite the Python, AI, and data science communities, offering a unique platform for collaboration and innovation. The PyCon DE & PyData Berlin 2024 conference, hosted in partnership with the local Berlin PyData chapter, provided an exceptional experience, fostering deeper connections within the Python community while showcasing advancements in AI and data science. Attendees enjoyed a diverse and engaging program, solidifying the event as a highlight for Python and AI enthusiasts nationwide.
+
+Follow us:
+   •  LinkedIn: https://www.linkedin.com/company/28908640/
+   •  X: https://www.x.com/pyconde
+   •  X: https://www.x.com/pydataberlin
+
+Links:
+   • Conference website: http://pycon.de
+   • Related sessions: http://2024.pycon.de/program/categories/pycon-django-web
+
+The conference is organized by
+   • Python Softwareverband e.V.: http://pysv.org
+   • NumFOCUS Inc.: http://numfocus.org
+   • Pioneers Hub gemeinnützige GmbH: http://pioneershub.org
+
+
+If you enjoyed this session, please like, comment, and subscribe to our channel for more insightful talks and discussions.
+Share this video with your network to spread the knowledge!
+
+Hashtags:
+#Python #PyConDE #PyData #OpenSource #AI #DataScience #MachineLearning #SoftwareDevelopment #LLMs #Community
+
+Acknowledgements:
+Special thanks to all the volunteers and sponsors who made this event possible.
+
+About:
+Python Softwareverband e.V.:
+PySV is a non-profit that promotes the use and development of Python in Germany through events, education, and advocacy, fostering an open Python community.
+
+NumFOCUS Inc.
+supports open-source scientific computing by providing financial and logistical support to key projects like NumPy and Jupyter, promoting sustainable development and collaboration.
+
+Pioneers Hub gemeinnützige GmbH:
+is a non-profit fostering innovation in AI and tech by connecting experts and promoting knowledge exchange through events and collaborative initiatives.",https://i.ytimg.com/vi/jBGhhsPdRNs/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=jBGhhsPdRNs,https://www.youtube.com/watch?v=jBGhhsPdRNs
+5,pytest tips and tricks for a better testsuite [PyCon DE & PyData Berlin 2024],https://www.youtube.com/watch?v=FG_DgVo0hU0,FG_DgVo0hU0,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20241008,5503,576,,,,Science & Technology,"🔊 Recorded at PyCon DE & PyData Berlin 2024, 22.04.2024
+https://2024.pycon.de/program/DSFWRC/
+
+🎓 Watch as Florian Bruhin, the mastermind behind pytest, unveils advanced tips and tricks to elevate your testsuite to the next level, from recommended settings to custom fixtures and plugins.
+
+Speakers:
+Florian Bruhin
+
+Description:
+Florian Bruhin, founder and lecturer known as ""The Compiler,"" presents valuable insights in his talk on pytest tips and tricks for enhancing your testsuite. With a profound understanding of pytest gained through years of contribution, Florian's expertise shines through as he navigates through intermediate and advanced features of the framework. Throughout the training, Florian emphasizes the significance of familiarizing oneself with pytest basics before delving into recommended settings for stricter testing, the utility of xfail, and innovative ways to enhance test suites. Attendees will benefit from Florian's guidance on leveraging built-in pytest fixtures efficiently, advanced fixture and parametrization techniques, and customizing fixture behavior based on markers. Moreover, Florian will touch on patching, mocking, and plugins, offering insights on writing custom plugins. The talk promises to introduce attendees to property-based testing with Hypothesis, adding a new dimension to their testing repertoire. With Florian's comprehensive knowledge and practical tips, participants are sure to elevate their pytest proficiency and optimize their test suites effectively.
+
+⭐️ About PyCon DE & PyData Berlin:
+The PyCon DE & PyData conference unite the Python, AI, and data science communities, offering a unique platform for collaboration and innovation. The PyCon DE & PyData Berlin 2024 conference, hosted in partnership with the local Berlin PyData chapter, provided an exceptional experience, fostering deeper connections within the Python community while showcasing advancements in AI and data science. Attendees enjoyed a diverse and engaging program, solidifying the event as a highlight for Python and AI enthusiasts nationwide.
+
+Follow us:
+   •  LinkedIn: https://www.linkedin.com/company/28908640/
+   •  X: https://www.x.com/pyconde
+   •  X: https://www.x.com/pydataberlin
+
+Links:
+   • Conference website: http://pycon.de
+   • Related sessions: http://2024.pycon.de/program/categories/pycon-testing
+
+The conference is organized by
+   • Python Softwareverband e.V.: http://pysv.org
+   • NumFOCUS Inc.: http://numfocus.org
+   • Pioneers Hub gemeinnützige GmbH: http://pioneershub.org
+
+
+If you enjoyed this session, please like, comment, and subscribe to our channel for more insightful talks and discussions.
+Share this video with your network to spread the knowledge!
+
+Hashtags:
+#Python #PyConDE #PyData #OpenSource #AI #DataScience #MachineLearning #SoftwareDevelopment #LLMs #Community
+
+Acknowledgements:
+Special thanks to all the volunteers and sponsors who made this event possible.
+
+About:
+Python Softwareverband e.V.:
+PySV is a non-profit that promotes the use and development of Python in Germany through events, education, and advocacy, fostering an open Python community.
+
+NumFOCUS Inc.
+supports open-source scientific computing by providing financial and logistical support to key projects like NumPy and Jupyter, promoting sustainable development and collaboration.
+
+Pioneers Hub gemeinnützige GmbH:
+is a non-profit fostering innovation in AI and tech by connecting experts and promoting knowledge exchange through events and collaborative initiatives.",https://i.ytimg.com/vi/FG_DgVo0hU0/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=FG_DgVo0hU0,https://www.youtube.com/watch?v=FG_DgVo0hU0
+6,"No More Raw SQL: SQLAlchemy, ORMs & asyncio [PyCon DE & PyData Berlin 2024]",https://www.youtube.com/watch?v=b-N_6vVdEM0,b-N_6vVdEM0,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20241008,5344,403,,,,Science & Technology,"🔊 Recorded at PyCon DE & PyData Berlin 2024, 22.04.2024
+https://2024.pycon.de/program/EHJRVF/
+
+🎓 Watch as Aya Elsayed and Rhythm Patel guide you through using SQLAlchemy, ORMs, and asyncio to simplify database management and enhance querying performance in Python projects!
+
+Speakers:
+Aya Elsayed, Rhythm Patel
+
+Description:
+Aya Elsayed and Rhythm Patel, both Software Engineers at Bloomberg, will be leading a workshop on ""No More Raw SQL: SQLAlchemy, ORMs & asyncio."" The workshop will focus on simplifying database management and data representation synchronization using SQLAlchemy, an SQL toolkit. Participants will learn how to use SQLAlchemy's Object Relational Mapper (ORM) system and asyncio extension to interact with databases asynchronously. The interactive tutorial will cover topics such as setting up SQLAlchemy, utilizing ORMs, improving performance with relationship-loading techniques, and using SQLAlchemy's asyncio extension. The workshop will provide hands-on experience through GitHub Codespaces, enabling participants to work on a repository with all necessary modules and a Dockerized PostgreSQL database. Python developers of all levels who work with databases and want to enhance their database interaction using SQLAlchemy are encouraged to attend. Basic knowledge of databases and SQL is recommended, while prior experience with SQLAlchemy or ORMs is not required. By the end of the workshop, participants will have a strong grasp of using SQLAlchemy for database operations, building ORM classes, optimizing querying performance, and leveraging asyncio for asynchronous database interactions.
+
+⭐️ About PyCon DE & PyData Berlin:
+The PyCon DE & PyData conference unite the Python, AI, and data science communities, offering a unique platform for collaboration and innovation. The PyCon DE & PyData Berlin 2024 conference, hosted in partnership with the local Berlin PyData chapter, provided an exceptional experience, fostering deeper connections within the Python community while showcasing advancements in AI and data science. Attendees enjoyed a diverse and engaging program, solidifying the event as a highlight for Python and AI enthusiasts nationwide.
+
+Follow us:
+   •  LinkedIn: https://www.linkedin.com/company/28908640/
+   •  X: https://www.x.com/pyconde
+   •  X: https://www.x.com/pydataberlin
+
+Links:
+   • Conference website: http://pycon.de
+   • Related sessions: http://2024.pycon.de/program/categories/pycon-programming-software-engineering
+
+The conference is organized by
+   • Python Softwareverband e.V.: http://pysv.org
+   • NumFOCUS Inc.: http://numfocus.org
+   • Pioneers Hub gemeinnützige GmbH: http://pioneershub.org
+
+
+If you enjoyed this session, please like, comment, and subscribe to our channel for more insightful talks and discussions.
+Share this video with your network to spread the knowledge!
+
+Hashtags:
+#Python #PyConDE #PyData #OpenSource #AI #DataScience #MachineLearning #SoftwareDevelopment #LLMs #Community
+
+Acknowledgements:
+Special thanks to all the volunteers and sponsors who made this event possible.
+
+About:
+Python Softwareverband e.V.:
+PySV is a non-profit that promotes the use and development of Python in Germany through events, education, and advocacy, fostering an open Python community.
+
+NumFOCUS Inc.
+supports open-source scientific computing by providing financial and logistical support to key projects like NumPy and Jupyter, promoting sustainable development and collaboration.
+
+Pioneers Hub gemeinnützige GmbH:
+is a non-profit fostering innovation in AI and tech by connecting experts and promoting knowledge exchange through events and collaborative initiatives.",https://i.ytimg.com/vi/b-N_6vVdEM0/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=b-N_6vVdEM0,https://www.youtube.com/watch?v=b-N_6vVdEM0
+7,Bridging the worlds: pixi reimplements pip and conda in Rust [PyCon DE & PyData Berlin 2024],https://www.youtube.com/watch?v=sVc0PmeSUNk,sVc0PmeSUNk,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20241008,1766,572,,,,Science & Technology,"🔊 Recorded at PyCon DE & PyData Berlin 2024, 24.04.2024
+https://2024.pycon.de/program/HSJGHH/
+
+🎓 Watch as Wolf Vollprecht, a conda-forge veteran, introduces Pixi - a modern package manager that seamlessly bridges the worlds of conda and pip in Rust, offering a new SAT solver and cross-platform compatibility.
+
+Speakers:
+Wolf Vollprecht, Ruben Arts
+
+Description:
+Wolf Vollprecht, CEO of prefix.dev, and Ruben Arts presented about Pixi, a modern package manager that combines conda and pip package management. Wolf, a conda-forge veteran, introduced the features of Pixi, such as the from-scratch SAT solver called resolvo and native lockfiles. Pixi, developed in Rust and as a single binary, provides a cross-platform task system with a simple syntax. They also discussed rip, a library for interoperability with PyPI packages, overcoming hurdles like lazy metadata fetching and resolving packages for different platforms. The talk highlighted the seamless integration of conda and PyPI in Pixi, showcasing benchmarks and emphasizing the value of the conda ecosystem. For more information, visit pixi.sh and prefix.dev.
+
+⭐️ About PyCon DE & PyData Berlin:
+The PyCon DE & PyData conference unite the Python, AI, and data science communities, offering a unique platform for collaboration and innovation. The PyCon DE & PyData Berlin 2024 conference, hosted in partnership with the local Berlin PyData chapter, provided an exceptional experience, fostering deeper connections within the Python community while showcasing advancements in AI and data science. Attendees enjoyed a diverse and engaging program, solidifying the event as a highlight for Python and AI enthusiasts nationwide.
+
+Follow us:
+   •  LinkedIn: https://www.linkedin.com/company/28908640/
+   •  X: https://www.x.com/pyconde
+   •  X: https://www.x.com/pydataberlin
+
+Links:
+   • Conference website: http://pycon.de
+   • Related sessions: http://2024.pycon.de/program/categories/pycon-programming-software-engineering
+
+The conference is organized by
+   • Python Softwareverband e.V.: http://pysv.org
+   • NumFOCUS Inc.: http://numfocus.org
+   • Pioneers Hub gemeinnützige GmbH: http://pioneershub.org
+
+
+If you enjoyed this session, please like, comment, and subscribe to our channel for more insightful talks and discussions.
+Share this video with your network to spread the knowledge!
+
+Hashtags:
+#Python #PyConDE #PyData #OpenSource #AI #DataScience #MachineLearning #SoftwareDevelopment #LLMs #Community
+
+Acknowledgements:
+Special thanks to all the volunteers and sponsors who made this event possible.
+
+About:
+Python Softwareverband e.V.:
+PySV is a non-profit that promotes the use and development of Python in Germany through events, education, and advocacy, fostering an open Python community.
+
+NumFOCUS Inc.
+supports open-source scientific computing by providing financial and logistical support to key projects like NumPy and Jupyter, promoting sustainable development and collaboration.
+
+Pioneers Hub gemeinnützige GmbH:
+is a non-profit fostering innovation in AI and tech by connecting experts and promoting knowledge exchange through events and collaborative initiatives.",https://i.ytimg.com/vi/sVc0PmeSUNk/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=sVc0PmeSUNk,https://www.youtube.com/watch?v=sVc0PmeSUNk
+8,The key to reliability - Testing in the field of ML-Ops [PyCon DE & PyData Berlin 2024],https://www.youtube.com/watch?v=1bUZXfB06z0,1bUZXfB06z0,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20241007,2684,128,,,,Science & Technology,"🔊 Recorded at PyCon DE & PyData Berlin 2024, 23.04.2024
+https://2024.pycon.de/program/9PZSBS/
+
+🎓 Watch the experts from idealo.de share their innovative approach and lessons learned from 4 years of experience in testing machine learning components in a dynamic environment.
+
+Speakers:
+Gunar Maiwald, Tobias Senst
+
+Description:
+Gunar Maiwald, a Senior Machine Learning Engineer at idealo.de, and Tobias Senst, also a Senior Machine Learning Engineer, delivered a talk on the importance of testing in ML-Ops. They emphasized the growing significance of testing in the development and operation of machine learning-based components. Gunar and Tobias shared insights from their experience in operating idealo's cataloging system, a platform that handles millions of product offerings from thousands of shops.
+
+The speakers highlighted that machine learning components should be viewed as part of a complex domain, particularly in an event-driven asynchronous architecture. They stressed the necessity for stable software development and operations in tandem with traditional software components. The talk covered various aspects of a holistic testing approach, including machine learning lifecycle, traditional software testing like unit tests and code coverage, and specific challenges in the ML domain such as testing training pipelines and deployment of inference endpoints.
+
+Gunar and Tobias discussed the critical role of logging and monitoring for ensuring safe operations. They showcased their testing strategy developed over 4 years at idealo, featuring tools like PyTest, CDK, Pactman, AWS Sagemaker, Github Actions, OpenSearch Kibana, and Grafana. Attendees gained valuable insights into effective testing methodologies for machine learning systems from the speakers' practical experience and expertise in the field.
+
+⭐️ About PyCon DE & PyData Berlin:
+The PyCon DE & PyData conference unite the Python, AI, and data science communities, offering a unique platform for collaboration and innovation. The PyCon DE & PyData Berlin 2024 conference, hosted in partnership with the local Berlin PyData chapter, provided an exceptional experience, fostering deeper connections within the Python community while showcasing advancements in AI and data science. Attendees enjoyed a diverse and engaging program, solidifying the event as a highlight for Python and AI enthusiasts nationwide.
+
+Follow us:
+   •  LinkedIn: https://www.linkedin.com/company/28908640/
+   •  X: https://www.x.com/pyconde
+   •  X: https://www.x.com/pydataberlin
+
+Links:
+   • Conference website: http://pycon.de
+   • Related sessions: http://2024.pycon.de/program/categories/pycon-mlops-devops
+
+The conference is organized by
+   • Python Softwareverband e.V.: http://pysv.org
+   • NumFOCUS Inc.: http://numfocus.org
+   • Pioneers Hub gemeinnützige GmbH: http://pioneershub.org
+
+
+If you enjoyed this session, please like, comment, and subscribe to our channel for more insightful talks and discussions.
+Share this video with your network to spread the knowledge!
+
+Hashtags:
+#Python #PyConDE #PyData #OpenSource #AI #DataScience #MachineLearning #SoftwareDevelopment #LLMs #Community
+
+Acknowledgements:
+Special thanks to all the volunteers and sponsors who made this event possible.
+
+About:
+Python Softwareverband e.V.:
+PySV is a non-profit that promotes the use and development of Python in Germany through events, education, and advocacy, fostering an open Python community.
+
+NumFOCUS Inc.
+supports open-source scientific computing by providing financial and logistical support to key projects like NumPy and Jupyter, promoting sustainable development and collaboration.
+
+Pioneers Hub gemeinnützige GmbH:
+is a non-profit fostering innovation in AI and tech by connecting experts and promoting knowledge exchange through events and collaborative initiatives.",https://i.ytimg.com/vi/1bUZXfB06z0/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=1bUZXfB06z0,https://www.youtube.com/watch?v=1bUZXfB06z0
+9,"PyCon Community Backstage: A Decade of Camaraderie, Growth, and Lessons Learned",https://www.youtube.com/watch?v=ztMEsIhez9k,ztMEsIhez9k,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20241006,2341,63,,,,Science & Technology,"🔊 Recorded at PyCon DE & PyData Berlin 2024, 22.04.2024
+https://2024.pycon.de/program/7EC3UY/
+
+🎓 Watch Alexander Hendorf share a decade of insights and lessons learned from organizing Python community conferences, highlighting the importance of leadership and camaraderie.
+
+Speakers:
+Alexander CS Hendorf
+
+Description:
+As a prominent figure in the Python community, Alexander Hendorf, Head of Data & AI at a consultancy in Germany, reflects on a decade of fostering camaraderie and growth within the Python ecosystem. His involvement in organizing various conferences, such as PyCon.DE and PyData Berlin, has provided valuable insights into community dynamics. In his talk, he delves into the lessons learned, emphasizing the importance of inclusive leadership and the balance between ideas and realities in community building. Alexander also discusses strategies for individual and organizational contributions to the Python and PyData community, shedding light on the role of entities like PySV and NumFOCUS in supporting tech communities. Through his experiences, he highlights the significance of teamwork, personal growth, and future sustainability in shaping the European Python Community. Alexander's dedication to community service is evident through his extensive involvement in organizing meetups and conferences, underscoring his commitment to nurturing a vibrant and thriving Python community for years to come.
+
+⭐️ About PyCon DE & PyData Berlin:
+The PyCon DE & PyData conference unite the Python, AI, and data science communities, offering a unique platform for collaboration and innovation. The PyCon DE & PyData Berlin 2024 conference, hosted in partnership with the local Berlin PyData chapter, provided an exceptional experience, fostering deeper connections within the Python community while showcasing advancements in AI and data science. Attendees enjoyed a diverse and engaging program, solidifying the event as a highlight for Python and AI enthusiasts nationwide.
+
+Follow us:
+   •  LinkedIn: https://www.linkedin.com/company/28908640/
+   •  X: https://www.x.com/pyconde
+   •  X: https://www.x.com/pydataberlin
+
+Links:
+   • Conference website: http://pycon.de
+   • Related sessions: http://2024.pycon.de/program/categories/general-community-diversity-career-life-and-everything-else
+
+The conference is organized by
+   • Python Softwareverband e.V.: http://pysv.org
+   • NumFOCUS Inc.: http://numfocus.org
+   • Pioneers Hub gemeinnützige GmbH: http://pioneershub.org
+
+
+If you enjoyed this session, please like, comment, and subscribe to our channel for more insightful talks and discussions.
+Share this video with your network to spread the knowledge!
+
+Hashtags:
+#Python #PyConDE #PyData #OpenSource #AI #DataScience #MachineLearning #SoftwareDevelopment #LLMs #Community
+
+Acknowledgements:
+Special thanks to all the volunteers and sponsors who made this event possible.
+
+About:
+Python Softwareverband e.V.:
+PySV is a non-profit that promotes the use and development of Python in Germany through events, education, and advocacy, fostering an open Python community.
+
+NumFOCUS Inc.
+supports open-source scientific computing by providing financial and logistical support to key projects like NumPy and Jupyter, promoting sustainable development and collaboration.
+
+Pioneers Hub gemeinnützige GmbH:
+is a non-profit fostering innovation in AI and tech by connecting experts and promoting knowledge exchange through events and collaborative initiatives.",https://i.ytimg.com/vi/ztMEsIhez9k/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=ztMEsIhez9k,https://www.youtube.com/watch?v=ztMEsIhez9k
+10,Replacing Callbacks with Generators: A Case Study in Computer-Assisted Live Music,https://www.youtube.com/watch?v=PkAE6dsqIJw,PkAE6dsqIJw,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20241006,1684,657,,,,Science & Technology,"🔊 Recorded at PyCon DE & PyData Berlin 2024, 24.04.2024
+https://2024.pycon.de/program/Y7R9GZ/
+
+🎓 Watch how Matthieu Amiguet transforms a complex callback mess into a readable and efficient system using generators in computer-assisted live music.
+
+Speakers:
+Matthieu Amiguet
+
+Description:
+In a fascinating talk titled ""Replacing Callbacks with Generators: A Case Study in Computer-Assisted Live Music,"" Matthieu Amiguet, a musician and mathematician turned developer, shared insights based on his work at Les Chemins de Traverse. The collective, which focuses on sonic exploration and live performance, dived into the challenges faced in developing an interactive realtime audio processing system for live music performances. They found that the use of callbacks, although commonly employed in programming, became burdensome in this context.
+
+Amiguet detailed how they streamlined their system by implementing a thin abstraction layer, replacing complex callback structures with more readable generators. By utilizing generators, which yield results instead of the traditional return method, they were able to enhance the efficiency and clarity of their code significantly.
+
+At Les Chemins de Traverse, they blend different musical styles and techniques, creating a unique sonic experience. By leveraging tools like Olivier Bélanger's pyo module for realtime audio processing, they aim to augment traditional acoustical instruments with computer-generated sounds, adding a new dimension to live music performances.
+
+Through their experience, Amiguet showcased how a thoughtful abstraction layer can simplify code, enabling a more focused approach to music production rather than getting entangled in technical complexities. While their case study is music-specific, the principles they applied can be adapted to various scenarios where callbacks lead to convoluted and cumbersome code structures.
+
+⭐️ About PyCon DE & PyData Berlin:
+The PyCon DE & PyData conference unite the Python, AI, and data science communities, offering a unique platform for collaboration and innovation. The PyCon DE & PyData Berlin 2024 conference, hosted in partnership with the local Berlin PyData chapter, provided an exceptional experience, fostering deeper connections within the Python community while showcasing advancements in AI and data science. Attendees enjoyed a diverse and engaging program, solidifying the event as a highlight for Python and AI enthusiasts nationwide.
+
+Follow us:
+   •  LinkedIn: https://www.linkedin.com/company/28908640/
+   •  X: https://www.x.com/pyconde
+   •  X: https://www.x.com/pydataberlin
+
+Links:
+   • Conference website: http://pycon.de
+   • Related sessions: http://2024.pycon.de/program/categories/pycon-python-language-ecosystem
+
+The conference is organized by
+   • Python Softwareverband e.V.: http://pysv.org
+   • NumFOCUS Inc.: http://numfocus.org
+   • Pioneers Hub gemeinnützige GmbH: http://pioneershub.org
+
+
+If you enjoyed this session, please like, comment, and subscribe to our channel for more insightful talks and discussions.
+Share this video with your network to spread the knowledge!
+
+Hashtags:
+#Python #PyConDE #PyData #OpenSource #AI #DataScience #MachineLearning #SoftwareDevelopment #LLMs #Community
+
+Acknowledgements:
+Special thanks to all the volunteers and sponsors who made this event possible.
+
+About:
+Python Softwareverband e.V.:
+PySV is a non-profit that promotes the use and development of Python in Germany through events, education, and advocacy, fostering an open Python community.
+
+NumFOCUS Inc.
+supports open-source scientific computing by providing financial and logistical support to key projects like NumPy and Jupyter, promoting sustainable development and collaboration.
+
+Pioneers Hub gemeinnützige GmbH:
+is a non-profit fostering innovation in AI and tech by connecting experts and promoting knowledge exchange through events and collaborative initiatives.",https://i.ytimg.com/vi/PkAE6dsqIJw/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=PkAE6dsqIJw,https://www.youtube.com/watch?v=PkAE6dsqIJw
+11,Better safe than sorry: Threat Modeling for Python Developers [PyCon DE & PyData Berlin 2024],https://www.youtube.com/watch?v=Tq6kPnrZmrs,Tq6kPnrZmrs,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20241005,1781,80,,,,Science & Technology,"🔊 Recorded at PyCon DE & PyData Berlin 2024, 22.04.2024
+https://2024.pycon.de/program/PRH3QU/
+
+🎓 Watch as Clemens Hübner dives into the world of Threat Modeling for Python Developers, empowering you to proactively secure your applications against relevant threats and prioritize security measures effectively.
+
+Speakers:
+Clemens Hübner
+
+Description:
+Clemens Hübner, a Software Security Engineer at inovex, draws on over a decade of experience at the software-security interface to emphasize the importance of Threat Modeling for Python developers. In a landscape where cybersecurity threats constantly evolve, Python applications are increasingly targeted by malicious actors due to their role in managing critical data. The talk stresses the need for developers to transition from ad hoc security measures to a methodical approach in securing their applications. By utilizing Threat Modeling, developers can systematically analyze their applications against potential threats specific to their use cases and attack surfaces. Practical insights and real-world examples provided in the talk empower Python developers to identify, evaluate, and prioritize security risks effectively, enabling them to proactively fortify their applications against pertinent threats.
+
+⭐️ About PyCon DE & PyData Berlin:
+The PyCon DE & PyData conference unite the Python, AI, and data science communities, offering a unique platform for collaboration and innovation. The PyCon DE & PyData Berlin 2024 conference, hosted in partnership with the local Berlin PyData chapter, provided an exceptional experience, fostering deeper connections within the Python community while showcasing advancements in AI and data science. Attendees enjoyed a diverse and engaging program, solidifying the event as a highlight for Python and AI enthusiasts nationwide.
+
+Follow us:
+   •  LinkedIn: https://www.linkedin.com/company/28908640/
+   •  X: https://www.x.com/pyconde
+   •  X: https://www.x.com/pydataberlin
+
+Links:
+   • Conference website: http://pycon.de
+   • Related sessions: http://2024.pycon.de/program/categories/pycon-security
+
+The conference is organized by
+   • Python Softwareverband e.V.: http://pysv.org
+   • NumFOCUS Inc.: http://numfocus.org
+   • Pioneers Hub gemeinnützige GmbH: http://pioneershub.org
+
+
+If you enjoyed this session, please like, comment, and subscribe to our channel for more insightful talks and discussions.
+Share this video with your network to spread the knowledge!
+
+Hashtags:
+#Python #PyConDE #PyData #OpenSource #AI #DataScience #MachineLearning #SoftwareDevelopment #LLMs #Community
+
+Acknowledgements:
+Special thanks to all the volunteers and sponsors who made this event possible.
+
+About:
+Python Softwareverband e.V.:
+PySV is a non-profit that promotes the use and development of Python in Germany through events, education, and advocacy, fostering an open Python community.
+
+NumFOCUS Inc.
+supports open-source scientific computing by providing financial and logistical support to key projects like NumPy and Jupyter, promoting sustainable development and collaboration.
+
+Pioneers Hub gemeinnützige GmbH:
+is a non-profit fostering innovation in AI and tech by connecting experts and promoting knowledge exchange through events and collaborative initiatives.",https://i.ytimg.com/vi/Tq6kPnrZmrs/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=Tq6kPnrZmrs,https://www.youtube.com/watch?v=Tq6kPnrZmrs
+12,Functional Python [PyCon DE & PyData Berlin 2024],https://www.youtube.com/watch?v=Xhexo03nYko,Xhexo03nYko,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20241005,5300,544,,,,Science & Technology,"🔊 Recorded at PyCon DE & PyData Berlin 2024, 23.04.2024
+https://2024.pycon.de/program/PKJHBA/
+
+🎓 Watch as Mike Müller introduces the world of functional programming in Python, showing intermediate programmers how to enhance their program design and problem-solving skills with functional features.
+
+Speakers:
+Mike Müller
+
+Description:
+Mike Müller, CEO and Trainer, with over two decades of Python experience, will lead a practical tutorial on Functional Python programming. The session, tailored for intermediate programmers, will explore functional programming features in Python to enhance program design. By focusing on Python’s functional aspects such as pure functions, callables, and iterators, participants will gain valuable insights into alternative problem-solving approaches and broaden their programming skills. The hands-on format, utilizing JupyterLab, offers a comprehensive learning experience with detailed scripts for reference. The session covers key topics like using map, filter, reduce functions, comprehensions, and external tools like itertools. Join Mike Müller to optimize your Python programs through functional programming techniques.
+
+⭐️ About PyCon DE & PyData Berlin:
+The PyCon DE & PyData conference unite the Python, AI, and data science communities, offering a unique platform for collaboration and innovation. The PyCon DE & PyData Berlin 2024 conference, hosted in partnership with the local Berlin PyData chapter, provided an exceptional experience, fostering deeper connections within the Python community while showcasing advancements in AI and data science. Attendees enjoyed a diverse and engaging program, solidifying the event as a highlight for Python and AI enthusiasts nationwide.
+
+Follow us:
+   •  LinkedIn: https://www.linkedin.com/company/28908640/
+   •  X: https://www.x.com/pyconde
+   •  X: https://www.x.com/pydataberlin
+
+Links:
+   • Conference website: http://pycon.de
+   • Related sessions: http://2024.pycon.de/program/categories/pycon-programming-software-engineering
+
+The conference is organized by
+   • Python Softwareverband e.V.: http://pysv.org
+   • NumFOCUS Inc.: http://numfocus.org
+   • Pioneers Hub gemeinnützige GmbH: http://pioneershub.org
+
+
+If you enjoyed this session, please like, comment, and subscribe to our channel for more insightful talks and discussions.
+Share this video with your network to spread the knowledge!
+
+Hashtags:
+#Python #PyConDE #PyData #OpenSource #AI #DataScience #MachineLearning #SoftwareDevelopment #LLMs #Community
+
+Acknowledgements:
+Special thanks to all the volunteers and sponsors who made this event possible.
+
+About:
+Python Softwareverband e.V.:
+PySV is a non-profit that promotes the use and development of Python in Germany through events, education, and advocacy, fostering an open Python community.
+
+NumFOCUS Inc.
+supports open-source scientific computing by providing financial and logistical support to key projects like NumPy and Jupyter, promoting sustainable development and collaboration.
+
+Pioneers Hub gemeinnützige GmbH:
+is a non-profit fostering innovation in AI and tech by connecting experts and promoting knowledge exchange through events and collaborative initiatives.",https://i.ytimg.com/vi/Xhexo03nYko/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=Xhexo03nYko,https://www.youtube.com/watch?v=Xhexo03nYko
+13,Refactoring Large Programs [PyCon DE & PyData Berlin 2024],https://www.youtube.com/watch?v=gwvgVG8DH6g,gwvgVG8DH6g,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20241005,5216,392,,,,Science & Technology,"🔊 Recorded at PyCon DE & PyData Berlin 2024, 22.04.2024
+https://2024.pycon.de/program/CMM8S3/
+
+🎓 Watch Dr. Kristian Rother guide you through refactoring a large, messy, and undocumented Python program, offering valuable insights and strategies for your next big refactoring challenge.
+
+Speakers:
+Dr. Kristian Rother
+
+Description:
+Dr. Kristian Rother, a freelance Python trainer, presented a tutorial on refactoring large programs at a recent event. He addressed the challenge of cleaning up complex software with 10,000-100,000 lines of code, particularly in the case of legacy code. The tutorial focused on practical procedures such as code review, writing minimal tests, adding type annotations, and isolating cleanable parts from problematic sections. Dr. Rother emphasized the systematic approach to large-scale refactoring, highlighting that while it is difficult and costly, it can be tackled methodically. The session, aimed at those with fluency in basic Python, included interactive elements and practical exercises for attendees to enhance their refactoring skills. Participants were provided with the messy code and refactoring guidelines through GitHub for hands-on learning.
+
+⭐️ About PyCon DE & PyData Berlin:
+The PyCon DE & PyData conference unite the Python, AI, and data science communities, offering a unique platform for collaboration and innovation. The PyCon DE & PyData Berlin 2024 conference, hosted in partnership with the local Berlin PyData chapter, provided an exceptional experience, fostering deeper connections within the Python community while showcasing advancements in AI and data science. Attendees enjoyed a diverse and engaging program, solidifying the event as a highlight for Python and AI enthusiasts nationwide.
+
+Follow us:
+   •  LinkedIn: https://www.linkedin.com/company/28908640/
+   •  X: https://www.x.com/pyconde
+   •  X: https://www.x.com/pydataberlin
+
+Links:
+   • Conference website: http://pycon.de
+   • Related sessions: http://2024.pycon.de/program/categories/pycon-programming-software-engineering
+
+The conference is organized by
+   • Python Softwareverband e.V.: http://pysv.org
+   • NumFOCUS Inc.: http://numfocus.org
+   • Pioneers Hub gemeinnützige GmbH: http://pioneershub.org
+
+
+If you enjoyed this session, please like, comment, and subscribe to our channel for more insightful talks and discussions.
+Share this video with your network to spread the knowledge!
+
+Hashtags:
+#Python #PyConDE #PyData #OpenSource #AI #DataScience #MachineLearning #SoftwareDevelopment #LLMs #Community
+
+Acknowledgements:
+Special thanks to all the volunteers and sponsors who made this event possible.
+
+About:
+Python Softwareverband e.V.:
+PySV is a non-profit that promotes the use and development of Python in Germany through events, education, and advocacy, fostering an open Python community.
+
+NumFOCUS Inc.
+supports open-source scientific computing by providing financial and logistical support to key projects like NumPy and Jupyter, promoting sustainable development and collaboration.
+
+Pioneers Hub gemeinnützige GmbH:
+is a non-profit fostering innovation in AI and tech by connecting experts and promoting knowledge exchange through events and collaborative initiatives.",https://i.ytimg.com/vi/gwvgVG8DH6g/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=gwvgVG8DH6g,https://www.youtube.com/watch?v=gwvgVG8DH6g
+14,Encoding Charactersets - may the force be with you [PyCon DE & PyData Berlin 2024],https://www.youtube.com/watch?v=XR5rmoDa-rc,XR5rmoDa-rc,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20241005,1315,182,,,,Science & Technology,"🔊 Recorded at PyCon DE & PyData Berlin 2024, 23.04.2024
+https://2024.pycon.de/program/RRAZ99/
+
+🎓 Watch as Martin Hoermann delves into the intricate world of character encoding, unraveling the mysteries behind garbled text and providing practical solutions using Python.
+
+Speakers:
+Martin Hoermann
+
+Description:
+Martin Hoermann, Bereichsleiter Ausbildung at ORDIX AG, with over 25 years of experience in database and programming consultancy, sheds light on the persistent challenge of garbled text in IT projects despite Unicode. The talk focuses on using Python to analyze and rectify encoding issues by distinguishing between graphemes and codepoints, understanding Unicode versus UTF-8, and efficiently decoding and encoding various data sources like files, database results, and REST-API calls. Additionally, practical insights are shared on leveraging the unicodedata module and addressing ISO charset complexities in the Unicode landscape. Attendees will benefit from real-world examples illustrating effective solutions to tackle encoding dilemmas.
+
+⭐️ About PyCon DE & PyData Berlin:
+The PyCon DE & PyData conference unite the Python, AI, and data science communities, offering a unique platform for collaboration and innovation. The PyCon DE & PyData Berlin 2024 conference, hosted in partnership with the local Berlin PyData chapter, provided an exceptional experience, fostering deeper connections within the Python community while showcasing advancements in AI and data science. Attendees enjoyed a diverse and engaging program, solidifying the event as a highlight for Python and AI enthusiasts nationwide.
+
+Follow us:
+   •  LinkedIn: https://www.linkedin.com/company/28908640/
+   •  X: https://www.x.com/pyconde
+   •  X: https://www.x.com/pydataberlin
+
+Links:
+   • Conference website: http://pycon.de
+   • Related sessions: http://2024.pycon.de/program/categories/pycon-python-language-ecosystem
+
+The conference is organized by
+   • Python Softwareverband e.V.: http://pysv.org
+   • NumFOCUS Inc.: http://numfocus.org
+   • Pioneers Hub gemeinnützige GmbH: http://pioneershub.org
+
+
+If you enjoyed this session, please like, comment, and subscribe to our channel for more insightful talks and discussions.
+Share this video with your network to spread the knowledge!
+
+Hashtags:
+#Python #PyConDE #PyData #OpenSource #AI #DataScience #MachineLearning #SoftwareDevelopment #LLMs #Community
+
+Acknowledgements:
+Special thanks to all the volunteers and sponsors who made this event possible.
+
+About:
+Python Softwareverband e.V.:
+PySV is a non-profit that promotes the use and development of Python in Germany through events, education, and advocacy, fostering an open Python community.
+
+NumFOCUS Inc.
+supports open-source scientific computing by providing financial and logistical support to key projects like NumPy and Jupyter, promoting sustainable development and collaboration.
+
+Pioneers Hub gemeinnützige GmbH:
+is a non-profit fostering innovation in AI and tech by connecting experts and promoting knowledge exchange through events and collaborative initiatives.",https://i.ytimg.com/vi/XR5rmoDa-rc/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=XR5rmoDa-rc,https://www.youtube.com/watch?v=XR5rmoDa-rc
+15,Enhance your balcony power plant with Python [PyCon DE & PyData Berlin 2024],https://www.youtube.com/watch?v=5CiDAmKi-k4,5CiDAmKi-k4,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20241004,1807,101,,,,Science & Technology,"🔊 Recorded at PyCon DE & PyData Berlin 2024, 24.04.2024
+https://2024.pycon.de/program/TCSERC/
+
+🎓 Watch as Jannis Lübbe discusses how to enhance your balcony power plant with Python, covering the basics of plug-in solar systems, energy consumption, and optimizing power output for sustainability.
+
+Speakers:
+Jannis Lübbe
+
+Description:
+Jannis Lübbe, Sensor Developer at ROSEN Group, shared insights on enhancing balcony power plants using Python. As plug-in solar systems gain popularity, the talk focused on understanding household energy consumption and optimizing power output. Lübbe highlighted the simplicity of installing balcony power plants without requiring an electrician. By utilizing devices like WiFi plugs from Shelly and myStrom with REST APIs, power consumption can be measured. Power production, ideally monitored using OpenDTU with compatible microinverters, can also be achieved using WiFi plugs. Recorded values are then published to Redis for observation via WebSockets and FastAPI. Lübbe emphasized the potential for pushing these values to a public server managed by FastAPI and Redis, with access control through social logins like Google or GitHub.
+
+⭐️ About PyCon DE & PyData Berlin:
+The PyCon DE & PyData conference unite the Python, AI, and data science communities, offering a unique platform for collaboration and innovation. The PyCon DE & PyData Berlin 2024 conference, hosted in partnership with the local Berlin PyData chapter, provided an exceptional experience, fostering deeper connections within the Python community while showcasing advancements in AI and data science. Attendees enjoyed a diverse and engaging program, solidifying the event as a highlight for Python and AI enthusiasts nationwide.
+
+Follow us:
+   •  LinkedIn: https://www.linkedin.com/company/28908640/
+   •  X: https://www.x.com/pyconde
+   •  X: https://www.x.com/pydataberlin
+
+Links:
+   • Conference website: http://pycon.de
+   • Related sessions: http://2024.pycon.de/program/categories/general-infrastructure-hardware-cloud
+
+The conference is organized by
+   • Python Softwareverband e.V.: http://pysv.org
+   • NumFOCUS Inc.: http://numfocus.org
+   • Pioneers Hub gemeinnützige GmbH: http://pioneershub.org
+
+
+If you enjoyed this session, please like, comment, and subscribe to our channel for more insightful talks and discussions.
+Share this video with your network to spread the knowledge!
+
+Hashtags:
+#Python #PyConDE #PyData #OpenSource #AI #DataScience #MachineLearning #SoftwareDevelopment #LLMs #Community
+
+Acknowledgements:
+Special thanks to all the volunteers and sponsors who made this event possible.
+
+About:
+Python Softwareverband e.V.:
+PySV is a non-profit that promotes the use and development of Python in Germany through events, education, and advocacy, fostering an open Python community.
+
+NumFOCUS Inc.
+supports open-source scientific computing by providing financial and logistical support to key projects like NumPy and Jupyter, promoting sustainable development and collaboration.
+
+Pioneers Hub gemeinnützige GmbH:
+is a non-profit fostering innovation in AI and tech by connecting experts and promoting knowledge exchange through events and collaborative initiatives.",https://i.ytimg.com/vi/5CiDAmKi-k4/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=5CiDAmKi-k4,https://www.youtube.com/watch?v=5CiDAmKi-k4
+16,When and how to start coding with kids [PyCon DE & PyData Berlin 2024],https://www.youtube.com/watch?v=DaaD1QDVmt8,DaaD1QDVmt8,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20241004,2375,345,,,,Science & Technology,"🔊 Recorded at PyCon DE & PyData Berlin 2024, 22.04.2024
+https://2024.pycon.de/program/UBNVYW/
+
+🎓 Watch Anna-Lena Popkes share valuable insights on when and how to start teaching kids how to code, unraveling the benefits and best approaches from a scientific perspective.
+
+Speakers:
+Anna-Lena Popkes
+
+Description:
+Anna-Lena Popkes, a Senior Machine Learning Engineer, shares her passion for teaching Python and coding with kids. She highlights the importance of introducing children to coding early on to enhance logical reasoning skills and attention to detail. In her talk, Anna-Lena explores the scientific perspective on when and how to start teaching kids to code, considering factors like brain development and learning abilities. She addresses common questions such as the optimal age to begin coding and the benefits it brings for children's future. By emphasizing the fun aspect of coding, Anna-Lena advocates for early exposure to coding to nurture children's skills and open doors for their development. She suggests using learning platforms and tutorials as starting points for kids to embark on their coding journey, emphasizing the growing value of coding skills in today's technology-driven world.
+
+⭐️ About PyCon DE & PyData Berlin:
+The PyCon DE & PyData conference unite the Python, AI, and data science communities, offering a unique platform for collaboration and innovation. The PyCon DE & PyData Berlin 2024 conference, hosted in partnership with the local Berlin PyData chapter, provided an exceptional experience, fostering deeper connections within the Python community while showcasing advancements in AI and data science. Attendees enjoyed a diverse and engaging program, solidifying the event as a highlight for Python and AI enthusiasts nationwide.
+
+Follow us:
+   •  LinkedIn: https://www.linkedin.com/company/28908640/
+   •  X: https://www.x.com/pyconde
+   •  X: https://www.x.com/pydataberlin
+
+Links:
+   • Conference website: http://pycon.de
+   • Related sessions: http://2024.pycon.de/program/categories/general-community-diversity-career-life-and-everything-else
+
+The conference is organized by
+   • Python Softwareverband e.V.: http://pysv.org
+   • NumFOCUS Inc.: http://numfocus.org
+   • Pioneers Hub gemeinnützige GmbH: http://pioneershub.org
+
+
+If you enjoyed this session, please like, comment, and subscribe to our channel for more insightful talks and discussions.
+Share this video with your network to spread the knowledge!
+
+Hashtags:
+#Python #PyConDE #PyData #OpenSource #AI #DataScience #MachineLearning #SoftwareDevelopment #LLMs #Community
+
+Acknowledgements:
+Special thanks to all the volunteers and sponsors who made this event possible.
+
+About:
+Python Softwareverband e.V.:
+PySV is a non-profit that promotes the use and development of Python in Germany through events, education, and advocacy, fostering an open Python community.
+
+NumFOCUS Inc.
+supports open-source scientific computing by providing financial and logistical support to key projects like NumPy and Jupyter, promoting sustainable development and collaboration.
+
+Pioneers Hub gemeinnützige GmbH:
+is a non-profit fostering innovation in AI and tech by connecting experts and promoting knowledge exchange through events and collaborative initiatives.",https://i.ytimg.com/vi/DaaD1QDVmt8/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=DaaD1QDVmt8,https://www.youtube.com/watch?v=DaaD1QDVmt8
+17,Deploying your Python application to Android [PyCon DE & PyData Berlin 2024],https://www.youtube.com/watch?v=ntSsc6wHnJU,ntSsc6wHnJU,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20241004,1428,264,,,,Science & Technology,"🔊 Recorded at PyCon DE & PyData Berlin 2024, 23.04.2024
+https://2024.pycon.de/program/W7YDRX/
+
+🎓 Watch a comprehensive overview of deploying Python applications to Android, comparing popular GUI development frameworks like PySide6, Kivy, and Flet in creating a Contact List application.
+
+Speakers:
+Shyamnath Premnadh
+
+Description:
+Shyamnath Premnadh, a Senior Software Engineer at Qt for Python, sheds light on deploying Python applications to Android in a talk that introduces frameworks like PySide6, Kivy, and Flet. Despite Python never being the primary choice for Android development, recent developments, such as “PEP 738: Adding Android as a supported platform,” have made it a viable option. Shyamnath compares the three frameworks by showcasing a Contact List application, outlining their pros and cons to help developers choose the best fit for their needs. The talk covers the relevance of Android for Python developers, the current state of Android app development with Python, and specific demonstrations of developing the Contact List application using Kivy, PySide6, and Flet. Shyamnath also explores Python packages supported by each framework, providing a comprehensive overview for attendees to engage in a Q&A session for additional insights.
+
+⭐️ About PyCon DE & PyData Berlin:
+The PyCon DE & PyData conference unite the Python, AI, and data science communities, offering a unique platform for collaboration and innovation. The PyCon DE & PyData Berlin 2024 conference, hosted in partnership with the local Berlin PyData chapter, provided an exceptional experience, fostering deeper connections within the Python community while showcasing advancements in AI and data science. Attendees enjoyed a diverse and engaging program, solidifying the event as a highlight for Python and AI enthusiasts nationwide.
+
+Follow us:
+   •  LinkedIn: https://www.linkedin.com/company/28908640/
+   •  X: https://www.x.com/pyconde
+   •  X: https://www.x.com/pydataberlin
+
+Links:
+   • Conference website: http://pycon.de
+   • Related sessions: http://2024.pycon.de/program/categories/pycon-programming-software-engineering
+
+The conference is organized by
+   • Python Softwareverband e.V.: http://pysv.org
+   • NumFOCUS Inc.: http://numfocus.org
+   • Pioneers Hub gemeinnützige GmbH: http://pioneershub.org
+
+
+If you enjoyed this session, please like, comment, and subscribe to our channel for more insightful talks and discussions.
+Share this video with your network to spread the knowledge!
+
+Hashtags:
+#Python #PyConDE #PyData #OpenSource #AI #DataScience #MachineLearning #SoftwareDevelopment #LLMs #Community
+
+Acknowledgements:
+Special thanks to all the volunteers and sponsors who made this event possible.
+
+About:
+Python Softwareverband e.V.:
+PySV is a non-profit that promotes the use and development of Python in Germany through events, education, and advocacy, fostering an open Python community.
+
+NumFOCUS Inc.
+supports open-source scientific computing by providing financial and logistical support to key projects like NumPy and Jupyter, promoting sustainable development and collaboration.
+
+Pioneers Hub gemeinnützige GmbH:
+is a non-profit fostering innovation in AI and tech by connecting experts and promoting knowledge exchange through events and collaborative initiatives.",https://i.ytimg.com/vi/ntSsc6wHnJU/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=ntSsc6wHnJU,https://www.youtube.com/watch?v=ntSsc6wHnJU
+18,Django loves strawberries [PyCon DE & PyData Berlin 2024],https://www.youtube.com/watch?v=EQwF5xUi4Oc,EQwF5xUi4Oc,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20241004,5503,145,,,,Science & Technology,"🔊 Recorded at PyCon DE & PyData Berlin 2024, 24.04.2024
+https://2024.pycon.de/program/AT9HCG/
+
+🎓 Watch Arthur Bayr, a seasoned Full Stack Developer, unravel the seamless integration of GraphQL Strawberry and Django in a comprehensive workshop, empowering you to build robust and scalable applications with cutting-edge technologies.
+
+Speakers:
+Arthur Bayr
+
+Description:
+Arthur Bayr, a Full Stack Developer at sdox, with a wealth of experience in API architecture, performance, and security, invites participants to an immersive workshop exploring the integration of GraphQL Strawberry and Django. Throughout the sessions, attendees will master type definitions, queries, and mutations, harnessing the power of Starlette for efficient API development. The workshop commences with insights into creating robust schemas and defining custom types to meet project requirements, paving the way for a deeper dive into queries and mutations. By seamlessly integrating Django's ORM into Strawberry, participants will learn how to execute complex operations effortlessly. The addition of Starlette, a lightweight ASGI framework, enhances API development, boosting performance and flexibility. Through guided exercises and practical examples, participants will gain the confidence to implement GraphQL APIs using Strawberry and Django, unlocking the potential to build robust and scalable applications. By the workshop's end, attendees will have a comprehensive understanding of creating GraphQL schemas, executing queries and mutations seamlessly within Django applications, and leveraging Starlette for efficient API development alongside Django. Whether you are experienced in these technologies or new to them, this workshop promises to equip you with the skills needed to succeed in your projects by harnessing the combined power of GraphQL Strawberry and Django.
+
+⭐️ About PyCon DE & PyData Berlin:
+The PyCon DE & PyData conference unite the Python, AI, and data science communities, offering a unique platform for collaboration and innovation. The PyCon DE & PyData Berlin 2024 conference, hosted in partnership with the local Berlin PyData chapter, provided an exceptional experience, fostering deeper connections within the Python community while showcasing advancements in AI and data science. Attendees enjoyed a diverse and engaging program, solidifying the event as a highlight for Python and AI enthusiasts nationwide.
+
+Follow us:
+   •  LinkedIn: https://www.linkedin.com/company/28908640/
+   •  X: https://www.x.com/pyconde
+   •  X: https://www.x.com/pydataberlin
+
+Links:
+   • Conference website: http://pycon.de
+   • Related sessions: http://2024.pycon.de/program/categories/pycon-django-web
+
+The conference is organized by
+   • Python Softwareverband e.V.: http://pysv.org
+   • NumFOCUS Inc.: http://numfocus.org
+   • Pioneers Hub gemeinnützige GmbH: http://pioneershub.org
+
+
+If you enjoyed this session, please like, comment, and subscribe to our channel for more insightful talks and discussions.
+Share this video with your network to spread the knowledge!
+
+Hashtags:
+#Python #PyConDE #PyData #OpenSource #AI #DataScience #MachineLearning #SoftwareDevelopment #LLMs #Community
+
+Acknowledgements:
+Special thanks to all the volunteers and sponsors who made this event possible.
+
+About:
+Python Softwareverband e.V.:
+PySV is a non-profit that promotes the use and development of Python in Germany through events, education, and advocacy, fostering an open Python community.
+
+NumFOCUS Inc.
+supports open-source scientific computing by providing financial and logistical support to key projects like NumPy and Jupyter, promoting sustainable development and collaboration.
+
+Pioneers Hub gemeinnützige GmbH:
+is a non-profit fostering innovation in AI and tech by connecting experts and promoting knowledge exchange through events and collaborative initiatives.",https://i.ytimg.com/vi/EQwF5xUi4Oc/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=EQwF5xUi4Oc,https://www.youtube.com/watch?v=EQwF5xUi4Oc
+19,Leveraging the Art of Parallel Unit Testing in Django [PyCon DE & PyData Berlin 2024],https://www.youtube.com/watch?v=cpu3Sn5NXQU,cpu3Sn5NXQU,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20241004,1502,78,,,,Science & Technology,"🔊 Recorded at PyCon DE & PyData Berlin 2024, 23.04.2024
+https://2024.pycon.de/program/ZKDEPW/
+
+🎓 Watch as industry experts delve into the world of parallel unit testing in Django, offering insights, tools, and real-world experiences to enhance your testing practices and code quality.
+
+Speakers:
+Azan Bin Zahid, Syed Ansab Waqar Gillani
+
+Description:
+In the talk ""Leveraging the Art of Parallel Unit Testing in Django,"" Azan Bin Zahid, a Software Development Engineer, and Syed Ansab Waqar Gillani, a Python Enthusiast and Software Engineer at Agoda, discuss the challenges and strategies for unit testing in monolithic repositories using Django. The speakers delve into identifying bottlenecks and impacts on development velocity and code quality, introducing parallel testing concepts, benefits, tools, and techniques for Django unit testing. They share real-world experiences from major institutions and provide implementation guidelines with practical insights and examples. The audience targeted includes Django developers, software engineers, and testing professionals looking to optimize unit testing practices in monolithic environments. By the end of the session, attendees will gain actionable knowledge to enhance their Django unit testing workflows through parallelization, drawing from industry best practices and experiences.
+
+⭐️ About PyCon DE & PyData Berlin:
+The PyCon DE & PyData conference unite the Python, AI, and data science communities, offering a unique platform for collaboration and innovation. The PyCon DE & PyData Berlin 2024 conference, hosted in partnership with the local Berlin PyData chapter, provided an exceptional experience, fostering deeper connections within the Python community while showcasing advancements in AI and data science. Attendees enjoyed a diverse and engaging program, solidifying the event as a highlight for Python and AI enthusiasts nationwide.
+
+Follow us:
+   •  LinkedIn: https://www.linkedin.com/company/28908640/
+   •  X: https://www.x.com/pyconde
+   •  X: https://www.x.com/pydataberlin
+
+Links:
+   • Conference website: http://pycon.de
+   • Related sessions: http://2024.pycon.de/program/categories/pycon-testing
+
+The conference is organized by
+   • Python Softwareverband e.V.: http://pysv.org
+   • NumFOCUS Inc.: http://numfocus.org
+   • Pioneers Hub gemeinnützige GmbH: http://pioneershub.org
+
+
+If you enjoyed this session, please like, comment, and subscribe to our channel for more insightful talks and discussions.
+Share this video with your network to spread the knowledge!
+
+Hashtags:
+#Python #PyConDE #PyData #OpenSource #AI #DataScience #MachineLearning #SoftwareDevelopment #LLMs #Community
+
+Acknowledgements:
+Special thanks to all the volunteers and sponsors who made this event possible.
+
+About:
+Python Softwareverband e.V.:
+PySV is a non-profit that promotes the use and development of Python in Germany through events, education, and advocacy, fostering an open Python community.
+
+NumFOCUS Inc.
+supports open-source scientific computing by providing financial and logistical support to key projects like NumPy and Jupyter, promoting sustainable development and collaboration.
+
+Pioneers Hub gemeinnützige GmbH:
+is a non-profit fostering innovation in AI and tech by connecting experts and promoting knowledge exchange through events and collaborative initiatives.",https://i.ytimg.com/vi/cpu3Sn5NXQU/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=cpu3Sn5NXQU,https://www.youtube.com/watch?v=cpu3Sn5NXQU
+20,Unlock the Power of Dev Containers: Build a Consistent Python Development Environment in Seconds!,https://www.youtube.com/watch?v=Uhf9JDsKao0,Uhf9JDsKao0,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20241004,2759,541,,,,Science & Technology,"🔊 Recorded at PyCon DE & PyData Berlin 2024, 23.04.2024
+https://2024.pycon.de/program/UG8THG/
+
+🎓 Watch as Thomas Fraunholz demonstrates how to build a consistent Python development environment in seconds using Dev Containers, saving you time and hassle with each new project!
+
+Speakers:
+Thomas Fraunholz
+
+Description:
+Thomas Fraunholz, a Senior Researcher AI with expertise in MLOps, shared insights on unlocking the power of Dev Containers in a recent talk. Dev Containers offer a quick and consistent Python development environment setup, benefiting programmers, data scientists, and machine learning engineers alike. Thomas highlighted the convenience of creating a development environment in seconds, regardless of location or tool preferences. The open-source Development Container Specification eliminates the need to repeatedly set up environments from scratch for new projects. The talk covered setting up a Python environment with focus on package management and GPU support, equipping attendees with the ability to leverage Dev Containers' advantages for seamless work and rapid readiness. If you seek to enhance productivity by eliminating time spent on development environment setups, Thomas's talk on Dev Containers is a valuable resource. Thomas's background in AI-driven cybersecurity at Smart Cyber Security GmbH adds depth to his insights, making this talk a must-attend for those eager to streamline their development workflows.
+
+⭐️ About PyCon DE & PyData Berlin:
+The PyCon DE & PyData conference unite the Python, AI, and data science communities, offering a unique platform for collaboration and innovation. The PyCon DE & PyData Berlin 2024 conference, hosted in partnership with the local Berlin PyData chapter, provided an exceptional experience, fostering deeper connections within the Python community while showcasing advancements in AI and data science. Attendees enjoyed a diverse and engaging program, solidifying the event as a highlight for Python and AI enthusiasts nationwide.
+
+Follow us:
+   •  LinkedIn: https://www.linkedin.com/company/28908640/
+   •  X: https://www.x.com/pyconde
+   •  X: https://www.x.com/pydataberlin
+
+Links:
+   • Conference website: http://pycon.de
+   • Related sessions: http://2024.pycon.de/program/categories/pycon-programming-software-engineering
+
+The conference is organized by
+   • Python Softwareverband e.V.: http://pysv.org
+   • NumFOCUS Inc.: http://numfocus.org
+   • Pioneers Hub gemeinnützige GmbH: http://pioneershub.org
+
+
+If you enjoyed this session, please like, comment, and subscribe to our channel for more insightful talks and discussions.
+Share this video with your network to spread the knowledge!
+
+Hashtags:
+#Python #PyConDE #PyData #OpenSource #AI #DataScience #MachineLearning #SoftwareDevelopment #LLMs #Community
+
+Acknowledgements:
+Special thanks to all the volunteers and sponsors who made this event possible.
+
+About:
+Python Softwareverband e.V.:
+PySV is a non-profit that promotes the use and development of Python in Germany through events, education, and advocacy, fostering an open Python community.
+
+NumFOCUS Inc.
+supports open-source scientific computing by providing financial and logistical support to key projects like NumPy and Jupyter, promoting sustainable development and collaboration.
+
+Pioneers Hub gemeinnützige GmbH:
+is a non-profit fostering innovation in AI and tech by connecting experts and promoting knowledge exchange through events and collaborative initiatives.",https://i.ytimg.com/vi/Uhf9JDsKao0/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=Uhf9JDsKao0,https://www.youtube.com/watch?v=Uhf9JDsKao0
+21,Python 3.12's new monitoring and debugging API [PyCon DE & PyData Berlin 2024],https://www.youtube.com/watch?v=i7CbCNGfMvI,i7CbCNGfMvI,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20241003,1745,217,,,,Science & Technology,"🔊 Recorded at PyCon DE & PyData Berlin 2024, 24.04.2024
+https://2024.pycon.de/program/P7AG9A/
+
+🎓 Watch as Johannes Bechberger dives into Python 3.12's groundbreaking monitoring and debugging API, revolutionizing the way you develop tools and debug with ease!
+
+Speakers:
+Johannes Bechberger
+
+Description:
+Johannes Bechberger, a Software Engineer at SAP, presented a talk on Python 3.12's latest monitoring and debugging API. The new low-impact monitoring API, introduced through PEP669, enables the development of faster debuggers than ever before. Historically lacking a robust monitoring and profiling API, Python previously relied on the sys.settrace API, which was inefficient and lacked configurability. The new monitoring API, launched in October 2023, provides a well-designed, fine-tuned alternative that significantly improves commonly used operations. During the talk, attendees gained insights into the API's key features and design decisions, learning how to leverage it to create efficient tools such as simple debuggers. Johannes Bechberger's expertise in JVM development and his proficiency in Python, cultivated over nearly a decade, made him a compelling speaker on this advanced technological subject.
+
+⭐️ About PyCon DE & PyData Berlin:
+The PyCon DE & PyData conference unite the Python, AI, and data science communities, offering a unique platform for collaboration and innovation. The PyCon DE & PyData Berlin 2024 conference, hosted in partnership with the local Berlin PyData chapter, provided an exceptional experience, fostering deeper connections within the Python community while showcasing advancements in AI and data science. Attendees enjoyed a diverse and engaging program, solidifying the event as a highlight for Python and AI enthusiasts nationwide.
+
+Follow us:
+   •  LinkedIn: https://www.linkedin.com/company/28908640/
+   •  X: https://www.x.com/pyconde
+   •  X: https://www.x.com/pydataberlin
+
+Links:
+   • Conference website: http://pycon.de
+   • Related sessions: http://2024.pycon.de/program/categories/pycon-python-language-ecosystem
+
+The conference is organized by
+   • Python Softwareverband e.V.: http://pysv.org
+   • NumFOCUS Inc.: http://numfocus.org
+   • Pioneers Hub gemeinnützige GmbH: http://pioneershub.org
+
+
+If you enjoyed this session, please like, comment, and subscribe to our channel for more insightful talks and discussions.
+Share this video with your network to spread the knowledge!
+
+Hashtags:
+#Python #PyConDE #PyData #OpenSource #AI #DataScience #MachineLearning #SoftwareDevelopment #LLMs #Community
+
+Acknowledgements:
+Special thanks to all the volunteers and sponsors who made this event possible.
+
+About:
+Python Softwareverband e.V.:
+PySV is a non-profit that promotes the use and development of Python in Germany through events, education, and advocacy, fostering an open Python community.
+
+NumFOCUS Inc.
+supports open-source scientific computing by providing financial and logistical support to key projects like NumPy and Jupyter, promoting sustainable development and collaboration.
+
+Pioneers Hub gemeinnützige GmbH:
+is a non-profit fostering innovation in AI and tech by connecting experts and promoting knowledge exchange through events and collaborative initiatives.",https://i.ytimg.com/vi/i7CbCNGfMvI/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=i7CbCNGfMvI,https://www.youtube.com/watch?v=i7CbCNGfMvI
+22,Acknowledging Women’s Contributions in the Python Community Through Podcast,https://www.youtube.com/watch?v=A4cNFup5fMc,A4cNFup5fMc,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20241003,1602,46,,,,Science & Technology,"🔊 Recorded at PyCon DE & PyData Berlin 2024, 22.04.2024
+https://2024.pycon.de/program/BYH8Y8/
+
+🎓 Watch as we delve into the importance of acknowledging women's contributions in the Python community through our podcast, highlighting their voices and the impact of diversity and inclusion efforts.
+
+Speakers:
+Cheuk Ting Ho, Tereza Iofciu
+
+Description:
+Cheuk Ting Ho, a community manager at OpenSSF, and Tereza Iofciu, Head of Data Science, discussed the underrepresentation of women in Python podcasts. They highlighted the need to recognize women's contributions and the impact of diversity in the community. Efforts such as PyCon US Charlas and PyLadies are improving diversity, yet women only make up 17% of guests on popular Python podcasts. Cheuk and Tereza launched a podcast to amplify women's voices and inspire others to support diversity in the Python community. They emphasized the influence of podcast guests and the importance of representation. The speakers shared data on gender representation in podcasts and showcased success stories from their own podcast series. They encouraged the audience to listen to diverse voices, promote inclusivity, and suggest interviews to further support underrepresented groups in the Python community.
+
+⭐️ About PyCon DE & PyData Berlin:
+The PyCon DE & PyData conference unite the Python, AI, and data science communities, offering a unique platform for collaboration and innovation. The PyCon DE & PyData Berlin 2024 conference, hosted in partnership with the local Berlin PyData chapter, provided an exceptional experience, fostering deeper connections within the Python community while showcasing advancements in AI and data science. Attendees enjoyed a diverse and engaging program, solidifying the event as a highlight for Python and AI enthusiasts nationwide.
+
+Follow us:
+   •  LinkedIn: https://www.linkedin.com/company/28908640/
+   •  X: https://www.x.com/pyconde
+   •  X: https://www.x.com/pydataberlin
+
+Links:
+   • Conference website: http://pycon.de
+   • Related sessions: http://2024.pycon.de/program/categories/general-community-diversity-career-life-and-everything-else
+
+The conference is organized by
+   • Python Softwareverband e.V.: http://pysv.org
+   • NumFOCUS Inc.: http://numfocus.org
+   • Pioneers Hub gemeinnützige GmbH: http://pioneershub.org
+
+
+If you enjoyed this session, please like, comment, and subscribe to our channel for more insightful talks and discussions.
+Share this video with your network to spread the knowledge!
+
+Hashtags:
+#Python #PyConDE #PyData #OpenSource #AI #DataScience #MachineLearning #SoftwareDevelopment #LLMs #Community
+
+Acknowledgements:
+Special thanks to all the volunteers and sponsors who made this event possible.
+
+About:
+Python Softwareverband e.V.:
+PySV is a non-profit that promotes the use and development of Python in Germany through events, education, and advocacy, fostering an open Python community.
+
+NumFOCUS Inc.
+supports open-source scientific computing by providing financial and logistical support to key projects like NumPy and Jupyter, promoting sustainable development and collaboration.
+
+Pioneers Hub gemeinnützige GmbH:
+is a non-profit fostering innovation in AI and tech by connecting experts and promoting knowledge exchange through events and collaborative initiatives.",https://i.ytimg.com/vi/A4cNFup5fMc/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=A4cNFup5fMc,https://www.youtube.com/watch?v=A4cNFup5fMc
+23,Community Conferences under the Hood. Perspectives and Best Practices in Volunteer Organization,https://www.youtube.com/watch?v=WRhAUBwWEgU,WRhAUBwWEgU,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20241003,3907,56,,,,Science & Technology,"🔊 Recorded at PyCon DE & PyData Berlin 2024, 23.04.2024
+https://2024.pycon.de/program/PLJKUH/
+
+🎓 Watch the dynamic panel of seasoned community organizers share insights and best practices on volunteer organization to foster inclusion and diversity in tech communities.
+
+Speakers:
+Florian Wilhelm, Alexander CS Hendorf, Valentina Scipione, Lais Carvalho
+
+Description:
+At the upcoming community conference, Florian Wilhelm, Head of Data Science at inovex GmbH, Alexander CS Hendorf, Head of Data & AI at a boutique consultancy, Valentina Scipione, Software Engineering Manager at Planet, and Laís Carvalho, Site Reliability Engineer at Workday Inc., will lead a session on volunteer organization's vital role in tech communities. 
+They will shed light on the challenges and successes of community organization, emphasizing authenticity, inclusion, and diversity. The panel, comprising seasoned community organizers, aims to inspire current and budding leaders in nurturing collaborative and diverse tech ecosystems. 
+Attendees will gain insights and best practices from the speakers, who have extensive experience in building and maintaining inclusive communities. This interactive session is open to all individuals passionate about fostering a more inclusive tech environment. Join the panel to learn how to contribute to a vibrant and diverse Python community through effective volunteer organization, creating a supportive and progressive tech ecosystem.
+
+⭐️ About PyCon DE & PyData Berlin:
+The PyCon DE & PyData conference unite the Python, AI, and data science communities, offering a unique platform for collaboration and innovation. The PyCon DE & PyData Berlin 2024 conference, hosted in partnership with the local Berlin PyData chapter, provided an exceptional experience, fostering deeper connections within the Python community while showcasing advancements in AI and data science. Attendees enjoyed a diverse and engaging program, solidifying the event as a highlight for Python and AI enthusiasts nationwide.
+
+Follow us:
+   •  LinkedIn: https://www.linkedin.com/company/28908640/
+   •  X: https://www.x.com/pyconde
+   •  X: https://www.x.com/pydataberlin
+
+Links:
+   • Conference website: http://pycon.de
+   • Related sessions: http://2024.pycon.de/program/categories/general-community-diversity-career-life-and-everything-else
+
+The conference is organized by
+   • Python Softwareverband e.V.: http://pysv.org
+   • NumFOCUS Inc.: http://numfocus.org
+   • Pioneers Hub gemeinnützige GmbH: http://pioneershub.org
+
+
+If you enjoyed this session, please like, comment, and subscribe to our channel for more insightful talks and discussions.
+Share this video with your network to spread the knowledge!
+
+Hashtags:
+#Python #PyConDE #PyData #OpenSource #AI #DataScience #MachineLearning #SoftwareDevelopment #LLMs #Community
+
+Acknowledgements:
+Special thanks to all the volunteers and sponsors who made this event possible.
+
+About:
+Python Softwareverband e.V.:
+PySV is a non-profit that promotes the use and development of Python in Germany through events, education, and advocacy, fostering an open Python community.
+
+NumFOCUS Inc.
+supports open-source scientific computing by providing financial and logistical support to key projects like NumPy and Jupyter, promoting sustainable development and collaboration.
+
+Pioneers Hub gemeinnützige GmbH:
+is a non-profit fostering innovation in AI and tech by connecting experts and promoting knowledge exchange through events and collaborative initiatives.",https://i.ytimg.com/vi/WRhAUBwWEgU/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=WRhAUBwWEgU,https://www.youtube.com/watch?v=WRhAUBwWEgU
+24,Which kind of software tests do I really need? [PyCon DE & PyData Berlin 2024],https://www.youtube.com/watch?v=x4Ki5-0syUg,x4Ki5-0syUg,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20241002,1805,90,,,,Science & Technology,"🔊 Recorded at PyCon DE & PyData Berlin 2024, 24.04.2024
+https://2024.pycon.de/program/PVLTD3/
+
+🎓 Watch Pascal Puchtler unravel the complexities of software testing methodologies and guide you in selecting the right tests for enhanced software delivery.
+
+Speakers:
+Pascal Puchtler
+
+Description:
+In a talk by Pascal Puchtler, a freelancer specializing in software testing with Python, the importance of choosing the right software testing methodologies is emphasized. From Manual and A/B Testing to Unit and Performance Tests, the presentation aims to guide developers and QA professionals in making informed decisions for enhanced software delivery. Participants will explore the various testing approaches available, understanding the unique purposes served by each method in the software development life cycle. The talk will delve into the factors influencing the selection of appropriate testing methods, addressing the advantages and limitations of different testing types with practical examples. Attendees will gain insights into evolving industry best practices, enabling them to adapt their testing strategies to the demands of modern software development. By the end of the session, participants will have an overview of the diverse landscape of software testing and the knowledge needed to choose the most relevant types of tests for their specific projects. The presentation aims to empower developers, QA professionals, and project managers to optimize their testing efforts for efficient and effective software delivery.
+
+⭐️ About PyCon DE & PyData Berlin:
+The PyCon DE & PyData conference unite the Python, AI, and data science communities, offering a unique platform for collaboration and innovation. The PyCon DE & PyData Berlin 2024 conference, hosted in partnership with the local Berlin PyData chapter, provided an exceptional experience, fostering deeper connections within the Python community while showcasing advancements in AI and data science. Attendees enjoyed a diverse and engaging program, solidifying the event as a highlight for Python and AI enthusiasts nationwide.
+
+Follow us:
+   •  LinkedIn: https://www.linkedin.com/company/28908640/
+   •  X: https://www.x.com/pyconde
+   •  X: https://www.x.com/pydataberlin
+
+Links:
+   • Conference website: http://pycon.de
+   • Related sessions: http://2024.pycon.de/program/categories/pycon-testing
+
+The conference is organized by
+   • Python Softwareverband e.V.: http://pysv.org
+   • NumFOCUS Inc.: http://numfocus.org
+   • Pioneers Hub gemeinnützige GmbH: http://pioneershub.org
+
+
+If you enjoyed this session, please like, comment, and subscribe to our channel for more insightful talks and discussions.
+Share this video with your network to spread the knowledge!
+
+Hashtags:
+#Python #PyConDE #PyData #OpenSource #AI #DataScience #MachineLearning #SoftwareDevelopment #LLMs #Community
+
+Acknowledgements:
+Special thanks to all the volunteers and sponsors who made this event possible.
+
+About:
+Python Softwareverband e.V.:
+PySV is a non-profit that promotes the use and development of Python in Germany through events, education, and advocacy, fostering an open Python community.
+
+NumFOCUS Inc.
+supports open-source scientific computing by providing financial and logistical support to key projects like NumPy and Jupyter, promoting sustainable development and collaboration.
+
+Pioneers Hub gemeinnützige GmbH:
+is a non-profit fostering innovation in AI and tech by connecting experts and promoting knowledge exchange through events and collaborative initiatives.",https://i.ytimg.com/vi/x4Ki5-0syUg/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=x4Ki5-0syUg,https://www.youtube.com/watch?v=x4Ki5-0syUg
+25,Mojo 🔥 - Is it Python's faster cousin or just hype? [PyCon DE & PyData Berlin 2024],https://www.youtube.com/watch?v=A67P4-A4yLk,A67P4-A4yLk,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20241002,1606,2573,,,,Science & Technology,"🔊 Recorded at PyCon DE & PyData Berlin 2024, 24.04.2024
+https://2024.pycon.de/program/DG8G7Q/
+
+🎓 Watch as Jamie Coombes delves into the journey of Mojo, the programming language touted as ""Python's faster cousin,"" questioning its potential to revolutionize AI development or fade into obscurity.
+
+Speakers:
+Jamie Coombes
+
+Description:
+On 2023-05-02, the tech world was abuzz with the launch of Mojo 🔥, a new programming language by Chris Lattner. Jamie Coombes, a Machine Learning Engineer, offers insights into Mojo's journey and its promise as ""Python's faster cousin."" The talk evaluates Mojo's performance, usability, and potential as a Python superset in the AI landscape. Against alternatives like Rust and PyPy, the critical question arises – can Mojo carve out its niche or fade into obscurity? With a background in Python and PyTorch, Jamie delves into the practical experiences of developing a Large Language Model Interpretation library using Mojo. The presentation navigates Mojo's evolution, from conception to its capacity to disrupt the programming ecosystem, especially in AI and ML domains. Attendees can expect to gain a candid understanding of Mojo's strengths, performance claims, and the likelihood of its adoption in AI development. The talk will explore Mojo's syntax, draw comparisons with Python, and feature a case study detailing the challenges and breakthroughs of working with Mojo. The audience will be engaged in discussions about Mojo's future, its fit in existing projects, and its potential to become the primary language for AI development. A prediction on Mojo's trajectory will round up the talk, setting the stage for its triumph or potential obscurity in programming language history.
+
+⭐️ About PyCon DE & PyData Berlin:
+The PyCon DE & PyData conference unite the Python, AI, and data science communities, offering a unique platform for collaboration and innovation. The PyCon DE & PyData Berlin 2024 conference, hosted in partnership with the local Berlin PyData chapter, provided an exceptional experience, fostering deeper connections within the Python community while showcasing advancements in AI and data science. Attendees enjoyed a diverse and engaging program, solidifying the event as a highlight for Python and AI enthusiasts nationwide.
+
+Follow us:
+   •  LinkedIn: https://www.linkedin.com/company/28908640/
+   •  X: https://www.x.com/pyconde
+   •  X: https://www.x.com/pydataberlin
+
+Links:
+   • Conference website: http://pycon.de
+   • Related sessions: http://2024.pycon.de/program/categories/pycon-python-language-ecosystem
+
+The conference is organized by
+   • Python Softwareverband e.V.: http://pysv.org
+   • NumFOCUS Inc.: http://numfocus.org
+   • Pioneers Hub gemeinnützige GmbH: http://pioneershub.org
+
+
+If you enjoyed this session, please like, comment, and subscribe to our channel for more insightful talks and discussions.
+Share this video with your network to spread the knowledge!
+
+Hashtags:
+#Python #PyConDE #PyData #OpenSource #AI #DataScience #MachineLearning #SoftwareDevelopment #LLMs #Community
+
+Acknowledgements:
+Special thanks to all the volunteers and sponsors who made this event possible.
+
+About:
+Python Softwareverband e.V.:
+PySV is a non-profit that promotes the use and development of Python in Germany through events, education, and advocacy, fostering an open Python community.
+
+NumFOCUS Inc.
+supports open-source scientific computing by providing financial and logistical support to key projects like NumPy and Jupyter, promoting sustainable development and collaboration.
+
+Pioneers Hub gemeinnützige GmbH:
+is a non-profit fostering innovation in AI and tech by connecting experts and promoting knowledge exchange through events and collaborative initiatives.",https://i.ytimg.com/vi/A67P4-A4yLk/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=A67P4-A4yLk,https://www.youtube.com/watch?v=A67P4-A4yLk
+26,Streamlining Python Development: A Guide to a Modern Project Setup [PyCon DE & PyData Berlin 2024],https://www.youtube.com/watch?v=Qwu11p41YF0,Qwu11p41YF0,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20241001,1793,600,,,,Science & Technology,"🔊 Recorded at PyCon DE & PyData Berlin 2024, 22.04.2024
+https://2024.pycon.de/program/CBVTEG/
+
+🎓 Watch as Florian Wilhelm, Head of Data Science, simplifies Python project management in 'Streamlining Python Development: A Guide to a Modern Project Setup,' offering invaluable insights into Hatch, pyproject.toml, unit testing, mypy, and the r
+
+Speakers:
+Florian Wilhelm
+
+Description:
+In a talk titled ""Streamlining Python Development: A Guide to a Modern Project Setup,"" Florian Wilhelm, Head of Data Science & Mathematical Modeling at inovex GmbH, introduces beginners to effective Python project management techniques. The presentation focuses on utilizing tools like Hatch for project management and emphasizes the importance of `pyproject.toml` for streamlined configuration. The session covers key aspects such as organizing directories, implementing unit testing for code reliability, and utilizing mypy for type checking to enhance code quality. Attendees will also gain insights into ruff, a modern linter replacing black, isort, and flake8, for maintaining Python coding standards. The talk equips Python enthusiasts with a comprehensive toolkit to implement the latest practices in Python development, ensuring a solid foundation for creating high-quality applications.
+
+⭐️ About PyCon DE & PyData Berlin:
+The PyCon DE & PyData conference unite the Python, AI, and data science communities, offering a unique platform for collaboration and innovation. The PyCon DE & PyData Berlin 2024 conference, hosted in partnership with the local Berlin PyData chapter, provided an exceptional experience, fostering deeper connections within the Python community while showcasing advancements in AI and data science. Attendees enjoyed a diverse and engaging program, solidifying the event as a highlight for Python and AI enthusiasts nationwide.
+
+Follow us:
+   •  LinkedIn: https://www.linkedin.com/company/28908640/
+   •  X: https://www.x.com/pyconde
+   •  X: https://www.x.com/pydataberlin
+
+Links:
+   • Conference website: http://pycon.de
+   • Related sessions: http://2024.pycon.de/program/categories/pycon-programming-software-engineering
+
+The conference is organized by
+   • Python Softwareverband e.V.: http://pysv.org
+   • NumFOCUS Inc.: http://numfocus.org
+   • Pioneers Hub gemeinnützige GmbH: http://pioneershub.org
+
+
+If you enjoyed this session, please like, comment, and subscribe to our channel for more insightful talks and discussions.
+Share this video with your network to spread the knowledge!
+
+Hashtags:
+#Python #PyConDE #PyData #OpenSource #AI #DataScience #MachineLearning #SoftwareDevelopment #LLMs #Community
+
+Acknowledgements:
+Special thanks to all the volunteers and sponsors who made this event possible.
+
+About:
+Python Softwareverband e.V.:
+PySV is a non-profit that promotes the use and development of Python in Germany through events, education, and advocacy, fostering an open Python community.
+
+NumFOCUS Inc.
+supports open-source scientific computing by providing financial and logistical support to key projects like NumPy and Jupyter, promoting sustainable development and collaboration.
+
+Pioneers Hub gemeinnützige GmbH:
+is a non-profit fostering innovation in AI and tech by connecting experts and promoting knowledge exchange through events and collaborative initiatives.",https://i.ytimg.com/vi/Qwu11p41YF0/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=Qwu11p41YF0,https://www.youtube.com/watch?v=Qwu11p41YF0
+27,"Performant, scientific computation in Python and Rust [PyCon DE & PyData Berlin 2024]",https://www.youtube.com/watch?v=wvjcMYTXVSU,wvjcMYTXVSU,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20241001,5317,201,,,,Science & Technology,"🔊 Recorded at PyCon DE & PyData Berlin 2024, 23.04.2024
+https://2024.pycon.de/program/XBUHCK/
+
+🎓 Watch Stefan Ulbrich as he guides you through building performant scientific computation packages in Python and Rust, offering insights into efficient computation and optimization for machine learning and data science applications.
+
+Speakers:
+Stefan Ulbrich
+
+Description:
+Stefan Ulbrich, Senior Data Scientist, offers a tutorial on enhancing scientific computation in Python and Rust. The session explores packaging numerical calculus and algorithms using modern tools. Highlighting the efficiency of vectorization in Python for computational tasks within Machine Learning, Ulbrich presents the integration of Rust to optimize package performance. Rust, recognized for its performance and memory safety, complements Python, particularly for instances prioritizing speed and modern language features. The talk demonstrates creating a scientific Python package, gradually transitioning components to Rust for enhanced performance. Through an example of implementing the ""Expectation maximization for Gaussian Mixture Models"" algorithm, attendees learn how to leverage modern tools to build, optimize, and extend packages efficiently. Ulbrich emphasizes that while Rust knowledge is not mandatory, the session provides a high-level understanding of its benefits for Python extension and performance improvement. For a hands-on experience, participants are encouraged to clone Ulbrich's repository for swift installation and to optimize session time effectively.
+
+⭐️ About PyCon DE & PyData Berlin:
+The PyCon DE & PyData conference unite the Python, AI, and data science communities, offering a unique platform for collaboration and innovation. The PyCon DE & PyData Berlin 2024 conference, hosted in partnership with the local Berlin PyData chapter, provided an exceptional experience, fostering deeper connections within the Python community while showcasing advancements in AI and data science. Attendees enjoyed a diverse and engaging program, solidifying the event as a highlight for Python and AI enthusiasts nationwide.
+
+Follow us:
+   •  LinkedIn: https://www.linkedin.com/company/28908640/
+   •  X: https://www.x.com/pyconde
+   •  X: https://www.x.com/pydataberlin
+
+Links:
+   • Conference website: http://pycon.de
+   • Related sessions: http://2024.pycon.de/program/categories/pycon-programming-software-engineering
+
+The conference is organized by
+   • Python Softwareverband e.V.: http://pysv.org
+   • NumFOCUS Inc.: http://numfocus.org
+   • Pioneers Hub gemeinnützige GmbH: http://pioneershub.org
+
+
+If you enjoyed this session, please like, comment, and subscribe to our channel for more insightful talks and discussions.
+Share this video with your network to spread the knowledge!
+
+Hashtags:
+#Python #PyConDE #PyData #OpenSource #AI #DataScience #MachineLearning #SoftwareDevelopment #LLMs #Community
+
+Acknowledgements:
+Special thanks to all the volunteers and sponsors who made this event possible.
+
+About:
+Python Softwareverband e.V.:
+PySV is a non-profit that promotes the use and development of Python in Germany through events, education, and advocacy, fostering an open Python community.
+
+NumFOCUS Inc.
+supports open-source scientific computing by providing financial and logistical support to key projects like NumPy and Jupyter, promoting sustainable development and collaboration.
+
+Pioneers Hub gemeinnützige GmbH:
+is a non-profit fostering innovation in AI and tech by connecting experts and promoting knowledge exchange through events and collaborative initiatives.",https://i.ytimg.com/vi/wvjcMYTXVSU/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=wvjcMYTXVSU,https://www.youtube.com/watch?v=wvjcMYTXVSU
+28,You shall not pass! 🧙 Strengthen your python code against attacks. [PyCon DE & PyData Berlin 2024],https://www.youtube.com/watch?v=2DuJMUmEx-U,2DuJMUmEx-U,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20240930,2587,136,,,,Science & Technology,"🔊 Recorded at PyCon DE & PyData Berlin 2024, 22.04.2024
+https://2024.pycon.de/program/7LQEJ3/
+
+🎓 Watch how to fortify your Python code against attacks and safeguard your application from malicious intruders in this insightful talk by Antonia Scherz and Roman Krafft.
+
+Speakers:
+Antonia Scherz, Roman Krafft
+
+Description:
+At the ""You shall not pass! 🧙 Strengthen your python code against attacks"" talk, Antonia Scherz from PD - Berater der öffentlichen Hand and Roman Krafft from PD - Consultant of the Public Sector GmbH will guide attendees through enhancing the security of Python applications. The speakers shed light on the risks of leaked credentials and common entry points for attackers, emphasizing the need for robust security measures. They delve into password cracking techniques, essential IT security practices, and vulnerabilities specific to Python coding. Through case studies and practical examples, they showcase how to shield against potential attacks and strengthen code integrity. By the end of the talk, listeners will grasp key security principles and be equipped to fortify their Python projects against malicious intrusions.
+
+⭐️ About PyCon DE & PyData Berlin:
+The PyCon DE & PyData conference unite the Python, AI, and data science communities, offering a unique platform for collaboration and innovation. The PyCon DE & PyData Berlin 2024 conference, hosted in partnership with the local Berlin PyData chapter, provided an exceptional experience, fostering deeper connections within the Python community while showcasing advancements in AI and data science. Attendees enjoyed a diverse and engaging program, solidifying the event as a highlight for Python and AI enthusiasts nationwide.
+
+Follow us:
+   •  LinkedIn: https://www.linkedin.com/company/28908640/
+   •  X: https://www.x.com/pyconde
+   •  X: https://www.x.com/pydataberlin
+
+Links:
+   • Conference website: http://pycon.de
+   • Related sessions: http://2024.pycon.de/program/categories/pycon-security
+
+The conference is organized by
+   • Python Softwareverband e.V.: http://pysv.org
+   • NumFOCUS Inc.: http://numfocus.org
+   • Pioneers Hub gemeinnützige GmbH: http://pioneershub.org
+
+
+If you enjoyed this session, please like, comment, and subscribe to our channel for more insightful talks and discussions.
+Share this video with your network to spread the knowledge!
+
+Hashtags:
+#Python #PyConDE #PyData #OpenSource #AI #DataScience #MachineLearning #SoftwareDevelopment #LLMs #Community
+
+Acknowledgements:
+Special thanks to all the volunteers and sponsors who made this event possible.
+
+About:
+Python Softwareverband e.V.:
+PySV is a non-profit that promotes the use and development of Python in Germany through events, education, and advocacy, fostering an open Python community.
+
+NumFOCUS Inc.
+supports open-source scientific computing by providing financial and logistical support to key projects like NumPy and Jupyter, promoting sustainable development and collaboration.
+
+Pioneers Hub gemeinnützige GmbH:
+is a non-profit fostering innovation in AI and tech by connecting experts and promoting knowledge exchange through events and collaborative initiatives.",https://i.ytimg.com/vi/2DuJMUmEx-U/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=2DuJMUmEx-U,https://www.youtube.com/watch?v=2DuJMUmEx-U
+29,Python Monorepos: The Polylith Developer Experience [PyCon DE & PyData Berlin 2024],https://www.youtube.com/watch?v=wGWjt9GJLU4,wGWjt9GJLU4,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20240930,1783,545,,,,Science & Technology,"🔊 Recorded at PyCon DE & PyData Berlin 2024, 24.04.2024
+https://2024.pycon.de/program/VEACZM/
+
+🎓 Watch David Vujic share how Polylith revolutionizes the developer experience by turning software development into a playful LEGO-like creation process in Python monorepos.
+
+Speakers:
+David Vujic
+
+Description:
+David Vujic, a software developer passionate about agile ideas and test-driven development, presents a unique approach to software development in his talk ""Python Monorepos: The Polylith Developer Experience."" Drawing inspiration from LEGO bricks, he advocates for a more playful and productive developer experience, emphasizing the importance of code simplicity and design flexibility. David introduces Polylith, a Python-specific tool based on the Polylith Architecture originating from the Clojure community. Polylith promotes the use of small building blocks akin to LEGO bricks, facilitating code sharing and reuse within monorepos. By leveraging Polylith's developer-friendly tooling, developers can make design decisions seamlessly while building their projects. David's presentation offers insights into how Polylith can enhance the Python development process, making it more efficient and enjoyable.
+
+⭐️ About PyCon DE & PyData Berlin:
+The PyCon DE & PyData conference unite the Python, AI, and data science communities, offering a unique platform for collaboration and innovation. The PyCon DE & PyData Berlin 2024 conference, hosted in partnership with the local Berlin PyData chapter, provided an exceptional experience, fostering deeper connections within the Python community while showcasing advancements in AI and data science. Attendees enjoyed a diverse and engaging program, solidifying the event as a highlight for Python and AI enthusiasts nationwide.
+
+Follow us:
+   •  LinkedIn: https://www.linkedin.com/company/28908640/
+   •  X: https://www.x.com/pyconde
+   •  X: https://www.x.com/pydataberlin
+
+Links:
+   • Conference website: http://pycon.de
+   • Related sessions: http://2024.pycon.de/program/categories/pycon-programming-software-engineering
+
+The conference is organized by
+   • Python Softwareverband e.V.: http://pysv.org
+   • NumFOCUS Inc.: http://numfocus.org
+   • Pioneers Hub gemeinnützige GmbH: http://pioneershub.org
+
+
+If you enjoyed this session, please like, comment, and subscribe to our channel for more insightful talks and discussions.
+Share this video with your network to spread the knowledge!
+
+Hashtags:
+#Python #PyConDE #PyData #OpenSource #AI #DataScience #MachineLearning #SoftwareDevelopment #LLMs #Community
+
+Acknowledgements:
+Special thanks to all the volunteers and sponsors who made this event possible.
+
+About:
+Python Softwareverband e.V.:
+PySV is a non-profit that promotes the use and development of Python in Germany through events, education, and advocacy, fostering an open Python community.
+
+NumFOCUS Inc.
+supports open-source scientific computing by providing financial and logistical support to key projects like NumPy and Jupyter, promoting sustainable development and collaboration.
+
+Pioneers Hub gemeinnützige GmbH:
+is a non-profit fostering innovation in AI and tech by connecting experts and promoting knowledge exchange through events and collaborative initiatives.",https://i.ytimg.com/vi/wGWjt9GJLU4/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=wGWjt9GJLU4,https://www.youtube.com/watch?v=wGWjt9GJLU4
+30,"I achieved peak performance in python, here's how ... [PyCon DE & PyData Berlin 2024]",https://www.youtube.com/watch?v=wMnU_tR5-84,wMnU_tR5-84,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20240930,1501,380,,,,Science & Technology,"🔊 Recorded at PyCon DE & PyData Berlin 2024, 24.04.2024
+https://2024.pycon.de/program/RKDSK7/
+
+🎓 Watch Dishant Sethi as he reveals the secrets to achieving peak performance in Python and optimizing your code for speed and efficiency.
+
+Speakers:
+Dishant Sethi
+
+Description:
+Dishant Sethi, Founder at prodinit.com, a software consultancy, shared insights on optimizing Python code for peak performance. The talk focused on techniques to enhance speed and reduce resource consumption, emphasizing memory efficiency. Key points included optimizing functional execution, rigorous testing, and performance enhancement. Common bottlenecks like inefficient coding practices, memory leaks, and suboptimal algorithms were discussed. Strategies for profiling code and achieving peak performance in data-driven applications were also explored, such as efficient DataFrame storage and looping techniques. Attendees gained valuable insights regardless of their experience level, with practical takeaways to improve Python code efficiency. By understanding the principles behind efficient Python coding, developers can enhance their optimization skills.
+
+⭐️ About PyCon DE & PyData Berlin:
+The PyCon DE & PyData conference unite the Python, AI, and data science communities, offering a unique platform for collaboration and innovation. The PyCon DE & PyData Berlin 2024 conference, hosted in partnership with the local Berlin PyData chapter, provided an exceptional experience, fostering deeper connections within the Python community while showcasing advancements in AI and data science. Attendees enjoyed a diverse and engaging program, solidifying the event as a highlight for Python and AI enthusiasts nationwide.
+
+Follow us:
+   •  LinkedIn: https://www.linkedin.com/company/28908640/
+   •  X: https://www.x.com/pyconde
+   •  X: https://www.x.com/pydataberlin
+
+Links:
+   • Conference website: http://pycon.de
+   • Related sessions: http://2024.pycon.de/program/categories/pycon-programming-software-engineering
+
+The conference is organized by
+   • Python Softwareverband e.V.: http://pysv.org
+   • NumFOCUS Inc.: http://numfocus.org
+   • Pioneers Hub gemeinnützige GmbH: http://pioneershub.org
+
+
+If you enjoyed this session, please like, comment, and subscribe to our channel for more insightful talks and discussions.
+Share this video with your network to spread the knowledge!
+
+Hashtags:
+#Python #PyConDE #PyData #OpenSource #AI #DataScience #MachineLearning #SoftwareDevelopment #LLMs #Community
+
+Acknowledgements:
+Special thanks to all the volunteers and sponsors who made this event possible.
+
+About:
+Python Softwareverband e.V.:
+PySV is a non-profit that promotes the use and development of Python in Germany through events, education, and advocacy, fostering an open Python community.
+
+NumFOCUS Inc.
+supports open-source scientific computing by providing financial and logistical support to key projects like NumPy and Jupyter, promoting sustainable development and collaboration.
+
+Pioneers Hub gemeinnützige GmbH:
+is a non-profit fostering innovation in AI and tech by connecting experts and promoting knowledge exchange through events and collaborative initiatives.",https://i.ytimg.com/vi/wMnU_tR5-84/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=wMnU_tR5-84,https://www.youtube.com/watch?v=wMnU_tR5-84
+31,Analyzing COVID-19 Protest Movements: A Multidimensional Approach Using Geo-Social Media Data,https://www.youtube.com/watch?v=54OVK_ShXVY,54OVK_ShXVY,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20240929,1860,89,,,,Science & Technology,"🔊 Recorded at PyCon DE & PyData Berlin 2024, 23.04.2024
+https://2024.pycon.de/program/CY97LS/
+
+🎓 Watch a fascinating analysis on the Austrian COVID-19 protest movement using geo-social media data to unveil the network structure, spatial hotspots, and dominant content themes through multi-dimensional network analysis.
+
+Speakers:
+Nefta Kanilmaz
+
+Description:
+Nefta Kanilmaz, a researcher and PhD candidate at the University of Salzburg, discussed a multidimensional approach to analyzing COVID-19 protest movements using geo-social media data. The talk focused on the use of publicly available social media data to understand the geographical centers of activity, network structure, and key themes of conspiracy movements. Kanilmaz presented a multi-dimensional network analysis for the Austrian COVID-19 protest movement, utilizing Python libraries such as geopandas, networkx, and gensim. The analysis included identifying geo-spatial hot spots, densely connected clusters, and dominating content themes through spatial statistics, community detection techniques, and topic modeling approaches respectively. The presentation underscored the importance of data-driven analysis in understanding movements that may threaten democracy, emphasizing the significance of publicly available social media data in addressing societal challenges. Python libraries employed in the analysis included geopandas, networkx, berttopic, lda, and others.
+
+⭐️ About PyCon DE & PyData Berlin:
+The PyCon DE & PyData conference unite the Python, AI, and data science communities, offering a unique platform for collaboration and innovation. The PyCon DE & PyData Berlin 2024 conference, hosted in partnership with the local Berlin PyData chapter, provided an exceptional experience, fostering deeper connections within the Python community while showcasing advancements in AI and data science. Attendees enjoyed a diverse and engaging program, solidifying the event as a highlight for Python and AI enthusiasts nationwide.
+
+Follow us:
+   •  LinkedIn: https://www.linkedin.com/company/28908640/
+   •  X: https://www.x.com/pyconde
+   •  X: https://www.x.com/pydataberlin
+
+Links:
+   • Conference website: http://pycon.de
+   • Related sessions: http://2024.pycon.de/program/categories/general-ethics-privacy
+
+The conference is organized by
+   • Python Softwareverband e.V.: http://pysv.org
+   • NumFOCUS Inc.: http://numfocus.org
+   • Pioneers Hub gemeinnützige GmbH: http://pioneershub.org
+
+
+If you enjoyed this session, please like, comment, and subscribe to our channel for more insightful talks and discussions.
+Share this video with your network to spread the knowledge!
+
+Hashtags:
+#Python #PyConDE #PyData #OpenSource #AI #DataScience #MachineLearning #SoftwareDevelopment #LLMs #Community
+
+Acknowledgements:
+Special thanks to all the volunteers and sponsors who made this event possible.
+
+About:
+Python Softwareverband e.V.:
+PySV is a non-profit that promotes the use and development of Python in Germany through events, education, and advocacy, fostering an open Python community.
+
+NumFOCUS Inc.
+supports open-source scientific computing by providing financial and logistical support to key projects like NumPy and Jupyter, promoting sustainable development and collaboration.
+
+Pioneers Hub gemeinnützige GmbH:
+is a non-profit fostering innovation in AI and tech by connecting experts and promoting knowledge exchange through events and collaborative initiatives.",https://i.ytimg.com/vi/54OVK_ShXVY/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=54OVK_ShXVY,https://www.youtube.com/watch?v=54OVK_ShXVY
+32,PyO3 101 - Writing Python modules in Rust [PyCon DE & PyData Berlin 2024],https://www.youtube.com/watch?v=FWkCPYl_58M,FWkCPYl_58M,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20240929,4859,600,,,,Science & Technology,"🔊 Recorded at PyCon DE & PyData Berlin 2024, 23.04.2024
+https://2024.pycon.de/program/8C83EA/
+
+🎓 Watch as Cheuk Ting Ho introduces PyO3 and guides you through writing a Python library in Rust, exploring the power and safety of Rust for Python development.
+
+Speakers:
+Cheuk Ting Ho
+
+Description:
+Cheuk Ting Ho, a board member and community manager at OpenSSF, presented a workshop titled ""PyO3 101 - Writing Python modules in Rust."" The session focused on the basics of using PyO3, a toolset that provides Rust bindings for Python to create native Python extension modules. Attendees learned how to set up the project environment and write a Python library in Rust using PyO3. The workshop included hands-on exercises covering the API specifications for creating Python functions, modules, error handling, and type conversion. Rust's popularity in recent years has grown due to its robust compiler checks and memory safety features, making it an attractive choice for building Python libraries. The goal of the workshop was to introduce developers to PyO3 and explore leveraging Rust's memory safety and parallelism capabilities when developing Python libraries. The target audience included developers interested in using Rust to develop Python libraries, with attendees not required to have prior Rust knowledge. The workshop outline included an introduction to Rust and PyO3, setting up the environment, starting a new project, creating Python modules, and functions with hands-on exercises. Attendees were encouraged to have Python 3.8 or above installed and use a virtual environment for the workshop.
+
+⭐️ About PyCon DE & PyData Berlin:
+The PyCon DE & PyData conference unite the Python, AI, and data science communities, offering a unique platform for collaboration and innovation. The PyCon DE & PyData Berlin 2024 conference, hosted in partnership with the local Berlin PyData chapter, provided an exceptional experience, fostering deeper connections within the Python community while showcasing advancements in AI and data science. Attendees enjoyed a diverse and engaging program, solidifying the event as a highlight for Python and AI enthusiasts nationwide.
+
+Follow us:
+   •  LinkedIn: https://www.linkedin.com/company/28908640/
+   •  X: https://www.x.com/pyconde
+   •  X: https://www.x.com/pydataberlin
+
+Links:
+   • Conference website: http://pycon.de
+   • Related sessions: http://2024.pycon.de/program/categories/pycon-programming-software-engineering
+
+The conference is organized by
+   • Python Softwareverband e.V.: http://pysv.org
+   • NumFOCUS Inc.: http://numfocus.org
+   • Pioneers Hub gemeinnützige GmbH: http://pioneershub.org
+
+
+If you enjoyed this session, please like, comment, and subscribe to our channel for more insightful talks and discussions.
+Share this video with your network to spread the knowledge!
+
+Hashtags:
+#Python #PyConDE #PyData #OpenSource #AI #DataScience #MachineLearning #SoftwareDevelopment #LLMs #Community
+
+Acknowledgements:
+Special thanks to all the volunteers and sponsors who made this event possible.
+
+About:
+Python Softwareverband e.V.:
+PySV is a non-profit that promotes the use and development of Python in Germany through events, education, and advocacy, fostering an open Python community.
+
+NumFOCUS Inc.
+supports open-source scientific computing by providing financial and logistical support to key projects like NumPy and Jupyter, promoting sustainable development and collaboration.
+
+Pioneers Hub gemeinnützige GmbH:
+is a non-profit fostering innovation in AI and tech by connecting experts and promoting knowledge exchange through events and collaborative initiatives.",https://i.ytimg.com/vi/FWkCPYl_58M/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=FWkCPYl_58M,https://www.youtube.com/watch?v=FWkCPYl_58M
+33,Streamlining Python Development: A Practical Approach to CI/CD with GitHub Actions,https://www.youtube.com/watch?v=eNi8ALNKc54,eNi8ALNKc54,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20240928,1470,319,,,,Science & Technology,"🔊 Recorded at PyCon DE & PyData Berlin 2024, 23.04.2024
+https://2024.pycon.de/program/YHMUCL/
+
+🎓 Watch how to streamline your Python development with GitHub Actions, ensuring project resilience and enhancing collaboration through CI/CD automation!
+
+Speakers:
+Artem Kislovskiy
+
+Description:
+Artem Kislovskiy, a software engineer at the EuroPython Society, shared insights on streamlining Python development through CI/CD with GitHub Actions. Highlighting the importance of minimizing code dependencies for enhanced portability, Artem emphasized the significance of continuous integration and delivery in ensuring project resilience to Python updates and packaging ecosystem changes. By automating processes, developers can achieve peace of mind, improve code maintainability, and foster collaboration. Artem's talk introduced the concept of ""YAML programming"" to aid in constructing efficient CI/CD pipelines using GitHub Actions. Providing valuable tips and tools for writing and debugging YAML scripts, Artem aimed to simplify the automation process and maximize its benefits for Python projects.
+
+⭐️ About PyCon DE & PyData Berlin:
+The PyCon DE & PyData conference unite the Python, AI, and data science communities, offering a unique platform for collaboration and innovation. The PyCon DE & PyData Berlin 2024 conference, hosted in partnership with the local Berlin PyData chapter, provided an exceptional experience, fostering deeper connections within the Python community while showcasing advancements in AI and data science. Attendees enjoyed a diverse and engaging program, solidifying the event as a highlight for Python and AI enthusiasts nationwide.
+
+Follow us:
+   •  LinkedIn: https://www.linkedin.com/company/28908640/
+   •  X: https://www.x.com/pyconde
+   •  X: https://www.x.com/pydataberlin
+
+Links:
+   • Conference website: http://pycon.de
+   • Related sessions: http://2024.pycon.de/program/categories/pycon-mlops-devops
+
+The conference is organized by
+   • Python Softwareverband e.V.: http://pysv.org
+   • NumFOCUS Inc.: http://numfocus.org
+   • Pioneers Hub gemeinnützige GmbH: http://pioneershub.org
+
+
+If you enjoyed this session, please like, comment, and subscribe to our channel for more insightful talks and discussions.
+Share this video with your network to spread the knowledge!
+
+Hashtags:
+#Python #PyConDE #PyData #OpenSource #AI #DataScience #MachineLearning #SoftwareDevelopment #LLMs #Community
+
+Acknowledgements:
+Special thanks to all the volunteers and sponsors who made this event possible.
+
+About:
+Python Softwareverband e.V.:
+PySV is a non-profit that promotes the use and development of Python in Germany through events, education, and advocacy, fostering an open Python community.
+
+NumFOCUS Inc.
+supports open-source scientific computing by providing financial and logistical support to key projects like NumPy and Jupyter, promoting sustainable development and collaboration.
+
+Pioneers Hub gemeinnützige GmbH:
+is a non-profit fostering innovation in AI and tech by connecting experts and promoting knowledge exchange through events and collaborative initiatives.",https://i.ytimg.com/vi/eNi8ALNKc54/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=eNi8ALNKc54,https://www.youtube.com/watch?v=eNi8ALNKc54
+34,(PyLadies Panel) Reflecting Within: Challenging Narratives in Tech Feminism,https://www.youtube.com/watch?v=UrnHaUvUxwc,UrnHaUvUxwc,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20240927,3602,55,,,,Science & Technology,"🔊 Recorded at PyCon DE & PyData Berlin 2024, 24.04.2024
+https://2024.pycon.de/program/BFYUUJ/
+
+🎓 Watch the PyLadies Panel at PyCon PyData engage in a thought-provoking debate on challenging narratives in tech feminism, fostering open dialogue and community solidarity.
+
+Speakers:
+Cheuk Ting Ho, Katharine Jarmul, Paloma Oliveira, Naa Ashiorkor Nortey
+
+Description:
+At the PyLadies Panel at PyCon PyData, experts Cheuk Ting Ho, Katharine Jarmul, Paloma Oliveira, and Naa Ashiorkor Nortey engage in critical discussions on gender disparities and the importance of women-focused tech groups. This year, inspired by Lucy Delap’s “Feminisms: A Global History,” the panel delves into challenging narratives within the feminist movement, advocating for inclusivity and diversity. The structured debate format encourages deep reflection, aiming to dismantle binary thinking and uncover nuances in common discourse. By critiquing prevailing frameworks of feminism in tech, the panelists seek to pave the way for a more equitable future, promoting inclusivity and equity. Through candid discussions and idea exchanges, the panel provides a platform for marginalized voices, fostering understanding and progress in the tech industry. Join this debate to challenge the status quo, identify systemic flaws, and collectively shape the future of feminism in technology.
+
+⭐️ About PyCon DE & PyData Berlin:
+The PyCon DE & PyData conference unite the Python, AI, and data science communities, offering a unique platform for collaboration and innovation. The PyCon DE & PyData Berlin 2024 conference, hosted in partnership with the local Berlin PyData chapter, provided an exceptional experience, fostering deeper connections within the Python community while showcasing advancements in AI and data science. Attendees enjoyed a diverse and engaging program, solidifying the event as a highlight for Python and AI enthusiasts nationwide.
+
+Follow us:
+   •  LinkedIn: https://www.linkedin.com/company/28908640/
+   •  X: https://www.x.com/pyconde
+   •  X: https://www.x.com/pydataberlin
+
+Links:
+   • Conference website: http://pycon.de
+   • Related sessions: http://2024.pycon.de/program/categories/plenary
+
+The conference is organized by
+   • Python Softwareverband e.V.: http://pysv.org
+   • NumFOCUS Inc.: http://numfocus.org
+   • Pioneers Hub gemeinnützige GmbH: http://pioneershub.org
+
+
+If you enjoyed this session, please like, comment, and subscribe to our channel for more insightful talks and discussions.
+Share this video with your network to spread the knowledge!
+
+Hashtags:
+#Python #PyConDE #PyData #OpenSource #AI #DataScience #MachineLearning #SoftwareDevelopment #LLMs #Community
+
+Acknowledgements:
+Special thanks to all the volunteers and sponsors who made this event possible.
+
+About:
+Python Softwareverband e.V.:
+PySV is a non-profit that promotes the use and development of Python in Germany through events, education, and advocacy, fostering an open Python community.
+
+NumFOCUS Inc.
+supports open-source scientific computing by providing financial and logistical support to key projects like NumPy and Jupyter, promoting sustainable development and collaboration.
+
+Pioneers Hub gemeinnützige GmbH:
+is a non-profit fostering innovation in AI and tech by connecting experts and promoting knowledge exchange through events and collaborative initiatives.",https://i.ytimg.com/vi/UrnHaUvUxwc/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=UrnHaUvUxwc,https://www.youtube.com/watch?v=UrnHaUvUxwc
+35,DDataflow: An open-source end-to-end testing framework for ML pipelines,https://www.youtube.com/watch?v=F01NrNN3zv4,F01NrNN3zv4,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20240927,1857,88,,,,Science & Technology,"🔊 Recorded at PyCon DE & PyData Berlin 2024, 23.04.2024
+https://2024.pycon.de/program/8GQLLY/
+
+🎓 Watch as Theodore Meynard and Jean Machado introduce DDataflow, an open-source tool revolutionizing end-to-end testing in ML pipelines, offering insights into unit testing challenges, design philosophy, and practical strategies for enhancing efficiency and reliability.
+
+Speakers:
+Theodore Meynard, Jean Machado
+
+Description:
+Theodore Meynard and Jean Machado, both Data Science Managers at GetYourGuide, will present an innovative open-source tool called DDataflow. This tool aims to streamline end-to-end testing in machine learning pipelines using decentralized data sampling. The talk will highlight the challenges of unit testing in large-scale data pipelines and explain the principles behind DDataflow's design. Attendees will learn practical implementation strategies to improve the reliability and efficiency of their ML pipelines. DDataflow addresses the complexities of ML pipelines by enabling rapid experimentation and iteration, which are essential for success in this field. The tool employs decentralized data sampling to enhance testing processes, offering a more efficient alternative to traditional unit-testing approaches. This talk is a valuable resource for data scientists and developers looking to optimize their machine learning workflows with cutting-edge testing methodologies.
+
+⭐️ About PyCon DE & PyData Berlin:
+The PyCon DE & PyData conference unite the Python, AI, and data science communities, offering a unique platform for collaboration and innovation. The PyCon DE & PyData Berlin 2024 conference, hosted in partnership with the local Berlin PyData chapter, provided an exceptional experience, fostering deeper connections within the Python community while showcasing advancements in AI and data science. Attendees enjoyed a diverse and engaging program, solidifying the event as a highlight for Python and AI enthusiasts nationwide.
+
+Follow us:
+   •  LinkedIn: https://www.linkedin.com/company/28908640/
+   •  X: https://www.x.com/pyconde
+   •  X: https://www.x.com/pydataberlin
+
+Links:
+   • Conference website: http://pycon.de
+   • Related sessions: http://2024.pycon.de/program/categories/pycon-mlops-devops
+
+The conference is organized by
+   • Python Softwareverband e.V.: http://pysv.org
+   • NumFOCUS Inc.: http://numfocus.org
+   • Pioneers Hub gemeinnützige GmbH: http://pioneershub.org
+
+
+If you enjoyed this session, please like, comment, and subscribe to our channel for more insightful talks and discussions.
+Share this video with your network to spread the knowledge!
+
+Hashtags:
+#Python #PyConDE #PyData #OpenSource #AI #DataScience #MachineLearning #SoftwareDevelopment #LLMs #Community
+
+Acknowledgements:
+Special thanks to all the volunteers and sponsors who made this event possible.
+
+About:
+Python Softwareverband e.V.:
+PySV is a non-profit that promotes the use and development of Python in Germany through events, education, and advocacy, fostering an open Python community.
+
+NumFOCUS Inc.
+supports open-source scientific computing by providing financial and logistical support to key projects like NumPy and Jupyter, promoting sustainable development and collaboration.
+
+Pioneers Hub gemeinnützige GmbH:
+is a non-profit fostering innovation in AI and tech by connecting experts and promoting knowledge exchange through events and collaborative initiatives.",https://i.ytimg.com/vi/F01NrNN3zv4/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=F01NrNN3zv4,https://www.youtube.com/watch?v=F01NrNN3zv4
+36,AsyncApp. My contribution to hype Pythons asyncio a bit more [PyCon DE & PyData Berlin 2024],https://www.youtube.com/watch?v=ya-JXEuYi1g,ya-JXEuYi1g,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20240926,1811,133,,,,Science & Technology,"🔊 Recorded at PyCon DE & PyData Berlin 2024, 24.04.2024
+https://2024.pycon.de/program/BA7FZL/
+
+🎓 Watch Jens Nie as he simplifies building asyncio based applications with powerful yet easy-to-follow patterns, making asyncio a go-to solution for beginners and experts alike. #asyncio #raspberrypi
+
+Speakers:
+Jens Nie
+
+Description:
+Jens Nie, a physicist turned developer at Rosenxt, presented at AsyncApp. He discussed the increasing use of asyncio in Python but noted it's not the default choice for all projects, especially by beginners. Jens shared his journey creating simple yet powerful asyncio-based applications using lightweight and attractive patterns. 
+
+Asyncio addresses I/O performance problems by preventing code from blocking concurrent elements in an application. While traditional methods like threading and multiprocessing can be complex, asyncio offers a simpler abstraction layer. Jens emphasized that proper threading and multiprocessing require a deep understanding and are often topics for experts. 
+
+To showcase asyncio's efficiency, Jens demonstrated building blocks for creating a Raspberry Pi monitoring app. This app gathers sensor readings, logs them, stores data, and tracks CPU and memory usage. It can be configured through various methods and follows the UNIX philosophy of focusing on specific tasks. With asyncio, Jens highlighted the ease of developing effective applications without intricate knowledge of underlying processes.
+
+⭐️ About PyCon DE & PyData Berlin:
+The PyCon DE & PyData conference unite the Python, AI, and data science communities, offering a unique platform for collaboration and innovation. The PyCon DE & PyData Berlin 2024 conference, hosted in partnership with the local Berlin PyData chapter, provided an exceptional experience, fostering deeper connections within the Python community while showcasing advancements in AI and data science. Attendees enjoyed a diverse and engaging program, solidifying the event as a highlight for Python and AI enthusiasts nationwide.
+
+Follow us:
+   •  LinkedIn: https://www.linkedin.com/company/28908640/
+   •  X: https://www.x.com/pyconde
+   •  X: https://www.x.com/pydataberlin
+
+Links:
+   • Conference website: http://pycon.de
+   • Related sessions: http://2024.pycon.de/program/categories/pycon-programming-software-engineering
+
+The conference is organized by
+   • Python Softwareverband e.V.: http://pysv.org
+   • NumFOCUS Inc.: http://numfocus.org
+   • Pioneers Hub gemeinnützige GmbH: http://pioneershub.org
+
+
+If you enjoyed this session, please like, comment, and subscribe to our channel for more insightful talks and discussions.
+Share this video with your network to spread the knowledge!
+
+Hashtags:
+#Python #PyConDE #PyData #OpenSource #AI #DataScience #MachineLearning #SoftwareDevelopment #LLMs #Community
+
+Acknowledgements:
+Special thanks to all the volunteers and sponsors who made this event possible.
+
+About:
+Python Softwareverband e.V.:
+PySV is a non-profit that promotes the use and development of Python in Germany through events, education, and advocacy, fostering an open Python community.
+
+NumFOCUS Inc.
+supports open-source scientific computing by providing financial and logistical support to key projects like NumPy and Jupyter, promoting sustainable development and collaboration.
+
+Pioneers Hub gemeinnützige GmbH:
+is a non-profit fostering innovation in AI and tech by connecting experts and promoting knowledge exchange through events and collaborative initiatives.",https://i.ytimg.com/vi/ya-JXEuYi1g/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=ya-JXEuYi1g,https://www.youtube.com/watch?v=ya-JXEuYi1g
+37,Advanced Observability with OpenTelemetry and Python [PyCon DE & PyData Berlin 2024],https://www.youtube.com/watch?v=pAuxHdbWK3M,pAuxHdbWK3M,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20240926,1764,143,,,,Science & Technology,"🔊 Recorded at PyCon DE & PyData Berlin 2024, 23.04.2024
+https://2024.pycon.de/program/AQ8HUM/
+
+🎓 Watch as Anton Caceres introduces OpenTelemetry, the industry standard for enhancing Python code observability in distributed systems, showcasing its seamless integration with Python SDK through practical demonstrations.
+
+Speakers:
+Anton Caceres
+
+Description:
+Anton Caceres, CEO of a Python agency known for community engagement, presented on ""Advanced Observability with OpenTelemetry and Python."" The talk highlighted the challenges of observability in distributed microservice architectures and introduced OpenTelemetry as a solution. OpenTelemetry, an industry-standard framework, allows tracking of system performance beyond Python code to include databases and message queues. The session included a practical demonstration of implementing OpenTelemetry's Python SDK in a Flask microservice, showcasing automatic and manual instrumentation. The presentation emphasized leveraging telemetry data for enhanced system monitoring as Python's usage expands into serverless and cloud environments.
+
+⭐️ About PyCon DE & PyData Berlin:
+The PyCon DE & PyData conference unite the Python, AI, and data science communities, offering a unique platform for collaboration and innovation. The PyCon DE & PyData Berlin 2024 conference, hosted in partnership with the local Berlin PyData chapter, provided an exceptional experience, fostering deeper connections within the Python community while showcasing advancements in AI and data science. Attendees enjoyed a diverse and engaging program, solidifying the event as a highlight for Python and AI enthusiasts nationwide.
+
+Follow us:
+   •  LinkedIn: https://www.linkedin.com/company/28908640/
+   •  X: https://www.x.com/pyconde
+   •  X: https://www.x.com/pydataberlin
+
+Links:
+   • Conference website: http://pycon.de
+   • Related sessions: http://2024.pycon.de/program/categories/pycon-programming-software-engineering
+
+The conference is organized by
+   • Python Softwareverband e.V.: http://pysv.org
+   • NumFOCUS Inc.: http://numfocus.org
+   • Pioneers Hub gemeinnützige GmbH: http://pioneershub.org
+
+
+If you enjoyed this session, please like, comment, and subscribe to our channel for more insightful talks and discussions.
+Share this video with your network to spread the knowledge!
+
+Hashtags:
+#Python #PyConDE #PyData #OpenSource #AI #DataScience #MachineLearning #SoftwareDevelopment #LLMs #Community
+
+Acknowledgements:
+Special thanks to all the volunteers and sponsors who made this event possible.
+
+About:
+Python Softwareverband e.V.:
+PySV is a non-profit that promotes the use and development of Python in Germany through events, education, and advocacy, fostering an open Python community.
+
+NumFOCUS Inc.
+supports open-source scientific computing by providing financial and logistical support to key projects like NumPy and Jupyter, promoting sustainable development and collaboration.
+
+Pioneers Hub gemeinnützige GmbH:
+is a non-profit fostering innovation in AI and tech by connecting experts and promoting knowledge exchange through events and collaborative initiatives.",https://i.ytimg.com/vi/pAuxHdbWK3M/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=pAuxHdbWK3M,https://www.youtube.com/watch?v=pAuxHdbWK3M
+38,Connecting batteries with Python: Towards EV Charging with #zero emissions at #zero costs,https://www.youtube.com/watch?v=81jNDVGtzvU,81jNDVGtzvU,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20240926,1773,100,,,,Science & Technology,"🔊 Recorded at PyCon DE & PyData Berlin 2024, 24.04.2024
+https://2024.pycon.de/program/K8AL9P/
+
+🎓 Watch how Python is revolutionizing the integration of EV batteries into the power grid and paving the way for a zero-emission future in the automotive and energy industries.
+
+Speakers:
+Christopher Bock
+
+Description:
+Christopher Bock, a team lead at The Mobility House, shared insights on using Python to connect batteries, contributing to a zero-emission, affordable future. The talk delved into integrating EV batteries into the power grid, facilitating renewable energy growth and grid stability. Python plays a vital role in various aspects at The Mobility House, aiding in rapid development, data comprehension, and bridging the gap between data scientists and coders. Bock highlighted the company's goal of merging automotive and energy sectors to enhance electric mobility accessibility and promote renewable energies. The presentation aimed to showcase Python's significance at The Mobility House, emphasizing its role in revolutionizing energy and mobility industries.
+
+⭐️ About PyCon DE & PyData Berlin:
+The PyCon DE & PyData conference unite the Python, AI, and data science communities, offering a unique platform for collaboration and innovation. The PyCon DE & PyData Berlin 2024 conference, hosted in partnership with the local Berlin PyData chapter, provided an exceptional experience, fostering deeper connections within the Python community while showcasing advancements in AI and data science. Attendees enjoyed a diverse and engaging program, solidifying the event as a highlight for Python and AI enthusiasts nationwide.
+
+Follow us:
+   •  LinkedIn: https://www.linkedin.com/company/28908640/
+   •  X: https://www.x.com/pyconde
+   •  X: https://www.x.com/pydataberlin
+
+Links:
+   • Conference website: http://pycon.de
+   • Related sessions: http://2024.pycon.de/program/categories/sponsor
+
+The conference is organized by
+   • Python Softwareverband e.V.: http://pysv.org
+   • NumFOCUS Inc.: http://numfocus.org
+   • Pioneers Hub gemeinnützige GmbH: http://pioneershub.org
+
+
+If you enjoyed this session, please like, comment, and subscribe to our channel for more insightful talks and discussions.
+Share this video with your network to spread the knowledge!
+
+Hashtags:
+#Python #PyConDE #PyData #OpenSource #AI #DataScience #MachineLearning #SoftwareDevelopment #LLMs #Community
+
+Acknowledgements:
+Special thanks to all the volunteers and sponsors who made this event possible.
+
+About:
+Python Softwareverband e.V.:
+PySV is a non-profit that promotes the use and development of Python in Germany through events, education, and advocacy, fostering an open Python community.
+
+NumFOCUS Inc.
+supports open-source scientific computing by providing financial and logistical support to key projects like NumPy and Jupyter, promoting sustainable development and collaboration.
+
+Pioneers Hub gemeinnützige GmbH:
+is a non-profit fostering innovation in AI and tech by connecting experts and promoting knowledge exchange through events and collaborative initiatives.",https://i.ytimg.com/vi/81jNDVGtzvU/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=81jNDVGtzvU,https://www.youtube.com/watch?v=81jNDVGtzvU
+39,Unleashing Confidence in SQL Development through Unit Testing [PyCon DE & PyData Berlin 2024],https://www.youtube.com/watch?v=ykNv7FP1494,ykNv7FP1494,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20240925,1833,122,,,,Science & Technology,"🔊 Recorded at PyCon DE & PyData Berlin 2024, 23.04.2024
+https://2024.pycon.de/program/EMZ7L7/
+
+🎓 Watch how Tobias Lampert explores the power of SQL unit testing in ensuring data quality and boosting confidence in SQL development, offering insights into a robust framework tailored for BigQuery.
+
+Speakers:
+Tobias Lampert
+
+Description:
+Tobias Lampert, an Analytics Engineer with vast experience in Data Science and Data Engineering, delivers a compelling talk on ""Unleashing Confidence in SQL Development through Unit Testing."" In this enlightening session, he sheds light on the significance of SQL unit testing in ensuring data quality within Data Warehouses. By showcasing the challenges faced by data teams in maintaining complex SQL models, Tobias demonstrates how unit testing can validate modeling logic swiftly, preventing modifications from disrupting existing behavior.
+
+The talk emphasizes the importance of Lotum's SQL unit testing framework, meticulously designed in Python using pytest and tailored for BigQuery. By processing millions of events from mobile games daily, this robust framework facilitates efficient testing, guaranteeing the accuracy of SQL logic. Attendees gain valuable insights into defining test cases with small sets of mock data, enabling the identification of potential code errors with ease.
+
+Tobias underlines the necessity of a well-designed unit testing framework in collaborative data model development, highlighting its role in early error detection and maintaining data quality. He explains how SQL unit testing is particularly valuable during the refactoring of existing data models and integration of new data sources, ensuring the preservation of logic, even in edge cases.
+
+The practical implementation of a SQL unit testing framework is elucidated, focusing on Lotum's pytest-based framework. By delving into the internal workings of the framework, Tobias illustrates how mock data is injected into SQL statements for testing, allowing for case-by-case verification without manual query code modifications.
+
+Attendees are equipped with
+
+⭐️ About PyCon DE & PyData Berlin:
+The PyCon DE & PyData conference unite the Python, AI, and data science communities, offering a unique platform for collaboration and innovation. The PyCon DE & PyData Berlin 2024 conference, hosted in partnership with the local Berlin PyData chapter, provided an exceptional experience, fostering deeper connections within the Python community while showcasing advancements in AI and data science. Attendees enjoyed a diverse and engaging program, solidifying the event as a highlight for Python and AI enthusiasts nationwide.
+
+Follow us:
+   •  LinkedIn: https://www.linkedin.com/company/28908640/
+   •  X: https://www.x.com/pyconde
+   •  X: https://www.x.com/pydataberlin
+
+Links:
+   • Conference website: http://pycon.de
+   • Related sessions: http://2024.pycon.de/program/categories/pycon-programming-software-engineering
+
+The conference is organized by
+   • Python Softwareverband e.V.: http://pysv.org
+   • NumFOCUS Inc.: http://numfocus.org
+   • Pioneers Hub gemeinnützige GmbH: http://pioneershub.org
+
+
+If you enjoyed this session, please like, comment, and subscribe to our channel for more insightful talks and discussions.
+Share this video with your network to spread the knowledge!
+
+Hashtags:
+#Python #PyConDE #PyData #OpenSource #AI #DataScience #MachineLearning #SoftwareDevelopment #LLMs #Community
+
+Acknowledgements:
+Special thanks to all the volunteers and sponsors who made this event possible.
+
+About:
+Python Softwareverband e.V.:
+PySV is a non-profit that promotes the use and development of Python in Germany through events, education, and advocacy, fostering an open Python community.
+
+NumFOCUS Inc.
+supports open-source scientific computing by providing financial and logistical support to key projects like NumPy and Jupyter, promoting sustainable development and collaboration.
+
+Pioneers Hub gemeinnützige GmbH:
+is a non-profit fostering innovation in AI and tech by connecting experts and promoting knowledge exchange through events and collaborative initiatives.",https://i.ytimg.com/vi/ykNv7FP1494/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=ykNv7FP1494,https://www.youtube.com/watch?v=ykNv7FP1494
+40,Power structures. The fair advantage [PyCon DE & PyData Berlin 2024],https://www.youtube.com/watch?v=Eyr-QV9e3Ns,Eyr-QV9e3Ns,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20240925,1727,82,,,,Science & Technology,"🔊 Recorded at PyCon DE & PyData Berlin 2024, 22.04.2024
+https://2024.pycon.de/program/8LNYPD/
+
+🎓 Watch Anja Kunkel explore the intricate dynamics of power structures within companies and how understanding human interactions can give you a fair advantage in your career as a developer.
+
+Speakers:
+Anja Kunkel
+
+Description:
+Anja Kunkel, Principal Fullstack Engineer at Mister Spex in Berlin, Germany, presented a compelling talk on power structures in companies. She emphasized the importance of understanding human complexities, motivations, and informal networks in the workplace. Anja discussed how as developers, it's crucial to navigate through power dynamics, politics, and socio-technical aspects to effectively influence decision-making processes. She highlighted the significance of identifying key stakeholders and building trust within informal networks to drive projects forward. Anja stressed that while developers excel in formalizing solutions through code, understanding human behavior is equally essential for success in organizations. She debunked the myth that formal organizational charts depict the real power dynamics, asserting that influence is multifaceted and extends beyond formal hierarchies. Through her talk, Anja aimed to equip her audience with insights on how to ethically navigate the intricate web of power and relationships within companies to achieve positive outcomes.
+
+⭐️ About PyCon DE & PyData Berlin:
+The PyCon DE & PyData conference unite the Python, AI, and data science communities, offering a unique platform for collaboration and innovation. The PyCon DE & PyData Berlin 2024 conference, hosted in partnership with the local Berlin PyData chapter, provided an exceptional experience, fostering deeper connections within the Python community while showcasing advancements in AI and data science. Attendees enjoyed a diverse and engaging program, solidifying the event as a highlight for Python and AI enthusiasts nationwide.
+
+Follow us:
+   •  LinkedIn: https://www.linkedin.com/company/28908640/
+   •  X: https://www.x.com/pyconde
+   •  X: https://www.x.com/pydataberlin
+
+Links:
+   • Conference website: http://pycon.de
+   • Related sessions: http://2024.pycon.de/program/categories/general-ethics-privacy
+
+The conference is organized by
+   • Python Softwareverband e.V.: http://pysv.org
+   • NumFOCUS Inc.: http://numfocus.org
+   • Pioneers Hub gemeinnützige GmbH: http://pioneershub.org
+
+
+If you enjoyed this session, please like, comment, and subscribe to our channel for more insightful talks and discussions.
+Share this video with your network to spread the knowledge!
+
+Hashtags:
+#Python #PyConDE #PyData #OpenSource #AI #DataScience #MachineLearning #SoftwareDevelopment #LLMs #Community
+
+Acknowledgements:
+Special thanks to all the volunteers and sponsors who made this event possible.
+
+About:
+Python Softwareverband e.V.:
+PySV is a non-profit that promotes the use and development of Python in Germany through events, education, and advocacy, fostering an open Python community.
+
+NumFOCUS Inc.
+supports open-source scientific computing by providing financial and logistical support to key projects like NumPy and Jupyter, promoting sustainable development and collaboration.
+
+Pioneers Hub gemeinnützige GmbH:
+is a non-profit fostering innovation in AI and tech by connecting experts and promoting knowledge exchange through events and collaborative initiatives.",https://i.ytimg.com/vi/Eyr-QV9e3Ns/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=Eyr-QV9e3Ns,https://www.youtube.com/watch?v=Eyr-QV9e3Ns
+41,Async Awaits: Mastering Asynchronous Python in FastAPI [PyCon DE & PyData Berlin 2024],https://www.youtube.com/watch?v=1z8LLSZSWHM,1z8LLSZSWHM,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20240925,1823,610,,,,Science & Technology,"🔊 Recorded at PyCon DE & PyData Berlin 2024, 24.04.2024
+https://2024.pycon.de/program/DPVJ7K/
+
+🎓 Watch Async Awaits: Mastering Asynchronous Python in FastAPI to unlock the power of async/await syntax and optimize the performance of your web applications with practical insights and step-by-step guides.
+
+Speakers:
+Bojan Miletic
+
+Description:
+Bojan Miletic, CEO of an AI/ML consultancy, will present ""Async Awaits: Mastering Asynchronous Python in FastAPI."" The session is tailored for Python developers looking to optimize web app performance. The talk will cover async/await syntax, its benefits in FastAPI, and practical guidance for real-time data processing. The 30-minute session includes topics like async programming basics, Python async/await specifics, FastAPI's async features, and building async web apps. Attendees will leave equipped to leverage Python's async capabilities effectively within the FastAPI framework.
+
+⭐️ About PyCon DE & PyData Berlin:
+The PyCon DE & PyData conference unite the Python, AI, and data science communities, offering a unique platform for collaboration and innovation. The PyCon DE & PyData Berlin 2024 conference, hosted in partnership with the local Berlin PyData chapter, provided an exceptional experience, fostering deeper connections within the Python community while showcasing advancements in AI and data science. Attendees enjoyed a diverse and engaging program, solidifying the event as a highlight for Python and AI enthusiasts nationwide.
+
+Follow us:
+   •  LinkedIn: https://www.linkedin.com/company/28908640/
+   •  X: https://www.x.com/pyconde
+   •  X: https://www.x.com/pydataberlin
+
+Links:
+   • Conference website: http://pycon.de
+   • Related sessions: http://2024.pycon.de/program/categories/pycon-programming-software-engineering
+
+The conference is organized by
+   • Python Softwareverband e.V.: http://pysv.org
+   • NumFOCUS Inc.: http://numfocus.org
+   • Pioneers Hub gemeinnützige GmbH: http://pioneershub.org
+
+
+If you enjoyed this session, please like, comment, and subscribe to our channel for more insightful talks and discussions.
+Share this video with your network to spread the knowledge!
+
+Hashtags:
+#Python #PyConDE #PyData #OpenSource #AI #DataScience #MachineLearning #SoftwareDevelopment #LLMs #Community
+
+Acknowledgements:
+Special thanks to all the volunteers and sponsors who made this event possible.
+
+About:
+Python Softwareverband e.V.:
+PySV is a non-profit that promotes the use and development of Python in Germany through events, education, and advocacy, fostering an open Python community.
+
+NumFOCUS Inc.
+supports open-source scientific computing by providing financial and logistical support to key projects like NumPy and Jupyter, promoting sustainable development and collaboration.
+
+Pioneers Hub gemeinnützige GmbH:
+is a non-profit fostering innovation in AI and tech by connecting experts and promoting knowledge exchange through events and collaborative initiatives.",https://i.ytimg.com/vi/1z8LLSZSWHM/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=1z8LLSZSWHM,https://www.youtube.com/watch?v=1z8LLSZSWHM
+42,Securing Python: Race Condition Vulnerabilities [PyCon DE & PyData Berlin 2024],https://www.youtube.com/watch?v=wzpFKWTa0kM,wzpFKWTa0kM,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20240925,4795,227,,,,Science & Technology,"🔊 Recorded at PyCon DE & PyData Berlin 2024, 24.04.2024
+https://2024.pycon.de/program/A8HJHV/
+
+🎓 Watch as Shahriyar Rzayev delves into the world of race condition vulnerabilities in Python, equipping viewers with practical skills to enhance code security and robustness.
+
+Speakers:
+Shahriyar Rzayev
+
+Description:
+Shahriyar Rzayev, a Senior Software Engineer at NordVPN under Nord Security, is set to lead an insightful workshop on race condition vulnerabilities in Python. The session will delve into the security risks associated with race conditions, often overlooked in Python development. Attendees will engage with practical exercises, analyzing vulnerable Python applications to pinpoint critical sections prone to race conditions. The workshop progresses to simulate attacks exploiting these weaknesses, showcasing the ease with which malicious entities can capitalize on such vulnerabilities. Participants will also explore effective mitigation strategies, focusing on thread synchronization and safe programming practices to bolster code security. By the end of the workshop, attendees will possess a comprehensive understanding of race conditions in Python and practical skills to fortify the security of their projects, reflecting contemporary best practices in Python development.
+
+⭐️ About PyCon DE & PyData Berlin:
+The PyCon DE & PyData conference unite the Python, AI, and data science communities, offering a unique platform for collaboration and innovation. The PyCon DE & PyData Berlin 2024 conference, hosted in partnership with the local Berlin PyData chapter, provided an exceptional experience, fostering deeper connections within the Python community while showcasing advancements in AI and data science. Attendees enjoyed a diverse and engaging program, solidifying the event as a highlight for Python and AI enthusiasts nationwide.
+
+Follow us:
+   •  LinkedIn: https://www.linkedin.com/company/28908640/
+   •  X: https://www.x.com/pyconde
+   •  X: https://www.x.com/pydataberlin
+
+Links:
+   • Conference website: http://pycon.de
+   • Related sessions: http://2024.pycon.de/program/categories/pycon-security
+
+The conference is organized by
+   • Python Softwareverband e.V.: http://pysv.org
+   • NumFOCUS Inc.: http://numfocus.org
+   • Pioneers Hub gemeinnützige GmbH: http://pioneershub.org
+
+
+If you enjoyed this session, please like, comment, and subscribe to our channel for more insightful talks and discussions.
+Share this video with your network to spread the knowledge!
+
+Hashtags:
+#Python #PyConDE #PyData #OpenSource #AI #DataScience #MachineLearning #SoftwareDevelopment #LLMs #Community
+
+Acknowledgements:
+Special thanks to all the volunteers and sponsors who made this event possible.
+
+About:
+Python Softwareverband e.V.:
+PySV is a non-profit that promotes the use and development of Python in Germany through events, education, and advocacy, fostering an open Python community.
+
+NumFOCUS Inc.
+supports open-source scientific computing by providing financial and logistical support to key projects like NumPy and Jupyter, promoting sustainable development and collaboration.
+
+Pioneers Hub gemeinnützige GmbH:
+is a non-profit fostering innovation in AI and tech by connecting experts and promoting knowledge exchange through events and collaborative initiatives.",https://i.ytimg.com/vi/wzpFKWTa0kM/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=wzpFKWTa0kM,https://www.youtube.com/watch?v=wzpFKWTa0kM
+43,Boost your app to Flash speed by mastering performance tricks [PyCon DE & PyData Berlin 2024],https://www.youtube.com/watch?v=q4WICGF7pL0,q4WICGF7pL0,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20240924,1731,216,,,,Science & Technology,"🔊 Recorded at PyCon DE & PyData Berlin 2024, 23.04.2024
+https://2024.pycon.de/program/C9F9CC/
+
+🎓 Watch as Laysa Uchoa and Yuliia Barabash delve into the secrets of Python performance optimization and reveal how mastering bytecode instructions can elevate your app's speed to new heights!
+
+Speakers:
+Laysa Uchoa, Yuliia Barabash
+
+Description:
+At the tech conference, Cloud Developer Laysa Uchoa and Cloud Engineer Yuliia Barabash will delve into the intricacies of enhancing app performance in Python. The session will cover computational operations, memory utilization, and the Python interpreter. Attendees will gain insights into bytecode instructions and how they can optimize code for better performance. The speakers will highlight the importance of understanding Python's inner workings for accelerating app speed. By showcasing performance metrics and comparing bytecode instructions, participants will learn practical strategies to boost their applications to Flash speed. This informative talk is tailored for those eager to deepen their understanding of Python and leverage its capabilities for efficient app development. Whether you're a seasoned developer or looking to enhance your Python skills, this session promises valuable insights into maximizing app performance.
+
+⭐️ About PyCon DE & PyData Berlin:
+The PyCon DE & PyData conference unite the Python, AI, and data science communities, offering a unique platform for collaboration and innovation. The PyCon DE & PyData Berlin 2024 conference, hosted in partnership with the local Berlin PyData chapter, provided an exceptional experience, fostering deeper connections within the Python community while showcasing advancements in AI and data science. Attendees enjoyed a diverse and engaging program, solidifying the event as a highlight for Python and AI enthusiasts nationwide.
+
+Follow us:
+   •  LinkedIn: https://www.linkedin.com/company/28908640/
+   •  X: https://www.x.com/pyconde
+   •  X: https://www.x.com/pydataberlin
+
+Links:
+   • Conference website: http://pycon.de
+   • Related sessions: http://2024.pycon.de/program/categories/pycon-python-language-ecosystem
+
+The conference is organized by
+   • Python Softwareverband e.V.: http://pysv.org
+   • NumFOCUS Inc.: http://numfocus.org
+   • Pioneers Hub gemeinnützige GmbH: http://pioneershub.org
+
+
+If you enjoyed this session, please like, comment, and subscribe to our channel for more insightful talks and discussions.
+Share this video with your network to spread the knowledge!
+
+Hashtags:
+#Python #PyConDE #PyData #OpenSource #AI #DataScience #MachineLearning #SoftwareDevelopment #LLMs #Community
+
+Acknowledgements:
+Special thanks to all the volunteers and sponsors who made this event possible.
+
+About:
+Python Softwareverband e.V.:
+PySV is a non-profit that promotes the use and development of Python in Germany through events, education, and advocacy, fostering an open Python community.
+
+NumFOCUS Inc.
+supports open-source scientific computing by providing financial and logistical support to key projects like NumPy and Jupyter, promoting sustainable development and collaboration.
+
+Pioneers Hub gemeinnützige GmbH:
+is a non-profit fostering innovation in AI and tech by connecting experts and promoting knowledge exchange through events and collaborative initiatives.",https://i.ytimg.com/vi/q4WICGF7pL0/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=q4WICGF7pL0,https://www.youtube.com/watch?v=q4WICGF7pL0
+44,Robust Configuration Management with Pydantic's Data Validation [PyCon DE & PyData Berlin 2024],https://www.youtube.com/watch?v=ZvcZDxS_mYE,ZvcZDxS_mYE,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20240924,1755,521,,,,Science & Technology,"🔊 Recorded at PyCon DE & PyData Berlin 2024, 23.04.2024
+https://2024.pycon.de/program/RGWDCN/
+
+🎓 Watch how Pydantic's Data Validation can revolutionize your configuration management system, catch misconfigurations early, and streamline your application's development process.
+
+Speakers:
+Philipp Stephan
+
+Description:
+Philipp Stephan discusses the challenges of managing configuration in growing applications and introduces `Pydantic`'s data validation capabilities. By transitioning their system from unstructured YAML to a formalized, typed system, they reduced runtime errors and improved consistency across parsers. `Pydantic` integrates well with Python's type annotations, allowing for early misconfiguration detection. The speaker highlights the benefits of a strict specification, such as static validation, automatic documentation generation, and centralized defaults. They explain the decision to use `Pydantic` over other systems, given its popularity in the Python community, especially in `FastAPI`. Stephan shares tips for setting up configuration files and internal tools for validation and documentation. The talk emphasizes the incremental transition to a class-based, type-strict system empowered by `Pydantic`.
+
+⭐️ About PyCon DE & PyData Berlin:
+The PyCon DE & PyData conference unite the Python, AI, and data science communities, offering a unique platform for collaboration and innovation. The PyCon DE & PyData Berlin 2024 conference, hosted in partnership with the local Berlin PyData chapter, provided an exceptional experience, fostering deeper connections within the Python community while showcasing advancements in AI and data science. Attendees enjoyed a diverse and engaging program, solidifying the event as a highlight for Python and AI enthusiasts nationwide.
+
+Follow us:
+   •  LinkedIn: https://www.linkedin.com/company/28908640/
+   •  X: https://www.x.com/pyconde
+   •  X: https://www.x.com/pydataberlin
+
+Links:
+   • Conference website: http://pycon.de
+   • Related sessions: http://2024.pycon.de/program/categories/pycon-programming-software-engineering
+
+The conference is organized by
+   • Python Softwareverband e.V.: http://pysv.org
+   • NumFOCUS Inc.: http://numfocus.org
+   • Pioneers Hub gemeinnützige GmbH: http://pioneershub.org
+
+
+If you enjoyed this session, please like, comment, and subscribe to our channel for more insightful talks and discussions.
+Share this video with your network to spread the knowledge!
+
+Hashtags:
+#Python #PyConDE #PyData #OpenSource #AI #DataScience #MachineLearning #SoftwareDevelopment #LLMs #Community
+
+Acknowledgements:
+Special thanks to all the volunteers and sponsors who made this event possible.
+
+About:
+Python Softwareverband e.V.:
+PySV is a non-profit that promotes the use and development of Python in Germany through events, education, and advocacy, fostering an open Python community.
+
+NumFOCUS Inc.
+supports open-source scientific computing by providing financial and logistical support to key projects like NumPy and Jupyter, promoting sustainable development and collaboration.
+
+Pioneers Hub gemeinnützige GmbH:
+is a non-profit fostering innovation in AI and tech by connecting experts and promoting knowledge exchange through events and collaborative initiatives.",https://i.ytimg.com/vi/ZvcZDxS_mYE/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=ZvcZDxS_mYE,https://www.youtube.com/watch?v=ZvcZDxS_mYE
+45,"Public Money, Public Experiment - open source processes in the public administration",https://www.youtube.com/watch?v=aHrmI3Iz1cA,aHrmI3Iz1cA,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20240924,1859,96,,,,Science & Technology,"🔊 Recorded at PyCon DE & PyData Berlin 2024, 24.04.2024
+https://2024.pycon.de/program/DEKGYM/
+
+🎓 Watch as Lisa Reiber delves into the unique experiment of sharing code in public administration and explores the alignment of open source with administrative principles at PyCon DE & PyData Berlin 2024.
+
+Speakers:
+Lisa Reiber
+
+Description:
+Lisa Reiber, a Data Engineer at the German Federal Ministry for Family Affairs, Senior Citizens, Women and Youth, presents ""Public Money, Public Experiment - open source processes in the public administration."" In this intriguing talk, Lisa explores the journey of a data lab within a federal ministry aiming to publish python applications, shedding light on the unique considerations faced by public institutions. The audience is invited to ponder the timeline for code publication, contrasting it with the practices of private individuals and companies.
+
+By sharing the insights of their publishing process, including the challenges, surprises, and regulatory aspects encountered, Lisa's talk provides a glimpse into the alignment of open source with administrative principles. The focus is on the real-world experiment undertaken by their data lab - a tangible demonstration of the benefits of code sharing within the public sector.
+
+As the presentation unfolds, key questions are addressed, such as the process of code publication in public administration, the intersection of open source with administrative principles, and the legal, political, and security requirements shaping the endeavor. Attendees are encouraged to discover OpenCoDE and follow the progress of the data lab leading up to PyCon DE & PyData Berlin 2024.
+
+This talk not only shares a specific journey but also aims to contribute to the wider discussion at the confluence of public administration and open source initiatives. It showcases how collaboration and code sharing between public units can accelerate problem-solving and reduce costs, offering a valuable perspective on the evolving landscape of code publication in the public sector.
+
+⭐️ About PyCon DE & PyData Berlin:
+The PyCon DE & PyData conference unite the Python, AI, and data science communities, offering a unique platform for collaboration and innovation. The PyCon DE & PyData Berlin 2024 conference, hosted in partnership with the local Berlin PyData chapter, provided an exceptional experience, fostering deeper connections within the Python community while showcasing advancements in AI and data science. Attendees enjoyed a diverse and engaging program, solidifying the event as a highlight for Python and AI enthusiasts nationwide.
+
+Follow us:
+   •  LinkedIn: https://www.linkedin.com/company/28908640/
+   •  X: https://www.x.com/pyconde
+   •  X: https://www.x.com/pydataberlin
+
+Links:
+   • Conference website: http://pycon.de
+   • Related sessions: http://2024.pycon.de/program/categories/general-others
+
+The conference is organized by
+   • Python Softwareverband e.V.: http://pysv.org
+   • NumFOCUS Inc.: http://numfocus.org
+   • Pioneers Hub gemeinnützige GmbH: http://pioneershub.org
+
+
+If you enjoyed this session, please like, comment, and subscribe to our channel for more insightful talks and discussions.
+Share this video with your network to spread the knowledge!
+
+Hashtags:
+#Python #PyConDE #PyData #OpenSource #AI #DataScience #MachineLearning #SoftwareDevelopment #LLMs #Community
+
+Acknowledgements:
+Special thanks to all the volunteers and sponsors who made this event possible.
+
+About:
+Python Softwareverband e.V.:
+PySV is a non-profit that promotes the use and development of Python in Germany through events, education, and advocacy, fostering an open Python community.
+
+NumFOCUS Inc.
+supports open-source scientific computing by providing financial and logistical support to key projects like NumPy and Jupyter, promoting sustainable development and collaboration.
+
+Pioneers Hub gemeinnützige GmbH:
+is a non-profit fostering innovation in AI and tech by connecting experts and promoting knowledge exchange through events and collaborative initiatives.",https://i.ytimg.com/vi/aHrmI3Iz1cA/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=aHrmI3Iz1cA,https://www.youtube.com/watch?v=aHrmI3Iz1cA
+46,The Secret Life of Metaclasses [PyCon DE & PyData Berlin 2024],https://www.youtube.com/watch?v=Wdzo8Xyml6M,Wdzo8Xyml6M,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20240923,5263,501,,,,Science & Technology,"🔊 Recorded at PyCon DE & PyData Berlin 2024, 22.04.2024
+https://2024.pycon.de/program/BKBNRF/
+
+🎓 Watch as Luciano Ramalho and Leonardo Rochael Almeida dive deep into the intriguing world of metaclasses, unveiling the secrets behind Python class creation and metaprogramming magic.
+
+Speakers:
+Luciano Ramalho, Leonardo Rochael Almeida
+
+Description:
+Luciano Ramalho, Resident Hacker, and Leonardo Rochael Almeida, Staff Engineer, presented a captivating session on ""The Secret Life of Metaclasses."" This hands-on coding talk unraveled the mysteries surrounding metaclasses, classes, and decorators in Python programming. Participants learned about the inner workings of Python class creation, attribute lookup, and the impact of decorators and meta-classes on this process. The speakers dived into topics such as normal and special methods, descriptors, method resolution order, and the relationship between instances, classes, and metaclasses. They explained the role of metaclasses in giving classes special methods, intercepting class creation, preparing the class namespace, and detailed the methods `__call__`, `__new__`, and `__init__`. While emphasizing that creating a metaclass is rarely necessary, the speakers provided insights into `__init_subclass__`, class decorators, and capturing descriptor names and ordering. The session concluded with examples and a Q&A session, leaving attendees with a deeper understanding of metaprogramming in Python.
+
+⭐️ About PyCon DE & PyData Berlin:
+The PyCon DE & PyData conference unite the Python, AI, and data science communities, offering a unique platform for collaboration and innovation. The PyCon DE & PyData Berlin 2024 conference, hosted in partnership with the local Berlin PyData chapter, provided an exceptional experience, fostering deeper connections within the Python community while showcasing advancements in AI and data science. Attendees enjoyed a diverse and engaging program, solidifying the event as a highlight for Python and AI enthusiasts nationwide.
+
+Follow us:
+   •  LinkedIn: https://www.linkedin.com/company/28908640/
+   •  X: https://www.x.com/pyconde
+   •  X: https://www.x.com/pydataberlin
+
+Links:
+   • Conference website: http://pycon.de
+   • Related sessions: http://2024.pycon.de/program/categories/pycon-python-language-ecosystem
+
+The conference is organized by
+   • Python Softwareverband e.V.: http://pysv.org
+   • NumFOCUS Inc.: http://numfocus.org
+   • Pioneers Hub gemeinnützige GmbH: http://pioneershub.org
+
+
+If you enjoyed this session, please like, comment, and subscribe to our channel for more insightful talks and discussions.
+Share this video with your network to spread the knowledge!
+
+Hashtags:
+#Python #PyConDE #PyData #OpenSource #AI #DataScience #MachineLearning #SoftwareDevelopment #LLMs #Community
+
+Acknowledgements:
+Special thanks to all the volunteers and sponsors who made this event possible.
+
+About:
+Python Softwareverband e.V.:
+PySV is a non-profit that promotes the use and development of Python in Germany through events, education, and advocacy, fostering an open Python community.
+
+NumFOCUS Inc.
+supports open-source scientific computing by providing financial and logistical support to key projects like NumPy and Jupyter, promoting sustainable development and collaboration.
+
+Pioneers Hub gemeinnützige GmbH:
+is a non-profit fostering innovation in AI and tech by connecting experts and promoting knowledge exchange through events and collaborative initiatives.",https://i.ytimg.com/vi/Wdzo8Xyml6M/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=Wdzo8Xyml6M,https://www.youtube.com/watch?v=Wdzo8Xyml6M
+47,Green Software Engineering [PyCon DE & PyData Berlin 2024],https://www.youtube.com/watch?v=vTIkZwrrIwM,vTIkZwrrIwM,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20240923,1706,98,,,,Science & Technology,"🔊 Recorded at PyCon DE & PyData Berlin 2024, 23.04.2024
+https://2024.pycon.de/program/Z3FALV/
+
+🎓 Watch Farah, a passionate Software Engineer, explain how green software engineering can help in environment sustainability and how to incorporate it into everyday life to protect our planet.
+
+Speakers:
+Farah
+
+Description:
+Farah, a Software Engineer at Smartmicro Braunschweig, delivered an insightful talk on Green Software Engineering, emphasizing the pivotal role technology plays in achieving environmental sustainability. Highlighting the pressing issue of global warming, Farah shed light on how software engineering can contribute to alleviating environmental concerns without compromising economic benefits. By integrating green practices throughout the software development cycle - from requirement engineering to end product usage - Farah emphasized the importance of maximizing efficiency and reducing carbon footprints in the digital age. Discussing topics such as Green Requirement Engineering, Architecture and Design, Coding, and Infrastructure Optimization, she provided practical solutions for implementing green software practices. Encouraging the audience to choose coding languages wisely, optimize infrastructure usage, and adopt green computing habits, Farah inspired a shift towards more sustainable software development methods. By the end of the talk, attendees were equipped with actionable steps to incorporate green computing concepts into their daily routines, fostering a more environmentally conscious approach to technology.
+
+⭐️ About PyCon DE & PyData Berlin:
+The PyCon DE & PyData conference unite the Python, AI, and data science communities, offering a unique platform for collaboration and innovation. The PyCon DE & PyData Berlin 2024 conference, hosted in partnership with the local Berlin PyData chapter, provided an exceptional experience, fostering deeper connections within the Python community while showcasing advancements in AI and data science. Attendees enjoyed a diverse and engaging program, solidifying the event as a highlight for Python and AI enthusiasts nationwide.
+
+Follow us:
+   •  LinkedIn: https://www.linkedin.com/company/28908640/
+   •  X: https://www.x.com/pyconde
+   •  X: https://www.x.com/pydataberlin
+
+Links:
+   • Conference website: http://pycon.de
+   • Related sessions: http://2024.pycon.de/program/categories/pycon-programming-software-engineering
+
+The conference is organized by
+   • Python Softwareverband e.V.: http://pysv.org
+   • NumFOCUS Inc.: http://numfocus.org
+   • Pioneers Hub gemeinnützige GmbH: http://pioneershub.org
+
+
+If you enjoyed this session, please like, comment, and subscribe to our channel for more insightful talks and discussions.
+Share this video with your network to spread the knowledge!
+
+Hashtags:
+#Python #PyConDE #PyData #OpenSource #AI #DataScience #MachineLearning #SoftwareDevelopment #LLMs #Community
+
+Acknowledgements:
+Special thanks to all the volunteers and sponsors who made this event possible.
+
+About:
+Python Softwareverband e.V.:
+PySV is a non-profit that promotes the use and development of Python in Germany through events, education, and advocacy, fostering an open Python community.
+
+NumFOCUS Inc.
+supports open-source scientific computing by providing financial and logistical support to key projects like NumPy and Jupyter, promoting sustainable development and collaboration.
+
+Pioneers Hub gemeinnützige GmbH:
+is a non-profit fostering innovation in AI and tech by connecting experts and promoting knowledge exchange through events and collaborative initiatives.",https://i.ytimg.com/vi/vTIkZwrrIwM/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=vTIkZwrrIwM,https://www.youtube.com/watch?v=vTIkZwrrIwM
+48,Beyond Deployment: Exploring Machine Learning Inference Architectures and Patterns,https://www.youtube.com/watch?v=_OW3ijN7Qc0,_OW3ijN7Qc0,PyCon DE,@PyConDE,https://www.youtube.com/@PyConDE,20240923,1815,172,,,,Science & Technology,"🔊 Recorded at PyCon DE & PyData Berlin 2024, 24.04.2024
+https://2024.pycon.de/program/ZLDMGM/
+
+🎓 Watch as Tim Elfrink explores machine learning inference architectures and patterns, sharing insights on setting up robust systems for high-throughput predictions, offering practical strategies for MLOps on cloud platforms, and illustrating real-life examples from StepStone's production systems.
+
+Speakers:
+Tim Elfrink
+
+Description:
+Tim Elfrink, a Staff Machine Learning Engineer at Stepstone, delivered a comprehensive talk on machine learning inference architectures and patterns. The session focused on setting up robust and scalable ML systems for high-throughput real-time predictions and large user bases. Tim discussed various prediction methods including real-time, asynchronous, and batch processing, highlighting their pros and cons and the importance of selecting the right method for specific use cases. 
+
+Using examples from StepStone's production systems, he illustrated how to build systems capable of handling thousands of simultaneous requests with low-latency, reliable predictions. The talk emphasized the technical aspects of managing operations efficiently, providing real-life examples in an easily understandable format. Participants learned about different ML setups to improve inference speed, cost-efficiency, and reliability. 
+
+The presentation also addressed the key challenges of ML deployment and management, focusing on inference patterns for robust and scalable applications. Tim highlighted StepStone's infrastructure as a model for efficiently managing large workloads and complex models, such as large language models, to deliver fast, cost-effective, and dependable results. 
+
+Overall, the talk offered valuable insights into ML inference patterns and effective MLOps strategies, showcasing practical implementation examples from StepStone's real-world applications.
+
+⭐️ About PyCon DE & PyData Berlin:
+The PyCon DE & PyData conference unite the Python, AI, and data science communities, offering a unique platform for collaboration and innovation. The PyCon DE & PyData Berlin 2024 conference, hosted in partnership with the local Berlin PyData chapter, provided an exceptional experience, fostering deeper connections within the Python community while showcasing advancements in AI and data science. Attendees enjoyed a diverse and engaging program, solidifying the event as a highlight for Python and AI enthusiasts nationwide.
+
+Follow us:
+   •  LinkedIn: https://www.linkedin.com/company/28908640/
+   •  X: https://www.x.com/pyconde
+   •  X: https://www.x.com/pydataberlin
+
+Links:
+   • Conference website: http://pycon.de
+   • Related sessions: http://2024.pycon.de/program/categories/pycon-mlops-devops
+
+The conference is organized by
+   • Python Softwareverband e.V.: http://pysv.org
+   • NumFOCUS Inc.: http://numfocus.org
+   • Pioneers Hub gemeinnützige GmbH: http://pioneershub.org
+
+
+If you enjoyed this session, please like, comment, and subscribe to our channel for more insightful talks and discussions.
+Share this video with your network to spread the knowledge!
+
+Hashtags:
+#Python #PyConDE #PyData #OpenSource #AI #DataScience #MachineLearning #SoftwareDevelopment #LLMs #Community
+
+Acknowledgements:
+Special thanks to all the volunteers and sponsors who made this event possible.
+
+About:
+Python Softwareverband e.V.:
+PySV is a non-profit that promotes the use and development of Python in Germany through events, education, and advocacy, fostering an open Python community.
+
+NumFOCUS Inc.
+supports open-source scientific computing by providing financial and logistical support to key projects like NumPy and Jupyter, promoting sustainable development and collaboration.
+
+Pioneers Hub gemeinnützige GmbH:
+is a non-profit fostering innovation in AI and tech by connecting experts and promoting knowledge exchange through events and collaborative initiatives.",https://i.ytimg.com/vi/_OW3ijN7Qc0/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=_OW3ijN7Qc0,https://www.youtube.com/watch?v=_OW3ijN7Qc0
