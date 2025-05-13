@@ -1,0 +1,213 @@
+﻿index,title,url,video_id,uploader,uploader_id,uploader_url,upload_date,duration,view_count,like_count,comment_count,tags,categories,description,thumbnail,age_limit,is_live,was_live,availability,webpage_url,original_url
+1,PyCon CZ 23 - What drives you to contribute to the community?,https://www.youtube.com/watch?v=1lZgRl9pYLM,1lZgRl9pYLM,PyCon CZ,@PyConCZ,https://www.youtube.com/@PyConCZ,20230919,198,290,12,,,Science & Technology,"Conversations with members of the Python community, filmed during PyCon CZ 23.
+
+Production crew: Mia Bajić, Moisés Guimarães, Artur Czepiel. 
+
+A big thanks to everyone who contributed, including Jan Gondol, Karolina Surma, Jan Pipek, Sena Sahin, Honza Javorek, Laysa Uchoa, Lumír Balhar, Pavlína Froňková and Anton Caceres!",https://i.ytimg.com/vi/1lZgRl9pYLM/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=1lZgRl9pYLM,https://www.youtube.com/watch?v=1lZgRl9pYLM
+2,"You Build It You Run It a Panel Discussion with L. Prskavec, V. Wanča, N. Jašíková & K. Minařík",https://www.youtube.com/watch?v=xFn0sARWvHU,xFn0sARWvHU,PyCon CZ,@PyConCZ,https://www.youtube.com/@PyConCZ,20240812,2999,39,2,,,Science & Technology,"“You build it, you run it” is a software development principle emphasizing the development team’s responsibility in designing, building, and maintaining the systems they create. The team should have end-to-end ownership of the systems they develop.
+
+Ladislav and Vilibald are hosting Podcast about “You Build It, you Run It”. You can find us under YBYR on all podcast platforms. We will discuss live with our great guests, and you are invited to this discussion, and you can help us with your questions.
+
+Our guests, Nada Jasikova and Karel Minarik, are seasoned veterans with many years of experience, and it will be a great debate.
+
+https://cz.pycon.org/2023/program/panels/61/",https://i.ytimg.com/vi/xFn0sARWvHU/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=xFn0sARWvHU,https://www.youtube.com/watch?v=xFn0sARWvHU
+3,Jan Matějek: Integrating MicroPython and Rust,https://www.youtube.com/watch?v=4uPJ5PDMps4,4uPJ5PDMps4,PyCon CZ,@PyConCZ,https://www.youtube.com/@PyConCZ,20240812,1673,159,7,2.0,,Science & Technology,"What does a Pythonista do when their MicroPython code grows too slow and eats too much RAM? Why, they switch to Rust!
+
+You’ll find out a little bit about how MicroPython is implemented, how it calls C, and how to understand its internal data structures from Rust.
+
+And why we chose MicroPython and Rust for the Trezor T firmware, what pitfalls we had to face and what it brought us.",https://i.ytimg.com/vi/4uPJ5PDMps4/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=4uPJ5PDMps4,https://www.youtube.com/watch?v=4uPJ5PDMps4
+4,"Mani Selvaraj: Code Complete, Leader Incomplete: The Imposter Staff Engineer’s Journey to Leadership",https://www.youtube.com/watch?v=7JBLgj6rr2w,7JBLgj6rr2w,PyCon CZ,@PyConCZ,https://www.youtube.com/@PyConCZ,20240812,1141,252,12,,,Science & Technology,"I, an undercover Imposter Syndrome sufferer, masquerade as a Staff Software Engineer amid an army of coding geniuses.
+
+Prepare to embark on an epic saga of my transformation into a Staff Software Engineer, while simultaneously wrestling with my sneaky self-doubt.
+
+In this talk, I'll tell about my hilarious misadventures and unexpected triumphs in the rollercoaster ride of becoming a staff software engineer and somehow, against all odds, thriving in that role.",https://i.ytimg.com/vi/7JBLgj6rr2w/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=7JBLgj6rr2w,https://www.youtube.com/watch?v=7JBLgj6rr2w
+5,Mikuláš Poul: Pytest: The Case for Using Classes,https://www.youtube.com/watch?v=8dlv416kHcs,8dlv416kHcs,PyCon CZ,@PyConCZ,https://www.youtube.com/@PyConCZ,20240812,1843,59,2,,,Science & Technology,"There's many reasons why people love pytest – the simple asserts, modular test setup, easy barrier to entry, the plugin ecosystem.
+
+But at scale, only using function-based tests becomes hard to maintain, and slow to run. At Xelix, our main Django monolith has about ten thousand tests and about four thousand fixtures, so speed and maintainability is of paramount importance.
+
+In this talk I will present several reasons why we love to use classes to organise our tests, and to share fixtures. Using class based tests allows you to be more explicit, in what fixtures are available to a set of tests, and allows sharing fixtures between tests not in the same folder. Using classes enables using fixture scope to greatly speed up your tests, while keeping the fixture namespace clear. And finally, using test classes allows you to do interesting things with inheritance and parametrisation, which would be a pain to do with functions only.",https://i.ytimg.com/vi/8dlv416kHcs/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=8dlv416kHcs,https://www.youtube.com/watch?v=8dlv416kHcs
+6,Jakub Klaučo: Challenges of running Python at Planetary Scale,https://www.youtube.com/watch?v=9L0DrURGrO4,9L0DrURGrO4,PyCon CZ,@PyConCZ,https://www.youtube.com/@PyConCZ,20240812,1789,19,0,,,Science & Technology,"At SpaceKnow, our operations revolve around managing and analyzing Petabytes of satellite imagery. Our platform — primarily driven by Python — delivers world-class geospatial analysis using advanced AI algorithms, including object detection and classification. This colossal task brings along certain challenges unique to large-scale implementations.
+
+This talk will expose and address some of these challenges and provide simple practical examples/hacks that we are employing to keep our sanity.
+
+The solutions to following challenges will be explored:
+
+Logging: How to smartly utilize Python's logging capabilities to maintain context and traceability of logs in a cloud-based distributed system.
+Versioning: Managing pip and system packages for python running in docker can be tricky, especially when services demand predictable output. I will shed light on the problems faced and the tricks used to effectively manage versioning in our platform.
+Parallelism: Large-scale operations require robust tasking mechanisms. We'll explore how we use Redis to enable parallel Python microservices to run reliable tasking in a distributed system.
+Resource Scaling: Resource scaling is critical for managing load in our applications. We will discuss how we automate the scaling of Kubernetes pods based on queue size using Python microservices.",https://i.ytimg.com/vi/9L0DrURGrO4/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=9L0DrURGrO4,https://www.youtube.com/watch?v=9L0DrURGrO4
+7,Mauro Pelucchi: Greening the Labour Market: Using NLP to Identify in‑demand Green Skills,https://www.youtube.com/watch?v=BACMOFIeEQM,BACMOFIeEQM,PyCon CZ,@PyConCZ,https://www.youtube.com/@PyConCZ,20240812,1761,16,0,,,Science & Technology,"The talk will explore the concept of “green skills” and “green jobs”, which are skills and occupations that contribute to preserving or restoring the natural environment.
+
+The focus will be on using natural language processing (NLP) techniques to create an index of greenness of different types of work, in order to better understand and quantify the environmental impact of different industries and occupations. The talk will also discuss the potential benefits of investing in green skills and jobs, such as reducing carbon emissions, improving air and water quality, and conserving natural resources.
+
+Additionally, the talk will explore the challenges and opportunities of using NLP to create the index as well as the limitations of using text-based data to measure environmental impact.",https://i.ytimg.com/vi/BACMOFIeEQM/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=BACMOFIeEQM,https://www.youtube.com/watch?v=BACMOFIeEQM
+8,Matěj Račinský: How to actually serve your ML models,https://www.youtube.com/watch?v=Bj57ZTQvD-w,Bj57ZTQvD-w,PyCon CZ,@PyConCZ,https://www.youtube.com/@PyConCZ,20240812,1693,22,0,,,Science & Technology,"At GenDigital and Avast, we are using machine learning in production. Serving the models well so it's fast and reliable, is non-trivial. There are many tools for serving and it's hard to choose the right one.
+
+I'll be sharing my experience with serving Tensorflow model with custom C++ code where we tried TF Serving, Triton and TorchServe, and serving Huggingface Transformers in Vertex AI using gunicorn and FastAPI on both CPU and GPU and how I was benchmarking and debugging it.
+
+I'll also briefly talk about our experience with serving ML Models in Julia.
+
+Code samples and presentation can be found here: https://github.com/racinmat/pycon_cz_2023_serving_models",https://i.ytimg.com/vi/Bj57ZTQvD-w/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=Bj57ZTQvD-w,https://www.youtube.com/watch?v=Bj57ZTQvD-w
+9,Adam Zíka: Low‑Rank Adaptation (LoRA) in Large Language Models,https://www.youtube.com/watch?v=HcBiSv9WHak,HcBiSv9WHak,PyCon CZ,@PyConCZ,https://www.youtube.com/@PyConCZ,20240812,1395,164,4,1.0,,Science & Technology,"In this presentation, we will explore the fascinating realm of Low-Rank Adaptation (LoRA) technique in the context of large language models.
+
+As the demand for efficient and versatile language models continues to surge, understanding how to optimize their performance becomes paramount.
+
+Leveraging low-rank adaptations offer a promising avenue to achieve both efficiency and generalization, enabling language models to excel across diverse domains and contexts.",https://i.ytimg.com/vi/HcBiSv9WHak/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=HcBiSv9WHak,https://www.youtube.com/watch?v=HcBiSv9WHak
+10,Pratibha Jagnere: Itertools – iterators for efficient looping,https://www.youtube.com/watch?v=Jcl4grE9M8o,Jcl4grE9M8o,PyCon CZ,@PyConCZ,https://www.youtube.com/@PyConCZ,20240812,1514,16,0,,,Science & Technology,"The itertools module is a standard library module in Python that provides a number of functions and classes for working with iterators. It can be helpful in day-to-day work by providing a number of common tasks that can be performed with iterators, such as:
+
+Creating iterators from lists, strings, and other iterables
+Combining iterators into new iterators
+Filtering iterators
+Sorting iterators
+Mapping functions over iterators
+Reducing iterators to a single value
+The itertools module can also be used to create custom iterators, which can be useful for performing tasks that are not easily performed with standard iterators.",https://i.ytimg.com/vi/Jcl4grE9M8o/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=Jcl4grE9M8o,https://www.youtube.com/watch?v=Jcl4grE9M8o
+11,Markus Ziller: Optimize your Python functions in AWS Lambda for speed and cost‑efficiency,https://www.youtube.com/watch?v=MA_h_OAuUmI,MA_h_OAuUmI,PyCon CZ,@PyConCZ,https://www.youtube.com/@PyConCZ,20240812,1835,146,5,,,Science & Technology,"This presentation explores optimizing AWS Lambda functions written in Python for speed and cost‑efficiency.
+
+We examine the fundamentals of AWS Lambda and how Python functions operate in a serverless environment. Key factors impacting performance and cost, such as memory allocation and execution time, are discussed.
+
+Techniques for improving speed include leveraging concurrency, optimizing memory settings, and using asynchronous programming patterns.
+
+Cost-efficiency strategies involve selecting appropriate memory configurations, managing resource utilization, and designing efficient code.
+
+The presentation provides practical examples and real-world experiences to demonstrate the benefits of each optimization technique. By the end, attendees will gain a comprehensive understanding of fine-tuning Python AWS Lambda functions to achieve optimal performance while minimizing costs in serverless applications.",https://i.ytimg.com/vi/MA_h_OAuUmI/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=MA_h_OAuUmI,https://www.youtube.com/watch?v=MA_h_OAuUmI
+12,Týna Doležalová & Lubomír Doležal: Getting started with Satellite Data: Exploration and Processing,https://www.youtube.com/watch?v=OTEFyC7L4hQ,OTEFyC7L4hQ,PyCon CZ,@PyConCZ,https://www.youtube.com/@PyConCZ,20240812,1640,21,2,,,Science & Technology,"Satellite data has become a valuable resource for addressing various contemporary challenges, ranging from environmental monitoring to urban planning and disaster management. But just looking at single satellite products as they are is not always enough to identify the patterns you search for. We need tools to effectively manipulate vast data to bring forward the details. Satellite data are not all the same – we have optical imagery, radar data, elevation models or satellite measurements of the characteristic of the atmosphere.
+
+This talk should give you an introduction to GeoPython (Python geospatial libraries) and more specifically to using and manipulating satellite data with code. I will introduce you to common libraries and practices like GDAL, Rasterio or QGIS - very known, Open Source helpers.
+
+This talk should also introduce where to search for such data and how to filter, view and download them as even obtaining only what you are interested in presents itself to be a challenge. We will also mention simple indexes which are usually computed from satellite images to highlight a certain phenomenon or help to identify certain patterns observed on a combination of satellite data bands or products. Such indexes are used for example to detect urban settlements or vegetation.",https://i.ytimg.com/vi/OTEFyC7L4hQ/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=OTEFyC7L4hQ,https://www.youtube.com/watch?v=OTEFyC7L4hQ
+13,Filip Sedlák: API Stability: Don’t Break Your Users!,https://www.youtube.com/watch?v=QnGkZTr25S8,QnGkZTr25S8,PyCon CZ,@PyConCZ,https://www.youtube.com/@PyConCZ,20240812,1779,14,1,,,Science & Technology,"Have you ever feared to upgrade a tool or a library you depend on? Did you know that there are many Windows programs that can run unchanged straight from the 90s? Why can't the opensource project you're using keep an API for two years?
+
+What is the magical sauce for API compatibility and why some companies can do it and some tools just break your code on every upgrade? I'll show you examples from several open-source projects - some positive, some frustrating.
+
+In the end, we'll go through strategies you may use to keep your APIs compatible as your product evolves.",https://i.ytimg.com/vi/QnGkZTr25S8/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=QnGkZTr25S8,https://www.youtube.com/watch?v=QnGkZTr25S8
+14,Eliška Čejpová & Daryl Seager: How to give great feedback,https://www.youtube.com/watch?v=RRC8Sf8r5O0,RRC8Sf8r5O0,PyCon CZ,@PyConCZ,https://www.youtube.com/@PyConCZ,20240812,1883,17,0,,,Science & Technology,"Feedback is integral to personal and professional growth. However, current feedback practices often fall short, resulting in missed opportunities and poor relationships.
+
+“Negative” feedback can create avoidance and hinder collaboration. Effective feedback promotes growth, self-awareness, and continuous improvement, empowering people to leverage their strengths and address development areas. Improving feedback culture strengthens relationships, fostering open communication, trust, and teamwork.
+
+In our talk, we’ll address barriers to effective feedback, discuss reframing feedback, and offer practical tips for meaningful and impactful communication.",https://i.ytimg.com/vi/RRC8Sf8r5O0/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=RRC8Sf8r5O0,https://www.youtube.com/watch?v=RRC8Sf8r5O0
+15,Anastázie Sedláková: DIY precision medicine with Pandas,https://www.youtube.com/watch?v=RpuKhmnvzXM,RpuKhmnvzXM,PyCon CZ,@PyConCZ,https://www.youtube.com/@PyConCZ,20240812,1882,14,0,,,Science & Technology,"We live in an era of enormous amounts of data. Precision medicine makes use of that data to choose the right treatment or prevention for an individual. We can use your genetic code to make recommendations even more precise. But first, we need to know which parts of the DNA are associated with which diseases. How would you actually find that from publicly available data?
+
+With some basic pandas functions, open data and your results from any DNA testing company I will show you how:
+
+Genome-wide association studies (GWAS) are performed
+Understand results of GWAS
+Understand how GWAS results can be used to generate polygenic risk scores (PRS)
+Filter data and show significant association with your data
+No prior knowledge of genetics is required, I will explain everything during the talk. Knowledge of the pandas library is recommended.",https://i.ytimg.com/vi/RpuKhmnvzXM/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=RpuKhmnvzXM,https://www.youtube.com/watch?v=RpuKhmnvzXM
+16,Jürgen Gmach: Behind the Scenes of tox: Rewriting a Tool with more than 10 Million Monthly Downloads,https://www.youtube.com/watch?v=SJDAhpMsd9U,SJDAhpMsd9U,PyCon CZ,@PyConCZ,https://www.youtube.com/@PyConCZ,20240812,1562,24,0,,,Science & Technology,"Do you recall what developer legend Joel Spolsky called the “single worst strategic mistake” in Things You Should Never Do?
+
+Rewriting software from scratch.
+
+That is what we did. For the tox test automation tool. A tool, downloaded more than 10 million times a month, both heavily used in the open source community, and in multi-billion dollar companies alike.
+
+I invite you to join me on the very personal journey of rewriting tox, a journey, which already started in 2019. We will have a look at the initial motivations for the rewrite, the design decisions, the challenges, and the lessons learned.
+
+We will reconstruct why it took more than three years, from the idea to the release, and why this was a good thing.
+
+I will explain what we did to take care that the release would cause the least amount of issues, and why we still received dozens and dozens of bug reports about regressions the days after the release.
+
+But most importantly, you will get to know the maintainers and their motivation.",https://i.ytimg.com/vi/SJDAhpMsd9U/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=SJDAhpMsd9U,https://www.youtube.com/watch?v=SJDAhpMsd9U
+17,Evelina Gabašová: Transformational Power of Openness: Reflections on Open Science and Open Source,https://www.youtube.com/watch?v=Y3BvG1z6I4E,Y3BvG1z6I4E,PyCon CZ,@PyConCZ,https://www.youtube.com/@PyConCZ,20240812,2387,46,0,,,Science & Technology,"Open source has thoroughly transformed the world of tech and software development with its benefits and a unique set of challenges. It has not only revolutionised the technology industry, but also profoundly influenced academic research.
+
+Academia has had its own drive for openness, influenced by the reproducibility crisis, inspired by open source: the open science movement. In this talk, we will look at some of the principles and approaches in open source and how they are reflected in academic practice.
+
+We will explore some of the successful examples where academic software projects created impact in the wider ecosystem (focusing on Python) and what can we learn from them, in academia and beyond. We will also look into the systemic challenges that the drive for openness faces and what can we learn from open science.
+
+Join us for a deep-dive into the dynamic relationship between open source, academia, and open science.",https://i.ytimg.com/vi/Y3BvG1z6I4E/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=Y3BvG1z6I4E,https://www.youtube.com/watch?v=Y3BvG1z6I4E
+18,Alberto Schiabel: Adaptable query accuracy at scale,https://www.youtube.com/watch?v=ZxzmzILTvbg,ZxzmzILTvbg,PyCon CZ,@PyConCZ,https://www.youtube.com/@PyConCZ,20240812,2015,5,0,,,Science & Technology,"Have you ever wondered how social medias keep track of the number of likes and comments under each post? In a distributed world, performing accurate and fast queries on large amounts of data is challenging, as traditional query techniques can become impractical at scale.
+
+Thankfully, probabilistic techniques allow us to trade a small amount of accuracy for significant performance gains. Introducing data structures like Bloom filters and Count-Min sketches, we’ll develop an intuition on how they are used for efficient set membership or frequency queries, and will compare their performance with non-probabilistic queries. We will also compare probabilistic data structures coded in Python with real-world alternatives used in databases.
+
+After this talk, you will have a better understanding of the internals of popular databases and new tools at your disposal to let your software service grow at scale.",https://i.ytimg.com/vi/ZxzmzILTvbg/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=ZxzmzILTvbg,https://www.youtube.com/watch?v=ZxzmzILTvbg
+19,Furkan M. Torun: How to Build an Open‑Source Machine Learning Platform in Biology?,https://www.youtube.com/watch?v=fc7CNZ5DS9Q,fc7CNZ5DS9Q,PyCon CZ,@PyConCZ,https://www.youtube.com/@PyConCZ,20240812,1719,48,2,,,Science & Technology,"The global transition to personalized medicine has been accelerated by the advancements in high-throughput technologies in biology and increasing computational power and storage capacities. Accompanying the diversity and growing volume of the complex biological datasets, called “–omics” data (e.g., genomics and proteomics), revolutionized our understanding and our way of interpreting disease and health states, although they generate new challenges.
+
+To reveal the complex and hidden patterns in omics data, machine learning (ML) showed promising results and brought new opportunities for transforming scientific discovery today. Popular packages such as scikit-learn or XGBoost enable predictive data analysis. However, the researchers still require programming skills to write their own ML pipelines which are not always easy to follow by non-specialists due to lacking domain knowledge and a graphical interface.
+
+Furthermore, several parameters can be changed to tune the algorithms, which might show differences from version to version, resulting in reproducibility issues. To reproduce published results, the same software environment needs to be set up and configured with the matching package versions and algorithm parameters.
+
+Additionally, omics sciences and ML require special domain knowledge since metrics can be deceiving and algorithms might need extra preselection or preprocessing steps.
+
+Thus, transparent and open-source software is highly valuable for open and reproducible science. To address all the issues and to enable researchers to access state-of-the-art ML algorithms without requiring any prior bioinformatics and programming knowledge, we introduce OmicLearn (OmicLearn.org), a ready-to-use, open-source, web-based, ML platform specifically developed for omics datasets.
+
+In this talk, you will see how to build a machine learning platform from open-source tools and how to apply state-of-the-art algorithms to omics datasets in a standardized format.",https://i.ytimg.com/vi/fc7CNZ5DS9Q/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=fc7CNZ5DS9Q,https://www.youtube.com/watch?v=fc7CNZ5DS9Q
+20,Sebastian Arias: Pythonic Laziness: Unleashing the Power of Generators,https://www.youtube.com/watch?v=jLMOVo0Qacc,jLMOVo0Qacc,PyCon CZ,@PyConCZ,https://www.youtube.com/@PyConCZ,20240812,1713,21,0,,,Science & Technology,"Lazy evaluation is a powerful concept in computer science that can be used to optimize the performance of programs by reducing the amount of computation needed to produce results. In Python, one way to implement lazy evaluation is through the use of generators, which are functions that can be paused and resumed during execution to generate a sequence of values on-the-fly.
+
+In this talk, we will explore the concept of lazy evaluation with generators in Python. We will start with a brief overview of generators and then delve into the principles of lazy evaluation, including how it works and its advantages over eager evaluation. We will also cover practical examples of how generators can be used to implement lazy evaluation in real-world scenarios, such as processing large datasets or generating infinite sequences.
+
+Attendees of this talk will gain a deeper understanding of the concept of lazy evaluation and how it can be implemented using generators in Python. They will learn about the benefits of lazy evaluation, including improved performance and reduced memory usage, and see practical examples of how it can be used to solve common programming problems. This presentation is designed for developers who are interested in optimizing their Python code and want to explore the power of lazy evaluation with generators.",https://i.ytimg.com/vi/jLMOVo0Qacc/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=jLMOVo0Qacc,https://www.youtube.com/watch?v=jLMOVo0Qacc
+21,Karel Minařík: The Library and the Maze,https://www.youtube.com/watch?v=l3mSf0GVhzA,l3mSf0GVhzA,PyCon CZ,@PyConCZ,https://www.youtube.com/@PyConCZ,20240812,2302,56,2,,,Science & Technology,"This talk presents an introduction to fundamental machine learning concepts in the context of semantic search.
+
+Given the rapid increase of interest in artificial intelligence in the last year, driven by many “generative transformer” technologies, it’s often hard to understand the foundational principles behind these advanced systems, especially for people not familiar with the mathematical theory.
+
+We’ll use Ferdinand de Saussure’s theory of language as a starting point to gain a better understanding of these fundamental concepts, such as word embeddings, vectors, semantic similarity or multi-modal search, demystifying their “magic” without using complicated jargon or complex formulas.",https://i.ytimg.com/vi/l3mSf0GVhzA/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=l3mSf0GVhzA,https://www.youtube.com/watch?v=l3mSf0GVhzA
+22,Łukasz Mach: Dog vs. Micropython,https://www.youtube.com/watch?v=omrpEsF4AV8,omrpEsF4AV8,PyCon CZ,@PyConCZ,https://www.youtube.com/@PyConCZ,20240812,1768,47,1,1.0,,Science & Technology,"How to train a dog using µpython@esp32? How to teach him to behave himself with a few programming tricks? How hard is it and why is rapid prototyping not really rapid?
+
+I’m a software developer and I should think like a developer. When I need to care for my dog, I should think about IT, IoT, ESP32, µPy and other acronyms.
+
+I will tell you about my programming adventures for saving my dog from boredom, how I have tried to make him a good dog when someone pays a visit, and how I tried to solve the problem with his separation anxiety.
+
+I will describe many failures and a few little successes, what I have learned, and what surprised me. Eg: that hardware is way harder to grasp than software, that 3d-print rapid prototyping is not so rapid. You can find ready components for everything, except the thing you’re looking for.
+
+And that perfect is the enemy of good – in other words: MVP approach.",https://i.ytimg.com/vi/omrpEsF4AV8/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=omrpEsF4AV8,https://www.youtube.com/watch?v=omrpEsF4AV8
+23,Domitil Katemo: Python in the Namibian desert,https://www.youtube.com/watch?v=r_sR8TnoRdE,r_sR8TnoRdE,PyCon CZ,@PyConCZ,https://www.youtube.com/@PyConCZ,20240812,1744,84,12,2.0,,Science & Technology,"After hearing the talks of Czech visitors to PyCon Namibia, I thought I can return the favour and give a short speech about Namibia and PyCon there.
+
+Not much is known about the African, specifically Namibian way of doing things. So I offer a presentation that will help future visitors to find their way to my country through learning of Python.
+
+1. The country of Namibia, where the hell is it and the surprising connection to the Czech Republic.
+2. Culture shock, be prepared!
+3. PyCon Namibia: it's more different than you think
+4. Problems of spreading Python and state of education in general
+5. What can you do to help and feel good about it",https://i.ytimg.com/vi/r_sR8TnoRdE/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=r_sR8TnoRdE,https://www.youtube.com/watch?v=r_sR8TnoRdE
+24,David Majda: Making Remote Teams Work,https://www.youtube.com/watch?v=uYugrTCN5rc,uYugrTCN5rc,PyCon CZ,@PyConCZ,https://www.youtube.com/@PyConCZ,20240812,1874,16,1,,,Science & Technology,"Every development team is at least partially remote these days, which presents a unique set of challenges. How do you set up a collaboration workflow? How do you manage communication and maintain team cohesion without seeing each other in person? How do you deal with the lack of social interaction and serendipity? How do you accommodate people with wildly different work and communication styles, emotional needs, and ideas about work-life balance? And what about hiring and onboarding?
+
+Having led a remote team in a small company for six years, I've experienced these challenges first-hand. In the talk, we’ll go through them (plus a few more), and I’ll describe solutions and guidelines we’ve come up with in our team (including a few that didn’t work). The goal is to provide useful advice you can apply in your work, both as a team leader and as a team member. I would also love to use the talk as an opportunity to start a discussion and learn how others solve similar problems.",https://i.ytimg.com/vi/uYugrTCN5rc/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=uYugrTCN5rc,https://www.youtube.com/watch?v=uYugrTCN5rc
+25,Álvaro Durán: Codename Tulip: The Making of Async,https://www.youtube.com/watch?v=x_R_uxrLRR8,x_R_uxrLRR8,PyCon CZ,@PyConCZ,https://www.youtube.com/@PyConCZ,20240812,1621,20,0,,,Science & Technology,"Have you ever ordered something from Starbucks? Like most other businesses, it is primarily interested in maximising the number of orders fulfilled, and that’s why they use asynchronous processing: when you ask for your coffee, the cashier marks a cup with your order and places it into a queue. Queuing orders decouples cashiers and baristas, allowing the cashier to keep taking orders and the deployment of many baristas at peak times. At scale, it would be absurd to see a cashier taking an order and fulfilling it before moving on with the next customer. Yet, we often rely on very similar strategies when we code.
+
+Asynchronous programming has become a huge hit, and there are two main reasons for it. First, it mitigates the problems of systems that make multiple external requests to serve one incoming request (fan-out), making them way faster. And second, it helps save money on infrastructure by using resources better.
+
+However, many Python developers, while intrigued, are intimidated by this programming paradigm, and so the goal of this talk is to help figure out how the heck all of this works. In order to do so, what I’m going to do is to review how async was incorporated into Python using the building blocks that all Python developers are already familiar with, such as iterators and generator expressions.
+
+We will use that foundation to dive into coroutines, the yield from syntax, and finally, async/await. At the end of the talk, we may build a simple web-crawler using what we’ve learnt, and understand the internals of async web services such as Starlette or aiohttp.",https://i.ytimg.com/vi/x_R_uxrLRR8/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=x_R_uxrLRR8,https://www.youtube.com/watch?v=x_R_uxrLRR8
+26,Lenka Erbenová: Kariérní změna ve 40 letech s pomocí PyLadies,https://www.youtube.com/watch?v=7-USYfHbnlI,7-USYfHbnlI,PyCon CZ,@PyConCZ,https://www.youtube.com/@PyConCZ,20240812,1418,29,0,,,Science & Technology,"Sdílením vlastního příběhu bych chtěla inspirovat začátečníky na jejich cestě k IT.
+
+Dozvíte se, jak mě, personalistku a účetní, vůbec napadlo začít o IT uvažovat, kam směřovaly moje první kroky a kam jsem se během čtyř let dostala.
+
+Proč zrovna Python? Kdo a co mi nejvíc pomohlo? Jakou roli v tom sehrála Python komunita? Jaké je být ženou v IT? A jak vidím svoji budoucnost?",https://i.ytimg.com/vi/7-USYfHbnlI/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=7-USYfHbnlI,https://www.youtube.com/watch?v=7-USYfHbnlI
+27,Nela Slezáková: Prohřešky (juniorních) ajťáků proti psychickému zdraví,https://www.youtube.com/watch?v=FuHr7a6M980,FuHr7a6M980,PyCon CZ,@PyConCZ,https://www.youtube.com/@PyConCZ,20240812,1125,64,2,,,Science & Technology,"Odlehčenou formou se s vámi podělím o to, které jsou ty největší poklesky proti psychické pohodě, kterých se můžete dopouštět na cestě do IT a v začátcích IT kariéry. A pokud byste si v těchto poklescích už rádi přestali holdovat, zkusím vám naznačit alternativní směr.
+
+Mluvit budu trochu o tom, co jsem odpozorovala za ty roky na juniorech, ale nejvíc o tom, co jsem sama prožila. Aneb psychologické poklesky jedné psycholožky, co se rozhodla stát se i programátorkou.
+
+Na přednášce byste měli zjistit, že v tom nejste sami. A že zažívat nepohodu zejména v začátcích v IT je běžné a dá se s tím i něco dělat.",https://i.ytimg.com/vi/FuHr7a6M980/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=FuHr7a6M980,https://www.youtube.com/watch?v=FuHr7a6M980
+28,Zuzana Pechová: Základy cybersecurity pro vývojáře,https://www.youtube.com/watch?v=IqYhocwZMzI,IqYhocwZMzI,PyCon CZ,@PyConCZ,https://www.youtube.com/@PyConCZ,20240812,1884,110,3,,,Science & Technology,"I jako začátečníci jste určitě slyšeli o cybersecurity (kybernetické bezpečnosti), a znáte nějaké zásady bezpečného chování na sítích. Jako čerství vývojáři už chráníte nejenom sebe, ale i svůj kód.
+
+V této přednášce se dozvíte přehled potenciálních nebezpečí a jak se proti nim bránit. Podíváme se na to, jak vámi napsaný software bezpečně ukládat, distribuovat, spouštět, a hlavně jak zajistit, aby to, co naprogramujete, nemělo zbytečné zranitelnosti.
+
+Nepůjdeme moc do hloubky, ale dostanete odrazový můstek pro další studium, a hodně námětů k přemýšlení a zvídavým otázkám 🐱",https://i.ytimg.com/vi/IqYhocwZMzI/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=IqYhocwZMzI,https://www.youtube.com/watch?v=IqYhocwZMzI
+29,Lumír Balhar: Funkce je taky jenom objekt!,https://www.youtube.com/watch?v=Pak7Gdv_8c0,Pak7Gdv_8c0,PyCon CZ,@PyConCZ,https://www.youtube.com/@PyConCZ,20240812,1376,42,0,,,Science & Technology,"V základních kurzech programování Pythonu se lidé nejčastěji seznámí nejdříve s proměnnými pro uchování hodnot a pak s funkcemi pro uchování spustitelného kódu.
+
+Hodně se přitom upozorňuje na rozdíly mezi funkcemi a proměnnými a už se tolik neřeší, co mají společného. A mají vůbec něco společného? Co se stane, když zavolám funkcí bez závorek? A co kdybych chtěl předat funkci jako argument nebo vyvořit novou funkci dynamicky za běhu programu? Co jsou to funkce vyššího řádu?
+
+Na tohle všechno se společně podíváme v nenáročné přednášce, která třeba ukáže další možný směr studia Pythonu po začátečnickém kurzu.",https://i.ytimg.com/vi/Pak7Gdv_8c0/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=Pak7Gdv_8c0,https://www.youtube.com/watch?v=Pak7Gdv_8c0
+30,"Mýty a stereotypy o IT: diskuze M. Bajić, Š. Melicharové, H. Javorka, L. Tvrdíkové a R. Hrašky",https://www.youtube.com/watch?v=V-DAAuYpysU,V-DAAuYpysU,PyCon CZ,@PyConCZ,https://www.youtube.com/@PyConCZ,20240812,3307,124,1,,,Science & Technology,"Panelová diskuze se zkušenými softwarovými inženýry, kteří mají bohaté zkušenosti s prací s juniory, a začátečníky v oblasti IT. Cílem diskuze je podpořit lidi na jejich cestě do IT a v IT, a sdílet cenné informace a rady.
+
+Během této diskuze se zaměříme na následující témata:
+
+Jaké jsou nejčastější mýty a stereotypy spojené s IT?
+Jak se mýty a stereotypy o IT projevují v pracovním prostředí?
+Jak můžeme přispět ke změně a překonat předsudky?",https://i.ytimg.com/vi/V-DAAuYpysU/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=V-DAAuYpysU,https://www.youtube.com/watch?v=V-DAAuYpysU
+31,Petra Číhalová: Flask jako další krok na cestě k první práci v IT,https://www.youtube.com/watch?v=pTRISpShWI8,pTRISpShWI8,PyCon CZ,@PyConCZ,https://www.youtube.com/@PyConCZ,20240812,1600,52,0,,,Science & Technology,"Začínající programátoři často hledají projekt nebo téma, kterým by se mohli zabývat po ukončení základního kurzu programování Pythonu.
+
+Velmi vhodným kandidátem je webový framework Flask.
+
+Ve své přednášce představím tento framework a jeho hlavní výhody a zaměřím se na otázky:
+
+Proč může být Flask tím správným nástrojem pro první kroky ve tvorbě webových aplikací?
+Co všechno se naučím během práce s Flaskem?
+Jak mi Flask projekt pomůže na cestě k získání první práce v IT?
+Co dalšího by můj Flask projekt mohl obsahovat, abych získal/a bodíky navíc na pracovním pohovoru?",https://i.ytimg.com/vi/pTRISpShWI8/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=pTRISpShWI8,https://www.youtube.com/watch?v=pTRISpShWI8
+32,Miroslav Brabenec: Tam a zase zpátky aneb cesta HTTP požadavku,https://www.youtube.com/watch?v=gkHKAJjRigE,gkHKAJjRigE,PyCon CZ,@PyConCZ,https://www.youtube.com/@PyConCZ,20240812,1465,39,0,,,Science & Technology,"Fantastický příběh o útrapách, kterým čelí čaroděj, jehož cílem je doručit delete HTTP (HobbiT Transfer Protocol) požadavek do ohně API osudu na URL mount-doom.mordor hostované v EWS (Eye Web Services).
+
+Úvod do problematiky síťového provozu a tajů, jak fungují webové služby. Odhalení toho, co všechno se může dít, mezi CURL příkazem na jedné straně a Flask aplikací na straně druhé.
+
+Úvod do problematiky základů síťování, load balancingu, HA (High Availability) nebo bezpečnosti.",https://i.ytimg.com/vi_webp/gkHKAJjRigE/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=gkHKAJjRigE,https://www.youtube.com/watch?v=gkHKAJjRigE
