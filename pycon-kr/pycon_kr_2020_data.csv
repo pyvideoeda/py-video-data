@@ -1,0 +1,1014 @@
+﻿index,title,url,video_id,uploader,uploader_id,uploader_url,upload_date,duration,view_count,like_count,comment_count,tags,categories,description,thumbnail,age_limit,is_live,was_live,availability,webpage_url,original_url
+1,[오프닝 Opeaning] 파이콘 한국 2020에 오신 여러분 환영합니다! - PyCon Korea 2020,https://www.youtube.com/watch?v=xs66jubM88k,xs66jubM88k,PyCon Korea,@PyConKRtube,https://www.youtube.com/@PyConKRtube,20201005,448,1631,,,"yt:cc=on,파이콘 한국 2020,파이콘,Python,파이썬,PyConKR,파이콘 한국,PyCon Korea",Science & Technology,"청력에 상관없이 모두가 발표를 접할 수 있도록 파이콘 한국 2020 모든 영상에는 자막이 제공됩니다. 자막 보기 설정을 켜주세요(선택 : 한국어). Every video in PyCon Korea 2020 has subtitles. Please turn on the subtitle view setting.(Language: Korean)
+SHOW MORE 을 누르시면 발표 상세 정보 페이지와 행사 정보를 보실 수 있습니다!
+PyCon Korea 2020 프로그램 자세히 보기 : https://www.pycon.kr/2020/program/talk-schedule/
+-----
+[파이콘 한국이란]
+파이콘은 세계 각국의 파이썬 프로그래밍 언어 커뮤니티에서 주관하는 비영리 컨퍼런스입니다. 한국에서는 처음으로 열린 파이콘 한국 2014를 시작으로 파이콘 한국 준비위원회는 건강한 국내 파이썬 생태계에 지속적인 보탬이 되고자, 커뮤니티 멤버들의 자발적인 봉사로 운영되고 있습니다.
+
+[WE ARE PYTHONISTAS]
+파이콘 한국 2020의 슬로건은 ""We are Pythonistas""입니다.
+이 곳에는 '파이썬'이라는 단 하나의 공통점으로 모이는 사람들이 있습니다.
+이제 막 파이썬이 무엇인지 알게 된 사람들,
+파이썬으로 무언가를 만들고 연구하며 세상에 기여하고 있는 사람들,
+다른 이에게 파이썬을 더 널리 알리고 싶은 사람들까지.
+이렇게 다양한 사람들이 모여있는 파이콘 한국에서
+우리는 서로의 경험담에 응원을 보내고, 울고 웃으며 많은 이야기를 나눕니다.
+그렇게 파이콘 한국은 점점 깊어지고, 넓어지고, 단단해졌습니다.
+올해도 어김없이 열릴 파이콘 한국을 통해
+여러분의 세상이 한 발자국 더 넓어질 수 있기를 바랍니다.
+이곳에 모인 우리는 함께 걸어갈 수 있는 힘을 가진 파이써니스타들이니까요.
+We are Pythonistas.
+
+[파이콘 한국은 다른 개발자 행사와 무엇이 다른가요?]
+파이콘 한국은 커뮤니티 주관으로 이뤄지는 비영리 개발자 대상 행사로, 타 기업 및 기관에서 개최하는 개발자 행사와는 성격이 다릅니다. 발표자와 튜토리얼 진행자를 포함하여, 자원봉사자와 준비위원회 담당자 등 모든 인원이 금전적 이득 없이 순수히 오픈소스 프로그래밍 언어인 파이썬의 저변 확대와 커뮤니티 활성화를 위해 진행하는 행사입니다.",https://i.ytimg.com/vi/xs66jubM88k/sddefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=xs66jubM88k,https://www.youtube.com/watch?v=xs66jubM88k
+2,How to use Python in a Video streaming service - 김애영(ODK Media) - PyCon Korea 2020,https://www.youtube.com/watch?v=2lR9-U0LnQs,2lR9-U0LnQs,PyCon Korea,@PyConKRtube,https://www.youtube.com/@PyConKRtube,20201005,1934,2222,,,"yt:cc=on,파이콘 한국 2020,파이콘,Python,파이썬,PyConKR,파이콘 한국,PyCon Korea",Science & Technology,"청력에 상관없이 모두가 발표를 접할 수 있도록 파이콘 한국 2020 모든 영상에는 자막이 제공됩니다. 
+자막 보기 설정을 켜주세요(선택 : 한국어). Every video in PyCon Korea 2020 has subtitles. Please turn on the subtitle view setting.(Language: Korean) 
+SHOW MORE 을 누르시면 발표 소개 페이지와 행사 정보를 보실 수 있습니다! 
+PyCon Korea 2020 프로그램 자세히 보기 : https://pycon.kr/2020/program/talk/70
+-----
+[파이콘 한국이란]
+파이콘은 세계 각국의 파이썬 프로그래밍 언어 커뮤니티에서 주관하는 비영리 컨퍼런스입니다. 한국에서는 처음으로 열린 파이콘 한국 2014를 시작으로 파이콘 한국 준비위원회는 건강한 국내 파이썬 생태계에 지속적인 보탬이 되고자, 커뮤니티 멤버들의 자발적인 봉사로 운영되고 있습니다.
+
+[WE ARE PYTHONISTAS]
+파이콘 한국 2020의 슬로건은 ""We are Pythonistas""입니다.
+이 곳에는 '파이썬'이라는 단 하나의 공통점으로 모이는 사람들이 있습니다.
+이제 막 파이썬이 무엇인지 알게 된 사람들,
+파이썬으로 무언가를 만들고 연구하며 세상에 기여하고 있는 사람들,
+다른 이에게 파이썬을 더 널리 알리고 싶은 사람들까지.
+이렇게 다양한 사람들이 모여있는 파이콘 한국에서
+우리는 서로의 경험담에 응원을 보내고, 울고 웃으며 많은 이야기를 나눕니다.
+그렇게 파이콘 한국은 점점 깊어지고, 넓어지고, 단단해졌습니다.
+올해도 어김없이 열릴 파이콘 한국을 통해
+여러분의 세상이 한 발자국 더 넓어질 수 있기를 바랍니다.
+이곳에 모인 우리는 함께 걸어갈 수 있는 힘을 가진 파이써니스타들이니까요.
+We are Pythonistas.
+
+[파이콘 한국은 다른 개발자 행사와 무엇이 다른가요?]
+파이콘 한국은 커뮤니티 주관으로 이뤄지는 비영리 개발자 대상 행사로, 타 기업 및 기관에서 개최하는 개발자 행사와는 성격이 다릅니다. 발표자와 튜토리얼 진행자를 포함하여, 자원봉사자와 준비위원회 담당자 등 모든 인원이 금전적 이득 없이 순수히 오픈소스 프로그래밍 언어인 파이썬의 저변 확대와 커뮤니티 활성화를 위해 진행하는 행사입니다.",https://i.ytimg.com/vi_webp/2lR9-U0LnQs/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=2lR9-U0LnQs,https://www.youtube.com/watch?v=2lR9-U0LnQs
+3,투어라이브 서비스를 파이썬으로 이사하기 - 김지훈(투어라이브) - PyCon Korea 2020,https://www.youtube.com/watch?v=AWb0YVqHtTk,AWb0YVqHtTk,PyCon Korea,@PyConKRtube,https://www.youtube.com/@PyConKRtube,20201005,1490,1231,21.0,,"yt:cc=on,파이콘 한국 2020,파이콘,Python,파이썬,PyConKR,파이콘 한국,PyCon Korea",Science & Technology,"청력에 상관없이 모두가 발표를 접할 수 있도록 파이콘 한국 2020 모든 영상에는 자막이 제공됩니다. 
+자막 보기 설정을 켜주세요(선택 : 한국어). Every video in PyCon Korea 2020 has subtitles. Please turn on the subtitle view setting.(Language: Korean) 
+SHOW MORE 을 누르시면 발표 소개 페이지와 행사 정보를 보실 수 있습니다! 
+PyCon Korea 2020 프로그램 자세히 보기 : https://pycon.kr/2020/program/talk/72
+-----
+[파이콘 한국이란]
+파이콘은 세계 각국의 파이썬 프로그래밍 언어 커뮤니티에서 주관하는 비영리 컨퍼런스입니다. 한국에서는 처음으로 열린 파이콘 한국 2014를 시작으로 파이콘 한국 준비위원회는 건강한 국내 파이썬 생태계에 지속적인 보탬이 되고자, 커뮤니티 멤버들의 자발적인 봉사로 운영되고 있습니다.
+
+[WE ARE PYTHONISTAS]
+파이콘 한국 2020의 슬로건은 ""We are Pythonistas""입니다.
+이 곳에는 '파이썬'이라는 단 하나의 공통점으로 모이는 사람들이 있습니다.
+이제 막 파이썬이 무엇인지 알게 된 사람들,
+파이썬으로 무언가를 만들고 연구하며 세상에 기여하고 있는 사람들,
+다른 이에게 파이썬을 더 널리 알리고 싶은 사람들까지.
+이렇게 다양한 사람들이 모여있는 파이콘 한국에서
+우리는 서로의 경험담에 응원을 보내고, 울고 웃으며 많은 이야기를 나눕니다.
+그렇게 파이콘 한국은 점점 깊어지고, 넓어지고, 단단해졌습니다.
+올해도 어김없이 열릴 파이콘 한국을 통해
+여러분의 세상이 한 발자국 더 넓어질 수 있기를 바랍니다.
+이곳에 모인 우리는 함께 걸어갈 수 있는 힘을 가진 파이써니스타들이니까요.
+We are Pythonistas.
+
+[파이콘 한국은 다른 개발자 행사와 무엇이 다른가요?]
+파이콘 한국은 커뮤니티 주관으로 이뤄지는 비영리 개발자 대상 행사로, 타 기업 및 기관에서 개최하는 개발자 행사와는 성격이 다릅니다. 발표자와 튜토리얼 진행자를 포함하여, 자원봉사자와 준비위원회 담당자 등 모든 인원이 금전적 이득 없이 순수히 오픈소스 프로그래밍 언어인 파이썬의 저변 확대와 커뮤니티 활성화를 위해 진행하는 행사입니다.",https://i.ytimg.com/vi_webp/AWb0YVqHtTk/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=AWb0YVqHtTk,https://www.youtube.com/watch?v=AWb0YVqHtTk
+4,왕초보 코딩교육 삽질기- 이범규(스파르타코딩클럽) - PyCon Korea 2020,https://www.youtube.com/watch?v=YEBquBub0rQ,YEBquBub0rQ,PyCon Korea,@PyConKRtube,https://www.youtube.com/@PyConKRtube,20201005,1273,1679,31.0,1.0,"yt:cc=on,파이콘 한국 2020,파이콘,Python,파이썬,PyConKR,파이콘 한국,PyCon Korea",Science & Technology,"청력에 상관없이 모두가 발표를 접할 수 있도록 파이콘 한국 2020 모든 영상에는 자막이 제공됩니다. 
+자막 보기 설정을 켜주세요(선택 : 한국어). Every video in PyCon Korea 2020 has subtitles. Please turn on the subtitle view setting.(Language: Korean) 
+PyCon Korea 2020 프로그램 자세히 보기 : https://pycon.kr/2020/program/talk/73
+-----
+[파이콘 한국이란]
+파이콘은 세계 각국의 파이썬 프로그래밍 언어 커뮤니티에서 주관하는 비영리 컨퍼런스입니다. 한국에서는 처음으로 열린 파이콘 한국 2014를 시작으로 파이콘 한국 준비위원회는 건강한 국내 파이썬 생태계에 지속적인 보탬이 되고자, 커뮤니티 멤버들의 자발적인 봉사로 운영되고 있습니다.
+
+[WE ARE PYTHONISTAS]
+파이콘 한국 2020의 슬로건은 ""We are Pythonistas""입니다.
+이 곳에는 '파이썬'이라는 단 하나의 공통점으로 모이는 사람들이 있습니다.
+이제 막 파이썬이 무엇인지 알게 된 사람들,
+파이썬으로 무언가를 만들고 연구하며 세상에 기여하고 있는 사람들,
+다른 이에게 파이썬을 더 널리 알리고 싶은 사람들까지.
+이렇게 다양한 사람들이 모여있는 파이콘 한국에서
+우리는 서로의 경험담에 응원을 보내고, 울고 웃으며 많은 이야기를 나눕니다.
+그렇게 파이콘 한국은 점점 깊어지고, 넓어지고, 단단해졌습니다.
+올해도 어김없이 열릴 파이콘 한국을 통해
+여러분의 세상이 한 발자국 더 넓어질 수 있기를 바랍니다.
+이곳에 모인 우리는 함께 걸어갈 수 있는 힘을 가진 파이써니스타들이니까요.
+We are Pythonistas.
+
+[파이콘 한국은 다른 개발자 행사와 무엇이 다른가요?]
+파이콘 한국은 커뮤니티 주관으로 이뤄지는 비영리 개발자 대상 행사로, 타 기업 및 기관에서 개최하는 개발자 행사와는 성격이 다릅니다. 발표자와 튜토리얼 진행자를 포함하여, 자원봉사자와 준비위원회 담당자 등 모든 인원이 금전적 이득 없이 순수히 오픈소스 프로그래밍 언어인 파이썬의 저변 확대와 커뮤니티 활성화를 위해 진행하는 행사입니다.",https://i.ytimg.com/vi_webp/YEBquBub0rQ/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=YEBquBub0rQ,https://www.youtube.com/watch?v=YEBquBub0rQ
+5,파이썬으로 맛보는 프로그램 분석 101 - 박지수(수호아이오) - PyCon Korea 2020,https://www.youtube.com/watch?v=BioMS1906k8,BioMS1906k8,PyCon Korea,@PyConKRtube,https://www.youtube.com/@PyConKRtube,20201005,1439,898,9.0,,"yt:cc=on,파이콘 한국 2020,파이콘,Python,파이썬,PyConKR,파이콘 한국,PyCon Korea",Science & Technology,"청력에 상관없이 모두가 발표를 접할 수 있도록 파이콘 한국 2020 모든 영상에는 자막이 제공됩니다. 
+자막 보기 설정을 켜주세요(선택 : 한국어). Every video in PyCon Korea 2020 has subtitles. Please turn on the subtitle view setting.(Language: Korean) 
+PyCon Korea 2020 프로그램 자세히 보기 : https://pycon.kr/2020/program/talk/78
+-----
+[파이콘 한국이란]
+파이콘은 세계 각국의 파이썬 프로그래밍 언어 커뮤니티에서 주관하는 비영리 컨퍼런스입니다. 한국에서는 처음으로 열린 파이콘 한국 2014를 시작으로 파이콘 한국 준비위원회는 건강한 국내 파이썬 생태계에 지속적인 보탬이 되고자, 커뮤니티 멤버들의 자발적인 봉사로 운영되고 있습니다.
+
+[WE ARE PYTHONISTAS]
+파이콘 한국 2020의 슬로건은 ""We are Pythonistas""입니다.
+이 곳에는 '파이썬'이라는 단 하나의 공통점으로 모이는 사람들이 있습니다.
+이제 막 파이썬이 무엇인지 알게 된 사람들,
+파이썬으로 무언가를 만들고 연구하며 세상에 기여하고 있는 사람들,
+다른 이에게 파이썬을 더 널리 알리고 싶은 사람들까지.
+이렇게 다양한 사람들이 모여있는 파이콘 한국에서
+우리는 서로의 경험담에 응원을 보내고, 울고 웃으며 많은 이야기를 나눕니다.
+그렇게 파이콘 한국은 점점 깊어지고, 넓어지고, 단단해졌습니다.
+올해도 어김없이 열릴 파이콘 한국을 통해
+여러분의 세상이 한 발자국 더 넓어질 수 있기를 바랍니다.
+이곳에 모인 우리는 함께 걸어갈 수 있는 힘을 가진 파이써니스타들이니까요.
+We are Pythonistas.
+
+[파이콘 한국은 다른 개발자 행사와 무엇이 다른가요?]
+파이콘 한국은 커뮤니티 주관으로 이뤄지는 비영리 개발자 대상 행사로, 타 기업 및 기관에서 개최하는 개발자 행사와는 성격이 다릅니다. 발표자와 튜토리얼 진행자를 포함하여, 자원봉사자와 준비위원회 담당자 등 모든 인원이 금전적 이득 없이 순수히 오픈소스 프로그래밍 언어인 파이썬의 저변 확대와 커뮤니티 활성화를 위해 진행하는 행사입니다.",https://i.ytimg.com/vi_webp/BioMS1906k8/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=BioMS1906k8,https://www.youtube.com/watch?v=BioMS1906k8
+6,Elastic App Search로 파이썬 애플리케이션에서 검색기능 사용하기-김종민(Elastic) -PyCon Korea 2020,https://www.youtube.com/watch?v=0rpe2hfn5Sc,0rpe2hfn5Sc,PyCon Korea,@PyConKRtube,https://www.youtube.com/@PyConKRtube,20201005,2232,3141,42.0,4.0,"yt:cc=on,파이콘 한국 2020,파이콘,Python,파이썬,PyConKR,파이콘 한국,PyCon Korea",Science & Technology,"청력에 상관없이 모두가 발표를 접할 수 있도록 파이콘 한국 2020 모든 영상에는 자막이 제공됩니다. 자막 보기 설정을 켜주세요(선택 : 한국어). Every video in PyCon Korea 2020 has subtitles. Please turn on the subtitle view setting.(Language: Korean) 
+PyCon Korea 2020 프로그램 자세히 보기 : https://pycon.kr/2020/program/talk/71
+-----
+[파이콘 한국이란]
+파이콘은 세계 각국의 파이썬 프로그래밍 언어 커뮤니티에서 주관하는 비영리 컨퍼런스입니다. 한국에서는 처음으로 열린 파이콘 한국 2014를 시작으로 파이콘 한국 준비위원회는 건강한 국내 파이썬 생태계에 지속적인 보탬이 되고자, 커뮤니티 멤버들의 자발적인 봉사로 운영되고 있습니다.
+
+[WE ARE PYTHONISTAS]
+파이콘 한국 2020의 슬로건은 ""We are Pythonistas""입니다.
+이 곳에는 '파이썬'이라는 단 하나의 공통점으로 모이는 사람들이 있습니다.
+이제 막 파이썬이 무엇인지 알게 된 사람들,
+파이썬으로 무언가를 만들고 연구하며 세상에 기여하고 있는 사람들,
+다른 이에게 파이썬을 더 널리 알리고 싶은 사람들까지.
+이렇게 다양한 사람들이 모여있는 파이콘 한국에서
+우리는 서로의 경험담에 응원을 보내고, 울고 웃으며 많은 이야기를 나눕니다.
+그렇게 파이콘 한국은 점점 깊어지고, 넓어지고, 단단해졌습니다.
+올해도 어김없이 열릴 파이콘 한국을 통해
+여러분의 세상이 한 발자국 더 넓어질 수 있기를 바랍니다.
+이곳에 모인 우리는 함께 걸어갈 수 있는 힘을 가진 파이써니스타들이니까요.
+We are Pythonistas.
+
+[파이콘 한국은 다른 개발자 행사와 무엇이 다른가요?]
+파이콘 한국은 커뮤니티 주관으로 이뤄지는 비영리 개발자 대상 행사로, 타 기업 및 기관에서 개최하는 개발자 행사와는 성격이 다릅니다. 발표자와 튜토리얼 진행자를 포함하여, 자원봉사자와 준비위원회 담당자 등 모든 인원이 금전적 이득 없이 순수히 오픈소스 프로그래밍 언어인 파이썬의 저변 확대와 커뮤니티 활성화를 위해 진행하는 행사입니다.",https://i.ytimg.com/vi_webp/0rpe2hfn5Sc/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=0rpe2hfn5Sc,https://www.youtube.com/watch?v=0rpe2hfn5Sc
+7,자연어처리 초보자의 BERT 도전기 - 김윤기(common computer) - PyCon Korea 2020,https://www.youtube.com/watch?v=6JyuhLDopb0,6JyuhLDopb0,PyCon Korea,@PyConKRtube,https://www.youtube.com/@PyConKRtube,20201005,1001,2707,86.0,9.0,"yt:cc=on,파이콘 한국 2020,파이콘,Python,파이썬,PyConKR,파이콘 한국,PyCon Korea",Science & Technology,"청력에 상관없이 모두가 발표를 접할 수 있도록 파이콘 한국 2020 모든 영상에는 자막이 제공됩니다. 
+자막 보기 설정을 켜주세요(선택 : 한국어). Every video in PyCon Korea 2020 has subtitles. Please turn on the subtitle view setting.(Language: Korean) 
+PyCon Korea 2020 프로그램 자세히 보기 : https://pycon.kr/2020/program/talk/76
+-----
+[파이콘 한국이란]
+파이콘은 세계 각국의 파이썬 프로그래밍 언어 커뮤니티에서 주관하는 비영리 컨퍼런스입니다. 한국에서는 처음으로 열린 파이콘 한국 2014를 시작으로 파이콘 한국 준비위원회는 건강한 국내 파이썬 생태계에 지속적인 보탬이 되고자, 커뮤니티 멤버들의 자발적인 봉사로 운영되고 있습니다.
+
+[WE ARE PYTHONISTAS]
+파이콘 한국 2020의 슬로건은 ""We are Pythonistas""입니다.
+이 곳에는 '파이썬'이라는 단 하나의 공통점으로 모이는 사람들이 있습니다.
+이제 막 파이썬이 무엇인지 알게 된 사람들,
+파이썬으로 무언가를 만들고 연구하며 세상에 기여하고 있는 사람들,
+다른 이에게 파이썬을 더 널리 알리고 싶은 사람들까지.
+이렇게 다양한 사람들이 모여있는 파이콘 한국에서
+우리는 서로의 경험담에 응원을 보내고, 울고 웃으며 많은 이야기를 나눕니다.
+그렇게 파이콘 한국은 점점 깊어지고, 넓어지고, 단단해졌습니다.
+올해도 어김없이 열릴 파이콘 한국을 통해
+여러분의 세상이 한 발자국 더 넓어질 수 있기를 바랍니다.
+이곳에 모인 우리는 함께 걸어갈 수 있는 힘을 가진 파이써니스타들이니까요.
+We are Pythonistas.
+
+[파이콘 한국은 다른 개발자 행사와 무엇이 다른가요?]
+파이콘 한국은 커뮤니티 주관으로 이뤄지는 비영리 개발자 대상 행사로, 타 기업 및 기관에서 개최하는 개발자 행사와는 성격이 다릅니다. 발표자와 튜토리얼 진행자를 포함하여, 자원봉사자와 준비위원회 담당자 등 모든 인원이 금전적 이득 없이 순수히 오픈소스 프로그래밍 언어인 파이썬의 저변 확대와 커뮤니티 활성화를 위해 진행하는 행사입니다.",https://i.ytimg.com/vi_webp/6JyuhLDopb0/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=6JyuhLDopb0,https://www.youtube.com/watch?v=6JyuhLDopb0
+8,Python 기반 정적 Static 웹 사이트를 DevOps와 클라우드로 빌드하기-Microsoft - PyCon Korea 2020,https://www.youtube.com/watch?v=PwEFsRIm3x4,PwEFsRIm3x4,PyCon Korea,@PyConKRtube,https://www.youtube.com/@PyConKRtube,20201005,2153,594,12.0,1.0,"yt:cc=on,파이콘 한국 2020,파이콘,Python,파이썬,PyConKR,파이콘 한국,PyCon Korea",Science & Technology,"청력에 상관없이 모두가 발표를 접할 수 있도록 파이콘 한국 2020 모든 영상에는 자막이 제공됩니다. 자막 보기 설정을 켜주세요(선택 : 한국어). Every video in PyCon Korea 2020 has subtitles. Please turn on the subtitle view setting.(Language: Korean) 
+PyCon Korea 2020 프로그램 자세히 보기 : https://pycon.kr/2020/program/talk/71
+-----
+[파이콘 한국이란]
+파이콘은 세계 각국의 파이썬 프로그래밍 언어 커뮤니티에서 주관하는 비영리 컨퍼런스입니다. 한국에서는 처음으로 열린 파이콘 한국 2014를 시작으로 파이콘 한국 준비위원회는 건강한 국내 파이썬 생태계에 지속적인 보탬이 되고자, 커뮤니티 멤버들의 자발적인 봉사로 운영되고 있습니다.
+
+[WE ARE PYTHONISTAS]
+파이콘 한국 2020의 슬로건은 ""We are Pythonistas""입니다.
+이 곳에는 '파이썬'이라는 단 하나의 공통점으로 모이는 사람들이 있습니다.
+이제 막 파이썬이 무엇인지 알게 된 사람들,
+파이썬으로 무언가를 만들고 연구하며 세상에 기여하고 있는 사람들,
+다른 이에게 파이썬을 더 널리 알리고 싶은 사람들까지.
+이렇게 다양한 사람들이 모여있는 파이콘 한국에서
+우리는 서로의 경험담에 응원을 보내고, 울고 웃으며 많은 이야기를 나눕니다.
+그렇게 파이콘 한국은 점점 깊어지고, 넓어지고, 단단해졌습니다.
+올해도 어김없이 열릴 파이콘 한국을 통해
+여러분의 세상이 한 발자국 더 넓어질 수 있기를 바랍니다.
+이곳에 모인 우리는 함께 걸어갈 수 있는 힘을 가진 파이써니스타들이니까요.
+We are Pythonistas.
+
+[파이콘 한국은 다른 개발자 행사와 무엇이 다른가요?]
+파이콘 한국은 커뮤니티 주관으로 이뤄지는 비영리 개발자 대상 행사로, 타 기업 및 기관에서 개최하는 개발자 행사와는 성격이 다릅니다. 발표자와 튜토리얼 진행자를 포함하여, 자원봉사자와 준비위원회 담당자 등 모든 인원이 금전적 이득 없이 순수히 오픈소스 프로그래밍 언어인 파이썬의 저변 확대와 커뮤니티 활성화를 위해 진행하는 행사입니다.",https://i.ytimg.com/vi_webp/PwEFsRIm3x4/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=PwEFsRIm3x4,https://www.youtube.com/watch?v=PwEFsRIm3x4
+9,이 선 넘으면 침범이야  BEEP! - 문지형 - PyCon Korea 2020,https://www.youtube.com/watch?v=P0fyKb3U9yo,P0fyKb3U9yo,PyCon Korea,@PyConKRtube,https://www.youtube.com/@PyConKRtube,20201112,1563,2573,68.0,7.0,"yt:cc=on,파이콘 한국 2020,파이콘,Python,파이썬,PyConKR,파이콘 한국,PyCon Korea",Science & Technology,"청력에 상관없이 모두가 발표를 접할 수 있도록 파이콘 한국 2020 모든 영상에는 자막이 제공됩니다. 
+자막 보기 설정을 켜주세요(선택 : 한국어). Every video in PyCon Korea 2020 has subtitles. Please turn on the subtitle view setting.(Language: Korean) 
+SHOW MORE 을 누르시면 발표 소개 페이지와 행사 정보를 보실 수 있습니다! 
+PyCon Korea 2020 프로그램 자세히 보기 : https://pycon.kr/2020/program/talk/62
+-----
+[파이콘 한국이란]
+파이콘은 세계 각국의 파이썬 프로그래밍 언어 커뮤니티에서 주관하는 비영리 컨퍼런스입니다. 한국에서는 처음으로 열린 파이콘 한국 2014를 시작으로 파이콘 한국 준비위원회는 건강한 국내 파이썬 생태계에 지속적인 보탬이 되고자, 커뮤니티 멤버들의 자발적인 봉사로 운영되고 있습니다.
+
+[WE ARE PYTHONISTAS]
+파이콘 한국 2020의 슬로건은 ""We are Pythonistas""입니다.
+이 곳에는 '파이썬'이라는 단 하나의 공통점으로 모이는 사람들이 있습니다.
+이제 막 파이썬이 무엇인지 알게 된 사람들,
+파이썬으로 무언가를 만들고 연구하며 세상에 기여하고 있는 사람들,
+다른 이에게 파이썬을 더 널리 알리고 싶은 사람들까지.
+이렇게 다양한 사람들이 모여있는 파이콘 한국에서
+우리는 서로의 경험담에 응원을 보내고, 울고 웃으며 많은 이야기를 나눕니다.
+그렇게 파이콘 한국은 점점 깊어지고, 넓어지고, 단단해졌습니다.
+올해도 어김없이 열릴 파이콘 한국을 통해
+여러분의 세상이 한 발자국 더 넓어질 수 있기를 바랍니다.
+이곳에 모인 우리는 함께 걸어갈 수 있는 힘을 가진 파이써니스타들이니까요.
+We are Pythonistas.
+
+[파이콘 한국은 다른 개발자 행사와 무엇이 다른가요?]
+파이콘 한국은 커뮤니티 주관으로 이뤄지는 비영리 개발자 대상 행사로, 타 기업 및 기관에서 개최하는 개발자 행사와는 성격이 다릅니다. 발표자와 튜토리얼 진행자를 포함하여, 자원봉사자와 준비위원회 담당자 등 모든 인원이 금전적 이득 없이 순수히 오픈소스 프로그래밍 언어인 파이썬의 저변 확대와 커뮤니티 활성화를 위해 진행하는 행사입니다.",https://i.ytimg.com/vi_webp/P0fyKb3U9yo/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=P0fyKb3U9yo,https://www.youtube.com/watch?v=P0fyKb3U9yo
+10,파이썬으로 법률 역사 연구하기 - 김재윤 - PyCon Korea 2020,https://www.youtube.com/watch?v=-teop71JmbQ,-teop71JmbQ,PyCon Korea,@PyConKRtube,https://www.youtube.com/@PyConKRtube,20201112,2564,1520,27.0,4.0,"yt:cc=on,파이콘 한국 2020,파이콘,Python,파이썬,PyConKR,파이콘 한국,PyCon Korea",Science & Technology,"청력에 상관없이 모두가 발표를 접할 수 있도록 파이콘 한국 2020 모든 영상에는 자막이 제공됩니다. 
+자막 보기 설정을 켜주세요(선택 : 한국어). Every video in PyCon Korea 2020 has subtitles. Please turn on the subtitle view setting.(Language: Korean) 
+SHOW MORE 을 누르시면 발표 소개 페이지와 행사 정보를 보실 수 있습니다! 
+PyCon Korea 2020 프로그램 자세히 보기 : https://pycon.kr/2020/program/talk/7
+-----
+[파이콘 한국이란]
+파이콘은 세계 각국의 파이썬 프로그래밍 언어 커뮤니티에서 주관하는 비영리 컨퍼런스입니다. 한국에서는 처음으로 열린 파이콘 한국 2014를 시작으로 파이콘 한국 준비위원회는 건강한 국내 파이썬 생태계에 지속적인 보탬이 되고자, 커뮤니티 멤버들의 자발적인 봉사로 운영되고 있습니다.
+
+[WE ARE PYTHONISTAS]
+파이콘 한국 2020의 슬로건은 ""We are Pythonistas""입니다.
+이 곳에는 '파이썬'이라는 단 하나의 공통점으로 모이는 사람들이 있습니다.
+이제 막 파이썬이 무엇인지 알게 된 사람들,
+파이썬으로 무언가를 만들고 연구하며 세상에 기여하고 있는 사람들,
+다른 이에게 파이썬을 더 널리 알리고 싶은 사람들까지.
+이렇게 다양한 사람들이 모여있는 파이콘 한국에서
+우리는 서로의 경험담에 응원을 보내고, 울고 웃으며 많은 이야기를 나눕니다.
+그렇게 파이콘 한국은 점점 깊어지고, 넓어지고, 단단해졌습니다.
+올해도 어김없이 열릴 파이콘 한국을 통해
+여러분의 세상이 한 발자국 더 넓어질 수 있기를 바랍니다.
+이곳에 모인 우리는 함께 걸어갈 수 있는 힘을 가진 파이써니스타들이니까요.
+We are Pythonistas.
+
+[파이콘 한국은 다른 개발자 행사와 무엇이 다른가요?]
+파이콘 한국은 커뮤니티 주관으로 이뤄지는 비영리 개발자 대상 행사로, 타 기업 및 기관에서 개최하는 개발자 행사와는 성격이 다릅니다. 발표자와 튜토리얼 진행자를 포함하여, 자원봉사자와 준비위원회 담당자 등 모든 인원이 금전적 이득 없이 순수히 오픈소스 프로그래밍 언어인 파이썬의 저변 확대와 커뮤니티 활성화를 위해 진행하는 행사입니다.",https://i.ytimg.com/vi_webp/-teop71JmbQ/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=-teop71JmbQ,https://www.youtube.com/watch?v=-teop71JmbQ
+11,TDD와 Flipped Classroom을 활용한 파이썬 교육 - 설진석 - PyCon Korea 2020,https://www.youtube.com/watch?v=P9QDCcpFtSM,P9QDCcpFtSM,PyCon Korea,@PyConKRtube,https://www.youtube.com/@PyConKRtube,20201112,1177,832,21.0,2.0,"yt:cc=on,파이콘 한국 2020,파이콘,Python,파이썬,PyConKR,파이콘 한국,PyCon Korea",Science & Technology,"청력에 상관없이 모두가 발표를 접할 수 있도록 파이콘 한국 2020 모든 영상에는 자막이 제공됩니다. 
+자막 보기 설정을 켜주세요(선택 : 한국어). Every video in PyCon Korea 2020 has subtitles. Please turn on the subtitle view setting.(Language: Korean) 
+SHOW MORE 을 누르시면 발표 소개 페이지와 행사 정보를 보실 수 있습니다! 
+PyCon Korea 2020 프로그램 자세히 보기 : https://pycon.kr/2020/program/talk/47
+-----
+[파이콘 한국이란]
+파이콘은 세계 각국의 파이썬 프로그래밍 언어 커뮤니티에서 주관하는 비영리 컨퍼런스입니다. 한국에서는 처음으로 열린 파이콘 한국 2014를 시작으로 파이콘 한국 준비위원회는 건강한 국내 파이썬 생태계에 지속적인 보탬이 되고자, 커뮤니티 멤버들의 자발적인 봉사로 운영되고 있습니다.
+
+[WE ARE PYTHONISTAS]
+파이콘 한국 2020의 슬로건은 ""We are Pythonistas""입니다.
+이 곳에는 '파이썬'이라는 단 하나의 공통점으로 모이는 사람들이 있습니다.
+이제 막 파이썬이 무엇인지 알게 된 사람들,
+파이썬으로 무언가를 만들고 연구하며 세상에 기여하고 있는 사람들,
+다른 이에게 파이썬을 더 널리 알리고 싶은 사람들까지.
+이렇게 다양한 사람들이 모여있는 파이콘 한국에서
+우리는 서로의 경험담에 응원을 보내고, 울고 웃으며 많은 이야기를 나눕니다.
+그렇게 파이콘 한국은 점점 깊어지고, 넓어지고, 단단해졌습니다.
+올해도 어김없이 열릴 파이콘 한국을 통해
+여러분의 세상이 한 발자국 더 넓어질 수 있기를 바랍니다.
+이곳에 모인 우리는 함께 걸어갈 수 있는 힘을 가진 파이써니스타들이니까요.
+We are Pythonistas.
+
+[파이콘 한국은 다른 개발자 행사와 무엇이 다른가요?]
+파이콘 한국은 커뮤니티 주관으로 이뤄지는 비영리 개발자 대상 행사로, 타 기업 및 기관에서 개최하는 개발자 행사와는 성격이 다릅니다. 발표자와 튜토리얼 진행자를 포함하여, 자원봉사자와 준비위원회 담당자 등 모든 인원이 금전적 이득 없이 순수히 오픈소스 프로그래밍 언어인 파이썬의 저변 확대와 커뮤니티 활성화를 위해 진행하는 행사입니다.",https://i.ytimg.com/vi_webp/P9QDCcpFtSM/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=P9QDCcpFtSM,https://www.youtube.com/watch?v=P9QDCcpFtSM
+12,Publishing Well Formed Python Packages - Julin Shaji - PyCon Korea 2020,https://www.youtube.com/watch?v=XFGXCK6HZbk,XFGXCK6HZbk,PyCon Korea,@PyConKRtube,https://www.youtube.com/@PyConKRtube,20201112,1197,298,0.0,,"yt:cc=on,파이콘 한국 2020,파이콘,Python,파이썬,PyConKR,파이콘 한국,PyCon Korea",Science & Technology,"청력에 상관없이 모두가 발표를 접할 수 있도록 파이콘 한국 2020 모든 영상에는 자막이 제공됩니다. 
+자막 보기 설정을 켜주세요(선택 : 한국어). Every video in PyCon Korea 2020 has subtitles. Please turn on the subtitle view setting.(Language: Korean) 
+SHOW MORE 을 누르시면 발표 소개 페이지와 행사 정보를 보실 수 있습니다! 
+PyCon Korea 2020 프로그램 자세히 보기 : https://pycon.kr/2020/program/talk/60
+-----
+[파이콘 한국이란]
+파이콘은 세계 각국의 파이썬 프로그래밍 언어 커뮤니티에서 주관하는 비영리 컨퍼런스입니다. 한국에서는 처음으로 열린 파이콘 한국 2014를 시작으로 파이콘 한국 준비위원회는 건강한 국내 파이썬 생태계에 지속적인 보탬이 되고자, 커뮤니티 멤버들의 자발적인 봉사로 운영되고 있습니다.
+
+[WE ARE PYTHONISTAS]
+파이콘 한국 2020의 슬로건은 ""We are Pythonistas""입니다.
+이 곳에는 '파이썬'이라는 단 하나의 공통점으로 모이는 사람들이 있습니다.
+이제 막 파이썬이 무엇인지 알게 된 사람들,
+파이썬으로 무언가를 만들고 연구하며 세상에 기여하고 있는 사람들,
+다른 이에게 파이썬을 더 널리 알리고 싶은 사람들까지.
+이렇게 다양한 사람들이 모여있는 파이콘 한국에서
+우리는 서로의 경험담에 응원을 보내고, 울고 웃으며 많은 이야기를 나눕니다.
+그렇게 파이콘 한국은 점점 깊어지고, 넓어지고, 단단해졌습니다.
+올해도 어김없이 열릴 파이콘 한국을 통해
+여러분의 세상이 한 발자국 더 넓어질 수 있기를 바랍니다.
+이곳에 모인 우리는 함께 걸어갈 수 있는 힘을 가진 파이써니스타들이니까요.
+We are Pythonistas.
+
+[파이콘 한국은 다른 개발자 행사와 무엇이 다른가요?]
+파이콘 한국은 커뮤니티 주관으로 이뤄지는 비영리 개발자 대상 행사로, 타 기업 및 기관에서 개최하는 개발자 행사와는 성격이 다릅니다. 발표자와 튜토리얼 진행자를 포함하여, 자원봉사자와 준비위원회 담당자 등 모든 인원이 금전적 이득 없이 순수히 오픈소스 프로그래밍 언어인 파이썬의 저변 확대와 커뮤니티 활성화를 위해 진행하는 행사입니다.",https://i.ytimg.com/vi_webp/XFGXCK6HZbk/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=XFGXCK6HZbk,https://www.youtube.com/watch?v=XFGXCK6HZbk
+13,Automated Newsletter Service for Your Valuable Community - Chansung Park - PyCon Korea 2020,https://www.youtube.com/watch?v=3HtXWmqu_-A,3HtXWmqu_-A,PyCon Korea,@PyConKRtube,https://www.youtube.com/@PyConKRtube,20201112,2332,568,10.0,,"yt:cc=on,파이콘 한국 2020,파이콘,Python,파이썬,PyConKR,파이콘 한국,PyCon Korea",Science & Technology,"청력에 상관없이 모두가 발표를 접할 수 있도록 파이콘 한국 2020 모든 영상에는 자막이 제공됩니다. 
+자막 보기 설정을 켜주세요(선택 : 한국어). Every video in PyCon Korea 2020 has subtitles. Please turn on the subtitle view setting.(Language: Korean) 
+SHOW MORE 을 누르시면 발표 소개 페이지와 행사 정보를 보실 수 있습니다! 
+PyCon Korea 2020 프로그램 자세히 보기 : https://pycon.kr/2020/program/talk/67
+-----
+[파이콘 한국이란]
+파이콘은 세계 각국의 파이썬 프로그래밍 언어 커뮤니티에서 주관하는 비영리 컨퍼런스입니다. 한국에서는 처음으로 열린 파이콘 한국 2014를 시작으로 파이콘 한국 준비위원회는 건강한 국내 파이썬 생태계에 지속적인 보탬이 되고자, 커뮤니티 멤버들의 자발적인 봉사로 운영되고 있습니다.
+
+[WE ARE PYTHONISTAS]
+파이콘 한국 2020의 슬로건은 ""We are Pythonistas""입니다.
+이 곳에는 '파이썬'이라는 단 하나의 공통점으로 모이는 사람들이 있습니다.
+이제 막 파이썬이 무엇인지 알게 된 사람들,
+파이썬으로 무언가를 만들고 연구하며 세상에 기여하고 있는 사람들,
+다른 이에게 파이썬을 더 널리 알리고 싶은 사람들까지.
+이렇게 다양한 사람들이 모여있는 파이콘 한국에서
+우리는 서로의 경험담에 응원을 보내고, 울고 웃으며 많은 이야기를 나눕니다.
+그렇게 파이콘 한국은 점점 깊어지고, 넓어지고, 단단해졌습니다.
+올해도 어김없이 열릴 파이콘 한국을 통해
+여러분의 세상이 한 발자국 더 넓어질 수 있기를 바랍니다.
+이곳에 모인 우리는 함께 걸어갈 수 있는 힘을 가진 파이써니스타들이니까요.
+We are Pythonistas.
+
+[파이콘 한국은 다른 개발자 행사와 무엇이 다른가요?]
+파이콘 한국은 커뮤니티 주관으로 이뤄지는 비영리 개발자 대상 행사로, 타 기업 및 기관에서 개최하는 개발자 행사와는 성격이 다릅니다. 발표자와 튜토리얼 진행자를 포함하여, 자원봉사자와 준비위원회 담당자 등 모든 인원이 금전적 이득 없이 순수히 오픈소스 프로그래밍 언어인 파이썬의 저변 확대와 커뮤니티 활성화를 위해 진행하는 행사입니다.",https://i.ytimg.com/vi_webp/3HtXWmqu_-A/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=3HtXWmqu_-A,https://www.youtube.com/watch?v=3HtXWmqu_-A
+14,주식투자를 위한 비정형투자데이터활용 - JayHan - PyCon Korea 2020,https://www.youtube.com/watch?v=c0J5uK5cglI,c0J5uK5cglI,PyCon Korea,@PyConKRtube,https://www.youtube.com/@PyConKRtube,20201112,2713,2532,90.0,4.0,"yt:cc=on,파이콘 한국 2020,파이콘,Python,파이썬,PyConKR,파이콘 한국,PyCon Korea",Science & Technology,"청력에 상관없이 모두가 발표를 접할 수 있도록 파이콘 한국 2020 모든 영상에는 자막이 제공됩니다. 
+자막 보기 설정을 켜주세요(선택 : 한국어). Every video in PyCon Korea 2020 has subtitles. Please turn on the subtitle view setting.(Language: Korean) 
+SHOW MORE 을 누르시면 발표 소개 페이지와 행사 정보를 보실 수 있습니다! 
+PyCon Korea 2020 프로그램 자세히 보기 : https://pycon.kr/2020/program/talk/17
+-----
+[파이콘 한국이란]
+파이콘은 세계 각국의 파이썬 프로그래밍 언어 커뮤니티에서 주관하는 비영리 컨퍼런스입니다. 한국에서는 처음으로 열린 파이콘 한국 2014를 시작으로 파이콘 한국 준비위원회는 건강한 국내 파이썬 생태계에 지속적인 보탬이 되고자, 커뮤니티 멤버들의 자발적인 봉사로 운영되고 있습니다.
+
+[WE ARE PYTHONISTAS]
+파이콘 한국 2020의 슬로건은 ""We are Pythonistas""입니다.
+이 곳에는 '파이썬'이라는 단 하나의 공통점으로 모이는 사람들이 있습니다.
+이제 막 파이썬이 무엇인지 알게 된 사람들,
+파이썬으로 무언가를 만들고 연구하며 세상에 기여하고 있는 사람들,
+다른 이에게 파이썬을 더 널리 알리고 싶은 사람들까지.
+이렇게 다양한 사람들이 모여있는 파이콘 한국에서
+우리는 서로의 경험담에 응원을 보내고, 울고 웃으며 많은 이야기를 나눕니다.
+그렇게 파이콘 한국은 점점 깊어지고, 넓어지고, 단단해졌습니다.
+올해도 어김없이 열릴 파이콘 한국을 통해
+여러분의 세상이 한 발자국 더 넓어질 수 있기를 바랍니다.
+이곳에 모인 우리는 함께 걸어갈 수 있는 힘을 가진 파이써니스타들이니까요.
+We are Pythonistas.
+
+[파이콘 한국은 다른 개발자 행사와 무엇이 다른가요?]
+파이콘 한국은 커뮤니티 주관으로 이뤄지는 비영리 개발자 대상 행사로, 타 기업 및 기관에서 개최하는 개발자 행사와는 성격이 다릅니다. 발표자와 튜토리얼 진행자를 포함하여, 자원봉사자와 준비위원회 담당자 등 모든 인원이 금전적 이득 없이 순수히 오픈소스 프로그래밍 언어인 파이썬의 저변 확대와 커뮤니티 활성화를 위해 진행하는 행사입니다.",https://i.ytimg.com/vi_webp/c0J5uK5cglI/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=c0J5uK5cglI,https://www.youtube.com/watch?v=c0J5uK5cglI
+15,pandas 코드로 대규모 클러스터에서 더 빠르게 빅데이터를 분석 해보자 - Koalas - 박현우 - PyCon Korea 2020,https://www.youtube.com/watch?v=Y9kdUq_qIa8,Y9kdUq_qIa8,PyCon Korea,@PyConKRtube,https://www.youtube.com/@PyConKRtube,20201112,1097,1529,44.0,6.0,"yt:cc=on,파이콘 한국 2020,파이콘,Python,파이썬,PyConKR,파이콘 한국,PyCon Korea",Science & Technology,"청력에 상관없이 모두가 발표를 접할 수 있도록 파이콘 한국 2020 모든 영상에는 자막이 제공됩니다. 
+자막 보기 설정을 켜주세요(선택 : 한국어). Every video in PyCon Korea 2020 has subtitles. Please turn on the subtitle view setting.(Language: Korean) 
+SHOW MORE 을 누르시면 발표 소개 페이지와 행사 정보를 보실 수 있습니다! 
+PyCon Korea 2020 프로그램 자세히 보기 : https://pycon.kr/2020/program/talk/23
+-----
+[파이콘 한국이란]
+파이콘은 세계 각국의 파이썬 프로그래밍 언어 커뮤니티에서 주관하는 비영리 컨퍼런스입니다. 한국에서는 처음으로 열린 파이콘 한국 2014를 시작으로 파이콘 한국 준비위원회는 건강한 국내 파이썬 생태계에 지속적인 보탬이 되고자, 커뮤니티 멤버들의 자발적인 봉사로 운영되고 있습니다.
+
+[WE ARE PYTHONISTAS]
+파이콘 한국 2020의 슬로건은 ""We are Pythonistas""입니다.
+이 곳에는 '파이썬'이라는 단 하나의 공통점으로 모이는 사람들이 있습니다.
+이제 막 파이썬이 무엇인지 알게 된 사람들,
+파이썬으로 무언가를 만들고 연구하며 세상에 기여하고 있는 사람들,
+다른 이에게 파이썬을 더 널리 알리고 싶은 사람들까지.
+이렇게 다양한 사람들이 모여있는 파이콘 한국에서
+우리는 서로의 경험담에 응원을 보내고, 울고 웃으며 많은 이야기를 나눕니다.
+그렇게 파이콘 한국은 점점 깊어지고, 넓어지고, 단단해졌습니다.
+올해도 어김없이 열릴 파이콘 한국을 통해
+여러분의 세상이 한 발자국 더 넓어질 수 있기를 바랍니다.
+이곳에 모인 우리는 함께 걸어갈 수 있는 힘을 가진 파이써니스타들이니까요.
+We are Pythonistas.
+
+[파이콘 한국은 다른 개발자 행사와 무엇이 다른가요?]
+파이콘 한국은 커뮤니티 주관으로 이뤄지는 비영리 개발자 대상 행사로, 타 기업 및 기관에서 개최하는 개발자 행사와는 성격이 다릅니다. 발표자와 튜토리얼 진행자를 포함하여, 자원봉사자와 준비위원회 담당자 등 모든 인원이 금전적 이득 없이 순수히 오픈소스 프로그래밍 언어인 파이썬의 저변 확대와 커뮤니티 활성화를 위해 진행하는 행사입니다.",https://i.ytimg.com/vi_webp/Y9kdUq_qIa8/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=Y9kdUq_qIa8,https://www.youtube.com/watch?v=Y9kdUq_qIa8
+16,직렬화 포맷 개량과 라이브러리 구현 - 이도건 - PyCon Korea 2020,https://www.youtube.com/watch?v=Z4nx-cONpAc,Z4nx-cONpAc,PyCon Korea,@PyConKRtube,https://www.youtube.com/@PyConKRtube,20201112,1164,267,3.0,,"yt:cc=on,파이콘 한국 2020,파이콘,Python,파이썬,PyConKR,파이콘 한국,PyCon Korea",Science & Technology,"청력에 상관없이 모두가 발표를 접할 수 있도록 파이콘 한국 2020 모든 영상에는 자막이 제공됩니다. 
+자막 보기 설정을 켜주세요(선택 : 한국어). Every video in PyCon Korea 2020 has subtitles. Please turn on the subtitle view setting.(Language: Korean) 
+SHOW MORE 을 누르시면 발표 소개 페이지와 행사 정보를 보실 수 있습니다! 
+PyCon Korea 2020 프로그램 자세히 보기 : https://pycon.kr/2020/program/talk/12
+-----
+[파이콘 한국이란]
+파이콘은 세계 각국의 파이썬 프로그래밍 언어 커뮤니티에서 주관하는 비영리 컨퍼런스입니다. 한국에서는 처음으로 열린 파이콘 한국 2014를 시작으로 파이콘 한국 준비위원회는 건강한 국내 파이썬 생태계에 지속적인 보탬이 되고자, 커뮤니티 멤버들의 자발적인 봉사로 운영되고 있습니다.
+
+[WE ARE PYTHONISTAS]
+파이콘 한국 2020의 슬로건은 ""We are Pythonistas""입니다.
+이 곳에는 '파이썬'이라는 단 하나의 공통점으로 모이는 사람들이 있습니다.
+이제 막 파이썬이 무엇인지 알게 된 사람들,
+파이썬으로 무언가를 만들고 연구하며 세상에 기여하고 있는 사람들,
+다른 이에게 파이썬을 더 널리 알리고 싶은 사람들까지.
+이렇게 다양한 사람들이 모여있는 파이콘 한국에서
+우리는 서로의 경험담에 응원을 보내고, 울고 웃으며 많은 이야기를 나눕니다.
+그렇게 파이콘 한국은 점점 깊어지고, 넓어지고, 단단해졌습니다.
+올해도 어김없이 열릴 파이콘 한국을 통해
+여러분의 세상이 한 발자국 더 넓어질 수 있기를 바랍니다.
+이곳에 모인 우리는 함께 걸어갈 수 있는 힘을 가진 파이써니스타들이니까요.
+We are Pythonistas.
+
+[파이콘 한국은 다른 개발자 행사와 무엇이 다른가요?]
+파이콘 한국은 커뮤니티 주관으로 이뤄지는 비영리 개발자 대상 행사로, 타 기업 및 기관에서 개최하는 개발자 행사와는 성격이 다릅니다. 발표자와 튜토리얼 진행자를 포함하여, 자원봉사자와 준비위원회 담당자 등 모든 인원이 금전적 이득 없이 순수히 오픈소스 프로그래밍 언어인 파이썬의 저변 확대와 커뮤니티 활성화를 위해 진행하는 행사입니다.",https://i.ytimg.com/vi_webp/Z4nx-cONpAc/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=Z4nx-cONpAc,https://www.youtube.com/watch?v=Z4nx-cONpAc
+17,파이썬대패키지시대 텍스트파일 하나만 믿어도 정말 괜찮은걸까 - 강민철 - PyCon Korea 2020,https://www.youtube.com/watch?v=y2kqs4d-Wf0,y2kqs4d-Wf0,PyCon Korea,@PyConKRtube,https://www.youtube.com/@PyConKRtube,20201112,2096,1164,25.0,3.0,"yt:cc=on,파이콘 한국 2020,파이콘,Python,파이썬,PyConKR,파이콘 한국,PyCon Korea",Science & Technology,"청력에 상관없이 모두가 발표를 접할 수 있도록 파이콘 한국 2020 모든 영상에는 자막이 제공됩니다. 
+자막 보기 설정을 켜주세요(선택 : 한국어). Every video in PyCon Korea 2020 has subtitles. Please turn on the subtitle view setting.(Language: Korean) 
+SHOW MORE 을 누르시면 발표 소개 페이지와 행사 정보를 보실 수 있습니다! 
+PyCon Korea 2020 프로그램 자세히 보기 : https://pycon.kr/2020/program/talk/4
+-----
+[파이콘 한국이란]
+파이콘은 세계 각국의 파이썬 프로그래밍 언어 커뮤니티에서 주관하는 비영리 컨퍼런스입니다. 한국에서는 처음으로 열린 파이콘 한국 2014를 시작으로 파이콘 한국 준비위원회는 건강한 국내 파이썬 생태계에 지속적인 보탬이 되고자, 커뮤니티 멤버들의 자발적인 봉사로 운영되고 있습니다.
+
+[WE ARE PYTHONISTAS]
+파이콘 한국 2020의 슬로건은 ""We are Pythonistas""입니다.
+이 곳에는 '파이썬'이라는 단 하나의 공통점으로 모이는 사람들이 있습니다.
+이제 막 파이썬이 무엇인지 알게 된 사람들,
+파이썬으로 무언가를 만들고 연구하며 세상에 기여하고 있는 사람들,
+다른 이에게 파이썬을 더 널리 알리고 싶은 사람들까지.
+이렇게 다양한 사람들이 모여있는 파이콘 한국에서
+우리는 서로의 경험담에 응원을 보내고, 울고 웃으며 많은 이야기를 나눕니다.
+그렇게 파이콘 한국은 점점 깊어지고, 넓어지고, 단단해졌습니다.
+올해도 어김없이 열릴 파이콘 한국을 통해
+여러분의 세상이 한 발자국 더 넓어질 수 있기를 바랍니다.
+이곳에 모인 우리는 함께 걸어갈 수 있는 힘을 가진 파이써니스타들이니까요.
+We are Pythonistas.
+
+[파이콘 한국은 다른 개발자 행사와 무엇이 다른가요?]
+파이콘 한국은 커뮤니티 주관으로 이뤄지는 비영리 개발자 대상 행사로, 타 기업 및 기관에서 개최하는 개발자 행사와는 성격이 다릅니다. 발표자와 튜토리얼 진행자를 포함하여, 자원봉사자와 준비위원회 담당자 등 모든 인원이 금전적 이득 없이 순수히 오픈소스 프로그래밍 언어인 파이썬의 저변 확대와 커뮤니티 활성화를 위해 진행하는 행사입니다.",https://i.ytimg.com/vi_webp/y2kqs4d-Wf0/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=y2kqs4d-Wf0,https://www.youtube.com/watch?v=y2kqs4d-Wf0
+18,"Honey, Python inside Android is under control - James Ing Wei Tang - PyCon Korea 2020",https://www.youtube.com/watch?v=WAg21xbYJCo,WAg21xbYJCo,PyCon Korea,@PyConKRtube,https://www.youtube.com/@PyConKRtube,20201112,1552,120,2.0,,"yt:cc=on,파이콘 한국 2020,파이콘,Python,파이썬,PyConKR,파이콘 한국,PyCon Korea",Science & Technology,"청력에 상관없이 모두가 발표를 접할 수 있도록 파이콘 한국 2020 모든 영상에는 자막이 제공됩니다. 
+자막 보기 설정을 켜주세요(선택 : 한국어). Every video in PyCon Korea 2020 has subtitles. Please turn on the subtitle view setting.(Language: Korean) 
+SHOW MORE 을 누르시면 발표 소개 페이지와 행사 정보를 보실 수 있습니다! 
+PyCon Korea 2020 프로그램 자세히 보기 : https://pycon.kr/2020/program/talk/39
+-----
+[파이콘 한국이란]
+파이콘은 세계 각국의 파이썬 프로그래밍 언어 커뮤니티에서 주관하는 비영리 컨퍼런스입니다. 한국에서는 처음으로 열린 파이콘 한국 2014를 시작으로 파이콘 한국 준비위원회는 건강한 국내 파이썬 생태계에 지속적인 보탬이 되고자, 커뮤니티 멤버들의 자발적인 봉사로 운영되고 있습니다.
+
+[WE ARE PYTHONISTAS]
+파이콘 한국 2020의 슬로건은 ""We are Pythonistas""입니다.
+이 곳에는 '파이썬'이라는 단 하나의 공통점으로 모이는 사람들이 있습니다.
+이제 막 파이썬이 무엇인지 알게 된 사람들,
+파이썬으로 무언가를 만들고 연구하며 세상에 기여하고 있는 사람들,
+다른 이에게 파이썬을 더 널리 알리고 싶은 사람들까지.
+이렇게 다양한 사람들이 모여있는 파이콘 한국에서
+우리는 서로의 경험담에 응원을 보내고, 울고 웃으며 많은 이야기를 나눕니다.
+그렇게 파이콘 한국은 점점 깊어지고, 넓어지고, 단단해졌습니다.
+올해도 어김없이 열릴 파이콘 한국을 통해
+여러분의 세상이 한 발자국 더 넓어질 수 있기를 바랍니다.
+이곳에 모인 우리는 함께 걸어갈 수 있는 힘을 가진 파이써니스타들이니까요.
+We are Pythonistas.
+
+[파이콘 한국은 다른 개발자 행사와 무엇이 다른가요?]
+파이콘 한국은 커뮤니티 주관으로 이뤄지는 비영리 개발자 대상 행사로, 타 기업 및 기관에서 개최하는 개발자 행사와는 성격이 다릅니다. 발표자와 튜토리얼 진행자를 포함하여, 자원봉사자와 준비위원회 담당자 등 모든 인원이 금전적 이득 없이 순수히 오픈소스 프로그래밍 언어인 파이썬의 저변 확대와 커뮤니티 활성화를 위해 진행하는 행사입니다.",https://i.ytimg.com/vi_webp/WAg21xbYJCo/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=WAg21xbYJCo,https://www.youtube.com/watch?v=WAg21xbYJCo
+19,gRPC 프레임워크를 만들며 알아보는 파이썬 - 신재현 - PyCon Korea 2020,https://www.youtube.com/watch?v=UbdCFocZ7GM,UbdCFocZ7GM,PyCon Korea,@PyConKRtube,https://www.youtube.com/@PyConKRtube,20201112,1687,2107,56.0,1.0,"yt:cc=on,파이콘 한국 2020,파이콘,Python,파이썬,PyConKR,파이콘 한국,PyCon Korea",Science & Technology,"청력에 상관없이 모두가 발표를 접할 수 있도록 파이콘 한국 2020 모든 영상에는 자막이 제공됩니다. 
+자막 보기 설정을 켜주세요(선택 : 한국어). Every video in PyCon Korea 2020 has subtitles. Please turn on the subtitle view setting.(Language: Korean) 
+SHOW MORE 을 누르시면 발표 소개 페이지와 행사 정보를 보실 수 있습니다! 
+PyCon Korea 2020 프로그램 자세히 보기 : https://pycon.kr/2020/program/talk/19
+-----
+[파이콘 한국이란]
+파이콘은 세계 각국의 파이썬 프로그래밍 언어 커뮤니티에서 주관하는 비영리 컨퍼런스입니다. 한국에서는 처음으로 열린 파이콘 한국 2014를 시작으로 파이콘 한국 준비위원회는 건강한 국내 파이썬 생태계에 지속적인 보탬이 되고자, 커뮤니티 멤버들의 자발적인 봉사로 운영되고 있습니다.
+
+[WE ARE PYTHONISTAS]
+파이콘 한국 2020의 슬로건은 ""We are Pythonistas""입니다.
+이 곳에는 '파이썬'이라는 단 하나의 공통점으로 모이는 사람들이 있습니다.
+이제 막 파이썬이 무엇인지 알게 된 사람들,
+파이썬으로 무언가를 만들고 연구하며 세상에 기여하고 있는 사람들,
+다른 이에게 파이썬을 더 널리 알리고 싶은 사람들까지.
+이렇게 다양한 사람들이 모여있는 파이콘 한국에서
+우리는 서로의 경험담에 응원을 보내고, 울고 웃으며 많은 이야기를 나눕니다.
+그렇게 파이콘 한국은 점점 깊어지고, 넓어지고, 단단해졌습니다.
+올해도 어김없이 열릴 파이콘 한국을 통해
+여러분의 세상이 한 발자국 더 넓어질 수 있기를 바랍니다.
+이곳에 모인 우리는 함께 걸어갈 수 있는 힘을 가진 파이써니스타들이니까요.
+We are Pythonistas.
+
+[파이콘 한국은 다른 개발자 행사와 무엇이 다른가요?]
+파이콘 한국은 커뮤니티 주관으로 이뤄지는 비영리 개발자 대상 행사로, 타 기업 및 기관에서 개최하는 개발자 행사와는 성격이 다릅니다. 발표자와 튜토리얼 진행자를 포함하여, 자원봉사자와 준비위원회 담당자 등 모든 인원이 금전적 이득 없이 순수히 오픈소스 프로그래밍 언어인 파이썬의 저변 확대와 커뮤니티 활성화를 위해 진행하는 행사입니다.",https://i.ytimg.com/vi_webp/UbdCFocZ7GM/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=UbdCFocZ7GM,https://www.youtube.com/watch?v=UbdCFocZ7GM
+20,이미지 프로세싱 in python 그리고 오픈소스 - 한성민 - PyCon Korea 2020,https://www.youtube.com/watch?v=W0RbWxMSyuw,W0RbWxMSyuw,PyCon Korea,@PyConKRtube,https://www.youtube.com/@PyConKRtube,20201112,2152,1127,12.0,2.0,"yt:cc=on,파이콘 한국 2020,파이콘,Python,파이썬,PyConKR,파이콘 한국,PyCon Korea",Science & Technology,"청력에 상관없이 모두가 발표를 접할 수 있도록 파이콘 한국 2020 모든 영상에는 자막이 제공됩니다. 
+자막 보기 설정을 켜주세요(선택 : 한국어). Every video in PyCon Korea 2020 has subtitles. Please turn on the subtitle view setting.(Language: Korean) 
+SHOW MORE 을 누르시면 발표 소개 페이지와 행사 정보를 보실 수 있습니다! 
+PyCon Korea 2020 프로그램 자세히 보기 : https://pycon.kr/2020/program/talk/35
+-----
+[파이콘 한국이란]
+파이콘은 세계 각국의 파이썬 프로그래밍 언어 커뮤니티에서 주관하는 비영리 컨퍼런스입니다. 한국에서는 처음으로 열린 파이콘 한국 2014를 시작으로 파이콘 한국 준비위원회는 건강한 국내 파이썬 생태계에 지속적인 보탬이 되고자, 커뮤니티 멤버들의 자발적인 봉사로 운영되고 있습니다.
+
+[WE ARE PYTHONISTAS]
+파이콘 한국 2020의 슬로건은 ""We are Pythonistas""입니다.
+이 곳에는 '파이썬'이라는 단 하나의 공통점으로 모이는 사람들이 있습니다.
+이제 막 파이썬이 무엇인지 알게 된 사람들,
+파이썬으로 무언가를 만들고 연구하며 세상에 기여하고 있는 사람들,
+다른 이에게 파이썬을 더 널리 알리고 싶은 사람들까지.
+이렇게 다양한 사람들이 모여있는 파이콘 한국에서
+우리는 서로의 경험담에 응원을 보내고, 울고 웃으며 많은 이야기를 나눕니다.
+그렇게 파이콘 한국은 점점 깊어지고, 넓어지고, 단단해졌습니다.
+올해도 어김없이 열릴 파이콘 한국을 통해
+여러분의 세상이 한 발자국 더 넓어질 수 있기를 바랍니다.
+이곳에 모인 우리는 함께 걸어갈 수 있는 힘을 가진 파이써니스타들이니까요.
+We are Pythonistas.
+
+[파이콘 한국은 다른 개발자 행사와 무엇이 다른가요?]
+파이콘 한국은 커뮤니티 주관으로 이뤄지는 비영리 개발자 대상 행사로, 타 기업 및 기관에서 개최하는 개발자 행사와는 성격이 다릅니다. 발표자와 튜토리얼 진행자를 포함하여, 자원봉사자와 준비위원회 담당자 등 모든 인원이 금전적 이득 없이 순수히 오픈소스 프로그래밍 언어인 파이썬의 저변 확대와 커뮤니티 활성화를 위해 진행하는 행사입니다.",https://i.ytimg.com/vi_webp/W0RbWxMSyuw/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=W0RbWxMSyuw,https://www.youtube.com/watch?v=W0RbWxMSyuw
+21,Bring your Python script to more users - nikkie - PyCon Korea 2020,https://www.youtube.com/watch?v=777gSFOAaSA,777gSFOAaSA,PyCon Korea,@PyConKRtube,https://www.youtube.com/@PyConKRtube,20201112,2361,110,1.0,,"yt:cc=on,파이콘 한국 2020,파이콘,Python,파이썬,PyConKR,파이콘 한국,PyCon Korea",Science & Technology,"청력에 상관없이 모두가 발표를 접할 수 있도록 파이콘 한국 2020 모든 영상에는 자막이 제공됩니다. 
+자막 보기 설정을 켜주세요(선택 : 한국어). Every video in PyCon Korea 2020 has subtitles. Please turn on the subtitle view setting.(Language: Korean) 
+SHOW MORE 을 누르시면 발표 소개 페이지와 행사 정보를 보실 수 있습니다! 
+PyCon Korea 2020 프로그램 자세히 보기 : https://pycon.kr/2020/program/talk/44
+-----
+[파이콘 한국이란]
+파이콘은 세계 각국의 파이썬 프로그래밍 언어 커뮤니티에서 주관하는 비영리 컨퍼런스입니다. 한국에서는 처음으로 열린 파이콘 한국 2014를 시작으로 파이콘 한국 준비위원회는 건강한 국내 파이썬 생태계에 지속적인 보탬이 되고자, 커뮤니티 멤버들의 자발적인 봉사로 운영되고 있습니다.
+
+[WE ARE PYTHONISTAS]
+파이콘 한국 2020의 슬로건은 ""We are Pythonistas""입니다.
+이 곳에는 '파이썬'이라는 단 하나의 공통점으로 모이는 사람들이 있습니다.
+이제 막 파이썬이 무엇인지 알게 된 사람들,
+파이썬으로 무언가를 만들고 연구하며 세상에 기여하고 있는 사람들,
+다른 이에게 파이썬을 더 널리 알리고 싶은 사람들까지.
+이렇게 다양한 사람들이 모여있는 파이콘 한국에서
+우리는 서로의 경험담에 응원을 보내고, 울고 웃으며 많은 이야기를 나눕니다.
+그렇게 파이콘 한국은 점점 깊어지고, 넓어지고, 단단해졌습니다.
+올해도 어김없이 열릴 파이콘 한국을 통해
+여러분의 세상이 한 발자국 더 넓어질 수 있기를 바랍니다.
+이곳에 모인 우리는 함께 걸어갈 수 있는 힘을 가진 파이써니스타들이니까요.
+We are Pythonistas.
+
+[파이콘 한국은 다른 개발자 행사와 무엇이 다른가요?]
+파이콘 한국은 커뮤니티 주관으로 이뤄지는 비영리 개발자 대상 행사로, 타 기업 및 기관에서 개최하는 개발자 행사와는 성격이 다릅니다. 발표자와 튜토리얼 진행자를 포함하여, 자원봉사자와 준비위원회 담당자 등 모든 인원이 금전적 이득 없이 순수히 오픈소스 프로그래밍 언어인 파이썬의 저변 확대와 커뮤니티 활성화를 위해 진행하는 행사입니다.",https://i.ytimg.com/vi_webp/777gSFOAaSA/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=777gSFOAaSA,https://www.youtube.com/watch?v=777gSFOAaSA
+22,[클로징 Closing] 파이콘 한국 2020에 함께 해주신 여러분 감사합니다! - PyCon Korea 2020,https://www.youtube.com/watch?v=9vxDf1IvqJI,9vxDf1IvqJI,PyCon Korea,@PyConKRtube,https://www.youtube.com/@PyConKRtube,20201021,654,467,4.0,,"yt:cc=on,파이콘 한국 2020,파이콘,Python,파이썬,PyConKR,파이콘 한국,PyCon Korea",Science & Technology,"청력에 상관없이 모두가 발표를 접할 수 있도록 파이콘 한국 2020 모든 영상에는 자막이 제공됩니다. 자막 보기 설정을 켜주세요(선택 : 한국어). Every video in PyCon Korea 2020 has subtitles. Please turn on the subtitle view setting.(Language: Korean)
+SHOW MORE 을 누르시면 발표 상세 정보 페이지와 행사 정보를 보실 수 있습니다!
+PyCon Korea 2020 프로그램 자세히 보기 : https://www.pycon.kr/2020/program/talk-schedule/
+-----
+[파이콘 한국이란]
+파이콘은 세계 각국의 파이썬 프로그래밍 언어 커뮤니티에서 주관하는 비영리 컨퍼런스입니다. 한국에서는 처음으로 열린 파이콘 한국 2014를 시작으로 파이콘 한국 준비위원회는 건강한 국내 파이썬 생태계에 지속적인 보탬이 되고자, 커뮤니티 멤버들의 자발적인 봉사로 운영되고 있습니다.
+
+[WE ARE PYTHONISTAS]
+파이콘 한국 2020의 슬로건은 ""We are Pythonistas""입니다.
+이 곳에는 '파이썬'이라는 단 하나의 공통점으로 모이는 사람들이 있습니다.
+이제 막 파이썬이 무엇인지 알게 된 사람들,
+파이썬으로 무언가를 만들고 연구하며 세상에 기여하고 있는 사람들,
+다른 이에게 파이썬을 더 널리 알리고 싶은 사람들까지.
+이렇게 다양한 사람들이 모여있는 파이콘 한국에서
+우리는 서로의 경험담에 응원을 보내고, 울고 웃으며 많은 이야기를 나눕니다.
+그렇게 파이콘 한국은 점점 깊어지고, 넓어지고, 단단해졌습니다.
+올해도 어김없이 열릴 파이콘 한국을 통해
+여러분의 세상이 한 발자국 더 넓어질 수 있기를 바랍니다.
+이곳에 모인 우리는 함께 걸어갈 수 있는 힘을 가진 파이써니스타들이니까요.
+We are Pythonistas.
+
+[파이콘 한국은 다른 개발자 행사와 무엇이 다른가요?]
+파이콘 한국은 커뮤니티 주관으로 이뤄지는 비영리 개발자 대상 행사로, 타 기업 및 기관에서 개최하는 개발자 행사와는 성격이 다릅니다. 발표자와 튜토리얼 진행자를 포함하여, 자원봉사자와 준비위원회 담당자 등 모든 인원이 금전적 이득 없이 순수히 오픈소스 프로그래밍 언어인 파이썬의 저변 확대와 커뮤니티 활성화를 위해 진행하는 행사입니다.",https://i.ytimg.com/vi_webp/9vxDf1IvqJI/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=9vxDf1IvqJI,https://www.youtube.com/watch?v=9vxDf1IvqJI
+23,Your Escape Plan From Numpy + Cython - Cheng-Lin Yang - PyCon Korea 2020,https://www.youtube.com/watch?v=DYjXXLjK44U,DYjXXLjK44U,PyCon Korea,@PyConKRtube,https://www.youtube.com/@PyConKRtube,20201112,1543,147,1.0,,"yt:cc=on,파이콘 한국 2020,파이콘,Python,파이썬,PyConKR,파이콘 한국,PyCon Korea",Science & Technology,"청력에 상관없이 모두가 발표를 접할 수 있도록 파이콘 한국 2020 모든 영상에는 자막이 제공됩니다. 
+자막 보기 설정을 켜주세요(선택 : 한국어). Every video in PyCon Korea 2020 has subtitles. Please turn on the subtitle view setting.(Language: Korean) 
+SHOW MORE 을 누르시면 발표 소개 페이지와 행사 정보를 보실 수 있습니다! 
+PyCon Korea 2020 프로그램 자세히 보기 : https://pycon.kr/2020/program/talk/21
+
+-----
+[파이콘 한국이란]
+파이콘은 세계 각국의 파이썬 프로그래밍 언어 커뮤니티에서 주관하는 비영리 컨퍼런스입니다. 한국에서는 처음으로 열린 파이콘 한국 2014를 시작으로 파이콘 한국 준비위원회는 건강한 국내 파이썬 생태계에 지속적인 보탬이 되고자, 커뮤니티 멤버들의 자발적인 봉사로 운영되고 있습니다.
+
+[WE ARE PYTHONISTAS]
+파이콘 한국 2020의 슬로건은 ""We are Pythonistas""입니다.
+이 곳에는 '파이썬'이라는 단 하나의 공통점으로 모이는 사람들이 있습니다.
+이제 막 파이썬이 무엇인지 알게 된 사람들,
+파이썬으로 무언가를 만들고 연구하며 세상에 기여하고 있는 사람들,
+다른 이에게 파이썬을 더 널리 알리고 싶은 사람들까지.
+이렇게 다양한 사람들이 모여있는 파이콘 한국에서
+우리는 서로의 경험담에 응원을 보내고, 울고 웃으며 많은 이야기를 나눕니다.
+그렇게 파이콘 한국은 점점 깊어지고, 넓어지고, 단단해졌습니다.
+올해도 어김없이 열릴 파이콘 한국을 통해
+여러분의 세상이 한 발자국 더 넓어질 수 있기를 바랍니다.
+이곳에 모인 우리는 함께 걸어갈 수 있는 힘을 가진 파이써니스타들이니까요.
+We are Pythonistas.
+
+[파이콘 한국은 다른 개발자 행사와 무엇이 다른가요?]
+파이콘 한국은 커뮤니티 주관으로 이뤄지는 비영리 개발자 대상 행사로, 타 기업 및 기관에서 개최하는 개발자 행사와는 성격이 다릅니다. 발표자와 튜토리얼 진행자를 포함하여, 자원봉사자와 준비위원회 담당자 등 모든 인원이 금전적 이득 없이 순수히 오픈소스 프로그래밍 언어인 파이썬의 저변 확대와 커뮤니티 활성화를 위해 진행하는 행사입니다.",https://i.ytimg.com/vi_webp/DYjXXLjK44U/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=DYjXXLjK44U,https://www.youtube.com/watch?v=DYjXXLjK44U
+24,Python and FOSS in Education for Generation Z - Gajendra Deshpande - PyCon Korea 2020,https://www.youtube.com/watch?v=KT-W2zWkD0c,KT-W2zWkD0c,PyCon Korea,@PyConKRtube,https://www.youtube.com/@PyConKRtube,20201112,2027,82,0.0,,"yt:cc=on,파이콘 한국 2020,파이콘,Python,파이썬,PyConKR,파이콘 한국,PyCon Korea",Science & Technology,"청력에 상관없이 모두가 발표를 접할 수 있도록 파이콘 한국 2020 모든 영상에는 자막이 제공됩니다. 
+자막 보기 설정을 켜주세요(선택 : 한국어). Every video in PyCon Korea 2020 has subtitles. Please turn on the subtitle view setting.(Language: Korean) 
+SHOW MORE 을 누르시면 발표 소개 페이지와 행사 정보를 보실 수 있습니다! 
+PyCon Korea 2020 프로그램 자세히 보기 : https://pycon.kr/2020/program/talk/55
+
+-----
+[파이콘 한국이란]
+파이콘은 세계 각국의 파이썬 프로그래밍 언어 커뮤니티에서 주관하는 비영리 컨퍼런스입니다. 한국에서는 처음으로 열린 파이콘 한국 2014를 시작으로 파이콘 한국 준비위원회는 건강한 국내 파이썬 생태계에 지속적인 보탬이 되고자, 커뮤니티 멤버들의 자발적인 봉사로 운영되고 있습니다.
+
+[WE ARE PYTHONISTAS]
+파이콘 한국 2020의 슬로건은 ""We are Pythonistas""입니다.
+이 곳에는 '파이썬'이라는 단 하나의 공통점으로 모이는 사람들이 있습니다.
+이제 막 파이썬이 무엇인지 알게 된 사람들,
+파이썬으로 무언가를 만들고 연구하며 세상에 기여하고 있는 사람들,
+다른 이에게 파이썬을 더 널리 알리고 싶은 사람들까지.
+이렇게 다양한 사람들이 모여있는 파이콘 한국에서
+우리는 서로의 경험담에 응원을 보내고, 울고 웃으며 많은 이야기를 나눕니다.
+그렇게 파이콘 한국은 점점 깊어지고, 넓어지고, 단단해졌습니다.
+올해도 어김없이 열릴 파이콘 한국을 통해
+여러분의 세상이 한 발자국 더 넓어질 수 있기를 바랍니다.
+이곳에 모인 우리는 함께 걸어갈 수 있는 힘을 가진 파이써니스타들이니까요.
+We are Pythonistas.
+
+[파이콘 한국은 다른 개발자 행사와 무엇이 다른가요?]
+파이콘 한국은 커뮤니티 주관으로 이뤄지는 비영리 개발자 대상 행사로, 타 기업 및 기관에서 개최하는 개발자 행사와는 성격이 다릅니다. 발표자와 튜토리얼 진행자를 포함하여, 자원봉사자와 준비위원회 담당자 등 모든 인원이 금전적 이득 없이 순수히 오픈소스 프로그래밍 언어인 파이썬의 저변 확대와 커뮤니티 활성화를 위해 진행하는 행사입니다.",https://i.ytimg.com/vi_webp/KT-W2zWkD0c/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=KT-W2zWkD0c,https://www.youtube.com/watch?v=KT-W2zWkD0c
+25,Building Petabyte Scale ML Models with Dask/ Tensorflow - Vaibhav Srivastav - PyCon Korea 2020,https://www.youtube.com/watch?v=lxFKFB_yYWs,lxFKFB_yYWs,PyCon Korea,@PyConKRtube,https://www.youtube.com/@PyConKRtube,20201112,2116,87,0.0,,"yt:cc=on,파이콘 한국 2020,파이콘,Python,파이썬,PyConKR,파이콘 한국,PyCon Korea",Science & Technology,"청력에 상관없이 모두가 발표를 접할 수 있도록 파이콘 한국 2020 모든 영상에는 자막이 제공됩니다. 
+자막 보기 설정을 켜주세요(선택 : 한국어). Every video in PyCon Korea 2020 has subtitles. Please turn on the subtitle view setting.(Language: Korean) 
+SHOW MORE 을 누르시면 발표 소개 페이지와 행사 정보를 보실 수 있습니다! 
+PyCon Korea 2020 프로그램 자세히 보기 : https://pycon.kr/2020/program/talk/33
+
+-----
+[파이콘 한국이란]
+파이콘은 세계 각국의 파이썬 프로그래밍 언어 커뮤니티에서 주관하는 비영리 컨퍼런스입니다. 한국에서는 처음으로 열린 파이콘 한국 2014를 시작으로 파이콘 한국 준비위원회는 건강한 국내 파이썬 생태계에 지속적인 보탬이 되고자, 커뮤니티 멤버들의 자발적인 봉사로 운영되고 있습니다.
+
+[WE ARE PYTHONISTAS]
+파이콘 한국 2020의 슬로건은 ""We are Pythonistas""입니다.
+이 곳에는 '파이썬'이라는 단 하나의 공통점으로 모이는 사람들이 있습니다.
+이제 막 파이썬이 무엇인지 알게 된 사람들,
+파이썬으로 무언가를 만들고 연구하며 세상에 기여하고 있는 사람들,
+다른 이에게 파이썬을 더 널리 알리고 싶은 사람들까지.
+이렇게 다양한 사람들이 모여있는 파이콘 한국에서
+우리는 서로의 경험담에 응원을 보내고, 울고 웃으며 많은 이야기를 나눕니다.
+그렇게 파이콘 한국은 점점 깊어지고, 넓어지고, 단단해졌습니다.
+올해도 어김없이 열릴 파이콘 한국을 통해
+여러분의 세상이 한 발자국 더 넓어질 수 있기를 바랍니다.
+이곳에 모인 우리는 함께 걸어갈 수 있는 힘을 가진 파이써니스타들이니까요.
+We are Pythonistas.
+
+[파이콘 한국은 다른 개발자 행사와 무엇이 다른가요?]
+파이콘 한국은 커뮤니티 주관으로 이뤄지는 비영리 개발자 대상 행사로, 타 기업 및 기관에서 개최하는 개발자 행사와는 성격이 다릅니다. 발표자와 튜토리얼 진행자를 포함하여, 자원봉사자와 준비위원회 담당자 등 모든 인원이 금전적 이득 없이 순수히 오픈소스 프로그래밍 언어인 파이썬의 저변 확대와 커뮤니티 활성화를 위해 진행하는 행사입니다.",https://i.ytimg.com/vi_webp/lxFKFB_yYWs/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=lxFKFB_yYWs,https://www.youtube.com/watch?v=lxFKFB_yYWs
+26,금융 언어 이해를 위해 개발된 ALBERT 톺아보기 - 오성우 - PyCon Korea 2020,https://www.youtube.com/watch?v=1xSzcbLgq7Q,1xSzcbLgq7Q,PyCon Korea,@PyConKRtube,https://www.youtube.com/@PyConKRtube,20201112,2410,1053,34.0,,"yt:cc=on,파이콘 한국 2020,파이콘,Python,파이썬,PyConKR,파이콘 한국,PyCon Korea",Science & Technology,"청력에 상관없이 모두가 발표를 접할 수 있도록 파이콘 한국 2020 모든 영상에는 자막이 제공됩니다. 
+자막 보기 설정을 켜주세요(선택 : 한국어). Every video in PyCon Korea 2020 has subtitles. Please turn on the subtitle view setting.(Language: Korean) 
+SHOW MORE 을 누르시면 발표 소개 페이지와 행사 정보를 보실 수 있습니다! 
+PyCon Korea 2020 프로그램 자세히 보기 : https://pycon.kr/2020/program/talk/65
+
+-----
+[파이콘 한국이란]
+파이콘은 세계 각국의 파이썬 프로그래밍 언어 커뮤니티에서 주관하는 비영리 컨퍼런스입니다. 한국에서는 처음으로 열린 파이콘 한국 2014를 시작으로 파이콘 한국 준비위원회는 건강한 국내 파이썬 생태계에 지속적인 보탬이 되고자, 커뮤니티 멤버들의 자발적인 봉사로 운영되고 있습니다.
+
+[WE ARE PYTHONISTAS]
+파이콘 한국 2020의 슬로건은 ""We are Pythonistas""입니다.
+이 곳에는 '파이썬'이라는 단 하나의 공통점으로 모이는 사람들이 있습니다.
+이제 막 파이썬이 무엇인지 알게 된 사람들,
+파이썬으로 무언가를 만들고 연구하며 세상에 기여하고 있는 사람들,
+다른 이에게 파이썬을 더 널리 알리고 싶은 사람들까지.
+이렇게 다양한 사람들이 모여있는 파이콘 한국에서
+우리는 서로의 경험담에 응원을 보내고, 울고 웃으며 많은 이야기를 나눕니다.
+그렇게 파이콘 한국은 점점 깊어지고, 넓어지고, 단단해졌습니다.
+올해도 어김없이 열릴 파이콘 한국을 통해
+여러분의 세상이 한 발자국 더 넓어질 수 있기를 바랍니다.
+이곳에 모인 우리는 함께 걸어갈 수 있는 힘을 가진 파이써니스타들이니까요.
+We are Pythonistas.
+
+[파이콘 한국은 다른 개발자 행사와 무엇이 다른가요?]
+파이콘 한국은 커뮤니티 주관으로 이뤄지는 비영리 개발자 대상 행사로, 타 기업 및 기관에서 개최하는 개발자 행사와는 성격이 다릅니다. 발표자와 튜토리얼 진행자를 포함하여, 자원봉사자와 준비위원회 담당자 등 모든 인원이 금전적 이득 없이 순수히 오픈소스 프로그래밍 언어인 파이썬의 저변 확대와 커뮤니티 활성화를 위해 진행하는 행사입니다.",https://i.ytimg.com/vi_webp/1xSzcbLgq7Q/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=1xSzcbLgq7Q,https://www.youtube.com/watch?v=1xSzcbLgq7Q
+27,Python을 사용하는 데이터 과학자를 위한 서버 없는 WebAssembly 기반 과학 연산 환경 만들기 - 신정규 - PyCon Korea 2020,https://www.youtube.com/watch?v=wsbtgoPPr1o,wsbtgoPPr1o,PyCon Korea,@PyConKRtube,https://www.youtube.com/@PyConKRtube,20201112,2933,1078,19.0,,"yt:cc=on,파이콘 한국 2020,파이콘,Python,파이썬,PyConKR,파이콘 한국,PyCon Korea",Science & Technology,"청력에 상관없이 모두가 발표를 접할 수 있도록 파이콘 한국 2020 모든 영상에는 자막이 제공됩니다. 
+자막 보기 설정을 켜주세요(선택 : 한국어). Every video in PyCon Korea 2020 has subtitles. Please turn on the subtitle view setting.(Language: Korean) 
+SHOW MORE 을 누르시면 발표 소개 페이지와 행사 정보를 보실 수 있습니다! 
+PyCon Korea 2020 프로그램 자세히 보기 : https://pycon.kr/2020/program/talk/59
+
+-----
+[파이콘 한국이란]
+파이콘은 세계 각국의 파이썬 프로그래밍 언어 커뮤니티에서 주관하는 비영리 컨퍼런스입니다. 한국에서는 처음으로 열린 파이콘 한국 2014를 시작으로 파이콘 한국 준비위원회는 건강한 국내 파이썬 생태계에 지속적인 보탬이 되고자, 커뮤니티 멤버들의 자발적인 봉사로 운영되고 있습니다.
+
+[WE ARE PYTHONISTAS]
+파이콘 한국 2020의 슬로건은 ""We are Pythonistas""입니다.
+이 곳에는 '파이썬'이라는 단 하나의 공통점으로 모이는 사람들이 있습니다.
+이제 막 파이썬이 무엇인지 알게 된 사람들,
+파이썬으로 무언가를 만들고 연구하며 세상에 기여하고 있는 사람들,
+다른 이에게 파이썬을 더 널리 알리고 싶은 사람들까지.
+이렇게 다양한 사람들이 모여있는 파이콘 한국에서
+우리는 서로의 경험담에 응원을 보내고, 울고 웃으며 많은 이야기를 나눕니다.
+그렇게 파이콘 한국은 점점 깊어지고, 넓어지고, 단단해졌습니다.
+올해도 어김없이 열릴 파이콘 한국을 통해
+여러분의 세상이 한 발자국 더 넓어질 수 있기를 바랍니다.
+이곳에 모인 우리는 함께 걸어갈 수 있는 힘을 가진 파이써니스타들이니까요.
+We are Pythonistas.
+
+[파이콘 한국은 다른 개발자 행사와 무엇이 다른가요?]
+파이콘 한국은 커뮤니티 주관으로 이뤄지는 비영리 개발자 대상 행사로, 타 기업 및 기관에서 개최하는 개발자 행사와는 성격이 다릅니다. 발표자와 튜토리얼 진행자를 포함하여, 자원봉사자와 준비위원회 담당자 등 모든 인원이 금전적 이득 없이 순수히 오픈소스 프로그래밍 언어인 파이썬의 저변 확대와 커뮤니티 활성화를 위해 진행하는 행사입니다.",https://i.ytimg.com/vi_webp/wsbtgoPPr1o/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=wsbtgoPPr1o,https://www.youtube.com/watch?v=wsbtgoPPr1o
+28,제로부터 시작하는 신나는 Python생활 - 라스 - PyCon Korea 2020,https://www.youtube.com/watch?v=Ei4KYlHYUic,Ei4KYlHYUic,PyCon Korea,@PyConKRtube,https://www.youtube.com/@PyConKRtube,20201112,1098,588,7.0,1.0,"yt:cc=on,파이콘 한국 2020,파이콘,Python,파이썬,PyConKR,파이콘 한국,PyCon Korea",Science & Technology,"청력에 상관없이 모두가 발표를 접할 수 있도록 파이콘 한국 2020 모든 영상에는 자막이 제공됩니다. 
+자막 보기 설정을 켜주세요(선택 : 한국어). Every video in PyCon Korea 2020 has subtitles. Please turn on the subtitle view setting.(Language: Korean) 
+SHOW MORE 을 누르시면 발표 소개 페이지와 행사 정보를 보실 수 있습니다! 
+PyCon Korea 2020 프로그램 자세히 보기 : https://pycon.kr/2020/program/talk/43
+
+-----
+[파이콘 한국이란]
+파이콘은 세계 각국의 파이썬 프로그래밍 언어 커뮤니티에서 주관하는 비영리 컨퍼런스입니다. 한국에서는 처음으로 열린 파이콘 한국 2014를 시작으로 파이콘 한국 준비위원회는 건강한 국내 파이썬 생태계에 지속적인 보탬이 되고자, 커뮤니티 멤버들의 자발적인 봉사로 운영되고 있습니다.
+
+[WE ARE PYTHONISTAS]
+파이콘 한국 2020의 슬로건은 ""We are Pythonistas""입니다.
+이 곳에는 '파이썬'이라는 단 하나의 공통점으로 모이는 사람들이 있습니다.
+이제 막 파이썬이 무엇인지 알게 된 사람들,
+파이썬으로 무언가를 만들고 연구하며 세상에 기여하고 있는 사람들,
+다른 이에게 파이썬을 더 널리 알리고 싶은 사람들까지.
+이렇게 다양한 사람들이 모여있는 파이콘 한국에서
+우리는 서로의 경험담에 응원을 보내고, 울고 웃으며 많은 이야기를 나눕니다.
+그렇게 파이콘 한국은 점점 깊어지고, 넓어지고, 단단해졌습니다.
+올해도 어김없이 열릴 파이콘 한국을 통해
+여러분의 세상이 한 발자국 더 넓어질 수 있기를 바랍니다.
+이곳에 모인 우리는 함께 걸어갈 수 있는 힘을 가진 파이써니스타들이니까요.
+We are Pythonistas.
+
+[파이콘 한국은 다른 개발자 행사와 무엇이 다른가요?]
+파이콘 한국은 커뮤니티 주관으로 이뤄지는 비영리 개발자 대상 행사로, 타 기업 및 기관에서 개최하는 개발자 행사와는 성격이 다릅니다. 발표자와 튜토리얼 진행자를 포함하여, 자원봉사자와 준비위원회 담당자 등 모든 인원이 금전적 이득 없이 순수히 오픈소스 프로그래밍 언어인 파이썬의 저변 확대와 커뮤니티 활성화를 위해 진행하는 행사입니다.",https://i.ytimg.com/vi_webp/Ei4KYlHYUic/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=Ei4KYlHYUic,https://www.youtube.com/watch?v=Ei4KYlHYUic
+29,Backend.AI에 점진적 typing 적용하기 - 김준기 - PyCon Korea 2020,https://www.youtube.com/watch?v=9njdWZaTZYs,9njdWZaTZYs,PyCon Korea,@PyConKRtube,https://www.youtube.com/@PyConKRtube,20201112,1731,350,9.0,1.0,"yt:cc=on,파이콘 한국 2020,파이콘,Python,파이썬,PyConKR,파이콘 한국,PyCon Korea",Science & Technology,"청력에 상관없이 모두가 발표를 접할 수 있도록 파이콘 한국 2020 모든 영상에는 자막이 제공됩니다. 
+자막 보기 설정을 켜주세요(선택 : 한국어). Every video in PyCon Korea 2020 has subtitles. Please turn on the subtitle view setting.(Language: Korean) 
+SHOW MORE 을 누르시면 발표 소개 페이지와 행사 정보를 보실 수 있습니다! 
+PyCon Korea 2020 프로그램 자세히 보기 : https://pycon.kr/2020/program/talk/36
+
+-----
+[파이콘 한국이란]
+파이콘은 세계 각국의 파이썬 프로그래밍 언어 커뮤니티에서 주관하는 비영리 컨퍼런스입니다. 한국에서는 처음으로 열린 파이콘 한국 2014를 시작으로 파이콘 한국 준비위원회는 건강한 국내 파이썬 생태계에 지속적인 보탬이 되고자, 커뮤니티 멤버들의 자발적인 봉사로 운영되고 있습니다.
+
+[WE ARE PYTHONISTAS]
+파이콘 한국 2020의 슬로건은 ""We are Pythonistas""입니다.
+이 곳에는 '파이썬'이라는 단 하나의 공통점으로 모이는 사람들이 있습니다.
+이제 막 파이썬이 무엇인지 알게 된 사람들,
+파이썬으로 무언가를 만들고 연구하며 세상에 기여하고 있는 사람들,
+다른 이에게 파이썬을 더 널리 알리고 싶은 사람들까지.
+이렇게 다양한 사람들이 모여있는 파이콘 한국에서
+우리는 서로의 경험담에 응원을 보내고, 울고 웃으며 많은 이야기를 나눕니다.
+그렇게 파이콘 한국은 점점 깊어지고, 넓어지고, 단단해졌습니다.
+올해도 어김없이 열릴 파이콘 한국을 통해
+여러분의 세상이 한 발자국 더 넓어질 수 있기를 바랍니다.
+이곳에 모인 우리는 함께 걸어갈 수 있는 힘을 가진 파이써니스타들이니까요.
+We are Pythonistas.
+
+[파이콘 한국은 다른 개발자 행사와 무엇이 다른가요?]
+파이콘 한국은 커뮤니티 주관으로 이뤄지는 비영리 개발자 대상 행사로, 타 기업 및 기관에서 개최하는 개발자 행사와는 성격이 다릅니다. 발표자와 튜토리얼 진행자를 포함하여, 자원봉사자와 준비위원회 담당자 등 모든 인원이 금전적 이득 없이 순수히 오픈소스 프로그래밍 언어인 파이썬의 저변 확대와 커뮤니티 활성화를 위해 진행하는 행사입니다.",https://i.ytimg.com/vi_webp/9njdWZaTZYs/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=9njdWZaTZYs,https://www.youtube.com/watch?v=9njdWZaTZYs
+30,청각 장애인의 발음 교정 어플리케이션을 위한 음성인식 모델 개발기 - 문영기 - PyCon Korea 2020,https://www.youtube.com/watch?v=w3VpqMOCic0,w3VpqMOCic0,PyCon Korea,@PyConKRtube,https://www.youtube.com/@PyConKRtube,20201112,1168,1036,11.0,,"yt:cc=on,파이콘 한국 2020,파이콘,Python,파이썬,PyConKR,파이콘 한국,PyCon Korea",Science & Technology,"청력에 상관없이 모두가 발표를 접할 수 있도록 파이콘 한국 2020 모든 영상에는 자막이 제공됩니다. 
+자막 보기 설정을 켜주세요(선택 : 한국어). Every video in PyCon Korea 2020 has subtitles. Please turn on the subtitle view setting.(Language: Korean) 
+SHOW MORE 을 누르시면 발표 소개 페이지와 행사 정보를 보실 수 있습니다! 
+PyCon Korea 2020 프로그램 자세히 보기 : https://pycon.kr/2020/program/talk/56
+
+-----
+[파이콘 한국이란]
+파이콘은 세계 각국의 파이썬 프로그래밍 언어 커뮤니티에서 주관하는 비영리 컨퍼런스입니다. 한국에서는 처음으로 열린 파이콘 한국 2014를 시작으로 파이콘 한국 준비위원회는 건강한 국내 파이썬 생태계에 지속적인 보탬이 되고자, 커뮤니티 멤버들의 자발적인 봉사로 운영되고 있습니다.
+
+[WE ARE PYTHONISTAS]
+파이콘 한국 2020의 슬로건은 ""We are Pythonistas""입니다.
+이 곳에는 '파이썬'이라는 단 하나의 공통점으로 모이는 사람들이 있습니다.
+이제 막 파이썬이 무엇인지 알게 된 사람들,
+파이썬으로 무언가를 만들고 연구하며 세상에 기여하고 있는 사람들,
+다른 이에게 파이썬을 더 널리 알리고 싶은 사람들까지.
+이렇게 다양한 사람들이 모여있는 파이콘 한국에서
+우리는 서로의 경험담에 응원을 보내고, 울고 웃으며 많은 이야기를 나눕니다.
+그렇게 파이콘 한국은 점점 깊어지고, 넓어지고, 단단해졌습니다.
+올해도 어김없이 열릴 파이콘 한국을 통해
+여러분의 세상이 한 발자국 더 넓어질 수 있기를 바랍니다.
+이곳에 모인 우리는 함께 걸어갈 수 있는 힘을 가진 파이써니스타들이니까요.
+We are Pythonistas.
+
+[파이콘 한국은 다른 개발자 행사와 무엇이 다른가요?]
+파이콘 한국은 커뮤니티 주관으로 이뤄지는 비영리 개발자 대상 행사로, 타 기업 및 기관에서 개최하는 개발자 행사와는 성격이 다릅니다. 발표자와 튜토리얼 진행자를 포함하여, 자원봉사자와 준비위원회 담당자 등 모든 인원이 금전적 이득 없이 순수히 오픈소스 프로그래밍 언어인 파이썬의 저변 확대와 커뮤니티 활성화를 위해 진행하는 행사입니다.",https://i.ytimg.com/vi_webp/w3VpqMOCic0/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=w3VpqMOCic0,https://www.youtube.com/watch?v=w3VpqMOCic0
+31,파이썬으로 구현하는 신경세포 기반의 인공 뇌 시뮬레이터 - 김성현 - PyCon Korea 2020,https://www.youtube.com/watch?v=7ffvdJj4xlM,7ffvdJj4xlM,PyCon Korea,@PyConKRtube,https://www.youtube.com/@PyConKRtube,20201112,1565,1526,53.0,2.0,"yt:cc=on,파이콘 한국 2020,파이콘,Python,파이썬,PyConKR,파이콘 한국,PyCon Korea",Science & Technology,"청력에 상관없이 모두가 발표를 접할 수 있도록 파이콘 한국 2020 모든 영상에는 자막이 제공됩니다. 
+자막 보기 설정을 켜주세요(선택 : 한국어). Every video in PyCon Korea 2020 has subtitles. Please turn on the subtitle view setting.(Language: Korean) 
+SHOW MORE 을 누르시면 발표 소개 페이지와 행사 정보를 보실 수 있습니다! 
+PyCon Korea 2020 프로그램 자세히 보기 : https://pycon.kr/2020/program/talk/28
+
+-----
+[파이콘 한국이란]
+파이콘은 세계 각국의 파이썬 프로그래밍 언어 커뮤니티에서 주관하는 비영리 컨퍼런스입니다. 한국에서는 처음으로 열린 파이콘 한국 2014를 시작으로 파이콘 한국 준비위원회는 건강한 국내 파이썬 생태계에 지속적인 보탬이 되고자, 커뮤니티 멤버들의 자발적인 봉사로 운영되고 있습니다.
+
+[WE ARE PYTHONISTAS]
+파이콘 한국 2020의 슬로건은 ""We are Pythonistas""입니다.
+이 곳에는 '파이썬'이라는 단 하나의 공통점으로 모이는 사람들이 있습니다.
+이제 막 파이썬이 무엇인지 알게 된 사람들,
+파이썬으로 무언가를 만들고 연구하며 세상에 기여하고 있는 사람들,
+다른 이에게 파이썬을 더 널리 알리고 싶은 사람들까지.
+이렇게 다양한 사람들이 모여있는 파이콘 한국에서
+우리는 서로의 경험담에 응원을 보내고, 울고 웃으며 많은 이야기를 나눕니다.
+그렇게 파이콘 한국은 점점 깊어지고, 넓어지고, 단단해졌습니다.
+올해도 어김없이 열릴 파이콘 한국을 통해
+여러분의 세상이 한 발자국 더 넓어질 수 있기를 바랍니다.
+이곳에 모인 우리는 함께 걸어갈 수 있는 힘을 가진 파이써니스타들이니까요.
+We are Pythonistas.
+
+[파이콘 한국은 다른 개발자 행사와 무엇이 다른가요?]
+파이콘 한국은 커뮤니티 주관으로 이뤄지는 비영리 개발자 대상 행사로, 타 기업 및 기관에서 개최하는 개발자 행사와는 성격이 다릅니다. 발표자와 튜토리얼 진행자를 포함하여, 자원봉사자와 준비위원회 담당자 등 모든 인원이 금전적 이득 없이 순수히 오픈소스 프로그래밍 언어인 파이썬의 저변 확대와 커뮤니티 활성화를 위해 진행하는 행사입니다.",https://i.ytimg.com/vi_webp/7ffvdJj4xlM/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=7ffvdJj4xlM,https://www.youtube.com/watch?v=7ffvdJj4xlM
+32,글로벌 방송국 서비스 1인 개국기 - 김주현 - PyCon Korea 2020,https://www.youtube.com/watch?v=8Ue4L3F2YqA,8Ue4L3F2YqA,PyCon Korea,@PyConKRtube,https://www.youtube.com/@PyConKRtube,20201112,2121,329,5.0,,"yt:cc=on,파이콘 한국 2020,파이콘,Python,파이썬,PyConKR,파이콘 한국,PyCon Korea",Science & Technology,"청력에 상관없이 모두가 발표를 접할 수 있도록 파이콘 한국 2020 모든 영상에는 자막이 제공됩니다. 
+자막 보기 설정을 켜주세요(선택 : 한국어). Every video in PyCon Korea 2020 has subtitles. Please turn on the subtitle view setting.(Language: Korean) 
+SHOW MORE 을 누르시면 발표 소개 페이지와 행사 정보를 보실 수 있습니다! 
+PyCon Korea 2020 프로그램 자세히 보기 : https://pycon.kr/2020/program/talk/14
+
+-----
+[파이콘 한국이란]
+파이콘은 세계 각국의 파이썬 프로그래밍 언어 커뮤니티에서 주관하는 비영리 컨퍼런스입니다. 한국에서는 처음으로 열린 파이콘 한국 2014를 시작으로 파이콘 한국 준비위원회는 건강한 국내 파이썬 생태계에 지속적인 보탬이 되고자, 커뮤니티 멤버들의 자발적인 봉사로 운영되고 있습니다.
+
+[WE ARE PYTHONISTAS]
+파이콘 한국 2020의 슬로건은 ""We are Pythonistas""입니다.
+이 곳에는 '파이썬'이라는 단 하나의 공통점으로 모이는 사람들이 있습니다.
+이제 막 파이썬이 무엇인지 알게 된 사람들,
+파이썬으로 무언가를 만들고 연구하며 세상에 기여하고 있는 사람들,
+다른 이에게 파이썬을 더 널리 알리고 싶은 사람들까지.
+이렇게 다양한 사람들이 모여있는 파이콘 한국에서
+우리는 서로의 경험담에 응원을 보내고, 울고 웃으며 많은 이야기를 나눕니다.
+그렇게 파이콘 한국은 점점 깊어지고, 넓어지고, 단단해졌습니다.
+올해도 어김없이 열릴 파이콘 한국을 통해
+여러분의 세상이 한 발자국 더 넓어질 수 있기를 바랍니다.
+이곳에 모인 우리는 함께 걸어갈 수 있는 힘을 가진 파이써니스타들이니까요.
+We are Pythonistas.
+
+[파이콘 한국은 다른 개발자 행사와 무엇이 다른가요?]
+파이콘 한국은 커뮤니티 주관으로 이뤄지는 비영리 개발자 대상 행사로, 타 기업 및 기관에서 개최하는 개발자 행사와는 성격이 다릅니다. 발표자와 튜토리얼 진행자를 포함하여, 자원봉사자와 준비위원회 담당자 등 모든 인원이 금전적 이득 없이 순수히 오픈소스 프로그래밍 언어인 파이썬의 저변 확대와 커뮤니티 활성화를 위해 진행하는 행사입니다.",https://i.ytimg.com/vi_webp/8Ue4L3F2YqA/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=8Ue4L3F2YqA,https://www.youtube.com/watch?v=8Ue4L3F2YqA
+33,대본 프롬프터 서비스에서의 문장 유사도 알고리즘 개발 경험 공유 - 강지훈 - PyCon Korea 2020,https://www.youtube.com/watch?v=iTXrAQWPc5k,iTXrAQWPc5k,PyCon Korea,@PyConKRtube,https://www.youtube.com/@PyConKRtube,20201112,1534,308,11.0,,"yt:cc=on,파이콘 한국 2020,파이콘,Python,파이썬,PyConKR,파이콘 한국,PyCon Korea",Science & Technology,"청력에 상관없이 모두가 발표를 접할 수 있도록 파이콘 한국 2020 모든 영상에는 자막이 제공됩니다. 
+자막 보기 설정을 켜주세요(선택 : 한국어). Every video in PyCon Korea 2020 has subtitles. Please turn on the subtitle view setting.(Language: Korean) 
+SHOW MORE 을 누르시면 발표 소개 페이지와 행사 정보를 보실 수 있습니다! 
+PyCon Korea 2020 프로그램 자세히 보기 : https://pycon.kr/2020/program/talk/6
+
+-----
+[파이콘 한국이란]
+파이콘은 세계 각국의 파이썬 프로그래밍 언어 커뮤니티에서 주관하는 비영리 컨퍼런스입니다. 한국에서는 처음으로 열린 파이콘 한국 2014를 시작으로 파이콘 한국 준비위원회는 건강한 국내 파이썬 생태계에 지속적인 보탬이 되고자, 커뮤니티 멤버들의 자발적인 봉사로 운영되고 있습니다.
+
+[WE ARE PYTHONISTAS]
+파이콘 한국 2020의 슬로건은 ""We are Pythonistas""입니다.
+이 곳에는 '파이썬'이라는 단 하나의 공통점으로 모이는 사람들이 있습니다.
+이제 막 파이썬이 무엇인지 알게 된 사람들,
+파이썬으로 무언가를 만들고 연구하며 세상에 기여하고 있는 사람들,
+다른 이에게 파이썬을 더 널리 알리고 싶은 사람들까지.
+이렇게 다양한 사람들이 모여있는 파이콘 한국에서
+우리는 서로의 경험담에 응원을 보내고, 울고 웃으며 많은 이야기를 나눕니다.
+그렇게 파이콘 한국은 점점 깊어지고, 넓어지고, 단단해졌습니다.
+올해도 어김없이 열릴 파이콘 한국을 통해
+여러분의 세상이 한 발자국 더 넓어질 수 있기를 바랍니다.
+이곳에 모인 우리는 함께 걸어갈 수 있는 힘을 가진 파이써니스타들이니까요.
+We are Pythonistas.
+
+[파이콘 한국은 다른 개발자 행사와 무엇이 다른가요?]
+파이콘 한국은 커뮤니티 주관으로 이뤄지는 비영리 개발자 대상 행사로, 타 기업 및 기관에서 개최하는 개발자 행사와는 성격이 다릅니다. 발표자와 튜토리얼 진행자를 포함하여, 자원봉사자와 준비위원회 담당자 등 모든 인원이 금전적 이득 없이 순수히 오픈소스 프로그래밍 언어인 파이썬의 저변 확대와 커뮤니티 활성화를 위해 진행하는 행사입니다.",https://i.ytimg.com/vi_webp/iTXrAQWPc5k/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=iTXrAQWPc5k,https://www.youtube.com/watch?v=iTXrAQWPc5k
+34,Django ORM (QuerySet)구조와 원리 그리고 최적화전략 - 김성렬 - PyCon Korea 2020,https://www.youtube.com/watch?v=EZgLfDrUlrk,EZgLfDrUlrk,PyCon Korea,@PyConKRtube,https://www.youtube.com/@PyConKRtube,20201112,2898,7205,234.0,14.0,"yt:cc=on,파이콘 한국 2020,파이콘,Python,파이썬,PyConKR,파이콘 한국,PyCon Korea",Science & Technology,"청력에 상관없이 모두가 발표를 접할 수 있도록 파이콘 한국 2020 모든 영상에는 자막이 제공됩니다. 
+자막 보기 설정을 켜주세요(선택 : 한국어). Every video in PyCon Korea 2020 has subtitles. Please turn on the subtitle view setting.(Language: Korean) 
+SHOW MORE 을 누르시면 발표 소개 페이지와 행사 정보를 보실 수 있습니다! 
+PyCon Korea 2020 프로그램 자세히 보기 : https://pycon.kr/2020/program/talk/11
+
+-----
+[파이콘 한국이란]
+파이콘은 세계 각국의 파이썬 프로그래밍 언어 커뮤니티에서 주관하는 비영리 컨퍼런스입니다. 한국에서는 처음으로 열린 파이콘 한국 2014를 시작으로 파이콘 한국 준비위원회는 건강한 국내 파이썬 생태계에 지속적인 보탬이 되고자, 커뮤니티 멤버들의 자발적인 봉사로 운영되고 있습니다.
+
+[WE ARE PYTHONISTAS]
+파이콘 한국 2020의 슬로건은 ""We are Pythonistas""입니다.
+이 곳에는 '파이썬'이라는 단 하나의 공통점으로 모이는 사람들이 있습니다.
+이제 막 파이썬이 무엇인지 알게 된 사람들,
+파이썬으로 무언가를 만들고 연구하며 세상에 기여하고 있는 사람들,
+다른 이에게 파이썬을 더 널리 알리고 싶은 사람들까지.
+이렇게 다양한 사람들이 모여있는 파이콘 한국에서
+우리는 서로의 경험담에 응원을 보내고, 울고 웃으며 많은 이야기를 나눕니다.
+그렇게 파이콘 한국은 점점 깊어지고, 넓어지고, 단단해졌습니다.
+올해도 어김없이 열릴 파이콘 한국을 통해
+여러분의 세상이 한 발자국 더 넓어질 수 있기를 바랍니다.
+이곳에 모인 우리는 함께 걸어갈 수 있는 힘을 가진 파이써니스타들이니까요.
+We are Pythonistas.
+
+[파이콘 한국은 다른 개발자 행사와 무엇이 다른가요?]
+파이콘 한국은 커뮤니티 주관으로 이뤄지는 비영리 개발자 대상 행사로, 타 기업 및 기관에서 개최하는 개발자 행사와는 성격이 다릅니다. 발표자와 튜토리얼 진행자를 포함하여, 자원봉사자와 준비위원회 담당자 등 모든 인원이 금전적 이득 없이 순수히 오픈소스 프로그래밍 언어인 파이썬의 저변 확대와 커뮤니티 활성화를 위해 진행하는 행사입니다.",https://i.ytimg.com/vi_webp/EZgLfDrUlrk/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=EZgLfDrUlrk,https://www.youtube.com/watch?v=EZgLfDrUlrk
+35,type-docopt : Pythonic command line arguments parser with types - 조용래 - PyCon Korea 2020,https://www.youtube.com/watch?v=2cwBZKA-n8s,2cwBZKA-n8s,PyCon Korea,@PyConKRtube,https://www.youtube.com/@PyConKRtube,20201112,1766,166,4.0,,"yt:cc=on,파이콘 한국 2020,파이콘,Python,파이썬,PyConKR,파이콘 한국,PyCon Korea",Science & Technology,"청력에 상관없이 모두가 발표를 접할 수 있도록 파이콘 한국 2020 모든 영상에는 자막이 제공됩니다. 
+자막 보기 설정을 켜주세요(선택 : 한국어). Every video in PyCon Korea 2020 has subtitles. Please turn on the subtitle view setting.(Language: Korean) 
+SHOW MORE 을 누르시면 발표 소개 페이지와 행사 정보를 보실 수 있습니다! 
+PyCon Korea 2020 프로그램 자세히 보기 : https://pycon.kr/2020/program/talk/50
+-----
+[파이콘 한국이란]
+파이콘은 세계 각국의 파이썬 프로그래밍 언어 커뮤니티에서 주관하는 비영리 컨퍼런스입니다. 한국에서는 처음으로 열린 파이콘 한국 2014를 시작으로 파이콘 한국 준비위원회는 건강한 국내 파이썬 생태계에 지속적인 보탬이 되고자, 커뮤니티 멤버들의 자발적인 봉사로 운영되고 있습니다.
+
+[WE ARE PYTHONISTAS]
+파이콘 한국 2020의 슬로건은 ""We are Pythonistas""입니다.
+이 곳에는 '파이썬'이라는 단 하나의 공통점으로 모이는 사람들이 있습니다.
+이제 막 파이썬이 무엇인지 알게 된 사람들,
+파이썬으로 무언가를 만들고 연구하며 세상에 기여하고 있는 사람들,
+다른 이에게 파이썬을 더 널리 알리고 싶은 사람들까지.
+이렇게 다양한 사람들이 모여있는 파이콘 한국에서
+우리는 서로의 경험담에 응원을 보내고, 울고 웃으며 많은 이야기를 나눕니다.
+그렇게 파이콘 한국은 점점 깊어지고, 넓어지고, 단단해졌습니다.
+올해도 어김없이 열릴 파이콘 한국을 통해
+여러분의 세상이 한 발자국 더 넓어질 수 있기를 바랍니다.
+이곳에 모인 우리는 함께 걸어갈 수 있는 힘을 가진 파이써니스타들이니까요.
+We are Pythonistas.
+
+[파이콘 한국은 다른 개발자 행사와 무엇이 다른가요?]
+파이콘 한국은 커뮤니티 주관으로 이뤄지는 비영리 개발자 대상 행사로, 타 기업 및 기관에서 개최하는 개발자 행사와는 성격이 다릅니다. 발표자와 튜토리얼 진행자를 포함하여, 자원봉사자와 준비위원회 담당자 등 모든 인원이 금전적 이득 없이 순수히 오픈소스 프로그래밍 언어인 파이썬의 저변 확대와 커뮤니티 활성화를 위해 진행하는 행사입니다.",https://i.ytimg.com/vi_webp/2cwBZKA-n8s/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=2cwBZKA-n8s,https://www.youtube.com/watch?v=2cwBZKA-n8s
+36,"파이콘 한국 역사 7년, 온라인 파이콘은 저희도 처음이라 - 홍연의 (파이콘 한국 준비위원회) - PyCon Korea 2020",https://www.youtube.com/watch?v=wsi3wWvu99U,wsi3wWvu99U,PyCon Korea,@PyConKRtube,https://www.youtube.com/@PyConKRtube,20201005,1331,409,4.0,1.0,"yt:cc=on,파이콘 한국 2020,파이콘,Python,파이썬,PyConKR,파이콘 한국,PyCon Korea",Science & Technology,"청력에 상관없이 모두가 발표를 접할 수 있도록 파이콘 한국 2020 모든 영상에는 자막이 제공됩니다. 자막 보기 설정을 켜주세요(선택 : 한국어). Every video in PyCon Korea 2020 has subtitles. Please turn on the subtitle view setting.(Language: Korean)
+SHOW MORE 을 누르시면 발표 상세 정보 페이지와 행사 정보를 보실 수 있습니다!
+PyCon Korea 2020 프로그램 자세히 보기 : https://www.pycon.kr/2020/program/talk/83
+-----
+[파이콘 한국이란]
+파이콘은 세계 각국의 파이썬 프로그래밍 언어 커뮤니티에서 주관하는 비영리 컨퍼런스입니다. 한국에서는 처음으로 열린 파이콘 한국 2014를 시작으로 파이콘 한국 준비위원회는 건강한 국내 파이썬 생태계에 지속적인 보탬이 되고자, 커뮤니티 멤버들의 자발적인 봉사로 운영되고 있습니다.
+
+[WE ARE PYTHONISTAS]
+파이콘 한국 2020의 슬로건은 ""We are Pythonistas""입니다.
+이 곳에는 '파이썬'이라는 단 하나의 공통점으로 모이는 사람들이 있습니다.
+이제 막 파이썬이 무엇인지 알게 된 사람들,
+파이썬으로 무언가를 만들고 연구하며 세상에 기여하고 있는 사람들,
+다른 이에게 파이썬을 더 널리 알리고 싶은 사람들까지.
+이렇게 다양한 사람들이 모여있는 파이콘 한국에서
+우리는 서로의 경험담에 응원을 보내고, 울고 웃으며 많은 이야기를 나눕니다.
+그렇게 파이콘 한국은 점점 깊어지고, 넓어지고, 단단해졌습니다.
+올해도 어김없이 열릴 파이콘 한국을 통해
+여러분의 세상이 한 발자국 더 넓어질 수 있기를 바랍니다.
+이곳에 모인 우리는 함께 걸어갈 수 있는 힘을 가진 파이써니스타들이니까요.
+We are Pythonistas.
+
+[파이콘 한국은 다른 개발자 행사와 무엇이 다른가요?]
+파이콘 한국은 커뮤니티 주관으로 이뤄지는 비영리 개발자 대상 행사로, 타 기업 및 기관에서 개최하는 개발자 행사와는 성격이 다릅니다. 발표자와 튜토리얼 진행자를 포함하여, 자원봉사자와 준비위원회 담당자 등 모든 인원이 금전적 이득 없이 순수히 오픈소스 프로그래밍 언어인 파이썬의 저변 확대와 커뮤니티 활성화를 위해 진행하는 행사입니다.",https://i.ytimg.com/vi/wsi3wWvu99U/sddefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=wsi3wWvu99U,https://www.youtube.com/watch?v=wsi3wWvu99U
+37,"세상을 한 발자국 더 넓히고 싶었던 우리의 이야기 - 오주영, 오시영 (파이콘 한국 준비위원회) - PyCon Korea 2020",https://www.youtube.com/watch?v=vJHe5bqTRZU,vJHe5bqTRZU,PyCon Korea,@PyConKRtube,https://www.youtube.com/@PyConKRtube,20201005,871,312,5.0,,"yt:cc=on,파이콘 한국 2020,파이콘,Python,파이썬,PyConKR,파이콘 한국,PyCon Korea",Science & Technology,"청력에 상관없이 모두가 발표를 접할 수 있도록 파이콘 한국 2020 모든 영상에는 자막이 제공됩니다. 자막 보기 설정을 켜주세요(선택 : 한국어). Every video in PyCon Korea 2020 has subtitles. Please turn on the subtitle view setting.(Language: Korean)
+SHOW MORE 을 누르시면 발표 상세 정보 페이지와 행사 정보를 보실 수 있습니다!
+PyCon Korea 2020 프로그램 자세히 보기 : https://www.pycon.kr/2020/program/talk/82
+-----
+[파이콘 한국이란]
+파이콘은 세계 각국의 파이썬 프로그래밍 언어 커뮤니티에서 주관하는 비영리 컨퍼런스입니다. 한국에서는 처음으로 열린 파이콘 한국 2014를 시작으로 파이콘 한국 준비위원회는 건강한 국내 파이썬 생태계에 지속적인 보탬이 되고자, 커뮤니티 멤버들의 자발적인 봉사로 운영되고 있습니다.
+
+[WE ARE PYTHONISTAS]
+파이콘 한국 2020의 슬로건은 ""We are Pythonistas""입니다.
+이 곳에는 '파이썬'이라는 단 하나의 공통점으로 모이는 사람들이 있습니다.
+이제 막 파이썬이 무엇인지 알게 된 사람들,
+파이썬으로 무언가를 만들고 연구하며 세상에 기여하고 있는 사람들,
+다른 이에게 파이썬을 더 널리 알리고 싶은 사람들까지.
+이렇게 다양한 사람들이 모여있는 파이콘 한국에서
+우리는 서로의 경험담에 응원을 보내고, 울고 웃으며 많은 이야기를 나눕니다.
+그렇게 파이콘 한국은 점점 깊어지고, 넓어지고, 단단해졌습니다.
+올해도 어김없이 열릴 파이콘 한국을 통해
+여러분의 세상이 한 발자국 더 넓어질 수 있기를 바랍니다.
+이곳에 모인 우리는 함께 걸어갈 수 있는 힘을 가진 파이써니스타들이니까요.
+We are Pythonistas.
+
+[파이콘 한국은 다른 개발자 행사와 무엇이 다른가요?]
+파이콘 한국은 커뮤니티 주관으로 이뤄지는 비영리 개발자 대상 행사로, 타 기업 및 기관에서 개최하는 개발자 행사와는 성격이 다릅니다. 발표자와 튜토리얼 진행자를 포함하여, 자원봉사자와 준비위원회 담당자 등 모든 인원이 금전적 이득 없이 순수히 오픈소스 프로그래밍 언어인 파이썬의 저변 확대와 커뮤니티 활성화를 위해 진행하는 행사입니다.",https://i.ytimg.com/vi/vJHe5bqTRZU/sddefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=vJHe5bqTRZU,https://www.youtube.com/watch?v=vJHe5bqTRZU
+38,"[키노트] Light Up Your Life, with Python and LEDs! - Nina Zakharenko - PyCon Korea 2020",https://www.youtube.com/watch?v=zcHEl9f-SDQ,zcHEl9f-SDQ,PyCon Korea,@PyConKRtube,https://www.youtube.com/@PyConKRtube,20201005,1410,168,3.0,,"yt:cc=on,파이콘 한국 2020,파이콘,Python,파이썬,PyConKR,파이콘 한국,PyCon Korea",Science & Technology,"청력에 상관없이 모두가 발표를 접할 수 있도록 파이콘 한국 2020 모든 영상에는 자막이 제공됩니다. 자막 보기 설정을 켜주세요(선택 : 한국어). Every video in PyCon Korea 2020 has subtitles. Please turn on the subtitle view setting.(Language: Korean)
+SHOW MORE 을 누르시면 발표 상세 정보 페이지와 행사 정보를 보실 수 있습니다!
+PyCon Korea 2020 프로그램 자세히 보기 : https://www.pycon.kr/2020/program/keynote/#77
+-----
+[파이콘 한국이란]
+파이콘은 세계 각국의 파이썬 프로그래밍 언어 커뮤니티에서 주관하는 비영리 컨퍼런스입니다. 한국에서는 처음으로 열린 파이콘 한국 2014를 시작으로 파이콘 한국 준비위원회는 건강한 국내 파이썬 생태계에 지속적인 보탬이 되고자, 커뮤니티 멤버들의 자발적인 봉사로 운영되고 있습니다.
+
+[WE ARE PYTHONISTAS]
+파이콘 한국 2020의 슬로건은 ""We are Pythonistas""입니다.
+이 곳에는 '파이썬'이라는 단 하나의 공통점으로 모이는 사람들이 있습니다.
+이제 막 파이썬이 무엇인지 알게 된 사람들,
+파이썬으로 무언가를 만들고 연구하며 세상에 기여하고 있는 사람들,
+다른 이에게 파이썬을 더 널리 알리고 싶은 사람들까지.
+이렇게 다양한 사람들이 모여있는 파이콘 한국에서
+우리는 서로의 경험담에 응원을 보내고, 울고 웃으며 많은 이야기를 나눕니다.
+그렇게 파이콘 한국은 점점 깊어지고, 넓어지고, 단단해졌습니다.
+올해도 어김없이 열릴 파이콘 한국을 통해
+여러분의 세상이 한 발자국 더 넓어질 수 있기를 바랍니다.
+이곳에 모인 우리는 함께 걸어갈 수 있는 힘을 가진 파이써니스타들이니까요.
+We are Pythonistas.
+
+[파이콘 한국은 다른 개발자 행사와 무엇이 다른가요?]
+파이콘 한국은 커뮤니티 주관으로 이뤄지는 비영리 개발자 대상 행사로, 타 기업 및 기관에서 개최하는 개발자 행사와는 성격이 다릅니다. 발표자와 튜토리얼 진행자를 포함하여, 자원봉사자와 준비위원회 담당자 등 모든 인원이 금전적 이득 없이 순수히 오픈소스 프로그래밍 언어인 파이썬의 저변 확대와 커뮤니티 활성화를 위해 진행하는 행사입니다.",https://i.ytimg.com/vi/zcHEl9f-SDQ/sddefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=zcHEl9f-SDQ,https://www.youtube.com/watch?v=zcHEl9f-SDQ
+39,[키노트] g0v.py / g0vernance.txt - Chihhao Yu - PyCon Korea 2020,https://www.youtube.com/watch?v=LuU3oInAfhs,LuU3oInAfhs,PyCon Korea,@PyConKRtube,https://www.youtube.com/@PyConKRtube,20201005,2810,157,5.0,,"yt:cc=on,파이콘 한국 2020,파이콘,Python,파이썬,PyConKR,파이콘 한국,PyCon Korea",Science & Technology,"청력에 상관없이 모두가 발표를 접할 수 있도록 파이콘 한국 2020 모든 영상에는 자막이 제공됩니다. 자막 보기 설정을 켜주세요(선택 : 한국어). Every video in PyCon Korea 2020 has subtitles. Please turn on the subtitle view setting.(Language: Korean)
+SHOW MORE 을 누르시면 발표 상세 정보 페이지와 행사 정보를 보실 수 있습니다!
+PyCon Korea 2020 프로그램 자세히 보기 : https://www.pycon.kr/2020/program/keynote/#79
+-----
+[파이콘 한국이란]
+파이콘은 세계 각국의 파이썬 프로그래밍 언어 커뮤니티에서 주관하는 비영리 컨퍼런스입니다. 한국에서는 처음으로 열린 파이콘 한국 2014를 시작으로 파이콘 한국 준비위원회는 건강한 국내 파이썬 생태계에 지속적인 보탬이 되고자, 커뮤니티 멤버들의 자발적인 봉사로 운영되고 있습니다.
+
+[WE ARE PYTHONISTAS]
+파이콘 한국 2020의 슬로건은 ""We are Pythonistas""입니다.
+이 곳에는 '파이썬'이라는 단 하나의 공통점으로 모이는 사람들이 있습니다.
+이제 막 파이썬이 무엇인지 알게 된 사람들,
+파이썬으로 무언가를 만들고 연구하며 세상에 기여하고 있는 사람들,
+다른 이에게 파이썬을 더 널리 알리고 싶은 사람들까지.
+이렇게 다양한 사람들이 모여있는 파이콘 한국에서
+우리는 서로의 경험담에 응원을 보내고, 울고 웃으며 많은 이야기를 나눕니다.
+그렇게 파이콘 한국은 점점 깊어지고, 넓어지고, 단단해졌습니다.
+올해도 어김없이 열릴 파이콘 한국을 통해
+여러분의 세상이 한 발자국 더 넓어질 수 있기를 바랍니다.
+이곳에 모인 우리는 함께 걸어갈 수 있는 힘을 가진 파이써니스타들이니까요.
+We are Pythonistas.
+
+[파이콘 한국은 다른 개발자 행사와 무엇이 다른가요?]
+파이콘 한국은 커뮤니티 주관으로 이뤄지는 비영리 개발자 대상 행사로, 타 기업 및 기관에서 개최하는 개발자 행사와는 성격이 다릅니다. 발표자와 튜토리얼 진행자를 포함하여, 자원봉사자와 준비위원회 담당자 등 모든 인원이 금전적 이득 없이 순수히 오픈소스 프로그래밍 언어인 파이썬의 저변 확대와 커뮤니티 활성화를 위해 진행하는 행사입니다.",https://i.ytimg.com/vi_webp/LuU3oInAfhs/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=LuU3oInAfhs,https://www.youtube.com/watch?v=LuU3oInAfhs
+40,[키노트] 파이썬 커뮤니티가 교육에 기여할 수 있는 것들 - 송석리 - PyCon Korea 2020,https://www.youtube.com/watch?v=ex2STT6GX-U,ex2STT6GX-U,PyCon Korea,@PyConKRtube,https://www.youtube.com/@PyConKRtube,20201005,2770,677,18.0,,"yt:cc=on,파이콘 한국 2020,파이콘,Python,파이썬,PyConKR,파이콘 한국,PyCon Korea",Science & Technology,"청력에 상관없이 모두가 발표를 접할 수 있도록 파이콘 한국 2020 모든 영상에는 자막이 제공됩니다. 자막 보기 설정을 켜주세요(선택 : 한국어). Every video in PyCon Korea 2020 has subtitles. Please turn on the subtitle view setting.(Language: Korean)
+SHOW MORE 을 누르시면 발표 상세 정보 페이지와 행사 정보를 보실 수 있습니다!
+PyCon Korea 2020 프로그램 자세히 보기 : https://www.pycon.kr/2020/program/keynote/#74
+-----
+[파이콘 한국이란]
+파이콘은 세계 각국의 파이썬 프로그래밍 언어 커뮤니티에서 주관하는 비영리 컨퍼런스입니다. 한국에서는 처음으로 열린 파이콘 한국 2014를 시작으로 파이콘 한국 준비위원회는 건강한 국내 파이썬 생태계에 지속적인 보탬이 되고자, 커뮤니티 멤버들의 자발적인 봉사로 운영되고 있습니다.
+
+[WE ARE PYTHONISTAS]
+파이콘 한국 2020의 슬로건은 ""We are Pythonistas""입니다.
+이 곳에는 '파이썬'이라는 단 하나의 공통점으로 모이는 사람들이 있습니다.
+이제 막 파이썬이 무엇인지 알게 된 사람들,
+파이썬으로 무언가를 만들고 연구하며 세상에 기여하고 있는 사람들,
+다른 이에게 파이썬을 더 널리 알리고 싶은 사람들까지.
+이렇게 다양한 사람들이 모여있는 파이콘 한국에서
+우리는 서로의 경험담에 응원을 보내고, 울고 웃으며 많은 이야기를 나눕니다.
+그렇게 파이콘 한국은 점점 깊어지고, 넓어지고, 단단해졌습니다.
+올해도 어김없이 열릴 파이콘 한국을 통해
+여러분의 세상이 한 발자국 더 넓어질 수 있기를 바랍니다.
+이곳에 모인 우리는 함께 걸어갈 수 있는 힘을 가진 파이써니스타들이니까요.
+We are Pythonistas.
+
+[파이콘 한국은 다른 개발자 행사와 무엇이 다른가요?]
+파이콘 한국은 커뮤니티 주관으로 이뤄지는 비영리 개발자 대상 행사로, 타 기업 및 기관에서 개최하는 개발자 행사와는 성격이 다릅니다. 발표자와 튜토리얼 진행자를 포함하여, 자원봉사자와 준비위원회 담당자 등 모든 인원이 금전적 이득 없이 순수히 오픈소스 프로그래밍 언어인 파이썬의 저변 확대와 커뮤니티 활성화를 위해 진행하는 행사입니다.",https://i.ytimg.com/vi_webp/ex2STT6GX-U/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=ex2STT6GX-U,https://www.youtube.com/watch?v=ex2STT6GX-U
+41,9/27 일요일 라이트닝 토크 Sunday Lightning Talk - PyCon Korea 2020,https://www.youtube.com/watch?v=s8yBnEcOYN8,s8yBnEcOYN8,PyCon Korea,@PyConKRtube,https://www.youtube.com/@PyConKRtube,20200927,875,324,9.0,,"yt:cc=on,파이콘 한국 2020,파이콘,Python,파이썬,PyConKR,파이콘 한국,PyCon Korea",Science & Technology,"00:10   김효린 - 양자한테 얽힌 개발자 
+05:05   정우주 - 비전공자가 커뮤니티로 파이썬하기
+09:28   이제현 - Since Pycon, 세상 밖으로 
+PyCon Korea 2020 프로그램 자세히 보기 : https://pycon.kr/2020/program/talk/81
+
+청력에 상관없이 모두가 발표를 접할 수 있도록 파이콘 한국 2020 모든 영상에는 자막이 제공됩니다. 
+자막 보기 설정을 켜주세요(선택 : 한국어). Every video in PyCon Korea 2020 has subtitles. Please turn on the subtitle view setting.(Language: Korean) 
+SHOW MORE 을 누르시면 발표 소개 페이지와 행사 정보를 보실 수 있습니다! 
+-----
+[파이콘 한국이란]
+파이콘은 세계 각국의 파이썬 프로그래밍 언어 커뮤니티에서 주관하는 비영리 컨퍼런스입니다. 한국에서는 처음으로 열린 파이콘 한국 2014를 시작으로 파이콘 한국 준비위원회는 건강한 국내 파이썬 생태계에 지속적인 보탬이 되고자, 커뮤니티 멤버들의 자발적인 봉사로 운영되고 있습니다.
+
+[WE ARE PYTHONISTAS]
+파이콘 한국 2020의 슬로건은 ""We are Pythonistas""입니다.
+이 곳에는 '파이썬'이라는 단 하나의 공통점으로 모이는 사람들이 있습니다.
+이제 막 파이썬이 무엇인지 알게 된 사람들,
+파이썬으로 무언가를 만들고 연구하며 세상에 기여하고 있는 사람들,
+다른 이에게 파이썬을 더 널리 알리고 싶은 사람들까지.
+이렇게 다양한 사람들이 모여있는 파이콘 한국에서
+우리는 서로의 경험담에 응원을 보내고, 울고 웃으며 많은 이야기를 나눕니다.
+그렇게 파이콘 한국은 점점 깊어지고, 넓어지고, 단단해졌습니다.
+올해도 어김없이 열릴 파이콘 한국을 통해
+여러분의 세상이 한 발자국 더 넓어질 수 있기를 바랍니다.
+이곳에 모인 우리는 함께 걸어갈 수 있는 힘을 가진 파이써니스타들이니까요.
+We are Pythonistas.
+
+[파이콘 한국은 다른 개발자 행사와 무엇이 다른가요?]
+파이콘 한국은 커뮤니티 주관으로 이뤄지는 비영리 개발자 대상 행사로, 타 기업 및 기관에서 개최하는 개발자 행사와는 성격이 다릅니다. 발표자와 튜토리얼 진행자를 포함하여, 자원봉사자와 준비위원회 담당자 등 모든 인원이 금전적 이득 없이 순수히 오픈소스 프로그래밍 언어인 파이썬의 저변 확대와 커뮤니티 활성화를 위해 진행하는 행사입니다.",https://i.ytimg.com/vi/s8yBnEcOYN8/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=s8yBnEcOYN8,https://www.youtube.com/watch?v=s8yBnEcOYN8
+42,9/26 토요일 라이트닝 토크 Saturday Lightning Talk - PyCon Korea 2020,https://www.youtube.com/watch?v=wY7NBE6exz0,wY7NBE6exz0,PyCon Korea,@PyConKRtube,https://www.youtube.com/@PyConKRtube,20200926,501,242,12.0,,"yt:cc=on,파이콘 한국 2020,파이콘,Python,파이썬,PyConKR,파이콘 한국,PyCon Korea",Science & Technology,"0:10 황창현 - 기술블로그 파이썬으로 정적블로그 시작하자
+4:12 손지은 - 영문과가 데이터 분석하러가서 영어 배우고 온 썰
+PyCon Korea 2020 프로그램 자세히 보기 : https://pycon.kr/2020/program/talk/80
+
+청력에 상관없이 모두가 발표를 접할 수 있도록 파이콘 한국 2020 모든 영상에는 자막이 제공됩니다. 
+자막 보기 설정을 켜주세요(선택 : 한국어). Every video in PyCon Korea 2020 has subtitles. Please turn on the subtitle view setting.(Language: Korean) 
+SHOW MORE 을 누르시면 발표 소개 페이지와 행사 정보를 보실 수 있습니다! 
+-----
+[파이콘 한국이란]
+파이콘은 세계 각국의 파이썬 프로그래밍 언어 커뮤니티에서 주관하는 비영리 컨퍼런스입니다. 한국에서는 처음으로 열린 파이콘 한국 2014를 시작으로 파이콘 한국 준비위원회는 건강한 국내 파이썬 생태계에 지속적인 보탬이 되고자, 커뮤니티 멤버들의 자발적인 봉사로 운영되고 있습니다.
+
+[WE ARE PYTHONISTAS]
+파이콘 한국 2020의 슬로건은 ""We are Pythonistas""입니다.
+이 곳에는 '파이썬'이라는 단 하나의 공통점으로 모이는 사람들이 있습니다.
+이제 막 파이썬이 무엇인지 알게 된 사람들,
+파이썬으로 무언가를 만들고 연구하며 세상에 기여하고 있는 사람들,
+다른 이에게 파이썬을 더 널리 알리고 싶은 사람들까지.
+이렇게 다양한 사람들이 모여있는 파이콘 한국에서
+우리는 서로의 경험담에 응원을 보내고, 울고 웃으며 많은 이야기를 나눕니다.
+그렇게 파이콘 한국은 점점 깊어지고, 넓어지고, 단단해졌습니다.
+올해도 어김없이 열릴 파이콘 한국을 통해
+여러분의 세상이 한 발자국 더 넓어질 수 있기를 바랍니다.
+이곳에 모인 우리는 함께 걸어갈 수 있는 힘을 가진 파이써니스타들이니까요.
+We are Pythonistas.
+
+[파이콘 한국은 다른 개발자 행사와 무엇이 다른가요?]
+파이콘 한국은 커뮤니티 주관으로 이뤄지는 비영리 개발자 대상 행사로, 타 기업 및 기관에서 개최하는 개발자 행사와는 성격이 다릅니다. 발표자와 튜토리얼 진행자를 포함하여, 자원봉사자와 준비위원회 담당자 등 모든 인원이 금전적 이득 없이 순수히 오픈소스 프로그래밍 언어인 파이썬의 저변 확대와 커뮤니티 활성화를 위해 진행하는 행사입니다.",https://i.ytimg.com/vi/wY7NBE6exz0/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=wY7NBE6exz0,https://www.youtube.com/watch?v=wY7NBE6exz0

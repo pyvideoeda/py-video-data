@@ -1,0 +1,356 @@
+﻿index,title,url,video_id,uploader,uploader_id,uploader_url,upload_date,duration,view_count,like_count,comment_count,tags,categories,description,thumbnail,age_limit,is_live,was_live,availability,webpage_url,original_url
+1,PyCon KR 2023 몰아보기,https://www.youtube.com/watch?v=dJlX0i-q4ck,dJlX0i-q4ck,PyCon Korea,@PyConKRtube,https://www.youtube.com/@PyConKRtube,20230922,121,1469,24,3.0,,Howto & Style,파이콘 한국 2023의 몰아보기 영상을 공개합니다.,https://i.ytimg.com/vi/dJlX0i-q4ck/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=dJlX0i-q4ck,https://www.youtube.com/watch?v=dJlX0i-q4ck
+2,PyCon KR 2023 Async State Machine 이상훈,https://www.youtube.com/watch?v=boFerSeA4zY,boFerSeA4zY,PyCon Korea,@PyConKRtube,https://www.youtube.com/@PyConKRtube,20231011,1223,414,13,,,Howto & Style,"파이썬으로 구현된 분산 시스템에서 시간이 오래 걸리는 작업의 추적 및 상태 관리에 대한 어려움과 이를 해결하기 위한 추상적 아이디어들을 제시합니다.
+코드 예시가 있기는 하지만 상세한 파이썬 코드 구현은 없고 고수준으로 추상화된 예시만 나오는 가벼운 발표이니 이 점 염두에 두시기 바랍니다.
+
+이상훈
+3년차 파이썬 개발자. 좋은 소프트웨어란 무엇인지 고민이 많은 주니어입니다. TMI: 크로스핏과 고기, 빵을 좋아합니다.",https://i.ytimg.com/vi/boFerSeA4zY/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=boFerSeA4zY,https://www.youtube.com/watch?v=boFerSeA4zY
+3,PyCon KR 2023 우리 파이썬이의 꼬꼬마 시절 장혜식,https://www.youtube.com/watch?v=P6mT_SQwxt4,P6mT_SQwxt4,PyCon Korea,@PyConKRtube,https://www.youtube.com/@PyConKRtube,20231010,1794,387,17,1.0,,Howto & Style,"프로그래밍 언어에서 영어 역할을 하는 것은? 파이썬! — 언젠가부터 당연한 말이 됐죠.
+그런데 Perl은 알아도 파이썬은 처음 듣는 사람도 많던 무명 시절을 10년도 넘게 겪고, 떠오르는 Ruby에 밀려 노쇠한 언어처럼 되기도 했다가, 결국 만국공통어가 되기까지..! 무슨 일이 있었을까요?
+
+print 뒤에 ()도 안 쓰는 원시시대에서 온 것 같은 Python 2 코드.. 그런 Python 2도 싱그러운 어린 시절이 있었을까요? 한글 표기로 파이손, 파이톤, 파이선, 퓌톤, 그리고.. 피똥(!) 이라고 부르는 사람이 거의 같은 비율로 섞여 있던 20세기가 지나가며, 어떻게 다행히도 외래어 한글표기법에도 어긋나는 “파이썬”이라는 표기법이 표준표기로 채택될 수 있었을까요?
+
+이 시간에는 파이썬의 폭풍 성장기인 Python 2의 발전 과정과 한국에서 파이썬 커뮤니티가 자리잡기까지 이야기를 들려드립니다.
+
+
+장혜식
+22년 전인 2001년부터 몇 년 정도 파이썬 커미터로 활동했습니다. 모임 만들기를 좋아해서 국내 파이썬 사용자 모임을 몇 년 열심히 운영했습니다. 지금은 서울대학교 생명과학부에서 조교수로 일하면서 파이썬으로 세포 안에 있는 정보를 분석해서 생명의 신비를 탐험하는 일을 주로 하고 있습니다. https://qbio.io/",https://i.ytimg.com/vi/P6mT_SQwxt4/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgWShYMA8=&rs=AOn4CLBwn0bd16vXx1AEinPLGvnds_BxBw,0,False,False,public,https://www.youtube.com/watch?v=P6mT_SQwxt4,https://www.youtube.com/watch?v=P6mT_SQwxt4
+4,PyCon KR 2023 파이썬 사용자와 만난 RustPython 정윤원,https://www.youtube.com/watch?v=OpeIrYTnVl4,OpeIrYTnVl4,PyCon Korea,@PyConKRtube,https://www.youtube.com/@PyConKRtube,20231010,1971,385,16,2.0,,Howto & Style,"""RustPython은 러스트 프로그래밍 언어로 파이썬을 다시 구현하는 프로젝트입니다.
+RustPython은 그동안 신기하거나 재미있는 프로젝트이기는 했지만, 파이썬 사용자들과는 거리가 먼 프로젝트였습니다.
+5년차의 프로젝트 RustPython이 전세계 파이썬 개발자들 매일 쓰는 린터 Ruff와 만났습니다. 어쩌면 오픈소스 세계에서는 일상이라고도 할 수 있겠지만, 그래도 RustPython 개발자들도 예상하지 못했던 이 만남에 관한 이야기를 들려드립니다.""
+
+---
+
+정윤원
+라인에서 HFT 개발을 하고 있습니다. 오픈소스 프로젝트 RustPython, 구름 입력기 등을 운영하고 있습니다. 러스트 프로그래밍으로 파이썬을 이롭게 합니다. https://github.com/youknowone",https://i.ytimg.com/vi/OpeIrYTnVl4/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=OpeIrYTnVl4,https://www.youtube.com/watch?v=OpeIrYTnVl4
+5,PyCon KR 2023 Django 컨트리뷰터가 되기까지의 여정 윤준기,https://www.youtube.com/watch?v=tPFQmAO42uM,tPFQmAO42uM,PyCon Korea,@PyConKRtube,https://www.youtube.com/@PyConKRtube,20231011,991,376,16,1.0,,Howto & Style,"Django의 컨트리뷰터가 되기까지의 여정을 소개합니다.
+
+커다란 오픈소스에 기여하면서 겪었던 에피소드, 경험, 배운점을 공유하는 세션입니다.
+
+오픈소스를 시작한 이유, 버그 티켓 찾기, 디버깅을 통한 전체적인 흐름 파악, 버그 패치와 테스트 코드 작성, 메인테이너의 리뷰까지 오픈소스 기여를 위한 전반적인 프로세스에 대해서 이야기합니다.
+
+특히 오픈소스에 관심이 많거나 기여를 해보고 싶다는 생각을 해보신적이 있는 분들이라면 많은 도움이 될 것입니다.
+
+감사합니다 :)
+
+
+윤준기
+안녕하세요, 3년차 백엔드 엔지니어 윤준기입니다. Django 웹 프레임워크를 많이 사용하다보니 자연스럽게 오픈소스 활동에도 관심을 가지고 있습니다. 단순히 코드를 개발하는 것 뿐만 아니라 개발과 관련된 좋은 코드, 문화, 커뮤니케이션, 비즈니스 등 여러 영역에 대해서 관심이 있고 이야기하는 것을 좋아합니다. 커리어를 시작하면서부터 꿈꿔왔던 컨퍼런스 발표를 하게되어서 굉장히 기쁘고 설렙니다.",https://i.ytimg.com/vi/tPFQmAO42uM/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=tPFQmAO42uM,https://www.youtube.com/watch?v=tPFQmAO42uM
+6,PyCon KR 2023 Django 봄은 다시 온다 정경업,https://www.youtube.com/watch?v=HeMXWd6QSGg,HeMXWd6QSGg,PyCon Korea,@PyConKRtube,https://www.youtube.com/@PyConKRtube,20231011,924,903,19,3.0,,Howto & Style,"좋은 코드는 무엇일까요?
+
+모든 개발자들은 좋은 코드를 작성하고 싶어합니다.
+하지만 정확히 무엇이 좋은 코드인지 정의하기는 어렵습니다.
+
+모든 상황에서 좋은 코드를 정의할 수는 없겠지만,
+웹 서비스를 기준으로 좋은 코드의 특징을 정리해보았습니다.
+
+이번 발표에서는 어떻게 좋은 코드를 작성할 수 있는지,
+Django를 예시로 들어 최대한 쉽게 설명해보려 합니다.
+
+개발을 하면서 생산성이 떨어진다고 느낄 때,
+잠시 생각을 정리하고 아이디어를 얻을 수 있기를 바라며
+이 발표를 준비했습니다.
+
+정경업
+오랫동안 Django를 현업에서 사용하여 웹 서비스를 만들고 운영해왔던 개발자입니다. 여러 스타트업과 도메인을 겪으며, 지속 가능한 개발을 추구해왔습니다. 어쩌다보니 소방수 역할 여러번 해왔고, 현재는 프리랜서로 활동하고 있습니다.",https://i.ytimg.com/vi/HeMXWd6QSGg/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=HeMXWd6QSGg,https://www.youtube.com/watch?v=HeMXWd6QSGg
+7,PyCon KR 2023 Improving Debuggability of Complex Asyncio Applications 김준기,https://www.youtube.com/watch?v=rSv6ua9VkXA,rSv6ua9VkXA,PyCon Korea,@PyConKRtube,https://www.youtube.com/@PyConKRtube,20231011,1208,249,10,,,Howto & Style,"디버깅에서 가장 중요한 것은 관찰 가능성과 재현 가능성입니다. asyncio 표준 라이브러리의 꾸준한 개선에도 불구하고, 실제 프로덕션 수준의 복잡한 asyncio 애플리케이션 내부에서 무슨 일이 일어나는지 들여다보는 것은 여전히 어려운 문제입니다. 특히 내가 제어할 수 없는 여러 3rd-party 라이브러리와 프레임워크가 혼용되어 돌아갈 때, 조용하게 삼켜진 cancalleation 신호나 어떤 외부 코드 내부에서 임의로 만들어진 콜백과 코루틴 작업들 때문에 발생하는 리소스 문제는 굉장히 디버깅하기 어렵습니다. 게다가 이런 문제들은 개발 환경보다는 실제 워크로드가 있는 프로덕션 환경에서만 발생하곤 합니다.
+
+이 발표에서는 기존에 공개되어 있던 aiomonitor 라이브러리를 더욱 개선한 aiomonitor-ng 라이브러리를 선보입니다. 기존 라이브러리가 간단한 telnet 서버와 REPL을 기반으로 현재 실행 중인 asyncio 프로세스를 들여다보는 것을 도와주었고 실제 프로덕션 디버깅에서 도움을 받기도 합니다. 하지만 1년 이상 써오면서 부족한 기능들을 절감하게 되었고 직접 task 생성 및 취소·종료 스택 체인을 추적하는 기능을 포함하여 다양한 기능 추가를 직접 진행하게 되었습니다. 사용 편의를 위한 자동완성이 지원되는 터미널 UI도 추가하였죠.
+
+aiomonitor와 이렇게 개선한 aiomonitor-ng를 활용하여 실제로 다수의 프로덕션 이슈들을 발견하고 분석하는 데 활용할 수 있었습니다. 이 경험을 여러분들도 보다 안정적으로 동작하는 asyncio 애플리케이션을 만드는 데 활용할 수 있기를 바랍니다.
+
+
+김준기
+현재 Lablup (""래블업"") CTO를 맡아 Backend.AI를 개발하고 있으며, 다양한 규모의 백엔드 시스템에 대한 분석 및 구현 경험을 가지고 있습니다. 오픈소스 활동을 통해 Textcube, iPuTTY, CPython, DPDK, pyzmq, aiodocker, aiohttp 등의 프로젝트에 기여해왔습니다.",https://i.ytimg.com/vi/rSv6ua9VkXA/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=rSv6ua9VkXA,https://www.youtube.com/watch?v=rSv6ua9VkXA
+8,"PyCon KR 2023 로컬 환경에서 사이즈가 큰 데이터를 효과적으로 처리,분석하기 위한 전략 오성우",https://www.youtube.com/watch?v=M6YuOk4dAH4,M6YuOk4dAH4,PyCon Korea,@PyConKRtube,https://www.youtube.com/@PyConKRtube,20231011,2523,679,29,,,Howto & Style,"최근 받았던 질문 ""데이터 크기가 5TB가 넘어 너무 커서 하드디스크에도 저장하지도 못하는데 어떻게 데이터를 읽고 분석해야 할까요?""에 대한 해답과 방향을 제시하기 위해 이 세션을 준비했습니다. 비슷한 고민을 하시는 분들께 유익한 세션이 될 것입니다.
+
+1️⃣ 먼저, 본 세션에서는 Pandas를 활용한 대용량 데이터 처리에 대한 전략과 관련 라이브러리를 소개할 계획입니다.
+데이터 처리에서 중요한 역할을 해온 Pandas, 하지만 클라우드 시대와 대규모, 대용량의 데이터의 시대에 접어들면서 그 한계점이 부각되고 있습니다.
+2008년 첫 배포 이후 2023년 올해 4월 Pandas 2.0의 배포까지의 타임라인과 주요 변화를 살펴봅니다.
+
+2️⃣ 이어서, 2019년에 발표된 세션에서 제시했던 전략들이 2023년 현재에도 여전히 유효한지를 검증하는 과정도 다룹니다.
+이 과정을 통해 기존의 전략이 현재의 데이터 환경에도 적합한지, 그리고 어떤 부분이 개선되었는지에 대해 깊이 있게 살펴볼 수 있을 것입니다.
+
+이 세션에 참가하기 전에 아래의 링크를 따라 2019년에 제시했던 전략을 확인하고 참여하시면 좋을 것 같습니다.
+• 발표영상: https://www.youtube.com/watch?v=0Vm9Yi_ig58
+• 발표자료: https://drive.google.com/file/d/12faqaslFIF-Sg_sU3jeGyauW5ClRqS8D/view
+
+3️⃣ 특히 Pandas 2.0에서 CoW의 적용과 Apache Arrow와의 통합을 통해 어떤 변화가 일어났는지 살펴봅니다.
+그리고 Method Chaining과 String 데이터 유형에 대한 내용도 새롭게 추가했습니다.
+
+4️⃣ 그 다음, 대용량 데이터를 스트리밍하고 처리하기 위한 유용한 도구인
+
+오성우
+10년 가까이 기계학습, 인공지능 분야를 업으로 삼으면서 Python과 수많은 오픈소스 커뮤니티의 도움을 받았습니다. KB국민은행에서 자연어처리 분야 AI 엔지니어로 근무하며 언어모델(Language Model) 학습과 챗봇 개발을 주로 했습니다.
+최근 SFT 모델을 실무에 적용하는 한편 생성형 AI의 개발 및 응용을 위한 다양한 업무를 함께 수행하고 있습니다. 오픈 커뮤니티 활동으로는 한국금융인공지능연구원(KIFAI)에서 초거대언어모델 LLM을 학습하고 있으며, 더불어 일반인들을 위한 Financial AI Assistant를 개발/오픈 예정입니다.",https://i.ytimg.com/vi/M6YuOk4dAH4/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=M6YuOk4dAH4,https://www.youtube.com/watch?v=M6YuOk4dAH4
+9,PyCon KR 2023 파이썬을 처음 사용하는 동료와 효율적으로 일하는 방법 이태현,https://www.youtube.com/watch?v=RgMCqc-VPL4,RgMCqc-VPL4,PyCon Korea,@PyConKRtube,https://www.youtube.com/@PyConKRtube,20231011,2387,602,14,,,Howto & Style,"어떻게 하면 파이썬을 처음 사용해보는 동료와 효율적으로 일할 수 있을까요? 파이썬이 가진 언어적 특성과 효율적인 업무란 무엇인지, 그리고 어떤 파이썬의 도구들을 활용하여 업무의 효율성을 달성할 수 있을지 이야기하는 세션입니다. 가벼운 마음으로 들으러 와주세요!
+
+이태현
+Be Happy",https://i.ytimg.com/vi/RgMCqc-VPL4/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=RgMCqc-VPL4,https://www.youtube.com/watch?v=RgMCqc-VPL4
+10,PyCon KR Jupyter Book을 활용해 손쉽게 콘텐츠를 생산하고 공유하자 안성진,https://www.youtube.com/watch?v=VXPZ0omr5UE,VXPZ0omr5UE,PyCon Korea,@PyConKRtube,https://www.youtube.com/@PyConKRtube,20231011,2273,396,12,,,Howto & Style,"ython을 활용한 데이터 분석 및 연구를 진행할 때에는 .ipynb 파일을 주로 사용합니다. 해당 콘텐츠를 공개적으로 공유할 때에는 주로 GitHub을 사용합니다. GitHub은 개발자 친화적인 코드 관리 플랫폼이기 때문에 비개발자인 의사결정권자, 이해관계자, 및 기타 인원들이 콘텐츠를 소비하기에는 효율적인 플랫폼이 아닙니다. 이번 세션에서는 Jupyter Book를 활용하여 .ipynb파일을 출판물 수준의 결과물로 변환 시키고, 누구나 접근하기 쉽도록 온라인 상에 공유하는 방법에 대해 살펴보고자 합니다.
+
+
+안성진
+클라우드, 머신러닝, 데이터 과학 관련 기술에 관심이 많습니다. 또한 언어적 요인으로 인해 발생하는 정보 격차 문제를 해소하는 것에 관심이 많습니다. Microsoft에서 Technical Trainer로 근무하고 있으며, Azure에 있는 Data & AI 서비스를 쉽게 이해하실 수 있게 강의를 진행하고 있습니다.",https://i.ytimg.com/vi/VXPZ0omr5UE/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=VXPZ0omr5UE,https://www.youtube.com/watch?v=VXPZ0omr5UE
+11,PyCon KR 2023 Icebreaking with import 윤수진,https://www.youtube.com/watch?v=f58sIwixXRs,f58sIwixXRs,PyCon Korea,@PyConKRtube,https://www.youtube.com/@PyConKRtube,20231012,761,433,12,1.0,,Howto & Style,"제가 파이썬을 쓰기 시작하면서 가장 많이 골머리를 앓았던 것 중 하나가 import였던 것 같습니다. 저를 괴롭히는 import에 대해 알아보고 싶었고, 그 과정을 공유함으로써 다른 사람들에게 조금이나마 도움이 되었으면 합니다.
+
+윤수진
+파이썬을 사랑하는 1년차 주니어 개발자 윤수진입니다. 현재 애니메이션 스트리밍 회사 ‘라프텔‘에서 파이썬, 장고를 이용하여 개발하고 있습니다. 비교적 늦게 개발을 시작하게 되었지만, 걷잡을 수 없이 푹 빠져들어서 이 분야에 뼈를 묻어야겠다고 생각했습니다. 개발을 하게 되면서 배울 것이 너무나도 많아서 하루하루가 행복합니다. 아침에 눈을 뜨면 오늘은 또 어떤 새로운 것들을 알게 될지 궁금하고 기대가 됩니다. 42Seoul 출신으로, ‘혼자 가면 빨리 가고, 함께 가면 오래 간다’는 말을 좋아합니다. 저는 함께, 그리고 오래 가는 개발자가 되고 싶습니다.",https://i.ytimg.com/vi/f58sIwixXRs/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=f58sIwixXRs,https://www.youtube.com/watch?v=f58sIwixXRs
+12,PyCon KR 2023 mypy에 올라타서 함수 호출자를 재귀적으로 탐색하기 양경모,https://www.youtube.com/watch?v=DMm41d8XKIE,DMm41d8XKIE,PyCon Korea,@PyConKRtube,https://www.youtube.com/@PyConKRtube,20231012,1178,220,4,,,Howto & Style,"정적 타입 체크를 위해 사용하는 mypy, 많이들 사용하시나요?
+이 세션에서는 mypy를 응용해 함수 호출자를 찾는 스크립트를 만든 사례를 소개합니다.
+
+소개드릴 스크립트는 레거시 파이썬 API 서버를 신규 프로젝트로 옮기는 TF에 참여하면서 사용했습니다. API에서 DB에 쓰기 작업을 할 경우만 분별해서 QA를 하고싶습니다. 하지만 프로젝트가 너무 커서, 손으로 다 찾기에는 너무 많은 것이 문제였습니다. 이때 작성한 스크립트는 DB 호출을 찾는 수작업을 제거해 작업 효율 개선에 도움을 주었습니다.
+
+발표는 스크립트를 만드는 과정을 중심으로, 왜 mypy를 써야했는지와 mypy의 내부구조 및 작동 방식을 훑어보는 내용이 포함되어있습니다.
+
+파이썬에 이미 익숙하신 분들이라도 mypy의 동작 방식에 대해 궁금하거나, 스크립트를 어떻게 개발했는지 궁금하신 분들께서는 이 세션을 통해 새로운 지식을 얻으실 수 있을 것으로 기대합니다.
+
+양경모
+뷰티 플랫폼 화해의 백엔드 개발을 맡고 있는 4년차 개발자로 검색과 추천을 담당하며 여러분에게 원하는 정보를 빠르게 전달해드리기 위해 힘쓰고 있습니다. 이전에는 광고 플랫폼 회사인 버즈빌에서 광고 상품 개발을 담당하며 광고주와 MAU 2천만의 유저들이 모두 만족하는 가치를 목표했습니다. 커리어의 시작부터 가치를 빠르게 전달하기 위한 언어로 파이썬을 사용해왔고 좋은 동료들의 도움으로 이를 다듬어나가고 있습니다. 스스로의 발전을 위해 그리고 더 많은 사람을 돕기 위해 오픈소스에 관심을 가지며 공부해왔고, 덕분에 파이콘에서 발표할 수 있는 좋은 기회를 얻게 되었습니다.",https://i.ytimg.com/vi/DMm41d8XKIE/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=DMm41d8XKIE,https://www.youtube.com/watch?v=DMm41d8XKIE
+13,PyCon KR 2023 Python 개발자를 위한 Nix 김수빈,https://www.youtube.com/watch?v=Y5NHZ1YXnM4,Y5NHZ1YXnM4,PyCon Korea,@PyConKRtube,https://www.youtube.com/@PyConKRtube,20231012,974,542,16,,,Howto & Style,"이 세션에서는 Python 개발자 분들을 위한 Nix를 간단하게 소개드립니다.
+
+제가 기존에 느꼈던 Python 환경에서의 문제점에 대해 먼저 소개드리고, Nix가 무엇인지, 그리고 Nix를 이용해 Python 개발 환경을 설정하는 방법을 소개드립니다. 조금 더 나아가 Python 패키지를 패키징하고, OCI 컨테이너 이미지를 빌드하는 방법에 대해서도 간단히 소개 드리고자 합니다. 마지막으로는 몇 년 동안 Nix를 사용하면서 얻은 개인적인 경험과 후기를 공유 드리려 합니다.
+
+이 세션이 저와 같은 문제를 겪고 계신 분들께 도움이 되었으면 합니다.
+
+김수빈
+비바리퍼블리카에서 Python으로 백엔드 개발, 플랫폼 개발을 하고 있는 김수빈입니다. 팀 내에서 Python 개발자들과 함께 협업하면서 더 편하고 일관적인 개발 환경과 배포 환경에 대해 고민하고 있고, 그 경험을 공유드리고자 합니다. 부족한 부분이 많지만 잘 준비해보겠습니다 :)",https://i.ytimg.com/vi/Y5NHZ1YXnM4/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=Y5NHZ1YXnM4,https://www.youtube.com/watch?v=Y5NHZ1YXnM4
+14,PyCon KR 2023 구글 클라우드는 Gen AI 앱 개발을 어떻게 도와줄 수 있을까  김일호,https://www.youtube.com/watch?v=0iHrxrc9wYQ,0iHrxrc9wYQ,PyCon Korea,@PyConKRtube,https://www.youtube.com/@PyConKRtube,20231012,1442,190,4,,,Howto & Style,"Why Google for Gen AI? 에 대한 이유와 Gen AI 앱을 구글 클라우드를 활용하여 개발할 수 있는 서비스와 기술을 소개합니다.
+여러 영역에서 고객분들의 Gen AI 활용을 도와 드릴 수 있는 정보를 얻으실 수 있습니다.
+
+김일호(Andy)
+현재 Google Cloud Customer Engineering Manager로 다양한 고객분들의 Innovation을 돕고 있습니다.
+이전에는 2013년부터 아마존에서 클라우드 솔루션 아키텍트로 근무하였습니다. 최근에는 Gen AI에 대한 메시지를 전달하고 있습니다.",https://i.ytimg.com/vi/0iHrxrc9wYQ/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=0iHrxrc9wYQ,https://www.youtube.com/watch?v=0iHrxrc9wYQ
+15,PyCon KR 2023 짠내나는 데이터 다루기 박조은,https://www.youtube.com/watch?v=4VpJDeqrdKc,4VpJDeqrdKc,PyCon Korea,@PyConKRtube,https://www.youtube.com/@PyConKRtube,20231012,2505,890,22,,,Howto & Style,"평소 우리가 사용하는 메모리 크기는 작게는 4G에서 크게는 64G 이상이 되기도 합니다. 기업에서는 그 보다 큰 메모리를 사용하는 곳도 있지만 대부분 비용 문제로 좋은 장비를 사용하는 곳은 제한적입니다.
+제한된 환경에서 비싼 장비를 구매하면 더 많은 데이터와 처리를 할 수 있지만 현실은 녹록치 않을 수 있습니다. 비용을 쓰지 않고 제한된 환경에서 큰 데이터를 다루고자 할 때 접근할 수 있는 다양한 방법을 파이썬을 활용하여 해결해 보고자 합니다.
+
+박조은
+`오늘코드`라는 유튜브 채널을 운영하고 있습니다. Microsoft MVP이기도 하며, 평소 데이터에 관심이 많고 파이썬으로 데이터 다루는 것을 즐겨합니다. 주로 게임과 광고회사에서 백엔드 개발자로 근무해 왔으며 최근에는 다양한 도메인의 기업, 교육기관, 학교에서 강의를 하거나 콘텐츠를 만들고 프로젝트를 진행하고 있습니다.",https://i.ytimg.com/vi/4VpJDeqrdKc/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=4VpJDeqrdKc,https://www.youtube.com/watch?v=4VpJDeqrdKc
+16,PyCon KR 2023 Introduction to Structural Pattern Matching Takanori Suzuki,https://www.youtube.com/watch?v=3KHBH8AG8SQ,3KHBH8AG8SQ,PyCon Korea,@PyConKRtube,https://www.youtube.com/@PyConKRtube,20231017,1784,172,5,,,Howto & Style,"Structural Pattern Matching is a new feature in Python 3.10. I think it's a big feature added to Python after a long time. In this talk, I will show you the basic usage of the feature with various sample code. Let's try to understand how to use Pattern Matching and start using it in 3.10.
+
+In this talk, I will introduce the motivation behind Strucral Pattern Matching from PEP.
+Then I will explain the syntax and basic usage of Strucral Pattern Matching.
+Next I will show how to use the various patterns with sample code.
+The patterns introduced are Literal, Capture, Wildcard, OR, Value, Group, Class, Sequence, Mapping, AS and Guards.
+
+Takanori Suzuki
+Takanori is a Chairperson of PyCon JP Association(www.pycon.jp). He is also a director of BeProud Inc.(www.beproud.jp), and his title is ""Python Climber"". Takanori held PyCon JP 2014 to 2016 as the chairperson. Currently he teaches Python to beginners as a lecturer at Python Boot Camp(pycamp.pycon.jp) all over Japan. In addition, he published several Python books. Tananori plays trumpet, climbs boulder, loves Lego, ferrets and beer.",https://i.ytimg.com/vi/3KHBH8AG8SQ/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=3KHBH8AG8SQ,https://www.youtube.com/watch?v=3KHBH8AG8SQ
+17,PyCon KR 2023 15년만에 Python2에서 Python3으로 migration 강지훈,https://www.youtube.com/watch?v=CP6o5cMAnYU,CP6o5cMAnYU,PyCon Korea,@PyConKRtube,https://www.youtube.com/@PyConKRtube,20231017,989,347,10,,,Howto & Style,"NAVER Search SRE 팀에서 검색 서비스 모니터링 시스템에 사용되는 Python2를 Python3로 migration 한 과정들을 소개합니다.
+오랜 기간 동안 운영된 프로젝트는 15년 동안 4만 줄 이상의 Python2 코드로 작성되어 있으며 복잡도가 높은 상태였습니다.
+Python2를 지속적으로 사용하면서 어떤 어려움들이 있었는지, Python3로 좀 더 일찍 전환하지 못한 이유가 무엇인지, Python2와 Python3 버전 간에 어떤 차이점이 있는지 다룹니다.
+Python3를 사용하기 앞서 직접 CPython을 빌드하는 방법과 어떤 과정을 통해 전환 작업을 거쳤는지 이야기합니다.
+전환 이후 서비스에서 어떤 과정을 거쳐 이상 유무를 판단하고 검증한 과정들을 공유합니다.
+
+강지훈
+현재 NAVER Search SRE 에서 검색 서비스 모니터링 시스템을 개발하고 있습니다. Pycon Korea 2020 에서 “대본 프롬프터 서비스에서의 문장 유사도 알고리즘 개발 경험 공유” 세션으로 발표를 진행했었는데 이번 Pycon Korea 2023에도 참여하게 되었습니다.",https://i.ytimg.com/vi/CP6o5cMAnYU/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=CP6o5cMAnYU,https://www.youtube.com/watch?v=CP6o5cMAnYU
+18,PyCon KR 2023 pandas와 PySpark로 데이터 워크로드 확장하기 권혁진,https://www.youtube.com/watch?v=Rpsf61z4uNw,Rpsf61z4uNw,PyCon Korea,@PyConKRtube,https://www.youtube.com/@PyConKRtube,20231017,1985,769,27,,,Howto & Style,"pandas는 데이터 전처리 및 분석 작업에서 널리 사용되지만, 대용량 데이터 처리를 위해 설계되지 않았습니다. 이로 인해 데이터 분석가들은 다음과 같은 딜레마를 직면하게 됩니다: 데이터를 다운샘플링하여 정보를 손실할 것인지, 아니면 분산 처리 프레임워크를 사용하여 데이터 워크로드를 확장할 것인지 선택해야 합니다.
+
+PySpark는 이러한 경우를 위한 대표적인 분산 처리 도구 중 하나입니다. 그러나 이를 사용하기 위해서는 데이터 분석가들이 새로운 PySpark를 처음부터 배워야 하는 번거로움이 있습니다. 이러한 문제를 해결하기 위해, Apache Spark는 pandas API를 제공합니다. 기존에 pandas를 사용하던 사용자들은 단순히 pandas 패키지를 pyspark.pandas로 교체함으로써 기존 워크로드를 분산 처리할 수 있습니다.
+
+다른 방법으로는, 기존의 PySpark API에 포함되지 않은 사용자 정의 함수(UDF)를 직접 작성하여 처리 할 수 있습니다. Spark 3.0에서 도입된 Pandas Function APIs는 사용자가 임의의 Python 네이티브 함수를 PySpark 데이터프레임에 적용하여 pandas 인스턴스로 입력 및 출력을 처리할 수 있게 해줍니다. 이를 통해 데이터 분석가들은 기존에 사용하던 pandas 함수를 사용하여 데이터의 각 그룹을 기반으로 ML 모델을 학습시킬 수 있습니다.
+
+이 세션에서는 위의 두 가지 pandas 사용자와 PySpark 사용자의 관점에서 분산 처리를 어떻게 수행하는지에 대해 다룰 예정입니다.
+
+권혁진
+Databricks의 Staff Software Engineer로, 오픈소스 PySpark 팀의 테크리드이며, Apache Spark PMC 멤버 및 커미터로 활동하고 있습니다. PySpark, Spark SQL, SparkR, 인프라 등 Apache Spark의 다양한 영역에서 작업하고 있으며, Apache Spark에서 제일 많은 커밋을 했습니다. 또한, Project Zen, Pandas API on Spark, Python Spark Connect 등의 다양한 프로젝트를 이끌고 있습니다.",https://i.ytimg.com/vi/Rpsf61z4uNw/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=Rpsf61z4uNw,https://www.youtube.com/watch?v=Rpsf61z4uNw
+19,PyCon KR 2023 리스트와 딕셔너리 학습을 위한 패키지 개발 여정 한상곤,https://www.youtube.com/watch?v=p4_bqu0yuD0,p4_bqu0yuD0,PyCon Korea,@PyConKRtube,https://www.youtube.com/@PyConKRtube,20231017,1128,610,22,4.0,,Howto & Style,"파이썬 101 수업을 진행하면서 리스트와 딕셔너리를 재미있게 설명하기 위해서 작은 파이썬 패키지를 만들었습니다. 101 참가자들이 해당 패키지를 사용해서 파이선 101 수업에 흥미를 가지게 되었던 과정과 제 경험을 소개하고, 누구나 쉽게 자신만의 작은 패키지를 만들 수 있는 간단한 방법을 소개하는 세션입니다. 파이썬 101 교육에 관심이 많으신 분들에게 작은 도움이 되었으면 합니다.
+
+한상곤
+안녕하세요. 저는 현재 마이크로소프트 MVP로 활동하고 있습니다. 현재는 부산에 위치한 대학교에서 프로그래밍 언어에 관련된 공부를 진행하면서 파이썬을 수업 및 Djanog 스터디 등을 병행하고 있습니다. 만나서 반갑습니다.",https://i.ytimg.com/vi/p4_bqu0yuD0/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=p4_bqu0yuD0,https://www.youtube.com/watch?v=p4_bqu0yuD0
+20,PyCon KR 2023 PyO3를 활용한 분산 시스템 알고리즘 구현체 바인딩 작성 도전기 이규봉,https://www.youtube.com/watch?v=9nuV_tc77OI,9nuV_tc77OI,PyCon Korea,@PyConKRtube,https://www.youtube.com/@PyConKRtube,20231017,2083,408,4,,,Howto & Style,"해당 발표에선 제가 Lablup에 입사한 후 가장 많은 시간 동안 고민하며 진행했고, 현재도 진행 중인 파이썬 바인딩에 관련된 기술적인 세부사항들을 다룹니다.
+
+보다 구체적으로는 러스트와 파이썬의 메모리 관리 차이를 극복하기 위한 참조 타입 추상화에 관련된 고민들과 트레이트 노출, 예외 처리와 관련된 기술적 세부사항들을 메인 주제로 다룰 예정입니다.
+
+기술적인 세부 사항들을 주제로 다루기 때문에 Rust나 PyO3에 대한 사전 지식을 알고 계시면 발표 내용을 이해하시는데 도움이 되실 수 있으나, 그렇지 않은 경우에도 가능한 발표 내용을 대략적으로 이해하실 수 있도록 준비하였습니다.
+
+
+이규봉
+Lablup 데브옵스 / 개발자. 다양한 오픈소스 활동에 관심을 갖고 있는 개발자입니다. 현재는 회사에서 분산 시스템 관련된 여러 이슈들에 도전해보고, 진행해보고 있습니다. 해당 발표에선 개인적으로 Lablup 입사 후 가장 많은 시간 동안 고민하며 진행했고, 현재도 진행 중인 파이썬 바인딩에 관련된 기술적인 세부사항들을 다룹니다.",https://i.ytimg.com/vi/9nuV_tc77OI/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=9nuV_tc77OI,https://www.youtube.com/watch?v=9nuV_tc77OI
+21,PyCon KR 2023 Python Domain Driven Design 신동현,https://www.youtube.com/watch?v=XJAHwmRKhJA,XJAHwmRKhJA,PyCon Korea,@PyConKRtube,https://www.youtube.com/@PyConKRtube,20231101,1591,1437,55,7.0,,Howto & Style,"빠르게 변화하는 기술과 성장하는 서비스의 속도에 맞는 소프트웨어를 개발하기 위해서는 명확하고 유지 보수하기 용이하면서 확장성이 뛰어난 설계 방법을 추구해야 합니다.
+
+DDD(Domain-Driven Design)는 핵심 비즈니스 도메인을 이해하고 모델링하는데 초점을 맞춘 검증된
+소프트웨어 개발 방법론입니다.
+
+DDD의 기본 개념을 안내하고 Python을 사용하여 어떻게 DDD를 구현할 수 있는지 알아봅니다.
+
+신동현
+Python 웹 프레임워크를 주로 사용하는 백엔드 개발자입니다. 기술을 통해 세상에 더 나은 가치를 제공하는 사람이 되기 위해 노력합니다. 소프트웨어 디자인과 시스템 아키텍쳐에 관심이 많습니다. 기술 블로그(qu3vipon.com)를 운영 중입니다.",https://i.ytimg.com/vi/XJAHwmRKhJA/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=XJAHwmRKhJA,https://www.youtube.com/watch?v=XJAHwmRKhJA
+22,"PyCon KR 2023 MLOps, LLM 개발에 필요한 실전 파이썬 디자인 패턴 이태호",https://www.youtube.com/watch?v=CbpgjBTm0C4,CbpgjBTm0C4,PyCon Korea,@PyConKRtube,https://www.youtube.com/@PyConKRtube,20231101,2219,1157,67,2.0,,Howto & Style,"실전 파이썬 디자인 패턴이 무엇인지, 왜 필요한지, 어떤 것들이 있는지 간략하게 알아봅니다.
+이 디자인 패턴을 통해 현업에서 코드를 어떻게 업그레이드하였는지 상세하게 설명합니다.
+이 과정 속에서 참석자 분들은 어떤 코드가 안 좋은 코드인지 이해하게 되고 어떤 식으로 업그레이드할 수 있을지 배우게 됩니다.
+이 세션에서 현업에서 적용한 핵심 사례를 자세하게 보면서 스스로 디자인 패턴을 찾아서 적용할 수 있는 힘을 얻게 될 것입니다.
+머신러닝 모델 서빙, LLM Agent 개발 각각의 사례에 대해 깊게 다루게 될 것이며 디자인 패턴 외에도 MLOps, LLM 에 대한 이해도 같이 가져가실 수 있을 거라 확신합니다.
+
+이태호
+안녕하세요 AI 스타트업 코르카의 테크 리드 이태호입니다. 코르카는 머신러닝, LLM으로 유저의 온라인 쇼핑 경험을 혁신하고 있습니다. 2022년까지는 AdTech 역량을 쌓아왔고 2023년에 LLM까지 빠르게 적용하면서 B2B SaaS 프로덕트를 개발 중에 있습니다. 저는 백엔드 엔지니어, 머신러닝 엔지니어 등의 직군을 거쳐 현재 코르카에서 테크 리드로 근무 중입니다. 2022년에는 추천 시스템 개발 및 운영에 집중하였으며 현재는 LLM을 공부하고 새로운 비즈니스 기회를 찾고자 합니다. 특히 올해 4월에는 전세계 최초로 웹개발을 할 수 있는 LLM Agent인 EVAL을 개발했고 세계적으로 이슈가 되었습니다. LLM을 더욱 잘 활용하기 위해 최근 리서치를 지속적으로 팔로업하며 새로운 아이디어를 테스트하고 프로덕트의 새로운 기능을 기획하는 중입니다. 많은 분들께 제 경험들을 공유드릴 수 있는 자리를 얻게 되어서 너무 영광입니다. 여러분들께 새로운 관점을 제시할 수 있는 발표가 되도록 하겠습니다.",https://i.ytimg.com/vi/CbpgjBTm0C4/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=CbpgjBTm0C4,https://www.youtube.com/watch?v=CbpgjBTm0C4
+23,PyCon KR 2023 FastAPI Deep dive 정보람,https://www.youtube.com/watch?v=9Qe84CQ1XVo,9Qe84CQ1XVo,PyCon Korea,@PyConKRtube,https://www.youtube.com/@PyConKRtube,20231101,1115,2768,84,3.0,,Howto & Style,"Python 웹 프레임워크의 양대산맥으로 불리는 Django와 Flask에 대해서는 들어보셨으리라 생각됩니다.
+2018년 출시 이후로 개발자들에게 빠르게 인기를 얻고 있는 새로운 웹 프레임워크가 있는데요.
+바로 FastAPI입니다. 파이콘에서도 소개가 된 적이 있는데요.
+이제 많은 분들이 한 번쯤은 경험해보셨으리라 생각됩니다.
+
+이번 세션에서는 기존 Django, Flask와 FastAPI의 차이점.
+그리고 이름에서 알 수 있듯이 FastAPI가 어떻게 ""Fast""를 달성할 수 있었는지에 중점을 두고 아키텍처를 살펴보려고 합니다.
+
+정보람
+현재 Microsoft에서 Solution Architect로 근무하고 있습니다. 이 전에는 10년 정도 임베디드 개발과 금융 백엔드 개발을 담당했습니다. 인프라 분야의 다양한 강의를 하고 있습니다. 빠르게 안정적이고 생산성 높은 코드를 개발하는 것에 관심이 있고, FastAPI를 소개할 수 있는 기회를 주셔서 영광이에요.",https://i.ytimg.com/vi/9Qe84CQ1XVo/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=9Qe84CQ1XVo,https://www.youtube.com/watch?v=9Qe84CQ1XVo
+24,PyCon KR 2023 CPython 코드로 보는 파이썬의 심층 세상 한성민,https://www.youtube.com/watch?v=L0tRwS3K3N4,L0tRwS3K3N4,PyCon Korea,@PyConKRtube,https://www.youtube.com/@PyConKRtube,20231101,2475,1197,37,5.0,,Howto & Style,"Python을 다루다보면 CPU/IO Bound, Selector, Global Interpreter Lock, AsyncIO 등의 low-level 구현체를 만나게됩니다. 그리고 우리는 때로는 구조체의 기능을 정확히 이해하지 못하고, 코드 패턴을 외운 상태로 개발하는 경우가 종종 있습니다.
+
+low-level 구현체를 응용해야 하는 순간이면 외워두었던 패턴을 벗어나게 되므로 구현을 할 수 없게 되고, 이렇게 우리는 추상화의 지속에 빠지게 됩니다.
+
+이 발표 세션에서는 Python에서 마주치는 low-level 구현체를 CPython 코드와 Computer Science 이론을 그림으로 도식화하여, 시작하기 막막하던 원리 이해의 첫 발을 띌 수 있게끔 준비하였습니다.
+
+한성민
+MLOps에 관심이 많고 AI에 제품화에 집중하고 있는 엔지니어입니다. 또한 GDG 커뮤니티의 일원으로 한국의 개발자 생태계를 조성하고 정보를 교류할 수 있는 기회를 만들고자 노력하고 있습니다.
+
+현재 글로벌 시장을 위해 MLOps 파이프라인 구성에 집중하고 있고, 한국과 미국 두군데의 오피스를 왕래하며 여러 국가의 엔지니어와 협력하여 일을 하고 있습니다.",https://i.ytimg.com/vi/L0tRwS3K3N4/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=L0tRwS3K3N4,https://www.youtube.com/watch?v=L0tRwS3K3N4
+25,PyCon KR 2023 Pynecone 프레임워크로 웹 기반 운영도구 개발하기 임찬식,https://www.youtube.com/watch?v=KcX6N--b9uI,KcX6N--b9uI,PyCon Korea,@PyConKRtube,https://www.youtube.com/@PyConKRtube,20231101,1218,596,15,,,Howto & Style,"서비스를 개발하고 운영하면서 필요한 운영 도구를 만드는 것이 쉽지는 않습니다. 특히 백엔드 개발자들의 비율이 높은 상황에서는 웹 기반 도구를 개발하는 것 자체가 큰 부담으로 다가오는 것이 사실입니다.
+하지만, 웹 개발을 도와주는 다양한 오픈소스를 이용한다면 필요한 운영 도구 개발을 쉽게 시작해볼 수 있습니다. 이 세션에서는 앞에서 언급한 다양한 오픈소스 프로젝트 중 Pynecone 프레임워크를 활용해 웹 기반 운영 도구를 개발한 경험을 공유하고자 합니다.
+
+임찬식
+백엔드 시스템 개발이나 플랫폼 운영 업무를 진행하면서 다양한 목적으로 파이썬을 사용하고 있습니다. 최근에는 쿠버네티스 기반 고성능 애플리케이션을 운영할 수 있는 온-프레미스 서빙 플랫폼을 개발하고 있습니다. 플랫폼 운영에 필요한 여러가지 도구를 파이썬으로 개발해 반복적인 작업을 줄이고 좀 더 쉽게 운영하는데 많은 도움을 받고 있습니다.",https://i.ytimg.com/vi/KcX6N--b9uI/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=KcX6N--b9uI,https://www.youtube.com/watch?v=KcX6N--b9uI
+26,PyCon KR 2023 Django와 FastAPI를 사용해서 채팅 백엔드 서비스 만들어보기 김지훈,https://www.youtube.com/watch?v=lPS94lYwT2c,lPS94lYwT2c,PyCon Korea,@PyConKRtube,https://www.youtube.com/@PyConKRtube,20231101,924,2012,47,,,Howto & Style,"발표자 소개, 서비스 구성도, django 구성 부분 설명, FastAPI 구성 부분 설명, 데모 영상
+
+김지훈
+블록체인 개발사를 운영하고 있습니다",https://i.ytimg.com/vi/lPS94lYwT2c/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=lPS94lYwT2c,https://www.youtube.com/watch?v=lPS94lYwT2c
+27,"PyCon KR 2023 이건 정말 없네요, 없어서 시작한 아래아 한글 패키지 만들기 전다민",https://www.youtube.com/watch?v=JUjpvu3mGGY,JUjpvu3mGGY,PyCon Korea,@PyConKRtube,https://www.youtube.com/@PyConKRtube,20231101,1125,1520,63,4.0,,Howto & Style,"파이썬은 풍부한 패키지와 간결한 문법으로 모든 분야에 있어 두번째로 좋은 언어(second best for everything)로 여겨집니다.
+여러 분야 중 업무자동화는 어쩌면 간결한 문법으로 생산성이 높은 파이썬이 가장 잘할 수 있는 영역일 것입니다.
+거대한 커뮤니티를 바탕으로 수십만개나 되는 패키지들 중에는 여러가지 사무용 프로그램들을 자동화 할 수 있는 패키지들도 풍부하게 있어 굉장히 쉽게 여러 프로그램을 넘나들며 업무자동화를 위한 파이썬 스크립트를 작성할 수 있습니다.
+하지만 공공기관에서 주로 사용되는 아래아 한글 프로그램을 위한 자동화 패키지는 찾을 수 없어 대안적인 방법으로 자동화를 하곤 했습니다.
+파이써닉하게 스크립트를 만들 수 있으면 좋겠다는 생각으로 누군가 패키지를 만들어주길 기다리다가 불편함을 참지 못하고 아래아 한글 패키지를 만들게 된 경험을 나누고자 합니다.
+
+
+전다민
+학부에서 물리학을 전공하고 더 나은 세상을 만드는데 기여하고자 2015년부터 국제개발협력을 하는 코이카에서 근무하고 있습니다. 2017년쯤부터 보다 효율적으로 일하기 위해 파이썬을 배우기 시작했습니다. 데이터 과학과 업무자동화에 관심을 가지고 있습니다",https://i.ytimg.com/vi/JUjpvu3mGGY/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=JUjpvu3mGGY,https://www.youtube.com/watch?v=JUjpvu3mGGY
+28,PyCon KR 2023 당신의 Dependency는 안녕하십니까 김두훈,https://www.youtube.com/watch?v=OBvnsAwXnd0,OBvnsAwXnd0,PyCon Korea,@PyConKRtube,https://www.youtube.com/@PyConKRtube,20231101,1531,858,18,1.0,,Howto & Style,"현 시대의 Computing Infra들은 많은 Service들을 실행하고 있고, 그 Service들은 매우 많은 수의 Module, Framework 들로 이루어져 있으며 이들은 각각 수많은 종속성(Dependency)을 지니고 있습니다. 그것도 너무 많이요.
+
+주변의 사람들에게 Dependency를 어떻게 관리하냐 물어보면 대부분 아직 그 관리를 어떻게 해야하는지 잘 모르고, 2023년 지금과 같이 Dependency를 관리할 수 있는 환경이 매우 좋아졌지만 결국 pip만 사용하여 install 하는 경우가 많은 것을 보면서 결국은 Dependency 때문에 고통 받고 매우 힘들어할 개발자들이 많다는 것을 인지 했습니다.
+
+특히나 저 말고도 현업에 계시는 Python을 잘 아시는 분들은 분명 어떻게 할지를 알고 있는 사람들이 많을 것 같지만.. 아직 잘 모르시는 분들을 위해 해당 발표를 하게 되었습니다.
+가장 중요하지만 매우 놓치기 쉬운 이런 부분들을 좀 덜 고통받으면서 개발했으면 하는 바램이 있습니다.
+
+Service면 Service, AI 면 AI, Package 및 Library 개발에도 매우 유연하게 dependency 관리가 가능하며, 한번 익혀두면 Dependency 걱정이 많이 줄어드는 Poetry 같은 Tool로 여러분들의 Stress를 덜수 있지 않을까 싶네요!
+
+김두훈
+안녕하세요. 요즘에는 재미 추구로 사는, 진짜 아무거나 끄적끄적 하는 사람입니다. C, C++도 하지만, 요즘은 Python을 더 많이 합니다. 가급적 많은 활동을 하려고 합니다. 발표나 이런 것들도 요즘은 많이 하려고 노력합니다. 기계, 전기/전자, 컴퓨터에 관한 것들을 주로 했었고, 특히나 교육이나 연구(AI, Biology, Medical, Financial)에 관심이 많습니다.",https://i.ytimg.com/vi/OBvnsAwXnd0/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=OBvnsAwXnd0,https://www.youtube.com/watch?v=OBvnsAwXnd0
+29,PyCon KR 2023 딥러닝 개발에서의 Poetry 도입기   테스팅 및 모델 패키징에서의 의존성 관리 정호진,https://www.youtube.com/watch?v=33bwpDsGzF4,33bwpDsGzF4,PyCon Korea,@PyConKRtube,https://www.youtube.com/@PyConKRtube,20231116,1314,600,6,,,Howto & Style,"코르카에서 MLOps 엔지니어로 근무하며 딥러닝 개발 환경에서의 문제를 해결하고자 파이썬 의존성 관리도구인 Poetry를 도입한 사례를 소개합니다. 딥러닝 특성상 발생한 테스트의 어려움, 그리고 체크포인트 패키징 과정에서 발생한 의존성 문제를 설명하고, Poetry를 통해 어떤 효과를 얻을 수 있는지를 알려드리겠습니다. 이 세션이 많은 딥러닝 개발자들은 물론 의존성 관리를 효과적으로 하고 싶은 개발자들에게 도움이 되기를 바랍니다.
+
+정호진
+연구자이자 개발자인 정호진입니다. 이론으로부터 연구를, 연구로부터 실제 제품을 만드는 사람이 되기 위한 여정을 떠나고 있습니다.",https://i.ytimg.com/vi/33bwpDsGzF4/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=33bwpDsGzF4,https://www.youtube.com/watch?v=33bwpDsGzF4
+30,"PyCon KR 2023 Scalable Backtesting with Python, I O부터 Scalable까지 김태완",https://www.youtube.com/watch?v=wl9hGCEgZt0,wl9hGCEgZt0,PyCon Korea,@PyConKRtube,https://www.youtube.com/@PyConKRtube,20231116,2317,526,17,1.0,,Howto & Style,"파이썬 생태계에서 어떤 방식으로 주가 정보를 빠르고 효율적으로 시뮬레이션할 수 있는지를 소개합니다. 벡테스팅은 전략의 유효성을 검증하기 위해 필요한 과정이지만 데이터의 time-frequency가 정밀해지고 전략의 복잡도가 높을수록 상당한 시간이 소요될 수 있습니다.
+
+효율적이고 정확한 벡테스팅은 단순히 연산 시간만을 빠르게 할 뿐만 아니라 더 나은 전략을 빠르게 운용하고 수익성을 강화하는 도구라고 생각합니다. 이 세션에서는
+
+- daily OHLC ~ tick의 IO 속도 개선
+- for loop 대비 pandas vectorization의 연산 시간 비교
+- 벡테스팅 패키지 구조
+- Ray를 통한 분산 벡테스팅
+- Ray Cluster를 활용한 트레이딩 전략 최적화
+
+에 대한 제 경험을 공유하고자 합니다.
+
+김태완
+SUNY Korea SBU에서 Computer Science를 전공하고 있으며, 시장 데이터의 패턴 탐색과 같은 카오스적인 환경에서의 분석을 좋아합니다. 데이터 엔지니어링 및 최적화에 관심이 많고 이를 통해 금융 시장의 복잡성에 대해 신속하게 대응하며, 로버스트한 알파를 창출하는 데 기여하고 싶습니다.",https://i.ytimg.com/vi/wl9hGCEgZt0/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=wl9hGCEgZt0,https://www.youtube.com/watch?v=wl9hGCEgZt0
+31,PyCon KR 2023 Python을 이용한 Linux 인증 모듈 만들기 유성진,https://www.youtube.com/watch?v=NSyI6TaOmZ4,NSyI6TaOmZ4,PyCon Korea,@PyConKRtube,https://www.youtube.com/@PyConKRtube,20231116,1215,366,12,,,Howto & Style,"PAM 인증 프로세스에서 Python을 이용해 인증 프로세스를 구현할 수 있는 PAM-Python에 대해서 소개하고 사용방법에 대해 알아봅니다.
+
+유성진
+시스템 엔지니어 시절 업무에 활용하고자 Python을 배우기 시작할때만 해도 개발자가 될줄은 몰랐는데 Go, TypeScript, JAVA 까지 다양한 언어로 많은 프로젝트를 경험하게 되었습니다. 지금은 공간전사체와 인공지능을 활용해 신약 개발 과정의 혁신을 연구하는 포트래이에서 인프라 플랫폼 개발과 서비스 백엔드 개발을 담당하고 있으며, 좀 더 좋은 코드와 좋은 개발 문화란 무엇일지 고민하며 실천해 나가려고 노력하고 있습니다.",https://i.ytimg.com/vi/NSyI6TaOmZ4/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=NSyI6TaOmZ4,https://www.youtube.com/watch?v=NSyI6TaOmZ4
+32,PyCon KR 2023 Python2 개발자의 Python3 개발 도전기 이다니엘,https://www.youtube.com/watch?v=0LPJpIxUXpY,0LPJpIxUXpY,PyCon Korea,@PyConKRtube,https://www.youtube.com/@PyConKRtube,20231116,1205,282,5,,,Howto & Style,"8년전 Python2를 사용해왔던 개발자가 2023 Python3를 사용해 개발을 하며 느낀 생생한 체험과 새롭게 알게 된 Python3의 기능 네 가지를 함께 공유합니다.
+
+이다니엘
+개발 이야기를 좋아합니다. 웹, 백엔드, 프론트엔드, 그리고 개발 문화에 대한 모든 주제에 관심이 많습니다. 현재는 미국 샌프란시스코의 Google에서 개발자로 활동하고 있습니다.",https://i.ytimg.com/vi/0LPJpIxUXpY/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=0LPJpIxUXpY,https://www.youtube.com/watch?v=0LPJpIxUXpY
+33,PyCon KR 2023 Python 월 몇 백원으로 사내 슬랙봇 운영해본 이야기 신희재,https://www.youtube.com/watch?v=9LmDwhH7QzQ,9LmDwhH7QzQ,PyCon Korea,@PyConKRtube,https://www.youtube.com/@PyConKRtube,20231116,1431,1601,49,3.0,,Howto & Style,"누구나 쉽고 빠르게 적용할 수 있는 Python Slackbot 개발 사례를 공유합니다.
+
+저와 저희 팀이 사내에서 내부 솔루션을 만들기에 앞서, 왜 슬랙봇을 선택을 했는지, 어떤 식으로 기술스택을 고려해보았는지, 슬랙봇을 통해 어떤 걸 만들어볼 수 있는지 등에 대해 중점적으로 다뤄보며 이야기해보고자 합니다.
+
+이것과 더불어 슬랙봇 기반의 ChatOps 솔루션을 만들어가며, 팀내 업무 환경을 개선시켜가는 재미에 대해서도 함께 공유해드리고자 합니다!
+
+신희재
+안녕하세요, 크립토 스타트업 알로카도스에서 백엔드/데브옵스 엔지니어로 일하고 있는 신희재입니다. 파이썬을 좋아하고, 파이썬으로 개발하는 것을 즐겨왔기에 이렇게 파이콘 2023 세션을 진행하게 굉장히 영광입니다. 부족한 부분이 많지만, 열심히 준비해보겠습니다 :)",https://i.ytimg.com/vi/9LmDwhH7QzQ/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=9LmDwhH7QzQ,https://www.youtube.com/watch?v=9LmDwhH7QzQ
+34,PyCon KR 2023 Chatbot Framework with Python 조성빈,https://www.youtube.com/watch?v=Lt_tbZRUkgo,Lt_tbZRUkgo,PyCon Korea,@PyConKRtube,https://www.youtube.com/@PyConKRtube,20231116,2407,685,17,,,Howto & Style,"이 세션에서는 파이썬 오픈소스 챗봇 프레임워크인 ""Rasa""와 LLM 애플리케이션을 쉽게 빌드하게 도와주는 오픈소스 ""LangChain""을 통해 챗봇 프레임워크가 작동하는 방식에 대해 다루어봅니다. 챗봇은 사용자 발화의 의도를 파악하는 ""의도 분류""와, 사용자 발화에서 필요한 정보를 파악하는 ""개체명 인식"", ""슬롯 필링"" 등의 작업이 필요합니다. 뿐만 아니라 분류해낸 의도로부터 적절한 응답을 생성해내고, 사용자가 발화 의도를 갑작스럽게 전환할 시 대처할 줄 알아야 합니다. 이 세션에서는 Rasa가 이러한 문제점들을 어떻게 처리하는지 살펴봅니다. 또한, LLM 애플리케이션을 쉽게 빌드하도록 도와주는 LangChain을 이용해 Chit-Chat(수다) 애플리케이션을 빌드하는 방법에 대해서도 간단하게 다뤄봅니다.
+
+
+조성빈
+안녕하세요. 파이썬을 좋아하는 조성빈입니다. 인문학도 출신인데, 뒤늦게 자연어처리라는 분야를 알게되고 개발에 빠져들었습니다. 자신의 지식을 공유해주시는 많은 분들 덕분에 포기하지 않고 이렇게 하루하루 열심히 나아가고 있는 것 같습니다. 제가 받은 것을 당연하게 생각하지 않고, 다른 분들에게 정말 조금이나마 도움이 되었으면 합니다.",https://i.ytimg.com/vi/Lt_tbZRUkgo/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=Lt_tbZRUkgo,https://www.youtube.com/watch?v=Lt_tbZRUkgo
+35,PyCon KR 2023 파이썬에서의 병렬 처리 김현우,https://www.youtube.com/watch?v=P5KJT2A-5Qw,P5KJT2A-5Qw,PyCon Korea,@PyConKRtube,https://www.youtube.com/@PyConKRtube,20231116,1231,1438,35,2.0,,Howto & Style,"파이썬에서 병렬처리를 접하게 된 계기, 문제 해결 과정, 사용한 라이브러리 소개 및 활용 방법을 설명합니다.
+
+김현우
+6년차 개발자 입니다. 백엔드 엔지니어로는 20년부터 본격적으로 일하기 시작했습니다. 주로 Java를 사용했으며, 최근 원프레딕트에 합류하면서 파이썬, flask, sqlalchemy등을 다루기 시작하며 파이썬의 매력을 알아가는 중입니다.",https://i.ytimg.com/vi/P5KJT2A-5Qw/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=P5KJT2A-5Qw,https://www.youtube.com/watch?v=P5KJT2A-5Qw
+36,PyCon KR 2023 오픈소스와 함께 성장하기Feat  Django 배두식,https://www.youtube.com/watch?v=gBjWgCXL4mA,gBjWgCXL4mA,PyCon Korea,@PyConKRtube,https://www.youtube.com/@PyConKRtube,20231116,984,503,12,1.0,,Howto & Style,"모든 개발자들의 고민인 ‘성장’!
+
+오픈소스 기여를 통해 개발자로서 성장한 경험을 공유 합니다. 여러 오픈소스 중에 파이썬에서 대표적인 웹 프레임워크인 'Django'에 기여 하면서 배운 것들을 기반으로 발표를 준비했습니다.
+개발자로서 오픈 소스에 기여 하면서 기술적으로 뿐만 아니라 정신적으로 성장하는 경험을 할 수 있었습니다.
+그리고 어떻게 오픈소스에 기여를 시작하면 좋을지에 대한 팁과 다른 사람들과 함께 오픈소스에 기여할 수 있는 팁도 공유하려고 합니다.
+
+저도 아직 오픈소스에 많이 기여를 하지는 못했지만, 더 많은 한국 파이썬 개발자들과 함께 오픈소스에 기여하고 성장하는 경험을 함께 하면 좋을 것 같아 발표를 진행하게 됐습니다.
+
+배두식(조단)
+미래 매출 거래 플랫폼인 레베뉴마켓을 만드는 Verticah에서 신용평가 분석플랫폼과 데이터 플랫폼을 만들고 있습니다. 대학 졸업 후 LG에서 회로설계로 커리어를 시작한 후 소프트웨어 엔지니어로 전향했습니다. 전향 후에는 Ateamventures, Sendbird, Chai, Quotabook 등 다양한 크고 작은 스타트업에서 서버 엔지니어, 데이터 인프라 엔지니어, 데이터 엔지니어로 일했습니다. 다양한 직무를 경험하면서 분야에 경계 없이 비즈니스 및 기술 문제를 해결하고 있습니다. 시간을 내서 종종 오픈소스에도 기여하려고 노력 중이고, 최근에는 좋은 데이터 플랫폼을 만드는 데 관심이 많습니다.",https://i.ytimg.com/vi/gBjWgCXL4mA/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=gBjWgCXL4mA,https://www.youtube.com/watch?v=gBjWgCXL4mA
+37,PyCon KR 2023 파이썬을 이용한 퀀트 트레이딩 정진혁 001,https://www.youtube.com/watch?v=TeDQHO-_zy0,TeDQHO-_zy0,PyCon Korea,@PyConKRtube,https://www.youtube.com/@PyConKRtube,20231130,2056,3372,113,,,Howto & Style,"10년 이상 업계에서 퀀트 트레이딩 전문가로서 일하면서 사용한 파이썬 라이브러리 및 실무 노하우를 소개하고자 합니다.
+
+정진혁
+Millennium Capital Management, WorldQuant, Presto Labs 등 퀀트트레이딩 회사에서 10년 이상 Portfolio Manager 및 트레이더로 근무한 퀀트 트레이딩 전문가.",https://i.ytimg.com/vi/TeDQHO-_zy0/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=TeDQHO-_zy0,https://www.youtube.com/watch?v=TeDQHO-_zy0
+38,"PyCon KR 2023 파이썬 아래아한글 업무자동화, 이렇게도 활용할 수 있어요! 신명진",https://www.youtube.com/watch?v=LYcKxl5qumA,LYcKxl5qumA,PyCon Korea,@PyConKRtube,https://www.youtube.com/@PyConKRtube,20231130,1104,1271,28,,,Howto & Style,"아래아한글은 현존하는 가장 완벽한 워드프로세서입니다(개인의견임). 아래아한글에서 잘 알려지지 않은 큰 장점 중 하나는, 세세한 문서작업을 자동화할 수 있는 스크립트 매크로의 존재입니다. 파이썬 언어가 인기를 얻으면서 업무자동화가 대중에 많이 소개되고 있지만, 파이썬을 활용한 아래아한글 자동화는 아직 잘 알려지지 않는 것 같아요.
+
+기본적인 텍스트 입력에서부터 판다스를 활용하는 다소 복잡한 보고서 작성 로직까지 일곱 개의 예제를 파이썬으로 가볍게 구현해보면서 아래아한글 자동화의 세계를 소개해 드리는 세션입니다.
+
+신명진
+대구에서 IT학원 파이썬 강사로 일하고 있습니다. 유튜브채널/블로그 일상의코딩으로 업무자동화 프로그램 제작 콘텐츠를 공유하고 있습니다^^",https://i.ytimg.com/vi/LYcKxl5qumA/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=LYcKxl5qumA,https://www.youtube.com/watch?v=LYcKxl5qumA
+39,PyCon KR 2023 걱정돼요  파이썬을 미워하는 학생과 학부모가 생겨나는 미래가 스펜서,https://www.youtube.com/watch?v=C7_IZnLy4zc,C7_IZnLy4zc,PyCon Korea,@PyConKRtube,https://www.youtube.com/@PyConKRtube,20231130,2196,1017,20,1.0,,Howto & Style,"유명해진다는 것은 많은 사랑을 받을 기회이기도 하지만, 동시에 많은 미움을 받을 위기이기도 합니다.
+
+이번 파이콘 2023의 '다시, 우리, 파이썬' 이란 문구를 보고 SW 교육자인 저는
+파이썬이 많이 사랑도 받고 미움도 받았던 2016~2020년이 다시 시작되는 모습이 떠올랐습니다.
+
+이 세션의 목표는 '정답/해답을 제시하는 것'에 두고 있지 않습니다.
+교육. 특히나 한국의 교육은 예민하고 열정적이 주제이며, 모두가 만족할 '좋은' 방법을 찾는 건 거의 불가능합니다.
+
+하지만 방향에 공감할 수 있다면.
+서로의 관점을 이해할 수 있는 계기와 이해가 준비되어 있다면.
+더 많은 이가 공감할 수 있는 더 나은 결정을 찾을 수 있을 거라 생각합니다.
+
+이 세션에서는 '비 교육업계'의 분들에게 '파이썬 공교육'이란 주제에 공감하기 위해 필요한 '배경지식'을 공유합니다.
+- 파이썬이 교육에 좋다지만, 좋으면 좋은 거지 왜 이렇게까지 소란인지.
+- 이렇게 잘해내고 있는 파이썬이 왜 미움받을 것을 걱정된다고 하는지.
+
+관련 배경과 주제를 생각해 보고 공감하는 사람이 많아진다면 그렇지 않을 때보다,
+우리는 '더 공감할 수 있고, 파이썬과 학생, 학부모를 위한 좋은 방법'을 찾을 가능성이 커질 것이라 기대합니다.
+
+스펜서
+안녕하세요 스펜서입니다. 개발자는 아니고 파이썬을 좋아하는 교육자입니다. 현재는 프로그래머스 데브코스란 부트 캠프의 교육매니저로 있으면서, 예비 주니어 개발자들과 같은 공간에 나란히 서서 도우려 노력하고 있습니다. SW 교육 개발에 발을 들인 지 6년 차에 되었는데, 요즘은 '필요한 교육이 가진 자들만의 것이 되지 않도록 하는 현실적인 방법은 없을까?'를 떠올려보곤 합니다.",https://i.ytimg.com/vi/C7_IZnLy4zc/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=C7_IZnLy4zc,https://www.youtube.com/watch?v=C7_IZnLy4zc
+40,PyCon KR 2023 Relay on Django   React와 공생하기 강정석,https://www.youtube.com/watch?v=vNr7ebslNsU,vNr7ebslNsU,PyCon Korea,@PyConKRtube,https://www.youtube.com/@PyConKRtube,20231130,1257,396,5,,,Howto & Style,"React가 프론트엔드의 표준이 된 오늘날, 파이썬 백엔드는 어떻게 따라가야 할까요? 프론트엔드와의 협업을 위하여 GraphQL 및 Relay 스펙을 지원하는 방법을 알아봅니다.
+
+강정석
+래블업 주식회사에서 소프트웨어 엔지니어로 근무하고 있습니다. 파이썬으로 프로그래밍을 입문한 후 애정을 갖고 꾸준히 사용하고 있습니다.",https://i.ytimg.com/vi/vNr7ebslNsU/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=vNr7ebslNsU,https://www.youtube.com/watch?v=vNr7ebslNsU
+41,PyCon KR 2023 Python으로 전자음악 작곡하기 유태영,https://www.youtube.com/watch?v=1rPCcKp9B78,1rPCcKp9B78,PyCon Korea,@PyConKRtube,https://www.youtube.com/@PyConKRtube,20231130,2006,2677,123,8.0,,Howto & Style,"미디 작곡을 배우던 도중, 신디사이저를 python으로 구현해보면 재미있겠다는 생각을 해서 이 세션을 기획하게 되었습니다. 이 세션에선 python으로 소리를 디자인하고 음악을 만드는 과정을 소개합니다.
+
+컴퓨터가 어떻게 디지털 오디오를 다루고 있는지, 디지털로 음악을 만드려면 어떻게 해야하는지 알아봅니다. python으로 numpy와 pedalboard를 이용해서 신디사이저를 구현해봅니다. 피아노, 드럼 등의 악기를 직접 구현해보고, 구현한 악기들로 만든 짧은 음악을 들려드립니다. 이 과정에서 python 이외에 다른 도구는 사용되지 않습니다.
+
+유태영
+안녕하세요, ad-tech 회사 버즈빌에서 백엔드 엔지니어로 근무하고 있는 유태영입니다. python과 go로 광고 추천 서비스와 할당 서비스를 개발 및 운영하고 있습니다. 재즈 음악과 피아노 연주를 좋아합니다.",https://i.ytimg.com/vi/1rPCcKp9B78/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=1rPCcKp9B78,https://www.youtube.com/watch?v=1rPCcKp9B78
+42,PyCon KR 2023 MLOps   Model Serving Architecture with BentoML 김성렬,https://www.youtube.com/watch?v=2AjVDjR0jLM,2AjVDjR0jLM,PyCon Korea,@PyConKRtube,https://www.youtube.com/@PyConKRtube,20231130,2472,1560,32,,,Howto & Style,"MLOps 의 분야중 하나인 Model Serving 에 대해 개략적인 내용을 정리해보려합니다. BentoML이라는 프레임워크를 통해 Model Serving 이라는 분야에서 어떤 것들을 해야하는지 설명합니다.
+
+이 세션은 아래 두가지 대주제를 다룹니다.
+
+Model Serving Framework: BentoML, torchserve, tenrsorflowserving, triton-inference-server
+Model Serving Platform: kserve, yatai, sagemaker(deploy part)
+
+주로 BentoML을 통해 예시를 보이고 다른 framework들을 비교합니다.
+
+김성렬
+Naver Biz CIC 광고추천 쪽에서 Serving 일을 하고있습니다.",https://i.ytimg.com/vi/2AjVDjR0jLM/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=2AjVDjR0jLM,https://www.youtube.com/watch?v=2AjVDjR0jLM
+43,PyCon KR 2023 Django 국제화 지원하기 서명석,https://www.youtube.com/watch?v=bJRYFP5hA7Q,bJRYFP5hA7Q,PyCon Korea,@PyConKRtube,https://www.youtube.com/@PyConKRtube,20231130,1340,330,7,1.0,,Howto & Style,"Django를 이용해서 하나의 코드 베이스로 여러 지역에 서비스한 경험을 공유합니다.
+제품이나 서비스가 발전하면, 한 개의 지역에서 서비스하던 코드를 여러 지역으로 확장하여 서비스를 하게 됩니다.
+이 때 단순하게 텍스트 번역 정도를 생각하고 계셨다면, 어떤 부분들이 추가로 필요한지 경험을 바탕으로빠르게 점검해보는 시간이 될 수 있을 것으로 생각합니다.
+이번 세션에서는 Django의 기초 내용을 이해하고 있는 분들을 대상으로 하고 있습니다. 설정 및 번역, 모델 데이터의 번역, 지역별 포맷 변환, 지원하지 않는 데이터의 포맷 변환에 대해서 다루며, 서비스하는 주소의 형태와 프론트엔드 애플리케이션과의 연동에 대해서도 소개합니다.
+
+서명석
+게임업계에서 일하다가 “웹/앱 서비스도 만들고 싶다“라는 생각이 들어 선택하게 된 언어가 파이썬이었습니다. 파이썬은 낮은 복잡성과 빠르게 개발할 수 있는 장점 덕분에 안정적인 서비스를 할 수 있어 지금까지도 좋은 선택이었다고 생각합니다. 최근에는 탄력성 있는 서비스 구조 및 멀티 리전 배포, GraphQL, 서버리스 배포, PWA 등 관심을 가지고 있습니다.",https://i.ytimg.com/vi/bJRYFP5hA7Q/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=bJRYFP5hA7Q,https://www.youtube.com/watch?v=bJRYFP5hA7Q
+44,PyCon KR 2023 Django ORM에서는 어떻게 SQL Where절 조건 순서를 고정할 수 있을까  안성현,https://www.youtube.com/watch?v=1tI6ectLjy4,1tI6ectLjy4,PyCon Korea,@PyConKRtube,https://www.youtube.com/@PyConKRtube,20231130,1079,531,15,,,Howto & Style,"Django ORM에서 where 절의 조건의 순서를 보장하는 방법을 설명합니다.
+
+filter와 filter chaining에 조건을 넣었을 때 순서가 달라지는 이유, 그리고 Q 객체를 사용했을 때 순서가 보장되는 이유를 설명합니다. 그리고 더 나아가서 Django ORM이 SQL 문이 될 때까지의 과정을 소개합니다.
+
+안성현(ash84)
+현재 페이히어에서 CTO를 맡고 있으며, 백엔드 개발을 주고 하고 있습니다. 파이썬을 2012년부터 주력 언어로 쓰고 있습니다. 소프트웨어 엔지니어링과 글쓰기에 주로 관심을 가지고 있습니다.",https://i.ytimg.com/vi/1tI6ectLjy4/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=1tI6ectLjy4,https://www.youtube.com/watch?v=1tI6ectLjy4
+45,PyCon KR 2023 Django Monorepo 마이크로서비스 도입기 김순,https://www.youtube.com/watch?v=yxDk9yDfrYE,yxDk9yDfrYE,PyCon Korea,@PyConKRtube,https://www.youtube.com/@PyConKRtube,20231130,812,663,8,1.0,,Howto & Style,"이 세션에서는 오픈소스 파이썬 빌드 툴인 Pantsbuild를 통해 Dajngo 모노레포 마이크로서비스 분리의 과정을 공유합니다. 모놀리틱 서버에서 바르게 성장하는 서비스의 관리 및 유연하게 배포가 어떻게 분리되어야 할 지 되어야 하는지 고민하다 DjangoCon Euro 2021에서 Multiple Django Services in a single repo 영상을 보고 Pantsbuild 에 관심을 두기 시작했습니다. 통일화된 방식으로 코드를 관리할 수 있도록 제공하는 플러그인에 대한 세팅, mypy 타입힌트를 적용 후, 간단한 보일러 플레이트 코드로 pex(파이썬 실행빌드파일)를 docker로 배포하는 과정을 겪으면서 생긴 경험과 고민을 공유하고자 합니다.
+
+김순
+현재 핀테크 스타트업 Payhere 에서 백엔드 엔지니어로 러테일 관련 서버 어플리케이션을 개발하고 있습니다. 번거로운 것 보다 자동화되고 효율적인 것을 좋아합니다. 느리더라도 도전을 멈추지 않습니다",https://i.ytimg.com/vi/yxDk9yDfrYE/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=yxDk9yDfrYE,https://www.youtube.com/watch?v=yxDk9yDfrYE
