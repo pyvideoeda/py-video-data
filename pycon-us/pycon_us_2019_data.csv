@@ -1,0 +1,1281 @@
+﻿index,title,url,video_id,uploader,uploader_id,uploader_url,upload_date,duration,view_count,like_count,comment_count,tags,categories,description,thumbnail,age_limit,is_live,was_live,availability,webpage_url,original_url
+1,Ernest W. Durbin III - Welcome and Housekeeping - PyCon 2019,https://www.youtube.com/watch?v=iyV1NUaSt0k,iyV1NUaSt0k,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190507,1199,7598,40,5.0,,People & Blogs,"""Speaker: Ernest W. Durbin III
+
+Welcome to PyCon",https://i.ytimg.com/vi/iyV1NUaSt0k/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=iyV1NUaSt0k,https://www.youtube.com/watch?v=iyV1NUaSt0k
+2,Felipe de Morais - AfroPython: empoderando a la población negra usando Python en Brasil - PyCon 2019,https://www.youtube.com/watch?v=vFsUHJRPtJ4,vFsUHJRPtJ4,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190507,1502,974,19,2.0,,People & Blogs,,https://i.ytimg.com/vi_webp/vFsUHJRPtJ4/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=vFsUHJRPtJ4,https://www.youtube.com/watch?v=vFsUHJRPtJ4
+3,Briceida Mariscal - Por qué comencé mi carrera con Python y por qué tu también deberías hacerlo,https://www.youtube.com/watch?v=ofuEhdzCqug,ofuEhdzCqug,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190507,1465,1509,18,,,People & Blogs,Speaker: Briceida Mariscal,https://i.ytimg.com/vi_webp/ofuEhdzCqug/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=ofuEhdzCqug,https://www.youtube.com/watch?v=ofuEhdzCqug
+4,Python Software Foundation Community Report and Community Service Awards - PyCon 2019,https://www.youtube.com/watch?v=P4IfFLAX9hY,P4IfFLAX9hY,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190507,1099,2372,18,,,People & Blogs,,https://i.ytimg.com/vi_webp/P4IfFLAX9hY/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=P4IfFLAX9hY,https://www.youtube.com/watch?v=P4IfFLAX9hY
+5,Sunday Lightning Talks - PyCon 2019,https://www.youtube.com/watch?v=bnxxoTx9Sko,bnxxoTx9Sko,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,2345,4280,33,1.0,,People & Blogs,,https://i.ytimg.com/vi_webp/bnxxoTx9Sko/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=bnxxoTx9Sko,https://www.youtube.com/watch?v=bnxxoTx9Sko
+6,Python Steering Council - Keynote - PyCon 2019,https://www.youtube.com/watch?v=8dDp-UHBJ_A,8dDp-UHBJ_A,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,2696,3895,44,2.0,,People & Blogs,"""Speaker: Python Steering Council
+
+Keynote
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/8dDp-UHBJ_A/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=8dDp-UHBJ_A,https://www.youtube.com/watch?v=8dDp-UHBJ_A
+7,Russell Keith-Magee - Keynote - PyCon 2019,https://www.youtube.com/watch?v=ftP5BQh1-YM,ftP5BQh1-YM,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,4012,18611,345,18.0,"Russell Keith-Magee,pycon,python,coding,tutorial,keynote",People & Blogs,"""Speaker: Russell Keith-Magee
+
+Keynote
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/ftP5BQh1-YM/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=ftP5BQh1-YM,https://www.youtube.com/watch?v=ftP5BQh1-YM
+8,"Moses Schwartz, Andy Culler - A Snake in the Bits: Security Automation with Python - PyCon 2019",https://www.youtube.com/watch?v=Nzcw9xolvow,Nzcw9xolvow,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,1807,3245,41,2.0,"Moses Schwartz,Andy Culler,pycon,python,coding,tutorial",People & Blogs,"""Speakers: Moses Schwartz, Andy Culler
+
+Security incident response is an intense, high stress, high skill job that relies heavily on human judgement. Despite that, for reasons that we can't begin to understand, a big part of an incident responder's job seems to be opening numerous browser tabs and copy-pasting bits of text from one system to another. The hard parts of incident response can't be automated, but there are entire classes of busy-work that we can eliminate with a few web hooks and some artisanal Python.
+
+In this talk we're going to discuss how to use Python to automate security incident response team (SIRT) operations. We'll give an overview of what a typical SecOps/SIRT infrastructure looks like, how and where automation fits in, and dive into some code. We'll walk through a simple example, with screenshots and code, of automating a SecOps process. We want to show that  getting started with security automation doesn't have to be difficult or expensive (though vendors will happily take your money). Just a little bit of Python can make some great quality of life improvements for incident responders.
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/Nzcw9xolvow/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=Nzcw9xolvow,https://www.youtube.com/watch?v=Nzcw9xolvow
+9,¡Escuincla babosa!: Creating a telenovela script in three Python deep learning frameworks,https://www.youtube.com/watch?v=VWDoQPm5Ozw,VWDoQPm5Ozw,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,2074,1260,16,1.0,"Lorena Mesa,pycon,python,coding,tutorial",People & Blogs,"""Speaker: Lorena Mesa
+
+Telenovelas are beloved for their over the top drama and intricate plot twists. In this talk, we’ll review popular telenovelas to synthesize a typical telenovela arc and use it to train a deep learning model.
+
+What would a telenovela script look like as imagined by a neural network? To answer this question, we’ll examine three Python deep learning frameworks - Keras, PyTorch, and TensorFlow - to determine the process of translating a telenovela into a neural network and ultimately determine which one will be best for the task at hand. Be prepared for amor, pasiòn, and y el misterioso!
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/VWDoQPm5Ozw/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=VWDoQPm5Ozw,https://www.youtube.com/watch?v=VWDoQPm5Ozw
+10,David Wolever - Floats are Friends: making the most of IEEE754.00000000000000002 - PyCon 2019,https://www.youtube.com/watch?v=zguLmgYWhM0,zguLmgYWhM0,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,1775,5695,143,4.0,David Wolever,People & Blogs,"""Speaker: David Wolever
+
+Floating point numbers have been given a bad rap. They're mocked, maligned, and feared; the but of every joke, the scapegoat for every rounding error.
+
+But this stigma is not deserved. Floats are friends! Friends that have been stuck between a rock and a computationally hard place, and been forced to make some compromises along the way… but friends never the less!
+
+In this talk we'll look at the compromises that were made while designing the floating point standard (IEEE754), how to work within those compromises to make sure that `0.1 + 0.2 = 0.3` and not `0.30000000000000004`, how and when floats can and cannot be safely used, and some interesting history around fixed point number representation.
+
+This talk is ideal for anyone who understands (at least in principle) binary numbers, anyone who has been frustrated by `nan` or the fact that `0.3 == 0.1 + 0.2 = False`, and anyone who wants to be the life of their next party.
+
+This talk will _not_ cover more complicated numerical methods for, ex, ensuring that algorithms are floating-point safe. Also, if you're already familiar with the significance of """"52"""" and the term """"mantissa"""", this talk might be more entertaining than it will be educational for you.
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/zguLmgYWhM0/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=zguLmgYWhM0,https://www.youtube.com/watch?v=zguLmgYWhM0
+11,Charlotte Mays - Attracting the Invisible Contributors - PyCon 2019,https://www.youtube.com/watch?v=1cqeJPIkqOk,1cqeJPIkqOk,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,1504,1090,19,1.0,"Charlotte Mays,pycon,python,coding,tutorial",People & Blogs,"""Speaker: Charlotte Mays
+
+Many new coders seek out open source projects, intending to contribute, and then get overwhelmed and leave. Project maintainers often want the help, but don’t realize how they are inadvertently appearing unwelcoming. I will discuss some of the most common complaints I’ve heard from new coders who tried to contribute but left in frustration, and ways that these can be addressed without putting too much burden on the maintainers.
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/1cqeJPIkqOk/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=1cqeJPIkqOk,https://www.youtube.com/watch?v=1cqeJPIkqOk
+12,"One Engineer, an API, and an MVP: Or, how I spent one hour improving hiring data at my company.",https://www.youtube.com/watch?v=z2TR9Idhwes,z2TR9Idhwes,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,1800,1196,9,,"Nicole Zuckerman,pycon,python,coding,tutorial",People & Blogs,"""Speaker: Nicole Zuckerman
+
+&lt;announcer This one quick trick will help you measure the diversity of your hiring pipeline!  Read on to hear how! &lt;/announcer
+
+One challenge in improving diversity within a hiring pipeline is the struggle to measure what exists in the first place. It's hard to know where to focus your resources until you know what you have to work with, and can identify what steps make a difference and what efforts don't. Using python/django and an api key for our recruiting vendor, you can make this information visible and, therefore, actionable, with very little work.
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/z2TR9Idhwes/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=z2TR9Idhwes,https://www.youtube.com/watch?v=z2TR9Idhwes
+13,"Andrew Godwin - Terrain, Art, Python and LiDAR - PyCon 2019",https://www.youtube.com/watch?v=yusmXE6LUAE,yusmXE6LUAE,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,1586,4081,53,3.0,"Andrew Godwin,pycon,python,coding,tutorial",People & Blogs,"""Speaker: Andrew Godwin
+
+Seeing the Earth from above is truly breathtaking, but it takes a lot of time, fuel and opportunity - so instead, why not make miniature art of the world's famous terrains?
+
+This talk explores using Python to take raw terrain data - from aerial lidar and space-based radar scans - and processing it into 3D models, and CAD/CAM toolpaths, with the ultimate result of making Python-powered artwork of some of Earth's natural wonders.
+
+See how to reduce each National Park to a small, intricately-milled metal carving, how to laser-cut a side-on relief of a whole Hawaiian island, or how to 3D print tiny versions of cities where you can make out each individual building - and the strengths and challenges of using Python to handle 3D and GIS data.
+
+We'll also look at some basic 3D modelling code, discuss the wonders of different map projections, and how personal LiDAR is slowly, but surely, becoming affordable.
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/yusmXE6LUAE/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=yusmXE6LUAE,https://www.youtube.com/watch?v=yusmXE6LUAE
+14,Friday Lightning TalksBreak - PyCon 2019,https://www.youtube.com/watch?v=yFcCuinRVnU,yFcCuinRVnU,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,3498,3701,25,4.0,"lightning talksbreak,pycon,python,coding,tutorial",People & Blogs,,https://i.ytimg.com/vi_webp/yFcCuinRVnU/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=yFcCuinRVnU,https://www.youtube.com/watch?v=yFcCuinRVnU
+15,Kushal Das - Building reproducible Python applications for secured environments - PyCon 2019,https://www.youtube.com/watch?v=wRHi8Ui5vWA,wRHi8Ui5vWA,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,1828,1721,28,,"Kushal Das,pycon,python,coding,tutorial",People & Blogs,"""Speaker: Kushal Das
+
+We all have to package Python based applications for various environments, starting from command line tools, to web applications. And depending on the users, it can be installed on thousands on computers or on a selected few systems. https://pypi.org is our goto place for finding any dependencies and also in most of the time we install binary wheels directly
+from there, thus saving a lot time.
+
+But, Python is also being used in many environments where security is the utter most important, and validating the dependencies of project is also very critical along with the actual project source code.  Many of noticed the recent incident where people were being able to [steal bticoins using a popular library](https://www.theregister.co.uk/2018/11/26/npm_repo_bitcoin_stealer/).This talk will take [SecureDrop client application](https://github.com/freedomofpress/securedrop-client) for journalists as an example project and see how we tried to tackle the similar problem. SecureDrop is an Open Source whistleblower system which is deployed over 75 news organizations all over the world. Our threat model has nation state actors as possible threats, so, security and privacy of the users of the system is a very important point of the whole project. The tools in this case are build and packaged into reproducible Debian deb packages and are installed on Qubes OS in the final end user systems.
+
+There are two basic ways we handle Python project dependencies, for most of the development work, we use a virtualenv, and directly install the dependencies using wheels built from pypi.org. When we package the application for the end users, many times we package them using a operating system based package manager and ask the users to install using those (say RPM or Debian's deb package). In the second case, all the dependencies come as separate packages (and most of the time from the OS itself). The dependency is being handled by the OS package manager itself. That case, we can not update the dependencies fast enough if required, it depends on the packagers from the community who maintains those said packages in the distribution.
+
+We use [dh-virtualenv](https://dh-virtualenv.readthedocs.io/en/1.0/) project to help us to use our own wheels + a virtualenv for the project to be packaged inside the debian .deb package.
+This talk will go throuh [the process](https://github.com/freedomofpress/securedrop-client) of building wheels from known (based on sha256sum) source tarballs, and then having a gpg signed list of updated wheels and [a private index](https://github.com/freedomofpress/securedrop-debian-packaging/tree/master/simple) for the same. And also how we are verifying the wheels' sha256sum (and the signature of that list) during the build process.  The final output is reproducible Debian packages.
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/wRHi8Ui5vWA/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=wRHi8Ui5vWA,https://www.youtube.com/watch?v=wRHi8Ui5vWA
+16,Luciano Ramalho - Set Practice: learning from Python's set types - PyCon 2019,https://www.youtube.com/watch?v=tGAngdU_8D8,tGAngdU_8D8,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,1755,5385,97,6.0,"Luciano Ramalho,pycon,python,coding,tutorial",People & Blogs,"""Speaker: Luciano Ramalho
+
+Key takeaways:
+
+1. Set operations enable simpler and faster solutions for many tasks;
+1. Python's set classes are lessons in elegant, idiomatic API design;
+1. A set class is a suitable context for implementing operator overloading.
+
+Boolean logic and set theory are closely related. In practice, we will see cases where set operations provide simple and fast declarative solutions to programming problems that otherwise require complicated and slow procedural coding.
+
+Python's set built-ins and ABCs provide a rich and well designed API. We will consider their interfaces, and how they can inspire the creation of Pythonic APIs for your own classes.
+
+Finally, we will discuss operator overloading — a technique that is not suitable everywhere, but certainly makes sense with sets. Taking a few operators as examples, we will study their implementation in a new `UintSet` class for integer elements. `UintSet` fully implements the `MutableSet` interface over a totally different internal representation based on a bit array instead of a hash table. Membership tests run in _O(1)_ time like the built-in sets (however, `UintSet` is currently pure Python, so YMMV). Using bit arrays allow core set operations like intersection and union to be implemented with fast bitwise operators, and provides compact storage for dense sets of integers.
+
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/tGAngdU_8D8/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=tGAngdU_8D8,https://www.youtube.com/watch?v=tGAngdU_8D8
+17,Amanda Sopkin - The Refactoring Balance Beam: When to Make Changes and When to Leave it Alone,https://www.youtube.com/watch?v=sze4yunoxU0,sze4yunoxU0,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,1703,1773,44,1.0,"Amanda Sopkin,pycon,python,coding,tutorial",People & Blogs,"""Speaker: Amanda Sopkin
+
+Many developers struggle to find the balance between striving to improve existing code and letting good enough alone by accepting certain shortcomings. As a new developer to a team it can be difficult to understand existing strategies and patterns that are sometimes flat out bad (and often openly acknowledged as such). Often the result of tight deadlines or unclear specifications, even the best developers write code they later look back upon with shudders. So how do we decide when refactoring is worth it? Come learn strategies for refactoring with minimal impact, methods for working with bad code you can’t change, and strategies for knowing the difference between what is fixable and what is better left alone. 
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/sze4yunoxU0/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=sze4yunoxU0,https://www.youtube.com/watch?v=sze4yunoxU0
+18,Saturday Lightning TalksBreak - PyCon 2019,https://www.youtube.com/watch?v=sRwHWPDJBnk,sRwHWPDJBnk,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,3491,1764,21,1.0,"pycon,python,coding,tutorial",People & Blogs,,https://i.ytimg.com/vi_webp/sRwHWPDJBnk/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=sRwHWPDJBnk,https://www.youtube.com/watch?v=sRwHWPDJBnk
+19,Rachael Tatman - Put down the deep learning: When not to use neural networks and what to do instead,https://www.youtube.com/watch?v=qw5dBdTXLEs,qw5dBdTXLEs,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,1880,10614,310,10.0,"Rachael Tatman,pycon,python,coding,tutorial",People & Blogs,"""Speaker: Rachael Tatman
+
+The deep learning hype is real, and the Python ecosystem makes it easier than ever to neural networks to everything from speech recognition to generating memes. But when picking a model architecture to apply to your work, you should consider more than just state of the art results from NeurIPS. The amount of time, money and data available to you are equally, if not more, important. This talk will cover some alternatives to deep learning, including regression, tree-based methods and distance based methods. More importantly, it will include a frank discussion of the pros and cons of different methods and when it makes sense to use each in practice.
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/qw5dBdTXLEs/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=qw5dBdTXLEs,https://www.youtube.com/watch?v=qw5dBdTXLEs
+20,J. Henry Hinnefeld - Measuring Model Fairness - PyCon 2019,https://www.youtube.com/watch?v=pYXz507ths0,pYXz507ths0,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,1707,947,12,1.0,"J. Henry Hinnefeld,pycon,python,coding,tutorial",People & Blogs,"""Speaker: J. Henry Hinnefeld
+
+When machine learning models make decisions that affect people’s lives, how can you be sure those decisions are fair? When you build a machine learning product, how can you be sure your product isn't biased? What does it even mean for an algorithm to be ‘fair’? As machine learning becomes more prevalent in socially impactful domains like policing, lending, and education these questions take on a new urgency.
+
+In this talk I’ll introduce several common metrics which measure the fairness of model predictions. Next I’ll relate these metrics to different notions of fairness and show how the context in which a model or product is used determines which metrics (if any) are applicable. To illustrate this context-dependence I'll describe a case study of anonymized real-world data. Next, I'll highlight some open source tools in the Python ecosystem which address model fairness. Finally, I'll conclude by arguing that if your job involves building these kinds models or products then it is your responsibility to think about the answers to these questions.
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/pYXz507ths0/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=pYXz507ths0,https://www.youtube.com/watch?v=pYXz507ths0
+21,Programación para periodistas: el uso de Python en la extracción y análisis de reportajes,https://www.youtube.com/watch?v=or3d8pNrSBc,or3d8pNrSBc,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,1509,807,15,,"Judite Macedo Cypreste,pycon,python,coding,tutorial",People & Blogs,Speaker: Judite Macedo Cypreste,https://i.ytimg.com/vi_webp/or3d8pNrSBc/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=or3d8pNrSBc,https://www.youtube.com/watch?v=or3d8pNrSBc
+22,Manojit Nandi - Measures and Mismeasures of algorithmic fairness - PyCon 2019,https://www.youtube.com/watch?v=olCKhigTVuY,olCKhigTVuY,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,2258,838,16,,"Manojit Nandi,pycon,python,coding,tutorial",People & Blogs,"""Speaker: Manojit Nandi
+
+Within the last few years, researchers have come to understand that machine learning systems may display discriminatory behavior with regards to certain protected characteristics, such as gender or race. To combat these harmful behaviors, we have created multiple definitions of fairness to enable equity in machine learning algorithms. In this talk, I will cover these different definitions of algorithmic fairness and discuss both the strengths and limitations of these formalizations.  In addition, I will cover other best practices to better mitigate the  unintended bias of data products.
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/olCKhigTVuY/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=olCKhigTVuY,https://www.youtube.com/watch?v=olCKhigTVuY
+23,JP Bader - Plug-n-Stream Player Piano: Signal Processing With Python - PyCon 2019,https://www.youtube.com/watch?v=fevxy-s0vo0,fevxy-s0vo0,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,2388,1331,23,1.0,"JP Bader,pycon,python,coding,tutorial",People & Blogs,"""Speaker: JP Bader
+
+Digital Signal Processing and Player Piano don't normally come together in the same sentance. Player Pianos that are 100+ years old are awesome artisan artifacts, but they don't play digital formats very well. This talk will show how we take a 100+ year old technology and marry it to the digital age via Python libraries and precision lasers! 
+
+In this discussion we will cover how we are creating our own """"Plug-n-Stream Player Piano"""". We will take a look at the different digital signal processing Python libraries, their functionality, and requirements for converting audio streams to piano playable audio files. After a brief walk through of our prototyped hardware, we will dissect the digital signal processing, converting streaming music to data for the Player Piano. With a real Player Piano in the room we will demo streaming music from our devices onto the piano. 
+
+LIVE(ish) Piano Playing!
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/fevxy-s0vo0/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=fevxy-s0vo0,https://www.youtube.com/watch?v=fevxy-s0vo0
+24,Terri Oda - Python Security Tools - PyCon 2019,https://www.youtube.com/watch?v=e7zzdl8OXCU,e7zzdl8OXCU,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,1705,4721,68,,"Terri Oda,pycon,python,coding,tutorial",People & Blogs,"""Speaker: Terri Oda
+
+While high-level security concepts may transcend languages, each language has its own sets of tools and edge cases that are worth knowing.  Python is one of many popular languages that is rarely the focus in security training, but that doesn't mean python code is automatically secure (no matter what the internet tells you).  Learn why people who say “pylint will help you with security” aren’t doing you any favours, how to use Bandit for security-focused linting and talk about other options for static analysis.  Take a deeper look at why scanning for publicly known vulnerabilities is complicated, and how to use Pyup Safety to make it easier.  We’ll also explore some language myths and best practices.
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/e7zzdl8OXCU/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=e7zzdl8OXCU,https://www.youtube.com/watch?v=e7zzdl8OXCU
+25,Anthony Shaw - Wily Python: Writing simpler and more maintainable Python - PyCon 2019,https://www.youtube.com/watch?v=dqdsNoApJ80,dqdsNoApJ80,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,1743,40933,768,18.0,"Anthony Shaw,pycon,python,coding,tutorial",People & Blogs,"""Speaker: Anthony Shaw
+
+Everyone starts with the best intentions with their Python projects, """"this time it's going to be clean, simple and maintainable"""". But code evolves over time, requirements change and codebases can get messy and complicated quickly.
+
+In this talk, you will learn how to use `wily` to measure and graph how complicated your Python code is and a series of practical techniques to simplify it. `wily` will show you which parts of your projects are becoming or have become hard to maintain and need a refactor. Once you know where the skeletons are, you will learn practical techniques for refactoring """"complex"""" code and some resources to use to take your refactoring to the next level.
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/dqdsNoApJ80/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=dqdsNoApJ80,https://www.youtube.com/watch?v=dqdsNoApJ80
+26,Emin Martinian - Statistical Profiling (and other fun with the sys module) - PyCon 2019,https://www.youtube.com/watch?v=d5SGUscT2GA,d5SGUscT2GA,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,1998,1508,17,,"Emin Martinian,pycon,python,coding,tutorial",People & Blogs,"""Speaker: Emin Martinian
+
+Profiling involves computing a set of data about how often and how
+long various parts of your program are executed. Profiling is useful
+to understand what makes your program slow and how you can improve
+it. After a quick review of deterministic profiling tools and
+techniques, I will describe how you can do statistical profiling with
+existing packages or write your own from scratch.
+
+Statistical profiling involves occasionally sampling what your program
+is doing instead of watching each line or function. A key feature of
+statistical profiling is that by using a moderate sampling frequency,
+you can profile your production code with almost no overhead. This lets
+you find the actual bottlenecks in real use cases.
+
+The core technical focus of the talk is python's sys module and how it
+lets you easily examine a running program. I also describe some tricks
+to be aware of related to threading, context switches, locks, and so on.
+At the conclusion of the talk, you will hopefully understand how to use
+an existing statistical profiler or write a customized version yourself.
+
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/d5SGUscT2GA/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=d5SGUscT2GA,https://www.youtube.com/watch?v=d5SGUscT2GA
+27,Liz Sander - Lowering the Stakes of Failure with Pre-mortems and Post-mortems - PyCon 2019,https://www.youtube.com/watch?v=bmMBA6SDirU,bmMBA6SDirU,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,1788,943,14,1.0,"Liz Sander,pycon,python,coding,tutorial",People & Blogs,"""Speaker: Liz Sander
+
+Failure can be scary. There are real costs to a company and its users when software crashes, models are inaccurate, or when systems go down. The emotional stakes feel high-- no one wants to be responsible for a failure. We can lower the stakes by creating spaces to learn from failures, and minimize their impact. This talk introduces two ways to address failure: blameless post-mortems, to learn from an incident; and pre-mortems, to identify modes of failure upfront.
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/bmMBA6SDirU/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=bmMBA6SDirU,https://www.youtube.com/watch?v=bmMBA6SDirU
+28,Lynn Root - Advanced asyncio: Solving Real-world Production Problems - PyCon 2019,https://www.youtube.com/watch?v=bckD_GK80oY,bckD_GK80oY,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,2446,21605,518,19.0,"Lynn Root,pycon,python,coding,tutorial",People & Blogs,"""Speaker: Lynn Root
+
+Everyone’s talking about it. Everyone’s using it. But most likely, they’re doing it wrong, just like we did.
+
+By building a simplified chaos monkey service, we will walk through how to create a good foundation for an asyncio-based service, including graceful shutdowns, proper exception handling, and testing asynchronous code. We’ll get into the hairier topics as well, covering topics like working with synchronous code, debugging and profiling, and working with threaded code. We’ll learn how to approach asynchronous and concurrent programming with Python’s `asyncio` library, take away some best practices, and learn what pitfalls to avoid.
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/bckD_GK80oY/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=bckD_GK80oY,https://www.youtube.com/watch?v=bckD_GK80oY
+29,Jonas Neubert - What is a PLC and how do I talk Python to it? - PyCon 2019,https://www.youtube.com/watch?v=a0l29lgDf6k,a0l29lgDf6k,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,1971,17729,378,23.0,"Jonas Neubert,pycon,python,coding,tutorial",People & Blogs,"""Speaker: Jonas Neubert
+
+Walk into any factory and you will see a Programmable Logic Controller (PLC). It's the small box that has a memory card and an Ethernet cable on one side, and lots of colorful wires connected to the other end. Inside runs the logic that turns inputs from sensors into outputs to robots, conveyor belts and other machinery. PLCs evolved from relay banks in the 1970s and have ruled the world of industrial automation since then.
+
+In the first half of this talk we will take a look at how they work, how to program them, and why a strange language called """"ladder logic"""" is (still) the lingua franca for programming them. In a short on-stage demo I will write some PLC code to control a device on stage.
+
+It's 2019 now and just running a PLC isn't quite enough anymore. Everyone is talking about the """"Industrial Internet of Things"""" and they have connected their PLCs to the company network. The second half of the talk will look at how we can connect to PLCs to read data and influence the running program with Python. 
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/a0l29lgDf6k/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=a0l29lgDf6k,https://www.youtube.com/watch?v=a0l29lgDf6k
+30,Matthew Gordon - Fighting Climate Change with Python - PyCon 2019,https://www.youtube.com/watch?v=WQkM3ppuhWo,WQkM3ppuhWo,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,1920,3777,108,12.0,Matthew Gordon,People & Blogs,"""Speaker: Matthew Gordon
+
+Methane, the primary component of natural gas, is a 60 times more powerful climate change agent than carbon dioxide.  Current technologies for finding methane leaks in oil and gas infrastructure rely on driving well to well with a handheld camera.  At Kairos Aerospace, we have developed a plane-mounted sensor for detecting methane leaks, but the sensor is only part of the solution: getting information off the sensor and into customers’ hands required us to build an entire plane-to-report pipeline.  I’ll discuss the challenges we faced in developing a scalable, reliable, and cost-effective scientific computing platform in Python, with examples of novel solutions using Python’s extensive ecosystem of GIS, cloud computing and machine learning tools.
+
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/WQkM3ppuhWo/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=WQkM3ppuhWo,https://www.youtube.com/watch?v=WQkM3ppuhWo
+31,Duy Nguyen - Scraping a Million Pokemon Battles: Distributed Systems By Example - PyCon 2019,https://www.youtube.com/watch?v=QvZqttX9uXc,QvZqttX9uXc,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,1726,3158,70,4.0,Duy Nguyen,People & Blogs,"""Speaker: Duy Nguyen
+
+I love Pokemon. However, I don't love how some players make the community less welcoming towards beginners by hiding their strategies. So I did what any defiant engineer would. I signed up for a free AWS account and began (responsibly) scraping millions of their unauthenticated Pokemon battles.
+
+We'll journey together through this passion project of mine and draw on specific examples to better understand the trade-offs of working with distributed systems or microservice architectures in the cloud.
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/QvZqttX9uXc/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=QvZqttX9uXc,https://www.youtube.com/watch?v=QvZqttX9uXc
+32,Liran Haimovitch -  Understanding Python’s Debugging Internals  - PyCon 2019,https://www.youtube.com/watch?v=QU158nGABxI,QU158nGABxI,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,2379,2958,50,,"Liran Haimovitch,pycon,python,coding,tutorial",People & Blogs,"""Speaker: Liran Haimovitch
+
+Knowing your enemies is as important as knowing your friends. Understanding your debugger is a little of both. Have you ever wondered how Python debugging looks on the inside?
+On our journey to building a Python debugger, we learned a lot about its internals, quirks and more.
+
+During this session, we’ll share how debugging actually works in Python.
+We’ll discuss the differences between CPython and PyPy interpreters, explain the underlying debugging mechanism and show you how to utilize this knowledge at work and up your watercooler talk game.
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/QU158nGABxI/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=QU158nGABxI,https://www.youtube.com/watch?v=QU158nGABxI
+33,Chris Wilcox - Shipping your first Python package and automating future publishing - PyCon 2019,https://www.youtube.com/watch?v=P3dY3uDmnkU,P3dY3uDmnkU,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,1910,6265,136,5.0,"Chris Wilcox,pycon,python,coding,tutorial",People & Blogs,"""Speaker: Chris Wilcox
+
+One of the best things about Python is the vast ecosystem of packages available on the Python Package Index. Shipping your first Python package can be intimidating. This talk aims to remove the mystery of Python packaging and enable you to share your code with other Pythonistas. We will also discuss more recent additions to packaging that can be used even if you are an experienced package maintainer. The latter portion of the talk will be dedicated to talking about how you can automate releasing via CI to make future updates a breeze.
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/P3dY3uDmnkU/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=P3dY3uDmnkU,https://www.youtube.com/watch?v=P3dY3uDmnkU
+34,Erin Allard - Ace Your Technical Interview Using Python - PyCon 2019,https://www.youtube.com/watch?v=NltGUUi23zc,NltGUUi23zc,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,1841,4418,103,2.0,"Erin Allard,pycon,python,coding,tutorial",People & Blogs,"""Speaker: Erin Allard
+
+Do you feel overwhelmed by the prospect of having to find a new software engineering job because you dread the technical interviewing process? Have you been putting off submitting your job applications because you think you won't be ready to interview until you do """"just one more"""" day of studying? 
+
+In this talk, you'll learn which concepts are the most important to study for entry-level roles and how to use your Python skills to convey your understanding of these concepts with confidence and clarity. 
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/NltGUUi23zc/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=NltGUUi23zc,https://www.youtube.com/watch?v=NltGUUi23zc
+35,Jacob Kaplan-Moss - Assets in Django without losing your hair - PyCon 2019,https://www.youtube.com/watch?v=E613X3RBegI,E613X3RBegI,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,1749,3631,90,3.0,"Jacob Kaplan-Moss,pycon,python,coding,tutorial",People & Blogs,"""Speaker: Jacob Kaplan-Moss
+
+There's one part of building a Django app I hate: setting up handling of assets and media. There are so many moving pieces — static assets,  asset compilation and compression, file uploads, storage engines, etc. etc. I can never remember how it all fits together. I wrote this talk for one very selfish reason: to document how this all works, in one place, once and for all. 
+
+This talk is primarily intended for Django developers who want to build an asset pipeline that Just Works. The bulk of the talk covers front-end tooling (Webpack, PostCSS, Babel, etc.), so full-stack developers of any stripe will find something here, too.
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/E613X3RBegI/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=E613X3RBegI,https://www.youtube.com/watch?v=E613X3RBegI
+36,Lauren Schaefer - Does remote work really work? - PyCon 2019,https://www.youtube.com/watch?v=CTWgKyLk6mo,CTWgKyLk6mo,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,2360,4544,82,6.0,"Lauren Schaefer,pycon,python,coding,tutorial",People & Blogs,"""Speaker: Lauren Schaefer
+
+With nearly nine years of experience as a remote employee across three different companies, Lauren knows the ups and downs of remote work. In this session, Lauren will dive into what the research says about remote work and share her personal stories of failures and successes.
+
+You'll walk away from this session knowing why remote work is awesome, empowered to convince your boss to let you work remotely, and armed with the tools you need to be a happy, successful remote employee.
+
+If you've been thinking about making the transition to working remotely, you're a manager of people who are or could work remotely, or you've made the leap to remote work and are struggling to make it work, this is the session for you!
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/CTWgKyLk6mo/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=CTWgKyLk6mo,https://www.youtube.com/watch?v=CTWgKyLk6mo
+37,Fridolín Pokorný - Thoth - how to recommend the best possible libraries for your application,https://www.youtube.com/watch?v=CRnKC6-cFY4,CRnKC6-cFY4,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,1338,1053,14,,"Fridolín Pokorný,pycon,python,coding,tutorial",People & Blogs,"""Speaker: Fridolín Pokorný
+
+Having libraries in your Python project properly locked to a specific version is a well known best practice. Dependency management tools in the Python ecosystem lock dependencies to the latest version available, but what if the latest version available is not the best fit for your application? Open source project Thoth is an advanced Python dependency resolver which recommends libraries for your project based on observations that are gathered for Python libraries for specific runtime environments. How these recommendations look like? How are different observations like performance characteristics of machine learning libraries for a particular hardware gathered?
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/CRnKC6-cFY4/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=CRnKC6-cFY4,https://www.youtube.com/watch?v=CRnKC6-cFY4
+38,Final Remarks and Conference Close - PyCon 2019,https://www.youtube.com/watch?v=ADutU_sFXXA,ADutU_sFXXA,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,705,304,9,,"pycon,python,coding,tutorial,ernest",People & Blogs,,https://i.ytimg.com/vi_webp/ADutU_sFXXA/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=ADutU_sFXXA,https://www.youtube.com/watch?v=ADutU_sFXXA
+39,Geir Arne Hjelle - Plugins: Adding Flexibility to Your Apps - PyCon 2019,https://www.youtube.com/watch?v=98s9YfoXB68,98s9YfoXB68,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,1776,4861,102,1.0,"Geir Arne Hjelle,pycon,python,coding,tutorial",People & Blogs,"""Speaker: Geir Arne Hjelle
+
+Python is a flexible language. Your Python app, on the other hand, is usually more set in stone: buttons, functions, displays are all explicitly defined.
+
+In this talk you'll learn how to take advantage of features like decorators and functions as first-class objects to set up a simple plugin system that allows your app to be more flexible. In fact, you can allow your users to add or customize functionality they want after you ship.
+
+By using plugins, your code becomes more modular and maintainable. At the same time your users may be able to use your great app to work with data or challenges you didn't even know existed.
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/98s9YfoXB68/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=98s9YfoXB68,https://www.youtube.com/watch?v=98s9YfoXB68
+40,Eric Snow - to GIL or not to GIL: the Future of Multi-Core (C)Python - PyCon 2019,https://www.youtube.com/watch?v=7RlqbHCCVyc,7RlqbHCCVyc,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,1830,12525,219,7.0,"Eric Snow,pycon,python,coding,tutorial",People & Blogs,"""Speaker: Eric Snow
+
+Why come to yet another talk about CPython's GIL? [1]  Sure, we'll spend a little time on what it is, who it affects (and doesn't), and how to work around it.  However, what you want to come hear is what the future holds for the GIL.
+
+We'll take most of the time talking about life *after* the GIL!  Come see what recent developments and ongoing work will allow us to either circumvent the GIL and get rid of it, unlocking true multi-core capability in Python code.
+
+[1] In case you don't know, the GIL is a global lock that prevents multi-core parallelism in pure Python code.  It has a controversial place in the community.  Look it up (or come to this talk)!
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/7RlqbHCCVyc/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=7RlqbHCCVyc,https://www.youtube.com/watch?v=7RlqbHCCVyc
+41,Andy Fundinger - 8 things that happen at the dot:  Attribute Access & Descriptors - PyCon 2019,https://www.youtube.com/watch?v=6cDtA_uzqg0,6cDtA_uzqg0,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,1795,3087,35,6.0,"Andy Fundinger,pycon,python,coding,tutorial",People & Blogs,"""Speaker: Andy Fundinger
+
+We rarely think about the dot “.” between our objects and their fields, but there are quite a lot of things that happen every time we use one in Python. This talk will explore the details of what happens, how the descriptor protocol works, and how it can be used to alter the Python object model.
+
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/6cDtA_uzqg0/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=6cDtA_uzqg0,https://www.youtube.com/watch?v=6cDtA_uzqg0
+42,Isabel Cristina Ruiz Buriticá - Pintando el caos con Python - PyCon 2019,https://www.youtube.com/watch?v=4OkiRPU-XMU,4OkiRPU-XMU,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,1212,541,17,,"Isabel Cristina Ruiz Buriticá,pycon,python,coding,tutorial",People & Blogs,,https://i.ytimg.com/vi_webp/4OkiRPU-XMU/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=4OkiRPU-XMU,https://www.youtube.com/watch?v=4OkiRPU-XMU
+43,Philip James - The Elephant and the Serpent: Using Mastodon with Python - PyCon 2019,https://www.youtube.com/watch?v=3AQZfXG-ZXs,3AQZfXG-ZXs,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,2047,920,15,2.0,Philip James,People & Blogs,"""Speaker: Philip James
+
+For the past two years, an Open Source social network has been building on the foundations laid by years of Open Web work and quietly growing to provide a viable alternative to the social network megacorps we’ve grown used to. It’s name is Mastodon, and it wants you to be part of the community.
+
+In this talk, we’ll learn what Mastodon is, how it works, how you can participate, and how you can interact with the community using Python. Along the way, we’ll learn about OAuth, APIs, and best practices for writing bots. Attendees will walk away with the knowledge of how to build a Mastodon bot.
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/3AQZfXG-ZXs/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=3AQZfXG-ZXs,https://www.youtube.com/watch?v=3AQZfXG-ZXs
+44,Nicolle Cysneiros - Eita! Why Internationalization and Localization matter - PyCon 2019,https://www.youtube.com/watch?v=2eF_MhgplQ8,2eF_MhgplQ8,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,2635,613,10,,Nicolle Cysneiros,People & Blogs,"""Speaker: Nicolle Cysneiros
+
+According to the always trustworthy Wikipedia, there are approximately 360 million native English speakers in the world. We, as developers, are so used to write code and documentation in English that we may not realize that this number only represents 4.67% of the world population. It is very useful to have a common language for the communication between developers, but this doesn’t mean that the user shouldn’t feel a little bit more comfortable when using your product. 
+
+Translation of terms is only one step in the whole Internationalization (i18n) and Localization (l10n) process. It also entails number, date and time formatting, currency conversion, sorting, legal requirements, among other issues. This talk will go through the definition of i18n and l10n as well as show the main tools available for developers to support multiple languages and regional related preferences in their Python program. We will also see how one can enable local support for their website in Django. Finally, this presentation will discuss how we can manage Internationalization and Localization for a bigger product running in different platforms (front and back end) and how to incorporate i18n and l10n into our current development and deploy processes.
+
+Oh, and by the way, “eita!” is a Brazilian interjection to show yourself surprised with something. 🙂 
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/2eF_MhgplQ8/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=2eF_MhgplQ8,https://www.youtube.com/watch?v=2eF_MhgplQ8
+45,Elana Hashman - The Black Magic of Python Wheels - PyCon 2019,https://www.youtube.com/watch?v=02aAZ8u3wEQ,02aAZ8u3wEQ,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,1582,14983,465,17.0,"Elana Hashman,pycon,python,coding,tutorial",People & Blogs,"""Speaker: Elana Hashman
+
+If you’ve ever `pip install`ed a Python package with C extensions on Linux, it was probably a painful experience, having to download and install development headers for libraries you’ve never even heard of. Maybe you’ve given up on pip and have switched to Conda. But it doesn’t have to be this way! The Python Packaging Authority has been working hard to solve this problem with a new distribution format for compiled Python code, called “wheels.”
+
+In this talk, we’ll descend into the practice of PEPs 513 and 571: arcane scrolls that can equip Python developers with spells to pre-compile applications and libraries in a way that allows most Linux end users to run them directly. I’ll show you how to hex compiled artifacts and source code into the wheel format, harness application binary interfaces (ABIs) to use external libraries, brave the eldritch horrors of the dynamic linker, and bind these all together in the manylinux environment. Come learn to harness the black magic of Python wheels, and you too can spare your users pain… for a price.
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/02aAZ8u3wEQ/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=02aAZ8u3wEQ,https://www.youtube.com/watch?v=02aAZ8u3wEQ
+46,Jess Shapiro - Everything at Once: Python's Many Concurrency Models - PyCon 2019,https://www.youtube.com/watch?v=w2nKIGhXPAM,w2nKIGhXPAM,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,1544,2523,45,1.0,"Jess Shapiro,pycon,python,coding,tutorial",People & Blogs,"""Speaker: Jess Shapiro
+
+Python makes it incredibly easy to build programs that do what you want. But what happens when you want to do what you want, but with more input? One of the easiest things to do is to make a program concurrent so that you can get more performance on large data sets. But what's involved with that?
+
+Right now, there are any number of ways to do this, and that can be confusing! How does `asyncio` work? What's the difference between a thread and a process? And what's this Hadoop thing everyone keeps talking about?
+
+In this talk, we'll cover some broad ground of what the different concurrency models available to you as a Python developer are, the tradeoffs and advantages of each, and explain how you can select the right one for your purpose.
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/w2nKIGhXPAM/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=w2nKIGhXPAM,https://www.youtube.com/watch?v=w2nKIGhXPAM
+47,Joe Gordon - Syntax Trees and Python - Automated Code Transformations - PyCon 2019,https://www.youtube.com/watch?v=viNzD1zD-Fg,viNzD1zD-Fg,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,1820,2859,43,2.0,"Joe Gordon,pycon,python,coding,tutorial",People & Blogs,"""Speaker: Joe Gordon
+
+Manually updating a million line code base is tedious. Thankfully syntax trees provide a safe and quick way to  automatically apply repetitive transformations. Leveraging syntax tree based tooling (based on lib2to3), has been a critical component of Pinterest's Python 3 upgrade strategy, and saved us countless hours of work.  Learn how syntax trees work, how they are used to transform code, and how you can quickly write your own transformations.
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/viNzD1zD-Fg/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=viNzD1zD-Fg,https://www.youtube.com/watch?v=viNzD1zD-Fg
+48,Jake VanderPlas - How to Think about Data Visualization - PyCon 2019,https://www.youtube.com/watch?v=vTingdk_pVM,vTingdk_pVM,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,1795,31118,742,14.0,"Jake VanderPlas,pycon,python,coding,tutorial",People & Blogs,"""Speaker: Jake VanderPlas
+
+The Python world has a staggering array of data visualization tools, and choosing which to use can seem like a daunting task. But which tool you use is far less important than how you use it. In this talk I’ll walk through some of the important considerations involved in visualizing your data, so that you can create more effective visualizations no matter which plotting package you use.
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/vTingdk_pVM/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=vTingdk_pVM,https://www.youtube.com/watch?v=vTingdk_pVM
+49,Matthew Seal - Programmatic Notebooks with papermill - PyCon 2019,https://www.youtube.com/watch?v=vBEEL274sco,vBEEL274sco,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,2707,6021,87,,Matthew Seal,People & Blogs,"""Speaker: Matthew Seal
+
+Notebooks have traditionally been a tool for drafting code and avoiding repeated expensive computations while exploring solutions. However, with new tools like nteract's papermill and scrapbook libraries, this technology has been expanded to make a reusable and parameterizable template for execution.
+
+We'll walk though how Jupyter notebooks are being programmatically used at Netflix and how this helps with our batch processing world. We'll also explore how these use cases connect back with users and why we've adopted these tools for Python and non-Python execution.
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/vBEEL274sco/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=vBEEL274sco,https://www.youtube.com/watch?v=vBEEL274sco
+50,"Steve Dower - Python on Windows is Okay, Actually - PyCon 2019",https://www.youtube.com/watch?v=uoI57uMdDD4,uoI57uMdDD4,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,1636,5550,101,12.0,"Steve Dower,pycon,python,coding,tutorial",People & Blogs,"""Speaker: Steve Dower
+
+Packages that won't install, encodings that don't work, installers that ask too many questions, and having to own a PC are all great reasons to just ignore Windows. Or they would be, if they were true.
+
+Despite community perception, more than half of Python usage is on Windows, including web development, system administration, and data science, just like on Linux and Mac. And for the most part, Python works the same regardless of what operating system you happen to be using. Still, many library developers will unnecessarily exclude half of their potential audience by not even attempting to be compatible.
+
+This session will walk through the things to be aware of when creating cross-platform libraries. From simple things like using `pathlib` rather than `bytes`, through to all the ways you can get builds and tests running on Windows for free, by the end of this session you will have a checklist of easy tasks for your project that will really enable the whole Python world to benefit from your work.
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/uoI57uMdDD4/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=uoI57uMdDD4,https://www.youtube.com/watch?v=uoI57uMdDD4
+51,Christy Heaton - Planea el próximo eclipse con Jupyter y geopandas. - PyCon 2019,https://www.youtube.com/watch?v=tTIWVfltBbk,tTIWVfltBbk,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,1518,623,11,,"Christy Heaton,pycon,python,coding,tutorial",People & Blogs,,https://i.ytimg.com/vi_webp/tTIWVfltBbk/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=tTIWVfltBbk,https://www.youtube.com/watch?v=tTIWVfltBbk
+52,Abrar Ahmed Sheikh - A Guide to Software Engineering for Visually Impaired - PyCon 2019,https://www.youtube.com/watch?v=tJSSU6TO8EY,tJSSU6TO8EY,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,1925,713,16,,"Abrar Ahmed Sheikh,pycon,python,coding,tutorial",People & Blogs,"""Speaker: Abrar Ahmed Sheikh
+
+We will look into a day in the life of a Software Engineer with limited vision to Understand their difficulties at work and how they can overcome those difficulties to become successful in their role.
+
+I am a backend Software Engineer at Yelp who uses Python extensively for building Yelps infrastructure and internal tools. I also suffer from a genetic disorder called Albinism which often results in limited visual acuity that can range from 20/120 to 20/200 in most common cases. With such a low vision it's extremely difficult to read the computer screen without the use of on-screen magnifiers. In this talk, we will see how a person with adverse visual acuity can thrive and be successful in the field of Software Engineering. We will address the importance and meaning of accessibility for Software Engineers with partial vision and recommend some best practices that are available today. We will also talk about the importance of an inclusive work culture that can help foster creativity and ease ramp up for a Software Engineer with a disability.
+
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/tJSSU6TO8EY/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=tJSSU6TO8EY,https://www.youtube.com/watch?v=tJSSU6TO8EY
+53,Dan Yeaw - 5 Steps to Build Python Native GUI Widgets for BeeWare - PyCon 2019,https://www.youtube.com/watch?v=sWt_sEZUiY8,sWt_sEZUiY8,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,1885,7437,82,3.0,"Dan Yeaw,pycon,python,coding,tutorial",People & Blogs,"""Speaker: Dan Yeaw
+
+Have you ever wanted to write a GUI application in Python that you can run on both your laptop and your phone? Have you been looking to contribute to an open source project, but you don't know where to start?
+
+BeeWare is a set of software libraries for cross-platform native app development from a single Python codebase and tools to simplify app deployment. The project aims to build, deploy, and run apps for Windows, Linux, macOS, Android, iPhone, and the web. It is native because it is actually using your platform's native GUI widgets, not a theme, icon pack, or webpage wrapper.
+
+This talk will teach you how Toga, the BeeWare GUI toolkit, is architected and then show you how you can contribute to Toga by creating your own GUI widget in five easy steps.
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/sWt_sEZUiY8/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=sWt_sEZUiY8,https://www.youtube.com/watch?v=sWt_sEZUiY8
+54,Paul Ganssle - Working with Time Zones: Everything You Wish You Didn't Need to Know - PyCon 2019,https://www.youtube.com/watch?v=rz3D8VG_2TY,rz3D8VG_2TY,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,1767,3531,85,6.0,Paul Ganssle,People & Blogs,"""Speaker: Paul Ganssle
+
+Time zones are complicated, but they are a fact of engineering life. Time zones have [skipped entire days](http://www.bbc.com/news/world-asia-16351377) and repeated others. There are time zones that switch to [DST twice per year](https://www.timeanddate.com/time/zone/morocco/casablanca). But not necessarily every year.  In Python it's even possible to create datetimes with non-transitive equality (`a == b`, `b == c`, `a != c`).
+
+In this talk you'll learn about Python's time zone model and other concepts critical to avoiding datetime troubles. Using `dateutil` and `pytz` as examples, this talk covers how to deal with ambiguous and imaginary times, datetime arithmetic around a Daylight Savings Time transition, and datetime's new `fold` attribute, introduced in Python 3.6 ([PEP 495](https://www.python.org/dev/peps/pep-0495/)).
+
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/rz3D8VG_2TY/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=rz3D8VG_2TY,https://www.youtube.com/watch?v=rz3D8VG_2TY
+55,"Simon Willison - Instant serverless APIs, powered by SQLite - PyCon 2019",https://www.youtube.com/watch?v=pTr1uLQTJNE,pTr1uLQTJNE,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,2572,10257,280,6.0,Simon Willison,People & Blogs,"""Speaker: Simon Willison
+
+Serverless computing is all about paying only for what you use: it can scale up to handle millions of requests, but it can also scale down to 0, costing you nothing if your application is not receiving any traffic.
+
+Serverless tends to get expensive when databases are involved.... but if your data is static or changes infrequently, you can use serverless tools to provide powerful interactive APIs extremely cheaply.
+
+[Datasette](https://datasette.readthedocs.io/) is an open-source Python tool that provides an instant, read-only JSON API for any SQLite database. It also provides tools for packaging the database up as a Docker container and instantly deploying that container to a number of different serverless hosting platforms.
+
+This makes it a powerful tool for sharing interesting data online, in a way that allows users to both explore that data themselves and build their own interpretations of the data using the Datasette JSON API.
+
+In this session I'll show you how to use Datasette to publish data, and illustrate examples of the exciting things people have already built using the tool - including a number of real-world data journalism projects.
+
+I'll also teach people how to use some of the other tools in the Datasette ecosystem:
+
+* [Datasette Publish](https://publish.datasettes.com/), which allows CSV data to be published using Datasette to a serverless hosting account owned by the user, without any engineering experience required.
+* [csvs-to-sqlite](https://pypi.org/project/csvs-to-sqlite/), a tool for efficiently converting large numbers of CSV files into a Datasette-compatible SQLite database.
+* [sqlite-utils](https://sqlite-utils.readthedocs.io/), a library that lets users create complex databases from custom data feeds in just a few lines of Python code (ideal for working with Jupyter notebooks).
+
+I'll discuss the philosophy and design behind Datasette, including how immutable SQLite databases make for an impressively scalable solution for inexpensively serving complex data on the internet. Finally, I'll be exploring how Datasette takes advantage of Python 3 asyncio and the new ASGI specification.
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/pTr1uLQTJNE/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=pTr1uLQTJNE,https://www.youtube.com/watch?v=pTr1uLQTJNE
+56,Michael Sullivan - Getting to Three Million Lines of Type-Annotated Python - PyCon 2019,https://www.youtube.com/watch?v=mh9jQSxzv0c,mh9jQSxzv0c,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,2743,2927,42,2.0,"Michael Sullivan,pycon,python,coding,tutorial",People & Blogs,"""Speaker: Michael Sullivan
+
+Dropbox is a heavy user of the mypy type checker, recently passing three million lines of type-annotated Python code, with over half of that added in 2018. Type checking is helping find bugs, making code easier to under stand, enabling refactors, and is an important aid to our ongoing Python 3 migration.
+
+In this talk, we discuss how we got there. We’ll talk about what we tried in order to get our engineers to type annotate their code—what worked, what didn’t, and what our engineers had to say about it. 
+
+Additionally, we’ll discuss the performance problems we faced as the size of our checked codebase grew, and the techniques we employed to allow mypy—which is implemented in Python—to efficiently check (faster than a second, for most incremental checks) millions of lines of code, which culminated in mypyc, a new ahead-of-time compiler for type-annotated Python!
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/mh9jQSxzv0c/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=mh9jQSxzv0c,https://www.youtube.com/watch?v=mh9jQSxzv0c
+57,Shauna Gordon-McKeon - A New Era in Python Governance - PyCon 2019,https://www.youtube.com/watch?v=mAC83JVDzL8,mAC83JVDzL8,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,1762,712,17,2.0,"Shauna Gordon-McKeon,pycon,python,coding,tutorial",People & Blogs,"""Speaker: Shauna Gordon-McKeon
+
+In July of 2018, Guido van Rossum stepped down as “Benevolent Dictator for Life” of Python.  In December, Python core developers voted on a new governance structure to guide Python going forward.  This talk explores what’s changing and how it may impact the Python community.
+
+Based on analysis of the relevant PEPs and other documentation, and strengthened via a series of interviews with core developers and other community leaders, we’ll cover Python governance past, present and future.  Particular care will be taken to explain why the core developers chose the governance model they did, what the new system entails, and how community members can participate in it.
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/mAC83JVDzL8/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=mAC83JVDzL8,https://www.youtube.com/watch?v=mAC83JVDzL8
+58,Hayley Denbraver - Engineering Ethics and Open Source Software - PyCon 2019,https://www.youtube.com/watch?v=lO1qciS1Ho0,lO1qciS1Ho0,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,1542,429,3,,"Hayley Denbraver,pycon,python,coding,tutorial",People & Blogs,"""Speaker: Hayley Denbraver
+
+It seems that every week there is a news story that prompts software developers to think about the ethical implications of their work. As individuals, teams, and communities we need to consider the impact of the code we write. But what about code that we are using, but did not create? 
+
+How does Open Source Software factor into this equation? OSS is used across the industry, but is written and maintained primarily by volunteers. What are best practices for maintainers, contributors, individual users, and companies who incorporate open source into their work? How can we protect ourselves and our users, while still benefiting from the innovation and collaboration of open source software?
+
+
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/lO1qciS1Ho0/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=lO1qciS1Ho0,https://www.youtube.com/watch?v=lO1qciS1Ho0
+59,Dmitry Petrov - Machine learning model and dataset versioning practices - PyCon 2019,https://www.youtube.com/watch?v=jkfh2PM5Sz8,jkfh2PM5Sz8,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,779,5827,95,,"Dmitry Petrov,pycon,python,coding,tutorial",People & Blogs,"""Speaker: Dmitry Petrov
+
+Python is a prevalent programming language in machine learning (ML) community. A lot of Python engineers and data scientists feel the lack of engineering practices like versioning large datasets and ML models, and the lack of reproducibility. This lack is particularly acute for engineers who just moved to ML space.
+
+We will discuss the current practices of organizing ML projects using traditional open-source toolset like Git and Git-LFS as well as this toolset limitation. Thereby motivation for developing new ML specific version control systems will be explained.
+
+Data Version Control or [DVC.ORG][1] is an [open source][2], command-line tool written in Python. We will show how to version datasets with dozens of gigabytes of data and version ML models, how to use your favorite cloud storage (S3, GCS, or bare metal SSH server) as a data file backend and how to embrace the best engineering practices in your ML projects.
+
+[1]: http://dvc.org
+[2]: https://github.com/iterative/dvc
+
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/jkfh2PM5Sz8/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=jkfh2PM5Sz8,https://www.youtube.com/watch?v=jkfh2PM5Sz8
+60,Aaron Gee-Clough - Django Channels in practice - PyCon 2019,https://www.youtube.com/watch?v=j6IOuD5WD8c,j6IOuD5WD8c,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,1893,3577,94,2.0,"Aaron Gee-Clough,pycon,python,coding,tutorial",People & Blogs,"""Speaker: Aaron Gee-Clough
+
+Django Channels allows developers to make real-time web applications using websockets while maintaining access to the full Django batteries-included model for web applications. This talk will focus on what it takes to run a channels application in production, what's possible with Django Channels beyond chat rooms, and what pitfalls & idiosyncrasies you can expect to run into when using Channels in practice.
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/j6IOuD5WD8c/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=j6IOuD5WD8c,https://www.youtube.com/watch?v=j6IOuD5WD8c
+61,Trey Hunner - Lazy Looping in Python: Making and Using Generators and Iterators - PyCon 2019,https://www.youtube.com/watch?v=ixiRkUwPI2A,ixiRkUwPI2A,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,12418,8226,122,8.0,"Trey Hunner,pycon,python,coding,tutorial",People & Blogs,"""Speaker: Trey Hunner
+
+When processing large amounts of data in Python, we often reach for lists.  Unfortunately, processing data using large lists make for ugly code that can be memory inefficient and slow.  Python's solution to this problem is lazy looping using generators and iterators.
+
+During this tutorial we'll learn a number of lazy looping techniques which will help you write more efficient and more readable Python code.  We'll get practice creating generators, playing with iterators, and using generators and iterators to drastically restructure our code in a more descriptive data-centric way.
+
+You'll walk out of this tutorial with hands-on experience with Python's various lazy looping constructs and a greater appreciation for how looping works under the hood in Python.
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/ixiRkUwPI2A/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=ixiRkUwPI2A,https://www.youtube.com/watch?v=ixiRkUwPI2A
+62,William Horton - CUDA in your Python: Effective Parallel Programming on the GPU - PyCon 2019,https://www.youtube.com/watch?v=iw8RU4m4Dlo,iw8RU4m4Dlo,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,1613,8828,164,4.0,"William Horton,pycon,python,coding,tutorial",People & Blogs,"""Speaker: William Horton
+
+It’s 2019, and Moore’s Law is dead. CPU performance is plateauing, but GPUs provide a chance for continued hardware performance gains, if you can structure your programs to make good use of them.
+
+CUDA is a platform developed by Nvidia for GPGPU--general purpose computing with GPUs. It backs some of the most popular deep learning libraries, like Tensorflow and Pytorch, but has broader uses in data analysis, data science, and machine learning. 
+
+There are several ways that you can start taking advantage of CUDA in your Python programs. 
+
+For some common Python libraries, there are drop-in replacements that let you start running computations on the GPU while still using familiar APIs. For example, CuPy provides a NumPy-like API for interacting with multi-dimensional arrays. Similarly, cuDF is a recent project that mimics the pandas interface for dataframes.
+
+If you want more control over your use of CUDA APIs, you can use the PyCUDA library, which provides bindings for the CUDA API that you can call from your Python code. Compared with drop-in libraries, it gives you the ability to manually allocate memory on the GPU, and write custom CUDA functions (called kernels). However, its drawbacks include writing your CUDA code as large strings in Python, and compiling your CUDA code at runtime.
+
+Finally, for the best performance you can use the Python C/C++ extension interface, the approach taken by deep learning libraries like Pytorch. One of the strengths of Python is the ability to drop down into C/C++, and libraries like NumPy take advantage of this for increased speed. If you use Nvidia’s nvcc compiler for CUDA, you can use the same extension interface to write custom CUDA kernels, and then call them from your Python code.
+
+This talk will explore each of these methods, provide examples to get started, and discuss in more detail the pros and cons of each approach. 
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/iw8RU4m4Dlo/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=iw8RU4m4Dlo,https://www.youtube.com/watch?v=iw8RU4m4Dlo
+63,María Andrea Vignau - Autopsias informáticas: Extendiendo software libre forense con Python,https://www.youtube.com/watch?v=iiIGvoIbCyc,iiIGvoIbCyc,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,1885,537,9,,"María Andrea Vignau,pycon,python,coding,tutorial",People & Blogs,,https://i.ytimg.com/vi_webp/iiIGvoIbCyc/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=iiIGvoIbCyc,https://www.youtube.com/watch?v=iiIGvoIbCyc
+64,Bernat Gabor - Type hinting (and mypy) - PyCon 2019,https://www.youtube.com/watch?v=hTrjTAPnA_k,hTrjTAPnA_k,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,1873,8768,142,10.0,"Bernat Gabor,pycon,python,coding,tutorial",People & Blogs,"""Speaker: Bernat Gabor
+
+Type hinting for Python (as a linter tool) came out in September 2015 as part of Python 3.5 (and was championed by Guido himself). Since then, variable annotations (plus, more recently, protocols) improved its capabilities even further. Over the last two years, tools, such as mypy, could build on top of it. Slowly, these annotations have emerged from a proof of concept state (e.g., mypy API planning) to becoming a stable feature.
+
+In this presentation, I'll tell my story of using type hints for both adding type hinting and checking type correctness for a library supporting both Python 2 and 3 and reusing this information to insert type data into the generated Sphinx documentation automatically.
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/hTrjTAPnA_k/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=hTrjTAPnA_k,https://www.youtube.com/watch?v=hTrjTAPnA_k
+65,Faris Chebib - Help! I'm now the leader of our Meetup group! - PyCon 2019,https://www.youtube.com/watch?v=h5YrZt788CY,h5YrZt788CY,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,1915,326,5,,"Faris Chebib,pycon,python,coding,tutorial",People & Blogs,"""Speaker: Faris Chebib
+
+After attending your local dev meetup for months, you suddenly get the dreaded email: """"Your Organizer just stepped down without nominating a replacement.""""
+
+But the community relies on this meetup! It brings together devs from all around to engage in networking, learning, and comradery! So you step up. I mean, how hard could it be, right?
+
+Oh no. This is much harder than you thought. You have to organize a venue, figure out refreshments, get a speaker, ensure people show up. 
+
+In this talk,  you'll learn the skills need to start and sustain a vibrant meetup and tech community.
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/h5YrZt788CY/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=h5YrZt788CY,https://www.youtube.com/watch?v=h5YrZt788CY
+66,Historia de un ingeniero junior: Mi experiencia construyendo un pipeline de ETL usando Python,https://www.youtube.com/watch?v=giFwg-kU9kE,giFwg-kU9kE,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,1615,4382,101,3.0,"David Mauricio Delgado Ruiz,pycon,python,coding,tutorial",People & Blogs,Speaker: David Mauricio Delgado Ruiz,https://i.ytimg.com/vi_webp/giFwg-kU9kE/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=giFwg-kU9kE,https://www.youtube.com/watch?v=giFwg-kU9kE
+67,"Jacinda Shelly - But, Why is the (Django) Admin Slow? - PyCon 2019",https://www.youtube.com/watch?v=f8cFjiyxQuQ,f8cFjiyxQuQ,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,1610,2467,76,4.0,"Jacinda Shelly,pycon,python,coding,tutorial",People & Blogs,"""Speaker: Jacinda Shelly
+
+The admin interface that comes built-in with Django is one of the most-loved (and oft-abused) features.  However, early converts are often disappointed to find that the admin doesn't seem to be scaling as their database grows in size, forcing them (so they think) to switch to a custom interface much sooner than they would prefer.
+
+However, many common performance issues can be fixed with a few small configuration changes that are much easier than a rewrite!
+
+In this talk, we'll use an example project to demonstrate the most common performance pitfalls encountered when using the Django admin, and fix them - live!  We'll use django-debug-toolbar, a powerful debugging interface that everyone who uses Django should be familiar with, to identify our issues and confirm that they are fixed.
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/f8cFjiyxQuQ/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=f8cFjiyxQuQ,https://www.youtube.com/watch?v=f8cFjiyxQuQ
+68,"Łukasz Langa - Life Is Better Painted Black, or: How to Stop Worrying and Embrace Auto-Formatting",https://www.youtube.com/watch?v=esZLCuWs_2Y,esZLCuWs_2Y,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,2089,40589,761,33.0,"Łukasz Langa,pycon,python,coding,tutorial",People & Blogs,"""Speaker: Łukasz Langa
+
+What good is a code style if it's not internally consistent? What good is a linter when it slows you down? What if you could out-source your worries about code formatting, adopt a consistent style, and make your team faster all at the same time?
+
+Come hear about Black: a new code style and a tool that allows you to format your Python code automatically. In the talk you'll learn not only how the style looks like but why it is the way it is. I will do my best to convince you not only that it's good but that it's *good enough*. You'll see how you can integrate it with your current workflow and how it speeds up your life while making your code prettier on average.
+
+Lose your attachments, delegate the boring job of moving tokens around to satisfy the linter, and save time for more important matters. Guaranteed to increase the life expectancy of space bars and Enter keys on your new MacBook's keyboard.
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/esZLCuWs_2Y/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=esZLCuWs_2Y,https://www.youtube.com/watch?v=esZLCuWs_2Y
+69,"Jordan Adler, Joe Gordon - Migrating Pinterest from Python2 to Python3 - PyCon 2019",https://www.youtube.com/watch?v=e1vqfBEAkNA,e1vqfBEAkNA,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,2448,2694,32,5.0,"Jordan Adler,Joe Gordon,pycon,python,coding,tutorial",People & Blogs,"""Speakers: Jordan Adler, Joe Gordon
+
+Over the course of nearly a year, we migrated Pinterest's primary systems from Python2 to Python3.  A large, tightly coupled codebase with over 2 million lines of code, the Pinterest codebase contained nearly every edge case that might exist in a Py2 to Py3 migration.
+
+We'll cover our approach, gotchas, and tools, and the incredible impact our migration has made on infra spend and code quality.
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/e1vqfBEAkNA/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=e1vqfBEAkNA,https://www.youtube.com/watch?v=e1vqfBEAkNA
+70,A. Jesse Jiryu Davis - API Evolution the Right Way - PyCon 2019,https://www.youtube.com/watch?v=dqDnB6jKzcE,dqDnB6jKzcE,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,1759,2675,79,3.0,"A. Jesse Jiryu Davis,pycon,python,coding,tutorial",People & Blogs,"""Speaker: A. Jesse Jiryu Davis
+
+If you maintain a library, how can you innovate without breaking the projects that depend on it? Follow semantic versioning, add APIs conservatively, add parameters compatibly, use DeprecationWarnings and publish a deprecation policy, guide your users on how to upgrade, and make wise choices about when to break backwards compatibility.
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/dqDnB6jKzcE/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=dqDnB6jKzcE,https://www.youtube.com/watch?v=dqDnB6jKzcE
+71,"Logging for Scientific Computing: Reproducibility, Debugging, Optimization - PyCon 2019",https://www.youtube.com/watch?v=ctYZje9yI-Q,ctYZje9yI-Q,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,1830,2719,61,3.0,"Itamar Turner-Trauring,pycon,python,coding,tutorial",People & Blogs,Speaker: Itamar Turner-Trauring,https://i.ytimg.com/vi_webp/ctYZje9yI-Q/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=ctYZje9yI-Q,https://www.youtube.com/watch?v=ctYZje9yI-Q
+72,"Philip James, Asheesh Laroia - Account Security Patterns: How Logged-In Are you? - PyCon 2019",https://www.youtube.com/watch?v=ccVblMPcEh4,ccVblMPcEh4,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,1711,502,10,,"Philip James,Asheesh Laroia,pycon,python,coding,tutorial",People & Blogs,"""Speakers: Philip James, Asheesh Laroia
+
+Account security means making sure your users are only ones who can access their accounts. Account takeovers happen for a variety of reasons -- password re-use, compromised computers, guessable passwords, and more. This talk gives you concepts and concrete skills that will help you identify and prevent account takeovers and limit the damage. It’s inspired by practices in use at GitHub, Google, and the Python Package Index.
+
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/ccVblMPcEh4/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=ccVblMPcEh4,https://www.youtube.com/watch?v=ccVblMPcEh4
+73,Neil Chazin - Strategies for testing Async code - PyCon 2019,https://www.youtube.com/watch?v=aQ6rpLRJsXs,aQ6rpLRJsXs,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,1363,3900,92,2.0,"Neil Chazin,pycon,python,coding,tutorial",People & Blogs,"""Speaker: Neil Chazin
+
+Testing code is important. Testing, primarily unit-testing async code
+requires heading off the the standard roadway of unit testing in python. This talk will provide a map to help you along the new path towards testing async code.
+
+Topics include:
+
+ - a brief intro to `asyncio` and challengs in testing with it
+ - running coroutines (and other awaitables) under test
+ - mocking coroutines
+ - testing """"main"""" `asyncio` loops
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/aQ6rpLRJsXs/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=aQ6rpLRJsXs,https://www.youtube.com/watch?v=aQ6rpLRJsXs
+74,"Mariatta - Don't be a robot, build the bot - PyCon 2019",https://www.youtube.com/watch?v=_xdEAxLuj9Y,_xdEAxLuj9Y,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,1421,3769,59,,"Mariatta,pycon,python,coding,tutorial",People & Blogs,"""Speaker: Mariatta
+
+Managing a large open source project like CPython is no easy task. Learn how the Python core team automated their GitHub workflow with bots, making it easier for maintainers and contributors to collaborate together. Even if you’re not managing a large project, you can still build your own bot! Hear some ideas on what you can automate on GitHub and personalize your bot based on your own workflow. All you need is Python. Don’t be a robot; build the bot.
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/_xdEAxLuj9Y/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=_xdEAxLuj9Y,https://www.youtube.com/watch?v=_xdEAxLuj9Y
+75,Raymond Hettinger - Modern solvers: Problems well-defined are problems solved - PyCon 2019,https://www.youtube.com/watch?v=_GP9OpZPUYc,_GP9OpZPUYc,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,2834,61383,1187,52.0,"Raymond Hettinger,pycon,python,coding,tutorial",People & Blogs,"Speaker: Raymond Hettinger
+
+Every programmer should learn to use solvers, tools that reason directly from a description of a problem to its solution.  
+
+Tools like AlphaZero can formulate winning strategies for games given only a description of the rules of the game.  For certain classes of problems, we really can just let the computer do the work.
+
+In this talk, we learn principles, techniques, and multiple examples for three solvers available in Python.
+
+The first tool is a generic puzzle-solving framework that employs tree search strategies.  We apply it to a simple sequencing problem and then to a harder sliding-block puzzle. Next, we'll look at the solver code to learn how it works.  I'll also show an essential optimization technique and how to humanize the output.  We demonstrate our skills by solving another famous puzzle.
+
+The second tool is called a SAT solver. It is one of the miracles of the 21st century. From first principles, I'll show you what problems it solves and the way problems need to be described for modules like *PycoSAT*.  I'll provide helper functions to humanize our interactions with this great tool.  Then, we'll demonstrate our skills by creating a Sudoku solver and a readable logic problem solver.
+
+The third tool is the """"multi-armed bandit"""". It is a generic reinforcement learning algorithm that is easy to learn, powerful, and applicable to a broad class of problems.  We apply it to winning rock-paper-scissors using pattern recognition.
+
+Lastly, I'll summarize DeepMind's paper on AlphaZero which was published in the December 2018 edition of *Science*.  This gives us hints at the full potential of these techniques.  
+
+Pure Python source code and examples are provided for all of the tools.
+
+Slides can be found at:  https://rhettinger.github.io",https://i.ytimg.com/vi_webp/_GP9OpZPUYc/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=_GP9OpZPUYc,https://www.youtube.com/watch?v=_GP9OpZPUYc
+76,Shannon Zhu - Leveraging the Type System to Write Secure Applications - PyCon 2019,https://www.youtube.com/watch?v=ZplZ8ZBwu0Q,ZplZ8ZBwu0Q,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,1819,2501,32,,Shannon Zhu,People & Blogs,"""Speaker: Shannon Zhu
+
+Application security remains a long-term and high-stakes problem for most projects that interact with external users. Python's type system is already widely used for readability, refactoring, and bug detection — this talk will demonstrate how types can also be leveraged to make your project systematically more secure. We'll investigate (1) how static type checkers like Pyre or MyPy can be extended with simple library modifications to catch vulnerable patterns, and (2) how deeper type-based static analysis can reliably flag remaining use cases to security engineers. As an example, I'll focus on a basic security problem and how you might use both tools in combination, drawing from our experience deploying these methods to build more secure applications at Facebook and Instagram.
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/ZplZ8ZBwu0Q/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=ZplZ8ZBwu0Q,https://www.youtube.com/watch?v=ZplZ8ZBwu0Q
+77,Ariel Ortiz - The Perils of Inheritance: Why We Should Prefer Composition - PyCon 2019,https://www.youtube.com/watch?v=YXiaWtc0cgE,YXiaWtc0cgE,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,1850,17144,359,15.0,"Ariel Ortiz,pycon,python,coding,tutorial",People & Blogs,"""Speaker: Ariel Ortiz
+
+Inheritance is among the first concepts we learn when studying object-oriented programming. But inheritance comes with some unhappy strings attached. Inheritance, by its very nature, tends to bind a subclass to its superclass. This means that modifying the behavior of a superclass might alter the behavior of all its subclasses, sometimes in unanticipated ways. Furthermore, it’s commonly accepted that inheritance actually breaks encapsulation. So, if inheritance has these issues, what alternative do we have? More than two decades ago, The Gang of Four (Erich Gamma, Richard Helm, Ralph Johnson and John Vlissides) suggested in their famous _Design Patterns_ book  that we should favor object composition over class inheritance.
+
+In this talk I will show some code examples in Python where inheritance goes astray and demonstrate how to correct them by using composition. My intention is not to demonize inheritance, but instead present how to use it wisely in order to improve the design of our object-oriented software so that it’s more flexible and easier to maintain.
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/YXiaWtc0cgE/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=YXiaWtc0cgE,https://www.youtube.com/watch?v=YXiaWtc0cgE
+78,"Jessica Garson - Making Music with Python, SuperCollider and FoxDot - PyCon 2019",https://www.youtube.com/watch?v=YUIPcXduR8E,YUIPcXduR8E,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,1609,5734,120,7.0,"Jessica Garson,pycon,python,coding,tutorial",People & Blogs,"""Speaker: Jessica Garson
+
+Learn how to make music with Python, SuperCollider and FoxDot. We'll create a song together in this live coded adventure. 
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/YUIPcXduR8E/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=YUIPcXduR8E,https://www.youtube.com/watch?v=YUIPcXduR8E
+79,Adrienne Lowe - The Zen of Python Teams - PyCon 2019,https://www.youtube.com/watch?v=WZ8FEB4J8-c,WZ8FEB4J8-c,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,1723,1880,27,,"Adrienne Lowe,pycon,python,coding,tutorial",People & Blogs,"""Speaker: Adrienne Lowe
+
+The Zen of Python, accessed by running `import this`, is a list of nineteen aphorisms that have guided the development of the language. It has good advice for how to organize our code, but what does it have to say about how we organize ourselves? Plenty: the Zen of Python is not only a solid set of development principles, but the other easter egg is that it’s packed with wisdom about how to build healthy teams. 
+
+In this talk I draw upon my time as an engineering manager of Python-focused engineering teams to tell stories of what the Zen of Python has to teach us about communication and conflict, building inclusive teams and transparent processes, and promoting psychological safety. Come ready to reflect on and feel inspired by a new interpretation of these principles, and bring what you learn back to your meetup, study group, open source project, or team. 
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/WZ8FEB4J8-c/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=WZ8FEB4J8-c,https://www.youtube.com/watch?v=WZ8FEB4J8-c
+80,"Mario Corchero - Exceptional Exceptions - How to properly raise, handle and create them.",https://www.youtube.com/watch?v=V2fGAv2R5j8,V2fGAv2R5j8,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,1595,12634,282,13.0,"Mario Corchero,pycon,python,coding,tutorial",People & Blogs,"""Speaker: Mario Corchero
+
+Did you know there are multiple ways to raise and capture exceptions? Have you ever wondered if you should raise a built-in exception or create your own hierarchy? Did you ever find it hard to understand what an exception meant?
+
+This talk will go through the decisions needed to raise and capture exceptions when creating a library. We will look at how to translate and handle errors, create your own exceptions, and make exceptions clear and easy to troubleshoot, while also understanding how they actually work, common pitfalls.
+
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/V2fGAv2R5j8/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=V2fGAv2R5j8,https://www.youtube.com/watch?v=V2fGAv2R5j8
+81,Robert Myers - Take Back the Web with GraphQL - PyCon 2019,https://www.youtube.com/watch?v=TtsbJLrlG3M,TtsbJLrlG3M,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,1791,1731,20,,"Robert Myers,pycon,python,coding,tutorial",People & Blogs,"""Speaker: Robert Myers
+
+GraphQL is an exciting technology that can help simplify web logic. Most of the attention has been focused on client-side improvements, such as reducing payload sizes and reducing total number of requests. This talk will show how GraphQL can structure your backend logic to reduce the client-side dependencies or remove them entirely!
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/TtsbJLrlG3M/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=TtsbJLrlG3M,https://www.youtube.com/watch?v=TtsbJLrlG3M
+82,Eric Ma - Beyond Two Groups: Generalized Bayesian A/B[/C/D/E...] Testing - PyCon 2019,https://www.youtube.com/watch?v=Pt37qA351yk,Pt37qA351yk,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,1832,2233,78,2.0,"Eric Ma,pycon,python,coding,tutorial",People & Blogs,"""Speaker: Eric Ma
+
+Bayesian A/B testing has gained much popularity over the years. It seems, however, that the examples stop at two groups. This begs the questions: should we not be able to do more than simple two-group, case/control comparisons? Is there a special procedure that's necessary, or is there a natural extension of commonly-used Bayesian methods?
+
+In this talk, I will use life-like, simulated examples, inspired from work and from meeting others at conferences, to show how to generalize A/B testing beyond the rigid assumptions commonly highlighted. Specifically, I will show two examples, one involving Bayesian estimation on click data on a website, and another on 4-parameter dose-response curves. 
+
+There will be plenty of code from the modern PyData stack, involving the use of PyMC3, pandas, holoviews, and more. 
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/Pt37qA351yk/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=Pt37qA351yk,https://www.youtube.com/watch?v=Pt37qA351yk
+83,Hannah Stepanek - Thinking like a Panda: Everything you need to know to use pandas the right way.,https://www.youtube.com/watch?v=ObUcgEO4N8w,ObUcgEO4N8w,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,2192,12088,171,9.0,"Hannah Stepanek,pycon,python,coding,tutorial",People & Blogs,"""Speaker: Hannah Stepanek
+
+Using the pandas python library requires a shift in thinking that is not always intuitive to those who use it. This talk will take a deep dive into the underlying data structure of pandas to explain why it performs the way it does under certain circumstances. It will explain why a MultiIndex DataFrame takes up less memory than it's simple counter part, why groupby should never be run on a non-MultiIndexed DataFrame, why the example documentation for the pandas apply function is an example of how not to use it, and how not taking the time to normalize data can affect performance.  
+
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/ObUcgEO4N8w/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=ObUcgEO4N8w,https://www.youtube.com/watch?v=ObUcgEO4N8w
+84,"Yanhui Li, Brian Quinlan - Dependency hell: a library author's guide - PyCon 2019",https://www.youtube.com/watch?v=OaBhcueqNqw,OaBhcueqNqw,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,1825,1923,36,1.0,"Yanhui Li,Brian Quinlan,pycon,python,coding,tutorial",People & Blogs,"""Speakers: Yanhui Li, Brian Quinlan
+
+Python is known for its """"batteries included"""" philosophy but no Python developer can live without the language's rich library ecosystem. Unfortunately, as the number of libraries increases, so does the risk of cross-library incompatibilities, or """"dependency hell"""".
+
+Dependency hell arises when two libraries have mutually conflicting requirements. These can be very difficult for developers to diagnose and may not be fixable without avoiding certain libraries entirely.
+
+After this talk, you - the library author - will have a practical set of simple best practices to follow that will allow you to build libraries that are compatible across the Python ecosystem.
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/OaBhcueqNqw/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=OaBhcueqNqw,https://www.youtube.com/watch?v=OaBhcueqNqw
+85,"Max Bélanger, Damien DeVille - Going from 2 to 3 on Windows, macOS and Linux - PyCon 2019",https://www.youtube.com/watch?v=O4Fuz7ubIoE,O4Fuz7ubIoE,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,1818,419,4,,"Max Bélanger,Damien DeVille,pycon,python,coding,tutorial",People & Blogs,"""Speakers: Max Bélanger, Damien DeVille
+
+At Dropbox, we’ve always used Python to power our application for Windows, macOS and Linux (until recently, Python 2.7). Over the years, a growing lack of features and the need for outdated compilers/toolchains made migrating to Python 3 a necessity. Join us to hear the tale of our unique journey from Python 2 to 3 and the lessons we learned along the way:
+
+- We’ll discuss the reasons that led to our decision to make the jump.
+- We’ll dive into how we sequenced the transition by using the C-API to ship both versions of Python and choose one at runtime.
+- We’ll reveal the tools we used to enforce a hybrid (2/3) syntax for over hundreds of thousands of lines of Python code.
+- We’ll discuss some of our most spectacular bugs and gotchas, and how you can avoid them!
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/O4Fuz7ubIoE/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=O4Fuz7ubIoE,https://www.youtube.com/watch?v=O4Fuz7ubIoE
+86,"Victor Stinner - How to engage Python contributors in the long term? Tech is easy, people are hard.",https://www.youtube.com/watch?v=O3UmUj9h_Eo,O3UmUj9h_Eo,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,1861,716,21,,"Victor Stinner,pycon,python,coding,tutorial",People & Blogs,"""Speaker: Victor Stinner
+
+The CPython project is now 28 years old. It has active core developers, but almost all of them are volunteers. It's difficult to ask someone to be committed into a project for 5 years without being paid. Helping newcomers and mentoring contributors takes time and few developers are available for that. We are working on improving the diversity of CPython core developers and get more active core developers, but it's a slow process.
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/O3UmUj9h_Eo/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=O3UmUj9h_Eo,https://www.youtube.com/watch?v=O3UmUj9h_Eo
+87,Thinking Inside the Box: How Python Helped Us Adapt to An Existing Data Ingestion Pipeline,https://www.youtube.com/watch?v=N2_nU_0vvtQ,N2_nU_0vvtQ,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,1092,525,2,,"Eddie Schuman,pycon,python,coding,tutorial",People & Blogs,"""Speaker: Eddie Schuman
+
+We will cover how we used Python to adapt to a large institutional processing setup.  We used Python to create the definitions, configuration files, and supplementary metadata for each of the weather radars we worked with.  We used a variety of custom tools to interface with existing systems and processes that would have been infeasible to work with otherwise.
+
+We took advantage of one of Python’s greatest strengths: its flexibility.  We used it to perform the bulk of our data processing with NumPy, created custom utility functions to encourage code reuse, and created custom scripts for interfacing with the institutional data processing framework we worked within.
+
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/N2_nU_0vvtQ/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=N2_nU_0vvtQ,https://www.youtube.com/watch?v=N2_nU_0vvtQ
+88,Reuven M. Lerner - Practical decorators - PyCon 2019,https://www.youtube.com/watch?v=MjHpMCIvwsY,MjHpMCIvwsY,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,1752,44009,1324,53.0,"Reuven M. Lerner,pycon,python,coding,tutorial",People & Blogs,"""Speaker: Reuven M. Lerner
+
+Decorators are one of Python's most powerful features.  But even if you understand what they do, it's not always obvious what you can do with them.  Sure, from a practical perspective, they let you remove repeated code from your callables.  And semantically, they let you think at a higher level of abstraction, applying the same treatment to functions and classes.
+
+But what can you actually do with them?  For many Python developers I've encountered, ecorators sometimes appear to be a solution looking for a problem.
+
+In this talk, I'll show you some practical uses for decorators, and how you can use them to make your code more readable and maintainable, while also providing more semantic power.  Moreover, you'll see examples of things would be hard to do without decorators.  I hope that after this talk, you'll have a good sense of how to use decorators in your own Python projects.
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/MjHpMCIvwsY/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=MjHpMCIvwsY,https://www.youtube.com/watch?v=MjHpMCIvwsY
+89,Edwin Jung - Mocking and Patching Pitfalls - PyCon 2019,https://www.youtube.com/watch?v=Ldlz4V-UCFw,Ldlz4V-UCFw,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,2834,12617,284,13.0,"Edwin Jung,pycon,python,coding,tutorial",People & Blogs,"""Speaker: Edwin Jung
+
+Mocking and patching are powerful techniques for testing, but they can be easily abused, with negative effects on code quality, maintenance, and application architecture.  These pain-points can be hard to verbalize, and consequently hard to address.  If your unit tests are a PITA, but you cannot explain why, this talk may be for you.
+
+Mocking as a technique has deep roots within OOD and TDD, going back 20+ years, but many Python developers know mocks and patches merely as a technique to isolate code under test.  In the absence of knowledge around OOD and TDD, best practices around mocking are completely unknown, misunderstood, or ignored.   Developers who use mocks and patches without doing TDD or OOD are susceptible to falling into many well-understood and documented traps.
+
+This talk will draw a historical connection between the way mocks are taught today, and their origins in TDD, OOD, and Java.  It will also demonstrate some pitfalls, and provide some guidance and alternatives to mocking and patching (e.g., dependency injection, test doubles, functional style).
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/Ldlz4V-UCFw/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=Ldlz4V-UCFw,https://www.youtube.com/watch?v=Ldlz4V-UCFw
+90,Zac Hatfield-Dodds - Escape from auto-manual testing with Hypothesis! - PyCon 2019,https://www.youtube.com/watch?v=KcyGUVzL7HA,KcyGUVzL7HA,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,2032,4996,113,6.0,"pycon,python,coding,tutorial",People & Blogs,"""Speaker: Zac Hatfield-Dodds
+
+If we knew all of the bugs we needed to write tests for, wouldn't we just... not write the bugs?  So how can testing find bugs that nobody would think of?
+
+The answer is to have a computer *write your tests for you!*  You declare what kind of input should work - from 'an integer' to 'matching this regex' to 'this Django model' and write a test which should always pass... then Hypothesis searches for the smallest inputs that cause an error.
+
+If you’ve ever written tests that didn't find all your bugs, this talk is for you.  We'll cover the theory of property-based testing, a worked example, and then jump into a whirlwind tour of the library: how to use, define, compose, and infer strategies for input; properties and testing tactics for your code; and how to debug your tests if everything seems to go wrong.
+
+By the end of this talk, you'll be ready to find real bugs with Hypothesis in anything from web apps to big data pipelines to CPython itself.  Be the change you want to see in your codebase - or contribute to Hypothesis itself and help drag the world kicking and screaming into a new and terrifying age of high quality software!
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/KcyGUVzL7HA/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=KcyGUVzL7HA,https://www.youtube.com/watch?v=KcyGUVzL7HA
+91,Lessons learned from building a community of Python users among thousands of analysts - PyCon 2019,https://www.youtube.com/watch?v=JcPwf4Ej12M,JcPwf4Ej12M,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,2701,806,20,,"I-Kang Ding,Ariel M'ndange-Pfupfu,Marina Sergeeva,pycon,python,coding,tutorial",People & Blogs,"""Speakers: I-Kang Ding, Ariel M'ndange-Pfupfu, Marina Sergeeva
+
+Starting a few years ago, Capital One has committed to go all-in on public cloud and open source software for many of our core business operations, processes, and machine learning models. To support this transformation, we embarked on a multi-year journey to build a Python community with critical mass of users, and scale adoption of Python in our business analyst and data analyst workforces.
+
+Python has been envisioned since its early days as a programming language which can be used to """"create better, easier to use tools for program development and analysis"""", as well as """"build a user community around all of the above, encouraging feedback and self-help"""". [1] In our experience scaling Python adoption amongst analyst communities within a Fortune 500 company, we have found the aforementioned visions true to form - not only is Python a great first programming language for our analysts to learn, it also comes with """"batteries included"""" and contains many of the data-related tools and libraries which allows our analysts to get productive very quickly.
+
+This talk will highlight our multi-pronged approaches to overcome organizational inertia to build a community of Python users, provide Python and OSS training, and encourage Python adoption (with mixed success). We'll share what (we think) best practices are out there, and lessons learned along the way.
+
+Reference:
+[1] Computer Programming for Everybody (http://www.python.org/doc/essays/cp4e.html)
+
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/JcPwf4Ej12M/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=JcPwf4Ej12M,https://www.youtube.com/watch?v=JcPwf4Ej12M
+92,Vinayak Mehta - Extracting tabular data from PDFs with Camelot & Excalibur - PyCon 2019,https://www.youtube.com/watch?v=Irf6kdl0lAA,Irf6kdl0lAA,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,1636,10728,187,18.0,"Vinayak Mehta,pycon,python,coding,tutorial",People & Blogs,"""Speaker: Vinayak Mehta
+
+Extracting tables from PDFs is hard. The Portable Document Format was not designed for tabular data. Sadly, a lot of open data is shared as PDFs and getting tables out for analysis is a pain. A simple copy-and-paste from a PDF into a text file or spreadsheet program doesn't work.
+
+This talk will briefly touch upon the history of the Portable Document Format, discuss some problems that arise when extracting tabular data from PDFs using the current ecosystem of libraries and tools and demonstrate how Camelot and Excalibur solve this problem better and in a scalable manner. These easy-to-use packages automatically detect and extract tables from PDFs and give you access to the extracted tables in pandas DataFrames. You can also download them as CSVs or Excel files.
+
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/Irf6kdl0lAA/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=Irf6kdl0lAA,https://www.youtube.com/watch?v=Irf6kdl0lAA
+93,Caitlin Rubin - Intentional Deployment: Best Practices for Feature Flag Management - PyCon 2019,https://www.youtube.com/watch?v=HhxNaPYpYiU,HhxNaPYpYiU,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,1705,1447,31,2.0,"Caitlin Rubin,pycon,python,coding,tutorial",People & Blogs,"""Speaker: Caitlin Rubin
+
+&nbsp;&nbsp;&nbsp;&nbsp;Feature flags can be powerful tools in mitigating risk in your development cycle — _if you use them correctly_. Failing to do so can have enormous consequences for yourself and your business. In 2012 one improperly deployed feature flag sent a $365 million company into bankruptcy in 45 minutes. So let’s talk about feature flags, specifically in how they can help us with intentional deployment. Feature flags give us a high degree of control over the features we release — but what ensures we have a high degree of control over our feature flags? 
+
+&nbsp;&nbsp;&nbsp;&nbsp;In this talk, I’ll go over the best practices which will make your feature flagging program a success. The humble Feature Flag can transform into many different things: release toggle, experiment, kill switch, permissioning and more. I’ll talk briefly about the possibilities Feature Flags open up, and then describe how to use best practices of visibility and accountability to align those different flags into a cohesive feature flagging system.
+
+&nbsp;&nbsp;&nbsp;&nbsp;After this talk, you’ll know what best practices make a successful feature flagging program, and be able to implement them into your current solution to deploy faster and with less risk.
+
+
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/HhxNaPYpYiU/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=HhxNaPYpYiU,https://www.youtube.com/watch?v=HhxNaPYpYiU
+94,Jenna Quindica - Supporting Engineers with Mental Health Issues - PyCon 2019,https://www.youtube.com/watch?v=EyHHcuX97io,EyHHcuX97io,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,1780,756,21,1.0,"Jenna Quindica,pycon,python,coding,tutorial",People & Blogs,"""Speaker: Jenna Quindica
+
+People live with mental health stigma because we learn that we're supposed to be strong and resilient. It's okay not to be strong or resilient all the time. Discussing mental illness is uncomfortable. In this talk, I will help you overcome that discomfort by examining the most common mental health issues, how you can get help for yourself, and how you can best support your coworkers, friends, and family. No one should have to deal with mental illness alone. Bring your tissues.
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/EyHHcuX97io/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=EyHHcuX97io,https://www.youtube.com/watch?v=EyHHcuX97io
+95,Pablo Galindo Salgado - Time to take out the rubbish: garbage collector - PyCon 2019,https://www.youtube.com/watch?v=CLW5Lyc1FN8,CLW5Lyc1FN8,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,2771,4137,96,3.0,"Pablo Galindo Salgado,pycon,python,coding,tutorial",People & Blogs,"""Speaker: Pablo Galindo Salgado
+
+One of the reasons why programming in Python is very straightforward and simple is that we do not have to worry about the lifetime of our objects. That is, once it ceases to be necessary, a variable disappears from the memory """"magically"""". The fact that this happens automatically can erroneously lead us to believe that it is not required to worry about what happens behind the scenes.
+
+Nothing is further from reality: knowing how Python manages memory is fundamental in specific scenarios, and not knowing what is happening can have consequences as significant as unpleasant. For example, if our programs manage a large amount of data at the same time or launch multiple processes in parallel, this ceases to be a theoretical issue and becomes something that we, logical minds, also care.
+
+Although these concepts tend to be considered advanced and difficult to understand, we will see that this is not the case. This topic is not a purely theoretical matter nor is it difficult to find its practical applications. In this talk, we will explain why it is something that should matter to us, and we will talk about how to apply the knowledge we have gained to specific problems.
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/CLW5Lyc1FN8/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=CLW5Lyc1FN8,https://www.youtube.com/watch?v=CLW5Lyc1FN8
+96,Jill Cates - How to Build a Clinical Diagnostic Model in Python - PyCon 2019,https://www.youtube.com/watch?v=9J83Pp9qH5w,9J83Pp9qH5w,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,1507,5917,108,1.0,"Jill Cates,pycon,python,coding,tutorial",People & Blogs,"""Speaker: Jill Cates
+
+Diagnosing a patient requires consideration of a wide variety of factors: past medical history and comorbidities, physical exam findings, lab results, imaging, ECG findings, and in some cases, genomic testing. Clinical diagnosis and prognostic assessment currently relies on expert knowledge of the treating physician. Recent developments in machine learning make it possible to build automated clinical diagnostic and risk assessment tools using data from the electronic medical record. 
+
+This talk walks through the steps involved in building a clinical risk assessment model, using sepsis as a case study. A large part of the talk will focus on the tools and techniques involved in pre-processing complex medical data, and strategies for evaluating model results.
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/9J83Pp9qH5w/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=9J83Pp9qH5w,https://www.youtube.com/watch?v=9J83Pp9qH5w
+97,Hynek Schlawack - Maintaining a Python Project When It’s Not Your Job - PyCon 2019,https://www.youtube.com/watch?v=9G2s1TN9QQY,9G2s1TN9QQY,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,2813,1931,49,3.0,"Hynek Schlawack,pycon,python,coding,tutorial",People & Blogs,"""Speaker: Hynek Schlawack
+
+PyPI is a gold mine of great packages but those packages have to be written first.  More often than not, projects that millions of people depend on are written and maintained by only one person.  If you’re unlucky, that person is you!
+
+So how do you square delivering a *high quality* Python package you can be proud of and having only limited time at your disposal?  The answer is not “try harder,” the answer is to **do less**.
+
+This talk will help you get there by talking about how you can make your life easier, remove causes of friction with your contributors, and empower said contributors to take over tasks that you can’t make time for anymore.
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/9G2s1TN9QQY/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=9G2s1TN9QQY,https://www.youtube.com/watch?v=9G2s1TN9QQY
+98,Lady Red / Christopher Beacham - A Medieval DSL? Parsing Heraldic Blazons with Python! - PyCon 2019,https://www.youtube.com/watch?v=7s5K-tLOV1M,7s5K-tLOV1M,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,1983,823,18,,"Lady Red,Christopher Beacham,pycon,python,coding,tutorial",People & Blogs,"""Speaker: Lady Red / Christopher Beacham
+
+Medieval European Nobility was obsessed with Lineage. They created a Heraldic System to track families, which assigned each family a unique Coat of Arms.
+
+Any painting of the Coat of Arms was not the official version. The official version was a """"Blazon"""" - a precise, terse description in heraldic language.   This heraldic language reads like English, Latin, French, and XML had a baby.  It's a fully recursive language with a formal grammar, variable assignment, positional arguments, and also, Lions, Bears, and Pythons.
+
+Here's an example: _Sable, on a fesse or three lions gules_
+
+In this talk, we look at parsing this Medieval _Domain Specific Language_ with Python. Along the way, we'll learn a little history, and the tools for parsing and writing your own DSL.
+
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/7s5K-tLOV1M/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=7s5K-tLOV1M,https://www.youtube.com/watch?v=7s5K-tLOV1M
+99,Getting started with Deep Learning: Using Keras & Numpy to detect voice disorders  - PyCon 2019,https://www.youtube.com/watch?v=6wpq_e6lW3Y,6wpq_e6lW3Y,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,2171,943,8,1.0,"Deborah Hanus,Sebastian Hanus,pycon,python,coding,tutorial",People & Blogs,"""Speakers: Deborah Hanus, Sebastian Hanus
+
+Deep learning is a useful tool for problems in computer vision, natural language processing, and medicine. While it might seem difficult to get started in deep learning, Python libraries, such as Keras make deep learning quite accessible. In this talk, we will discuss what deep learning is, introduce NumPy and Keras, and discuss common mistakes and debugging strategies. Throughout the talk, we will return to an example project in the medical domain, which used deep learning on vocal data to determine whether a patient has a voice disorder called vocal hyperfunction. 
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/6wpq_e6lW3Y/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=6wpq_e6lW3Y,https://www.youtube.com/watch?v=6wpq_e6lW3Y
+100,Dustin Ingram - PEP 572: The Walrus Operator - PyCon 2019,https://www.youtube.com/watch?v=6uAvHOKofws,6uAvHOKofws,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,1397,18140,399,26.0,Dustin Ingram,People & Blogs,"""Speaker: Dustin Ingram
+
+In this talk, we'll learn about a highly controversial change to Python syntax, the rationale for it, and the fallout as the result of it.
+
+Along the way we'll go in-depth on how new ideas about Python are proposed, discussed, and become part of the language, what's unique about Python's process compared to other open source projects, and recent developments and what they mean for the future of the wider Python community.
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/6uAvHOKofws/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=6uAvHOKofws,https://www.youtube.com/watch?v=6uAvHOKofws
+101,Pamela McANulty - Things I Wish They Told Me About The Multiprocessing Module in Python 3,https://www.youtube.com/watch?v=5dMOYf0b_20,5dMOYf0b_20,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,1784,9693,187,13.0,"Pamela McANulty,pycon,python,coding,tutorial",People & Blogs,"""Speaker: Pamela McANulty
+
+If you haven't tried multiprocessing or you are trying to move beyond `multiprocessing.map()`, you will likely find that using Python's `multiprocessing` module can get quite intricate and convoluted.  This talk focuses on a few techniques (starting, shutting down, data flow, blocking, etc) that will maximize `multiprocessing`’s efficiency, while also helping you through the complex issues related to coordinating startup and _especially_ shutdown of your multiprocess app.
+
+
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/5dMOYf0b_20/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=5dMOYf0b_20,https://www.youtube.com/watch?v=5dMOYf0b_20
+102,Daniel Chen - Pandas is for Everyone - PyCon 2019,https://www.youtube.com/watch?v=3qDhDXNRgHE,3qDhDXNRgHE,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,11933,13012,174,15.0,"Daniel Chen,pycon,python,coding,tutorial",People & Blogs,"""Speaker: Daniel Chen
+
+Data Science and Machine learning have been synonymous with languages like Python.
+Libraries like Numpy and Pandas have become the de facto standard when working with data.
+The DataFrame object provided by Pandas gives us the ability to work with heterogeneous unstructured data that is commonly used in """"real world"""" data.
+
+New learners are often drawn to Python and Pandas because of all the different and exciting types of models
+and insights the language can do and provide,
+but are awestruck when faced with the initial learning curve.
+
+This tutorial aims to guide the learner from using spreadsheets to using the Pandas DataFrame.
+Not only does moving to a programming language allow the user to have a more reproducible workflow,
+but as datasets get larger, some cannot even be opened in a spreadsheet program.
+The goal is to have an absolute beginner proficient enough with Pandas that they can start working with data in Python.
+
+We will cover how to load and view our data
+and introduce what Dr. Hadley Wickham has coined """"tidy data"""".
+Tidy data is an important concept because the process of tidying data will fix a host of data problems
+that are needed to perform analytics.
+We then cover functions and applying methods to our data with a focus on data cleaning,
+and how we can use the concept of split-apply-combine (groupby) to summarize or reduce our data.
+
+Finally, we cover the role of Pandas in analysis packages such as scikit learn.
+The tutorial will end with a fitted model.
+
+The goal is to get people familiar with Python and Pandas so they can learn and explore many other parts of the Python ecosystem (e.g., scikit learn, dask, seaborn, etc).
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/3qDhDXNRgHE/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=3qDhDXNRgHE,https://www.youtube.com/watch?v=3qDhDXNRgHE
+103,Nina Zakharenko - Keynote - PyCon 2019,https://www.youtube.com/watch?v=35mXD40SvXM,35mXD40SvXM,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,3357,5517,76,2.0,"pycon,python,coding,tutorial,Nina Zakharenko",People & Blogs,"""Speaker: Nina Zakharenko
+
+Keynote
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/35mXD40SvXM/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=35mXD40SvXM,https://www.youtube.com/watch?v=35mXD40SvXM
+104,Shuhong Wong - Releasing the World's Largest Python Site Every 7 Minutes - PyCon 2019,https://www.youtube.com/watch?v=2mevf60qm60,2mevf60qm60,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,1756,7149,120,3.0,"Shuhong Wong,pycon,python,coding,tutorial",People & Blogs,"""Speaker: Shuhong Wong
+
+Being able to release rapidly and continuously allows businesses to react to opportunities, shorten feedback loop for product iteration cycle and reduce debug effort for erroneous changes. At Instagram, we operate the world's largest fleet of servers running on Python and we continuously deploy every X minutes. Anyone can do it, this talk will teach you the practical steps and talk about the ideas and problems we faced at every phase of our automation journey.
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/2mevf60qm60/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=2mevf60qm60,https://www.youtube.com/watch?v=2mevf60qm60
+105,Matthew Page - How to JIT: Writing a Python JIT from scratch in pure Python - PyCon 2019,https://www.youtube.com/watch?v=2BB39q6cqPQ,2BB39q6cqPQ,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,1558,4203,87,1.0,"Matthew Page,pycon,python,coding,tutorial",People & Blogs,"""Speaker: Matthew Page
+
+Have you ever wondered how a JIT compiler works?  Production quality JIT compilers are large, complicated pieces of software that can seem inscrutable at first glance. However, building a simple JIT compiler is surprisingly easy. We'll walk through how to build a template-style JIT compiler for Python from first principles, in Python!
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/2BB39q6cqPQ/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=2BB39q6cqPQ,https://www.youtube.com/watch?v=2BB39q6cqPQ
+106,Sarah Withee - Building an Open Source Artificial Pancreas - PyCon 2019,https://www.youtube.com/watch?v=1kT1VoX7VAs,1kT1VoX7VAs,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,1633,727,13,,"Sarah Withee,pycon,python,coding,tutorial",People & Blogs,"""Speaker: Sarah Withee
+
+Have you ever thought about what open source software or hardware could achieve? What if it could help improve people's lives by solving some of their health problems?
+
+After the medical tech industry kept promising a system to help automatically manage insulin for type 1 diabetic people and never delivering, some people got together to find ways to do it with the tech they already had. Over the past few years, a """"closed-loop"""" system has been developed to algorithmically regulate people's blood sugars. After reverse engineering bluetooth sensors and 915 MHz insulin pumps, the system became possible. As a diabetic, I also built this system and saw my sugar values stabilize much more than I could ever achieve doing it manually myself. Now I'm working on contributing back to the projects as well.
+
+I want to talk about this system, from a technical side as well as a personal side. I'll talk about OpenAPS (the open artificial pancreas system) and how it works, what problems it solves, and its safety and security concerns. I also want to show how it's helped me, and what this means for my health now and in the future. I ultimately want to show how we, as software developers, can change people's lives through the code we write.
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/1kT1VoX7VAs/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=1kT1VoX7VAs,https://www.youtube.com/watch?v=1kT1VoX7VAs
+107,Educational Summit Wrap up (AUDIO ONLY),https://www.youtube.com/watch?v=1jD3bHorFmg,1jD3bHorFmg,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,688,79,0,,"pycon,python,coding,tutorial",People & Blogs,,https://i.ytimg.com/vi_webp/1jD3bHorFmg/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=1jD3bHorFmg,https://www.youtube.com/watch?v=1jD3bHorFmg
+108,Jes Ford - Getting Started Testing in Data Science - PyCon 2019,https://www.youtube.com/watch?v=0ysyWk-ox-8,0ysyWk-ox-8,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,1860,6676,179,9.0,"Jes Ford,pycon,python,coding,tutorial",People & Blogs,"""Speaker: Jes Ford
+
+*How do you know if your data science results are correct?* Robust software usually has tests asserting that certain conditions hold, but as a data scientist it’s often not straightforward or obvious how to integrate these best practices. Our workflow includes exploration, statistical models, and one-off analysis. This talk will give concrete examples of when and how testing should play a role, and provide you with enough introduction to get started writing your first data science tests using `pytest` & `hypothesis`.
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/0ysyWk-ox-8/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=0ysyWk-ox-8,https://www.youtube.com/watch?v=0ysyWk-ox-8
+109,Alex Landau - Building a Culture of Observability - PyCon 2019,https://www.youtube.com/watch?v=-6Hk9rcgM94,-6Hk9rcgM94,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190506,1803,1334,27,1.0,"Alex Landau,pycon,python,coding,tutorial",People & Blogs,"""Speaker: Alex Landau
+
+Observability is often thought of as just a new word for monitoring. While it encompasses traditional devops areas such as monitoring, metrics, and infrastructure management, it’s much deeper and empowers developers at all levels of the stack. **Observability is about achieving a deep understanding of your software**. This not only helps you localize and debug production issues but removes uncertainty and speculation, **empowering developers** to know their tools and improving engineering excellence. Observability helps developers “understand the narrative” of what’s going on in their software.
+
+This talk is about how we’ve driven adoption of a culture of observability within our engineering culture. We'll define and motivate for our focus on observability; discuss the tangible tools we’ve built and best practices we’ve adopted to ingrain observability into our engineering culture; and provide some specific, real-world results we’ve achieved as part of this effort. We'll will focus particularly on the tooling we’ve adopted around Django and Celery  and some interesting experiences we had extending their internals.
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/-6Hk9rcgM94/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=-6Hk9rcgM94,https://www.youtube.com/watch?v=-6Hk9rcgM94
+110,Katie McLaughlin - A Right Stitch-up: Creating embroidery patterns with Pillow - PyCon 2019,https://www.youtube.com/watch?v=Fllch-WwzWM,Fllch-WwzWM,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190505,1492,1856,62,7.0,"Katie McLaughlin,pycon,python,coding,tutorial",People & Blogs,"""Speaker: Katie McLaughlin
+
+Embroidery is a technology that dates back centuries and is still popular in the present day among craftspeople around the world. Cross-stitch refers to the creation of crosses in a grid that combines to build up an image, based on a 'chart' or pattern of the intended design.
+
+Even though entire pieces could be created based on completely manual processes, much of the technology behind automating chart creation is locked behind paid software. 
+
+During this presentation, we will discuss how we can leverage the Python Imaging Library (PIL, now Pillow) in order to take source images and turn them into cross-stitch charts. 
+
+The resulting art piece from the talk, the PyCon US 2019 logo, will be auctioned off at the PyLadies Charity Auction. Tickets to the Charity Auction available separately, see website for details. 
+
+
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/Fllch-WwzWM/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=Fllch-WwzWM,https://www.youtube.com/watch?v=Fllch-WwzWM
+111,Thea Flowers - Break the Cycle: Three excellent Python tools to automate repetitive tasks,https://www.youtube.com/watch?v=-BHverY7IwU,-BHverY7IwU,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190505,1452,21971,447,16.0,"Thea Flowers,pycon,python,coding,tutorial",People & Blogs,"""Speaker: Thea Flowers
+
+Find yourself doing the same thing over and over again? Does it take more than one command to run your tests? build your docs? publish your project? deploy?
+
+It is often difficult to share your code because others can run or test it? Does your README have a series of complicated steps to get things set up?
+
+This talk explores three open-source tools that are wonderful at helping you and your project automate tasks. We'll look at Tox, which specializes in Python test environments, Nox, which offers a slightly different approach, and finally, PyInvoke, which you can use to automate just about anything.
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/-BHverY7IwU/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=-BHverY7IwU,https://www.youtube.com/watch?v=-BHverY7IwU
+112,"Leonardo Rochael Almeida - From days to minutes, from minutes to milliseconds with SQLAlchemy",https://www.youtube.com/watch?v=kEShMV4VfWE,kEShMV4VfWE,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190505,2632,2000,24,1.0,"Leonardo Rochael Almeida,pycon,python,coding,tutorial",People & Blogs,"""Speaker: Leonardo Rochael Almeida
+
+Object Relational Mappers (ORMs) are awesome enhancers of developer productivity. The freedom of having the library write that SQL and give you back a useful, rich model instance (or a bunch of them) instead of just a tuple or a list of records is simply amazing.
+
+But if you forget you have an actual database behind all that convenience, then it'll bite you back, usually when you've been in production for a while, after you've accumulated enough data that your once speedy application starts slowing down do a crawl.
+
+Databases work best when you ask them once for (or to do) a bunch of stuff, instead of asking them lots of times for small stuff.
+
+We'll discuss how innocent looking attribute accesses on your model instances translate to sequential queries (the infamous [N+1 problem][1]).
+
+Then we'll go through some practical solutions, taken from real cases that resulted in massive speed ups. We'll cover how changes in Python code resulted in changes to the resulting SQL Queries
+
+Solutions not only for queries, but also inserts and updates, which tend to be less well documented.
+
+Though this talk focuses on SQLAlchemy, the lessons should be applicable to most ORMs in most programing languages. The ideas discussed, and solutions proposed are also valid for any storage backend, not only SQL databases. 
+
+  [1]: https://docs.sqlalchemy.org/en/latest/glossary.html#term-n-plus-one-problem
+
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/kEShMV4VfWE/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=kEShMV4VfWE,https://www.youtube.com/watch?v=kEShMV4VfWE
+113,Christy Heaton - Plan your next eclipse viewing with Jupyter and geopandas - PyCon 2019,https://www.youtube.com/watch?v=PIPJAE-PXd4,PIPJAE-PXd4,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190505,1511,3528,37,2.0,"Christy Heaton,pycon,python,coding,tutorial",People & Blogs,"""Speaker: Christy Heaton
+
+Maps are powerful tools that we use every day. Python is well-equipped to handle spatial data and with well documented robust libraries to help you perform spatial analysis and create beautiful maps. In this talk, we'll discover the fascinating world of spatial analysis by solving a fun problem: where can we go to see an upcoming solar eclipse? Along the way we'll learn about mapping topics like projections and coordinate systems, best practices for map making, and intricacies of spatial data.
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/PIPJAE-PXd4/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=PIPJAE-PXd4,https://www.youtube.com/watch?v=PIPJAE-PXd4
+114,Deepak K Gupta - Hello World of Machine Learning Using Scikit Learn - PyCon 2019,https://www.youtube.com/watch?v=bCDcI8SdjD8,bCDcI8SdjD8,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190504,11535,3666,56,6.0,"Deepak K Gupta,pycon,python,coding,tutorial",People & Blogs,"""Speaker: Deepak K Gupta
+
+_**Welcome to the Machine Learning tutorial for absolute beginners.**_ 
+
+This tutorial will not make you an expert in Machine Learning but will cover enough things to acquaint, enable and empower you to understand, explore and exploits the concept and idea behind it.
+
+----------
+
+**We'll be learning by generating our own data with bare minimal data points (5 - 10) so that we can manually verify our machine learning algorithms to understand it better.**
+
+_This will also help us to see how changes in data can impact our Machine Learning Algorithms.  At the end of this tutorial, we'll also be using one real-world Dataset and play with it._
+
+----------
+
+_In this tutorial, I'll be covering at least 3 well-known ML algorithms(KNN, Linear and Logistic Regression) along with all the maths behind it. We'll end the tutorial with a real-world mapping application_
+
+_There is no major prerequisite for attending this, you just need to know the basics of python language and I'll cover the rest. We'll be using Scikit Learn for simplicity purpose, again, you don't need to have any prior experience with Scikit Learn or for that matter with Machine Learning_
+
+
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi/bCDcI8SdjD8/hqdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=bCDcI8SdjD8,https://www.youtube.com/watch?v=bCDcI8SdjD8
+115,Jeff Elkner and Chalmer Lowe - Python Certification - PyCon 2019,https://www.youtube.com/watch?v=jZoa8IUoqEw,jZoa8IUoqEw,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190504,1154,1560,12,3.0,"Jeff Elkner,Chalmer Lowe,Education Summit,pycon,python,coding,tutorial",People & Blogs,,https://i.ytimg.com/vi_webp/jZoa8IUoqEw/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=jZoa8IUoqEw,https://www.youtube.com/watch?v=jZoa8IUoqEw
+116,"Tracy Teal, Dr. Kari L. Jordan - Inclusive pedagogy to support computational teaching - PyCon 2019",https://www.youtube.com/watch?v=IYADM3-0QSM,IYADM3-0QSM,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190504,1230,283,11,,"Tracy Teal,Dr. Kari L. Jordan,Education Summit,pycon,python,coding,tutorial",People & Blogs,"""Speakers: Tracy Teal, Dr. Kari L. Jordan
+
+How we teach, rather than what we teach, often has the most impact on who participates and on learning outcomes. This presentation covers trends in computational teaching, and focuses on how these trends relate to diversity, inclusion, equity, and access to computational training. Through the lens of The Carpentries, an organization dedicated to teaching foundational coding and data science skills worldwide, we present best practices and opportunities for improvement in computational teaching pedagogy. Evidence-based teaching practices, “train-the-trainer” programs, and mentoring are three strategies we outline that support inclusive pedagogy in computational teaching. We describe and discuss effective teaching practices that promote inclusive pedagogy in computational teaching, including formative assessment, collaborative note taking, a strong commitment to a Code of Conduct, and creating a welcoming environment for learners.
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/IYADM3-0QSM/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=IYADM3-0QSM,https://www.youtube.com/watch?v=IYADM3-0QSM
+117,Adopting QPython in smartphones for teaching/learning  computational science and engineering,https://www.youtube.com/watch?v=4SpeUQjMex4,4SpeUQjMex4,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190504,1703,931,16,6.0,"Godfrey Akpojotor,Education Summit,pycon,python,coding,tutorial",People & Blogs,"""Speaker: Godfrey Akpojotor
+
+I have been teaching undergraduate computational physics for more than a decade in my university. Adopting Python as our programming language has really helped because of its unique qualities which made it easily accessible and easy to teach/learn. However, providing enough computing devices to the increasing number of students has been a serious challenge. This is even more frustrating when one require to involve online classroom submission/evaluation of assignments. I have overcome this challenge by adopting QPython in smartphones which are rapidly penetrating Africa. With a built-in math library and possibility to install Numpy, QPython in smartphones has made the teaching/learning to more students more efficient especially as they can now engage in learning programming anywhere, anytime and anyhow. The success made me extend it to one of our current projects under the Python African Computational Science and Engineering Tour (PACSETPro) on teaching Python to students, new beginners as well as expert programmers in science and engineering (S & E).   In this talk, I gave a captivating account on how to use QPython to teach computational approaches in S & E in a manner that advancing to normal computing systems is straightforward. Highly excited by the success so far, our outlook is having both Matplotlib  and QVPython in smartphones. This will be a boon for teaching/learning computational approaches anywhere, anytime and anyhow.
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/4SpeUQjMex4/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=4SpeUQjMex4,https://www.youtube.com/watch?v=4SpeUQjMex4
+118,"Neha Gupta, Jessica Jahnke - Building a Community for Girls with Python - PyCon 2019",https://www.youtube.com/watch?v=NMCWe1Vwn5U,NMCWe1Vwn5U,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190504,1174,519,12,,"Neha Gupta,Education Summit,pycon,python,coding,tutorial",People & Blogs,"""Speakers: Neha Gupta, Jessica Jahnke
+
+We teach Python to 5th-12th grade girls, aiming to build community, build self-confidence, and help bridge the gender gap in tech. This talk offers solutions to common challenges in motivating students and community organizing.
+
+We will share methods to increase student engagement and aid the transition to Python. We used “Unplugged” activities that complement programming fundamentals, “block-based” logic in Scratch, and the drag-to-text Python platform in Codesters. We will also share examples of leading discussions that build girls’ curiosity about technology fields, including learning about role models of top women in the industry, and learning about emerging areas in technology.
+
+Additionally, organizing clubs for students from diverse backgrounds, with varying technical educations, can involve bridging gaps and encouraging community involvement. We’ll discuss methods of reaching families and local communities, such as open presentations, celebrations, and share some do's and don'ts from our experiences. We’ll also share ways to encourage participants to develop communication skills about their technical work and teamwork.
+
+Women’s rights and community activism are gathering national attention, and we believe that anyone can effectively run an ongoing coding club to positively impact girls' education in their communities.
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/NMCWe1Vwn5U/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=NMCWe1Vwn5U,https://www.youtube.com/watch?v=NMCWe1Vwn5U
+119,Meg Ray - Education Summit Keynote - PyCon 2019,https://www.youtube.com/watch?v=uiqeUVgrNnU,uiqeUVgrNnU,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190504,3620,1401,14,2.0,"keynote,meg ryan,pycon,python,coding,tutorial",People & Blogs,,https://i.ytimg.com/vi_webp/uiqeUVgrNnU/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=uiqeUVgrNnU,https://www.youtube.com/watch?v=uiqeUVgrNnU
+120,Charles R. Severance - Inside the World's Largest Python Course on Coursera - PyCon 2019,https://www.youtube.com/watch?v=8S7kJz84kD8,8S7kJz84kD8,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190504,1206,2949,43,4.0,"Charles R. Severance,pycon,python,coding,tutorial",People & Blogs,"""Speaker: Charles R. Severance
+
+This presentation will take a look at the “Python for Everybody” series of courses on the Coursera platform (www.py4e.com). This course has impacted over 2 million students over the last five years. We will look a the history and goals of the course and how the course works to create a learning community. We will show how the free open educational resources (OERs) and book associated with the course have been used by teachers, students, and courses around the world to form a network of educational activities centered around Python. We will also cover briefly the Tsugi (www.tsugi.org) software that is used to build the learning assessments and distribute the OER materials in a way that enables maximum reusability of the materials for other teachers.
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/8S7kJz84kD8/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=8S7kJz84kD8,https://www.youtube.com/watch?v=8S7kJz84kD8
+121,Elvis Saravia - Applied Deep Learning for NLP Using PyTorch - PyCon 2019,https://www.youtube.com/watch?v=VBM1u-UIoI0,VBM1u-UIoI0,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190504,11321,14079,107,11.0,"Elvis Saravia,pycon,python,coding,tutorial",People & Blogs,"""Speaker: Elvis Saravia
+
+Natural language processing (NLP) has experienced a rapid growth over the last few years and has become an important skill to build applications that range from social features to clinical and health solutions. In this tutorial, we will introduce PyTorch as a tool to build and experiment with various modern NLP techniques by building deep learning architectures based on convolutional neural networks (CNNs), recurrent neural networks (RNNs), and bidirectional long short-term memory networks (biLSTMs).
+
+We will cover a wide range of topics with the purpose of providing participants with enough fundamental knowledge and skills to be able to apply modern NLP to real-world problems using PyTorch. Some concepts and topics include but not limited to data loaders, vectorization, computation graphs, sentiment analysis, fine-grained emotion classification, and neural machine translation.
+
+Nowadays, it is just not enough to arbitrarily train a model and deploy it for production use without properly debugging it. This tutorial also aims to provide hands-on examples and well-organized exercises that teach students how to properly test, train and evaluate NLP models using best practices. Once models are properly trained and evaluated they will be efficiently transformed, stored, and then restored to obtain inferences from real-world, natural language data.
+
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/VBM1u-UIoI0/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=VBM1u-UIoI0,https://www.youtube.com/watch?v=VBM1u-UIoI0
+122,Jacinda Shelly - Hands-On Web Application Security with Django - PyCon 2019,https://www.youtube.com/watch?v=8W4MGggwgfM,8W4MGggwgfM,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190504,4685,3343,46,1.0,"Jacinda Shelly,pycon,python,coding,tutorial",People & Blogs,"""Speaker: Jacinda Shelly
+
+XSS, SQL Injections and Improper Authorization, oh my!  Between the OWASP Top 10, CSRF, stealing sessions, and DDOS attacks, have you ever felt that the world of web security was too complex to understand?  Do you find yourself wishing that you understood what those acronyms *really* translate to in a live web application?
+
+If so, then this is the tutorial you've been waiting for.  In this tutorial, we'll cover essential topics in web security, including the majority of the OWASP Top 10, but we *won't* be doing it in a theoretical manner.  We'll take a live, deliberately insecure web application, identify the vulnerabilities, exploit them, and finally fix them.  Sound cool?  It is!
+
+Topics include the following:
+
+* Cross-site scripting (XSS)
+* Cross-site request forgery (CSRF)
+* Cookies and how they can be abused
+* Why default passwords are dangerous
+* Improper authorization checking
+* Incorrect Session Management
+* SQL Injection
+* How to abuse Pickle
+* And more!
+
+You'll also learn next steps and we'll provide suggested resources for continuing your security education.
+
+While previous experience with Django is not required, it is recommended.  You should have an understanding of how web applications work in general and have completed the official [Django Tutorial](https://docs.djangoproject.com/en/2.1/intro/tutorial01/) or something substantially similar.
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/8W4MGggwgfM/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=8W4MGggwgfM,https://www.youtube.com/watch?v=8W4MGggwgfM
+123,"Mike Müller - Faster Python Programs - Measure, don't Guess - PyCon 2019",https://www.youtube.com/watch?v=EcGWDNlGTNg,EcGWDNlGTNg,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190504,11881,4370,33,3.0,"Mike Müller,pycon,python,coding,tutorial",People & Blogs,"""Speaker: Mike Müller
+
+Optimization can often help to make Python programs faster or use less memory. Developing a strategy, establishing solid measuring and visualization techniques as well as knowing about algorithmic basics and datastructures are the foundation for a successful optimization. The tutorial will cover these topics. Examples will give you a hands-on experience on how to approach efficiently.
+
+Python is a great language. But it can be slow compared to other languages
+for certain types of tasks. If applied appropriately, optimization may reduce
+program runtime or memory consumption considerably. But this often comes at a price. Optimization can be time consuming and the optimized program may be more complicated. This, in turn, means more maintenance effort. How do you find out if it is worthwhile to optimize your program? Where should you start? This tutorial will help you to answer these questions. You will learn how to find  an optimization strategy based on quantitative and objective criteria. You will experience that one's gut feeling what to optimize is often wrong.
+
+The solution to this problem is: „Measure, Measure, and Measure!“. You will
+learn how to measure program run times as well as profile CPU and memory.
+There are great tools available. You will learn how to use some of them.
+Measuring is not easy because, by definition, as soon as you start to measure,
+you influence your system. Keeping this impact as small as possible is important. Therefore, we will cover different measuring techniques.
+
+Furthermore, we will look at algorithmic improvements. You will see that the
+right data structure for the job can make a big difference. Finally, you will
+learn about different caching techniques.
+
+## Software Requirements
+
+You will need Python 3.7 installed on your laptop. Python 2.7 or 3.5/3.6
+should also work. Python 3.x is strongly preferred.
+You may use Python 3.8 if is released at the time of the tutorial and all
+dependencies can be installed.
+
+### JupyterLab
+
+I will use a JupyterLab for the tutorial because it makes a very good
+teaching tool. You are welcome to use the setup you prefer, i.e editor, IDE,
+REPL. If you also like to use a JupyterLab, I recommend `conda` for
+easy installation. Similarly to `virtualenv`, `conda` allows creating isolated
+environments but allows binary installs for all platforms.
+
+There are two ways to install `Jupyter` via `conda`:
+
+1. Use [Minconda][1]. This is a  small install and (after you installed it)
+   you can use the command  `conda` to create an environment:
+  `conda create -n pycon2019 python=3.7`
+   Now you can change into this environment:
+   `conda activate pycon2019`. The prompt should change to `(pycon2019)`.
+   Now you can install JupyterLab: `conda install jupyterlab`.
+
+2. Install [Anaconda][2] and you are ready to go if you don't mind installing
+   lots of packages from the scientific field.
+
+Personally, I prefer the Miniconda approach.
+
+
+### Working witch ``conda`` environments
+
+After creating a new environment, the system might still work with some
+stale settings. Even when the command ``which`` tells you that you are using an
+executable from your environment, this might actually not be the case.
+If you see strange behavior using a command line tool in your environment,
+use ``hash -r`` and try again.
+
+[1]: https://conda.io/miniconda.html
+[2]: https://www.anaconda.com/download/
+
+
+### Tools
+
+You can install these with ``conda`` or ``pip`` (in the active ``conda`` environment):
+
+* [SnakeViz][3]
+* [line_profiler][4]
+* [Pympler][5]
+* [memory_profiler][6]
+
+
+
+
+#### Linux
+
+Using the package manager of your OS is alternative if you prefer this approach.
+
+
+[3]: http://jiffyclub.github.io/snakeviz/
+[4]: https://pypi.python.org/pypi/line_profiler/
+[5]: https://pypi.python.org/pypi/Pympler
+[6]: https://pypi.python.org/pypi/memory_profiler
+
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/EcGWDNlGTNg/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=EcGWDNlGTNg,https://www.youtube.com/watch?v=EcGWDNlGTNg
+124,Kevin Markham - Data Science Best Practices with pandas - PyCon 2019,https://www.youtube.com/watch?v=ZjrUmNq41Eo,ZjrUmNq41Eo,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190504,12199,11985,208,12.0,"Kevin Markham,pycon,python,coding,tutorial",People & Blogs,"""Speaker: Kevin Markham
+
+The pandas library is a powerful tool for multiple phases of the data science workflow, including data cleaning, visualization, and exploratory data analysis. However, the size and complexity of the pandas library makes it challenging to discover the best way to accomplish any given task.
+
+In this tutorial, you'll use pandas to answer questions about multiple real-world datasets. Through each exercise, you'll learn important data science skills as well as """"best practices"""" for using pandas. By the end of the tutorial, you'll be more fluent at using pandas to correctly and efficiently answer your own data science questions.
+
+Participants should have an intermediate knowledge of pandas and an interest in data science, but are not required to have any experience with the data science workflow. Datasets will be provided by the instructor.
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/ZjrUmNq41Eo/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=ZjrUmNq41Eo,https://www.youtube.com/watch?v=ZjrUmNq41Eo
+125,Zac Hatfield-Dodds - Escape from auto-manual testing with Hypothesis! - PyCon 2019,https://www.youtube.com/watch?v=SmBAl34RV4M,SmBAl34RV4M,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190504,11532,1966,25,1.0,"Zac Hatfield-Dodds,pycon,python,coding,tutorial",People & Blogs,"""Speaker: Zac Hatfield-Dodds
+
+If you’ve ever written some tests, or discovered that tested code can still have bugs, this tutorial is for you. [Hypothesis](https://hypothesis.readthedocs.io/) lets you write tests that should pass for every case… then finds bugs by generating inputs you wouldn’t have looked for. Even better, you get to save time by writing fewer but more powerful tests, so this process improves your productivity as well as your code!
+
+- Learn what property-based testing is, and how it relates to [other kinds of tests](https://www.hillelwayne.com/post/a-bunch-of-tests/)!
+- Write your first property-based test, with example code and an overview of common tactics!
+- Describe inputs - use and compose strategies, then define your own or infer them from other code!
+- Use `hypothesis.stateful` to generate and test whole programs
+- Get the low-down on Hypothesis: performance tips, debugging tools, and more!
+
+You’ll be ready to find real bugs by half way through the tutorial; and by the end you’ll be ready to use Hypothesis in ways we never imagined. 
+
+There will be dedicated time for Q&A about applying Hypothesis (or PBT ideas) in your domain, testing anything from web apps to big data pipelines to other languages, before you leave to drag the world kicking and screaming into a new and terrifying age of high quality software.
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/SmBAl34RV4M/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=SmBAl34RV4M,https://www.youtube.com/watch?v=SmBAl34RV4M
+126,Emily Morehouse - What To Expect When You’re Expecting: A Hands-On Guide to Regression Testing,https://www.youtube.com/watch?v=AAyQpMmbIKU,AAyQpMmbIKU,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190504,7268,1318,13,,"Emily Morehouse,pycon,python,coding,tutorial",People & Blogs,"""Speaker: Emily Morehouse
+
+We all know we should be testing our applications, but testing is hard and great testing is even harder. Take a deep dive into what and how to test your Django apps, plus learn how to leverage modern headless browser libraries and automated visual diff-ing to get (and keep) pixel-perfect apps.
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/AAyQpMmbIKU/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=AAyQpMmbIKU,https://www.youtube.com/watch?v=AAyQpMmbIKU
+127,Grishma Jena - Introduction to Data Science with Python - PyCon 2019,https://www.youtube.com/watch?v=FtaBwrYn-uQ,FtaBwrYn-uQ,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190504,10780,3610,60,2.0,"Grishma Jena,pycon,python,coding,tutorial",People & Blogs,"""Speaker: Grishma Jena
+
+Wish to perform Data Science but don’t know how to? Have a dataset that you really want to analyze but not sure how to start? This hands-on session teaches how to explore datasets, use Machine Learning algorithms and derive insights from models using popular Python tools like Jupyter, pandas, sklearn and numpy. Aimed at budding data scientists with prior programming experience in any language.
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/FtaBwrYn-uQ/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=FtaBwrYn-uQ,https://www.youtube.com/watch?v=FtaBwrYn-uQ
+128,"Mariatta, Andrew Svetlov - Hands-on Intro to aiohttp - PyCon 2019",https://www.youtube.com/watch?v=OxzVApXKWYM,OxzVApXKWYM,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190504,11974,7017,87,11.0,"Mariatta,Andrew Svetlov,pycon,python,coding,tutorial",People & Blogs,"""Speakers: Mariatta, Andrew Svetlov
+
+Asyncio is a relatively new feature in Python, with the `async` and `await` syntaxes only recently became proper keywords in Python 3.7. Asyncio allows you to write asynchronous programs in Python. In this tutorial, we’ll introduce you to an asyncio web library called `aiohttp`. 
+
+`aiohttp` is a library for building web client and server using Python and asyncio. We’ll introduce you to several key features of `aiohttp`; including routing, session handling, templating, using middlewares, connecting to database, and making HTTP GET/POST requests. We’ll provide best practises in building your `aiohttp` application, as well as how to write tests for your application.
+
+We’ll use all new Python 3.7 features to build web services with asyncio and aiohttp. 
+
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/OxzVApXKWYM/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=OxzVApXKWYM,https://www.youtube.com/watch?v=OxzVApXKWYM
+129,Kevin Lemagnen - Open the Black Box: an Introduction to Model Interpretability in Python,https://www.youtube.com/watch?v=d66ttkMY9zE,d66ttkMY9zE,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190504,13102,3574,57,3.0,"Kevin Lemagnen,pycon,python,coding,tutorial",People & Blogs,"""Speaker: Kevin Lemagnen
+
+What's the use of sophisticated machine learning models if you can't interpret them?
+
+In fact, many industries including finance and healthcare require clear explanations of why a decision is made. This tutorial covers recent model interpretability techniques that are essentials in your data scientist toolbox: Eli5, LIME (Local Interpretable Model-Agnostic Explanations) and SHAP (SHapley Additive exPlanations). 
+
+You will learn how to apply these techniques in Python on real-world data science problems in order to debug your models and explain their decisions. 
+
+You will also learn the conceptual background behind these techniques so you can better understand when they are appropriate.
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/d66ttkMY9zE/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=d66ttkMY9zE,https://www.youtube.com/watch?v=d66ttkMY9zE
+130,"IPython and Jupyter in Depth: High productivity, interactive Python - PyCon 2019",https://www.youtube.com/watch?v=hgiNlxUN2V0,hgiNlxUN2V0,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190504,11716,8018,80,3.0,"Matthias Bussonnier,Denis Akhiyarov,pycon,python,coding,tutorial",People & Blogs,"""Speakers: Matthias Bussonnier, Denis Akhiyarov
+
+IPython and Jupyter provide tools for interactive computing that are widely used in scientific computing, education, and data science, but can benefit any Python developer.
+
+In this tutorial we will introduce you to the latest developement in IPython and Jupyter, get you up to speed on how to install jupyter on your machine and where to seek help for larger deployment. Then we will dive into intermediate features that makes the power of IPython and Jupyter. 
+
+We will dive into how to make the best use of features like 
+
+
+ * Async REPL (New in IPython 7)
+ * And how to tie that into the Visualisation capabilities of Jupyter, and the new JupyterLab interface.
+ * Widgets (building simple interactive dashboards based on ipywidgets)
+ * Magics
+ * Multilanguage integration,
+
+The notebooks also allow for code in multiple languages allowing to mix Python with Cython, C, R and other programming languages to access features hard to obtain from Python.
+
+### More info
+
+For full details about IPython including documentation, previous presentations
+and videos of talks, please see [the project website](http://ipython.org).
+
+The materials for this tutorial will be  [available on a github repository](https://github.com/ipython/ipython-in-depth).
+
+
+
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/hgiNlxUN2V0/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=hgiNlxUN2V0,https://www.youtube.com/watch?v=hgiNlxUN2V0
+131,Stuart Williams - Python by Immersion - PyCon 2019,https://www.youtube.com/watch?v=F6yLRM3b0q8,F6yLRM3b0q8,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190504,12015,2987,41,,"Stuart Williams,pycon,python,coding,tutorial",People & Blogs,"""Speaker: Stuart Williams
+
+A very fast introduction to Python for software developers with experience in other languages.  Instead of a traditional top-down presentation of Python's features, syntax, and semantics, students are immersed in the language bottom-up with hundreds of small examples using the interactive interpreter to quickly gain familiarity with most of the core language features.  Special attention is given to concepts in Python that often trip up those new to the language.
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/F6yLRM3b0q8/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=F6yLRM3b0q8,https://www.youtube.com/watch?v=F6yLRM3b0q8
+132,To trust or to test?: Automated testing of scientific projects with pytest  - PyCon 2019,https://www.youtube.com/watch?v=G-MAMrJ-CSA,G-MAMrJ-CSA,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190504,11889,2467,25,,"Dorota Jarecka,Anna Jaruga,pycon,python,coding,tutorial",People & Blogs,"""Speakers: Dorota Jarecka, Anna Jaruga
+
+Many researchers rely strongly on numerical computations.  Unfortunately, testing scientific code is a hard task. Often there is no ground truth available for comparison and the end result of the simulation is unknown even to the code developer herself/himself. Often the user-base of the scientific code is small and the work environment does not provide incentives for testing. 
+
+However, there are always parts of the code that are relatively easy to cover by Unit Tests. Scientific pipelines could and should have Regressions Tests, which ensure that previously developed software still performs after changes in the code, or in external libraries and computational environment. An automatic test suite should not be a burden and can become a game-changer even for a small programming project.
+
+This tutorial is meant to be an introduction to testing in general and to pytest library. Pytest is a full feature tool to test the Python code, it offers a simple way to get started and scales from simple unit testing to complex functional testing. We will begin with simple assert statements and finish with pytest.fixture and pytest.parametrization. The tutorial will also cover a simple integration of the tests suit with Continuous Integration platforms using GitHub and Travis/CircleCI.
+
+**Audience:** The tutorial is designed for scientist and data scientists who would like incorporate testing to their everyday work. We expect that people know basic Python and NumPy, and are familiar with simple shell commands. Basic knowledge of Git/GitHub will be useful in the second half of the tutorial.
+
+
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/G-MAMrJ-CSA/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=G-MAMrJ-CSA,https://www.youtube.com/watch?v=G-MAMrJ-CSA
+133,Adam Englander - Practical API Security - PyCon 2019,https://www.youtube.com/watch?v=LgoGcr8xUiI,LgoGcr8xUiI,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190504,11901,1484,15,1.0,"Adam Englander,pycon,python,coding,tutorial",People & Blogs,"""Speaker: Adam Englander
+
+With the dominance of Mobile Apps, Single Page Apps for the Web, and Micro-Services, we are all building more APIs than ever before. Like many other developers, I had struggled with finding the right mix of security and simplicity for securing APIs. Some standards from the IETF have made it possible to accomplish both. Let me show you how to utilize existing libraries to lock
+down you API without writing a ton of code.
+In this tutorial, you will learn how to write a secure API with future proof security utilizing JOSE. JOSE is a collection of complimentary standards: JWT, JWE, JWS, JWA, and JWK. JOSE is used by OAuth, OpenID, and others to secure communications between APIs and consumers. Now you can use it to secure your API.
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/LgoGcr8xUiI/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=LgoGcr8xUiI,https://www.youtube.com/watch?v=LgoGcr8xUiI
+134,Dave Anderson - Building Evolutionary API with GraphQL and Python - PyCon 2019,https://www.youtube.com/watch?v=DWgD5iloSHs,DWgD5iloSHs,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190504,11516,3835,52,2.0,"pycon,python,coding,tutorial,Dave Anderson",People & Blogs,"""Speaker: Dave Anderson
+
+You are a developer. Maybe you're building a rich web experience, like a single page app using JavaScript and a framework like React, Angular or Vue. Maybe you have multiple clients besides web on mobile platforms like iOS or Android. Maybe you have an external facing public API for use by clients with many diverse needs. One things is for sure: you need a robust API.
+
+That API should be able to evolve over time to meet the growing and changing demands of the business and your clients. The frameworks and paradigms we choose as we develop any software can help or hinder that change. A well-designed GraphQL API enables flexibility and stability across changes, as well as easy service discovery and thinner clients with less responsibilities, ensuring that your application grows successfully over time.
+
+The tutorial will focus on building a GraphQL API using the __Python__ library __Graphene__ with a __Django__ backend as a vehicle for teaching the principals of evolutionary API that can be applied across any tech stack, including REST, as well as the more practical concerns of working with __Graphene__ and designing your API for GraphQL.
+
+A frontend, built using __JavaScript__ with __React__ and the __Apollo__ GraphQL client library, will be made available so users can understand the full-stack considerations of building this API and reacting to evolving concerns over time. Writing JavaScript will not be required, but being comfortable reading it and setting up a local environment will help get more out of this tutorial.
+
+We'll attempt to answer questions such as:
+
+- When is using GraphQL for an API most effective?
+- How do I get started with GraphQL in Python?
+- What does it mean for an API to be Relay-compliant? What benefits are there? Drawbacks if we don't comply?
+- How can we make use of field arguments for sorting, filtering and other concerns?
+- What kinds of changes are safe to make to my API as clients begin consuming it?
+- How can I ensure my GraphQL API performs well and we avoid the dreaded _N+1 As A Service_ problem?
+- How should I design mutation responses for my GraphQL API to serve client needs?
+- How can multiple stakeholders decide how to evolve the API together?
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/DWgD5iloSHs/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=DWgD5iloSHs,https://www.youtube.com/watch?v=DWgD5iloSHs
+135,Luciano Ramalho - Pythonic Objects: idiomatic OOP in Python - PyCon 2019,https://www.youtube.com/watch?v=mUu_4k6a5-I,mUu_4k6a5-I,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190503,12135,27251,408,27.0,"Luciano Ramalho,pycon,python,coding,tutorial",People & Blogs,"""Speaker: Luciano Ramalho
+
+Objects and classes are part of Python since version 1 -- not an afterthought. But all languages implement and support OOP in different ways. """"Classic"""" patterns that make sense elsewhere may not be as useful in Python, and Python provides unique solutions to some familiar problems.
+
+This tutorial is about modern, idiomatic OOP in Python 3.7. Most of the discussion will be relevant to previous versions all the way to Python 2.7, but newer features will be highlighted.
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/mUu_4k6a5-I/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=mUu_4k6a5-I,https://www.youtube.com/watch?v=mUu_4k6a5-I
+136,David Beazley - Lambda Calculus from the Ground Up - PyCon 2019,https://www.youtube.com/watch?v=pkCLMl0e_0k,pkCLMl0e_0k,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190502,12394,49609,969,68.0,"David Beazley,pycon,python,coding,tutorial",People & Blogs,"""Speaker: David Beazley
+
+These days, programming style guides are all the rage.  However, what if your style guide was so restrictive that it only gave you single-argument functions and nothing else?  No modules, no classes, no control flow, no data structures, and not even any primitives like integers or regular expressions.  Just functions.  Could you actually program anything at all?    Surprisingly, the answer is yes.   In this tutorial,  you'll learn how as you work through a ground-up derivation of the lambda calculus in Python.
+
+You will learn nothing practically useful in this tutorial. No packaging. No tools. No libraries. No deployment. No magic Python programming techniques. And certainly learn nothing you would ever want to apply to a real project.  You will, on the other hand, have a lot of fun, be completely amazed, and learn some foundational computer science that is a jumping off point for further explorations of functional programming, type theory, programming languages, and more. 
+
+
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/pkCLMl0e_0k/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=pkCLMl0e_0k,https://www.youtube.com/watch?v=pkCLMl0e_0k
+137,"Jérôme Petazzoni, AJ Bowen - Getting started with Kubernetes and container orchestration",https://www.youtube.com/watch?v=J08MrW2NC1Y,J08MrW2NC1Y,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190502,12318,9768,127,5.0,"pycon,python,coding,tutorial,Jérôme Petazzoni,AJ Bowen",People & Blogs,"""Speakers: Jérôme Petazzoni, AJ Bowen
+
+You've started to """"containerize"""" your applications by writing a Dockerfile or two, and now you want to run your containers in a cluster. But Kubernetes is quite different from Docker: the smallest unit of deployment is not a container, but a *pod*; pods are accessed through specialized load balancers called *services*; there are *labels* and *selectors* everywhere; and everything is created by expressing desired state with YAML, lots of YAML.
+
+In this hands-on tutorial, we will learn about Kubernetes and its key concepts, both in theory (we will become familiar with all the things evoked in the previous paragraph) and in practice (we will know how to use them to deploy and scale our applications).
+
+Kubernetes has the reputation of being a complex system with a steep learning curve. We will see that it is, indeed, a complex system, but that it is possible to tame its most essential features in just a few hours.
+
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/J08MrW2NC1Y/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=J08MrW2NC1Y,https://www.youtube.com/watch?v=J08MrW2NC1Y
+138,Sergio Sánchez - Analyzing Census Data with Pandas - PyCon 2019,https://www.youtube.com/watch?v=sGtCgYWzOV4,sGtCgYWzOV4,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190502,11758,3210,50,3.0,"pycon,python,coding,tutorial,Sergio Sánchez",People & Blogs,"""Speaker: Sergio Sánchez
+
+## Census 2020 is coming!
+
+Did you know the government budgeted __12.5 billion__ dollars to count __EVERY SINGLE PERSON IN THE COUNTRY__ in 2020? 
+Imagine how much data you could acquire with 12.5 billion dollars. 
+
+## Not so excited about Census data? How about cool `pandas` tricks?
+![pandas_gif](https://media1.tenor.com/images/60379b3ecd5b8d9d886d90018dba63ab/tenor.gif?itemid=5274556)
+
+In this tutorial you will go from a simple data exploration and analysis  workflow to learning more advanced techniques social scientists apply when dealing with Census data. 
+
+If you've been interested in honing your `pandas` skills or you'd just ___love___ to learn how to calculate the demographically-adjusted employment rate gap for your county using `python`, well you've come to the right place.
+
+This tutorial is perfect for novice data analysts, pythonistas, social scientists, and journalists that want to learn about the powerful `pandas` library and how to use it to analyze public use micro-data, and for those who've been using it but could learn a trick or two to make their workflow even more effective.
+
+Does the acronyms ACS, CPS, PUMA, or IPUMS mean anything to you? If not, the more reason to join! Come learn something new!
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/sGtCgYWzOV4/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=sGtCgYWzOV4,https://www.youtube.com/watch?v=sGtCgYWzOV4
+139,"Eric Ma, Hugo Bowne-Anderson - Bayesian Data Science by Simulation - PyCon 2019",https://www.youtube.com/watch?v=0pZc5u3e884,0pZc5u3e884,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190502,12132,4862,83,7.0,"pycon,python,coding,tutorial,Eric Ma,Hugo Bowne-Anderson",People & Blogs,"""Speakers: Eric Ma, Hugo Bowne-Anderson
+
+This tutorial is an Introduction to Bayesian data science through the lens of simulation or hacker statistics. We will become familiar with many common probability distributions through i) matching them to real-world stories & ii) simulating them. We will work with joint/conditional probabilities, Bayes Theorem, prior/posterior distributions and likelihoods, while seeing their applications in real-world data analyses. We’ll see the utility of Bayesian inference in parameter estimation and comparing groups and we’ll wrap up with a dive into the wonderful world of probabilistic programming.
+
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/0pZc5u3e884/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=0pZc5u3e884,https://www.youtube.com/watch?v=0pZc5u3e884
+140,"Chalmer Lowe - Scikit-learn, wrapping your head around machine learning - PyCon 2019",https://www.youtube.com/watch?v=kTdt0P0e3Qc,kTdt0P0e3Qc,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190502,12147,5616,62,5.0,"pycon,python,coding,tutorial,Chalmer Lowe",People & Blogs,"""Speaker: Chalmer Lowe
+
+A gentle introduction to machine learning through scikit-learn. This tutorial will enable attendees to understand the capabilities and limitations of machine learning through hands-on code examples and fun and interesting datasets. Learn when to turn to machine learning and which tools apply to your problem. Also learn about gotchas and problems that are likely to show up when attempting to use machine learning.
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/kTdt0P0e3Qc/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=kTdt0P0e3Qc,https://www.youtube.com/watch?v=kTdt0P0e3Qc
+141,Paul Ganssle - Dealing with Datetimes - PyCon 2019,https://www.youtube.com/watch?v=Xt8age1Be4E,Xt8age1Be4E,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190502,11961,2187,29,,"pycon,python,coding,tutorial,Paul Ganssle",People & Blogs,"""Speaker: Paul Ganssle
+
+Dealing with dates and times is famously complicated. In this tutorial, you'll work through a few common datetime-handling tasks and handle some edge cases you are likely to encounter at some point in your career.
+
+This tutorial will cover:
+
+- Working with time zones
+- Serializing and deserializing datetimes
+- Datetime arithmetic
+- Scheduling recurring events
+
+The format will be a mix of short lectures and hands-on exercises.
+
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/Xt8age1Be4E/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=Xt8age1Be4E,https://www.youtube.com/watch?v=Xt8age1Be4E
+142,Ariel Ortiz - Design Patterns in Python for the Untrained Eye - PyCon 2019,https://www.youtube.com/watch?v=o1FZ_Bd4DSM,o1FZ_Bd4DSM,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190502,11688,54445,907,28.0,"pycon,python,coding,tutorial,Ariel Ortiz",People & Blogs,"""Speaker: Ariel Ortiz
+
+Design patterns are prepackaged solutions to common software design problems. We get two important benefits when using them. Firstly, we get a way to solve typical software development issues by using a proven solution. Secondly, we get a shared vocabulary that allows us to communicate more effectively with other software designers. Getting acquainted with design patterns is the next step to become a better object oriented programmer.
+
+In this tutorial we'll answer some of the most important questions surrounding design patterns: What are they? How can we use them in our programs? When should we avoid them? We'll also have the opportunity to explore and play with the Python implementations of some of the classical design patterns made famous by the Gang of Four (Gamma, Helm, Johnson & Vlissides) while learning relevant design principles at the same time. Don't forget to bring your own laptop with your preferred Python 3 development environment.
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/o1FZ_Bd4DSM/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=o1FZ_Bd4DSM,https://www.youtube.com/watch?v=o1FZ_Bd4DSM
+143,Thursday Bram - Writing about Python (Even When You Hate Writing) - PyCon 2019,https://www.youtube.com/watch?v=lfmMB8HohyY,lfmMB8HohyY,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190502,12143,1064,8,,"pycon,python,coding,tutorial,Thursday Bram",People & Blogs,"""Speaker: Thursday Bram
+
+This tutorial is an introduction to writing about Python: we'll cover potential pitfalls in documentation and other technical writing, practice writing non-technical content (from blog posts to job listings), and testing our writing for readability and accessibility. We'll even cover where writing can fit into your workflow and a few tricks for reducing your writing workload.
+
+After this tutorial, you'll be equipped to write about Python for both technical and nontechnical audiences. You might even enjoy writing by the time we're done!
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/lfmMB8HohyY/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=lfmMB8HohyY,https://www.youtube.com/watch?v=lfmMB8HohyY
+144,Paul Vincent Craven - Build Your Own 2D Platformer Game - PyCon 2019,https://www.youtube.com/watch?v=Djtm1DzWSvo,Djtm1DzWSvo,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190502,11604,4530,64,5.0,"pycon,python,coding,tutorial,Paul Vincent Craven",People & Blogs,"""Speaker: Paul Vincent Craven
+
+Use Python and the [Arcade](http://arcade.academy) library to create your own 2D platformer. Learn to work with Sprites and the [Tiled Map Editor](https://www.mapeditor.org/) to create your own games. Add coins, ramps, moving platforms, enemies, and more.
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/Djtm1DzWSvo/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=Djtm1DzWSvo,https://www.youtube.com/watch?v=Djtm1DzWSvo
+145,Tania Allard - Building data pipelines in Python: Airflow vs scripts soup - PyCon 2019,https://www.youtube.com/watch?v=n9_JjmHRtys,n9_JjmHRtys,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190502,11875,7828,64,7.0,"pycon,python,coding,tutorial,Tania Allard",People & Blogs,"""Speaker: Tania Allard
+
+In data science (in its all its variants) a significant part of an individual’s time is spent preparing data into a digestible format. In general, a data science pipeline starts with the acquisition of raw data which is then manipulated through ETL processes and leads to a series of analytics. 
+Good data pipelines can be used to automate and schedule these steps, help with monitoring tasks, and even to dynamically train models. On top of that, they make the analyses easier to reproduce and productise.
+
+In this workshop, you will learn how to migrate from ‘scripts soups’ (a set of scripts that should be run in a particular order) to robust, reproducible and easy-to-schedule data pipelines in Airflow. First, we will learn how to write simple recurrent ETL pipelines. We will then integrate logging and monitoring capabilities. And we will end using Airflow along with Jupyter Notebooks and paper mill to produce reproducible analytics reports. 
+
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi/n9_JjmHRtys/hqdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=n9_JjmHRtys,https://www.youtube.com/watch?v=n9_JjmHRtys
+146,Dave Forgac - Writing Command Line Applications that Click - PyCon 2019,https://www.youtube.com/watch?v=Sv7rRGTaMHE,Sv7rRGTaMHE,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190502,10772,7068,95,6.0,"pycon,python,coding,tutorial,Dave Forgac",People & Blogs,"""Speaker: Dave Forgac
+
+Click is a Python package that helps you create well-behaved command line interfaces with minimal code.
+
+In this tutorial you will:
+
+- Learn what makes a command line application """"well-behaved""""
+- Build an application that exercises the most commonly-used features of Click
+- Get an overview of the more advanced functionality available
+- Package and install the application
+
+You will leave with an example application that you can use as a basis for your own command line development.
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/Sv7rRGTaMHE/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=Sv7rRGTaMHE,https://www.youtube.com/watch?v=Sv7rRGTaMHE
+147,"Mridul Seth, Eric Ma - Network Analysis Made Simple - PyCon 2019",https://www.youtube.com/watch?v=eZs4MECCuYY,eZs4MECCuYY,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190502,11907,2392,21,5.0,"pycon,python,coding,tutorial,Mridul Seth,Eric Ma",People & Blogs,"""Speakers: Mridul Seth, Eric Ma
+
+Have you ever wondered about how those data scientists at Facebook and LinkedIn make friend recommendations? Or how epidemiologists track down patient zero in an outbreak? If so, then this tutorial is for you. In this tutorial we will use a variety of datasets to help you understand the fundamentals of network thinking, with a particular focus on constructing, summarizing, and visualizing complex networks.
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/eZs4MECCuYY/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=eZs4MECCuYY,https://www.youtube.com/watch?v=eZs4MECCuYY
+148,Melanie Crutchfield - Beginning Python for Human People with Feelings - PyCon 2019,https://www.youtube.com/watch?v=3xnQb34DlmM,3xnQb34DlmM,PyCon 2019,@pycon2019,https://www.youtube.com/@pycon2019,20190502,12167,2255,24,1.0,"pycon,python,coding,tutorial,melanie crutchfield",People & Blogs,"""Speaker: Melanie Crutchfield
+
+This tutorial is for people who are **brand new to Python**. It's for people with curioisty to feed, anxiety to overcome, and worlds to change. It's for people named Edna. (And others not named Edna.)
+
+During this tutorial you'll be encouraged to **bring your whole self to learning**. We'll start with the very basics of Python, keeping your fingers on the keyboard to gain as much practice as possible. Between strings, functions, and other fun Python-y things, we'll discuss learning deeply, nourishing our brains, and boosting happiness with science.
+
+No prior experience required; come just as you are. This about being a whole person. It's about learning Python, because Python is really cool. It's also about staying afloat. Being productive. Focusing. It's about finding joy in the error codes.
+
+Come play. It'll be awesome.
+
+
+
+Slides can be found at: https://speakerdeck.com/pycon2019 and https://github.com/PyCon/2019-slides""",https://i.ytimg.com/vi_webp/3xnQb34DlmM/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=3xnQb34DlmM,https://www.youtube.com/watch?v=3xnQb34DlmM

@@ -1,0 +1,961 @@
+﻿index,title,url,video_id,uploader,uploader_id,uploader_url,upload_date,duration,view_count,like_count,comment_count,tags,categories,description,thumbnail,age_limit,is_live,was_live,availability,webpage_url,original_url
+1,Charla: Luis Diego Conejo Alpizar - Historias de debug en clase de Python Avanzado,https://www.youtube.com/watch?v=UYpnyUyzpSY,UYpnyUyzpSY,PyCon US,@PyConUS,https://www.youtube.com/@PyConUS,20200415,1056,2726,30.0,1.0,,People & Blogs,"Presented by:
+Luis Diego Conejo Alpizar
+
+Como parte de mi trabajo como instructor de Python con la Universidad de Washington durante los últimos dos años, me ha tocado lidiar con numerosos y extraños errores de código que nos pusieron en aprietos a mis estudiantes y a mi, aún si al final resultaron ser realmente simples. En esta charla, voy a presentar cuatro de esos errores y cómo fueron resueltos.",https://i.ytimg.com/vi_webp/UYpnyUyzpSY/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=UYpnyUyzpSY,https://www.youtube.com/watch?v=UYpnyUyzpSY
+2,Charla: Eric Nahuel Horvat - Integraciones con Asyncio,https://www.youtube.com/watch?v=IGokXFTVRzQ,IGokXFTVRzQ,PyCon US,@PyConUS,https://www.youtube.com/@PyConUS,20200506,1483,715,6.0,,,People & Blogs,"Presented by:
+Eric Nahuel Horvat
+
+Todos tenemos temor a los terminos integracion o asincronismo. Veni a ver como integrar de manera simple multiples lenguajes a un mismo main software, todo gracias a Python 3 y su asincronismo.
+
+
+Talk slides: https://bit.ly/2Y4OERb
+Talk resources: 
+- References (slide 3): PyCon 2015, https://youtu.be/MCs5OvhV9S4  
+- Go Blog: https://blog.golang.org/waza-talk
+- PyConAr 2019, en español, https://youtu.be/u_NDCBdHhzc 
+- PyCon 2017, en ingles, https://youtu.be/iG6fr81xHKA 
+- Github repo: https://github.com/EricHorvat/asyncio_integration_talk",https://i.ytimg.com/vi_webp/IGokXFTVRzQ/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=IGokXFTVRzQ,https://www.youtube.com/watch?v=IGokXFTVRzQ
+3,"Charla: Renne Silva Gomes de Oliveira Rocha - Si no está documentado, su proyecto no existe.",https://www.youtube.com/watch?v=KJrgcTfGZig,KJrgcTfGZig,PyCon US,@PyConUS,https://www.youtube.com/@PyConUS,20200429,1041,382,13.0,,,People & Blogs,"Presented by:
+Renne Silva Gomes de Oliveira Rocha
+
+¿Cuántas veces has encontrado en PyPI una increíble biblioteca que aparentemente resuelve tu problema específico pero, cuando la introduces en tu proyecto, encuentras documentación totalmente obsoleta o incompleta? ¿O es el responsable de mantener una biblioteca bien construida con código bien organizado y probado, pero nadie la usa?
+
+Claro, todos hemos pasado por esto, pero cometimos el mismo error con nuestros propios proyectos y dejamos la documentación para más tarde, o estamos contentos con un pequeño archivo README que contiene ejemplos simples, o peor, simplemente la ignoramos pensando que solo un código bien escrito es suficiente para que otros usen nuestro proyecto.
+
+En esta charla hablaremos sobre la importancia de la documentación, los diversos tipos de documentación que podemos hacer y algunas herramientas disponibles en el ecosistema Python para facilitar la escritura, publicación y mantenimiento de ella.",https://i.ytimg.com/vi_webp/KJrgcTfGZig/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=KJrgcTfGZig,https://www.youtube.com/watch?v=KJrgcTfGZig
+4,"Charla: David Mauricio Delgado Ruiz - Datos, Python y humanos",https://www.youtube.com/watch?v=76j-C2DQRec,76j-C2DQRec,PyCon US,@PyConUS,https://www.youtube.com/@PyConUS,20200506,1612,364,7.0,,,People & Blogs,"Presented by:
+David Mauricio Delgado Ruiz
+
+En esta charla quiero presentar 5 retos particulares de hacer ciencia de datos en países latinoamericanos y cómo enfrentarse a ellos con éxito a través de 5 historias de la vida real. Las historias vienen de mi experiencia trabajando en Quantil, una empresa con 11 años haciendo consultoría en ciencia de datos en Colombia. Latinoamérica es una región con una historia diversa y compleja que nos dejó atrás en varios aspectos, incluso el tecnológico y científico. Aunque está cambiando, un científico de datos o una empresa que se dedique a esto enfrenta retos como la falta de confianza en software open source (y por tanto en Python), el déficit de profesionales capacitados holísticamente en Python y otras tecnologías de facto, el desorden de los datos a usar en las organizaciones, entre otros. Finalmente presentaré mi visión del futuro de la ciencia de datos en la región y su impacto en los países que decidan aprovecharla.
+
+
+
+
+Talk slides: https://docs.google.com/presentation/d/1vMfO2CbCkdIYLLXfM2UelWE6JfWrY9QB_AMIyX7flDM",https://i.ytimg.com/vi_webp/76j-C2DQRec/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=76j-C2DQRec,https://www.youtube.com/watch?v=76j-C2DQRec
+5,Charla: Cristina Muñoz - Detección automatizada de archivos maliciosos en el repositorio PyPI,https://www.youtube.com/watch?v=Lluu64ri3Qg,Lluu64ri3Qg,PyCon US,@PyConUS,https://www.youtube.com/@PyConUS,20200429,1441,420,15.0,1.0,,People & Blogs,"Presented by:
+Cristina Muñoz
+
+En Septiembre 2019, la Fundación Python (Python Software Foundation) lanzó una Solicitud de Propuestas para el desarrollo de funcionalidades críticas de seguridad en el software del Python Packaging Index (PyPI). Esto se produjo en respuesta después de que Hackers distribuyeran contenido malicioso a través del repositorio PyPI.
+
+Desde typosquatting a la ejecución de código arbitrario. En esta charla, vamos a revisar los vectores de ataque más populares utilizados por Hackers para confundir a los usuarios y aprovecharse de ellos. Teniendo en cuenta estos ataques, vamos a describir el nuevo sistema de detección automatizada integrado en el repositorio PyPI, y, en particular, los tipos de chequeos que ya se encuentran instrumentadas, concluyendo con una explicación de cómo usted puede combatir el malware en el repositorio PyPI.
+
+Slides: https://docs.google.com/presentation/d/1vMfO2CbCkdIYLLXfM2UelWE6JfWrY9QB_AMIyX7flDM",https://i.ytimg.com/vi_webp/Lluu64ri3Qg/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=Lluu64ri3Qg,https://www.youtube.com/watch?v=Lluu64ri3Qg
+6,Talk: Andrew Knight - East Meets West When Translating Django Apps,https://www.youtube.com/watch?v=OUkzFbzkXy4,OUkzFbzkXy4,PyCon US,@PyConUS,https://www.youtube.com/@PyConUS,20200415,1754,1502,39.0,3.0,,People & Blogs,"Presented by:
+Andrew Knight
+
+你好！我是软件工程师。
+
+Please, someone translate! Thankfully, it’s easy to do in Django for both new apps and existing ones. We’ll cover language detection, URL routing, translation files, and marking strings to translate (particularly overlooked areas). As a bonus, we’ll also look at translating the Django admin site! We’ll use Mandarin for examples, but the techniques will work for any language.",https://i.ytimg.com/vi_webp/OUkzFbzkXy4/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=OUkzFbzkXy4,https://www.youtube.com/watch?v=OUkzFbzkXy4
+7,Talk: Carol J. Smith - Implementing Ethics: Developing Trustworthy AI,https://www.youtube.com/watch?v=vPokIvli8yk,vPokIvli8yk,PyCon US,@PyConUS,https://www.youtube.com/@PyConUS,20200415,1185,910,15.0,3.0,,People & Blogs,"Presented by:
+Carol J. Smith
+
+Ethics discussions abound, but translating “do no harm” into our work is frustrating at best, and obfuscatory at worst. We can agree that keeping humans safe and in control is important, but implementing ethics is intimidating work.
+
+Learn how to wield your preferred technology ethics code to make an AI system that is accountable, de-risked, respectful, secure, honest and usable. The presenter will introduce the topic of ethics and then step through a user experience (UX) framework to guide AI development teams successfully through this process.",https://i.ytimg.com/vi_webp/vPokIvli8yk/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=vPokIvli8yk,https://www.youtube.com/watch?v=vPokIvli8yk
+8,"Talk: Dean Wampler - Ray: A System for High-performance, Distributed Python Applications",https://www.youtube.com/watch?v=tqUe0gcfqAU,tqUe0gcfqAU,PyCon US,@PyConUS,https://www.youtube.com/@PyConUS,20200415,1566,3642,66.0,2.0,,People & Blogs,"Presented by:
+Dean Wampler
+
+Ray is an open-source, distributed framework from U.C. Berkeley’s RISELab that easily scales Python applications from a laptop to a cluster, with an emphasis on the unique performance challenges of ML/AI systems. It is now used in many production deployments.
+
+I’ll explain the problems that Ray solves and useful features it provides, such as rapid distribution, scheduling, and execution of “tasks” and management of distributed stateful “serverless” computing. I’ll illustrate how it’s used in several ML libraries. You’ll learn when to use Ray and how to use it in your projects.
+
+
+
+
+Talk slides: https://speakerdeck.com/wampler/ray-scalability-from-a-laptop-to-a-cluster-582a9702-9c67-4f12-9b27-64846dc52162",https://i.ytimg.com/vi_webp/tqUe0gcfqAU/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=tqUe0gcfqAU,https://www.youtube.com/watch?v=tqUe0gcfqAU
+9,Talk: Itamar Turner-Trauring - Small Big Data: using NumPy and Pandas when your data doesn't fit ...,https://www.youtube.com/watch?v=8pFnrr0NnwY,8pFnrr0NnwY,PyCon US,@PyConUS,https://www.youtube.com/@PyConUS,20200415,1577,4207,137.0,2.0,,People & Blogs,"Presented by:
+Itamar Turner-Trauring
+
+Your data is too big to fit in memory—loading it crashes your program—but it’s also too small for a complex Big Data cluster. How to process your data simply and quickly?
+
+In this talk you’ll learn the basic techniques for dealing with Small Big Data: money, compression, batching, and indexing. You’ll specifically learn how to apply these techniques to NumPy and Pandas, but you’ll also learn the key concepts you can apply to other libraries and the specifics of your particular data.",https://i.ytimg.com/vi_webp/8pFnrr0NnwY/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=8pFnrr0NnwY,https://www.youtube.com/watch?v=8pFnrr0NnwY
+10,"Talk: Jeff Bass - Yin Yang Ranch: Building a Distributed Computer Vision Pipeline using Python, O...",https://www.youtube.com/watch?v=76GGZGneJZ4,76GGZGneJZ4,PyCon US,@PyConUS,https://www.youtube.com/@PyConUS,20200415,1830,3612,117.0,15.0,,People & Blogs,"Presented by:
+Jeff Bass
+
+I am building a small permaculture farm in Southern California. I have written computer vision programs in Python to read the water meter, optimize water use, track coyotes, rabbits, raccoons and bobcats, etc. The farm is set up like an ongoing science project. I am running Python on 20 Raspberry Pi computers with PiCameras and sensors. The RPi’s capture images, detect motion and select a subset of images. Did the water meter move? Was a coyote seen? If so, images are sent to a hub computer via PyZMQ. The hub computer uses Python and OpenCV to do more advanced processing like reading the water meter digits or keeping critter counts by season. This arrangement demonstrates ways that Python can be helpful in developing IOT networks with multiple cameras and sensors.
+
+In this talk I will describe the hub and spoke design that distributes processing across a mix of RPi’s and larger computers. I’ll cover the pros and cons of PyZMQ messaging for image transfer. I’ll describe OpenCV techniques in Python that have been helpful on both the RPi’s and the hub computer. All the programs are pure Python, and they leverage fast libraries written in C, like OpenCV and ZMQ by using Python bindings. This is an open source project with all the Python source code available on GitHub. Hardware “how to’s” & photos are also on GitHub. Pictures of my farm and my favorite coyotes are also on GitHub…because why not?
+
+Talks Slides: https://speakerdeck.com/jeffbass/yin-yang-ranch-building-a-distributed-computer-vision-pipeline-using-python-opencv-and-zmq-17024000-4389-4bae-9e4d-16302d20a5b6",https://i.ytimg.com/vi_webp/76GGZGneJZ4/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=76GGZGneJZ4,https://www.youtube.com/watch?v=76GGZGneJZ4
+11,Talk: Jessica Garson - How I Solved my NYC Parking Problem with Python,https://www.youtube.com/watch?v=bK2iPDu7RDE,bK2iPDu7RDE,PyCon US,@PyConUS,https://www.youtube.com/@PyConUS,20200415,1221,3380,78.0,1.0,,People & Blogs,"Presented by:
+Jessica Garson
+
+Since I have a car in New York City, my car is subject to the city’s alternate side of the street parking regulations. This means most nights I need to move my car before the early morning street cleaning that happens in my neighborhood. I had developed a nightly routine around moving my car before I go to sleep. I am sometimes a bit too good at this and I often move my car on days I don’t need to. Since alternate side of the street parking is often canceled on days where there are holidays, or bad weather, there is a Twitter handle @NYCASP, which posts daily and whenever there is an emergency situation. I used Python, Twilio and the Twitter API to solve this problem for myself so I get a text message whenever I don’t need to move my car.",https://i.ytimg.com/vi_webp/bK2iPDu7RDE/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=bK2iPDu7RDE,https://www.youtube.com/watch?v=bK2iPDu7RDE
+12,Talk: Russell Keith-Magee - Snakes in a case: Packaging Python apps for distribution,https://www.youtube.com/watch?v=WjMDXDHBn1I,WjMDXDHBn1I,PyCon US,@PyConUS,https://www.youtube.com/@PyConUS,20200415,1686,5968,179.0,1.0,,People & Blogs,"Presented by:
+Russell Keith-Magee
+
+So you’ve written a Python program - a game, a new social media app, or a system administration utility. You think it’s great, and you want to share it with the world. But how do you do that? How do you distribute your code to others without needing to document how to set up Python, install dependencies, and run your application?
+
+In this talk, you’ll learn about Briefcase, a tool that can convert a Python project into platform-native installers on macOS, Windows and Linux - and can also target iOS and Android. You’ll learn how to use Briefcase to start a new project, or convert an existing project for distribution. You’ll also see how Briefcase (and some other recent developments in the Python ecosystem) can assist you during application development.",https://i.ytimg.com/vi_webp/WjMDXDHBn1I/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=WjMDXDHBn1I,https://www.youtube.com/watch?v=WjMDXDHBn1I
+13,Talk: Marlene Mhangami - Leadership and Identity in the Pan-African Python movement,https://www.youtube.com/watch?v=PQmCADPolOE,PQmCADPolOE,PyCon US,@PyConUS,https://www.youtube.com/@PyConUS,20200415,1821,998,46.0,2.0,,People & Blogs,"Presented by:
+Marlene Mhangami
+
+In this talk, I will be outlining some of the unique aspects of being a young, female community leader in the budding Pan-African Python movement. I will begin by giving the audience an overview of the current state of the African Python community and my role in its development. I will then share some of my personal experiences, both positive and negative, leading in community spaces and juxtapose them to some philosophical ideas about leadership. I will be sharing some of my favorite philosophers’ ideas on the topic, as well as some perspectives on how online communities have historically treated leadership. All of this information will be used, to make a proposition for how our community should view and identify leaders. I also go on to share how my personal and group identity as an African has played a large role in shaping how I lead. Our unique identities are incredibly significant, I argue that Pythonistas intending to build a more diverse and inclusive global community should be thoughtful about their identity. Finally, I will be sharing some anecdotes on what I believe the future leaders of our community should look like.",https://i.ytimg.com/vi_webp/PQmCADPolOE/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=PQmCADPolOE,https://www.youtube.com/watch?v=PQmCADPolOE
+14,"Talk: Katie McLaughlin - What is deployment, anyway?",https://www.youtube.com/watch?v=8vstov3Y7uE,8vstov3Y7uE,PyCon US,@PyConUS,https://www.youtube.com/@PyConUS,20200415,1347,3950,103.0,2.0,,People & Blogs,"Presented by:
+Katie McLaughlin
+
+So you’ve finished the DjangoGirls tutorial, but now you want to share it with the outside world, but how do you go about that?
+
+What even is production? What is the deal with web servers versus web service gateway interfaces? And static, what’s that, then? What is involved in choosing a platform or infrastructure as a service? What even are databases?
+
+In this presentation, we will discuss the basics beyond running a Django project locally, and discuss the concepts and strategies around how to deploy your project, ultimately answering the question, “What is deployment, anyway?”
+
+
+
+
+Talk slides: https://glasnt.com/talks/2020_04_PyCon_Talk.podium
+Talk resources: https://github.com/glasnt/talks/blob/gh-pages/2020_04_PyCon_Talk.podium/README.md",https://i.ytimg.com/vi_webp/8vstov3Y7uE/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=8vstov3Y7uE,https://www.youtube.com/watch?v=8vstov3Y7uE
+15,Talk: Jon Crall - Developing With Doctests - Using Xdoctest As A Backend,https://www.youtube.com/watch?v=CUjCqOw_oFk,CUjCqOw_oFk,PyCon US,@PyConUS,https://www.youtube.com/@PyConUS,20200415,1676,2273,85.0,15.0,,People & Blogs,"Presented by:
+Jon Crall
+
+This talk is about doctests — a way to embed examples and unit tests in docstrings. I describe what they are, how to write them, and interesting ways in which they can be used. Doctests make it easy to interactively develop code by defining “demo” inputs which can be copied into IPython. The side effect is a unit test. This is test-driven-development at its best. I explain the technical details of doctest syntax, directives, parsing, and execution.
+
+Unfortunately, Python’s builtin doctest module has a restrictive syntax, which makes it difficult to use. In the second part of the talk I introduce an alternative: Xdoctest, a new, but stable package for parsing and running doctests (with optional pytest integration). I explain why doctest’s regex-based parser is fundamentally limited and how xdoctest’s ast-based parser is the remedy. I demonstrate how to use xdoctest and discuss its advantages and disadvantages. By the end of this talk you feel confident in writing, running, and developing with doctests.
+
+
+
+
+Talk resources:
+- https://github.com/Erotemic/xdoctest
+- https://github.com/Erotemic/ubelt",https://i.ytimg.com/vi_webp/CUjCqOw_oFk/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=CUjCqOw_oFk,https://www.youtube.com/watch?v=CUjCqOw_oFk
+16,Talk: Trey Hunner - Comprehensible Comprehensions,https://www.youtube.com/watch?v=ei71YpmfRX4,ei71YpmfRX4,PyCon US,@PyConUS,https://www.youtube.com/@PyConUS,20200415,1960,9485,310.0,5.0,,People & Blogs,"Presented by:
+Trey Hunner
+
+Finding list comprehensions incomprehensible? Having trouble figuring out when to use list comprehensions or just plain for loops? Are your coworkers overusing comprehensions?
+
+Come to this talk and learn the how, when, and why of list comprehensions.
+
+We’ll discuss:
+
+why list comprehensions exist and why people use them (yes you can always use a loop instead)
+how to use list, set, an dictionary comprehensions as well as generator expressions
+when and how to easily turn a for loop into a comprehension
+why list comprehensions are often hard to read and how to make your comprehensions readable
+When to use generator expressions instead of list comprehensions
+when and how not to use comprehensions (they’re not a replacement for all loops)
+Comprehensions are a unique tool for a unique task. Even if you dislike them, understanding how they work will help you better understand the Python code you find in the wild.
+
+You’ll leave this talk with a better appreciation for both the use cases for comprehensions in Python and an understand of when not to use them.",https://i.ytimg.com/vi_webp/ei71YpmfRX4/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=ei71YpmfRX4,https://www.youtube.com/watch?v=ei71YpmfRX4
+17,Talk: Takanori Suzuki - Automate the Boring Stuff with Slackbot,https://www.youtube.com/watch?v=ndi55Ig6-SI,ndi55Ig6-SI,PyCon US,@PyConUS,https://www.youtube.com/@PyConUS,20200415,1714,5498,68.0,1.0,,People & Blogs,"Presented by:
+Takanori Suzuki
+
+Today, there are many tasks to repeat in the company/community.
+In addition, we often use chat such as Slack for daily communication.
+So, I created a chatbot(PyCon JP Bot) to automate various boring tasks related to holding PyCon JP.
+
+In this talk, I will first explain how to create a chatbot using slackbot.
+I will tell you how to registers bot’s integration on Slack and how to create a simple bot in Python that responds to specific keywords.
+
+And as a specific case, I will explain how to make a bot command to perform the following operations and technical problems.
+- Emoji reaction
+- Block-kit
+- Calculator: SymPy
+- Karma(plusplus): Peewee
+- Search issues, display issue details: JIRA API
+- Create multiple issues from a template: JIRA API, Sheets Spreadsheet API
+- Search files from Google Drive: Google Drive API
+- Account management of G Suite(user, alias, group and member): G Suite API
+- etc.
+
+
+
+
+Talk slides: https://gitpitch.com/takanory/slides?p=20200417pycon",https://i.ytimg.com/vi_webp/ndi55Ig6-SI/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=ndi55Ig6-SI,https://www.youtube.com/watch?v=ndi55Ig6-SI
+18,Talk: Conor Hoekstra - Beautiful Python Refactoring,https://www.youtube.com/watch?v=W-lZttZhsUY,W-lZttZhsUY,PyCon US,@PyConUS,https://www.youtube.com/@PyConUS,20200415,1805,25047,687.0,28.0,,People & Blogs,"Presented by:
+Conor Hoekstra
+
+Refactoring can lead to absolutely beautiful code. Not only this, but the refactoring itself can be a thing of beauty. This talk demonstrates taking an example with a double-digit number of lines of code down to a single-digit number of lines of code. This talk will show how to identify certain anti-patterns that can be replaced with more expressive and declarative code. This is a simple talk that can be understood by all, but when applied to one’s daily work can make a significant difference.
+
+
+Talk slides and code: https://github.com/codereport/Talks/tree/master/2020-04-PyCon/BeautifulPythonRefactoring",https://i.ytimg.com/vi_webp/W-lZttZhsUY/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=W-lZttZhsUY,https://www.youtube.com/watch?v=W-lZttZhsUY
+19,Talk: Dustin Ingram - Static Typing in Python,https://www.youtube.com/watch?v=ST33zDM9vOE,ST33zDM9vOE,PyCon US,@PyConUS,https://www.youtube.com/@PyConUS,20200422,1309,17240,724.0,16.0,,People & Blogs,"Presented by:
+Dustin Ingram
+
+Python is well-known as a programming language without static types. This means that you don’t need to say what a given variable will hold, or whether your function will return a string or an integer (or sometimes one, and sometimes another!). This has historically made Python a very flexible and beginner-friendly language.
+
+In this talk, we’ll discuss the advantages and disadvantages to a static type system, as well as recent efforts to introduce static typing to Python via optional “type hints” and various tools to aid in adding types to Python code. We’ll see what this means for Python, for Python programmers, and what the future has in store for Python’s type system.",https://i.ytimg.com/vi_webp/ST33zDM9vOE/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=ST33zDM9vOE,https://www.youtube.com/watch?v=ST33zDM9vOE
+20,Talk: Vinayak Mehta - The Hitchhiker's Guide to CLIs in Python,https://www.youtube.com/watch?v=Hn-syMunNy8,Hn-syMunNy8,PyCon US,@PyConUS,https://www.youtube.com/@PyConUS,20200422,1511,3873,67.0,1.0,,People & Blogs,"Presented by:
+Vinayak Mehta
+
+Command-line applications and interfaces are used by both newcomers and experienced Python developers everyday. But do you know how they came to be? Hop on to this ship as we go through the CLI galaxy and look at its history, explore the CLI anatomy and discover some Python packages that can help us create them.
+
+We’ll then look at some widely used CLIs of our time. And emulate one of them by creating our own CLI using Click. Finally, we’ll package it and publish it on PyPI. Are you ready to travel faster-than-light using this ship’s Infinite Improbability Drive? Carry your towel!
+
+Talk Slides: https://github.com/vinayak-mehta/talks/blob/master/2020-pycon-us/slides.pdf",https://i.ytimg.com/vi_webp/Hn-syMunNy8/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=Hn-syMunNy8,https://www.youtube.com/watch?v=Hn-syMunNy8
+21,Talk: Deepak Kumar Gupta - Saved by In-Memory NoSQL,https://www.youtube.com/watch?v=NjMTf2UWPsw,NjMTf2UWPsw,PyCon US,@PyConUS,https://www.youtube.com/@PyConUS,20200422,917,1040,26.0,,,People & Blogs,"If you’ve ever heard about or experienced a scenario where a production python bug can’t be fixed because we’re not able to reproduce the same, sometimes even after adding additional logs, then this session is for you.
+
+Black box debugging is an idea where we add low footprint and encoded debug logs in the production code which drastically increases the chances of detecting the cause of a bug without requiring a recurrence with additional logs (read Debug Logs).
+
+Traditionally, we tend to include a limited amount of logs in the production code because writing the logs on the disk is a costly affair and can potentially impact the performances, but at the same time if something goes wrong, then we need the logs to debug the system.
+
+So what if I tell you that you can have debug logs in the production code without impacting the performance of the code…!!! I bet you’ll be pleasantly surprised.
+
+Welcome to the world of harnessing an unexpected and unintended benefit of In-Memory NoSQL databases which revolutionized the way we write debug logs for our python code.
+
+In this talk, I’ll talk about how we use In-Memory NoSQL with python code and get persistent logs without impacting the performance of the production code.",https://i.ytimg.com/vi_webp/NjMTf2UWPsw/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=NjMTf2UWPsw,https://www.youtube.com/watch?v=NjMTf2UWPsw
+22,Talk: Matthew Knapp Bachmann - Transitioning from developing software to developing people,https://www.youtube.com/watch?v=x7IwVaQgUAM,x7IwVaQgUAM,PyCon US,@PyConUS,https://www.youtube.com/@PyConUS,20200422,1897,926,29.0,1.0,,People & Blogs,"Presented by:
+Matthew Knapp Bachmann
+
+Developing your career is building skills to grow the impact you have on an organization. After a certain point engineers typically decide to either go down an individual contributor path or a management one. Recently, I decided to try engineering management. My company had me manage six engineers in a recently formed team. In my first six months as a manager I developed the team’s process for getting work done, learned the basics of managing career development, and positioned my team within the larger engineering organization. I also learned about balancing competing priorities and moving a diverse set of personalities and desires towards a common goal.
+In this talk I intend to talk specifically about the role of a manager of a single team. I will go over the types of problems a manager is responsible for and discuss the value a good manager can bring to a team/organization. I will help attendees understand the perspective of their current manager and help them decide if management is something they would be interested in trying out themselves.
+
+Talk slides: https://drive.google.com/open?id=1c5BzJMkdKiv2fapg8rswra6QLrDLptnaHMIWR3z6iJ8",https://i.ytimg.com/vi_webp/x7IwVaQgUAM/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=x7IwVaQgUAM,https://www.youtube.com/watch?v=x7IwVaQgUAM
+23,Talk: Mason Egger - Building Docs like Code: Continuous Integration for Documentation,https://www.youtube.com/watch?v=4SwdVMKhbn4,4SwdVMKhbn4,PyCon US,@PyConUS,https://www.youtube.com/@PyConUS,20200422,2079,5236,149.0,10.0,,People & Blogs,"Presented by:
+Mason Egger
+
+It is common for developers to overlook the documentation of their works. They are either on a time crunch, lack the proper tooling, or simply just forget to create and update the documentation. Whatever the cause behind this, it is not a proper excuse for not keeping the documentation up to date. However, for all our development processes there are few as neglected as the documentation process. Documentation should be treated as important as the code that makes up the project. So, let’s move the documentation into the code. With modern documentation tools such as MkDocs and Sphinx, both of which are Python powered tools, and Continuous Integration tools we can now include docs in the commit. They can be reviewed in code reviews, built and versioned in a CI tool, and even tested for things such as correct code examples and broken links. This is the process that the developer knows, understands, and enjoys. I introduced a team to this exact workflow and a working pipeline; all they had to do was keep the documentation up to date. This team currently has some of the most up to date documentation in a company of near two thousand engineers, and they never complain about writing/updating documentation. It’s just part of the workflow.
+
+Attendees will walk away with a new mindset on how to handle documentation, a list of tools that can aid in this process, and a proven, easy-to-implement method that works well for real engineers in a production setting.
+
+Talk slides: https://masonegger.com/speaking/ci-docs/",https://i.ytimg.com/vi_webp/4SwdVMKhbn4/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=4SwdVMKhbn4,https://www.youtube.com/watch?v=4SwdVMKhbn4
+24,Talk: Łukasz Langa - AsyncIO + Music,https://www.youtube.com/watch?v=02CLD-42VdI,02CLD-42VdI,PyCon US,@PyConUS,https://www.youtube.com/@PyConUS,20200422,5603,7492,205.0,6.0,,People & Blogs,"Presented by:
+Łukasz Langa
+
+Can Python help a musician play hardware instruments? Is there anything specific about AsyncIO that makes it well suited to the task? Come see how AsyncIO can be used to aid music production and realtime performance through MIDI processing.
+
+We will cover transformations of incoming MIDI signal, driving hardware instruments with a shared clock, as well as generative music. All production-grade.
+
+If you’re curious about AsyncIO and wanted to see it in action in a unique setting, this talk is for you! Music theory knowledge not required.",https://i.ytimg.com/vi_webp/02CLD-42VdI/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=02CLD-42VdI,https://www.youtube.com/watch?v=02CLD-42VdI
+25,"Talk: Lorena Mesa, Elaine Wong, Mariatta - 9 Years of PyLadies: Lessons Learned and What Comes Next",https://www.youtube.com/watch?v=KRwpY2TixAs,KRwpY2TixAs,PyCon US,@PyConUS,https://www.youtube.com/@PyConUS,20200422,2050,999,17.0,3.0,,People & Blogs,"Presented by:
+Lorena Mesa, Elaine Wong, Mariatta
+
+9 years ago an initial group of 7 women met at PyCon USA 2011 began the world of what we know today as PyLadies. Since 2011, PyLadies has grown to 100+ chapters worldwide and the growth doesn’t seem to be stopping anytime soon! What has made PyLadies so successful in the past - it’s decentralization and high degree of chapter autonomy - has presented PyLadies with unseen new challenges in 2020 such as burnout, resource stagnation, and ultimately not allowed PyLadies to respond to the global community of 2020.
+
+Join regional PyLadies organizers as they present what PyLadies has in store for the future including a global vision for community engagement and open source projects open to all.
+
+Talk slides: bit.ly/9-years-pyladies",https://i.ytimg.com/vi_webp/KRwpY2TixAs/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=KRwpY2TixAs,https://www.youtube.com/watch?v=KRwpY2TixAs
+26,Talk: Kathryn Lingel - Pyambic Pentameter: generating rhyming and metered poems,https://www.youtube.com/watch?v=2ymZVpuqvSc,2ymZVpuqvSc,PyCon US,@PyConUS,https://www.youtube.com/@PyConUS,20200422,1461,883,39.0,2.0,,People & Blogs,"Presented by:
+Kathryn Lingel
+
+a strategy to generate a rhyme / without a human spending any time
+
+Computers may not yet be able to write poetry with soul, but we can teach them to write poetry with style! By combining Markov chain random text generation with a pronunciation dictionary in Python’s Natural Language ToolKit (NLTK), we can generate a poem that has both rhyme and meter.
+
+Random text generation is a fun, beginner-friendly project with a lot of potential depth for the curious and creative. This talk will cover how to generate random writing based on a source text, as well as how to use NLTK to enhance the output, and conclude with a brand new Shakespearean sonnet!
+
+Talk slides and code: https://github.com/katlings/pyambic-pentameter/",https://i.ytimg.com/vi_webp/2ymZVpuqvSc/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=2ymZVpuqvSc,https://www.youtube.com/watch?v=2ymZVpuqvSc
+27,Talk: Elizaveta Shashkova - The Hidden Power of the Python Runtime,https://www.youtube.com/watch?v=yr6E7FwK_Hw,yr6E7FwK_Hw,PyCon US,@PyConUS,https://www.youtube.com/@PyConUS,20200422,1597,5856,207.0,9.0,,People & Blogs,"Presented by:
+Elizaveta Shashkova
+
+Many people like Python for its simplicity and beauty. But every statement in Python, even the simple one, produces a lot of events during the program execution. These events are usually hidden from a user, so it helps developers to skip low-level implementation details and focus on bigger things.
+
+At the same time many parts of this hidden information are very useful and interesting to examine. The good news is that the Python Runtime allows to retrieve it really simply, so there is no need to configure additional libraries or pass additional parameters to interpreter. Everybody can do it right inside their Python code.
+
+During this talk we will learn how Python allows to inspect current program state during the execution. We will learn about Python memory model, variables, frame objects and about useful information they store. After that we will discuss several powerful tools which are based on the runtime information and which can be very helpful for any Python programmer in their everyday life.
+
+Slides: https://speakerdeck.com/elizaveta239/the-hidden-power-of-the-python-runtime
+Examples source code: https://github.com/Elizaveta239/PyRuntimeTricks",https://i.ytimg.com/vi_webp/yr6E7FwK_Hw/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=yr6E7FwK_Hw,https://www.youtube.com/watch?v=yr6E7FwK_Hw
+28,Talk: Shauna Gordon-McKeon - Organizing To Improve Your Workplace: Know Your Rights,https://www.youtube.com/watch?v=mWKygyFir54,mWKygyFir54,PyCon US,@PyConUS,https://www.youtube.com/@PyConUS,20200422,3180,1128,25.0,1.0,,People & Blogs,"Presented by:
+Shauna Gordon-McKeon
+
+If there’s a problem with your code, you can file a bug report. But what do you do when there’s a problem with your workplace?
+
+All workers, including tech workers, have the right to try and improve our workplaces. This talk will give you an overview of your rights, with a special focus on issues that commonly arise in the tech industry, such as workplace harassment, overuse of non-disclosure agreements and forced arbitration clauses, and misclassification of contractors. We’ll also talk about what you can do when your company does something unethical, following the “Bargaining for the Common Good” model used by workers around the country to fight poverty, systemic racism, and climate change.
+
+Talk slides: bit.ly/pycon2020-organize",https://i.ytimg.com/vi_webp/mWKygyFir54/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=mWKygyFir54,https://www.youtube.com/watch?v=mWKygyFir54
+29,Talk: Hank Preston - Introduction to Writing Network Tests with pyATS,https://www.youtube.com/watch?v=tFeVdazq0O0,tFeVdazq0O0,PyCon US,@PyConUS,https://www.youtube.com/@PyConUS,20200429,2067,13752,263.0,3.0,,People & Blogs,"Presented by:
+Hank Preston
+
+How do you test that your network is healthy? You probably ping a few things, run some show commands, and watch for open trouble tickets. I don’t think I’ll stir up a ton of controversy by saying that’s a really bad method. With the move towards network automation, NetDevOps, and Network Reliability Engineering (NRE), we need to have robust, repeatable tests to check the state of the network from Layer 1 to 7.
+
+pyATS is an open source network test framework that was built by software developers for network developers. It provides all the tools automation engineers need to describe test cases, run jobs, gather reports, and make the entire process part of your network automation pipeline. In this talk, we’ll look at everything you need to write your first few test cases, and discuss strategies for what you should test, and when.
+
+
+
+
+Talk slides: https://www.slideshare.net/HankPreston1/introduction-to-writing-network-tests-with-pyats 
+
+Talk resources:
+
+- Code and Demo: https://github.com/hpreston/intro-network-tests
+- Twitter: https://twitter.com/hfpreston",https://i.ytimg.com/vi_webp/tFeVdazq0O0/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=tFeVdazq0O0,https://www.youtube.com/watch?v=tFeVdazq0O0
+30,Talk: Dr. Cristián Maureira-Fredes - C++ ♥ Python: from modules to hybrid applications,https://www.youtube.com/watch?v=klCfoGCwmMg,klCfoGCwmMg,PyCon US,@PyConUS,https://www.youtube.com/@PyConUS,20200429,1764,2083,51.0,,,People & Blogs,"Presented by:
+Dr. Cristián Maureira-Fredes
+
+Extending Python with C is a technique that many popular modules use for OS-level operations, serialization, performance, and more, but dealing with C code is not simple: you need to take care of memory, understand pointers, and write many lines of code for simple tasks. Luckily for you, there is C++.
+
+Wait! Don’t be scared!
+
+I know maybe you heard bad stories and saw complicated pieces of C code, but: are you aware of how C has been evolving?
+The latest C++ standards include many goodies that smell a bit of Python, and I will show them to you.
+
+During this talk, you will learn how to include C features into CPython modules, how to create hybrid applications**, and even to extend existent C applications with Python, making them scriptable**.
+
+This talk is intended for developers who are familiar with Python and know basic C, but you don’t need to know any C++ to take the most out of it.
+
+
+
+
+Talk resources:
+- Github repository: https://github.com/cmaureir/pycon2020_cpp_python",https://i.ytimg.com/vi_webp/klCfoGCwmMg/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=klCfoGCwmMg,https://www.youtube.com/watch?v=klCfoGCwmMg
+31,Talk: Flávio Juvenal da Silva Junior - 1 + 1 = 1 or Record Deduplication with Python,https://www.youtube.com/watch?v=eMI8lwQl3Dc,eMI8lwQl3Dc,PyCon US,@PyConUS,https://www.youtube.com/@PyConUS,20200429,1746,2634,47.0,,,People & Blogs,"Presented by:
+Flávio Juvenal da Silva Junior
+
+How to find duplicate records in a dataset without unique identifiers, like the SSN for US citizens? The answer is to use Record Deduplication techniques: look for matches by cleaning and comparing attributes in a fuzzy way. In this talk, you’ll learn with Python examples how to do this without needing any expert Data Science knowledge.
+
+There are several critical applications of Record Deduplication in government and business. For example, by deduping records from Census data, the Australian government was able to find there were 250,000 fewer people in the country than they previously thought. This reduction impacted the estimations of government agencies and even caused the revision of economic projections. Similarly, businesses can use record deduplication techniques to clean up customers’ data. In this talk, you’ll learn with Python examples the main concepts of Record Deduplication: what kinds of problems can be solved, what’s the most common workflow for the process, what algorithms are involved, and which tools and libraries you can use. Although some of the discussed concepts are related to data mining, any intermediate-level Python developer will be able to learn the basics of how to dedupe data using Python.
+
+
+
+
+Talk slides: https://github.com/vintasoftware/deduplication-slides/tree/pycon-2020",https://i.ytimg.com/vi_webp/eMI8lwQl3Dc/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=eMI8lwQl3Dc,https://www.youtube.com/watch?v=eMI8lwQl3Dc
+32,Talk: Hannah Stepanek - Let's talk Databases in Python: SQLAlchemy and Alembic,https://www.youtube.com/watch?v=36yw8VC3KU8,36yw8VC3KU8,PyCon US,@PyConUS,https://www.youtube.com/@PyConUS,20200429,2012,22349,705.0,9.0,,People & Blogs,"Presented by:
+Hannah Stepanek
+
+What’s an ORM? Is there a way to write database queries so that they are compatible with multiple types of databases? How do you make database changes (such as adding a new table or a new column) safely? What is a connection pool and why is it useful? What are some things that can go wrong when operating at scale? Is lazy loading slowing you down? In this talk we’ll take a deep dive into how the Python libraries SQLAlchemy and Alembic make managing production databases simple, efficient, and painless so you can get back to feature development.
+
+
+
+
+Talk slides: http://bit.ly/lets-talk-databases-python",https://i.ytimg.com/vi_webp/36yw8VC3KU8/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=36yw8VC3KU8,https://www.youtube.com/watch?v=36yw8VC3KU8
+33,Talk: Wendi Dreesen - Mixing a Raspberry Pi with Python into a 5th Grade Science Fair Project,https://www.youtube.com/watch?v=YB9aGx5zpto,YB9aGx5zpto,PyCon US,@PyConUS,https://www.youtube.com/@PyConUS,20200429,1983,949,12.0,,,People & Blogs,"Presented by:
+Wendi Dreesen
+
+I am proposing a talk that describes how to get started using a Raspberry Pi with Python. My child wanted to do a science fair project this year using the Raspberry Pi to collect the data. The project was to measure how long marbles would take to travel down different types of tracks: linear and curvy.
+
+In the talk I present a few tips that should help to make a successful project. Then I proceed to describe the project in detail and how we broke it down into steps to get it completed.
+
+
+
+
+Talk resources: https://github.com/wdreesen/rasp_pi_photogate_tracks",https://i.ytimg.com/vi_webp/YB9aGx5zpto/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=YB9aGx5zpto,https://www.youtube.com/watch?v=YB9aGx5zpto
+34,Talk: Rebeca Sarai - Privacy-preserving methods: Building secure projects,https://www.youtube.com/watch?v=jKlJEPSZAYo,jKlJEPSZAYo,PyCon US,@PyConUS,https://www.youtube.com/@PyConUS,20200429,1742,1089,15.0,1.0,,People & Blogs,"Presented by:
+Rebeca Sarai
+
+Customers’ data is important. The number of privacy laws in recent years has grown from 20 to 100, to name a few: PCI compliance in the payment industry, the European GDPR regulation, and the Brazilian LGPD. All these new regulations attempt to bridge an old gap: data anonymity. How to handle data and protect the individuals comprised in it? Companies often face lawsuits to compensate for personal information breaches in their database.
+
+Many times production data is copied onto test, QA or staging environments, only to be followed by exposure to the eyes of testers, receivers, or unauthorized developers on machines less protected than production environments. It is not seldom for files also to be shared with external partners, who often require but a small part of the data transferred, and granting access to user’s data might be a breach. If in one hand sharing data is both necessary and inevitable, on the other technologies that assure the privacy of individuals details are no longer only desirable, but essential.
+
+In this talk, we will approach two important topics: how to manage data whilst securing users’ personal information and how to do it in machine learning models. Exposing different techniques of anonymization and pseudonymization (k-anonymity, differential privacy, and others), showing that solving the anonymity problem is much more complex than replacing names, last names, and social security numbers.
+
+
+
+
+Talk slides: https://drive.google.com/open?id=1cx8zDJsHh6PfQJw5RheIdho3xA37TTi-mP9975VnWHY
+Talk resources: https://github.com/rsarai/security-and-privacy/blob/master/Security%20and%20Privacy.ipynb",https://i.ytimg.com/vi_webp/jKlJEPSZAYo/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=jKlJEPSZAYo,https://www.youtube.com/watch?v=jKlJEPSZAYo
+35,Talk: Terri Oda - Using Python to Detect Vulnerabilities in Binaries,https://www.youtube.com/watch?v=k3fM9KqKfTg,k3fM9KqKfTg,PyCon US,@PyConUS,https://www.youtube.com/@PyConUS,20200429,1415,2283,50.0,,,People & Blogs,"Presented by:
+Terri Oda
+
+Detecting known software vulnerabilities is hard to do perfectly, but it’s easy to get part way there. The CVE Binary Tool is a tool that detects issues in a few components but has grand ambitions. Learn how it works, how to use it & how to improve it so together we can help everyone be more secure.
+
+
+
+
+Talk slides: https://docs.google.com/presentation/d/1ceHAXQ3qeTowpoCyOWAtDvhmLbxVddbCEllac4EJIkY/edit?usp=sharing
+
+Github: https://github.com/intel/cve-bin-tool",https://i.ytimg.com/vi_webp/k3fM9KqKfTg/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=k3fM9KqKfTg,https://www.youtube.com/watch?v=k3fM9KqKfTg
+36,Talk: Reuven M. Lerner - Function dissection lab -- learn how functions,https://www.youtube.com/watch?v=QR9W81P7yTw,QR9W81P7yTw,PyCon US,@PyConUS,https://www.youtube.com/@PyConUS,20200429,1685,4362,188.0,4.0,,People & Blogs,"Presented by:
+Reuven M. Lerner
+
+When you invoke a function, how does it know how many arguments to expect? How does it distinguish between local and global (and enclosing) variables? How does it know that you defined the function with args and/or *kwargs? And where does it store such things as docstrings, annotations, and defaults?
+
+The short answer is that Python functions are objects – no different from integers, strings, and dicts. And like all other bjects,
+functions have attributes. It turns out that those attributes are the source of functions’ power.
+
+In this talk, we’ll peek into function attributes, gaining an understanding of (and appreciation for) the way in which functions are built. We’ll also see the relationship between attributes, functions, and Python bytecodes. And while we’ll be dissecting many functions, I can assure you that none of them will be harmed in our quest for deeper understanding.
+
+
+
+
+Talk resources: http://FunctionDissectionLab.com",https://i.ytimg.com/vi_webp/QR9W81P7yTw/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=QR9W81P7yTw,https://www.youtube.com/watch?v=QR9W81P7yTw
+37,Talk: Neeraj Pandey - The joy of creating art with code,https://www.youtube.com/watch?v=Xjv1G0suPF8,Xjv1G0suPF8,PyCon US,@PyConUS,https://www.youtube.com/@PyConUS,20200429,1908,2017,,,,People & Blogs,"Presented by:
+Neeraj Pandey
+
+Art is everywhere and it’s beautiful. Unleash the creative artist inside you with the beauty of Generative Art. Learn how algorithms are used to create these aesthetic art forms, how motion and structures emit sounds and what toolkits are required to do so. The talk will take the audience to a small history of Generative Art and how autonomously these art forms are created using algorithms with various examples using Processing, PyCario and more.
+
+
+
+
+Talk slides: bit.ly/350H8rF
+Twitter: twitter.com/neerajp99/",https://i.ytimg.com/vi_webp/Xjv1G0suPF8/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=Xjv1G0suPF8,https://www.youtube.com/watch?v=Xjv1G0suPF8
+38,Talk: Maria Jose Molina-Contreras - How to build an intelligent “indoor garden”,https://www.youtube.com/watch?v=8STo1-rRV1E,8STo1-rRV1E,PyCon US,@PyConUS,https://www.youtube.com/@PyConUS,20200429,1708,1534,34.0,,,People & Blogs,"Presented by:
+Maria Jose Molina-Contreras, phD
+
+Most people around the world are getting more and more interested in living a long and healthy life nowadays. And many studies have proven that growing house plants, as long as being a trend, improves health.
+The truth is, we are so busy with work, and even when we get home, that we do not have enough time to properly water our plants when they need it.
+
+In this talk, you are going to learn how to build a functional and beginner friendly system to keep your plants alive using different sensors, microcontrollers and CircuitPython.
+
+This system is going to water your plants based on their necessities and, step by step, you are going to add components and functionalities to the system; for instance, you will give your plants “a voice” to inform you about their deficiencies.
+Moreover, in this project, you will learn how to create a Web application with Flask, how to set up a Raspberry Pi as a local server and how to use a cloud IoT service for Data Analysis.
+
+Finally, you will see how Circuitpython can play an amazing role in these kind of situations, by helping plants to survive longer, and by making our responsibility lighter. This will also help you to understand that it is an excellent choice to start programming hardware and connected devices for everyone!",https://i.ytimg.com/vi_webp/8STo1-rRV1E/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=8STo1-rRV1E,https://www.youtube.com/watch?v=8STo1-rRV1E
+39,Talk: Chris Seto - Big O No: Django ORM runtime complexity and how to avoid it using LATERAL JOINS,https://www.youtube.com/watch?v=GJUL3glrKvA,GJUL3glrKvA,PyCon US,@PyConUS,https://www.youtube.com/@PyConUS,20200429,943,2181,61.0,2.0,,People & Blogs,"Presented by:
+Chris Seto
+
+N+1 queries are as common as blog posts about how to solve them. What happens when you want to get a list of blog posts, the comments on them, and the comments’ respective authors? An exponential number of queries. The rise of GraphQL and REST APIs that provide “include” semantics make these situations increasingly common and painful. Clever use of prefetch_related and select_related may help in a pinch but never fully solve the problem. Learn how to identify these inefficient queries and optimize them using SQL aggregations and LATERAL JOINs.
+
+
+Talk slides: https://docs.google.com/presentation/d/1JtlzTGAwcTiltbo_yvxLmm8fTydvhfK5i-wQ9YmS77I/edit?usp=sharing
+Talk resources:
+- Companion Repo: https://github.com/chrisseto/pycon2020-big-o-no
+- Mentioned Library: https://github.com/chrisseto/django-include",https://i.ytimg.com/vi_webp/GJUL3glrKvA/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=GJUL3glrKvA,https://www.youtube.com/watch?v=GJUL3glrKvA
+40,Talk: Catherine Nelson - Practical privacy-preserving machine learning in Python,https://www.youtube.com/watch?v=NUk6QN02UxQ,NUk6QN02UxQ,PyCon US,@PyConUS,https://www.youtube.com/@PyConUS,20200429,1145,1679,27.0,,,People & Blogs,"Presented by:
+Catherine Nelson
+
+Machine learning is hungry for data, usually collected from users of a product and often including a lot of personal or sensitive information. What if we could build accurate machine learning models while still preserving user privacy? There’s a growing number of tools in Python to help us achieve this, ranging from federated learning, where a user’s data remains on their own device, to algorithms for training models on encrypted data. In this talk, I’ll tour the landscape of these tools and review what works, what doesn’t work, and where they fit in a machine learning pipeline.
+
+Data privacy is a huge concern for everyone in tech these days, thanks to both legislation such as the GDPR, and user opinions driven by scandals in the media. Machine learning is at the forefront of this because it’s hungry for large amounts of training data, but it’s also an area where there’s lots of research on developing solutions that protect user privacy.
+
+When I started learning about privacy-preserving machine learning, I found a bewildering number of research papers, introducing some really cool solutions, but very little practical advice on how to apply them in a real-world situation. This is the talk I wish I could have attended at the start of my learning journey! I’ll review the landscape of Python solutions for privacy-preserving ML and show how they fit into a machine learning pipeline. I’ll explain the tradeoffs of each method and also talk a little about the ethics of using personal data for training ML models. Tools and packages covered will include TensorFlow Privacy, TensorFlow Encrypted and PySyft.
+
+
+
+
+Talk slides: https://github.com/drcat101/pycon-2020-privacy",https://i.ytimg.com/vi_webp/NUk6QN02UxQ/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=NUk6QN02UxQ,https://www.youtube.com/watch?v=NUk6QN02UxQ
+41,Talk: Pratyush Das - Python in High Energy Physics,https://www.youtube.com/watch?v=jClVsR6XfdI,jClVsR6XfdI,PyCon US,@PyConUS,https://www.youtube.com/@PyConUS,20200429,1830,2844,60.0,2.0,,People & Blogs,"Presented by:
+Pratyush Das
+
+High Energy Physics is the study of the most fundamental constituents of matter and how these elementary particles interact. Often synonymous to Particle Physics, High Energy Physics seeks to find the secrets of the Universe, one of the recent major discoveries being that of the Higgs Boson that confirmed the Standard Model that dictates how all the forces in the Universe interact with each other. High Energy Physics is probably the physics sub-field that has adopted Python most rapidly, only second to Astrophysics.
+
+The talk starts with a look at how computing has looked like in the field of High Energy Physics in the past and how a lot of physicists played major roles in the development of Computer Science. It then explores the emergence of Python as the language of choice for several physicists and two of the major libraries that have been vital to the adoption of Python in the High Energy Physics community - cppyy and uproot. These are especially important since they demonstrate the different ways one could approach shifting the High Energy Physics community from C++ to Python successfully. The talk will focus on a review of where and how Python is used in the High Energy Physics community and how it is slated to look like in the future.
+
+High Energy Physics has its own python toolkit, scikit-hep which comes with a set of python libraries for use by physicists. The Scikit-HEP project is a community-driven and community-oriented project with the aim of providing Particle Physics at large with an ecosystem for data analysis in Python. It is also about improving the interoperability between High Energy Physics tools and the scientific ecosystem in Python.
+
+This year is ideal for this particular talk, being the year when according to some available data, Python usage trumps C++ usage in several High Energy Physics experiments at CERN - as some physicists have dubbed it, this is the year of Python in High Energy Physics.",https://i.ytimg.com/vi_webp/jClVsR6XfdI/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=jClVsR6XfdI,https://www.youtube.com/watch?v=jClVsR6XfdI
+42,Talk: Aly Sivji - If Statements are a Code Smell,https://www.youtube.com/watch?v=P0kfKqMHioQ,P0kfKqMHioQ,PyCon US,@PyConUS,https://www.youtube.com/@PyConUS,20200429,1837,13700,383.0,10.0,,People & Blogs,"Presented by:
+Aly Sivji
+
+if statements are elements of a programming language that allow us to control what statements are executed. By chaining together a series of if statements, we can solve any problem we can think of. But code with too many if statements is hard to read and even harder to change. Workarounds that once allowed us to move fast, now get in the way when we go in to make modifications. It doesn’t have to be this way!
+
+This talk demonstrates HOWTO handle complex conditional logic with simple Python classes. The material will be presented in the context of a code refactor for an open-source project: we examine the initial solution featuring duplicate if statements, show how hard it is to make a change, and walk through the process of refactoring if blocks into polymorphic classes. The case study has been simplified to illustrate concepts you can apply to your own code.
+
+After this talk, you will be able to identify situations where an object-oriented solution can be used to improve software design. You will also be exposed to tradeoffs we need to think about before refactoring to higher-level abstractions.
+
+
+
+
+Talk slides: http://bit.ly/code-smell-if-statements
+Talk resources:: https://github.com/alysivji/talks/",https://i.ytimg.com/vi_webp/P0kfKqMHioQ/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=P0kfKqMHioQ,https://www.youtube.com/watch?v=P0kfKqMHioQ
+43,Talk: Shreya Khurana - How multilingual is your NLP model?,https://www.youtube.com/watch?v=hYZQaTeowHQ,hYZQaTeowHQ,PyCon US,@PyConUS,https://www.youtube.com/@PyConUS,20200429,2709,1215,26.0,,,People & Blogs,"Presented by:
+Shreya Khurana
+
+Natural language is constantly evolving. With social media having its own language and interactions becoming more global, NLP models need more than just monolingual corpora to understand and make sense of all this data. Roughly, 50% of the world speaks two or more languages. This comes as a challenge to NL systems because conventional models are trained to understand one language or only translate from one to the other. In this talk, we’ll focus on Natural Language Understanding (NLU) for small multilingual texts.
+
+A key step in building NLU systems is language identification. First, we’ll give an introduction to existing frameworks for this task in Python like cld3, langid, langdetect and will also have a short discussion on their shortcomings.
+
+Another area of concern is transliterated and code-switched text, which consists a combination of two or more structurally different grammars and vocabulary. This type of data can be clearly seen in Tweets and comments on Facebook as well as product reviews. What makes this problem very challenging is the lack of annotated datasets and the added noise of having no “correct” grammar and spelling. We discuss the approaches to solve this using web crawlers and self-generated datasets.
+
+The next section of this talk will be on using the multilingual BERT model released by Google, which is trained in 104 languages. We’ll see some examples of how this model performs when given text pieces in different languages. In the final section, we’ll discuss how to evaluate the model for different tasks.
+
+
+
+
+Talk resources: https://github.com/ShreyaKhurana/pycon/",https://i.ytimg.com/vi_webp/hYZQaTeowHQ/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=hYZQaTeowHQ,https://www.youtube.com/watch?v=hYZQaTeowHQ
+44,Talk: Manojit Nandi - The Limitations and Danger of Facial Recognition,https://www.youtube.com/watch?v=OS63Er80KJc,OS63Er80KJc,PyCon US,@PyConUS,https://www.youtube.com/@PyConUS,20200429,1636,513,8.0,1.0,,People & Blogs,"Presented by:
+Manojit Nandi
+
+Biometric scanners, such as face recognition technology, have seen widespread adoption in applications, such as identifying suspected criminals, analyzing candidate’s facial expressions during job interviews, and monitoring attendance at schools.
+
+As these technologies have become more pervasive, many organizations have raised potential concerns about the way these technologies schematize faces. Studies have shown commercial face recognition software has noticeably lower accuracy on darker-skinned individuals, and automatic gender recognition systems regularly misgender trans and non-binary individuals.
+
+In addition, many scholars have written about the rise of techno-surveillance and looming threat of constant government tracking of citizens. In this talk, I will discuss these issues, and what we as technologists do to prevent building software that enables harm upon vulnerable populations.
+
+
+
+
+Talk slides: https://speakerdeck.com/lejit/the-limitations-and-dangers-of-facial-recognition",https://i.ytimg.com/vi_webp/OS63Er80KJc/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=OS63Er80KJc,https://www.youtube.com/watch?v=OS63Er80KJc
+45,Talk: Emmanuelle Gouillart - Building interactive applications for image data,https://www.youtube.com/watch?v=fnNUMKH6TWI,fnNUMKH6TWI,PyCon US,@PyConUS,https://www.youtube.com/@PyConUS,20200429,1734,1382,16.0,,,People & Blogs,"Presented by:
+Emmanuelle Gouillart
+
+Images are an important class of data in science or business. Tasks such as quantification of organ geometry in medical imaging, or construction of training sets and pipelines for machine learning models, typically rely on a combination of interactive user annotations and image processing algorithms. In this talk I will present several open-source Python packages for interactive image processing, and how to combine them for advanced applications.
+
+Dash is an open-source framework for building interactive analytical web applications in pure Python (or R). It comes with a set of interactive components which are the bricks from which to build easily custom analytical applications, such as figures using the plotly visualization library, interactive data tables, dropdowns, sliders, etc. These components interact together thanks to callbacks fired when a component is modified. After a demo of how to build an application with Dash, I will show how to interact with image data within Dash for exploring image characteristics or annotating images with various kinds of shapes (from rectangular bounding-box selection to freehand-brush painting of objects).
+
+In addition, Dash applications can make use of Python data-science packages in order to use advanced algorithms to process user-provided annotations. I will focus mostly on scikit-image, and briefly mention machine learning / deep learning tools as well. scikit-image is a popular library for processing 2D and 3D images as Numpy numerical arrays, with a focus on scientific imaging and pedagogical example-based documentation. I will show how to use scikit-image for various image processing tasks, from basic preprocessing (e.g. normalizing image geometry or exposure) to advanced object segmentation tasks. I will finally show how combining scikit-image and Dash can result in advanced image processing applications, which can be written quickly thanks to simple APIs and thorough documentation.",https://i.ytimg.com/vi_webp/fnNUMKH6TWI/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=fnNUMKH6TWI,https://www.youtube.com/watch?v=fnNUMKH6TWI
+46,Talk: Igor T. Ghisi - Write Less and Test More with Data Regression Testing,https://www.youtube.com/watch?v=YBuVGx3EYSY,YBuVGx3EYSY,PyCon US,@PyConUS,https://www.youtube.com/@PyConUS,20200429,1897,5080,124.0,4.0,,People & Blogs,"Presented by:
+Igor T. Ghisi
+
+As data structures of a project increases in size and complexity, it becomes harder and harder to preserve test completeness. Testing objects with dozens of attributes and arrays with hundreds of values could turn into a laborious task. Often, programmers let these kind of data partially tested, especially if the required code coverage was already achieved.
+
+In this talk we’ll show how to increase test completeness for data structures by applying data regression testing. We’ll be presenting pytest-regressions, a pytest plugin that helps to test datasets and objects by automatically serializing expected data on disk and later checking test results against it. We’ll also show how pytest-regressions make it easier to inspect test data and debug failing tests. The talk will demonstrate examples of data regression being applied to numerical algorithms, web APIs, Flask views and SQLAlchemy models.
+
+
+
+
+Talk slides and resources: https://github.com/igortg/pycon2020-pytest-regressions",https://i.ytimg.com/vi_webp/YBuVGx3EYSY/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=YBuVGx3EYSY,https://www.youtube.com/watch?v=YBuVGx3EYSY
+47,Talk: James Bennett - A 🐍's guide to Unicode,https://www.youtube.com/watch?v=olhKTHFYNxA,olhKTHFYNxA,PyCon US,@PyConUS,https://www.youtube.com/@PyConUS,20200429,2664,2846,90.0,4.0,,People & Blogs,"Presented by:
+James Bennett
+
+Unicode can seem like a scary topic, especially since people so often talk about it as a horrendously complex thing programmers should be afraid of 😱. But while Unicode does have some complexity, it doesn’t have to be scary! So this talk will demystify it: you’ll get to wave hello 👋 to Unicode, learn what it really is, how it works, and tips for how you can ❤️ Unicode in 🐍.",https://i.ytimg.com/vi_webp/olhKTHFYNxA/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=olhKTHFYNxA,https://www.youtube.com/watch?v=olhKTHFYNxA
+48,"Talk: Nina Zakharenko - Goodbye Print, Hello Debugger!",https://www.youtube.com/watch?v=5AYIe-3cD-s,5AYIe-3cD-s,PyCon US,@PyConUS,https://www.youtube.com/@PyConUS,20200429,1681,19072,722.0,11.0,,People & Blogs,"Presented by:
+Nina Zakharenko
+
+Still debugging your code with print? Learn how to level up your ability to troubleshoot complex code situations by using the power of a fully-featured debugger in this talk aimed at all levels of programming ability.
+
+Debuggers allow you to examine your program state, watch as the values of important variables change, and even modify the content of variables on the fly. Once I gave up using print to debug, my productivity as a programmer increased, and yours can too!
+
+I’ll showcase the variety of debugger tools available - from pdb, the simplest command line debugger that’s part of the standard library, to fancy graphical debuggers available in Python IDEs. Join me as we walk through real code together using debugger tools in a hands-on way to help us diagnose problems and bugs. The skills you’ll learn in this talk will allow you to quickly use these tools in your own code bases for fun, school, or work.
+
+Slides:  https://nina.to/pycon2020",https://i.ytimg.com/vi_webp/5AYIe-3cD-s/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=5AYIe-3cD-s,https://www.youtube.com/watch?v=5AYIe-3cD-s
+49,"Talk: Alexandra Sunderland - From 0 to 60 in 2,592,000 seconds",https://www.youtube.com/watch?v=9c0ksQKizts,9c0ksQKizts,PyCon US,@PyConUS,https://www.youtube.com/@PyConUS,20200506,1286,1416,28.0,2.0,,People & Blogs,"Presented by:
+Alexandra Sunderland
+
+When anyone starts on a new team, there’s a ramp-up period where a ton of knowledge is transferred: there are new processes, names, tools, frameworks, and so many other different details to remember. Meanwhile, critical new relationships are started, and lasting impressions are formed. New team members that don’t get to follow a defined process during this time are at risk of not receiving all the information they need to be effective fast, and of not feeling valued by their team.
+
+As an engineer that loves a good repeatable process, I decided that I’d like to make onboarding engineers a task that is both effective and scalable. If you’re bringing on one new engineer or fifty to your project, having a formalized process in place ensures that they can get up to speed on your project quickly, and receive a fair start on the team.
+
+Whether you’re a manager, a lead, or a developer eager to help out, you’ll learn how to create your own exceptional onboarding process, and hear about my own onboarding failures and eventual success.",https://i.ytimg.com/vi_webp/9c0ksQKizts/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=9c0ksQKizts,https://www.youtube.com/watch?v=9c0ksQKizts
+50,Talk: Brian K Okken - Multiply your Testing Effectiveness with Parameterized Testing,https://www.youtube.com/watch?v=2R1HELARjUk,2R1HELARjUk,PyCon US,@PyConUS,https://www.youtube.com/@PyConUS,20200506,1267,6810,,6.0,,People & Blogs,"Presented by:
+Brian K Okken
+
+Parametrization is one of the superpowers of pytest. It allows you to cover a huge number of test cases with a single test function. This speeds up test writing and makes test maintenance easier. This talk is a medium depth dive into pytest parametrization, with techniques you can use right away.
+
+This talk will use of code examples, starting with a simple test then demonstrating 3 methods of parametrization, as well as test case identifiers and using generators.
+
+Slides, code, resources all listed at https://github.com/okken/talks/tree/master/2020/pycon_2020",https://i.ytimg.com/vi_webp/2R1HELARjUk/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=2R1HELARjUk,https://www.youtube.com/watch?v=2R1HELARjUk
+51,Talk: Tania Allard - Docker and Python: making them play nicely and securely for Data Science and ML,https://www.youtube.com/watch?v=Jq68axbKIbg,Jq68axbKIbg,PyCon US,@PyConUS,https://www.youtube.com/@PyConUS,20200506,2387,7743,148.0,1.0,,People & Blogs,"Presented by:
+Tania Allard
+
+Docker has become a standard tool for developers around the world to deploy applications in a reproducible and robust manner. The existence of Docker and Docker compose have reduced the time needed to set up new software and implementing complex technology stacks for our applications.
+Now, six years after the initial release of Docker, we can say with confidence that containers and containers orchestration have become some of the defaults in the current technology stacks.
+
+There are thousands of tutorials and getting started documents for those wanting to adopt Docker for apps deployment. However, if you are a Data Scientist, a researcher or someone working on scientific computing wanting to adopt Docker, the story is quite different. There are very few tutorials (in comparison to app/web) and documents focused on Docker best practices focusing on DS and scientific computing. If you are working on DS, ML or scientific computing, this talk is for you. We’ll cover best practices when building Docker containers for data-intensive applications, from optimising your image build, to ensuring your containers are secure and efficient deployment workflows.
+
+Attendees will leave the talk feeling confident about adopting Docker across a range of DS, ML and research projects.
+
+Slides: https://drive.google.com/drive/folders/1MJzdZwrqh3nnvb8mmOMCDzt1vTVsFABN?usp=sharing",https://i.ytimg.com/vi_webp/Jq68axbKIbg/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=Jq68axbKIbg,https://www.youtube.com/watch?v=Jq68axbKIbg
+52,Talk: Kim-Adeline Miguel - Decoding bias and narrative in competitive video games,https://www.youtube.com/watch?v=0HzbyQPKW9E,0HzbyQPKW9E,PyCon US,@PyConUS,https://www.youtube.com/@PyConUS,20200506,2091,873,29.0,,,People & Blogs,"Presented by:
+Kim-Adeline Miguel
+
+With video game competitions (also known as eSports) being broadcast on online streams and regular TV stations, in-game video producers have to balance between making the game accessible to casual viewers, and packing enough action on screen to keep regular players interested.
+
+What they choose to show on screen also define the narratives surrounding the competing teams, building hype around them and setting implicit expectations (for example what character class is shown the most).
+
+In this talk we will walk through video analysis of professional Overwatch games to extract data, explore and validate a few hypotheses on what eSports broadcasters think viewers want to see.",https://i.ytimg.com/vi_webp/0HzbyQPKW9E/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=0HzbyQPKW9E,https://www.youtube.com/watch?v=0HzbyQPKW9E
+53,Talk: Anthony Shaw - Why is Python slow?,https://www.youtube.com/watch?v=I4nkgJdVZFA,I4nkgJdVZFA,PyCon US,@PyConUS,https://www.youtube.com/@PyConUS,20200513,1972,22357,684.0,13.0,,People & Blogs,"Presented by:
+Anthony Shaw
+
+When Python completes a comparable application 2–10x slower than another language, why is it slow, and can’t we make it faster?
+In this talk, we’re going to explore different theories to understand what makes Python slow, what tasks it’s fast at executing, and how you can make it faster.
+Then, finally, we’ll explore what is coming in future versions of Python that might speed it up once and for all.",https://i.ytimg.com/vi_webp/I4nkgJdVZFA/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=I4nkgJdVZFA,https://www.youtube.com/watch?v=I4nkgJdVZFA
+54,Talk: Calvin Hendryx-Parker - Finite State Machine (FSM) in Django,https://www.youtube.com/watch?v=nG_ZsNxRz0o,nG_ZsNxRz0o,PyCon US,@PyConUS,https://www.youtube.com/@PyConUS,20200513,1929,4151,122.0,1.0,,People & Blogs,"Presented by:
+Calvin Hendryx-Parker
+
+Workflows are super powerful tools for automating business processes online. Our everyday life is full of workflows such as requesting time off from work. Many of these are actually Finite State Machines that move from state to state via transitions. Popular CMS’ such as Plone have rich support for workflows, but now with django-fsm we can build quick, lightweight business workflows for our applications. Plus, we have full audit logging and even build visualizations of our workflow to confirm with the business owners generated from the code.",https://i.ytimg.com/vi_webp/nG_ZsNxRz0o/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=nG_ZsNxRz0o,https://www.youtube.com/watch?v=nG_ZsNxRz0o
+55,"Talk: Eric J. Ma - A careful walk through probability distributions, using Python",https://www.youtube.com/watch?v=G7SIcvWrAKs,G7SIcvWrAKs,PyCon US,@PyConUS,https://www.youtube.com/@PyConUS,20200513,1154,4027,155.0,2.0,,People & Blogs,"Presented by:
+Eric J. Ma
+
+In this talk, we will do more than just a random walk through probability. In particular, by using Python code as an anchor, we will explore what a probability distribution as an “object” is, especially in a modelling context. By the end of this talk, probability distributions, sampling (or generating data) from a probability distribution, and the basic terms of joint, conditional and marginal distributions, should be demystified for you, and you should leave with a solid working knowledge of probability to go further and deeper with Bayesian statistics beyond PyCon!
+
+App location: http://python-prob.ericmjl.com/
+SciPy Stats Module: https://docs.scipy.org/doc/scipy/reference/stats.html
+
+Newsletter: https://tinyletter.com/ericmjl
+Patreon: https://patreon.com/ericmjl
+Eric's personal site: https://ericmjl.github.io/",https://i.ytimg.com/vi_webp/G7SIcvWrAKs/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=G7SIcvWrAKs,https://www.youtube.com/watch?v=G7SIcvWrAKs
+56,"Talk: Javier Jorge Cano - “Sorry, Could you repeat that again?” - Speech Recognition with Python",https://www.youtube.com/watch?v=D9i1lwC-3ZA,D9i1lwC-3ZA,PyCon US,@PyConUS,https://www.youtube.com/@PyConUS,20200513,1874,1142,19.0,2.0,,People & Blogs,"Presented by:
+Javier Jorge Cano
+
+Nowadays, we are surrounded by devices that can listen to us: Alexa, Siri, Cortana, etc, and the interaction with them has become easier and easier, and more intuitive. The first challenge to communicate in a colloquial way with all these devices is to convert the voice signal to text. To do this, several approaches based on searching methods, algorithmic techniques, and machine learning are combined in very smart and interesting ways.
+
+In this talk, I will introduce the underneath speech recognition systems that these devices utilize. This will be illustrated with a guided example where we will develop a system to recognize isolated words in Python.
+
+Finally, I will show how we are implementing these and more advanced techniques in our production systems, providing transcriptions for different companies and institutions, using Python in different parts of the process.
+
+Slides:
+https://drive.google.com/drive/folders/109zntIEpvth370iOZAr9-IiBvPHc1UB7?usp=sharing",https://i.ytimg.com/vi_webp/D9i1lwC-3ZA/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=D9i1lwC-3ZA,https://www.youtube.com/watch?v=D9i1lwC-3ZA
+57,Talk: Robson Luis Monteiro Junior - Polyglot data with python: Introducing Pandas and Apache Arrow,https://www.youtube.com/watch?v=yWR97VkLIzE,yWR97VkLIzE,PyCon US,@PyConUS,https://www.youtube.com/@PyConUS,20200513,1462,1345,,,,People & Blogs,"Presented by:
+Robson Luis Monteiro Junior
+
+Nowadays Python is synonymous of data, but not necessarily the best choice for some data tasks. For example, exchange data between different ecosystems is one of the challenges for Python. Pandas and NumPy are very efficient and de facto tools to deal with a reasonable amount of data with performance, but they are limited outside of the Python ecosystem. Acquire and exchange data might be painful due to the problem to write slow conversion code or generated unnecessary large files to talk with other ecosystems, likes large CSV files. Apache Arrow playing with Pandas is a great option as technologies that handle these problems with an excellent performance playing natively with Python. This talk aims to show how to work in a heterogeneous environment with data coming from another ecosystem, be handled inside the Python ecosystem and send back to another ecosystem transparently.",https://i.ytimg.com/vi_webp/yWR97VkLIzE/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=yWR97VkLIzE,https://www.youtube.com/watch?v=yWR97VkLIzE
+58,Talk: Daniel Imberman - Bridging Data Science and Data Infrastructure with Apache Airflow,https://www.youtube.com/watch?v=zd_hWkOU-V0,zd_hWkOU-V0,PyCon US,@PyConUS,https://www.youtube.com/@PyConUS,20200513,951,3286,,,,People & Blogs,"Presented by:
+Daniel Imberman
+
+When supporting a data science team, data engineers are tasked with building a platform that keeps a wide range of stakeholders happy. Data scientists want rapid iteration, infrastructure engineers want monitoring and security controls, and product owners want their solutions deployed in time for quarterly reports. Collaboration between these stakeholders can be difficult, as every data science pipeline has a unique set of constraints and system requirements (compute resources, network connectivity, etc). For these reasons, data engineers strive to give their data scientists as much flexibility as possible, while maintaining an observable and resilient infrastructure.
+
+In recent years, Apache Airflow (a Python-based task orchestrator developed at Airbnb) has gained popularity as a collaborative platform between data-centric Pythonistas, and infrastructure engineers looking to spare their users from verbose and rigid yaml files. Apache Airflow exposes a flexible pythonic interface that can be used as a collaboration point between data engineers and data scientists. Data engineers can build custom operators that abstract details of the underlying system and data scientists can use those operators (and many more) to build a diverse range of data pipelines.
+
+For this 30 minute talk, we will take an idea from a single-machine Jupyter Notebook to a cross-service Spark + Tensorflow pipeline, to a canary tested, hyper-parameter-tuned, production-ready model served on Google Cloud Functions. We will show how Apache Airflow can connect all layers of a data team to deliver rapid results.",https://i.ytimg.com/vi_webp/zd_hWkOU-V0/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=zd_hWkOU-V0,https://www.youtube.com/watch?v=zd_hWkOU-V0
+59,Talk: Matthew Rocklin - Deploying Python at Scale with Dask,https://www.youtube.com/watch?v=deX0GlW4uew,deX0GlW4uew,PyCon US,@PyConUS,https://www.youtube.com/@PyConUS,20200513,1488,4314,79.0,,,People & Blogs,"Presented by:
+Matthew Rocklin
+
+This talk discusses the challenges and options to scale Python with Dask on distributed hardware. We particularly focus on how Dask gets deployed on cluster resource managers like Kubernetes, Yarn, and the cloud today.
+
+The Python data science stack (Numpy, Pandas, Scikit-Learn and others) has become the gold standard in most data centric fields due to a combination of intuitive high level APIs and efficient low-level code. However, these libraries were not originally designed to scale beyond a single CPU or data that fits in memory. Over the last few years the Dask library has worked with these libraries to provide scalable variants, which do run on multi-core workstations or on distributed clusters. This has allowed advanced users the ability to scale Python to handle 100+TB datasets.
+
+However, deploying Dask within an institution remains a challenge. How do we balance load across many machines? How do we share with other distributed systems running on those same machines? How do we control access and provide authentication and security? As more institutions adopt Python to handle scalable computation these questions arise with greater urgency. This talk discusses the options today to deploy Dask securly within an institution on distributed hardware, and dives into some examples where this has had a large positive social impact.",https://i.ytimg.com/vi_webp/deX0GlW4uew/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=deX0GlW4uew,https://www.youtube.com/watch?v=deX0GlW4uew
+60,Talk: Colin Carroll - Getting started with automatic differentiation,https://www.youtube.com/watch?v=NG21KWZSiok,NG21KWZSiok,PyCon US,@PyConUS,https://www.youtube.com/@PyConUS,20200514,1157,5916,160.0,4.0,,People & Blogs,"Presented by:
+Colin Carroll
+
+The derivative is a concept from calculus which gives you the rate of change of a function: for a small change in an input, how much does the output change? This idea turns out to be very important in natural sciences, and is used in many optimization algorithms, which find the maximum or minimum of functions.
+
+Automatic differentiation is a technique for computing the derivative of a function. Python has a number of libraries implementing automatic differentiation, many of which are put to use for deep learning, but can be used on their own.
+
+In this talk I will give intuition for the derivative and its high dimensional sibling, the gradient. We will take a tour of applications, including optimization and computational art, with examples using jax, TensorFlow, and PyTorch. We conclude with a brief description of alternative ways of computing derivatives in Python, and their relative strengths.",https://i.ytimg.com/vi_webp/NG21KWZSiok/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=NG21KWZSiok,https://www.youtube.com/watch?v=NG21KWZSiok
+61,Sponsor Workshop: Google: Charles Engelke - Serverless Python Applications with Google Cloud,https://www.youtube.com/watch?v=4bjX9iKqpXA,4bjX9iKqpXA,PyCon US,@PyConUS,https://www.youtube.com/@PyConUS,20200422,7478,2100,31.0,2.0,,People & Blogs,"Presented by:
+Charles Engelke
+
+You know how to program in Python. Now learn how to apply that skill to building distributed serverless applications in the cloud. You won’t write just one program, you’ll create several and connect them through a shared database, network requests, message queues, or triggering events. This is a hands-on workshop–bring your own PC and leave having built and deployed a significant cloud application. You’ll see not only how to use different cloud services to run your code, but why you would choose each one for an application’s specific needs. The workshop uses Google Cloud Platform services, including Cloud Functions, Cloud Run, App Engine, Firestore, PubSub, and Identity-Aware Proxy, but the concepts covered can be applied to any major cloud platform.
+
+Additional materials (slides, source code, codelabs, email addresses) available at https://serverlessworkshop.dev/",https://i.ytimg.com/vi_webp/4bjX9iKqpXA/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=4bjX9iKqpXA,https://www.youtube.com/watch?v=4bjX9iKqpXA
+62,Easy Data Processing With Azure Fun -Tania Allard - Sponsor Workshop: Microsoft,https://www.youtube.com/watch?v=PV7iy6FPjAY,PV7iy6FPjAY,PyCon US,@PyConUS,https://www.youtube.com/@PyConUS,20200429,3411,2614,34.0,,"pycon2020,python,azure,serverless,data processing,data pipelines,VSCode,Azure functions,FaaS,machine learning,Blob Storage,SendGrid",People & Blogs,"Serverless or Function as a Service (FaaS) enables you to focus more on your code while making it easier to deploy your applications. FaaS can be great tools to perform data processing scenarios. Azure functions allow you to leverage Azure's robust, managed, and scalable cloud computing platform. In this workshop, Tania Allard will teach you how you can get started with Azure functions and Python for data processing scenarios.
+ 
+✨ Check the tutorial at https://aka.ms/pycon2020-azurefunctions
+✨ Slides: https://aka.ms/pycon2020-azurefunctions-slides
+✨ GitHub repository https://github.com/trallard/pycon2020-azure-functions
+ 
+🐍 PyCon schedule description: https://us.pycon.org/2020/schedule/presentation/230/",https://i.ytimg.com/vi_webp/PV7iy6FPjAY/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=PV7iy6FPjAY,https://www.youtube.com/watch?v=PV7iy6FPjAY
+63,Sponsor Workshop: Louise Grandjonc - Optimize Python & Django apps with Postgres superpowers,https://www.youtube.com/watch?v=dyBLGjCQJHs,dyBLGjCQJHs,PyCon US,@PyConUS,https://www.youtube.com/@PyConUS,20200429,2571,3502,118.0,1.0,"django performance,python,optimizing python,pycon2020,postgres,postgresql,pg_stat_statements,azure,pagination,citusdata,citus extension,microsoft,louisemeta,postgres superpowers,django-debug-toolbar,postgres logs",People & Blogs,"Building Django apps that perform well & scale can be a challenge. In this video, you will learn Postgres superpowers to help optimize performance of Python and Django apps, using a sample Django application which runs on Azure Database for PostgreSQL.
+ 
+This talk walks through how to tackle the most common pain point: slow queries. You’ll dive into the Django ORM to identify performance bottlenecks, and we’ll analyze both Python and SQL code. We’ll explore the usefulness of pg_stat_statements, django-debug-toolbar, Postgres logs, keyset pagination—as well as Query Performance Insight and Performance Recommendations on Azure. You’ll learn how to eradicate loops in your code (this is important); how to limit what you select; and how to scale out Postgres horizontally using Hyperscale (Citus) on Azure Database for PostgreSQL, in a way that is transparent to your app and does not require any re-architecture.
+ 
+Just like chocolate and peanut butter go better together, so do Python and Postgres. These Postgres optimization techniques (what I call “superpowers”) will empower you to improve the performance of your Python and Django apps. (Also featuring fish I hand-painted many years ago, before I became a Django and Postgres developer.)
+
+#Python #PostgreSQL #Django
+ 
+✅ More demos, workshops, and labs from our PyCon 2020 team:
+https://aka.ms/pycon2020 
+ 
+✅ Hyperscale (Citus) Quickstart Docs:
+https://aka.ms/hyperscale-citus-quickstart
+ 
+✅ GitHub repo for Citus open source extension to Postgres:
+https://aka.ms/citus
+ 
+✅ Slides for this PyCon talk on Optimizing your Django & Python apps with Postgres superpowers:
+https://aka.ms/optimize-django-postgres-superpowers-slides
+ 
+✅ Talk on Debugging, “When it all goes Wrong (with Postgres)”
+https://aka.ms/all-goes-wrong-PG-talk
+ 
+✅ Louise Grandjonc’s DjangoCon talk on Postgres Index Types:
+https://aka.ms/django-PG-index-talk
+ 
+✅ GitHub repo for Django Ad Application used in this video:
+https://aka.ms/django-PG-ad-app
+ 
+✅ Join Citus monthly technical newsletter, made with love by the Postgres team at Microsoft:
+https://aka.ms/citus-newsletter",https://i.ytimg.com/vi_webp/dyBLGjCQJHs/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=dyBLGjCQJHs,https://www.youtube.com/watch?v=dyBLGjCQJHs
+64,Sponsor Workshop: Mark Ibrahim - Facebook: Machine Learning on Encrypted Data with CrypTen,https://www.youtube.com/watch?v=CLunSEdSDaA,CLunSEdSDaA,PyCon US,@PyConUS,https://www.youtube.com/@PyConUS,20200429,1558,1327,30.0,,,People & Blogs,"Presented by:
+Mark Ibrahim
+
+CrypTen is a machine learning framework built on PyTorch that enables you to easily study and develop machine learning models using secure computing techniques. CrypTen allows you to develop models with the PyTorch API while performing computations on encrypted data – without revealing the protected information. Different parties can contribute information to the model or measurement without revealing what they contributed.
+
+In this workshop, we will teach participants how to use CrypTen using interactive notebooks - participants should bring a laptop with Jupyter notebook installed. We will work through four common use scenarios for privacy preserving machine learning using secure multiparty computation to allow learning without sharing data:
+- Feature Aggregation: multiple parties hold distinct sets of features, and want to perform computations over the joint feature set.
+- Data Labeling: one party holds feature data while another party holds corresponding labels, and they would like to learn a relationship between the features and labels.
+- Dataset Augmentation: several parties each hold a small number of observations, and would like to use all the observations in order to improve the statistical power of a measurement or model.
+- Model Hiding: one party has access to a trained model, while another party would like to apply that model to its own data.
+
+What we’ll cover:
+- Installation / Setup (20 min)
+- Machine Learning and CrypTen (10 min)
+- Secure Multiparty Compute and Tensors in CrypTen (15 min)
+- Training a Machine Learning Model on Encrypted Data (45 min)
+
+
+
+
+Tutorial slides: https://github.com/facebookresearch/CrypTen",https://i.ytimg.com/vi_webp/CLunSEdSDaA/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=CLunSEdSDaA,https://www.youtube.com/watch?v=CLunSEdSDaA
+65,Sponsor Workshop: Capital One: Steven Lott - Type Hints: Putting more Buzz in your Fizz,https://www.youtube.com/watch?v=udVRTBm_-q0,udVRTBm_-q0,PyCon US,@PyConUS,https://www.youtube.com/@PyConUS,20200506,2193,1696,40.0,1.0,,People & Blogs,"Presented by:
+Steven Lott
+
+Since PEP 484 in 2014, type hints and the mypy tool have become an important part of the Python ecosystem. Type hints provide an incremental way to add information to the Python source, which can be checked by external tools like mypy and some IDE environments like PyCharm. Type hint checking can be part of a CI/CD pipeline to provide confidence that the code is likely to behave properly at run-time. Python’s Duck-Typing approach can lead to working code that is hard to describe with available type hints.
+
+This tutorial expects hands-on participation with a large number of small examples. It will start with some simple cases of type hints. We’ll look at complex data structures and ways to factor the complexity out of the type hints. We’ll look at circular type references, common on problems where graphs are represented. The techniques for “debugging” type hints will focus on exposing the mypy reasons about the source code.
+
+We’ll look at two very easy and useful ways to incorporate type hints into class definitions using the typing.NamedTuple class and the @dataclass decorator. We’ll also look at situations where the type: ignore comment can be appropriate. Another important topic will touch on how we can write a stub for a library where the code doesn’t have type hints.",https://i.ytimg.com/vi_webp/udVRTBm_-q0/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=udVRTBm_-q0,https://www.youtube.com/watch?v=udVRTBm_-q0
+66,Sponsor Workshop: Heroku - Casey Faist: From Project to Productionized on Heroku,https://www.youtube.com/watch?v=1923eduj0Gg,1923eduj0Gg,PyCon US,@PyConUS,https://www.youtube.com/@PyConUS,20200506,2141,1618,43.0,1.0,,People & Blogs,"Presented by:
+Casey Faist
+
+In this workshop, we will take a Django application from development to ready for deployment on Heroku. We’ll talk about 12 Factor Django apps and why you’d want one, then work through the configuration updates you’ll need to make your application robust and Heroku ready. We’ll take a quick tour of your Heroku Dashboard. We’ll add some human complexity and talk about how to collaborate with others and how to control and share access on Heroku, and then some debugging tips along the way. You’ll leave with everything you need to hit the ground running with Django on Heroku.
+
+heroku.com/python
+
+Prerequisites:
+https://signup.heroku.com/
+https://devcenter.heroku.com/articles/heroku-cli#download-and-install
+https://github.com/heroku-python/PyCon2020",https://i.ytimg.com/vi_webp/1923eduj0Gg/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=1923eduj0Gg,https://www.youtube.com/watch?v=1923eduj0Gg
+67,"Sponsor Workshop: Xilinx, Inc.: Patrick Lysaght - Extending the Python Ecosystem to Xilinx",https://www.youtube.com/watch?v=ooOLl4_H-IE,ooOLl4_H-IE,PyCon US,@PyConUS,https://www.youtube.com/@PyConUS,20200506,2232,2861,47.0,1.0,,People & Blogs,"Presented by:
+Patrick Lysaght
+
+Imagine if we could combine the beneﬁts of Raspberry PI microprocessors, Arduino microcontrollers and the programmable logic of a ﬁeld programmable gate array (FPGA) in a single development platform? What if we could connect all of these components together with high speed interconnect and add lots of programmable, high-speed IO? That would be quite the embedded development dream machine! Things would be even more exciting if we could integrate all of the parts into a single programmable system-on-chip.
+
+But wait … hardware, without good software, is just scrap metal! We need to program the machine with a user-friendly programming language with hundreds of thousands of libraries, so that we would not have to re-write code for problems that we know have already been solved. And since this is a wish-list for our dream machine, we should make sure to include libraries for machine learning and data science because these are some of the hottest areas that we want to explore.
+
+This workshop will introduce PYNQ, based on Xilinx programmable System-on-Chips. PYNQ serves up a browser-based, integrated development environment (IDE) for Python, so that new users can experience the power of Xilinx platforms without having to install new software, or create their own FPGA hardware designs. Meanwhile, PYNQ makes experienced developers more productive and helps them to create, document, and distribute their designs, more eﬀectively.
+
+Website: pynq.io",https://i.ytimg.com/vi_webp/ooOLl4_H-IE/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=ooOLl4_H-IE,https://www.youtube.com/watch?v=ooOLl4_H-IE
+68,"Sponsor Workshop: Keith Kraus, Bartley Richardson - NVIDIA: GPU-Accelerated Data Analytics in Python",https://www.youtube.com/watch?v=AxDJWkRISL8,AxDJWkRISL8,PyCon US,@PyConUS,https://www.youtube.com/@PyConUS,20200513,4304,1942,34.0,,,People & Blogs,"Presented by:
+Keith Kraus, Bartley Richardson
+
+As data volumes and computational complexity of data analysis techniques have increased, so has the need for acceleration of these workloads to allow the data scientist to quickly iterate on models. One of the key ways to achieve this has been through GPU acceleration. Traditionally, GPU acceleration has required specialized knowledge of low-level C++ GPGPU programming. However, the open-source RAPIDS data science libraries allow data scientists to easily make use of GPU acceleration in common ETL, machine learning, and graph analytics workloads using familiar Python APIs (e.g. pandas and scikit-learn).
+
+This workshop will introduce RAPIDS, walk through its component libraries, and will show participants how these libraries allow them to easily introduce GPU acceleration into their workflows to speed up compute times and increase iteration on their models. We will demonstrate common data ETL (cuDF), machine learning (cuML), graph analytics (cuGraph), signal processing (cuSignal), spatial analytics (cuSpatial), and InfoSec (cyber log accelerator) workloads that RAPIDS accelerates. We will also discuss how users can integrate RAPIDS and the broader open-source GPU data science ecosystem to solve their specific use cases.
+
+An understanding of basic data science concepts will be helpful, but is not required. No experience with GPU programming is required!",https://i.ytimg.com/vi_webp/AxDJWkRISL8/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=AxDJWkRISL8,https://www.youtube.com/watch?v=AxDJWkRISL8
+69,Sponsor Workshop: Jason Lantz - Salesforce: How Python Powers Salesforce.org's Unique Open Source...,https://www.youtube.com/watch?v=XL77lRTVF3g,XL77lRTVF3g,PyCon US,@PyConUS,https://www.youtube.com/@PyConUS,20200513,6873,3289,,,,People & Blogs,"Full Title: How Python Powers Salesforce.org's Unique Open Source Model
+
+Salesforce.org’s core products are the most installed open source packages run on top of Salesforce’s enterprise platform. The processes and open source tools we’ve built using Python to streamline and scale our internal development of those packages are also used by our community to build shared solutions on top of our products. Inspired by our community’s desire to share, we created the Salesforce.org Open Source Commons, a program that incubates and fosters sustainable, community run open source projects for the nonprofit and education sectors.
+
+In this workshop, we’ll show how the open source tooling we built using Python and some of the best open source projects from the Python ecosystem have helped us get closer to our vision of fostering open source collaboration beyond just developers. You’ll learn how you can apply your knowledge of Python to better understand the Salesforce platform and build Salesforce integration into your own Python web apps. With this knowledge, you’ll be empowered to volunteer with the 30k+ nonprofit and education organizations already using Salesforce and learn how Python application developers can easily build repeatable, scalable Salesforce solutions to integrate your Python applications with the most popular enterprise CRM in the world.",https://i.ytimg.com/vi_webp/XL77lRTVF3g/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=XL77lRTVF3g,https://www.youtube.com/watch?v=XL77lRTVF3g
+70,Sponsor Workshop: ActiveState - Shaun Lowry - We need to talk about Windows,https://www.youtube.com/watch?v=S77ASVUiTdA,S77ASVUiTdA,PyCon US,@PyConUS,https://www.youtube.com/@PyConUS,20200520,1038,2404,20.0,,,People & Blogs,"ActiveState builds Python from source for every runtime we distribute. We build every package from source too. For Linux and MacOS that’s a pretty straightforward task but for Windows… it’s another story. In this workshop, Shaun Lowry walks us through what it takes to build Python from source for Linux, MacOS, and Windows, deep dives into the challenges involved, and illustrates why that effort is imperative to our users.
+
+Join us for an insider’s view of some of our toughest problems, how both the strict constraints of enterprise and the needs of our users necessitates them, and get a peek at our plans for contributing our work upstream for the Python community at large.
+
+Audience: This workshop is geared toward a technical audience and will probably resonate most with developers who’ve ever had to build software from source.",https://i.ytimg.com/vi_webp/S77ASVUiTdA/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=S77ASVUiTdA,https://www.youtube.com/watch?v=S77ASVUiTdA
+71,Tutorial: Eric J. Ma - Demystifying Deep Learning for Data Scientists,https://www.youtube.com/watch?v=gGu3pPC_fBM,gGu3pPC_fBM,PyCon US,@PyConUS,https://www.youtube.com/@PyConUS,20200415,4227,5373,97.0,4.0,,People & Blogs,"Presented by:
+Eric J. Ma
+
+Have you ever wondered what goes on behind the scenes of a deep learning framework? Or what is going on behind that pre-trained model that you took from Kaggle? Then this tutorial is for you! In this tutorial, we will demystify the internals of deep learning frameworks - in the process equipping us with foundational knowledge that lets us understand what is going on when we train and fit a deep learning model. By learning the foundations without a deep learning framework as a pedagogical crutch, you will walk away with foundational knowledge that will give you the confidence to implement any model you want in any framework you choose.",https://i.ytimg.com/vi_webp/gGu3pPC_fBM/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=gGu3pPC_fBM,https://www.youtube.com/watch?v=gGu3pPC_fBM
+72,Tutorial: Matt Harrison - Hands-on Python for Programmers,https://www.youtube.com/watch?v=fuJcSNUMrW0,fuJcSNUMrW0,PyCon US,@PyConUS,https://www.youtube.com/@PyConUS,20200415,8064,15180,188.0,4.0,,People & Blogs,"Presented by:
+Matt Harrison
+
+Are you new to Python? Or do you feel like you grok the syntax, but would like to understand new idioms or where to use them? Want to watch an experienced Python developer create code from nothing? Instead of just covering the syntax, we will introduce most of Python as we build code together.
+
+Bring your laptop, and we will program a predictive text engine from scratch together. Follow along as we start with IDLE (or your favorite editor) and a blank file and end with a tested, idiomatic Python module that will learn from any text we pass into it, and predict characters or words for us.",https://i.ytimg.com/vi_webp/fuJcSNUMrW0/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=fuJcSNUMrW0,https://www.youtube.com/watch?v=fuJcSNUMrW0
+73,Tutorial: Andrew Knight - Hands-On Web App Test Automation,https://www.youtube.com/watch?v=XMMHpv54xxM,XMMHpv54xxM,PyCon US,@PyConUS,https://www.youtube.com/@PyConUS,20200422,6301,3971,70.0,3.0,,People & Blogs,"Presented by:
+Andrew Knight
+
+When unit tests aren’t enough, how can we write reliable automated tests for Web apps in live browsers? It’s easy with Python! Let’s build a test project from the ground up using pytest and selenium to test DuckDuckGo searches. We’ll take a top-down approach and get our hands dirty with automation code at each layer. Learn everything from switching browsers to avoiding race conditions!",https://i.ytimg.com/vi_webp/XMMHpv54xxM/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=XMMHpv54xxM,https://www.youtube.com/watch?v=XMMHpv54xxM
+74,Tutorial: Kimberly Fessel - It's Officially Legal so Let's Scrape the Web,https://www.youtube.com/watch?v=RUQWPJ1T6Zc,RUQWPJ1T6Zc,PyCon US,@PyConUS,https://www.youtube.com/@PyConUS,20200429,9985,12276,336.0,10.0,,People & Blogs,"Presented by:
+Kimberly Fessel
+
+Web scraping empowers you to write Python programs that collect data from websites automatically, and recent legal rulings support your right to do so! This tutorial covers the breadth and depth of web scraping: from HTML basics through pipeline methods to compile entire datasets. Participants should have working knowledge of Python fundamentals but need not have prior experience scraping.
+
+
+
+
+Tutorial resources:
+- GitHub Tutorial Materials: https://github.com/kimfetti/Conferences/tree/master/PyCon_2020
+- Google Colab Notebooks: bit.ly/pycon2020_scrapingbasics and bit.ly/pycon2020_scrapingwiki",https://i.ytimg.com/vi_webp/RUQWPJ1T6Zc/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=RUQWPJ1T6Zc,https://www.youtube.com/watch?v=RUQWPJ1T6Zc
+75,Tutorial: Sebastian Witowski - Modern Python Developer's Toolkit,https://www.youtube.com/watch?v=WkUBx3g2QfQ,WkUBx3g2QfQ,PyCon US,@PyConUS,https://www.youtube.com/@PyConUS,20200429,8679,39760,766.0,7.0,,People & Blogs,"Presented by:
+Sebastian Witowski
+
+This is a tutorial that I wish someone gave to me when I first learned Python.
+
+Python is (relatively) easy and fun to learn, but there is a gap between “knowing how to write Python code” and “knowing the tools and good practices when writing Python code”. This tutorial will try to bridge this gap. It’s intended for beginners who know Python, but who are not sure how to write a Python project from scratch.
+
+In this tutorial you will learn:
+
+How to set up VS Code for writing Python
+How to use virtualenv, pyenv, pipenv, and pipx
+How to use cookiecutter, how to structure your Python project, and how to easily deploy it with Docker
+What’s PEP8 and how to enforce it with code linters/formatters (black)
+Why you should use IPython instead of Python REPL
+How to test your code with pytest
+How to create great documentation with Sphinx
+To follow all parts of the tutorial you need to have: VS Code, Docker, and a modern version of Python (at least 3.4, preferably 3.6 or newer) installed on your computer.
+
+
+
+
+Tutorial resources: http://pycon.switowski.com/",https://i.ytimg.com/vi_webp/WkUBx3g2QfQ/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=WkUBx3g2QfQ,https://www.youtube.com/watch?v=WkUBx3g2QfQ
+76,Tutorial: Katie McLaughlin - Deploying Django on Serverless Infrastructure,https://www.youtube.com/watch?v=oYy9_4fm56o,oYy9_4fm56o,PyCon US,@PyConUS,https://www.youtube.com/@PyConUS,20200429,2361,3079,68.0,,,People & Blogs,"Presented by:
+Katie McLaughlin
+
+Taking your DjangoGirls workshop website and hosting it on the Cloud is complex. Not complicated, just complex. The statefulness of Django out of the box compared to other Python web frameworks makes the migration from your own laptop to a hosted platform non-trivial.
+
+In this tutorial, we will take a sample Django project from source control and local deployment to a hosted service using serverless infrastructure. This tutorial will use Google Cloud Platform, but concepts can be applied to any cloud platform.
+
+
+Tutorial resources: glasnt.com/pycon2020-tutorial
+
+Timestamps:
+- 5:01 Manual Deployment
+- 9:22 Database
+- 11:30 Media storage
+- 12:33 Secrets
+- 17:06 Service
+- 22:52 Build, Migrate, Deploy
+- 25:02 Automate Deployment
+- 30:27 Automate Provisioning
+- 37:52 Cleanup
+
+
+Music used: ""Local Forecast - Elevator"" Kevin MacLeod (incompetech.com) CC BY SA",https://i.ytimg.com/vi_webp/oYy9_4fm56o/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=oYy9_4fm56o,https://www.youtube.com/watch?v=oYy9_4fm56o
+77,Tutorial: Husni Almoubayyed - Effective Data Visualization,https://www.youtube.com/watch?v=cNXioWhEeJc,cNXioWhEeJc,PyCon US,@PyConUS,https://www.youtube.com/@PyConUS,20200429,5880,4490,,1.0,,People & Blogs,"Presented by:
+Husni Almoubayyed
+
+From picking the right plot for the particular type of data, statistic, or result; to pre-processing sophisticated datasets, and even making important decisions about the aesthetic of a figure, visualization is both a science and art that requires both knowledge and practice to master.
+
+This tutorial is for python users who are familiar with python and basic plotting, and want to build strong visualization skills that will let them effectively communicate any data, statistic, or result.
+
+We will use python libraries such as seaborn, matplotlib, plotly, and sklearn; and discuss topics such as density estimation, dimensionality reduction, exploring similar datasets, interactive plotting, and making suitable choices for communication. Drawing examples from datasets in the scientific, financial, geospatial (mapping) fields and more.
+
+
+
+
+Tutorial resources: https://github.com/hsnee/PyCon2020_DataVisualizationTutorial",https://i.ytimg.com/vi_webp/cNXioWhEeJc/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=cNXioWhEeJc,https://www.youtube.com/watch?v=cNXioWhEeJc
+78,Tutorial: Keith Galli - Natural Language Processing (NLP) in Python - From Zero to Hero,https://www.youtube.com/watch?v=vyOgWhwUmec,vyOgWhwUmec,PyCon US,@PyConUS,https://www.youtube.com/@PyConUS,20200429,5962,43379,1138.0,19.0,,People & Blogs,"Presented by:
+Keith Galli
+
+In the past year, massive developments have been made in the natural language processing field. Improvements in areas such as question answering, machine translation, and sentiment analysis have opened up doors to utilize NLP more effectively than ever before.
+
+In this tutorial we will perform a brief overview of the field of NLP and look at the Python libraries that allow us to utilize different techniques and models. We will start with simple, traditional approaches to NLP that will provide us baseline for our models. As we progress in the tutorial we will look at some more advanced concepts that can give quick boosts to model performance. We will end by introducing state-of-the-art language models and how we can incorporate them into applications that we build.
+
+
+
+
+Tutorial resources:https://github.com/keithgalli/pycon2020",https://i.ytimg.com/vi_webp/vyOgWhwUmec/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=vyOgWhwUmec,https://www.youtube.com/watch?v=vyOgWhwUmec
+79,Tutorial: Mariatta - Say it with Bots!,https://www.youtube.com/watch?v=JWhywJHIMfs,JWhywJHIMfs,PyCon US,@PyConUS,https://www.youtube.com/@PyConUS,20200429,8782,1384,14.0,2.0,,People & Blogs,"Presented by:
+Mariatta
+
+Let’s build a GitHub bot that can greet contributors to your project. As humans, we can’t always be up and running 24/7. It can be nice for your contributors if they can receive prompt response from you regarding their pull request instead of waiting until you’re back.
+
+In this tutorial, we’ll go through several activities for building a GitHub App that can be easily installed in various repositories.
+
+Your GitHub bot can:
+- thank the maintainer for installing the bot
+- thank first time contributors for making a pull request to your repository
+
+Learn about GitHub APIs, GitHub Apps, and authentications through these fun activities! We’ll be using Python libraries like gidgethub, aiohttp, and asyncio. F-strings included!
+
+
+Tutorial resources: https://github-app-tutorial.readthedocs.io/",https://i.ytimg.com/vi_webp/JWhywJHIMfs/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=JWhywJHIMfs,https://www.youtube.com/watch?v=JWhywJHIMfs
+80,Tutorial: Sergio Sanchez - Geospatial Public Policy Analysis with GeoPandas,https://www.youtube.com/watch?v=_eII-MqXlv0,_eII-MqXlv0,PyCon US,@PyConUS,https://www.youtube.com/@PyConUS,20200506,14332,2140,47.0,,,People & Blogs,"Presented by:
+Sergio Sanchez
+
+What if you could take the power of pandas and apply it to geospatial data?
+That’s what GeoPandas does!
+
+GeoPandas is an open source project to make working with geospatial data in python easier.
+- geopandas.org
+
+In this tutorial you will analyze openly available data and apply a GIS-lens to it! We’ll use data from the National Center for Education Statistics (NCES) to recreate the map above! We’ll use Integrated Post-secondary Education Data System (IPEDS) data to map out all the higher education institutions in the United States and analyze the results. We’ll look at the equity implications of Education Deserts and learn some really neat pandas and geopandas tricks in the process!
+
+This tutorial is perfect for novice data analysts, pythonistas, social scientists, and journalists that want to learn about the powerful pandas and geopandas libraries and how to use it to analyze openly available data (and for those who’ve been using them but could learn a trick or two to make their workflow even more effective, reproducible and open). Some familiarity with jupyter and pandas is appreciated but not necessary.
+
+Do the words Title IV, PfP/PnP, census blocks, or IPUMS mean anything to you? No?! the more reason to join! Come learn something new!
+
+
+
+
+Tutorial resources: https://github.com/chekos/geospatial-public-policy-analysis-with-geopandas",https://i.ytimg.com/vi_webp/_eII-MqXlv0/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=_eII-MqXlv0,https://www.youtube.com/watch?v=_eII-MqXlv0
+81,Tutorial: Santiago Basulto - Python Concurrency: from beginner to pro,https://www.youtube.com/watch?v=18B1pznaU1o,18B1pznaU1o,PyCon US,@PyConUS,https://www.youtube.com/@PyConUS,20200506,10632,34352,867.0,13.0,,People & Blogs,"Presented by:
+Santiago Basulto
+
+This is the ultimate concurrency tutorial. Aimed for beginners, we won’t skip the ugly parts (OS low level and computer science concepts). In this tutorial you’ll learn:
+
+what is concurrency and why you need it?
+what’s the role of the OS in computing and parallelism?
+how processes work, what fundamental OS structures are used
+what are threads, how are they created and what’s their scope
+what modules does Python offer for multithreading (_thread, threading, concurrent.futures) and what’s the difference between them, the same for multiprocessing (subprocess, multiprocessing or concurrent.futures).
+what are race conditions? how to avoid them with synchronization primitives and threadsafe collections
+What is the GIL? In which situations will it affect our code?
+This tutorial will include coding examples for all the concepts in it, along with two main activities, in which we’ll be writing a web server both using multithreading and multiprocessing!
+
+At the end of this tutorial, you’ll feel confident answering the following questions:
+
+Should I even use concurrency?
+If I want to use concurrency, threads or processes?
+How can I make sure my code is safe?
+
+Code repo: https://github.com/santiagobasulto/pycon-concurrency-tutorial-2020",https://i.ytimg.com/vi_webp/18B1pznaU1o/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=18B1pznaU1o,https://www.youtube.com/watch?v=18B1pznaU1o
+82,Tutorial: Mike Müller - Migration from Python 2 to 3,https://www.youtube.com/watch?v=JgIgEjASOlk,JgIgEjASOlk,PyCon US,@PyConUS,https://www.youtube.com/@PyConUS,20200513,9466,4262,37.0,,,People & Blogs,"Presented by:
+Mike Müller
+
+Python 2 reached end of life (EOL). However, there are still many projects that
+use Python 2. Staying with Python 2 is certainly no long-term option for most
+projects.
+
+Porting a larger program to Python 3 brakes backward compatibility with
+Python 2. One solution for this problem is the single-source approach that
+results in source code that runs with Python 2 and 3 without any changes.
+
+This tutorial provides a short overview over the most important differences
+between Python 2 and 3. After looking at different approaches for Python 3
+support, the focus will be on writing single-source programs with
+python-future. You will learn how to port to Python 3 without loosing Python 2
+support. Finally dropping Python 2 support will get as simple as removing a few
+imports.
+
+The content of this tutorial is inspired by questions I received from
+participants in trainings about how to smoothly transition from Python 2 to
+Python 3. Making Python 2 working as much as possible as Python 3 seems the best
+option to me. You are encouraged to bring your questions about this topic.
+
+I teach about this topic on a regular basis in my trainings. Being a full-time
+profession trainer, I have plenty opportunity to get involved with many
+programmers who have to deal with this problem.
+
+Software Requirements
+You will need Python 3.8 installed on your laptop. Python 3.6/3.7 should also
+work. You also need Python 2.7 installed to test if the code runs with Python 2
+and Python 3. You may use Python 3.9 if is released at the time of the tutorial
+and all dependencies can be installed.
+
+JupyterLab
+I will use a JupyterLab for the tutorial because it makes a very good
+teaching tool. You are welcome to use the setup you prefer, i.e editor, IDE,
+REPL. If you also like to use a JupyterLab, I recommend conda for
+easy installation. Similarly to virtualenv, conda allows creating isolated
+environments but allows binary installs for all platforms.
+
+There are two ways to install Jupyter via conda:
+
+Use Minconda. This is a small install and (after you installed it)
+you can use the command conda to create an environment:
+conda create -n pycon2020py38 python=3.8
+Now you can change into this environment:
+conda activate pycon2020py38. The prompt should change to (pycon2020py38).
+Now you can install JupyterLab: conda install jupyterlab.
+
+Do the same with Python 2.7, i.e. conda create -n pycon2020py27 python=2.7
+and activate accordingly conda activate pycon2020py27.
+
+Install the dependencies:
+
+Jupyter Lab 2 ‘conda install jupyterlab’
+six ‘conda install six’
+python-future ‘conda install future’
+Hint: You do all this in one command:
+conda create -n pycon2020py38 python=3.8 six jupyterlab future
+and
+conda create -n pycon2020py27 python=2.7 six jupyterlab future
+
+You can create a comparable setup with virtual environments and pip, if you
+prefer.
+
+Working with conda environments
+After creating a new environment, the system might still work with some
+stale settings. Even when the command which tells you that you are using an
+executable from your environment, this might actually not be the case.
+If you see strange behavior using a command line tool in your environment,
+use hash -r and try again.
+
+https://www.python-academy.com/download/pycon_2020/tutorial_migration_2to3.zip
+https://www.python-academy.com/download/pycon_2020/solutions.zip",https://i.ytimg.com/vi_webp/JgIgEjASOlk/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=JgIgEjASOlk,https://www.youtube.com/watch?v=JgIgEjASOlk
+83,Tutorial: Geir Arne Hjelle - Introduction to Decorators: Power Up Your Python Code,https://www.youtube.com/watch?v=T8CQwGIsrx4,T8CQwGIsrx4,PyCon US,@PyConUS,https://www.youtube.com/@PyConUS,20200513,12086,9460,180.0,2.0,,People & Blogs,"Presented by:
+Geir Arne Hjelle
+
+Python supports functions as first-class objects. This means that functions can be assigned to variables, and passed to and from other functions, just like any other object in Python.
+
+One powerful application of this is the decorator syntax, which makes it easy to apply one function to another at compile time. Decorators offer a simple and readable way of adding capabilities to your code. This tutorial will teach you how decorators work, and how to create your own decorators.
+
+Being comfortable with using and creating decorators, will make you a more efficient Python programmer. You will learn how a single line sometimes can transform your code: add authentication to your website, write a class for you, or even JIT-compile your long-running calculations.
+
+Accompanying code at https://github.com/gahjelle/decorators_tutorial
+Timestamps: https://github.com/gahjelle/decorators_tutorial#tutorial-content",https://i.ytimg.com/vi_webp/T8CQwGIsrx4/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=T8CQwGIsrx4,https://www.youtube.com/watch?v=T8CQwGIsrx4
+84,Education Summit 2020,https://www.youtube.com/watch?v=3T5QYIsthn0,3T5QYIsthn0,PyCon US,@PyConUS,https://www.youtube.com/@PyConUS,20200506,10304,1689,17.0,1.0,,People & Blogs,"The Summit is a gathering of teachers and educators focused on bringing coding literacy, through Python, to as broad a group of audiences as possible.
+Schedule:
+-Education Summit Committee Host and Welcome, Elizabeth Wickes and Meenal Pant
+-Chalmer Lowe, Meta-talk: future directions for the education community
+-Zoë Wilkinson Saldaña, Engaging learners in critical data science practices
+-Jeffrey L. Olson Jr, Foo and “Bar” Must Die - Teach Less and Do More with Context, Predictions, and Playtime
+-Piper Thunstrom, Building to be Teachable: Why we embraced a principles driven development process
+-Lightning talk: Matthew Jansen,  Python, Open Labs, and the University Library
+-Lightning talk: Meg Ray, Python in Education",https://i.ytimg.com/vi/3T5QYIsthn0/hqdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=3T5QYIsthn0,https://www.youtube.com/watch?v=3T5QYIsthn0
+85,Python Trainers Summit - Hatchery 2020,https://www.youtube.com/watch?v=azXvbo_wzmw,azXvbo_wzmw,PyCon US,@PyConUS,https://www.youtube.com/@PyConUS,20200506,8198,982,14.0,1.0,,People & Blogs,"The Python Trainers Summit is a new hatchery program for PyCon 2020! 
+As Python grows as a language, both in popularity and complexity, so too must training for existing users. While this area does fall under education, one-off short form training and professional development have unique needs, questions, and expertise. Being related to education, but not always identifying primarily as educators, many trainers are isolated from the broader community of expertise on teaching and learning. Many operate as independent freelancers, so they may lack a network of colleagues to connect with and learn from. This means that they are missing out on key discoveries and practices from the traditional education community, and the educator community is missing out on the expertise of teaching adult professional learners.
+-Elizabeth Wickes, Host and Welcome Remarks
+-Reuven Lerner, The business of training: An introduction
+-Trey Hunner, My teaching setup: the pros and cons
+-Moshe Zadka, Giving a Tutorial at a Python Conference: Unexpected Challenges
+-Karen Word, Adapting In Person Trainings to Online",https://i.ytimg.com/vi/azXvbo_wzmw/hqdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=azXvbo_wzmw,https://www.youtube.com/watch?v=azXvbo_wzmw
+86,Talk: Harry Percival - Stop Using Mocks (for a while),https://www.youtube.com/watch?v=rk-f3B-eMkI,rk-f3B-eMkI,PyCon US,@PyConUS,https://www.youtube.com/@PyConUS,20200526,2691,14500,383.0,8.0,,People & Blogs,"Presented by:
+Harry Percival
+
+Classic testing tutorials usually present code that’s free of side-effects and external I/O dependencies, but the real world is seldom so straightforward. We find ourselves reaching for mocks to keep our tests isolated, and that often leads to tests that are hard to understand and maintain, and we start to question their value.
+
+When we substitute integration or end-to-end tests to assure ourselves that things work in the real world, we end up with test suites getting slower and slower, and instead of a “test pyramid” we end up with an “ice cream cone”.
+
+This talk proposes a cure: if we stop ourselves from using mocks, cold turkey, we will be forced to think more carefully about how to design our code, how to separate business logic from integration and I/O concerns. The talk will cover patterns like “Functional Core, Imperative Shell”, the use of Dependency Injection and hand-rolled fakes as an alternative to mocking and patching, and show how they can help us get better-designed code, more maintainable tests, and a healthy test pyramid.",https://i.ytimg.com/vi_webp/rk-f3B-eMkI/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=rk-f3B-eMkI,https://www.youtube.com/watch?v=rk-f3B-eMkI
+87,Tutorial: Allison Parrish - Nonsense verse with Python and machine learning,https://www.youtube.com/watch?v=yJ6iN5M42sA,yJ6iN5M42sA,PyCon US,@PyConUS,https://www.youtube.com/@PyConUS,20200520,12092,2501,50.0,1.0,,People & Blogs,"Presented by:
+Allison Parrish
+
+When Lewis Carroll wrote “Jabberwocky,” how did he know how to spell “Jabberwock”? Why are some words (like “cellar door”) considered to be pleasant, while others (“pulchritude,” “regurgitate”) ugly and harsh? In this tutorial, we’ll learn how to use Pincelate, a Python library and machine learning model, to analyze the sounds of words, and generate new words with particular phonetic characteristics.",https://i.ytimg.com/vi_webp/yJ6iN5M42sA/maxresdefault.webp,0,False,False,public,https://www.youtube.com/watch?v=yJ6iN5M42sA,https://www.youtube.com/watch?v=yJ6iN5M42sA
+88,Startup Row - Aiko AI Interview,https://www.youtube.com/watch?v=NNWiL6DFCcg,NNWiL6DFCcg,PyCon US,@PyConUS,https://www.youtube.com/@PyConUS,20200415,1300,1133,3.0,,,People & Blogs,An interview with Startup Row Aiko AI,https://i.ytimg.com/vi/NNWiL6DFCcg/sddefault.jpg,0,False,False,unlisted,https://www.youtube.com/watch?v=NNWiL6DFCcg,https://www.youtube.com/watch?v=NNWiL6DFCcg

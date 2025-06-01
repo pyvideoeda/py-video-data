@@ -1,0 +1,662 @@
+﻿index,title,url,video_id,uploader,uploader_id,uploader_url,upload_date,duration,view_count,like_count,comment_count,tags,categories,description,thumbnail,age_limit,is_live,was_live,availability,webpage_url,original_url
+1,Allen Downey: Bayesian statistics made simple - PyCon 2014,https://www.youtube.com/watch?v=z_sIDLVisvA,z_sIDLVisvA,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140424,11728,16804,187,10.0,PyCon2014,Science & Technology,"Speaker: Allen Downey
+
+An introduction to Bayesian statistics using Python. Bayesian statistics are usually presented mathematically, but many of the ideas are easier to understand computationally. People who know Python can get started quickly and use Bayesian analysis to solve real problems. This tutorial is based on material and case studies from Think Bayes (O'Reilly Media).
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/z_sIDLVisvA/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=z_sIDLVisvA,https://www.youtube.com/watch?v=z_sIDLVisvA
+2,Mike Bayer: Introduction to SQLAlchemy - PyCon 2014,https://www.youtube.com/watch?v=P141KRbxVKc,P141KRbxVKc,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140424,12932,33980,245,16.0,PyCon2014,Science & Technology,"Speaker: Mike Bayer
+
+The goal of the tutorial is a broad-based introduction to SQLAlchemy, spanning the Core and ORM components as well as the systems that underlie them. The tutorial takes the ""harder"" approach teaching from fundamentals first, emphasizing details on how the library interacts with the database and SQL and concluding with an introduction to the ORM, providing a solid perspective for continued study.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/P141KRbxVKc/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=P141KRbxVKc,https://www.youtube.com/watch?v=P141KRbxVKc
+3,Christine Spang: Search 101: An Introduction to Information Retrieval - PyCon 2014,https://www.youtube.com/watch?v=MtlH14N3REQ,MtlH14N3REQ,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140424,12131,5575,16,4.0,PyCon2014,Science & Technology,"Speaker: Christine Spang
+
+Data is everywhere! And most of the time, the best way to find what you want in a pile of data is to search it. In this project-based tutorial, you'll get an introduction to the basic theory of search and write a program to index and search a collection of Wikipedia documents using the Whoosh library. You'll leave with the ability to add search functionality to all of your own projects.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/MtlH14N3REQ/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=MtlH14N3REQ,https://www.youtube.com/watch?v=MtlH14N3REQ
+4,"Jason Moore, Tarun Gaba: Dynamics and Control with Python - PyCon 2014",https://www.youtube.com/watch?v=IoMR-ESzqw8,IoMR-ESzqw8,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140424,12186,3856,27,,PyCon2014,Science & Technology,"Speakers: Jason Moore, Tarun Gaba
+
+In this tutorial we will first learn how to solve, simulate, and visualize multibody dynamics problems with Python. These methods and techniques play an important role in the design of robots, vehicles, spacecraft, manufacturing machines, etc.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/IoMR-ESzqw8/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=IoMR-ESzqw8,https://www.youtube.com/watch?v=IoMR-ESzqw8
+5,Renee Chu: Python for Social Scientists - PyCon 2014,https://www.youtube.com/watch?v=5tk0Jv95FsQ,5tk0Jv95FsQ,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140424,12419,4232,28,2.0,PyCon2014,Science & Technology,"Speaker: Renee Chu
+
+Many provocative social questions can be answered with data, and datasets are more available than ever. Start working with it here. First we'll download and visualize one data set from the World Bank Indicators page together, using Matplotlib. Then you'll have time on your own to pick another data set from any online source and plot that. At the end every person/pair will share what they found.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/5tk0Jv95FsQ/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=5tk0Jv95FsQ,https://www.youtube.com/watch?v=5tk0Jv95FsQ
+6,Richard Jones: Introduction to game programming - PyCon 2014,https://www.youtube.com/watch?v=bMt47wvK6u0,bMt47wvK6u0,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140424,10394,59751,427,30.0,PyCon2014,Science & Technology,"Speaker: Richard Jones
+
+This tutorial will walk the attendees through development of a simple game using PyGame with time left over for some experimentation and exploration of different types of games.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/bMt47wvK6u0/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=bMt47wvK6u0,https://www.youtube.com/watch?v=bMt47wvK6u0
+7,Selena Deckelmann: The Python Pipeline: Why you should reach out to local teachers - PyCon 2014,https://www.youtube.com/watch?v=_WAzrP5kyE8,_WAzrP5kyE8,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140424,1897,1187,8,3.0,PyCon2014,Science & Technology,"Speaker: Selena Deckelmann
+
+There's a gaping hole in Python advocacy: K-12 educators. These are the front-lines of CS education, especially in countries where attending primary and secondary school is compulsory, and resources to teach CS are stretched very thin. Learn what we have to offer CS teachers and how you can help in your local area.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/_WAzrP5kyE8/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=_WAzrP5kyE8,https://www.youtube.com/watch?v=_WAzrP5kyE8
+8,Hynek Schlawack: The Sorry State of SSL - PyCon 2014,https://www.youtube.com/watch?v=SBQB_yS2K4M,SBQB_yS2K4M,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140424,2711,6135,45,2.0,PyCon2014,Science & Technology,"Speaker: Hynek Schlawack
+
+Those web pages with shiny lock icons boasting that your data is safe because of ""256 bit encryption""? They are lying. In times of mass surveillance and commercialized Internet crime you should know why that's the case. This talk will give you an overview that will help you to assess your personal security more realistically and to make your applications as secure as possible against all odds.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/SBQB_yS2K4M/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=SBQB_yS2K4M,https://www.youtube.com/watch?v=SBQB_yS2K4M
+9,Blaise Laflamme: Upgrade your Web Development Toolchain - PyCon 2014,https://www.youtube.com/watch?v=NJf6pUVc7U8,NJf6pUVc7U8,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140424,1330,2777,13,,PyCon2014,Science & Technology,"Speaker: Blaise Laflamme
+
+How to make our Python web development workflow less painful and more predictable? By mixing a collection of tools and best practices for both back and front ends like Buildout, Grunt, Bower and Ansible to automate tasks.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/NJf6pUVc7U8/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=NJf6pUVc7U8,https://www.youtube.com/watch?v=NJf6pUVc7U8
+10,Susan Tan: Python in the Browser: Intro to Brython - PyCon 2014,https://www.youtube.com/watch?v=BcDV9QUium4,BcDV9QUium4,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140424,1635,9798,86,2.0,PyCon2014,Science & Technology,"Speaker: Susan Tan
+
+Have you ever wished that you can write Python in the browser? Brython is an experimental Javascript library that enables you to leverage the elegance of Python on the client side. Novice programmers who are familiar with Javascript will learn about Brython, how Brython measures up against Javascript, and why getting client-side Python adopted as a mainstream tool is really difficult.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/BcDV9QUium4/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=BcDV9QUium4,https://www.youtube.com/watch?v=BcDV9QUium4
+11,Amjith Ramanujam: Introduction to Docker - PyCon 2014,https://www.youtube.com/watch?v=9bvdc55xYdo,9bvdc55xYdo,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140424,1796,7155,80,2.0,PyCon2014,Science & Technology,"Speaker: Amjith Ramanujam
+
+Docker is a tool for sandboxing entire application environments using Linux containers. Docker's feature set includes versioning, sharing etc. They are light-weight and fast, you can recreate a deployment environment in development or push your development containers to production. Imagine never having to worry about fragmentation of servers or syncing the versions of different libraries.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/9bvdc55xYdo/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=9bvdc55xYdo,https://www.youtube.com/watch?v=9bvdc55xYdo
+12,"Jarret Raim, Paul Kehrer: The State of Crypto in Python - PyCon 2014",https://www.youtube.com/watch?v=r_Pj__qjBvA,r_Pj__qjBvA,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140424,2879,2813,21,4.0,PyCon2014,Science & Technology,"Speaker: Jarret Raim, Paul Kehrer
+
+There are a half-dozen major Python cryptography frameworks built on at least three separate C implementations, each with their own strengths and weaknesses and in various states of maintenance. This presentation will review the current state of the art and discuss the future of crypto in Python including a new library under development, PyPy support and more.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/r_Pj__qjBvA/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=r_Pj__qjBvA,https://www.youtube.com/watch?v=r_Pj__qjBvA
+13,Kushal Das: Teaching Python: To Infinity and Beyond - PyCon 2014,https://www.youtube.com/watch?v=j5YV5KzIbOc,j5YV5KzIbOc,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140424,1523,3517,56,4.0,PyCon2014,Science & Technology,"Speaker: Kushal Das
+
+Dgplug summer training is a free online IRC based course which aims to teach FOSS ideas and programming in general using Python to new programmers/stduents. In this talk we share our experiences, lesson learned, hoping that people will be able to replicate this in other parts of the world.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/j5YV5KzIbOc/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=j5YV5KzIbOc,https://www.youtube.com/watch?v=j5YV5KzIbOc
+14,Mele Sax-Barnett: Python + Geographic Data = BFFs - PyCon 2014,https://www.youtube.com/watch?v=dIzicVIwL8Q,dIzicVIwL8Q,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140424,1278,2428,15,,PyCon2014,Science & Technology,"Speaker: Mele Sax-Barnett
+
+Python is so well-suited for processing and managing geographic data, I think they'll be best friends forever. In this talk, I'll introduce some of the best Python libraries to use with your geodata, and show you how treating GeoJSON like a Python dictionary can make cleaning and validating your data a breeze. I'll also discuss examples of using Python to add custom functionality to GIS software.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/dIzicVIwL8Q/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=dIzicVIwL8Q,https://www.youtube.com/watch?v=dIzicVIwL8Q
+15,Allison Kaptur: Import-ant Decisions - PyCon 2014,https://www.youtube.com/watch?v=aS5kXzbsLLQ,aS5kXzbsLLQ,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140424,1366,3115,41,,PyCon2014,Science & Technology,"Speaker: Allison Kaptur
+
+Suppose `import` didn't exist, and we had to invent it from scratch. We'll look at the problem - code sharing and reuse across modules - and different ways we could solve it. We'll come up with `import` from parallel universes and then reinvent python's actual implementation. Finally, we'll import - using python's design - without using the `import` keyword.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/aS5kXzbsLLQ/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=aS5kXzbsLLQ,https://www.youtube.com/watch?v=aS5kXzbsLLQ
+16,"Barbara Shaurette, Katie Cunningham: The Young Coder: Let's Learn Python - PyCon 2014",https://www.youtube.com/watch?v=HgpsmOpZfD4,HgpsmOpZfD4,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140424,2778,2855,11,1.0,PyCon2014,Science & Technology,"Speakers: Barbara Shaurette, Katie Cunningham
+
+Since PyCon 2013, interest in the Young Coders class has intensified. Several Python conferences have run their own, and classes outside of conferences - from one-time workshops to after school clubs - have sprung up as well. With more people than ever interested in teaching Python to kids, we're here to address how to organize a class. It takes some effort to set up, but the payoff is enormous.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/HgpsmOpZfD4/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=HgpsmOpZfD4,https://www.youtube.com/watch?v=HgpsmOpZfD4
+17,"Karen Rustad, Asheesh Laroia: Turn Your Computer Into a Server - PyCon 2014",https://www.youtube.com/watch?v=HqEJxZzbdVM,HqEJxZzbdVM,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140424,2902,3922,36,,PyCon2014,Science & Technology,"Speakers: Karen Rustad, Asheesh Laroia
+
+Learn how to let other people connect straight to your computer, so your Python web apps, email services, or anything else can be seen by the world. It starts simple, then explains when and how to use SimpleHTTPServer, ssh tunnels, Pagekite, and IPv6. You can use these tools for temporary connections, like sharing an in-progress demo, or for permanent connectivity for your home server.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/HqEJxZzbdVM/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=HqEJxZzbdVM,https://www.youtube.com/watch?v=HqEJxZzbdVM
+18,Paul Tagliamonte: Getting Hy on Python: How to implement a Lisp front-end to Python - PyCon 2014,https://www.youtube.com/watch?v=AmMaN1AokTI,AmMaN1AokTI,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140424,2829,6175,98,8.0,PyCon2014,Science & Technology,"Speaker: Paul Tagliamonte
+
+This talk will cover the internals of Python, such AST, Import hooks, creating a console, and a very brief overview of Python internal formats (such as pyc files), by way of looking over the implementation of a Lisp called ""Hy"". No Lisp knowledge is required.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/AmMaN1AokTI/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=AmMaN1AokTI,https://www.youtube.com/watch?v=AmMaN1AokTI
+19,Justin Abrahms: Computer science fundamentals for self-taught programmers - PyCon 2014,https://www.youtube.com/watch?v=nEquiifH33w,nEquiifH33w,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140424,1823,37481,435,19.0,PyCon2014,Science & Technology,"Speaker: Justin Abrahms
+
+""When people talk about Big O notation do you go cross eyed? Do you not
+ get the point of learning about implementing linked lists or depth
+ first search? Join me as I introduce the CS fundamentals that helped
+ me ace my Google interview, even though I didn't get a formal CS
+ education.""
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/nEquiifH33w/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=nEquiifH33w,https://www.youtube.com/watch?v=nEquiifH33w
+20,Katherine Scott: Hello Physical World: A Crash Course on the Internet of Things - PyCon 2014,https://www.youtube.com/watch?v=grMfIoDgn9M,grMfIoDgn9M,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140424,1690,5574,31,,PyCon2014,Science & Technology,"Speaker: Katherine Scott
+
+Live and direct from the PyCon stage learn how to connect your things to the internet! In this talk we'll connect physical things and people to the internet. In this talk we will live code a tiny web server that interacts with the physical world via sensors, actuators, video, and audio. We will explore tools in the Python ecosystem that make this possible and show how they work together.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/grMfIoDgn9M/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=grMfIoDgn9M,https://www.youtube.com/watch?v=grMfIoDgn9M
+21,Andrew Godwin: Designing Django's Migrations - PyCon 2014,https://www.youtube.com/watch?v=a-_GAHfpk1Y,a-_GAHfpk1Y,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140424,1586,5009,42,,PyCon2014,Science & Technology,"Speaker: Andrew Godwin
+
+Django finally has built-in migrations, and they're a long way from the designs of South or django-evolution. Learn the key design decisions we made, ideas we discarded, and the unique treatment we have to give each of our four official database backends.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/a-_GAHfpk1Y/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=a-_GAHfpk1Y,https://www.youtube.com/watch?v=a-_GAHfpk1Y
+22,James King: Castle Anthrax: Dungeon Generation Techniques - PyCon 2014,https://www.youtube.com/watch?v=DZl2ebl_Pnw,DZl2ebl_Pnw,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140424,1965,2215,16,,PyCon2014,Science & Technology,"Speaker: James King
+
+Come and learn the techniques used for generating random dungeon-like levels for games. You don't have to know what Rogue is to enjoy this talk. Prepare yourself for a plethora of Monty Python references and we'll have some fun.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/DZl2ebl_Pnw/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=DZl2ebl_Pnw,https://www.youtube.com/watch?v=DZl2ebl_Pnw
+23,Kate Heddleston: So you want to be a full-stack developer? How to build a full-stack Py - PyCon 2014,https://www.youtube.com/watch?v=8uxQOzKi3_0,8uxQOzKi3_0,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140424,1606,19442,302,21.0,PyCon2014,Science & Technology,"Speaker: Kate Heddleston
+
+This is a talk about building full-stack python web applications where you manage every part of the application yourself. I will walk through how to setup a production server with your web application code, a local development environment using vagrant, and how to deploy from your local environment to production. I will also walk through python and Django libraries that will make your life easier.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/8uxQOzKi3_0/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=8uxQOzKi3_0,https://www.youtube.com/watch?v=8uxQOzKi3_0
+24,Graham Dumpleton: Advanced methods for creating decorators - PyCon 2014,https://www.youtube.com/watch?v=7jGtDGxgwEY,7jGtDGxgwEY,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140424,1878,7188,67,2.0,PyCon2014,Science & Technology,Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides,https://i.ytimg.com/vi/7jGtDGxgwEY/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=7jGtDGxgwEY,https://www.youtube.com/watch?v=7jGtDGxgwEY
+25,Dan Langer: A Scenic Drive through the Django Request-Response Cycle - PyCon 2014,https://www.youtube.com/watch?v=q0YqAbI7rw4,q0YqAbI7rw4,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140424,1888,6023,88,10.0,PyCon2014,Science & Technology,"Speaker: Dan Langer
+
+A simple ""Hello World!"" page, served via Django, passes though a surprising number of layers & components. For a newcomer to the language or the platform, this can be overwhelming at the start. Here I'll take you on a drive through Django's request-response cycle, focusing on using its layered model to understand what's going on and get things done.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/q0YqAbI7rw4/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=q0YqAbI7rw4,https://www.youtube.com/watch?v=q0YqAbI7rw4
+26,Narahari Allamraju: Which messaging layer should you use if you want to build - PyCon 2014,https://www.youtube.com/watch?v=nAqklQ4wzhY,nAqklQ4wzhY,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140424,1688,1425,6,4.0,PyCon2014,Science & Technology,"Speaker: Narahari Allamraju
+
+The objective of this session is to give the audience an idea of how they should choose a messaging layer for their application - how to evaluate their requirements against the features of the tools and make a choice. I will use my experience with building messaging applications to present a methodology which they can use
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/nAqklQ4wzhY/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=nAqklQ4wzhY,https://www.youtube.com/watch?v=nAqklQ4wzhY
+27,"J. Hamrick, P. Battaglia: Games for Science: Creating interactive psyc experiments - PyCon 2014",https://www.youtube.com/watch?v=b8VsDmx7qdE,b8VsDmx7qdE,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140424,1926,1348,12,1.0,PyCon2014,Science & Technology,"Speakers: Jessica Hamrick, Peter Battaglia
+
+Have you ever wanted to play video games while also contributing to science? In psychology experiments developed by myself and Peter Battaglia, participants are immersed in an interactive 3D world which is experimentally well-controlled, yet also extremely fun. This talk will explain how we created these ""game-like"" experiments in Python using the Panda3D video game engine.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/b8VsDmx7qdE/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=b8VsDmx7qdE,https://www.youtube.com/watch?v=b8VsDmx7qdE
+28,Scott Lobdell: Programming an Autonomous 20 Foot Blimp with Python - PyCon 2014,https://www.youtube.com/watch?v=RntMu5DqfSo,RntMu5DqfSo,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140424,1817,1165,4,,PyCon2014,Science & Technology,"Speaker: Scott Lobdell
+
+This talk documents the journey of a less than conventional robotics application in which python is used as the logical controller of an autonomous 20 foot blimp. The blimp's autopilot features, prolonged air time, large size, and smooth motion make it the ideal platform for aerial photography. Giving the blimp an onboard controller reduces the overall costs and requirements of the operation.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/RntMu5DqfSo/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=RntMu5DqfSo,https://www.youtube.com/watch?v=RntMu5DqfSo
+29,David Beazley: Discovering Python - PyCon 2014,https://www.youtube.com/watch?v=RZ4Sn-Y7AP8,RZ4Sn-Y7AP8,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140424,2870,77751,1046,40.0,PyCon2014,Science & Technology,"Speaker: David Beazley
+
+So, what happens when you lock a Python programmer in a secret vault containing 1.5 TBytes of C++ source code and no internet connection? Find out as I describe how I used Python as a secret weapon of ""discovery"" in an epic legal battle.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/RZ4Sn-Y7AP8/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=RZ4Sn-Y7AP8,https://www.youtube.com/watch?v=RZ4Sn-Y7AP8
+30,Titus Brown: Data intensive biology in the cloud: instrumenting ALL the things - PyCon 2014,https://www.youtube.com/watch?v=RCRbfKK57X8,RCRbfKK57X8,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140424,1822,1877,31,3.0,PyCon2014,Science & Technology,"Speaker: Titus Brown
+
+""Cloud computing offers some great opportunities for science, but most cloud computing platforms are I/O and memory limited, and hence are poor matches for data-intensive computing. After 4 years of research software development we are now instrumenting and benchmarking our analysis pipelines; numbers, lessons learned, and future plans will be discussed. Everything is open source.""
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/RCRbfKK57X8/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=RCRbfKK57X8,https://www.youtube.com/watch?v=RCRbfKK57X8
+31,Rachel Sanders: Developing Flask Extensions - PyCon 2014,https://www.youtube.com/watch?v=OXN3wuHUBP0,OXN3wuHUBP0,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140424,1545,7186,77,1.0,PyCon2014,Science & Technology,"Speaker: Rachel Sanders
+
+You can create a web application with Flask in seven lines of code, and you can grow that app to thousands. How do you create reusable, shareable libraries? We'll use a simple but real extension I created (Flask-FeatureFlags) to look at the different ways you can make Flask awesome.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/OXN3wuHUBP0/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=OXN3wuHUBP0,https://www.youtube.com/watch?v=OXN3wuHUBP0
+32,"Alex Gaynor: Fast Python, Slow Python - PyCon 2014",https://www.youtube.com/watch?v=7eeEf_rAJds,7eeEf_rAJds,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140424,2171,62857,669,41.0,PyCon2014,Science & Technology,"Speaker: Alex Gaynor
+
+""The common wisdom is that Python is slow. And yet people run high performance software on it. It's hard to make Python fast, and yet there are incredibly high performance Python VMs. This talk breaks down the facts and the myths of Python performance.""
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/7eeEf_rAJds/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=7eeEf_rAJds,https://www.youtube.com/watch?v=7eeEf_rAJds
+33,Portia Burton: Know Thy Neighbor: Scikit and the K-Nearest Neighbor Algorithm - PyCon 2014,https://www.youtube.com/watch?v=tQNZRfsZF3g,tQNZRfsZF3g,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140424,1256,2772,14,1.0,PyCon2014,Science & Technology,"Speaker: Portia Burton
+
+One of the great features of Python is its machine learning capabilities. Scikit is a rich Python package which allows developers to create predictive apps. In this presentation, we will guess what type of music do Python programmers like to listen to, using Scikit and the k-nearest neighbor algorithm.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/tQNZRfsZF3g/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=tQNZRfsZF3g,https://www.youtube.com/watch?v=tQNZRfsZF3g
+34,Ned Jackson Lovely: Cheap Helicopters In My Living Room - PyCon 2014,https://www.youtube.com/watch?v=jJ1vjr1dDqw,jJ1vjr1dDqw,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140424,1813,4126,44,1.0,PyCon2014,Science & Technology,"Speaker: Ned Jackson Lovely 
+
+Using Python and a minimal amount of hardware hacking, it's possible to build computer controlled helicopters you can fly around your living room for surprisingly small amounts of money. This talk will describe the steps you'll need to take to start the ball rolling towards Skynet using a $20 helicopter and an Arduino.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/jJ1vjr1dDqw/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=jJ1vjr1dDqw,https://www.youtube.com/watch?v=jJ1vjr1dDqw
+35,Megan Speir: So You Want to Build an API? - PyCon 2014,https://www.youtube.com/watch?v=gpGBsNhKy-E,gpGBsNhKy-E,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140424,1223,2407,7,2.0,PyCon2014,Science & Technology,"Speaker: Megan Speir
+
+You might know what an API is. Maybe you've even implemented a handful of popular APIs out there, but you are thinking about building your own and don't know where to start. This talk will show you how easy it is to build an API into your project using Python and Flask. We'll also discuss best practices and design patterns for great APIs.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/gpGBsNhKy-E/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=gpGBsNhKy-E,https://www.youtube.com/watch?v=gpGBsNhKy-E
+36,Selena Deckelmann: Sane schema migrations with Alembic and SQLAlchemy - PyCon 2014,https://www.youtube.com/watch?v=_ZdqwCr4c7Q,_ZdqwCr4c7Q,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140424,1933,5202,49,2.0,PyCon2014,Science & Technology,"Speaker: Selena Deckelmann
+
+Working with developers on schema migrations is a perennial challenge for DBAs and developers. Devs tend to like a ""set it and forget it"" tool. This talk discusses the strategies used to move from a pure SQL and shell migration system to using SQLAlchemy and alembic for maximum DBA and developer happiness.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/_ZdqwCr4c7Q/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=_ZdqwCr4c7Q,https://www.youtube.com/watch?v=_ZdqwCr4c7Q
+37,Erik Rose: Designing Poetic APIs - PyCon 2014,https://www.youtube.com/watch?v=JQYnFyG7A8c,JQYnFyG7A8c,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140424,2888,8982,103,2.0,PyCon2014,Science & Technology,"Speaker: Erik Rose
+
+The language you speak determines the thoughts you can think. Thus, API designers (and that includes you, if you've ever coined a function) have a great duty, as language inventors, to expand the mental canvases of those who come after. We'll concretize that into 7 hallmarks of good APIs, pulling examples (and bloopers) from popular Python libraries.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/JQYnFyG7A8c/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=JQYnFyG7A8c,https://www.youtube.com/watch?v=JQYnFyG7A8c
+38,Jason Myers: Introduction to SQLAlchemy Core - PyCon 2014,https://www.youtube.com/watch?v=0PSdzUxRYpA,0PSdzUxRYpA,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140424,1787,11760,91,6.0,PyCon2014,Science & Technology,"Speaker: Jason Myers
+
+This talk provides a broad-based introduction to SQLAlchemy Core library. It is focused on someone new to SQLAlchemy Core, who has experience with other database technologies such as Django or SQLAlchemy ORM. We'll cover the differences between the domain-centric models of those tools compared to the schema-centric model and how we can use that to deal with common and unusual data sources.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/0PSdzUxRYpA/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=0PSdzUxRYpA,https://www.youtube.com/watch?v=0PSdzUxRYpA
+39,Victor Stinner: Track memory leaks in Python - PyCon 2014,https://www.youtube.com/watch?v=umQOVzFDzTo,umQOVzFDzTo,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140424,1847,5652,50,,PyCon2014,Science & Technology,"Speaker: Victor Stinner
+
+Memory leaks in Python cannot be analyzed with traditional tools because Python uses reference counters. I will present tools specific to Python to help you to localize your memory leaks.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/umQOVzFDzTo/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=umQOVzFDzTo,https://www.youtube.com/watch?v=umQOVzFDzTo
+40,Nathan Yergler: In Depth PDB - PyCon 2014,https://www.youtube.com/watch?v=lnlZGhnULn4,lnlZGhnULn4,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140424,2405,5670,65,2.0,PyCon2014,Science & Technology,"Speaker: Nathan Yergler
+
+""Python includes a powerful debugger, but using it well requires practice. Setting a break point and inspecting local variables is easy, but what else can you do? What if you need to set the breakpoint
+ in one of your dependencies, or only fire it conditionally? How do you navigate calls, or change them? Join me for an in depth look at how you can better use PDB to debug and understand programs.""
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/lnlZGhnULn4/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=lnlZGhnULn4,https://www.youtube.com/watch?v=lnlZGhnULn4
+41,Benjamin Peterson: Garbage Collection in Python - PyCon 2014,https://www.youtube.com/watch?v=iHVs_HkjdmI,iHVs_HkjdmI,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140424,1617,8701,60,2.0,PyCon2014,Science & Technology,"Speaker: Benjamin Peterson
+
+This talk will explore how garbage collection is implemented in CPython and PyPy. See how CPython deals reference counting's shortcomings with a special GC for cycle collection. Then dive into PyPy's sophisticated and high-performing GC implementations. The particularly thorny issue of finalizers in reference cycles will also be addressed.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/iHVs_HkjdmI/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=iHVs_HkjdmI,https://www.youtube.com/watch?v=iHVs_HkjdmI
+42,Ying Li: Multi-factor Authentication - Possession Factors - PyCon 2014,https://www.youtube.com/watch?v=aYywSlNdP5I,aYywSlNdP5I,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140424,1460,2122,23,1.0,PyCon2014,Science & Technology,"Speaker: Ying Li
+
+A brief overview of what multifactor authentication is, focusing particularly on possession factors, including what common options are available. One-time-passwords, an important concept many possession factor types, will also be discussed.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/aYywSlNdP5I/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=aYywSlNdP5I,https://www.youtube.com/watch?v=aYywSlNdP5I
+43,"Christine Spang: Subprocess to FFI: Memory, Performance, and Why You Shouldn't Shell - PyCon 2014",https://www.youtube.com/watch?v=YAO7PUZvVPw,YAO7PUZvVPw,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140424,2112,2867,21,1.0,PyCon2014,Science & Technology,"Speaker: Christine Spang
+
+Sometimes, the code you need just isn't available in Python, but someone's written some code in another language that solves your problem. What options do you have for interacting with this external code from within your program? We'll examine how to call external binaries, what happens behind the scenes at a systems level, and how these implementation details affect performance and memory usage. In the second part of the talk, we'll discuss the different options for more tightly integrating external code in the form of a C library for better performance and control.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/YAO7PUZvVPw/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=YAO7PUZvVPw,https://www.youtube.com/watch?v=YAO7PUZvVPw
+44,Dan Crosta: Performance Testing and Profiling: A Virtuous Cycle - PyCon 2014,https://www.youtube.com/watch?v=TX1sg8wzk1I,TX1sg8wzk1I,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140424,1696,1592,10,,PyCon2014,Science & Technology,"Speaker: Dan Crosta
+
+Donald Knuth famously said that we should avoid optimization 97% of the time and focus on the ""critical 3%"". How can we identify that 3%? How can we best focus our optimization efforts, and avoid the ""root of all evil"" that is premature optimization? This talk introduces key types of performance testing, and demonstrates how they can be paired with profiling techniques in a cycle of improvement.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/TX1sg8wzk1I/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=TX1sg8wzk1I,https://www.youtube.com/watch?v=TX1sg8wzk1I
+45,Dan Callahan: Quick Wins for Better Website Security - PyCon 2014,https://www.youtube.com/watch?v=T-5p5ewqhVw,T-5p5ewqhVw,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140424,1404,1096,22,,PyCon2014,Science & Technology,"Speaker: Dan Callahan
+
+Learn quick, easy, and lesser-known techniques to improve your website's security, protect against session hijacking, and defend against XSS and data injection attacks.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/T-5p5ewqhVw/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=T-5p5ewqhVw,https://www.youtube.com/watch?v=T-5p5ewqhVw
+46,Julien Phalip: Advanced techniques for Web functional testing - PyCon 2014,https://www.youtube.com/watch?v=St9cL47_1GI,St9cL47_1GI,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140424,1793,3930,39,1.0,PyCon2014,Science & Technology,"Speaker: Julien Phalip
+
+This talk will present multiple advanced techniques for Web functional testing. You will learn how to test a wide range of Web front-end components, such as CSS, visuals, responsive designs and user interactions — all using Python. Various practical tips will also be presented to harness your functional tests in real project workflows.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/St9cL47_1GI/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=St9cL47_1GI,https://www.youtube.com/watch?v=St9cL47_1GI
+47,Lightning talks Session 03 - PyCon 2014,https://www.youtube.com/watch?v=Jb6ij4eRu6c,Jb6ij4eRu6c,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140424,3958,1037,8,,PyCon2014,Science & Technology,,https://i.ytimg.com/vi/Jb6ij4eRu6c/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=Jb6ij4eRu6c,https://www.youtube.com/watch?v=Jb6ij4eRu6c
+48,Greg Wilson: Software Carpentry: Lessons Learned - PyCon 2014,https://www.youtube.com/watch?v=FtKO619O5g0,FtKO619O5g0,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140424,2763,5353,69,7.0,PyCon2014,Science & Technology,"Speaker: Greg Wilson
+
+This talk will explain how Software Carpentry has grown to run over a hundred training events a year, what we've learned along the way, and how you can do it too.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/FtKO619O5g0/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=FtKO619O5g0,https://www.youtube.com/watch?v=FtKO619O5g0
+49,Greg Ward: Unit Testing Makes Your Code Better - PyCon 2014,https://www.youtube.com/watch?v=ArLf03-RLwU,ArLf03-RLwU,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140424,1616,3493,21,1.0,PyCon2014,Science & Technology,"Speaker: Greg Ward
+
+Unit testing is like public transit: everyone agrees it's a good thing for other people to do. It's easier to swallow when you see how unit testing improves not only the correctness of your code, but the design as well. I'll walk through a real-life case study where adding unit tests turned a pretty good module into an even better one: easier to understand, extend, and reuse.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/ArLf03-RLwU/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=ArLf03-RLwU,https://www.youtube.com/watch?v=ArLf03-RLwU
+50,Lightning talks Session 02 - PyCon 2014,https://www.youtube.com/watch?v=951amNT8_7o,951amNT8_7o,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140424,1780,1029,0,,PyCon2014,Science & Technology,,https://i.ytimg.com/vi/951amNT8_7o/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=951amNT8_7o,https://www.youtube.com/watch?v=951amNT8_7o
+51,Jessica McKellar - Keynote - PyCon 2014,https://www.youtube.com/watch?v=4QOoAw6Su7M,4QOoAw6Su7M,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140424,2434,8644,58,2.0,PyCon2014,Science & Technology,,https://i.ytimg.com/vi/4QOoAw6Su7M/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=4QOoAw6Su7M,https://www.youtube.com/watch?v=4QOoAw6Su7M
+52,Fernando Pérez - Keynote - PyCon 2014,https://www.youtube.com/watch?v=2NSbuKFYyvc,2NSbuKFYyvc,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140424,2340,13554,88,4.0,PyCon2014,Science & Technology,,https://i.ytimg.com/vi/2NSbuKFYyvc/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=2NSbuKFYyvc,https://www.youtube.com/watch?v=2NSbuKFYyvc
+53,Julie Pagano: It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech - PyCon 2014,https://www.youtube.com/watch?v=1i8ylq4j_EY,1i8ylq4j_EY,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140424,1703,111152,2820,84.0,PyCon2014,Science & Technology,"Speaker: Julie Pagano
+
+It can be hard to focus on your love of coding when you are regularly battling invisible issues like insecurity, anxiety, and lack of confidence. This talk will identify invisible issues programmers struggle with, talk about their impact, discuss personal experiences dealing with them, and share some tools useful in fighting back.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/1i8ylq4j_EY/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=1i8ylq4j_EY,https://www.youtube.com/watch?v=1i8ylq4j_EY
+54,Julie Lavoie: Analyzing Rap Lyrics with Python - PyCon 2014,https://www.youtube.com/watch?v=FQuIqtx1Z24,FQuIqtx1Z24,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140424,1792,10259,106,8.0,PyCon2014,Science & Technology,"Speaker: Julie Lavoie
+
+Have you ever wondered which rapper is the most sexist? Come learn how to find out by scraping rapgenius and analyzing rap lyrics using Python with libraries like pattern and Beautiful Soup! There will be pictures of Lil' Jon.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/FQuIqtx1Z24/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=FQuIqtx1Z24,https://www.youtube.com/watch?v=FQuIqtx1Z24
+55,Miguel Grinberg: Writing RESTful web services with Flask - PyCon 2014,https://www.youtube.com/watch?v=px_vg9Far1Y,px_vg9Far1Y,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140424,2659,27815,301,20.0,PyCon2014,Science & Technology,"Speaker: Miguel Grinberg
+
+Flask is a web framework for Python based on Werkzeug, Jinja 2 and good intentions. It is considered a micro-framework, but don't get the ""micro"" part fool you; Flask can do everything the ""others"" can do, many times in a simpler, leaner way. This session will introduce you to Flask as an engine to build RESTful web services.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/px_vg9Far1Y/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=px_vg9Far1Y,https://www.youtube.com/watch?v=px_vg9Far1Y
+56,"Kevin Ballard: Pushing Python: Building a High Throughput, Low Latency System - PyCon 2014",https://www.youtube.com/watch?v=k8YtaSMv-Nc,k8YtaSMv-Nc,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140424,1147,3382,22,,PyCon2014,Science & Technology,"Speaker: Kevin Ballard
+
+Taba is a distributed metrics aggregator, similar in concept to statsd. Built with Python using Redis, gevent, and Cython, it currently handles over 6M events/sec with strong consistency guarantees. This talk will present an overview of its design, and discuss the challenges and solutions encountered in the process of building a high throughput, low latency distributed service.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/k8YtaSMv-Nc/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=k8YtaSMv-Nc,https://www.youtube.com/watch?v=k8YtaSMv-Nc
+57,Noah Kantrowitz: What is coming in Python packaging - PyCon 2014,https://www.youtube.com/watch?v=jOiAp3wtx18,jOiAp3wtx18,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140424,1177,1745,17,,PyCon2014,Science & Technology,"Speaker: Noah Kantrowitz
+
+In the last 18 months the Python packaging world has seen an explosion of activity. Learn what improvements are available now and what is on the horizon.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/jOiAp3wtx18/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=jOiAp3wtx18,https://www.youtube.com/watch?v=jOiAp3wtx18
+58,"Asheesh Laroia: Python packaging simplified, for end users, app developers - PyCon 2014",https://www.youtube.com/watch?v=eLPiPHr6TVI,eLPiPHr6TVI,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140424,2446,6914,50,3.0,PyCon2014,Science & Technology,"Speaker: Asheesh Laroia
+
+This talk covers the practical use of Python packaging tools. You'll see how to keep your system clean as an end user excited about installing a Python module from the web, the purpose of setup.py, how virtualenv makes life easier (and sometimes harder), what Ubuntu/Debian tools can offer, and how to make a complex app easier for new contributors to run. It is heavy on stories and recommendations.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/eLPiPHr6TVI/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=eLPiPHr6TVI,https://www.youtube.com/watch?v=eLPiPHr6TVI
+59,Juan Gomez: REST is not enough: Using Push Notifications to better support your mobile - PyCon 2014,https://www.youtube.com/watch?v=WSWaEMn_zpo,WSWaEMn_zpo,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140424,1920,1725,5,1.0,PyCon2014,Science & Technology,"Speaker: Juan Gomez
+
+This talk will introduce you to Push Notifications, a very powerful way for your Python service to communicate information to mobile devices. You will learn how Push Notifications work, their advantages and disadvantages and how you can implement them on your Python projects.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/WSWaEMn_zpo/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=WSWaEMn_zpo,https://www.youtube.com/watch?v=WSWaEMn_zpo
+60,Ned Batchelder: Getting Started Testing - PyCon 2014,https://www.youtube.com/watch?v=FxSsnHeWQBY,FxSsnHeWQBY,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140424,2564,59016,1175,20.0,PyCon2014,Science & Technology,"Speaker: Ned Batchelder
+
+If you've never written tests before, you probably know you *should*, but view the whole process as a bureaucratic paperwork nightmare to check off on your ready-to-ship checklist. This is the wrong way to approach testing. Tests are a solution to a problem that is important to you: does my code work? I'll show how Python tests are written, and why.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/FxSsnHeWQBY/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=FxSsnHeWQBY,https://www.youtube.com/watch?v=FxSsnHeWQBY
+61,Mike Bayer: Building the App - PyCon 2014,https://www.youtube.com/watch?v=5SSC6nU314c,5SSC6nU314c,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140424,2386,19534,84,3.0,PyCon2014,Science & Technology,"Speaker: Mike Bayer
+
+""In this talk we'll illustrate a simple web application using SQLAlchemy, showing off the style of development that SQLAlchemy is most geared towards, the so-called """"foundational"""" style which provides for development and maintainance of custom conventions which then service the needs of the model declarations and use case
+ implementations.""
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/5SSC6nU314c/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=5SSC6nU314c,https://www.youtube.com/watch?v=5SSC6nU314c
+62,Julia Evans: Diving into Open Data with IPython Notebook & Pandas - PyCon 2014,https://www.youtube.com/watch?v=rEalbu8UGeo,rEalbu8UGeo,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140424,1855,19723,153,19.0,PyCon2014,Science & Technology,"Speaker: Julia Evans
+
+I'll walk you through Python's best tools for getting a grip on data: IPython Notebook and pandas. I'll show you how to read in data, clean it up, graph it, and draw some conclusions, using some open data about the number of cyclists on Montréal's bike paths as an example.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/rEalbu8UGeo/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=rEalbu8UGeo,https://www.youtube.com/watch?v=rEalbu8UGeo
+63,"Kate Heddleston, Nicole Zuckerman: Technical on-boarding, training, and mentoring - PyCon 2014",https://www.youtube.com/watch?v=qxE1_MgHXI4,qxE1_MgHXI4,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140424,1632,1926,19,,PyCon2014,Science & Technology,"Speakers: Kate Heddleston, Nicole Zuckerman
+
+This is a talk about how to make junior and new engineers into independent and productive members of your engineering team faster and cheaper. We will focus on python specific resources and libraries that will help you create a simple but effective on boarding program, and talk about case studies of companies that have had success using these techniques.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/qxE1_MgHXI4/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=qxE1_MgHXI4,https://www.youtube.com/watch?v=qxE1_MgHXI4
+64,Carl Meyer: Set your code free: releasing and maintaining an open-source Python project - PyCon 2014,https://www.youtube.com/watch?v=nHWRN5gCPSI,nHWRN5gCPSI,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140424,2044,1881,40,1.0,PyCon2014,Science & Technology,"Speaker: Carl Meyer
+
+Got some code that you've written that would be useful to others, but actually releasing it feels like too much new stuff to figure out? Releasing software does take some work, but this talk will take you step-by-step through the process with specific recommendations and tools. We'll cover preparing your code for release, packaging it, releasing it, and maintaining it over time.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/nHWRN5gCPSI/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=nHWRN5gCPSI,https://www.youtube.com/watch?v=nHWRN5gCPSI
+65,Craig Kerstiens: Postgres Performance for Humans - PyCon 2014,https://www.youtube.com/watch?v=MpH8W5hce9I,MpH8W5hce9I,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140424,2029,3455,46,1.0,PyCon2014,Science & Technology,"Speaker: Craig Kerstiens
+
+To many developers the database is a black box. You expect to be able to put data into your database, have it to stay there, and get it out when you query it... hopefully in a performant manner. When its not performant enough the two options are usually add some indexes or throw some hardware at it. We'll walk through a bit of a clearer guide of how you can understand and manage DB performance.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/MpH8W5hce9I/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=MpH8W5hce9I,https://www.youtube.com/watch?v=MpH8W5hce9I
+66,Marina Zhurakhinskaya: Outreach Program for Women: Lessons in Collaboration - PyCon 2014,https://www.youtube.com/watch?v=CA8HN20NnII,CA8HN20NnII,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140424,1853,302,3,1.0,PyCon2014,Science & Technology,"Speaker: Marina Zhurakhinskaya
+
+Since 2010, the GNOME Foundation's Outreach Program for Women has provided 130 women with an opportunity to participate in remote internships with 23 Free Software organizations. This talk will cover the history of the program, what makes it successful, how the same strategies can be used for engaging all new contributors, and what other initiatives help increase diversity in Free Software.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/CA8HN20NnII/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=CA8HN20NnII,https://www.youtube.com/watch?v=CA8HN20NnII
+67,James Bennett: Django: The good parts - PyCon 2014,https://www.youtube.com/watch?v=9Vrk44sHIvw,9Vrk44sHIvw,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140424,1832,6224,49,,PyCon2014,Science & Technology,"Speaker: James Bennett
+
+Lots of talks and tutorials try to cover Django exhaustively, going over every component and feature. But not so many take a look at the bits that let Django be Django. In this talk, we'll see exactly what those bits -- some old, some new -- are, in a way that shows why it's still a solid and popular choice for web developers nearly nine years after its initial public release.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/9Vrk44sHIvw/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=9Vrk44sHIvw,https://www.youtube.com/watch?v=9Vrk44sHIvw
+68,Elena Williams: Hitchhikers Guide to Participating in Open Source - PyCon 2014,https://www.youtube.com/watch?v=8kV0b0KhaMQ,8kV0b0KhaMQ,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140424,2079,4050,51,2.0,PyCon2014,Science & Technology,"Speaker: Elena Williams
+
+""Curious about being involved in open source, but haven't had the time to make the plunge?
+ Involved with open source but a bit hazy on the way it all works?
+ Open source legend Andrew Tridgell runs an annual week-long post-graduate primer course teaching """"Free and Open Source Software Development """". This talk will convey as much of this course as possible in the time available.""
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/8kV0b0KhaMQ/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=8kV0b0KhaMQ,https://www.youtube.com/watch?v=8kV0b0KhaMQ
+69,Naomi Ceder: Farewell and Welcome Home: Python in Two Genders - PyCon 2014,https://www.youtube.com/watch?v=4R6FXtZl154,4R6FXtZl154,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140424,1816,3937,51,8.0,PyCon2014,Science & Technology,"Speaker: Naomi Ceder
+
+After half a lifetime ""undercover as a man"" I transitioned from male to female while staying involved in the Python community. This talk discusses that transition and explores how I found life in Python as a woman different from my former life as a man.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/4R6FXtZl154/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=4R6FXtZl154,https://www.youtube.com/watch?v=4R6FXtZl154
+70,Tavish Armstrong: Software Engineering Research for Hackers: Bridging the Two Solitudes - PyCon 2014,https://www.youtube.com/watch?v=vvEY6bhLXsU,vvEY6bhLXsU,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140424,1848,1500,10,2.0,PyCon2014,Science & Technology,"Speaker: Tavish Armstrong
+
+Software engineering researchers and hackers don't talk to each other as much as they ought to. This talk aims to bridge that gap, teach practitioners about what research is out there, and spark a ""citizen science"" movement in software engineering. I'll explain how to study your own projects and get academics to pay attention. Together, we can learn how to develop better software.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/vvEY6bhLXsU/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=vvEY6bhLXsU,https://www.youtube.com/watch?v=vvEY6bhLXsU
+71,Ruchi Varshney: Localization Revisited - PyCon 2014,https://www.youtube.com/watch?v=oAHMmy7dqUU,oAHMmy7dqUU,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140424,1837,784,5,,PyCon2014,Science & Technology,"Speaker: Ruchi Varshney
+
+Is your web app ready for a global audience? Internationalizing your codebase with gettext (bit.ly/pyconi18n) might just be the simpler part of the puzzle. It's hard to maintain translations in a fast paced deployment environment without constant manual intervention. This talk covers tools and strategies you can adopt to automate your localization process and ensure high translation coverage.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/oAHMmy7dqUU/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=oAHMmy7dqUU,https://www.youtube.com/watch?v=oAHMmy7dqUU
+72,Hannu Krosing: PostgreSQL is Web Scale (Really :) ) - PyCon 2014,https://www.youtube.com/watch?v=gM516rN24zQ,gM516rN24zQ,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140424,1638,2366,14,2.0,PyCon2014,Science & Technology,"Speaker: Hannu Krosing
+
+This talk will outline and demonstrate usage of PostgreSQL for data storage and processing scenarios where new common wisdom would usually turn to ""NoSQL"" databases for scalability reasons. It demonstrates both NoSQL style usage and techniques using more traditional relational storage models with required adjustments for infinite scalability.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/gM516rN24zQ/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=gM516rN24zQ,https://www.youtube.com/watch?v=gM516rN24zQ
+73,Bradley Angell: Smart Dumpster: Employing Python to Report Real-Time Resource - PyCon 2014,https://www.youtube.com/watch?v=dKaPx4ivEcc,dKaPx4ivEcc,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140424,1569,590,4,,PyCon2014,Science & Technology,"Speaker: Bradley Angell
+
+As U. of California campuses must reach Zero-Waste by 2020, a Smart Dumpster was designed to increase efficiency, study waste patterns, and improve refuse reduction. Using Python, a prototype has been installed into operations with tentative success since July 2013. Demonstrating real-time data reporting, the talk will focus on the success, roadblocks and campus plans for the Smart Dumpster.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/dKaPx4ivEcc/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=dKaPx4ivEcc,https://www.youtube.com/watch?v=dKaPx4ivEcc
+74,"Luke Miller: My big gay adventure. Making, releasing and selling a Python game - PyCon 2014",https://www.youtube.com/watch?v=Kdrp1Kt1dSw,Kdrp1Kt1dSw,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140424,1781,1921,22,2.0,PyCon2014,Science & Technology,"Speaker: Luke Miller
+
+Indie game developer Luke Miller presents a brief overview on making point-and-click adventure games using the open source pyvida gaming engine and uses his commercially released gay-themed adventure game ""My Ex-Boyfriend the Space Tyrant!"" as a tutorial on developing, packaging, releasing and selling a python game for Windows, Mac and Linux.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/Kdrp1Kt1dSw/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=Kdrp1Kt1dSw,https://www.youtube.com/watch?v=Kdrp1Kt1dSw
+75,"Catherine Devlin: See Docs Run. Run, Docs, Run! - PyCon 2014",https://www.youtube.com/watch?v=yc1CjhoQFNQ,yc1CjhoQFNQ,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140424,1689,962,7,,PyCon2014,Science & Technology,"Speaker: Catherine Devlin
+
+Code executes. Docs just sit there looking pretty. Now it's time to blur that boundary! Tools like the IPython Notebook, Sphinx, dexy, and old-fashioned doctests blend code with docs, making package docs, educational materials, and system-level docs more engaging, relevant, and trustworthy.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/yc1CjhoQFNQ/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=yc1CjhoQFNQ,https://www.youtube.com/watch?v=yc1CjhoQFNQ
+76,Lightning talks Session 04 - PyCon 2014,https://www.youtube.com/watch?v=xcXheAWy7cU,xcXheAWy7cU,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140424,1947,5249,23,3.0,PyCon2014,Science & Technology,,https://i.ytimg.com/vi/xcXheAWy7cU/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=xcXheAWy7cU,https://www.youtube.com/watch?v=xcXheAWy7cU
+77,Brandon Rhodes: The Day of the EXE Is Upon Us - PyCon 2014,https://www.youtube.com/watch?v=wsczq6j3_bA,wsczq6j3_bA,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140424,1683,15216,242,5.0,PyCon2014,Science & Technology,"Speaker: Brandon Rhodes
+
+It was once quite painful to build your Python app as a single .exe file. Support forums filled with lamentations as users struggled with primitive tools. But today, two separate tools exist for compiling your Python to real machine language! Come learn about how one of the biggest problems in commercial and enterprise software has now been solved and how you can benefit from this achievement.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/wsczq6j3_bA/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=wsczq6j3_bA,https://www.youtube.com/watch?v=wsczq6j3_bA
+78,Closing adress - Pycon 2014,https://www.youtube.com/watch?v=uaTNyOBPcPs,uaTNyOBPcPs,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140424,809,785,1,,PyCon2014,Science & Technology,,https://i.ytimg.com/vi/uaTNyOBPcPs/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=uaTNyOBPcPs,https://www.youtube.com/watch?v=uaTNyOBPcPs
+79,Van Lindberg  - Keynote 04 - PyCon 2014,https://www.youtube.com/watch?v=uQU3ugtYKNo,uQU3ugtYKNo,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140424,1303,1077,3,,PyCon2014,Science & Technology,,https://i.ytimg.com/vi/uQU3ugtYKNo/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=uQU3ugtYKNo,https://www.youtube.com/watch?v=uQU3ugtYKNo
+80,"Augie Fackler, Nathaniel Manista: Deliver Your Software In An Envelope - PyCon 2014",https://www.youtube.com/watch?v=mTj297sGzxw,mTj297sGzxw,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140424,1861,1325,13,,PyCon2014,Science & Technology,"Speakers: Augie Fackler, Nathaniel Manista
+
+Guaranteed behavior makes software modules useful. Software guarantees are commonly incomplete with good reason: promises that are narrow and few are most easily kept across wide ranges of platforms and long times. We define the space of a module's allowed behavior to be its ""behavioral envelope"" and show that thinking and speaking in terms of envelopes eases maintenance and makes APIs delightful.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/mTj297sGzxw/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=mTj297sGzxw,https://www.youtube.com/watch?v=mTj297sGzxw
+81,Niko Skrypnik: 2D/3D graphics with Python on mobile platforms - PyCon 2014,https://www.youtube.com/watch?v=Y6pLr11yf-4,Y6pLr11yf-4,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140424,1483,6792,36,,PyCon2014,Science & Technology,"Speaker: Niko Skrypnik
+
+Games, application with rich graphic for mobile platforms? Yes! You can do it for Android, iOS and other platforms with using Python. In this talk I speak about tools you may use for developing applications with using OpenGL ES for different platforms, the ways and concepts which are used in those tools, some tips and tricks you may use to make a cross-platform game with Python for fun and profit.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/Y6pLr11yf-4/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=Y6pLr11yf-4,https://www.youtube.com/watch?v=Y6pLr11yf-4
+82,Guido Van Rossum - Keynote 05 - PyCon 2014,https://www.youtube.com/watch?v=0Ef9GudbxXY,0Ef9GudbxXY,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140424,2106,50484,522,49.0,PyCon2014,Science & Technology,,https://i.ytimg.com/vi/0Ef9GudbxXY/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=0Ef9GudbxXY,https://www.youtube.com/watch?v=0Ef9GudbxXY
+83,Lightning talks Session 05 - Pycon 2014,https://www.youtube.com/watch?v=NSLvERZQSok,NSLvERZQSok,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140424,5046,3689,16,3.0,PyCon2014,Science & Technology,,https://i.ytimg.com/vi/NSLvERZQSok/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=NSLvERZQSok,https://www.youtube.com/watch?v=NSLvERZQSok
+84,Michael Becker: Realtime predictive analytics using scikit-learn & RabbitMQ - PyCon 2014,https://www.youtube.com/watch?v=WPyNdHygBD0,WPyNdHygBD0,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140412,1737,4954,37,,PyCon2014,Science & Technology,"Speaker: Michael Becker
+
+scikit-learn is an awesome tool allowing developers with little or no machine learning knowledge to predict the future! But once you've trained a scikit-learn algorithm, what now? In this talk, I describe how to deploy a predictive model in a production environment using scikit-learn and RabbitMQ. You'll see a realtime content classification system to demonstrate this design.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/WPyNdHygBD0/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=WPyNdHygBD0,https://www.youtube.com/watch?v=WPyNdHygBD0
+85,"Lewis Franklin: Distributed Computing Is Hard, Lets Go Shopping - PyCon 2014",https://www.youtube.com/watch?v=1CE6pWSDN1Q,1CE6pWSDN1Q,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140412,2414,1752,9,,PyCon2014,Science & Technology,"Speaker: Lewis Franklin
+
+Distributed computing is challenging. The network can be spotty. The servers can be pushed too hard. Race conditions can show up. Tasks can seem to disappear. Deployment can be messy. Celery is an excellent tool for writing distributed applications and this talk focuses on real-world challenges faced when doing those tasks.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/1CE6pWSDN1Q/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=1CE6pWSDN1Q,https://www.youtube.com/watch?v=1CE6pWSDN1Q
+86,Laurens Van Houtven: Twisted Mixing - PyCon 2014,https://www.youtube.com/watch?v=A_NnHC2LcaE,A_NnHC2LcaE,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140412,2178,1516,14,,PyCon2014,Science & Technology,"Speaker: Laurens Van Houtven
+
+A talk about mixing Twisted, an asynchronous IO framework for Python, with other Python code: blocking code, other asynchronous code...
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/A_NnHC2LcaE/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=A_NnHC2LcaE,https://www.youtube.com/watch?v=A_NnHC2LcaE
+87,"Preston Holmes: Blending art, technology, and light - interactive Python - PyCon 2014",https://www.youtube.com/watch?v=qdATFvkqrvY,qdATFvkqrvY,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140412,1679,936,5,1.0,PyCon2014,Science & Technology,"Speaker: Preston Holmes
+
+Blinking colored lights bring out the child in all of us. Color LED lighting technology is becoming more available and affordable. Layers of hardware, lighting protocols, and effects design can make doing anything more complex than blinking these lights tricky. Come learn about LEDs how to control them with Python, and about building real-time control of physical things.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/qdATFvkqrvY/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=qdATFvkqrvY,https://www.youtube.com/watch?v=qdATFvkqrvY
+88,Stacey Sern: An Introduction to Twisted - PyCon 2014,https://www.youtube.com/watch?v=zVAon51dhIM,zVAon51dhIM,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140412,2002,4631,39,4.0,PyCon2014,Science & Technology,"Speaker: Stacey Sern
+
+Twisted is an event-driven, networking library. This talk aims to explain what that means and give an overview of some of the main Twisted concepts. It will also describe some of the functionality that Twisted offers out of the box.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/zVAon51dhIM/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=zVAon51dhIM,https://www.youtube.com/watch?v=zVAon51dhIM
+89,Brandon Rhodes: All Your Ducks In A Row: Data Structures in the Std Lib and Beyond - PyCon 2014,https://www.youtube.com/watch?v=fYlnfvKVDoM,fYlnfvKVDoM,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140412,2261,29476,526,14.0,PyCon2014,Science & Technology,"Speaker: Brandon Rhodes
+
+""Why are Python programmers crazy about lists and dictionaries, when other languages tout bitmaps, linked lists, and B+ trees? Are we missing out? Come learn how data structures are implemented on bare metal, how to select the right data structure, how the list and dictionary cover a wide swath of use cases, and when to dip into the Standard Library or a
+ third-party package for an alternative.""
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/fYlnfvKVDoM/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=fYlnfvKVDoM,https://www.youtube.com/watch?v=fYlnfvKVDoM
+90,"Guillaume Ardaud: Cache me if you can: memcached, caching patterns and best practices - PyCon 2014",https://www.youtube.com/watch?v=R8Xmeynf1T4,R8Xmeynf1T4,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140412,1785,8137,99,4.0,PyCon2014,Science & Technology,"Speaker: Guillaume Ardaud
+
+Memcached is a popular, blazing fast in-RAM key/object store mainly used in web applications (although it can be used in virtually any software). You will walk out of this talk with a solid understanding of memcached and what it does under the hood, and become familiar with several patterns and best practices for making the most of it in your own Python applications.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/R8Xmeynf1T4/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=R8Xmeynf1T4,https://www.youtube.com/watch?v=R8Xmeynf1T4
+91,"Alex Gaynor: Pickles are for Delis, not Software - PyCon 2014",https://www.youtube.com/watch?v=7KnfGDajDQw,7KnfGDajDQw,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140412,2461,15332,119,8.0,PyCon2014,Science & Technology,"Speaker: Alex Gaynor
+
+You may have encountered the pickle or cPickle libraries, and used them to persist some state about your program. But how do they work? This talk explores how the pickle protocol works, what its advantages are, and its disadvantages
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/7KnfGDajDQw/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=7KnfGDajDQw,https://www.youtube.com/watch?v=7KnfGDajDQw
+92,Melanie Warrick: How to Get Started with Machine Learning - PyCon 2014,https://www.youtube.com/watch?v=uBorfxosVYs,uBorfxosVYs,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140412,1549,28423,297,8.0,PyCon2014,Science & Technology,"Speaker: Melanie Warrick
+
+Provide an introduction to machine learning to clarify what it is, what it's not and how it fits into this picture of all the hot topics around data analytics and big data.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/uBorfxosVYs/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=uBorfxosVYs,https://www.youtube.com/watch?v=uBorfxosVYs
+93,Lynn Root: For Lack of a Better Name(server): DNS Explained - PyCon 2014,https://www.youtube.com/watch?v=Xdd7c8t6ySA,Xdd7c8t6ySA,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140412,1763,2150,7,,PyCon2014,Science & Technology,"Speaker: Lynn Root
+
+You've deployed! But your friends can't see it - what's wrong? I'm betting DNS. Maybe you've fixed a couple of entries, point some records to hostnames, waited patiently for new domains to resolve only to notice your nameservers are incorrect. But what actually goes on with DNS? Come to this talk to find out how DNS works, and how to interact and create a DNS with Python.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/Xdd7c8t6ySA/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=Xdd7c8t6ySA,https://www.youtube.com/watch?v=Xdd7c8t6ySA
+94,Ned Jackson Lovely: Enough Machine Learning to Make Hacker News Readable Again - PyCon 2014,https://www.youtube.com/watch?v=O7IezJT9uSI,O7IezJT9uSI,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140412,1729,11663,97,1.0,PyCon2014,Science & Technology,"Speaker: Ned Jackson Lovely
+
+It's inevitable that online communities will change, and that we'll remember the community with a fondness that likely doesn't accurately reflect the former reality. We'll explore how we can take a set of articles from an online community and winnow out the stuff we feel is unworthy. We'll explore some of the machine learning tools that are just a ""pip install"" away, such as scikit-learn and nltk.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/O7IezJT9uSI/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=O7IezJT9uSI,https://www.youtube.com/watch?v=O7IezJT9uSI
+95,Ashwini Oruganti: Kneel And Disconnect: Getting The Fastest Connection Out Of A Host - PyCon 2014,https://www.youtube.com/watch?v=4yqA0puQsEo,4yqA0puQsEo,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140412,1470,508,0,,PyCon2014,Science & Technology,"Speaker: Ashwini Oruganti
+
+Did you know that when you resolve a hostname, you can get multiple addresses back, and pick any one to connect to? Some of these addresses will connect near instantly, while others might take a long time or time out. This talk is about a Twisted endpoint API I built that takes a hostname, and returns the connection that takes the least time to complete, from the list of resolved host addresses.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/4yqA0puQsEo/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=4yqA0puQsEo,https://www.youtube.com/watch?v=4yqA0puQsEo
+96,Lightning talks Session 01 - PyCon 2014,https://www.youtube.com/watch?v=RLDXh2UiGq8,RLDXh2UiGq8,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140412,3571,2128,6,1.0,PyCon2014,Science & Technology,,https://i.ytimg.com/vi/RLDXh2UiGq8/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=RLDXh2UiGq8,https://www.youtube.com/watch?v=RLDXh2UiGq8
+97,Michael DeHaan: Ansible - Python-Powered Radically Simple IT Automation - PyCon 2014,https://www.youtube.com/watch?v=Qi0AhK7PMCI,Qi0AhK7PMCI,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140412,2353,34028,170,7.0,PyCon2014,Science & Technology,"Speaker: Michael DeHaan
+
+Learn about Ansible -- a radically simple way to deploy applications, configure operating systems, and orchestrate IT operations including zero downtime rolling updates. Let's bring about SkyNet faster.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/Qi0AhK7PMCI/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=Qi0AhK7PMCI,https://www.youtube.com/watch?v=Qi0AhK7PMCI
+98,Fernando Perez: IPython in depth: high productivity interactive and parallel python - PyCon 2014,https://www.youtube.com/watch?v=XFw1JVXKJss,XFw1JVXKJss,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140412,10917,16789,77,6.0,"PyCon2014,PyCon2014Tutorial",Science & Technology,"Speaker: Fernando Perez
+
+""IPython provides tools for interactive and parallel computing that are widely used in scientific computing, but can benefit any Python developer.
+ 
+ We will show how to use IPython in different ways, as: an interactive shell, an embedded shell, a graphical console, a network-aware VM in GUIs, a web-based notebook with code, graphics and rich HTML, and a high-level framework for parallel computing.""
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/XFw1JVXKJss/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=XFw1JVXKJss,https://www.youtube.com/watch?v=XFw1JVXKJss
+99,Jessica McKellar: Building and breaking a Python sandbox - PyCon 2014,https://www.youtube.com/watch?v=sL_syMmRkoU,sL_syMmRkoU,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140412,1443,14875,153,3.0,PyCon2014,Science & Technology,"Speaker: Jessica McKellar
+
+What does it take to make a Python sandbox that can run untrusted code? Learn some surprising language features and experience security challenges first-hand as we work through building a Python sandbox from scratch. You'll leave this talk with renewed appreciation for the dynamic nature of Python, some sneaky language tricks, and a solid background in classes of sandboxing security issues.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/sL_syMmRkoU/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=sL_syMmRkoU,https://www.youtube.com/watch?v=sL_syMmRkoU
+100,Tres Seaver: By Your Bootstraps: Porting Your Application to Python3 - PyCon 2014,https://www.youtube.com/watch?v=nx0sXSeJbmI,nx0sXSeJbmI,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140412,2644,929,6,,PyCon2014,Science & Technology,"Speaker: Tres Seaver
+
+This talk is an experience report / best practices summary, based on work porting a very large stack to Python 3.x. The stack includes the Zope3 component architecture, ZODB, WebOb, pyramid, other dependencies, totalling ~180 KLOC Python + ~25 KLOC C.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/nx0sXSeJbmI/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=nx0sXSeJbmI,https://www.youtube.com/watch?v=nx0sXSeJbmI
+101,Jeff Schenck: Straightening Out AngularJS with Python - PyCon 2014,https://www.youtube.com/watch?v=WQGQPnTDNvk,WQGQPnTDNvk,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140412,1842,6074,25,3.0,PyCon2014,Science & Technology,"Speaker: Jeff Schenck
+
+AngularJS is a really exciting tool for building super slick single-page apps. But if you want them to play nice with a Python backend (Django, Pyramid, Flask, etc.) you're going to have to do a little bit of wrangling. These are the design patterns that worked for us.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/WQGQPnTDNvk/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=WQGQPnTDNvk,https://www.youtube.com/watch?v=WQGQPnTDNvk
+102,Noah Kantrowitz: Application Deployment State of the Onion - PyCon 2014,https://www.youtube.com/watch?v=SW1OXGl3Mck,SW1OXGl3Mck,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140412,1764,1364,20,,PyCon2014,Science & Technology,"Speaker: Noah Kantrowitz
+
+Deploying a moderately complex web application has become quite a challenge over the years. As best-practices have evolved, it has become progressively more time-consuming to keep up with what tools exist and how to use them effectively. This talk will provide an overview of the ecosystem and provide pointers for more information about individual components or problems.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/SW1OXGl3Mck/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=SW1OXGl3Mck,https://www.youtube.com/watch?v=SW1OXGl3Mck
+103,John Perry Barlow - Keynote - PyCon 2014,https://www.youtube.com/watch?v=QGVzb5YXmeo,QGVzb5YXmeo,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140412,2761,3216,26,2.0,PyCon2014,Science & Technology,,https://i.ytimg.com/vi/QGVzb5YXmeo/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=QGVzb5YXmeo,https://www.youtube.com/watch?v=QGVzb5YXmeo
+104,"Travis Fischer, Esther Nam: Character encoding and Unicode in Python - PyCon 2014",https://www.youtube.com/watch?v=Mx70n1dL534,Mx70n1dL534,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140412,1787,9360,110,6.0,PyCon2014,Science & Technology,"Speakers: Travis Fischer, Esther Nam
+
+Every developer will inevitably feel the pain of character encoding issues. We will cover the fundamentals every Python developer should know on character encoding and Unicode. We will teach you how to identify the types of problems that occur when dealing with character encoding and outline a set of best practices and useful libraries which can be used to avoid and fix character encoding issues.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/Mx70n1dL534/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=Mx70n1dL534,https://www.youtube.com/watch?v=Mx70n1dL534
+105,Opening statements - PyCon 2014,https://www.youtube.com/watch?v=L_LLYTm-QnM,L_LLYTm-QnM,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140412,1055,685,1,,PyCon2014,Science & Technology,,https://i.ytimg.com/vi/L_LLYTm-QnM/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=L_LLYTm-QnM,https://www.youtube.com/watch?v=L_LLYTm-QnM
+106,Colton Myers: Decorators: A Powerful Weapon in your Python Arsenal - PyCon 2014,https://www.youtube.com/watch?v=9oyr0mocZTg,9oyr0mocZTg,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140412,1891,29704,271,12.0,PyCon2014,Science & Technology,"Speaker: Colton Myers
+
+Decorators are an invaluable addition to anyone's arsenal of python tools and tricks. We will learn what a decorator is, how decorators are created, and then explore some of the cooler applications for decorators in our everyday projects.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/9oyr0mocZTg/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=9oyr0mocZTg,https://www.youtube.com/watch?v=9oyr0mocZTg
+107,"A. Jesse Jiryu Davis: What Is Async, How Does It Work, And When Should I Use It? - PyCon 2014",https://www.youtube.com/watch?v=9WV7juNmyE8,9WV7juNmyE8,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140412,2809,7295,96,5.0,PyCon2014,Science & Technology,"Speaker: A. Jesse Jiryu Davis
+
+Python's asynchronous frameworks, like Tulip, Tornado, and Twisted, are increasingly important for writing high-performance web applications. Even if you're an experienced web programmer, you may lack a rigorous understanding of how these frameworks work and when to use them. Let's see how Tulip's event loop works, and learn how to efficiently handle very large numbers of concurrent connections.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/9WV7juNmyE8/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=9WV7juNmyE8,https://www.youtube.com/watch?v=9WV7juNmyE8
+108,Peter Baumgartner: Getting Started with SaltStack - PyCon 2014,https://www.youtube.com/watch?v=mXjLhFUruzA,mXjLhFUruzA,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140412,2073,20262,137,1.0,PyCon2014,Science & Technology,"Speaker: Peter Baumgartner
+
+""Salt is the new kid on the block in the configuration management space. Unlike the Ruby-based Chef and Puppet, Salt is written in Python, making it easy to debug and extend for Python developers.  This talk will introduce Salt as well as explore some of the things that make it unique.""
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/mXjLhFUruzA/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=mXjLhFUruzA,https://www.youtube.com/watch?v=mXjLhFUruzA
+109,Luke Sneeringer: Introduction to Regular Expressions - PyCon 2014,https://www.youtube.com/watch?v=jKfkLVDAwRQ,jKfkLVDAwRQ,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140412,1656,4885,76,3.0,PyCon2014,Science & Technology,"Speaker: Luke Sneeringer
+
+Many developers, including quite a few experienced developers, are absolutely confounded by regular expressions. However, regular expressions aren't as difficult as many believe. In this talk, I will teach regular expressions by starting with the simple and moving toward the complex, so that you too can read and write regular expressions like a hero.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/jKfkLVDAwRQ/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=jKfkLVDAwRQ,https://www.youtube.com/watch?v=jKfkLVDAwRQ
+110,Katharine Jarmul: Python Scraping Showdown: A performance and accuracy review - PyCon 2014,https://www.youtube.com/watch?v=dWlhrL1l3QU,dWlhrL1l3QU,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140412,1514,2786,32,6.0,PyCon2014,Science & Technology,"Speaker: Katharine Jarmul
+
+Ever wondered how python web-scraping libraries compare in terms of speed and accuracy? I'll review lxml, html5lib, BeautifulSoup and scrapy with a series of sites evaluating how quickly they can parse pages and how accurately they can find data, particularly pieces of data that render after DOM loading and other pesky bits like hidden form data, internationalized data and mobile-compliant sites.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/dWlhrL1l3QU/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=dWlhrL1l3QU,https://www.youtube.com/watch?v=dWlhrL1l3QU
+111,Justin Bronn: Puppet Modules: Apps for Ops - PyCon 2014,https://www.youtube.com/watch?v=RrUf0q-tZiE,RrUf0q-tZiE,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140412,1670,613,1,,PyCon2014,Science & Technology,"Speaker: Justin Bronn
+
+Puppet modules provide reusable operations (""ops"") code in a manner analogous to Django apps. This talk explores the Puppet ecosystem through the eyes of a typical Python developer, and demonstrates how to use Puppet modules effectively to deploy and secure Python web applications.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/RrUf0q-tZiE/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=RrUf0q-tZiE,https://www.youtube.com/watch?v=RrUf0q-tZiE
+112,Brett Slatkin: Fan-in and Fan-out: The crucial components of concurrency - PyCon 2014,https://www.youtube.com/watch?v=CWmq-jtkemY,CWmq-jtkemY,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140412,1851,4134,63,2.0,PyCon2014,Science & Technology,"Speaker: Brett Slatkin
+
+The most important yet underappreciated parts of concurrent APIs are good constructs for fan-out (one thread spawns others) and fan-in (many threads join together). This talk will show examples of fan-in and fan-out. It will cover the successes and shortcomings of APIs that provide concurrency. Finally, we'll discuss how the async model of Tulip/PEP3156 is the ultimate API. The future is bright!
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/CWmq-jtkemY/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=CWmq-jtkemY,https://www.youtube.com/watch?v=CWmq-jtkemY
+113,Jessica McKellar: Contribute with me! Getting started with open source development - PyCon 2014,https://www.youtube.com/watch?v=k17GqN9dT3Q,k17GqN9dT3Q,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140412,11954,5007,42,3.0,PyCon2014,Science & Technology,"Speaker: Jessica McKellar
+
+""Want to contribute to a Python project or the core language, but not sure where to start?
+ 
+ Join us for 3 hours learning the nuts and bolts of open source contribution. By the end of this tutorial, you'll have the tools and practice to confidently contribute to your favorite projects.
+ 
+ Beginning programmers are welcome and encouraged!""
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/k17GqN9dT3Q/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=k17GqN9dT3Q,https://www.youtube.com/watch?v=k17GqN9dT3Q
+114,Narahari Allamraju: Distributed task processing using Celery - PyCon 2014,https://www.youtube.com/watch?v=3mB5uWY3FT4,3mB5uWY3FT4,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140412,8211,4358,24,1.0,PyCon2014,Science & Technology,"Speaker: Narahari Allamraju
+
+Celery is a distributed task queue for Python that is used by a large number of web applications to off load tasks that can be executed asynchronously. This workshop will demonstrate how we can use Celery for a use case that isn't a web site or a web application and is something which could happen in a hospital or a bank or any other such large organization.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/3mB5uWY3FT4/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=3mB5uWY3FT4,https://www.youtube.com/watch?v=3mB5uWY3FT4
+115,Miguel Grinberg: Flask by Example - PyCon 2014,https://www.youtube.com/watch?v=FGrIyBDQLPg,FGrIyBDQLPg,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140412,13229,44811,418,22.0,PyCon2014,Science & Technology,"Speaker: Miguel Grinberg
+
+Flask is a web framework for Python based on Werkzeug, Jinja 2 and good intentions. It is considered a micro-framework, but don't get the ""micro"" part fool you; Flask can do everything others can do, many times in a simpler, leaner way. In this tutorial session you will follow me as I write a complete web application in front of your eyes using the core framework and a handful of extensions.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/FGrIyBDQLPg/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=FGrIyBDQLPg,https://www.youtube.com/watch?v=FGrIyBDQLPg
+116,Mike Müller: Faster Python Programs through Optimization - PyCon 2014,https://www.youtube.com/watch?v=wNBJDpyRm8w,wNBJDpyRm8w,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140412,10794,3605,12,,PyCon2014,Science & Technology,"Speaker: Mike Müller
+
+Although Python programs may be slow for certain types of tasks, there are many different ways to improve the performance. This tutorial will introduce optimization strategies and demonstrate techniques to implement them. Another objective of this course is to help the participants to gain the ability to decide what might be the optimal solution for a specific performance problem.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/wNBJDpyRm8w/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=wNBJDpyRm8w,https://www.youtube.com/watch?v=wNBJDpyRm8w
+117,Katharine Jarmul: Introduction to Web (and data!) Scraping with Python - PyCon 2014,https://www.youtube.com/watch?v=p1iX0uxM1w8,p1iX0uxM1w8,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140412,12157,37063,327,25.0,PyCon2014,Science & Technology,"Speaker: Katharine Jarmul
+
+Want to learn how to scrape the web (and / or organized data sets and APIs) for content? This tutorial will give you the building blocks (and code) to begin your own scraping adventures. We will review basic data scraping, API usage, form submission as well as how to scrape pesky bits like Javascript-usage for DOM manipulation.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/p1iX0uxM1w8/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=p1iX0uxM1w8,https://www.youtube.com/watch?v=p1iX0uxM1w8
+118,"Harry Percival: TDD for web applications, from scratch - PyCon 2014",https://www.youtube.com/watch?v=X9474CgJleg,X9474CgJleg,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140412,12306,5325,43,5.0,PyCon2014,Science & Technology,"Speaker: Harry Percival
+
+Learn Test-Driven-Development and Django by building a simple web application from scratch. We'll cover unit testing, Django models, views and templates, as well as using Selenium to open up a real web browser for functional tests. This talk is intended for audiences new to TDD, new to Django, and even new to Python! You'll need Python 3, Git, Firefox, Selenium and Django installed on your PC.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/X9474CgJleg/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=X9474CgJleg,https://www.youtube.com/watch?v=X9474CgJleg
+119,"D. Maniloff, C. Fricke, Z. Howard: Hands-on with Pydata: how to build a minimal - PyCon 2014",https://www.youtube.com/watch?v=MFWAAPReG1M,MFWAAPReG1M,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140412,12060,1919,8,1.0,PyCon2014,Science & Technology,"Speakers: Diego Maniloff, Christian Fricke, Zach Howard
+
+In this tutorial we'll set ourselves the goal of building a minimal recommendation engine, and in the process learn about Python's excellent Pydata and related projects and tools: NumPy, pandas, and the IPython Notebook.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/MFWAAPReG1M/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=MFWAAPReG1M,https://www.youtube.com/watch?v=MFWAAPReG1M
+120,Hannah Aizenman: Beyond Defaults: Creating Polished Visualizations Using Matplotlib - PyCon 2014,https://www.youtube.com/watch?v=Eu8nLAIRuwM,Eu8nLAIRuwM,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140412,11303,1930,4,2.0,PyCon2014,Science & Technology,"Speaker: Hannah Aizenman
+
+When people hear of matplotlib, they think rudimentary graphs that will need to be touched up in photoshop. This tutorial aims to teach attendees how to exploit the functionality provided by various matplotlib libraries to create professional looking data visualizations.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/Eu8nLAIRuwM/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=Eu8nLAIRuwM,https://www.youtube.com/watch?v=Eu8nLAIRuwM
+121,Holger Krekel: Improving automated testing with py.test - PyCon 2014,https://www.youtube.com/watch?v=AiThU6JQbE8,AiThU6JQbE8,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140412,12097,9061,51,3.0,PyCon2014,Science & Technology,"Speaker: Holger Krekel
+
+Many people learn testing through the JUnit/PYUnit paradigm. Lately, py.test's new fixture mechanisms have gained traction among many Pythonistas. This tutorial explores py.test discusses key strategies how to benefit from using py.test for your existing unittest/nose based code bases.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/AiThU6JQbE8/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=AiThU6JQbE8,https://www.youtube.com/watch?v=AiThU6JQbE8
+122,Christophe Pettus: PostgreSQL Proficiency for Python People - PyCon 2014,https://www.youtube.com/watch?v=0uCxLCmzaG4,0uCxLCmzaG4,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140412,11378,11274,128,5.0,PyCon2014,Science & Technology,"Speaker: Christophe Pettus
+
+""PostgreSQL has become the default database for most green-field development projects, and is the data storage architecture behind many major Python-based success stories, such as Instagram.
+ Despite a reputation as being complex and fiddly, Postgres is easy to install, administer, maintain, and use... with just a little bit of orientation.This is that orientation.""
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/0uCxLCmzaG4/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=0uCxLCmzaG4,https://www.youtube.com/watch?v=0uCxLCmzaG4
+123,"M. Pirnat, D. Stanek: Shiny, Let's Be Bad Guys: Exploiting and Mitigating the Top 10 - PyCon 2014",https://www.youtube.com/watch?v=nQOahpei6kw,nQOahpei6kw,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140412,12531,826,4,,PyCon2014,Science & Technology,"Speaker: Mike Pirnat, David Stanek
+
+The Internet is a dangerous place, filled with evildoers out to attack your code for fun or profit, so it's not enough to just ship your awesome new web app--you have to take the security of your application, your users, and your data seriously. You'll get into the mindset of the bad guys as we discuss, exploit, and mitigate the most common web app security flaws in a controlled environment.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/nQOahpei6kw/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=nQOahpei6kw,https://www.youtube.com/watch?v=nQOahpei6kw
+124,Paul Everitt: Python 3/2 Web Development with Pyramid - PyCon 2014,https://www.youtube.com/watch?v=Qvo3zWItBjo,Qvo3zWItBjo,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140412,11425,2827,20,1.0,PyCon2014,Science & Technology,"Speaker: Paul Everitt
+
+Python 3 is upon us! This lively, hands-on tutorial covers a little about a lot, showing Python 3 (and 2) web development using Pyramid, a fast, modern, lightweight web framework. Fun, fast-paced, and most certainly not aimed at experts.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/Qvo3zWItBjo/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=Qvo3zWItBjo,https://www.youtube.com/watch?v=Qvo3zWItBjo
+125,David Beazley: Generators: The Final Frontier - PyCon 2014,https://www.youtube.com/watch?v=D1twn9kLmYg,D1twn9kLmYg,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140412,13854,56459,674,47.0,PyCon2014,Science & Technology,"Speaker: David Beazley
+
+Python generators have long been useful for solving all sorts of problems involving iteration and data flow. However, one of their more powerful uses is in customizing various aspects of program control flow. In this tutorial, we'll look at some more exotic uses of generators such as writing context managers, inlining callback functions, eliminating recursion, implementing actors, and more.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/D1twn9kLmYg/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=D1twn9kLmYg,https://www.youtube.com/watch?v=D1twn9kLmYg
+126,Krishna Sankar: Data Wrangling for Kaggle Data Science Competitions -- An etude - PyCon 2014,https://www.youtube.com/watch?v=zwa9uc0LpXo,zwa9uc0LpXo,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140412,12124,3819,15,2.0,PyCon2014,Science & Technology,"Speaker: Krishna Sankar
+
+Let us mix Python analytics tools, add a dash of Machine Learning Algorithmics & work on Data Science Analytics competitions hosted by Kaggle. This tutorial introduces the intersection of Data, Inference & Machine Learning, structured in a progressive mode, so that the attendees learn by hands-on wrangling with data for interesting inferences using scikit-learn (scipy, numpy) & pandas
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/zwa9uc0LpXo/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=zwa9uc0LpXo,https://www.youtube.com/watch?v=zwa9uc0LpXo
+127,Aurynn Shaw: Let's Learn Twisted Python - PyCon 2014,https://www.youtube.com/watch?v=XTMsUuWX02Q,XTMsUuWX02Q,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140412,10765,6825,7,6.0,PyCon2014,Science & Technology,"Speaker: Aurynn Shaw
+
+Let's Learn Twisted is a short 3-hour tutorial covering the basics of writing a Twisted Python client-server application using Twisted Python's Factory and Endpoint APIs to construct a peer-to-peer chat and RPC network.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/XTMsUuWX02Q/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=XTMsUuWX02Q,https://www.youtube.com/watch?v=XTMsUuWX02Q
+128,"Tracy Osborn, David Wolever: Django for Web Designers and Front End Developers - PyCon 2014",https://www.youtube.com/watch?v=-l3ILra8ewI,-l3ILra8ewI,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140412,11814,5343,39,8.0,PyCon2014,Science & Technology,"Speakers: Tracy Osborn, David Wolever
+
+Traditional tutorials for Django usually assume some programming experience, but what if someone is learning Python and Django with a HTML/CSS background? This tutorial focuses on the web-based features of Django — templates and the admin — and goes over the basic building blocks of Django programming to get web designers excited and interested in learning more.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/-l3ILra8ewI/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=-l3ILra8ewI,https://www.youtube.com/watch?v=-l3ILra8ewI
+129,"Rupa Dachere, Akkana Peck: Build your own PiDoorbell! Home Automation with Python - PyCon 2014",https://www.youtube.com/watch?v=i62piPQkUtA,i62piPQkUtA,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140412,12046,1360,3,,PyCon2014,Science & Technology,"Speakers: Rupa Dachere, Akkana Peck
+
+""Rupa and Akkana will walk you through the setup/code to build your own super-cool PiDoorbell project to monitor/notify you about visitors at your house.
+ Learn about the RaspberryPi, PiDoorbell software/hardware and build your own PiDoorbell to take home with you!
+Bring a RaspberryPi, power cord, USB cable (USB camera optional). We will provide the rest of the hardware (wifi, prox. sensor etc.).""
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/i62piPQkUtA/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=i62piPQkUtA,https://www.youtube.com/watch?v=i62piPQkUtA
+130,Stuart Williams: Python Epiphanies - PyCon 2014,https://www.youtube.com/watch?v=Uyj2UFTL_vg,Uyj2UFTL_vg,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140411,12498,5604,28,10.0,PyCon2014,Science & Technology,"Speaker: Stuart Williams
+
+This tutorial is for developers who've been using Python for a while and would consider themselves at an intermediate level, but are looking for a deeper understanding of the language. It focuses on how Python differs from other languages in subtle but important ways that are often confusing, and it demystifies a number of language features that are sometimes misunderstood.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/Uyj2UFTL_vg/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=Uyj2UFTL_vg,https://www.youtube.com/watch?v=Uyj2UFTL_vg
+131,"Olivier Grisel, Jake Vanderplas: Diving deeper into Machine Learning with Scikit-learn - PyCon 2014",https://www.youtube.com/watch?v=FOZvHx-43pg,FOZvHx-43pg,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140411,11732,4985,27,,PyCon2014,Science & Technology,"Speakers: Olivier Grisel, Jake Vanderplas
+
+This tutorial session is an hands-on workshop on applied Machine Learning with the scikit-learn library. We will dive deeper into scikit-learn model evaluation and automated parameter tuning. We will also study how to scale text classification models for sentiment analysis or spam detection and use IPython.parallel to leverage multi-CPU or ad-hoc cloud clusters.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/FOZvHx-43pg/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=FOZvHx-43pg,https://www.youtube.com/watch?v=FOZvHx-43pg
+132,Jim Blomo: mrjob: Snakes on a Hadoop - PyCon 2014,https://www.youtube.com/watch?v=txT_sA1malk,txT_sA1malk,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140411,11645,4232,37,5.0,PyCon2014,Science & Technology,"Speaker: Jim Blomo
+
+This tutorial will take participants through basic usage of mrjob by writing analytics jobs over Yelp data. mrjob lets you easily write, run, and test distributed batch jobs in Python, on top of Hadoop. Hadoop is a MapReduce platform for processing big data but requires a fair amount of Java boilerplate. mrjob is an open source Python library written by Yelp used to process TBs of data every day.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/txT_sA1malk/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=txT_sA1malk,https://www.youtube.com/watch?v=txT_sA1malk
+133,Eric Ma: How to formulate a (science) problem and analyze it using Python code - PyCon 2014,https://www.youtube.com/watch?v=j7AYwU7GcTs,j7AYwU7GcTs,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140411,11525,2307,9,3.0,"Python (Software),PyCon2014",Science & Technology,"Speaker: Eric Ma
+
+Are you interested in doing analysis but don't know where to start? This tutorial is for you. Python packages & tools (IPython, scikit-learn, NetworkX) are powerful for performing data analysis. However, little is said about formulating the questions and tying these tools together to provide a holistic view of the data. This tutorial will provide you with an introduction on how this can be done.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/j7AYwU7GcTs/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=j7AYwU7GcTs,https://www.youtube.com/watch?v=j7AYwU7GcTs
+134,"Jake Vanderplas, Olivier Grisel: Exploring Machine Learning with Scikit-learn - PyCon 2014",https://www.youtube.com/watch?v=HjAB45qsx_c,HjAB45qsx_c,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140411,12254,27975,211,8.0,PyCon2014,Science & Technology,"Speakers: Jake Vanderplas, Olivier Grisel
+
+This tutorial will offer an introduction to the core concepts of machine learning, and how they can be easily applied in Python using Scikit-learn. We will use the scikit-learn API to introduce and explore the basic categories of machine learning problems, related topics such as feature selection and model validation, and the application of these tools to real-world data sets.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/HjAB45qsx_c/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=HjAB45qsx_c,https://www.youtube.com/watch?v=HjAB45qsx_c
+135,Jessica McKellar: A hands-on introduction to Python for beginning programmers - PyCon 2014,https://www.youtube.com/watch?v=MirG-vJOg04,MirG-vJOg04,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140411,12109,91482,745,48.0,"Python (Software),PyCon2014",Science & Technology,"Speaker: Jessica McKellar
+
+Beginning programmers: welcome to PyCon! Jumpstart your Python and programming careers with this 3-hour interactive tutorial. By the end, you'll have hands-on exposure to many core programming concepts, be able to write useful Python programs, and have a roadmap for continuing to learn and practice programming in Python. This class assumes no prior programming experience.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/MirG-vJOg04/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=MirG-vJOg04,https://www.youtube.com/watch?v=MirG-vJOg04
+136,Mike Müller: Descriptors and Metaclasses - Python's More Advanced Features - PyCon 2014,https://www.youtube.com/watch?v=W0c5sjxajI4,W0c5sjxajI4,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140411,11739,4354,21,5.0,"Python (Software),PyCon2014",Science & Technology,"Speaker: Mike Müller
+
+Descriptors and metaclasses are advanced Python features. While it is possible to write Python programs without active of knowledge of them, knowing how they work provides a deeper understanding about the language. Using examples, you will learn how they work and when to use as well as when better not to use them. Use cases provide working code that can serve as a base for own solutions.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/W0c5sjxajI4/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=W0c5sjxajI4,https://www.youtube.com/watch?v=W0c5sjxajI4
+137,G. Clifford Williams: 0 to 00111100 with web2py - PyCon 2014,https://www.youtube.com/watch?v=GeQt7CxzmPo,GeQt7CxzmPo,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140411,12139,5587,26,5.0,PyCon2014,Science & Technology,"Speaker: G. Clifford Williams
+
+This tutorial teaches basic web development for people who have some experience with HTML. No experience with CSS or JavaScript is required. We will build a basic web application using AJAX, web forms, and a local SQL database.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/GeQt7CxzmPo/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=GeQt7CxzmPo,https://www.youtube.com/watch?v=GeQt7CxzmPo
+138,"Kenneth Love: Getting Started with Django, a crash course - PyCon 2014",https://www.youtube.com/watch?v=KZHXjGP71kQ,KZHXjGP71kQ,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140411,12215,47451,277,29.0,PyCon2014,Science & Technology,"Speaker: Kenneth Love
+
+Getting Started With Django is a well-established series of videos teaching best practices and common approaches for building web apps to people new to Django. This tutorial combines the first few lessons into a single lesson. Attendees will follow along as I start and build an entire simple web app and, network permitting, deploy it to Heroku.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/KZHXjGP71kQ/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=KZHXjGP71kQ,https://www.youtube.com/watch?v=KZHXjGP71kQ
+139,Matthew Russell: Mining Social Web APIs with IPython Notebook - PyCon 2014,https://www.youtube.com/watch?v=jpCG792tVt0,jpCG792tVt0,PyCon 2014,@PyCon2014,https://www.youtube.com/@PyCon2014,20140411,12324,7361,66,3.0,"IPython,PyCon2014",Science & Technology,"Speaker: Matthew Russell
+
+Social websites such as Twitter, Facebook, LinkedIn, Google+, and GitHub have vast amounts of valuable insights lurking just beneath the surface, and this workshop minimizes the barriers to exploring and mining this valuable data by presenting turn-key examples from the thoroughly revised 2nd Edition of Mining the Social Web.
+
+Slides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",https://i.ytimg.com/vi/jpCG792tVt0/maxresdefault.jpg,0,False,False,public,https://www.youtube.com/watch?v=jpCG792tVt0,https://www.youtube.com/watch?v=jpCG792tVt0
