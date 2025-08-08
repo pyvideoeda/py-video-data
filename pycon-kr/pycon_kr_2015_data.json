@@ -1,0 +1,1009 @@
+[
+    {
+        "index": 1,
+        "title": "서상현: 파이썬: 내다보기 - PyCon Korea 2015",
+        "url": "https://www.youtube.com/watch?v=0abmVNlkxRo",
+        "video_id": "0abmVNlkxRo",
+        "uploader": "PyCon Korea",
+        "uploader_id": "@PyConKRtube",
+        "uploader_url": "https://www.youtube.com/@PyConKRtube",
+        "upload_date": "20160827",
+        "duration": 1652,
+        "view_count": 687,
+        "like_count": 3,
+        "comment_count": null,
+        "tags": [
+            "pycon",
+            "pyconkr"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "프로그래밍 언어는 프로그래머와 컴퓨터 사이의 사용자 인터페이스로 기능합니다. 사용자 인터페이스로서의 파이썬 프로그래밍 언어의 미래를 고민해 봅니다.",
+        "thumbnail": "https://i.ytimg.com/vi/0abmVNlkxRo/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=0abmVNlkxRo",
+        "original_url": "https://www.youtube.com/watch?v=0abmVNlkxRo"
+    },
+    {
+        "index": 2,
+        "title": "박중석: Python on Azure - PyCon Korea 2015",
+        "url": "https://www.youtube.com/watch?v=9DGxn-nyqSk",
+        "video_id": "9DGxn-nyqSk",
+        "uploader": "PyCon Korea",
+        "uploader_id": "@PyConKRtube",
+        "uploader_url": "https://www.youtube.com/@PyConKRtube",
+        "upload_date": "20160827",
+        "duration": 2919,
+        "view_count": 193,
+        "like_count": 4,
+        "comment_count": null,
+        "tags": [
+            "pycon",
+            "pyconkr"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "이 세션에서는 퍼블릭 클라우드로서의 Azure의 활용도를 알아보고, Python 을 Azure 에서 사용하는 방법을 살펴봅니다. 인프라스트럭처 뿐만 아니라 플랫폼 기반의 클라우드 환경에 Python 과 Django를 이용하여 만든 웹 사이트를 배포하는 방법과 Python으로 활용할 수 있는 Azure 서비스 들에 대해서도 알아 봅니다.",
+        "thumbnail": "https://i.ytimg.com/vi_webp/9DGxn-nyqSk/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=9DGxn-nyqSk",
+        "original_url": "https://www.youtube.com/watch?v=9DGxn-nyqSk"
+    },
+    {
+        "index": 3,
+        "title": "임덕규: 업무에서 빠르게 만들어 사용하는 PyQt 프로그래밍 - PyCon Korea 2015",
+        "url": "https://www.youtube.com/watch?v=UHqZMRbHcvc",
+        "video_id": "UHqZMRbHcvc",
+        "uploader": "PyCon Korea",
+        "uploader_id": "@PyConKRtube",
+        "uploader_url": "https://www.youtube.com/@PyConKRtube",
+        "upload_date": "20160827",
+        "duration": 2299,
+        "view_count": 25506,
+        "like_count": 223,
+        "comment_count": 2,
+        "tags": [
+            "pycon",
+            "pyconkr"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "PyQt는 C++의 크로스 플랫폼 프레임웍인 Qt를 Python에서 사용할 수 있도록 하는 프로젝트입니다.",
+        "thumbnail": "https://i.ytimg.com/vi/UHqZMRbHcvc/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=UHqZMRbHcvc",
+        "original_url": "https://www.youtube.com/watch?v=UHqZMRbHcvc"
+    },
+    {
+        "index": 4,
+        "title": "김경훈: NetworkX를 이용한 네트워크 링크 예측 - PyCon Korea 2015",
+        "url": "https://www.youtube.com/watch?v=fzd15NH-voE",
+        "video_id": "fzd15NH-voE",
+        "uploader": "PyCon Korea",
+        "uploader_id": "@PyConKRtube",
+        "uploader_url": "https://www.youtube.com/@PyConKRtube",
+        "upload_date": "20160827",
+        "duration": 2470,
+        "view_count": 585,
+        "like_count": 10,
+        "comment_count": null,
+        "tags": [
+            "pycon",
+            "pyconkr"
+        ],
+        "categories": null,
+        "description": "이번 발표는 NetworkX의 기초적인 내용을 알고 계신 것을 가정하고 진행하는 네트워크 분석 중급편입니다. 지난 발표에서 건의해 주셨던 내용에 대한 피드백을 먼저 말씀드리고, 네트워크의 링크를 예측하기 위해 Numpy, Pandas 등을 이용한 데이터 전처리 과정, 네트워크의 링크를 예측한다는 건 무엇인지, 네트워크를 ipython에서 자유롭게 그리기 위해 d3.js를 사용하는 데모 등을 소개해 드립니다.",
+        "thumbnail": "https://i.ytimg.com/vi/fzd15NH-voE/sddefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": null,
+        "webpage_url": "https://www.youtube.com/watch?v=fzd15NH-voE",
+        "original_url": "https://www.youtube.com/watch?v=fzd15NH-voE"
+    },
+    {
+        "index": 5,
+        "title": "이호성: Python 테스트 시작하기 - PyCon Korea 2015",
+        "url": "https://www.youtube.com/watch?v=hAUjItE42cY",
+        "video_id": "hAUjItE42cY",
+        "uploader": "PyCon Korea",
+        "uploader_id": "@PyConKRtube",
+        "uploader_url": "https://www.youtube.com/@PyConKRtube",
+        "upload_date": "20160827",
+        "duration": 2334,
+        "view_count": 860,
+        "like_count": 12,
+        "comment_count": 2,
+        "tags": [
+            "pycon",
+            "pyconkr"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "개발자들은 항상 테스트를 작성합니다. (그렇지 않다면 해야 합니다.) 하지만 좋은 테스트를 작성하는 것 뿐 아니라 프로젝트의 완료까지 테스트를 지속하는 것도 쉽지 않은 일입니다. 다음 내용들을 소개해 테스트에 익숙하지 않은 초보 개발자분들께 가이드라인을 제시하고자 합니다.",
+        "thumbnail": "https://i.ytimg.com/vi_webp/hAUjItE42cY/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=hAUjItE42cY",
+        "original_url": "https://www.youtube.com/watch?v=hAUjItE42cY"
+    },
+    {
+        "index": 6,
+        "title": "배준현: 파이썬 메모리 이모저모 - PyCon Korea 2015",
+        "url": "https://www.youtube.com/watch?v=UwGHc6A0Jq8",
+        "video_id": "UwGHc6A0Jq8",
+        "uploader": "PyCon Korea",
+        "uploader_id": "@PyConKRtube",
+        "uploader_url": "https://www.youtube.com/@PyConKRtube",
+        "upload_date": "20160827",
+        "duration": 2260,
+        "view_count": 1686,
+        "like_count": 44,
+        "comment_count": 3,
+        "tags": [
+            "pycon",
+            "pyconkr"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "다른 언어에 비해 메모리에 대해 신경 쓸 부분이 없다시피 한 파이썬이지만, 가끔씩 내부 메모리 처리에 대한 사전 지식이 없어 쉬운 길을 멀리 돌아가거나 예상치 못한 버그를 마주할 때가 있습니다. 이 발표에서는 파이썬이 내부적으로 메모리를 어떻게 관리하고 객체들이 메모리에 실제로 어떻게 저장되는지, GC는 어떻게 동작하는지, 파이썬에 객체와 메모리에 관련된 함수들과 모듈들은 어떤게 있는지, monkey patch 등의 코딩을 한층 쉽게 만들어주는 메모리 관련 트릭들은 대표적으로 어떤 것들이 있는지 설명합니다.",
+        "thumbnail": "https://i.ytimg.com/vi/UwGHc6A0Jq8/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=UwGHc6A0Jq8",
+        "original_url": "https://www.youtube.com/watch?v=UwGHc6A0Jq8"
+    },
+    {
+        "index": 7,
+        "title": "김영근: Writing fast code - PyCon Korea 2015",
+        "url": "https://www.youtube.com/watch?v=UmJ9g0sqvVI",
+        "video_id": "UmJ9g0sqvVI",
+        "uploader": "PyCon Korea",
+        "uploader_id": "@PyConKRtube",
+        "uploader_url": "https://www.youtube.com/@PyConKRtube",
+        "upload_date": "20160827",
+        "duration": 2271,
+        "view_count": 330,
+        "like_count": 7,
+        "comment_count": null,
+        "tags": [
+            "pycon",
+            "pyconkr"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "빠르게 동작하는 코드를 작성하기 위한 원리를 알아봅니다.\n\n처리하는 일의 양을 줄여서 속도를 개선하는 방법(코드 최적화)과 같은 시간에 처리하는 일의 양을 늘려서 속도를 개선하는 방법(병렬화) 중 전자에 대해서 살펴봅니다. 컴퓨터와 파이썬의 내부 동작 원리를 가볍게 살펴본 후, dis 모듈과 각종 프로파일러(cProfile, line_profiler, profiling)를 이용하여 코드의 병목 지점을 찾아 이를 개선하는 과정을 알아봅니다.",
+        "thumbnail": "https://i.ytimg.com/vi/UmJ9g0sqvVI/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=UmJ9g0sqvVI",
+        "original_url": "https://www.youtube.com/watch?v=UmJ9g0sqvVI"
+    },
+    {
+        "index": 8,
+        "title": "최규민: 추천시스템이 word2vec을 만났을때 - PyCon Korea 2015",
+        "url": "https://www.youtube.com/watch?v=iutEgQg7yws",
+        "video_id": "iutEgQg7yws",
+        "uploader": "PyCon Korea",
+        "uploader_id": "@PyConKRtube",
+        "uploader_url": "https://www.youtube.com/@PyConKRtube",
+        "upload_date": "20160827",
+        "duration": 2352,
+        "view_count": 6502,
+        "like_count": 125,
+        "comment_count": 1,
+        "tags": [
+            "pycon",
+            "pyconkr"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "여기서 Great한 추천 시스템에 대하여 이야기를 하느냐? 아닙니다. !!!   저도 Great한 추천시스템이 무엇인지 모릅니다.\n 하지만 Reasonable한 추천 시스템(Collaboration Filtering)부터 Word2vec을 이용한 색다른 추천 시스템이 구현되는 과정을 살펴 봄으로써, Great한 추천시스템을 만들기 위해 함께 고민하는 자리가 되었으면 합니다.",
+        "thumbnail": "https://i.ytimg.com/vi/iutEgQg7yws/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=iutEgQg7yws",
+        "original_url": "https://www.youtube.com/watch?v=iutEgQg7yws"
+    },
+    {
+        "index": 9,
+        "title": "강대성: Character Encoding in Python - PyCon Korea 2015",
+        "url": "https://www.youtube.com/watch?v=PKC7syxaBVU",
+        "video_id": "PKC7syxaBVU",
+        "uploader": "PyCon Korea",
+        "uploader_id": "@PyConKRtube",
+        "uploader_url": "https://www.youtube.com/@PyConKRtube",
+        "upload_date": "20160827",
+        "duration": 2180,
+        "view_count": 219,
+        "like_count": 4,
+        "comment_count": null,
+        "tags": [
+            "pycon",
+            "pyconkr"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "이 발표는 Character Encoding 개념을 소개하고, Python을 사용하면서 경험했던 인코딩 사례들을 공유하는 내용으로 진행합니다. 또한 Encoding 문제를 피하기 위한 방법을 제시합니다.",
+        "thumbnail": "https://i.ytimg.com/vi_webp/PKC7syxaBVU/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=PKC7syxaBVU",
+        "original_url": "https://www.youtube.com/watch?v=PKC7syxaBVU"
+    },
+    {
+        "index": 10,
+        "title": "김형관: Simulation on Optical Image Stabilizer using Python - PyCon Korea 2015",
+        "url": "https://www.youtube.com/watch?v=dO8yLFL8UHY",
+        "video_id": "dO8yLFL8UHY",
+        "uploader": "PyCon Korea",
+        "uploader_id": "@PyConKRtube",
+        "uploader_url": "https://www.youtube.com/@PyConKRtube",
+        "upload_date": "20160827",
+        "duration": 1608,
+        "view_count": 484,
+        "like_count": 6,
+        "comment_count": 1,
+        "tags": [
+            "pycon",
+            "pyconkr"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "본 세션에서는 Python의 control library를 이용하여 모바일 카메라에 탑재되는 광학식 손떨림 보정기능(OIS)을 구현해 봅니다. 손떨림 보정의 동작 원리에 대하여 간단히 설명한 후, 전달 함수의 설계, 딜레이 설정, 게인 및 각종 필터 설계, 피드백 연결을 통하여 시스템을 만듭니다. OIS는 비교적 기초적인 구조의 feedback system이며, 대부분 라이브러리화 되있기에 python으로 쉽게 구현 할 수 있습니다. 완성된 시뮬레이션 기능을 이용한 현업에서의 활용 방안과, 구현에 있어서 시행착오들을 공유하려 합니다.",
+        "thumbnail": "https://i.ytimg.com/vi_webp/dO8yLFL8UHY/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=dO8yLFL8UHY",
+        "original_url": "https://www.youtube.com/watch?v=dO8yLFL8UHY"
+    },
+    {
+        "index": 11,
+        "title": "PyCon KR 2015 Lighting Talk 1st day 라이트닝 토크 첫째날 20150830",
+        "url": "https://www.youtube.com/watch?v=p0ClB3w6w-o",
+        "video_id": "p0ClB3w6w-o",
+        "uploader": "PyCon Korea",
+        "uploader_id": "@PyConKRtube",
+        "uploader_url": "https://www.youtube.com/@PyConKRtube",
+        "upload_date": "20160926",
+        "duration": 1912,
+        "view_count": 143,
+        "like_count": 2,
+        "comment_count": null,
+        "tags": [],
+        "categories": [
+            "Education"
+        ],
+        "description": "",
+        "thumbnail": "https://i.ytimg.com/vi_webp/p0ClB3w6w-o/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=p0ClB3w6w-o",
+        "original_url": "https://www.youtube.com/watch?v=p0ClB3w6w-o"
+    },
+    {
+        "index": 12,
+        "title": "배권한: 개회사 - PyCon Korea 2015",
+        "url": "https://www.youtube.com/watch?v=l1xWtRA15DM",
+        "video_id": "l1xWtRA15DM",
+        "uploader": "PyCon Korea",
+        "uploader_id": "@PyConKRtube",
+        "uploader_url": "https://www.youtube.com/@PyConKRtube",
+        "upload_date": "20160827",
+        "duration": 529,
+        "view_count": 51,
+        "like_count": 1,
+        "comment_count": null,
+        "tags": [
+            "pycon",
+            "pyconkr"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "",
+        "thumbnail": "https://i.ytimg.com/vi_webp/l1xWtRA15DM/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=l1xWtRA15DM",
+        "original_url": "https://www.youtube.com/watch?v=l1xWtRA15DM"
+    },
+    {
+        "index": 13,
+        "title": "김도형: 파이썬 기반의 대규모 알고리즘 트레이딩 시스템 소개 - PyCon Korea 2015",
+        "url": "https://www.youtube.com/watch?v=oEvWO_37rnc",
+        "video_id": "oEvWO_37rnc",
+        "uploader": "PyCon Korea",
+        "uploader_id": "@PyConKRtube",
+        "uploader_url": "https://www.youtube.com/@PyConKRtube",
+        "upload_date": "20160827",
+        "duration": 2879,
+        "view_count": 29184,
+        "like_count": 417,
+        "comment_count": 4,
+        "tags": [
+            "pycon",
+            "pyconkr"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "본 발표에서는 증권사 업무 자동화 시스템 중의 하나인 최적 집행 알고리즘 매매 시스템(Optimal Execution Algorithmic Trading System)을 소개하고 파이썬을 이용한 구현 경험을 공유합니다.",
+        "thumbnail": "https://i.ytimg.com/vi_webp/oEvWO_37rnc/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=oEvWO_37rnc",
+        "original_url": "https://www.youtube.com/watch?v=oEvWO_37rnc"
+    },
+    {
+        "index": 14,
+        "title": "Takayuki Shimizukawa: Sphinx autodoc: automated API documentation - PyCon Korea 2015",
+        "url": "https://www.youtube.com/watch?v=xiFdf9Zx5SU",
+        "video_id": "xiFdf9Zx5SU",
+        "uploader": "PyCon Korea",
+        "uploader_id": "@PyConKRtube",
+        "uploader_url": "https://www.youtube.com/@PyConKRtube",
+        "upload_date": "20160827",
+        "duration": 2033,
+        "view_count": 217,
+        "like_count": 1,
+        "comment_count": null,
+        "tags": [
+            "pycon",
+            "pyconkr"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "Sphinx can extract paragraphs from sphinx document and store them into gettext format translation catalog files.\nGettext format translation catalog is easy to translate from one language to other languages.\nAlso Sphinx support internationalization by using such catalog files.\nYou can use your favorite editors or services to translate your sphinx docs.\nIn this session, I'll explain 3 things; (1) entire process to translate sphinx docs. (2) automation mechanism for the process. (3) tips, tricks and traps for writing docs and translating.",
+        "thumbnail": "https://i.ytimg.com/vi_webp/xiFdf9Zx5SU/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=xiFdf9Zx5SU",
+        "original_url": "https://www.youtube.com/watch?v=xiFdf9Zx5SU"
+    },
+    {
+        "index": 15,
+        "title": "신정규, 김준기: 연구자 및 교육자들을 위한 파이썬 기반의 계산 및 분석 플랫폼 설계 - PyCon Korea 2015",
+        "url": "https://www.youtube.com/watch?v=APupiEb4IWE",
+        "video_id": "APupiEb4IWE",
+        "uploader": "PyCon Korea",
+        "uploader_id": "@PyConKRtube",
+        "uploader_url": "https://www.youtube.com/@PyConKRtube",
+        "upload_date": "20160827",
+        "duration": 2928,
+        "view_count": 265,
+        "like_count": 5,
+        "comment_count": null,
+        "tags": [
+            "pycon",
+            "pyconkr"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "현대 과학 연구에는 컴퓨터를 이용한 계산 및 분석 작업이 필수적입니다. 그러나 거대 스케일의 계산 및 분석 작업을 수행할 경우 컴퓨팅 리소스의 적절한 관리 및 확장 용이성을 확보하는 것은 많은 리소스를 필요로 합니다. 우리는 컴퓨터 계산 작업 및 분석 작업을 표준화하고 클라우드에서 처리하는 파이썬3 기반의 오픈소스 플랫폼을 설계 및 개발하고 있습니다. 또한 이 플랫폼 위에서 돌아가는 교육 / 연구 플랫폼을 함께 설계하고 있습니다.\n\n저희는 지난 2개월동안 이 과정을 통해 우리가 배운 것들을 공유하고자 합니다. 구체적으로는 개발 중인 플랫폼 구조, 설계 과정의 경험 및 python 3 기반의 플랫폼 개발시 주의할 점들에 대해 이야기하고, 그와 함께 이런 지뢰밭을 걷게 만든 '원동력' 에 대해 함께 이야기할 수 있는 자리가 되었으면 합니다.",
+        "thumbnail": "https://i.ytimg.com/vi_webp/APupiEb4IWE/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=APupiEb4IWE",
+        "original_url": "https://www.youtube.com/watch?v=APupiEb4IWE"
+    },
+    {
+        "index": 16,
+        "title": "이흥섭: Profiling - 실시간 대화식 프로파일러 - PyCon Korea 2015",
+        "url": "https://www.youtube.com/watch?v=-1qLERwLmlk",
+        "video_id": "-1qLERwLmlk",
+        "uploader": "PyCon Korea",
+        "uploader_id": "@PyConKRtube",
+        "uploader_url": "https://www.youtube.com/@PyConKRtube",
+        "upload_date": "20160827",
+        "duration": 1842,
+        "view_count": 247,
+        "like_count": 4,
+        "comment_count": null,
+        "tags": [
+            "pycon",
+            "pyconkr"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "야생의 땅: 듀랑고 - 게임서버의 성능을 개선하기 위해 실시간 프로파일러와 대화식 인터페이스를 만들었습니다. 새로운 프로파일러를 만들기 전 검토했던 다른 프로파일러들을 소개하고, 왜, 그리고 어떻게 새로운 프로파일러를 만들게 되었는지, 또 사용법과 향후 개발 계획은 어떻게 되는지 공유합니다.",
+        "thumbnail": "https://i.ytimg.com/vi/-1qLERwLmlk/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=-1qLERwLmlk",
+        "original_url": "https://www.youtube.com/watch?v=-1qLERwLmlk"
+    },
+    {
+        "index": 17,
+        "title": "오영택: 유연한 모바일 게임 운영을 위한 Git 기반 패치 시스템 - PyCon Korea 2015",
+        "url": "https://www.youtube.com/watch?v=YN33c2idYl4",
+        "video_id": "YN33c2idYl4",
+        "uploader": "PyCon Korea",
+        "uploader_id": "@PyConKRtube",
+        "uploader_url": "https://www.youtube.com/@PyConKRtube",
+        "upload_date": "20160827",
+        "duration": 1603,
+        "view_count": 183,
+        "like_count": 2,
+        "comment_count": null,
+        "tags": [
+            "pycon",
+            "pyconkr"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "쿠키런의 게임 패치 시스템은 파이썬으로 작성되었으며, bottle, pygit2 등을 이용하고 있습니다. 상기 요구사항들을 만족시키기 위해 현재의 시스템을 어떻게 구성했는지와 함께, 시스템 구축 및 실제 서비스 과정에서의 경험을 공유하고자 합니다.",
+        "thumbnail": "https://i.ytimg.com/vi/YN33c2idYl4/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=YN33c2idYl4",
+        "original_url": "https://www.youtube.com/watch?v=YN33c2idYl4"
+    },
+    {
+        "index": 18,
+        "title": "배권한: Python and test - PyCon Korea 2015",
+        "url": "https://www.youtube.com/watch?v=PXwlq3Q68CM",
+        "video_id": "PXwlq3Q68CM",
+        "uploader": "PyCon Korea",
+        "uploader_id": "@PyConKRtube",
+        "uploader_url": "https://www.youtube.com/@PyConKRtube",
+        "upload_date": "20160827",
+        "duration": 2778,
+        "view_count": 598,
+        "like_count": 2,
+        "comment_count": null,
+        "tags": [
+            "pycon",
+            "pyconkr"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "파이썬에서 테스트가 필요한 이유, 테스트 방법 그리고 TDD 에 대하여 이야기합니다.",
+        "thumbnail": "https://i.ytimg.com/vi_webp/PXwlq3Q68CM/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=PXwlq3Q68CM",
+        "original_url": "https://www.youtube.com/watch?v=PXwlq3Q68CM"
+    },
+    {
+        "index": 19,
+        "title": "장혜식: 탐색적으로 큰 데이터 분석하기: 파이프라인, 병렬화, 압축, 인덱싱 등에 대해 - PyCon Korea 2015",
+        "url": "https://www.youtube.com/watch?v=Gsakcl2aV8s",
+        "video_id": "Gsakcl2aV8s",
+        "uploader": "PyCon Korea",
+        "uploader_id": "@PyConKRtube",
+        "uploader_url": "https://www.youtube.com/@PyConKRtube",
+        "upload_date": "20160827",
+        "duration": 2389,
+        "view_count": 603,
+        "like_count": 12,
+        "comment_count": null,
+        "tags": [
+            "pycon",
+            "pyconkr"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "어떤 정보가 숨어있는지 알 수 없는 큰 데이터를 분석할 때는 미리 생각할 수 없는 시나리오로 진행되는 경우가 많다. 이렇게 데이터 처리의 윤곽이 잡혀있지 않을 때엔 빨리 만들어 빨리 쓰고 버리는 일회용 스크립팅과, 어떤 경우에도 쉽게 적응할 수 있는 일반화된 프레임워크가 필요하다. 또한, 결과가 빨리 나오지 않으면 다음 분석 작업이 늦어지기 때문에, 적은 노력으로 속도를 끌어올릴 수 있는 병렬화 환경이 있어야 한다.\n\n이 발표에서는 분자생물학에서 많이 사용되는 데이터 분석 도구들을 예로 들어, 빠른 반복주기가 필요한 대규모 탐색적 데이터 분석 방법을 소개한다. 워크플로우 자동화 도구 snakemake 의 기본적인 설계 개념을 알아본 뒤, snakemake를 이용한 병렬화, 여러 텍스트 파일 병렬처리, 인덱싱 도구들의 기본적인 개념과 장단점, Julia로 계산이 많이 필요한 부분 가속하기 등을 예시를 통해 둘러보기로 한다.",
+        "thumbnail": "https://i.ytimg.com/vi/Gsakcl2aV8s/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=Gsakcl2aV8s",
+        "original_url": "https://www.youtube.com/watch?v=Gsakcl2aV8s"
+    },
+    {
+        "index": 20,
+        "title": "로버트 예로우쉑: Load testing - PyCon Korea 2015",
+        "url": "https://www.youtube.com/watch?v=XQ4hrbgVysk",
+        "video_id": "XQ4hrbgVysk",
+        "uploader": "PyCon Korea",
+        "uploader_id": "@PyConKRtube",
+        "uploader_url": "https://www.youtube.com/@PyConKRtube",
+        "upload_date": "20160827",
+        "duration": 1513,
+        "view_count": 624,
+        "like_count": 12,
+        "comment_count": 1,
+        "tags": [
+            "pycon",
+            "pyconkr"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "Load testing using Locust.io will teach you how to start load testing using simple examples and give you the reasons and possible optimizations for your application.",
+        "thumbnail": "https://i.ytimg.com/vi_webp/XQ4hrbgVysk/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=XQ4hrbgVysk",
+        "original_url": "https://www.youtube.com/watch?v=XQ4hrbgVysk"
+    },
+    {
+        "index": 21,
+        "title": "이창욱: Introduction to Kivy - PyCon Korea 2015",
+        "url": "https://www.youtube.com/watch?v=0uaV57tT_Ho",
+        "video_id": "0uaV57tT_Ho",
+        "uploader": "PyCon Korea",
+        "uploader_id": "@PyConKRtube",
+        "uploader_url": "https://www.youtube.com/@PyConKRtube",
+        "upload_date": "20160827",
+        "duration": 2053,
+        "view_count": 783,
+        "like_count": 3,
+        "comment_count": 1,
+        "tags": [
+            "pycon",
+            "pyconkr"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "Kivy는 OpenGL기반으로 만들어진 파이썬 NUI 프레임워크입니다. Kivy는 빠른 프로토타이핑과 크로스 플랫폼 애플리케이션 개발을 가능하게 합니다.\n\n본 세션에서는 1.9.x로 버전업 하면서 더욱 쓸만해진 Kivy를 소개하고 간단한 앱을 만들어 보면서 Kivy 애플리케이션의 구성과 kv language 부터 패키징까지 다루어보고자 합니다.",
+        "thumbnail": "https://i.ytimg.com/vi_webp/0uaV57tT_Ho/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=0uaV57tT_Ho",
+        "original_url": "https://www.youtube.com/watch?v=0uaV57tT_Ho"
+    },
+    {
+        "index": 22,
+        "title": "박현우: Django in Production - PyCon Korea 2015",
+        "url": "https://www.youtube.com/watch?v=P7OnUm5KNWs",
+        "video_id": "P7OnUm5KNWs",
+        "uploader": "PyCon Korea",
+        "uploader_id": "@PyConKRtube",
+        "uploader_url": "https://www.youtube.com/@PyConKRtube",
+        "upload_date": "20160827",
+        "duration": 1440,
+        "view_count": 1449,
+        "like_count": 23,
+        "comment_count": 2,
+        "tags": [
+            "pycon",
+            "pyconkr"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "하나의 거대한 프로젝트로 개발할 것인가?\n여러 개의 프로젝트와 앱으로 쪼개서 개발할 것인가?\n\n서버를 직접 조립해서 IDC에 입고하고, 회선을 계약해서 서비스할 것인가?\nIaaS / PaaS 등 클라우드 서비스를 이용하여 서비스할 것인가?\n\n5년간 Django 기반의 모바일 서비스를 운영하며 겪은 각종 실패 사례를 공유해 봅니다.",
+        "thumbnail": "https://i.ytimg.com/vi/P7OnUm5KNWs/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=P7OnUm5KNWs",
+        "original_url": "https://www.youtube.com/watch?v=P7OnUm5KNWs"
+    },
+    {
+        "index": 23,
+        "title": "김기환: Python의 계산성능 향상을 위해 Fortran, C, CUDA-C, OpenCL-C 와 연동하기 - PyCon Korea 2015",
+        "url": "https://www.youtube.com/watch?v=a3ufXZ9L6BM",
+        "video_id": "a3ufXZ9L6BM",
+        "uploader": "PyCon Korea",
+        "uploader_id": "@PyConKRtube",
+        "uploader_url": "https://www.youtube.com/@PyConKRtube",
+        "upload_date": "20160827",
+        "duration": 2566,
+        "view_count": 2849,
+        "like_count": 38,
+        "comment_count": null,
+        "tags": [
+            "pycon",
+            "pyconkr"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "Python은 과학 계산 분야에서도 이미 널리 사용되고 있습니다. numpy와 scipy 기반으로 만들어진 많은 모듈들이 휼륭한 생태계를 이루고 있기 때문입니다. 그러나 극한의 계산 성능을 요구하는 분야(HPC, High Performance Computing)에서는 여전히 C와 Fortran으로만으로 짜여진 코드들이 선호되고 있습니다. 이런 분야에서 Python에 대한 일반적인 견해는 전처리/후처리에는 유용하지만 메인 코드에 적용하기에는 느리다라는 것입니다.\n\n이번 발표에서는 HPC 분야에서도 Python의 유용함을 보여줍니다. 계산이 집중된 부분만을 Fortran, C로 구현하여 Python 메인 코드에 접합하면, Python의 장점은 충분히 활용하면서도 계산 성능에 큰 손해는 보지 않을 수 있습니다. 게다가 CUDA-C, OpenCL-C와 연동하면 GPU, MIC와 같은 가속 프로세서들도 비교적 쉽게 활용할 수 있습니다. 이번 발표에서는 간단한 시뮬레이션 코드를 예제로 사용하여 Python 코드로부터 시작하여 Fortran, C, CUDA-C, OpenCL-C 등을 단계적으로 접합해 나가는 것을 보여줄 것입니다.",
+        "thumbnail": "https://i.ytimg.com/vi_webp/a3ufXZ9L6BM/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=a3ufXZ9L6BM",
+        "original_url": "https://www.youtube.com/watch?v=a3ufXZ9L6BM"
+    },
+    {
+        "index": 24,
+        "title": "김명신: Python 개발을 위한 최상의 무료 개발 도구 Visual Studio와 Visual Studio Code - PyCon Korea 2015",
+        "url": "https://www.youtube.com/watch?v=QzfalQn1lc0",
+        "video_id": "QzfalQn1lc0",
+        "uploader": "PyCon Korea",
+        "uploader_id": "@PyConKRtube",
+        "uploader_url": "https://www.youtube.com/@PyConKRtube",
+        "upload_date": "20160827",
+        "duration": 2490,
+        "view_count": 20063,
+        "like_count": 150,
+        "comment_count": 8,
+        "tags": [
+            "pycon",
+            "pyconkr"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "본 세션에서는 PTVS의 설치로부터 고급 디버깅 시나리오까지를 살펴보고, Windows/Linux/Mac OS를 모두 지원하는 Cross Platform 편집도구인 Visual Studio Code에 대해서도 간략하 살펴봅니다.",
+        "thumbnail": "https://i.ytimg.com/vi/QzfalQn1lc0/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=QzfalQn1lc0",
+        "original_url": "https://www.youtube.com/watch?v=QzfalQn1lc0"
+    },
+    {
+        "index": 25,
+        "title": "김현호: 오늘 당장 딥러닝 실험하기 - PyCon Korea 2015",
+        "url": "https://www.youtube.com/watch?v=j-CojQwIt70",
+        "video_id": "j-CojQwIt70",
+        "uploader": "PyCon Korea",
+        "uploader_id": "@PyConKRtube",
+        "uploader_url": "https://www.youtube.com/@PyConKRtube",
+        "upload_date": "20160827",
+        "duration": 2842,
+        "view_count": 1905,
+        "like_count": 11,
+        "comment_count": null,
+        "tags": [
+            "pycon",
+            "pyconkr"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "본 발표는 수학적인 설명을 최대한 배제하고, 오픈소스 툴인 theano, pylearn2를 활용한 예제에 대해 설명하려고 합니다. 추가로 필요할 코드들도 소개하려고 합니다.\n\n그리고 word2vec 를 활용하여, 자연어 처리에 딥러닝을 적용하는 사례를 다루려고 합니다.\n\n주제가 학문적이고 이론적이기 때문에 발표가 부담되지만, 최대한 개념적으로 설명하여 실험을 쉽게 따라 할 수 있도록 돕고자 합니다.",
+        "thumbnail": "https://i.ytimg.com/vi/j-CojQwIt70/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=j-CojQwIt70",
+        "original_url": "https://www.youtube.com/watch?v=j-CojQwIt70"
+    },
+    {
+        "index": 26,
+        "title": "이희승: 네티 13년 - PyCon Korea 2015",
+        "url": "https://www.youtube.com/watch?v=_2ZRGUegLjo",
+        "video_id": "_2ZRGUegLjo",
+        "uploader": "PyCon Korea",
+        "uploader_id": "@PyConKRtube",
+        "uploader_url": "https://www.youtube.com/@PyConKRtube",
+        "upload_date": "20160827",
+        "duration": 2306,
+        "view_count": 1851,
+        "like_count": 45,
+        "comment_count": 2,
+        "tags": [
+            "pycon",
+            "pyconkr"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "네티 프로젝트가 2001년 12월 16일 첫 릴리즈된 이후 무려 13년이 지났습니다. 그간 있었던 여러 일들을 회고하며 오픈 소스 프로젝트가 성장해 나아간다는 것은 무엇인지, 또 그것이 프로젝트 참여자에게 어떤 의미를 갖는지 보여드리고자 합니다.",
+        "thumbnail": "https://i.ytimg.com/vi/_2ZRGUegLjo/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=_2ZRGUegLjo",
+        "original_url": "https://www.youtube.com/watch?v=_2ZRGUegLjo"
+    },
+    {
+        "index": 27,
+        "title": "Ian Lewis: Building a Scalable Python gRPC Service using Kubernetes - PyCon Korea 2015",
+        "url": "https://www.youtube.com/watch?v=weQtfmt35UM",
+        "video_id": "weQtfmt35UM",
+        "uploader": "PyCon Korea",
+        "uploader_id": "@PyConKRtube",
+        "uploader_url": "https://www.youtube.com/@PyConKRtube",
+        "upload_date": "20160827",
+        "duration": 3191,
+        "view_count": 1281,
+        "like_count": 8,
+        "comment_count": 1,
+        "tags": [
+            "pycon",
+            "pyconkr"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "In this talk I will talk about how to use Python to create a scalable gRPC service and then how to actually manage and scale it using the Kubernetes cluster manager. Using Python allows you to make use of the extensive set of Python libraries publicly available. Python is a flexible language that can be very efficient when tuned properly.",
+        "thumbnail": "https://i.ytimg.com/vi_webp/weQtfmt35UM/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=weQtfmt35UM",
+        "original_url": "https://www.youtube.com/watch?v=weQtfmt35UM"
+    },
+    {
+        "index": 28,
+        "title": "하재승: 파이썬을 이용한 새 프로그래밍 언어 \"약속\"의 개발 - PyCon Korea 2015",
+        "url": "https://www.youtube.com/watch?v=SlwFilh4I3Q",
+        "video_id": "SlwFilh4I3Q",
+        "uploader": "PyCon Korea",
+        "uploader_id": "@PyConKRtube",
+        "uploader_url": "https://www.youtube.com/@PyConKRtube",
+        "upload_date": "20160827",
+        "duration": 2430,
+        "view_count": 949,
+        "like_count": 16,
+        "comment_count": 2,
+        "tags": [
+            "pycon",
+            "pyconkr"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "약속 언어는 한글 프로그래밍 언어로, 처음 프로그래밍을 접하는 사람이 큰 어려움 없이 프로그래밍에 적응하고 간단한 도구들을 만들어 쓸 수 있도록 쉽게 디자인된 언어입니다.\n\n이 발표에서는\n\n약속 언어를 소개하고,\n디자인 결정에 대해 설명하며,\n실제로 파이썬 (및 다른 도구)을 이용하여 어떻게 구현하였는지\n설명합니다.",
+        "thumbnail": "https://i.ytimg.com/vi/SlwFilh4I3Q/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=SlwFilh4I3Q",
+        "original_url": "https://www.youtube.com/watch?v=SlwFilh4I3Q"
+    },
+    {
+        "index": 29,
+        "title": "유재명: R vs. Python: 누가, 언제, 왜 - PyCon Korea 2015",
+        "url": "https://www.youtube.com/watch?v=PidYJgS1AOg",
+        "video_id": "PidYJgS1AOg",
+        "uploader": "PyCon Korea",
+        "uploader_id": "@PyConKRtube",
+        "uploader_url": "https://www.youtube.com/@PyConKRtube",
+        "upload_date": "20160827",
+        "duration": 2593,
+        "view_count": 3327,
+        "like_count": 23,
+        "comment_count": 1,
+        "tags": [
+            "pycon",
+            "pyconkr"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "데이터 분석에 쓰이는 대표적인 프로그래밍 언어로 R과 Python이 있습니다. 이 발표에서는 두 언어의 장단점을 비교해보고 Python이 더 나은 선택일 수 있는 조건과 상황을 소개합니다. 또한 Python을 이용한 데이터 분석을 할 때 알아두어야 할 점들을 살펴봅니다.",
+        "thumbnail": "https://i.ytimg.com/vi/PidYJgS1AOg/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=PidYJgS1AOg",
+        "original_url": "https://www.youtube.com/watch?v=PidYJgS1AOg"
+    },
+    {
+        "index": 30,
+        "title": "유재명: Pay-thon: 2015 파이썬 사용자 조사 결과 분석 - PyCon Korea 2015",
+        "url": "https://www.youtube.com/watch?v=1tRcaIzXlYo",
+        "video_id": "1tRcaIzXlYo",
+        "uploader": "PyCon Korea",
+        "uploader_id": "@PyConKRtube",
+        "uploader_url": "https://www.youtube.com/@PyConKRtube",
+        "upload_date": "20160827",
+        "duration": 1734,
+        "view_count": 108,
+        "like_count": 0,
+        "comment_count": null,
+        "tags": [
+            "pycon",
+            "pyconkr"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "facebook에서 실시간으로 받은 사용자 조사 결과를 발표합니다.",
+        "thumbnail": "https://i.ytimg.com/vi_webp/1tRcaIzXlYo/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=1tRcaIzXlYo",
+        "original_url": "https://www.youtube.com/watch?v=1tRcaIzXlYo"
+    },
+    {
+        "index": 31,
+        "title": "정민영: Celery의 빛과 그림자 - PyCon Korea 2015",
+        "url": "https://www.youtube.com/watch?v=3C8gBRhtkHk",
+        "video_id": "3C8gBRhtkHk",
+        "uploader": "PyCon Korea",
+        "uploader_id": "@PyConKRtube",
+        "uploader_url": "https://www.youtube.com/@PyConKRtube",
+        "upload_date": "20160827",
+        "duration": 2270,
+        "view_count": 2142,
+        "like_count": 60,
+        "comment_count": 7,
+        "tags": [
+            "pycon",
+            "pyconkr"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "서비스를 만들면서 피할 수 없는 주제 중 한가지가 바로 비동기 처리입니다. 무겁고 오래 걸리는 일에 대한 처리뿐 아니라, 주기적으로 수행해야 하는 일까지 대부분 서비스에 반드시 라고 할 만큼 겪게 되는 문제죠. Python을 쓰는 우리에게는 물론 싱싱하고 훌륭한 해법인 Celery가 있습니다. 요구되는 거의 모든 기능을 제공할 뿐만 아니라, 유연하게 설계되어 있고 관리툴 같은 부가 기능까지, 비동기에 관련된 모든 부분을 책임져주죠.\n\n하지만 Celery에 이런 빛과 같은 아름다움만 존재하는 것은 아닙니다. 싱싱한 채소를 맛있게 먹기 위해서는 몇 가지 공부가 필요한 것처럼, 때로는 Celery의 의아스러운 점을 잘 다루고, 우리의 서비스에 맞게 이용하기 위해서는 몇 가지 알아야 할 점이 있습니다. 지난 1년여간 최대 1만 건/초의 요청을 Celery로 처리하면서 제가 얻은 경험을 나누고자 합니다.",
+        "thumbnail": "https://i.ytimg.com/vi_webp/3C8gBRhtkHk/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=3C8gBRhtkHk",
+        "original_url": "https://www.youtube.com/watch?v=3C8gBRhtkHk"
+    },
+    {
+        "index": 32,
+        "title": "김재석: 도도와 파이썬: 좋은 선택과 나쁜 선택 - PyCon Korea 2015",
+        "url": "https://www.youtube.com/watch?v=LDRG91IACIs",
+        "video_id": "LDRG91IACIs",
+        "uploader": "PyCon Korea",
+        "uploader_id": "@PyConKRtube",
+        "uploader_url": "https://www.youtube.com/@PyConKRtube",
+        "upload_date": "20160827",
+        "duration": 2255,
+        "view_count": 818,
+        "like_count": 9,
+        "comment_count": null,
+        "tags": [
+            "pycon",
+            "pyconkr"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "본 발표에서는 3년 이상의 기간동안 도도 포인트를 개발하면서 했던 많은 기술적인 선택들을 회고합니다. 어떤 선택은 적합한 타이밍이었으며, 어떤 선택은 너무 이른 선택이었고, 어떤 선택은 아예 잘못된 결정이었습니다. 특히 저희에게 큰 영향을 끼친 대표적인 선택들을 공유함으로써, 다음과 같은 주제에 관심있는 분들께 좋은 참고가 될 것으로 기대합니다.",
+        "thumbnail": "https://i.ytimg.com/vi/LDRG91IACIs/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=LDRG91IACIs",
+        "original_url": "https://www.youtube.com/watch?v=LDRG91IACIs"
+    },
+    {
+        "index": 33,
+        "title": "PyCon KR 2015 Lighting Talk 2nd day 라이트닝 토크 둘째날 20150830",
+        "url": "https://www.youtube.com/watch?v=HgSkp2UM9d8",
+        "video_id": "HgSkp2UM9d8",
+        "uploader": "PyCon Korea",
+        "uploader_id": "@PyConKRtube",
+        "uploader_url": "https://www.youtube.com/@PyConKRtube",
+        "upload_date": "20160926",
+        "duration": 3342,
+        "view_count": 190,
+        "like_count": 4,
+        "comment_count": 1,
+        "tags": [],
+        "categories": [
+            "Education"
+        ],
+        "description": "",
+        "thumbnail": "https://i.ytimg.com/vi/HgSkp2UM9d8/maxresdefault.jpg",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=HgSkp2UM9d8",
+        "original_url": "https://www.youtube.com/watch?v=HgSkp2UM9d8"
+    },
+    {
+        "index": 34,
+        "title": "정윤원: PyPy/RPython으로 20배 빨라지는 JIT 아희 인터프리터 - PyCon Korea 2015",
+        "url": "https://www.youtube.com/watch?v=x6fDrhZn-i4",
+        "video_id": "x6fDrhZn-i4",
+        "uploader": "PyCon Korea",
+        "uploader_id": "@PyConKRtube",
+        "uploader_url": "https://www.youtube.com/@PyConKRtube",
+        "upload_date": "20160827",
+        "duration": 1992,
+        "view_count": 1625,
+        "like_count": 22,
+        "comment_count": 2,
+        "tags": [
+            "pycon",
+            "pyconkr"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "PyPy/RPython으로 20배 빨라지는 JIT 아희 인터프리터\n\nPyPy가 CPython보다 몇 배씩이나 빠르다는 이야기, 써보며 체감하는 분도 많고 소문은 더 많이 나 있습니다. PyPy에서 인터프리터를 구현하기 위해 사용하는 기술을 살펴보고, 같은 방법으로 아희 인터프리터를 구현해 보며 그 편리함과 뛰어난 성능을 살펴 봅시다.",
+        "thumbnail": "https://i.ytimg.com/vi_webp/x6fDrhZn-i4/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=x6fDrhZn-i4",
+        "original_url": "https://www.youtube.com/watch?v=x6fDrhZn-i4"
+    },
+    {
+        "index": 35,
+        "title": "김영근: 개회사 (둘째 날) - PyCon Korea 2015",
+        "url": "https://www.youtube.com/watch?v=AXr-bKNTpMM",
+        "video_id": "AXr-bKNTpMM",
+        "uploader": "PyCon Korea",
+        "uploader_id": "@PyConKRtube",
+        "uploader_url": "https://www.youtube.com/@PyConKRtube",
+        "upload_date": "20160827",
+        "duration": 319,
+        "view_count": 52,
+        "like_count": 0,
+        "comment_count": null,
+        "tags": [
+            "pycon",
+            "pyconkr"
+        ],
+        "categories": [
+            "Education"
+        ],
+        "description": "",
+        "thumbnail": "https://i.ytimg.com/vi_webp/AXr-bKNTpMM/maxresdefault.webp",
+        "age_limit": 0,
+        "is_live": false,
+        "was_live": false,
+        "availability": "public",
+        "webpage_url": "https://www.youtube.com/watch?v=AXr-bKNTpMM",
+        "original_url": "https://www.youtube.com/watch?v=AXr-bKNTpMM"
+    }
+]
