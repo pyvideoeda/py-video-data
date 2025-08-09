@@ -1,4 +1,4 @@
-# Pycon Korea
+# PyCon Korea
 
 - PyCon.KR 2024: https://www.youtube.com/playlist?list=PLZPhyNeJvHRldfheI6KcgektEiXAIPJaY
 - PyCon.KR 2023: https://www.youtube.com/playlist?list=PLZPhyNeJvHRllQiXsJAryqWmqWrwFxY8I
